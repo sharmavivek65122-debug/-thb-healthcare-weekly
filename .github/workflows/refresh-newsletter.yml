@@ -1,7 +1,7 @@
 name: Refresh THB Newsletter
 
 permissions:
-  contents: read
+  contents: write
 
 concurrency:
   group: thb-newsletter-refresh
@@ -22,6 +22,9 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          ref: ${{ github.ref_name }}
 
       - name: Setup Node
         uses: actions/setup-node@v4
@@ -50,6 +53,24 @@ jobs:
         if: always()
         run: node ./scripts/write-refresh-summary.mjs
 
+      - name: Commit newsletter refresh changes
+        id: commit_refresh
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/ newsletter/issues/ data/site-manifest.json
+
+          if git diff --cached --quiet; then
+            echo "has_changes=false" >> "$GITHUB_OUTPUT"
+            echo "No newsletter content changes to commit."
+            exit 0
+          fi
+
+          issue_key=$(node -e "const fs=require('fs'); const index=JSON.parse(fs.readFileSync('data/issues/index.json','utf8')); console.log(index.latestIssueKey || 'newsletter');")
+          git commit -m "Auto-refresh newsletter for ${issue_key}"
+          git push origin "HEAD:${GITHUB_REF_NAME}"
+          echo "has_changes=true" >> "$GITHUB_OUTPUT"
+
       - name: Upload refresh artifacts
         if: always()
         uses: actions/upload-artifact@v4
@@ -73,6 +94,7 @@ jobs:
           test -n "$CLOUDFLARE_ACCOUNT_ID" || (echo "::error::Missing CLOUDFLARE_ACCOUNT_ID secret" && exit 1)
 
       - name: Deploy to Cloudflare Pages
+        if: steps.commit_refresh.outputs.has_changes == 'true' || github.event_name == 'workflow_dispatch'
         run: npx wrangler pages deploy dist --project-name thb-weekly-newsletter --commit-dirty=true
         env:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
