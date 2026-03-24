@@ -1,35 +1,114 @@
 {
-    "key":  "2026-03-22",
-    "issueNumber":  7,
-    "rangeLabel":  "Mar 22 - Mar 28, 2026",
-    "startDate":  "2026-03-21T18:30:00.000Z",
-    "endDate":  "2026-03-27T18:30:00.000Z",
-    "status":  "live",
-    "updatedAt":  "2026-03-22T00:00:00.000Z",
-    "coverage":  {
-                     "pharma":  0,
-                     "providers":  0,
-                     "diagnostics":  0,
-                     "healthtech":  0
-                 },
-    "sourcesUsed":  [
-
-                    ],
-    "segments":  {
-                     "pharma":  [
-
-                                ],
-                     "providers":  [
-
-                                   ],
-                     "diagnostics":  [
-
-                                     ],
-                     "healthtech":  [
-
-                                    ]
-                 },
-    "thbActions":  [
-
-                   ]
+  "key": "2026-03-22",
+  "issueNumber": 7,
+  "rangeLabel": "Mar 22 - Mar 28, 2026",
+  "startDate": "2026-03-21T18:30:00.000Z",
+  "endDate": "2026-03-27T18:30:00.000Z",
+  "status": "live",
+  "updatedAt": "2026-03-24T00:00:00.000Z",
+  "coverage": {
+    "pharma": 2,
+    "providers": 2,
+    "diagnostics": 1,
+    "healthtech": 0
+  },
+  "sourcesUsed": [
+    "The Economic Times",
+    "Times of India"
+  ],
+  "segments": {
+    "pharma": [
+      {
+        "id": "2026-03-22-india-tightens-grip-on-glp-1-supply-chain",
+        "title": "India tightens grip on GLP-1 supply chain amid misuse concerns, expands crackdown on unapproved drugs",
+        "summary": "India's drug regulator has intensified surveillance of GLP-1 weight-loss drug distribution amid concerns around unauthorised sales and misuse. The move broadens a parallel crackdown on unapproved medicines and raises the compliance bar for pharma companies operating in high-demand therapy categories.",
+        "source": "The Economic Times",
+        "sourceHost": "m.economictimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-03-24T04:44:06.000Z",
+        "publishedLabel": "March 24, 2026",
+        "category": "Pharma",
+        "image": "",
+        "thbAction": "Position THB's HCP omnichannel engagement, Rep GPT, Doctor 360, and compliant content management workflows to support responsible therapy education and more controlled field communication.",
+        "justIn": true,
+        "originalUrl": "https://m.economictimes.com/industry/healthcare/biotech/pharmaceuticals/india-tightens-grip-on-glp-1-supply-chain-amid-misuse-concerns-expands-crackdown-on-unapproved-drugs/articleshow/129767207.cms",
+        "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-india-tightens-grip-on-glp-1-supply-chain"
+      },
+      {
+        "id": "2026-03-22-indias-drug-regulator-flags-90-unapproved-fdcs",
+        "title": "India's drug regulator flags 90 unapproved FDCs, directs states to take action",
+        "summary": "India's drug regulator has flagged at least 90 unapproved fixed-dose combination drugs and directed states to act against their manufacturers, marketers, and distributors. The enforcement step underscores rising regulatory scrutiny on portfolio quality, approvals, and downstream market compliance.",
+        "source": "The Economic Times",
+        "sourceHost": "m.economictimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-03-22T18:38:19.000Z",
+        "publishedLabel": "March 23, 2026",
+        "category": "Pharma",
+        "image": "",
+        "thbAction": "Position THB's HCP digital engagement, rep nudges, and content governance capabilities to help pharma teams communicate approved use, quality messaging, and compliance updates more effectively.",
+        "justIn": true,
+        "originalUrl": "https://m.economictimes.com/industry/healthcare/biotech/pharmaceuticals/indias-drug-regulator-flags-90-unapproved-fdcs-directs-states-to-take-action/articleshow/129737576.cms",
+        "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-indias-drug-regulator-flags-90-unapproved-fdcs"
+      }
+    ],
+    "providers": [
+      {
+        "id": "2026-03-22-360-one-to-finance-aims-founders-stake-buyback",
+        "title": "360 ONE to finance AIMS founder's stake buyback",
+        "summary": "360 ONE Asset is set to back AIMS founder Narendra Pandey as he seeks to buy back the 49 per cent stake held by private equity investors in the Faridabad hospital. The transaction signals continued investor interest in hospital ownership restructuring and capacity-led provider consolidation in India.",
+        "source": "The Economic Times",
+        "sourceHost": "m.economictimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-03-22T18:50:31.000Z",
+        "publishedLabel": "March 23, 2026",
+        "category": "Hospitals",
+        "image": "",
+        "thbAction": "Position THB's hospital CRM, digital front door, and analytics stack to strengthen patient retention, referral visibility, and growth planning as provider networks change ownership or scale operations.",
+        "justIn": true,
+        "originalUrl": "https://m.economictimes.com/industry/healthcare/biotech/healthcare/360-one-to-finance-aims-founders-stake-buyback/articleshow/129737838.cms",
+        "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-360-one-to-finance-aims-founders-stake-buyback"
+      },
+      {
+        "id": "2026-03-22-new-critical-care-block-at-mims",
+        "title": "New critical care block at MIMS to provide specialised care",
+        "summary": "Mandya Institute of Medical Sciences is adding a 50-bed critical care block with ICUs, isolation wards, operating theatres, oxygen systems, and dialysis wards to improve emergency and specialty care. The expansion is designed to reduce tertiary transfers and strengthen round-the-clock acute care capacity for the district and nearby regions.",
+        "source": "Times of India",
+        "sourceHost": "timesofindia.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-03-24T00:00:00.000Z",
+        "publishedLabel": "March 24, 2026",
+        "category": "Hospitals",
+        "image": "",
+        "thbAction": "Align THB's care coordinator CRM, operational pathways, and clinical intelligence layer to support critical-care referrals, discharge follow-up, and service-line growth for expanding hospital systems.",
+        "justIn": true,
+        "originalUrl": "https://timesofindia.indiatimes.com/city/mysuru/new-critical-care-block-at-mims-to-provide-specialised-care/articleshow/117178733.cms",
+        "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-new-critical-care-block-at-mims"
+      }
+    ],
+    "diagnostics": [
+      {
+        "id": "2026-03-22-silent-epidemic-60-ckd-patients-unaware",
+        "title": "Silent epidemic: 60% CKD patients unaware of their condition, finds study",
+        "summary": "A pilot study in Andhra Pradesh found that nearly 60 per cent of screened individuals had chronic kidney disease, while awareness remained extremely low in both urban and rural cohorts. The findings support broader CKD screening using point-of-care diagnostics and digital workflows to improve early detection and referral outcomes.",
+        "source": "Times of India",
+        "sourceHost": "timesofindia.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-03-22T18:11:00.000Z",
+        "publishedLabel": "March 22, 2026",
+        "category": "Diagnostics",
+        "image": "",
+        "thbAction": "Position THB's diagnostics CRM, disease management nudging, and analytics suite to drive screening conversion, follow-up compliance, and referral orchestration for chronic disease testing programmes.",
+        "justIn": true,
+        "originalUrl": "https://timesofindia.indiatimes.com/city/vijayawada/silent-epidemic-60-ckd-patients-unaware-of-their-condition-finds-study/articleshow/129736697.cms",
+        "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-silent-epidemic-60-ckd-patients-unaware"
+      }
+    ],
+    "healthtech": []
+  },
+  "thbActions": []
 }

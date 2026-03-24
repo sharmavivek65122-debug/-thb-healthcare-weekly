@@ -1,0 +1,304 @@
+{
+  "batch": 98,
+  "timestamp": "2026-03-24T12:11:21.551Z",
+  "sourceWorkbookPath": "C:\\Users\\VivekSharma\\OneDrive - THB c o Sekhmet Technologies Private Limited\\Documents\\New project\\data\\Middle_East_Hospitals_Deduped_WebMapped.batch16.backup.xlsx",
+  "workbookPath": "C:\\Users\\VivekSharma\\OneDrive - THB c o Sekhmet Technologies Private Limited\\Documents\\New project\\data\\tmp-city-test\\batch17-output.xlsx",
+  "rowsBefore": 561,
+  "rowsAfter": 561,
+  "removedDuplicateRows": 0,
+  "duplicateGroupsBefore": 0,
+  "duplicateGroupsAfter": 0,
+  "cityBlanksBefore": 222,
+  "cityBlanksAfter": 222,
+  "cityUpdatesCount": 0,
+  "cityUpdates": [],
+  "skippedMappings": [
+    {
+      "name": "Al Dhafra Hospitals",
+      "country": "UAE",
+      "excelRow": 26,
+      "reason": "already_has_city",
+      "currentCity": "Madinat Zayed"
+    },
+    {
+      "name": "Al Garhoud Private Hospital",
+      "country": "UAE",
+      "excelRow": 33,
+      "reason": "already_has_city",
+      "currentCity": "Dubai"
+    },
+    {
+      "name": "Al Mouwasat Medical Services",
+      "country": "Saudi Arabia",
+      "excelRow": 53,
+      "reason": "already_has_city",
+      "currentCity": "Dammam"
+    },
+    {
+      "name": "Al Salam Hospital",
+      "country": "Saudi Arabia",
+      "excelRow": 63,
+      "reason": "already_has_city",
+      "currentCity": "Al Khobar"
+    },
+    {
+      "name": "Aldara Hospital",
+      "country": "Saudi Arabia",
+      "excelRow": 79,
+      "reason": "already_has_city",
+      "currentCity": "Riyadh"
+    },
+    {
+      "name": "Amana Healthcare",
+      "country": "UAE",
+      "excelRow": 109,
+      "reason": "already_has_city",
+      "currentCity": "Abu Dhabi"
+    },
+    {
+      "name": "Aster DM Healthcare",
+      "country": "UAE",
+      "excelRow": 135,
+      "reason": "already_has_city",
+      "currentCity": "Dubai"
+    },
+    {
+      "name": "Behman Psychiatric Hospital",
+      "country": "Egypt",
+      "excelRow": 150,
+      "reason": "already_has_city",
+      "currentCity": "Cairo"
+    },
+    {
+      "name": "Bupa Arabia",
+      "country": "Saudi Arabia",
+      "excelRow": 159,
+      "reason": "already_has_city",
+      "currentCity": "Jeddah"
+    },
+    {
+      "name": "Capital Health - Mubadala",
+      "country": "UAE",
+      "excelRow": 167,
+      "reason": "already_has_city",
+      "currentCity": "Abu Dhabi"
+    },
+    {
+      "name": "Capital Health Screening Centre",
+      "country": "UAE",
+      "excelRow": 168,
+      "reason": "already_has_city",
+      "currentCity": "Abu Dhabi"
+    },
+    {
+      "name": "dallah hospital(health)",
+      "country": "Saudi Arabia",
+      "excelRow": 184,
+      "reason": "already_has_city",
+      "currentCity": "Riyadh"
+    },
+    {
+      "name": "Dar Al Kamal Hospital",
+      "country": "UAE",
+      "excelRow": 192,
+      "reason": "already_has_city",
+      "currentCity": "Sharjah"
+    },
+    {
+      "name": "Dr. Abanamy Hospital",
+      "country": "Saudi Arabia",
+      "excelRow": 202,
+      "reason": "already_has_city",
+      "currentCity": "Riyadh"
+    },
+    {
+      "name": "Dr. Mohammad Alfagih Hospital",
+      "country": "Saudi Arabia",
+      "excelRow": 212,
+      "reason": "already_has_city",
+      "currentCity": "Riyadh"
+    },
+    {
+      "name": "Dr. Mohd Al Fagih",
+      "country": "Saudi Arabia",
+      "excelRow": 213,
+      "reason": "already_has_city",
+      "currentCity": "Riyadh"
+    },
+    {
+      "name": "Dr. Suleiman Fakeeh Hospital",
+      "country": "Saudi Arabia",
+      "excelRow": 218,
+      "reason": "already_has_city",
+      "currentCity": "Jeddah"
+    },
+    {
+      "name": "Emirates European Hospital",
+      "country": "UAE",
+      "excelRow": 229,
+      "reason": "already_has_city",
+      "currentCity": "Sharjah"
+    },
+    {
+      "name": "Emirates Specialty Hospital",
+      "country": "UAE",
+      "excelRow": 233,
+      "reason": "already_has_city",
+      "currentCity": "Dubai"
+    },
+    {
+      "name": "Erfan Hospital",
+      "country": "Saudi Arabia",
+      "excelRow": 235,
+      "reason": "already_has_city",
+      "currentCity": "Jeddah"
+    },
+    {
+      "name": "King's College Hospital KSA",
+      "country": "Saudi Arabia",
+      "excelRow": 331,
+      "reason": "already_has_city",
+      "currentCity": "Jeddah"
+    },
+    {
+      "name": "Lifecare Hospital L.L.C.",
+      "country": "UAE",
+      "excelRow": 343,
+      "reason": "already_has_city",
+      "currentCity": "Abu Dhabi"
+    },
+    {
+      "name": "Lifeline hospital",
+      "country": "Oman",
+      "excelRow": 345,
+      "reason": "already_has_city",
+      "currentCity": "Sohar"
+    },
+    {
+      "name": "M42 Health",
+      "country": "UAE",
+      "excelRow": 348,
+      "reason": "already_has_city",
+      "currentCity": "Abu Dhabi"
+    },
+    {
+      "name": "Malaffi",
+      "country": "UAE",
+      "excelRow": 353,
+      "reason": "already_has_city",
+      "currentCity": "Abu Dhabi"
+    },
+    {
+      "name": "Mohammad Dossary Hospital",
+      "country": "Saudi Arabia",
+      "excelRow": 384,
+      "reason": "already_has_city",
+      "currentCity": "Al Khobar"
+    },
+    {
+      "name": "Mubadala Health",
+      "country": "UAE",
+      "excelRow": 390,
+      "reason": "already_has_city",
+      "currentCity": "Abu Dhabi"
+    },
+    {
+      "name": "NMC",
+      "country": "UAE",
+      "excelRow": 416,
+      "reason": "already_has_city",
+      "currentCity": "Abu Dhabi"
+    },
+    {
+      "name": "NMC Health",
+      "country": "UAE",
+      "excelRow": 417,
+      "reason": "already_has_city",
+      "currentCity": "Abu Dhabi"
+    },
+    {
+      "name": "NMC Health PLC",
+      "country": "UAE",
+      "excelRow": 418,
+      "reason": "already_has_city",
+      "currentCity": "Abu Dhabi"
+    },
+    {
+      "name": "NMC Healthcare",
+      "country": "UAE",
+      "excelRow": 419,
+      "reason": "already_has_city",
+      "currentCity": "Abu Dhabi"
+    },
+    {
+      "name": "Oriana Hospital",
+      "country": "UAE",
+      "excelRow": 430,
+      "reason": "already_has_city",
+      "currentCity": "Sharjah"
+    },
+    {
+      "name": "Prince Fahd Bin Sultan Hospital",
+      "country": "Saudi Arabia",
+      "excelRow": 441,
+      "reason": "already_has_city",
+      "currentCity": "Tabuk"
+    },
+    {
+      "name": "Procare Riaya Hospital",
+      "country": "Saudi Arabia",
+      "excelRow": 444,
+      "reason": "already_has_city",
+      "currentCity": "Al Khobar"
+    },
+    {
+      "name": "PureHealth",
+      "country": "UAE",
+      "excelRow": 451,
+      "reason": "already_has_city",
+      "currentCity": "Abu Dhabi"
+    },
+    {
+      "name": "Salma Hospital",
+      "country": "UAE",
+      "excelRow": 476,
+      "reason": "already_has_city",
+      "currentCity": "Abu Dhabi"
+    },
+    {
+      "name": "Sultan Bin Abdulaziz Humanitarian City (SBAHC)",
+      "country": "Saudi Arabia",
+      "excelRow": 511,
+      "reason": "already_has_city",
+      "currentCity": "Riyadh"
+    },
+    {
+      "name": "Thumbay Hospital",
+      "country": "UAE",
+      "excelRow": 533,
+      "reason": "already_has_city",
+      "currentCity": "Ajman"
+    },
+    {
+      "name": "UEMedical",
+      "country": "UAE",
+      "excelRow": 539,
+      "reason": "already_has_city",
+      "currentCity": "Abu Dhabi"
+    },
+    {
+      "name": "Valiant Clinic and Hospital",
+      "country": "UAE",
+      "excelRow": 542,
+      "reason": "already_has_city",
+      "currentCity": "Dubai"
+    },
+    {
+      "name": "Al-Qassim National Hospital",
+      "country": "Saudi Arabia",
+      "excelRow": 98,
+      "reason": "already_has_city",
+      "currentCity": "Buraidah"
+    }
+  ]
+}
