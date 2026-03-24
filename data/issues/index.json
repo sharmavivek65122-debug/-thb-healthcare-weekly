@@ -1,90 +1,90 @@
 {
-    "updatedAt":  "2026-03-24T00:00:00.000Z",
-    "latestIssueKey":  "2026-03-22",
-    "issues":  [
-                   {
-                       "key":  "2026-02-08",
-                       "issueNumber":  1,
-                       "rangeLabel":  "Feb 8 - Feb 14, 2026",
-                       "status":  "published",
-                       "coverage":  {
-                                        "pharma":  1,
-                                        "providers":  3,
-                                        "diagnostics":  3,
-                                        "healthtech":  0
-                                    }
-                   },
-                   {
-                       "key":  "2026-02-15",
-                       "issueNumber":  2,
-                       "rangeLabel":  "Feb 15 - Feb 21, 2026",
-                       "status":  "published",
-                       "coverage":  {
-                                        "pharma":  3,
-                                        "providers":  5,
-                                        "diagnostics":  2,
-                                        "healthtech":  0
-                                    }
-                   },
-                   {
-                       "key":  "2026-02-22",
-                       "issueNumber":  3,
-                       "rangeLabel":  "Feb 22 - Feb 28, 2026",
-                       "status":  "published",
-                       "coverage":  {
-                                        "pharma":  6,
-                                        "providers":  6,
-                                        "diagnostics":  3,
-                                        "healthtech":  0
-                                    }
-                   },
-                   {
-                       "key":  "2026-03-01",
-                       "issueNumber":  4,
-                       "rangeLabel":  "Mar 1 - Mar 7, 2026",
-                       "status":  "published",
-                       "coverage":  {
-                                        "pharma":  10,
-                                        "providers":  3,
-                                        "diagnostics":  3,
-                                        "healthtech":  0
-                                    }
-                   },
-                   {
-                       "key":  "2026-03-08",
-                       "issueNumber":  5,
-                       "rangeLabel":  "Mar 8 - Mar 14, 2026",
-                       "status":  "published",
-                       "coverage":  {
-                                        "pharma":  4,
-                                        "providers":  10,
-                                        "diagnostics":  0,
-                                        "healthtech":  0
-                                    }
-                   },
-                   {
-                       "key":  "2026-03-15",
-                       "issueNumber":  6,
-                       "rangeLabel":  "Mar 15 - Mar 21, 2026",
-                       "status":  "published",
-                       "coverage":  {
-                                        "pharma":  46,
-                                        "providers":  11,
-                                        "diagnostics":  9,
-                                        "healthtech":  2
-                                    }
-                   },
-                   {
-                       "key":  "2026-03-22",
-                       "issueNumber":  7,
-                       "rangeLabel":  "Mar 22 - Mar 28, 2026",
-                       "status":  "live",
-                       "coverage":  {
-                                        "pharma":  2,
-                                        "providers":  2,
-                                        "diagnostics":  1,
-                                        "healthtech":  0
-                                    }
-                   }
-               ]
+  "updatedAt": "2026-03-24T14:42:07.910Z",
+  "latestIssueKey": "2026-03-22",
+  "issues": [
+    {
+      "key": "2026-02-08",
+      "issueNumber": 1,
+      "rangeLabel": "Feb 8 - Feb 14, 2026",
+      "status": "published",
+      "coverage": {
+        "pharma": 1,
+        "providers": 4,
+        "diagnostics": 3,
+        "healthtech": 0
+      }
+    },
+    {
+      "key": "2026-02-15",
+      "issueNumber": 2,
+      "rangeLabel": "Feb 15 - Feb 21, 2026",
+      "status": "published",
+      "coverage": {
+        "pharma": 3,
+        "providers": 5,
+        "diagnostics": 2,
+        "healthtech": 0
+      }
+    },
+    {
+      "key": "2026-02-22",
+      "issueNumber": 3,
+      "rangeLabel": "Feb 22 - Feb 28, 2026",
+      "status": "published",
+      "coverage": {
+        "pharma": 6,
+        "providers": 6,
+        "diagnostics": 3,
+        "healthtech": 0
+      }
+    },
+    {
+      "key": "2026-03-01",
+      "issueNumber": 4,
+      "rangeLabel": "Mar 1 - Mar 7, 2026",
+      "status": "published",
+      "coverage": {
+        "pharma": 10,
+        "providers": 4,
+        "diagnostics": 5,
+        "healthtech": 0
+      }
+    },
+    {
+      "key": "2026-03-08",
+      "issueNumber": 5,
+      "rangeLabel": "Mar 8 - Mar 14, 2026",
+      "status": "published",
+      "coverage": {
+        "pharma": 1,
+        "providers": 11,
+        "diagnostics": 0,
+        "healthtech": 0
+      }
+    },
+    {
+      "key": "2026-03-15",
+      "issueNumber": 6,
+      "rangeLabel": "Mar 15 - Mar 21, 2026",
+      "status": "published",
+      "coverage": {
+        "pharma": 21,
+        "providers": 7,
+        "diagnostics": 7,
+        "healthtech": 0
+      }
+    },
+    {
+      "key": "2026-03-22",
+      "issueNumber": 7,
+      "rangeLabel": "Mar 22 - Mar 28, 2026",
+      "status": "live",
+      "coverage": {
+        "pharma": 45,
+        "providers": 8,
+        "diagnostics": 4,
+        "healthtech": 0
+      }
+    }
+  ]
 }

@@ -1,202 +1,232 @@
 {
-    "key":  "2026-02-08",
-    "issueNumber":  1,
-    "rangeLabel":  "Feb 8 - Feb 14, 2026",
-    "startDate":  "2026-02-08T00:00:00.000Z",
-    "endDate":  "2026-02-14T00:00:00.000Z",
-    "status":  "published",
-    "updatedAt":  "2026-03-21T09:28:13.983Z",
-    "coverage":  {
-                     "pharma":  1,
-                     "providers":  3,
-                     "diagnostics":  3,
-                     "healthtech":  0
-                 },
-    "sourcesUsed":  [
-                        "ET Healthworld Diagnostics",
-                        "ET Healthworld Hospitals",
-                        "Financial Express Healthcare",
-                        "Lupin Updates"
-                    ],
-    "segments":  {
-                     "pharma":  [
-                                    {
-                                        "id":  "2026-02-08-stocks-in-news-titan-bse-kotak-mahindra-bank-marico-tata-motors-pv",
-                                        "title":  "Stocks in news: Titan, BSE, Kotak Mahindra Bank, Marico, Tata Motors PV",
-                                        "summary":  "Markets rallied on Monday, buoyed by global optimism and a potential India-US trade framework, with analysts eyeing a Nifty retest of 26,000. Several companies, including Titan and BSE, are in focus due to Q3 results and significant corporate developments....",
-                                        "source":  "Lupin Updates",
-                                        "sourceHost":  "economictimes.indiatimes.com",
-                                        "region":  "India",
-                                        "country":  "India",
-                                        "publishedAt":  "2026-02-10T01:02:00.000Z",
-                                        "publishedLabel":  "February 10, 2026",
-                                        "category":  "Market",
-                                        "image":  "https://img.etimg.com/thumb/msid-128136113,width-1200,height-630,imgsize-54812,overlay-etmarkets/articleshow.jpg",
-                                        "thbAction":  "Use the article as an entry point to pitch THB\u0027s commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-                                        "originalUrl":  "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-titan-bse-kotak-mahindra-bank-marico-tata-motors-pv/articleshow/128136130.cms",
-                                        "articlePath":  "/article.html?issue=2026-02-08\u0026article=2026-02-08-stocks-in-news-titan-bse-kotak-mahindra-bank-marico-tata-motors-pv"
-                                    }
-                                ],
-                     "providers":  [
-                                       {
-                                           "id":  "2026-02-08-ihh-healthcare-fortis-launch-ihh-catalyst-to-boost-healthcare-innovation",
-                                           "title":  "IHH Healthcare, Fortis Launch ‘IHH Catalyst’ to Boost Healthcare Innovation in India",
-                                           "summary":  "The platform is designed to help health-tech and med-tech startups move beyond pilot projects and proof-of-concept stages to real-world clinical validation and scalable implementation within hospital systems.",
-                                           "source":  "ET Healthworld Hospitals",
-                                           "sourceHost":  "health.economictimes.indiatimes.com",
-                                           "region":  "India",
-                                           "country":  "India",
-                                           "publishedAt":  "2026-02-11T09:33:23.000Z",
-                                           "publishedLabel":  "February 11, 2026",
-                                           "category":  "Hospital",
-                                           "image":  "https://etimg.etb2bimg.com/thumb/msid-128199619,imgsize-775819,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/ihh-healthcare-fortis-launch-ihh-catalyst-to-boost-healthcare-innovation-in-india.jpg",
-                                           "thbAction":  "Map the news to THB\u0027s provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-                                           "originalUrl":  "https://health.economictimes.indiatimes.com/news/hospitals/ihh-healthcare-fortis-launch-ihh-catalyst-to-boost-healthcare-innovation-in-india/128199619",
-                                           "articlePath":  "/article.html?issue=2026-02-08\u0026article=2026-02-08-ihh-healthcare-fortis-launch-ihh-catalyst-to-boost-healthcare-innovation"
-                                       },
-                                       {
-                                           "id":  "2026-02-08-apollo-hospitals-q3-results-profit-rises-35-yoy-to-rs-502-crore-rs-10-pe",
-                                           "title":  "Apollo Hospitals Q3 Results: Profit rises 35% YoY to Rs 502 crore; Rs 10 per share dividend declared",
-                                           "summary":  "Profit after tax from the business stood at Rs 422 crore, up 21% from Rs 348 crore a year earlier, supported by higher occupancy levels, better case mix and cost efficiencies.",
-                                           "source":  "ET Healthworld Hospitals",
-                                           "sourceHost":  "health.economictimes.indiatimes.com",
-                                           "region":  "India",
-                                           "country":  "India",
-                                           "publishedAt":  "2026-02-11T02:04:00.000Z",
-                                           "publishedLabel":  "February 11, 2026",
-                                           "category":  "Hospital",
-                                           "image":  "https://etimg.etb2bimg.com/thumb/msid-128183694,imgsize-672671,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/apollo-hospitals-q3-results-profit-rises-35-yoy-to-rs-502-crore-rs-10-per-share-dividend-declared.jpg",
-                                           "thbAction":  "Map the news to THB\u0027s provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-                                           "originalUrl":  "https://health.economictimes.indiatimes.com/news/hospitals/apollo-hospitals-q3-results-profit-rises-35-yoy-to-rs-502-crore-rs-10-per-share-dividend-declared/128183694",
-                                           "articlePath":  "/article.html?issue=2026-02-08\u0026article=2026-02-08-apollo-hospitals-q3-results-profit-rises-35-yoy-to-rs-502-crore-rs-10-pe"
-                                       },
-                                       {
-                                           "id":  "2026-02-08-1-in-3-faculty-posts-vacant-across-aiims-over-17-000-non-faculty-posts-a",
-                                           "title":  "1 in 3 faculty posts vacant across AIIMS; over 17,000 Non-Faculty Posts Also Unfilled",
-                                           "summary":  "The data show substantial faculty shortages nationwide. At AIIMS New Delhi, the country’s flagship institute, 446 of 1,306 sanctioned faculty posts are vacant. Jodhpur has 184 vacancies, Mangalagiri 138, Nagpur 135, Kalyani 134 and Rishikesh 126.",
-                                           "source":  "ET Healthworld Hospitals",
-                                           "sourceHost":  "health.economictimes.indiatimes.com",
-                                           "region":  "India",
-                                           "country":  "India",
-                                           "publishedAt":  "2026-02-12T02:05:53.000Z",
-                                           "publishedLabel":  "February 12, 2026",
-                                           "category":  "AI Care Delivery",
-                                           "image":  "https://etimg.etb2bimg.com/thumb/msid-128233247,imgsize-1102962,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/1-in-3-faculty-posts-vacant-across-aiims-over-17000-non-faculty-posts-also-unfilled.jpg",
-                                           "thbAction":  "Map the news to THB\u0027s provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-                                           "originalUrl":  "https://health.economictimes.indiatimes.com/news/hospitals/1-in-3-faculty-posts-vacant-across-aiims-over-17000-non-faculty-posts-also-unfilled/128233247",
-                                           "articlePath":  "/article.html?issue=2026-02-08\u0026article=2026-02-08-1-in-3-faculty-posts-vacant-across-aiims-over-17-000-non-faculty-posts-a"
-                                       }
-                                   ],
-                     "diagnostics":  [
-                                         {
-                                             "id":  "2026-02-08-metropolis-hosts-genomics-symposium-to-drive-precision-medicine-adoption",
-                                             "title":  "Metropolis hosts genomics symposium to drive precision medicine adoption",
-                                             "summary":  "The event marked the formal unveiling of the company’s Centre of Genomics to the clinician community, as part of its broader clinical engagement initiative aimed at embedding advanced molecular diagnostics into routine medical workflows.",
-                                             "source":  "ET Healthworld Diagnostics",
-                                             "sourceHost":  "health.economictimes.indiatimes.com",
-                                             "region":  "India",
-                                             "country":  "India",
-                                             "publishedAt":  "2026-02-13T13:41:28.000Z",
-                                             "publishedLabel":  "February 13, 2026",
-                                             "category":  "Diagnostics",
-                                             "image":  "https://etimg.etb2bimg.com/thumb/msid-128309538,imgsize-7842,width-1200,height=627,overlay-ethealth,resizemode-75/diagnostics/metropolis-hosts-genomics-symposium-to-drive-precision-medicine-adoption.jpg",
-                                             "thbAction":  "Pitch THB\u0027s diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
-                                             "originalUrl":  "https://health.economictimes.indiatimes.com/news/diagnostics/metropolis-hosts-genomics-symposium-to-drive-precision-medicine-adoption/128309538",
-                                             "articlePath":  "/article.html?issue=2026-02-08\u0026article=2026-02-08-metropolis-hosts-genomics-symposium-to-drive-precision-medicine-adoption"
-                                         },
-                                         {
-                                             "id":  "2026-02-08-hba1c-test-alone-may-mislead-diabetes-diagnosis-in-south-asia-study",
-                                             "title":  "HbA1c test alone may mislead diabetes diagnosis in South Asia: Study",
-                                             "summary":  "The authors note that more than half the population in certain parts of India is affected by iron deficiency anaemia, which can distort HbA1c readings and complicate both diagnosis and long-term monitoring of diabetes.",
-                                             "source":  "ET Healthworld Diagnostics",
-                                             "sourceHost":  "health.economictimes.indiatimes.com",
-                                             "region":  "India",
-                                             "country":  "India",
-                                             "publishedAt":  "2026-02-10T00:12:55.000Z",
-                                             "publishedLabel":  "February 10, 2026",
-                                             "category":  "Industry Update",
-                                             "image":  "https://etimg.etb2bimg.com/thumb/msid-128135251,imgsize-23330,width-1200,height=627,overlay-ethealth,resizemode-75/diagnostics/hba1c-test-alone-may-mislead-diabetes-diagnosis-in-south-asia-study.jpg",
-                                             "thbAction":  "Pitch THB\u0027s diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
-                                             "originalUrl":  "https://health.economictimes.indiatimes.com/news/diagnostics/hba1c-test-alone-may-mislead-diabetes-diagnosis-in-south-asia-study/128135251",
-                                             "articlePath":  "/article.html?issue=2026-02-08\u0026article=2026-02-08-hba1c-test-alone-may-mislead-diabetes-diagnosis-in-south-asia-study"
-                                         },
-                                         {
-                                             "id":  "2026-02-08-popular-diabetes-test-hba1c-challenged-in-lancet-study-that-raises-doubt",
-                                             "title":  "Popular diabetes test HbA1c challenged in Lancet study that raises doubts on its reliability among Indians",
-                                             "summary":  "A study published in Lancet Regional Health warns that the HbA1c test may be unreliable for diagnosing and monitoring type-2 diabetes in Indians due to high anemia prevalence and blood disorders, urging greater use of confirmatory tests like OGTT.",
-                                             "source":  "Financial Express Healthcare",
-                                             "sourceHost":  "financialexpress.com",
-                                             "region":  "India",
-                                             "country":  "India",
-                                             "publishedAt":  "2026-02-10T15:02:57.000Z",
-                                             "publishedLabel":  "February 10, 2026",
-                                             "category":  "Industry Update",
-                                             "image":  "https://images.financialexpressdigital.com/2026/02/Budget-2026-62.jpg",
-                                             "thbAction":  "Pitch THB\u0027s diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
-                                             "originalUrl":  "https://www.financialexpress.com/business/healthcare-popular-diabetes-test-hba1c-challenged-in-lancet-study-that-raises-doubts-on-its-reliability-among-indians-4138039/",
-                                             "articlePath":  "/article.html?issue=2026-02-08\u0026article=2026-02-08-popular-diabetes-test-hba1c-challenged-in-lancet-study-that-raises-doubt"
-                                         }
-                                     ],
-                     "healthtech":  [
-
-                                    ]
-                 },
-    "thbActions":  [
-                       {
-                           "segment":  "pharma",
-                           "articleId":  "2026-02-08-stocks-in-news-titan-bse-kotak-mahindra-bank-marico-tata-motors-pv",
-                           "title":  "Stocks in news: Titan, BSE, Kotak Mahindra Bank, Marico, Tata Motors PV",
-                           "source":  "Lupin Updates",
-                           "solution":  "THB Commercial Analytics",
-                           "action":  "Use the article as an entry point to pitch THB\u0027s commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
-                       },
-                       {
-                           "segment":  "providers",
-                           "articleId":  "2026-02-08-ihh-healthcare-fortis-launch-ihh-catalyst-to-boost-healthcare-innovation",
-                           "title":  "IHH Healthcare, Fortis Launch ‘IHH Catalyst’ to Boost Healthcare Innovation in India",
-                           "source":  "ET Healthworld Hospitals",
-                           "solution":  "THB Provider CRM",
-                           "action":  "Map the news to THB\u0027s provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
-                       },
-                       {
-                           "segment":  "providers",
-                           "articleId":  "2026-02-08-apollo-hospitals-q3-results-profit-rises-35-yoy-to-rs-502-crore-rs-10-pe",
-                           "title":  "Apollo Hospitals Q3 Results: Profit rises 35% YoY to Rs 502 crore; Rs 10 per share dividend declared",
-                           "source":  "ET Healthworld Hospitals",
-                           "solution":  "THB Provider CRM",
-                           "action":  "Map the news to THB\u0027s provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
-                       },
-                       {
-                           "segment":  "providers",
-                           "articleId":  "2026-02-08-1-in-3-faculty-posts-vacant-across-aiims-over-17-000-non-faculty-posts-a",
-                           "title":  "1 in 3 faculty posts vacant across AIIMS; over 17,000 Non-Faculty Posts Also Unfilled",
-                           "source":  "ET Healthworld Hospitals",
-                           "solution":  "THB Provider CRM",
-                           "action":  "Map the news to THB\u0027s provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
-                       },
-                       {
-                           "segment":  "diagnostics",
-                           "articleId":  "2026-02-08-metropolis-hosts-genomics-symposium-to-drive-precision-medicine-adoption",
-                           "title":  "Metropolis hosts genomics symposium to drive precision medicine adoption",
-                           "source":  "ET Healthworld Diagnostics",
-                           "solution":  "THB Diagnostics CRM",
-                           "action":  "Pitch THB\u0027s diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
-                       },
-                       {
-                           "segment":  "diagnostics",
-                           "articleId":  "2026-02-08-hba1c-test-alone-may-mislead-diabetes-diagnosis-in-south-asia-study",
-                           "title":  "HbA1c test alone may mislead diabetes diagnosis in South Asia: Study",
-                           "source":  "ET Healthworld Diagnostics",
-                           "solution":  "THB Diagnostics CRM",
-                           "action":  "Pitch THB\u0027s diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
-                       },
-                       {
-                           "segment":  "diagnostics",
-                           "articleId":  "2026-02-08-popular-diabetes-test-hba1c-challenged-in-lancet-study-that-raises-doubt",
-                           "title":  "Popular diabetes test HbA1c challenged in Lancet study that raises doubts on its reliability among Indians",
-                           "source":  "Financial Express Healthcare",
-                           "solution":  "THB Diagnostics CRM",
-                           "action":  "Pitch THB\u0027s diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
-                       }
-                   ]
+  "key": "2026-02-08",
+  "issueNumber": 1,
+  "rangeLabel": "Feb 8 - Feb 14, 2026",
+  "startDate": "2026-02-07T18:30:00.000Z",
+  "endDate": "2026-02-13T18:30:00.000Z",
+  "status": "published",
+  "updatedAt": "2026-03-24T14:42:07.910Z",
+  "coverage": {
+    "pharma": 1,
+    "providers": 4,
+    "diagnostics": 3,
+    "healthtech": 0
+  },
+  "sourcesUsed": [
+    "ET Healthworld Diagnostics",
+    "ET Healthworld Hospitals",
+    "Financial Express Healthcare",
+    "Lupin Updates"
+  ],
+  "segments": {
+    "pharma": [
+      {
+        "id": "2026-02-08-stocks-in-news-titan-bse-kotak-mahindra-bank-marico-tata-motors-pv",
+        "title": "Stocks in news: Titan, BSE, Kotak Mahindra Bank, Marico, Tata Motors PV",
+        "summary": "Markets rallied on Monday, buoyed by global optimism and a potential India-US trade framework, with analysts eyeing a Nifty retest of 26,000. Several companies, including Titan and BSE, are in focus due to Q3 results and significant corporate developments....",
+        "source": "Lupin Updates",
+        "sourceHost": "economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-02-10T01:02:00.000Z",
+        "publishedLabel": "February 10, 2026",
+        "category": "Market",
+        "image": "https://img.etimg.com/thumb/msid-128136113,width-1200,height-630,imgsize-54812,overlay-etmarkets/articleshow.jpg",
+        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
+        "justIn": false,
+        "originalUrl": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-titan-bse-kotak-mahindra-bank-marico-tata-motors-pv/articleshow/128136130.cms",
+        "articlePath": "/article.html?issue=2026-02-08&article=2026-02-08-stocks-in-news-titan-bse-kotak-mahindra-bank-marico-tata-motors-pv"
+      }
+    ],
+    "providers": [
+      {
+        "id": "2026-02-08-ihh-healthcare-fortis-launch-ihh-catalyst-to-boost-healthcare-innovation",
+        "title": "IHH Healthcare, Fortis Launch ‘IHH Catalyst’ to Boost Healthcare Innovation in India",
+        "summary": "The platform is designed to help health-tech and med-tech startups move beyond pilot projects and proof-of-concept stages to real-world clinical validation and scalable implementation within hospital systems.",
+        "source": "ET Healthworld Hospitals",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-02-11T09:33:23.000Z",
+        "publishedLabel": "February 11, 2026",
+        "category": "Hospital",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-128199619,imgsize-775819,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/ihh-healthcare-fortis-launch-ihh-catalyst-to-boost-healthcare-innovation-in-india.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": false,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/ihh-healthcare-fortis-launch-ihh-catalyst-to-boost-healthcare-innovation-in-india/128199619",
+        "articlePath": "/article.html?issue=2026-02-08&article=2026-02-08-ihh-healthcare-fortis-launch-ihh-catalyst-to-boost-healthcare-innovation"
+      },
+      {
+        "id": "2026-02-08-apollo-hospitals-q3-results-profit-rises-35-yoy-to-rs-502-crore-rs-10-pe",
+        "title": "Apollo Hospitals Q3 Results: Profit rises 35% YoY to Rs 502 crore; Rs 10 per share dividend declared",
+        "summary": "Profit after tax from the business stood at Rs 422 crore, up 21% from Rs 348 crore a year earlier, supported by higher occupancy levels, better case mix and cost efficiencies.",
+        "source": "ET Healthworld Hospitals",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-02-11T02:04:00.000Z",
+        "publishedLabel": "February 11, 2026",
+        "category": "Hospital",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-128183694,imgsize-672671,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/apollo-hospitals-q3-results-profit-rises-35-yoy-to-rs-502-crore-rs-10-per-share-dividend-declared.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": false,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/apollo-hospitals-q3-results-profit-rises-35-yoy-to-rs-502-crore-rs-10-per-share-dividend-declared/128183694",
+        "articlePath": "/article.html?issue=2026-02-08&article=2026-02-08-apollo-hospitals-q3-results-profit-rises-35-yoy-to-rs-502-crore-rs-10-pe"
+      },
+      {
+        "id": "2026-02-08-aiims-delhi-first-in-country-to-announce-launch-of-face-transplant-progr",
+        "title": "AIIMS Delhi first in country to announce launch of face transplant programme",
+        "summary": "The Department of Plastic, Reconstructive and Burns Surgery at AIIMS has initiated the process of setting up a registry of patients having severe facial deformity along with the loss of vital functions of the face like breathing, mouth opening and blinking...",
+        "source": "ET Healthworld Hospitals",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-02-14T02:08:20.000Z",
+        "publishedLabel": "February 14, 2026",
+        "category": "Patient Care",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-128330668,imgsize-1102962,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/aiims-delhi-first-in-country-to-announce-launch-of-face-transplant-programme.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": false,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/aiims-delhi-first-in-country-to-announce-launch-of-face-transplant-programme/128330668",
+        "articlePath": "/article.html?issue=2026-02-08&article=2026-02-08-aiims-delhi-first-in-country-to-announce-launch-of-face-transplant-progr"
+      },
+      {
+        "id": "2026-02-08-1-in-3-faculty-posts-vacant-across-aiims-over-17-000-non-faculty-posts-a",
+        "title": "1 in 3 faculty posts vacant across AIIMS; over 17,000 Non-Faculty Posts Also Unfilled",
+        "summary": "The data show substantial faculty shortages nationwide. At AIIMS New Delhi, the country’s flagship institute, 446 of 1,306 sanctioned faculty posts are vacant. Jodhpur has 184 vacancies, Mangalagiri 138, Nagpur 135, Kalyani 134 and Rishikesh 126.",
+        "source": "ET Healthworld Hospitals",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-02-12T02:05:53.000Z",
+        "publishedLabel": "February 12, 2026",
+        "category": "AI Care Delivery",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-128233247,imgsize-1102962,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/1-in-3-faculty-posts-vacant-across-aiims-over-17000-non-faculty-posts-also-unfilled.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": false,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/1-in-3-faculty-posts-vacant-across-aiims-over-17000-non-faculty-posts-also-unfilled/128233247",
+        "articlePath": "/article.html?issue=2026-02-08&article=2026-02-08-1-in-3-faculty-posts-vacant-across-aiims-over-17-000-non-faculty-posts-a"
+      }
+    ],
+    "diagnostics": [
+      {
+        "id": "2026-02-08-metropolis-hosts-genomics-symposium-to-drive-precision-medicine-adoption",
+        "title": "Metropolis hosts genomics symposium to drive precision medicine adoption",
+        "summary": "The event marked the formal unveiling of the company’s Centre of Genomics to the clinician community, as part of its broader clinical engagement initiative aimed at embedding advanced molecular diagnostics into routine medical workflows.",
+        "source": "ET Healthworld Diagnostics",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-02-13T13:41:28.000Z",
+        "publishedLabel": "February 13, 2026",
+        "category": "Diagnostics",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-128309538,imgsize-7842,width-1200,height=627,overlay-ethealth,resizemode-75/diagnostics/metropolis-hosts-genomics-symposium-to-drive-precision-medicine-adoption.jpg",
+        "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
+        "justIn": false,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/diagnostics/metropolis-hosts-genomics-symposium-to-drive-precision-medicine-adoption/128309538",
+        "articlePath": "/article.html?issue=2026-02-08&article=2026-02-08-metropolis-hosts-genomics-symposium-to-drive-precision-medicine-adoption"
+      },
+      {
+        "id": "2026-02-08-hba1c-test-alone-may-mislead-diabetes-diagnosis-in-south-asia-study",
+        "title": "HbA1c test alone may mislead diabetes diagnosis in South Asia: Study",
+        "summary": "The authors note that more than half the population in certain parts of India is affected by iron deficiency anaemia, which can distort HbA1c readings and complicate both diagnosis and long-term monitoring of diabetes.",
+        "source": "ET Healthworld Diagnostics",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-02-10T00:12:55.000Z",
+        "publishedLabel": "February 10, 2026",
+        "category": "Industry Update",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-128135251,imgsize-23330,width-1200,height=627,overlay-ethealth,resizemode-75/diagnostics/hba1c-test-alone-may-mislead-diabetes-diagnosis-in-south-asia-study.jpg",
+        "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
+        "justIn": false,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/diagnostics/hba1c-test-alone-may-mislead-diabetes-diagnosis-in-south-asia-study/128135251",
+        "articlePath": "/article.html?issue=2026-02-08&article=2026-02-08-hba1c-test-alone-may-mislead-diabetes-diagnosis-in-south-asia-study"
+      },
+      {
+        "id": "2026-02-08-popular-diabetes-test-hba1c-challenged-in-lancet-study-that-raises-doubt",
+        "title": "Popular diabetes test HbA1c challenged in Lancet study that raises doubts on its reliability among Indians",
+        "summary": "A study published in Lancet Regional Health warns that the HbA1c test may be unreliable for diagnosing and monitoring type-2 diabetes in Indians due to high anemia prevalence and blood disorders, urging greater use of confirmatory tests like OGTT.",
+        "source": "Financial Express Healthcare",
+        "sourceHost": "financialexpress.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-02-10T15:02:57.000Z",
+        "publishedLabel": "February 10, 2026",
+        "category": "Industry Update",
+        "image": "https://images.financialexpressdigital.com/2026/02/Budget-2026-62.jpg",
+        "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
+        "justIn": false,
+        "originalUrl": "https://www.financialexpress.com/business/healthcare-popular-diabetes-test-hba1c-challenged-in-lancet-study-that-raises-doubts-on-its-reliability-among-indians-4138039/",
+        "articlePath": "/article.html?issue=2026-02-08&article=2026-02-08-popular-diabetes-test-hba1c-challenged-in-lancet-study-that-raises-doubt"
+      }
+    ],
+    "healthtech": []
+  },
+  "thbActions": [
+    {
+      "segment": "pharma",
+      "articleId": "2026-02-08-stocks-in-news-titan-bse-kotak-mahindra-bank-marico-tata-motors-pv",
+      "title": "Stocks in news: Titan, BSE, Kotak Mahindra Bank, Marico, Tata Motors PV",
+      "source": "Lupin Updates",
+      "solution": "THB Commercial Analytics",
+      "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
+    },
+    {
+      "segment": "providers",
+      "articleId": "2026-02-08-ihh-healthcare-fortis-launch-ihh-catalyst-to-boost-healthcare-innovation",
+      "title": "IHH Healthcare, Fortis Launch ‘IHH Catalyst’ to Boost Healthcare Innovation in India",
+      "source": "ET Healthworld Hospitals",
+      "solution": "THB Provider CRM",
+      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
+    },
+    {
+      "segment": "providers",
+      "articleId": "2026-02-08-apollo-hospitals-q3-results-profit-rises-35-yoy-to-rs-502-crore-rs-10-pe",
+      "title": "Apollo Hospitals Q3 Results: Profit rises 35% YoY to Rs 502 crore; Rs 10 per share dividend declared",
+      "source": "ET Healthworld Hospitals",
+      "solution": "THB Provider CRM",
+      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
+    },
+    {
+      "segment": "providers",
+      "articleId": "2026-02-08-aiims-delhi-first-in-country-to-announce-launch-of-face-transplant-progr",
+      "title": "AIIMS Delhi first in country to announce launch of face transplant programme",
+      "source": "ET Healthworld Hospitals",
+      "solution": "THB Provider CRM",
+      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
+    },
+    {
+      "segment": "providers",
+      "articleId": "2026-02-08-1-in-3-faculty-posts-vacant-across-aiims-over-17-000-non-faculty-posts-a",
+      "title": "1 in 3 faculty posts vacant across AIIMS; over 17,000 Non-Faculty Posts Also Unfilled",
+      "source": "ET Healthworld Hospitals",
+      "solution": "THB Provider CRM",
+      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
+    },
+    {
+      "segment": "diagnostics",
+      "articleId": "2026-02-08-metropolis-hosts-genomics-symposium-to-drive-precision-medicine-adoption",
+      "title": "Metropolis hosts genomics symposium to drive precision medicine adoption",
+      "source": "ET Healthworld Diagnostics",
+      "solution": "THB Diagnostics CRM",
+      "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
+    },
+    {
+      "segment": "diagnostics",
+      "articleId": "2026-02-08-hba1c-test-alone-may-mislead-diabetes-diagnosis-in-south-asia-study",
+      "title": "HbA1c test alone may mislead diabetes diagnosis in South Asia: Study",
+      "source": "ET Healthworld Diagnostics",
+      "solution": "THB Diagnostics CRM",
+      "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
+    },
+    {
+      "segment": "diagnostics",
+      "articleId": "2026-02-08-popular-diabetes-test-hba1c-challenged-in-lancet-study-that-raises-doubt",
+      "title": "Popular diabetes test HbA1c challenged in Lancet study that raises doubts on its reliability among Indians",
+      "source": "Financial Express Healthcare",
+      "solution": "THB Diagnostics CRM",
+      "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
+    }
+  ]
 }
