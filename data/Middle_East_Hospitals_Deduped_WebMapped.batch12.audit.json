@@ -1,0 +1,80 @@
+{
+  "batch": 12,
+  "timestamp": "2026-03-24T03:18:32.266Z",
+  "workbookPath": "C:\\Users\\VivekSharma\\OneDrive - THB c o Sekhmet Technologies Private Limited\\Desktop\\Middle_East_Hospitals_Deduped_WebMapped.xlsx",
+  "rowsUpdated": 9,
+  "updates": [
+    {
+      "row": 13,
+      "name": "Ain Shams Specialized Hospital",
+      "d": "150",
+      "e": "100-200",
+      "source": "https://www.asu.edu.eg/256/news/minister-of-higher-education-attends-a-number-of-new-openings-in-ain-shams-specialized-hospital-at-a-cost-of-200-million-pounds",
+      "note": "Official Ain Shams University news snippet states the specialized hospital has 150 beds."
+    },
+    {
+      "row": 111,
+      "name": "American Academy of Cosmetic Surgery Hospital",
+      "d": "25",
+      "e": "0-50",
+      "source": "https://www.oilandgasdirectory.com/profile/details/32180/American-Academy-of-Cosmetic-Surgery-Hospital.html",
+      "note": "Public business directory profile states the hospital has 25 beds."
+    },
+    {
+      "row": 166,
+      "name": "Canadian Hospital",
+      "d": "200",
+      "e": "100-200",
+      "source": "https://www.lyfboat.com/hospital/canadian-specialist-hospital/",
+      "note": "Row name mapped to Canadian Specialist Hospital Dubai; multiple public sources report 200 beds."
+    },
+    {
+      "row": 318,
+      "name": "Khoula Hospital",
+      "d": "436",
+      "e": "200-500",
+      "source": "https://www.scribd.com/document/329337098/Oman-Health-System-Profile",
+      "note": "EMRO Oman health system profile snippet lists Khoula Hospital total beds as 436."
+    },
+    {
+      "row": 349,
+      "name": "LLH Hospital",
+      "d": "750",
+      "e": ">500",
+      "source": "https://www.vaidam.com/hospitals/llh-hospital-abu-dhabi",
+      "note": "Public hospital profile lists LLH Hospital Abu Dhabi with 750 beds."
+    },
+    {
+      "row": 366,
+      "name": "Medeor 24x7 Hospital",
+      "d": "100",
+      "e": "50-100",
+      "source": "https://www.vaidam.com/hospitals/medeor-24x7-hospital-abu-dhabi",
+      "note": "Public hospital profile lists Medeor 24x7 Hospital Abu Dhabi with 100 beds."
+    },
+    {
+      "row": 424,
+      "name": "NMC Specialty Hospital",
+      "d": "55",
+      "e": "50-100",
+      "source": "http://www.nmcoman.com/hospitals/ghoubra/nmc-specialty-hospital-3/",
+      "note": "Official NMC Oman hospital overview lists total hospital beds as 55."
+    },
+    {
+      "row": 433,
+      "name": "Oman International Hospital",
+      "d": "120",
+      "e": "100-200",
+      "source": "https://curemeabroad.com/hospitals/oman-international-hospital",
+      "note": "Public hospital profile lists Oman International Hospital bed count as 120."
+    },
+    {
+      "row": 473,
+      "name": "Royal Hospital for Women and children",
+      "d": "22",
+      "e": "0-50",
+      "source": "https://www.hajgulf.com/projects/6/project-details-02.html",
+      "note": "Project details page states Royal Hospital for Women & Children comprises 22 beds."
+    }
+  ]
+}

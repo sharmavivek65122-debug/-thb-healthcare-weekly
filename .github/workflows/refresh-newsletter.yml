@@ -1,0 +1,79 @@
+name: Refresh THB Newsletter
+
+permissions:
+  contents: read
+
+concurrency:
+  group: thb-newsletter-refresh
+  cancel-in-progress: true
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "30 4 * * 0-6"
+    - cron: "30 13 * * 0-6"
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    env:
+      TZ: Asia/Kolkata
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Generate newsletter data
+        run: |
+          mkdir -p artifacts
+          node ./scripts/generate-newsletter.mjs | tee artifacts/generate-newsletter.json
+
+      - name: Export newsletter site data
+        run: node ./scripts/export-site-data.mjs
+
+      - name: Verify generated output
+        run: node ./scripts/verify-output.mjs | tee artifacts/verify-output.log
+
+      - name: Build static site
+        run: node ./scripts/build-static-site.mjs
+
+      - name: Summarize refresh output
+        if: always()
+        run: node ./scripts/write-refresh-summary.mjs
+
+      - name: Upload refresh artifacts
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: newsletter-refresh-${{ github.run_number }}
+          path: |
+            artifacts/*
+            data/site-manifest.json
+            data/issues/index.json
+            data/issues/*.json
+            newsletter/issues/*.md
+          if-no-files-found: warn
+          retention-days: 14
+
+      - name: Verify Cloudflare secrets
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+        run: |
+          test -n "$CLOUDFLARE_API_TOKEN" || (echo "::error::Missing CLOUDFLARE_API_TOKEN secret" && exit 1)
+          test -n "$CLOUDFLARE_ACCOUNT_ID" || (echo "::error::Missing CLOUDFLARE_ACCOUNT_ID secret" && exit 1)
+
+      - name: Deploy to Cloudflare Pages
+        run: npx wrangler pages deploy dist --project-name thb-weekly-newsletter --commit-dirty=true
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}

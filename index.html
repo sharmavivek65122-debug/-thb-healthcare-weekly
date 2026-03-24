@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>THB NeuraLink Weekly Newsletter</title>
+  <meta
+    name="description"
+    content="THB weekly newsletter covering validated hospital, diagnostics, and pharma news from India and the Middle East."
+  >
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link
+    href="https://fonts.googleapis.com/css2?family=Manrope:wght@500;600;700;800&family=Rubik:wght@400;500;600;700;800&display=swap"
+    rel="stylesheet"
+  >
+  <link rel="stylesheet" href="./assets/styles.css">
+</head>
+<body>
+  <div class="page-progress" aria-hidden="true">
+    <span id="page-progress-bar"></span>
+  </div>
+  <div class="page-shell">
+    <header class="hero" id="page-top">
+      <div class="hero__ribbon">
+        <h1>THB NeuraLink Weekly Newsletter</h1>
+      </div>
+      <div class="hero__meta">
+        <p class="hero__meta-copy" id="cadence-copy">Weekly issue refreshed daily with newly available articles from Sunday to Saturday. Full issue published every Saturday. <span id="story-count">0</span> validated stories.</p>
+        <div class="hero__actions">
+          <button class="button button--ghost" id="refresh-issues" type="button">
+            Refresh Issues
+          </button>
+          <label class="issue-picker">
+            <span>Issue</span>
+            <select id="issue-select" aria-label="Select issue"></select>
+          </label>
+        </div>
+      </div>
+      <p class="hero__status" id="refresh-status" aria-live="polite"></p>
+      <p class="hero__deck" id="executive-summary"></p>
+    </header>
+
+    <main>
+      <nav class="section-nav" id="section-nav"></nav>
+      <section id="sections-root" class="sections-root"></section>
+    </main>
+
+    <footer class="footer" id="page-bottom">
+      <p>
+        THB weekly newsletter for validated India and Middle East news in hospitals, diagnostics,
+        and pharma.
+      </p>
+    </footer>
+  </div>
+
+  <template id="story-card-template">
+    <article class="story-card">
+      <div class="story-card__meta">
+        <span class="story-card__country"></span>
+        <span class="story-card__date"></span>
+        <span class="story-card__badge" hidden>Just-In</span>
+      </div>
+      <h3 class="story-card__title"></h3>
+      <p class="story-card__source"></p>
+      <p class="story-card__summary"></p>
+      <a class="button" target="_blank" rel="noopener noreferrer">Read full story</a>
+    </article>
+  </template>
+
+  <script type="module" src="./assets/app.js"></script>
+</body>
+</html>

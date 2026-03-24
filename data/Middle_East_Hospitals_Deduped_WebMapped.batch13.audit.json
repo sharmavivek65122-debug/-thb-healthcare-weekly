@@ -1,0 +1,74 @@
+{
+  "batch": 13,
+  "timestamp": "2026-03-24T10:36:47.035Z",
+  "workbookPath": "C:\\Users\\VivekSharma\\OneDrive - THB c o Sekhmet Technologies Private Limited\\Desktop\\Middle_East_Hospitals_Deduped_WebMapped.xlsx",
+  "rowsUpdated": 6,
+  "updates": [
+    {
+      "row": 11,
+      "name": "Ahalia Hospital",
+      "oldD": "NA",
+      "oldE": "NA",
+      "d": "250",
+      "e": "200-500",
+      "source": "https://www.myhospitalnow.com/hospitals/ahalia-hospital-abu-dhabi--hamdan-street",
+      "confidence": "medium",
+      "note": "Exact hospital/location match for Ahalia Hospital Abu Dhabi - Hamdan Street; public hospital profile lists 250 beds."
+    },
+    {
+      "row": 15,
+      "name": "Ajman Specialty General Hospital",
+      "oldD": "NA",
+      "oldE": "NA",
+      "d": "100",
+      "e": "50-100",
+      "source": "https://www.myhospitalnow.com/hospitals/ajman-specialty-general-hospital",
+      "confidence": "medium",
+      "note": "Exact hospital/location match for Ajman Specialty General Hospital; public hospital profile lists 100 beds."
+    },
+    {
+      "row": 28,
+      "name": "Al Emadi Hospital",
+      "oldD": "NA",
+      "oldE": "NA",
+      "d": "100",
+      "e": "50-100",
+      "source": "https://www.bestcosmetichospitals.com/blog/top-20-best-hospitals-in-qatar/",
+      "confidence": "medium",
+      "note": "Public Qatar hospital profile lists Al Emadi Hospital Doha with 100 beds."
+    },
+    {
+      "row": 181,
+      "name": "Coptic Hospital",
+      "oldD": "NA",
+      "oldE": "NA",
+      "d": "150",
+      "e": "100-200",
+      "source": "https://www.myhospitalnow.com/hospitals/coptic-hospital",
+      "confidence": "medium",
+      "note": "Exact hospital/location match for Coptic Hospital Cairo; profile page lists 150 beds."
+    },
+    {
+      "row": 198,
+      "name": "Dar El Hekma Hospital",
+      "oldD": "NA",
+      "oldE": "NA",
+      "d": "300",
+      "e": "200-500",
+      "source": "https://myhospitalnow.com/hospitals/dar-al-hekma-hospital",
+      "confidence": "medium",
+      "note": "Name normalized from Dar El Hekma to Dar Al Hekma in Cairo; public profile lists 300 beds."
+    },
+    {
+      "row": 512,
+      "name": "Starcare Hospital Seeb",
+      "oldD": "NA",
+      "oldE": "NA",
+      "d": "50",
+      "e": "0-50",
+      "source": "https://www.fxdesign.co.uk/starcare-hospital-to-be-unveiled-in-muscat/",
+      "confidence": "medium-high",
+      "note": "Article about Starcare Hospital in Seeb states it is a 50-bed multi-specialty hospital."
+    }
+  ]
+}

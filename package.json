@@ -1,0 +1,29 @@
+{
+  "name": "thb-india-middle-east-newsletter",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "generate": "node ./scripts/generate-newsletter.mjs",
+    "export:site": "node ./scripts/export-site-data.mjs",
+    "verify": "node ./scripts/verify-output.mjs",
+    "merge:hospitals": "node ./scripts/merge-hospital-lists.mjs",
+    "dedupe:middle-east-hospitals": "node ./scripts/dedupe-middle-east-hospitals.mjs",
+    "enrich:middle-east-beds": "node ./scripts/enrich-middle-east-hospital-beds.mjs",
+    "build": "npm run generate && npm run export:site && npm run verify && npm run build:site",
+    "build:site": "node ./scripts/build-static-site.mjs",
+    "dev": "wrangler pages dev .",
+    "deploy": "wrangler pages deploy dist --project-name thb-weekly-newsletter"
+  },
+  "dependencies": {
+    "@mozilla/readability": "^0.6.0",
+    "cheerio": "^1.1.2",
+    "fast-xml-parser": "^5.3.2",
+    "linkedom": "^0.18.12",
+    "p-limit": "^7.2.0",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "wrangler": "^4.40.2"
+  }
+}

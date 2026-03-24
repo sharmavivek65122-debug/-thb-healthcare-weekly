@@ -1,0 +1,98 @@
+{
+  "batch": 15,
+  "timestamp": "2026-03-24T10:50:38.389Z",
+  "workbookPath": "C:\\Users\\VivekSharma\\OneDrive - THB c o Sekhmet Technologies Private Limited\\Desktop\\Middle_East_Hospitals_Deduped_WebMapped.xlsx",
+  "note": "Corrected batch14 row-offset issue by reverting accidental writes and applying values to intended hospital rows.",
+  "actions": [
+    {
+      "row": 308,
+      "name": "KACCH & BACCH",
+      "city": "Kuwait",
+      "country": "",
+      "before": {
+        "d": "120",
+        "e": "100-200"
+      },
+      "after": {
+        "d": "NA",
+        "e": "NA"
+      },
+      "reason": "Revert accidental write from batch14 row-offset issue."
+    },
+    {
+      "row": 402,
+      "name": "Nazer Group",
+      "city": "Saudi Arabia",
+      "country": "",
+      "before": {
+        "d": "22",
+        "e": "0-50"
+      },
+      "after": {
+        "d": "NA",
+        "e": "NA"
+      },
+      "reason": "Revert accidental write from batch14 row-offset issue."
+    },
+    {
+      "row": 412,
+      "name": "New Zulekha Medical Centre",
+      "city": "UAE",
+      "country": "Sharjah",
+      "before": {
+        "d": "100",
+        "e": "50-100"
+      },
+      "after": {
+        "d": "NA",
+        "e": "NA"
+      },
+      "reason": "Revert accidental write from batch14 row-offset issue."
+    },
+    {
+      "row": 305,
+      "name": "Jeddah Clinic Hospital",
+      "city": "Saudi Arabia",
+      "country": "Jeddah",
+      "before": {
+        "d": "NA",
+        "e": "NA"
+      },
+      "after": {
+        "d": "120",
+        "e": "100-200"
+      },
+      "reason": "Apply intended branded-hospital update to correct row."
+    },
+    {
+      "row": 399,
+      "name": "National Hospital",
+      "city": "UAE",
+      "country": "Abu Dhabi",
+      "before": {
+        "d": "NA",
+        "e": "NA"
+      },
+      "after": {
+        "d": "22",
+        "e": "0-50"
+      },
+      "reason": "Apply intended branded-hospital update to correct row."
+    },
+    {
+      "row": 409,
+      "name": "New Medical Centre Hospital",
+      "city": "UAE",
+      "country": "Abu Dhabi",
+      "before": {
+        "d": "NA",
+        "e": "NA"
+      },
+      "after": {
+        "d": "100",
+        "e": "50-100"
+      },
+      "reason": "Apply intended old-name-to-current-name update to correct row."
+    }
+  ]
+}

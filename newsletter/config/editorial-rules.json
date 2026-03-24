@@ -1,0 +1,122 @@
+{
+  "newsletterName": "THB Weekly Hospital, Diagnostics and Pharma Newsletter",
+  "timezone": "Asia/Kolkata",
+  "coverageWindow": {
+    "startDay": "Sunday",
+    "endDay": "Friday",
+    "publishDay": "Saturday",
+    "publishTime": "09:00"
+  },
+  "regions": [
+    "India",
+    "Middle East"
+  ],
+  "segments": [
+    {
+      "slug": "hospitals-providers",
+      "title": "Hospitals & Providers",
+      "targetCount": 20,
+      "maxCount": 50,
+      "keywords": [
+        "hospital",
+        "provider",
+        "clinic",
+        "care delivery",
+        "health system",
+        "hospital expansion",
+        "capacity",
+        "patient care"
+      ]
+    },
+    {
+      "slug": "diagnostics",
+      "title": "Diagnostics",
+      "targetCount": 20,
+      "maxCount": 50,
+      "keywords": [
+        "diagnostics",
+        "laboratory",
+        "imaging",
+        "screening",
+        "pathology",
+        "testing",
+        "genomics",
+        "radiology"
+      ]
+    },
+    {
+      "slug": "pharma",
+      "title": "Pharma",
+      "targetCount": 20,
+      "maxCount": 50,
+      "keywords": [
+        "pharma",
+        "drug",
+        "medicine",
+        "manufacturing",
+        "launch",
+        "regulatory",
+        "clinical",
+        "supply"
+      ]
+    }
+  ],
+  "validation": {
+    "disallowedUrlFragments": [
+      "/",
+      "/about",
+      "/aboutus",
+      "/awards",
+      "/awards-accreditation",
+      "/blog",
+      "/category",
+      "/defaultinterstitial",
+      "/events",
+      "/home",
+      "/hub/health",
+      "/latest-news",
+      "/media",
+      "/media-centre",
+      "/news",
+      "/newsroom",
+      "/press-releases",
+      "/press-release.php",
+      "/search",
+      "/tag"
+    ],
+    "rejectPageText": [
+      "about us",
+      "advertorial",
+      "awards & accreditation",
+      "brand connect initiative",
+      "careers",
+      "partner content",
+      "sponsored",
+      "subscribe to newsletter"
+    ],
+    "articleSignals": [
+      "application/ld+json",
+      "\"@type\":\"NewsArticle\"",
+      "\"@type\":\"Article\"",
+      "property=\"og:type\" content=\"article\"",
+      "<article"
+    ]
+  },
+  "thbActionRules": {
+    "allowedFocusAreas": [
+      "Hospitals & Providers",
+      "Diagnostics",
+      "Pharma"
+    ],
+    "requiredKeywords": [
+      "hospital",
+      "provider",
+      "diagnostic",
+      "pharma"
+    ],
+    "forbiddenTerms": [
+      "health-tech",
+      "healthtech"
+    ]
+  }
+}
