@@ -5,12 +5,12 @@
   "startDate": "2026-03-21T18:30:00.000Z",
   "endDate": "2026-03-27T18:30:00.000Z",
   "status": "live",
-  "updatedAt": "2026-03-24T14:42:07.910Z",
+  "updatedAt": "2026-03-25T05:43:31.987Z",
   "coverage": {
-    "pharma": 45,
+    "pharma": 48,
     "providers": 8,
     "diagnostics": 4,
-    "healthtech": 0
+    "healthtech": 1
   },
   "sourcesUsed": [
     "ET Healthworld",
@@ -18,12 +18,47 @@
     "ET Healthworld Hospitals",
     "Economic Times Pharma",
     "Express Healthcare",
+    "Express Healthcare Posts",
     "Healthcare MEA",
     "Medical Dialogues Pharma",
     "PharmaTutor News"
   ],
   "segments": {
     "pharma": [
+      {
+        "id": "2026-03-22-us-based-warburg-pincus-in-talks-to-buy-maneesh-pharma-unit-in-rs-1-800-",
+        "title": "US-based Warburg Pincus in talks to buy Maneesh Pharma unit in Rs 1,800 crore deal",
+        "summary": "US private equity firm Warburg Pincus is nearing a deal to buy Maneesh Pharmaceuticals' non-tuberculosis drug business. The acquisition is valued between ₹1,600 to ₹1,800 crore. This move is part of Warburg's strategy to build a larger pharmaceutical platform...",
+        "source": "Economic Times Pharma",
+        "sourceHost": "economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-03-25T03:19:17.000Z",
+        "publishedLabel": "March 25, 2026",
+        "category": "Deal",
+        "image": "https://img.etimg.com/thumb/msid-129790478,width-1200,height-630,imgsize-183970,overlay-economictimes/articleshow.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/us-based-warburg-pincus-in-talks-to-buy-maneesh-pharma-unit-in-rs-1800-crore-deal/articleshow/129790440.cms",
+        "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-us-based-warburg-pincus-in-talks-to-buy-maneesh-pharma-unit-in-rs-1-800-"
+      },
+      {
+        "id": "2026-03-22-rising-costs-of-key-chemicals-choke-production-at-drug-ingredient-makers",
+        "title": "Rising costs of key chemicals choke production at drug ingredient makers",
+        "summary": "India's bulk-drug manufacturers are facing a severe cost crisis as prices of key solvents and intermediates have surged due to supply disruptions linked to the West Asia conflict. This has led to production halts for several units, with paracetamol API prices...",
+        "source": "Economic Times Pharma",
+        "sourceHost": "economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-03-24T19:22:33.000Z",
+        "publishedLabel": "March 25, 2026",
+        "category": "Industry Update",
+        "image": "https://img.etimg.com/thumb/msid-129786099,width-1200,height-630,imgsize-14074,overlay-economictimes/articleshow.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/rising-costs-of-key-chemicals-choke-production-at-drug-ingredient-makers/articleshow/129785958.cms",
+        "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-rising-costs-of-key-chemicals-choke-production-at-drug-ingredient-makers"
+      },
       {
         "id": "2026-03-22-glp-1-rush-pharma-food-firms-eye-tie-ups-for-weight-loss-boom",
         "title": "GLP-1 rush: Pharma, food firms eye tie-ups for weight-loss boom",
@@ -37,7 +72,7 @@
         "category": "Market",
         "image": "https://img.etimg.com/thumb/msid-129737820,width-1200,height-630,imgsize-97588,overlay-economictimes/articleshow.jpg",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/glp-1-rush-pharma-food-firms-eye-tie-ups-for-weight-loss-boom/articleshow/129737763.cms",
         "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-glp-1-rush-pharma-food-firms-eye-tie-ups-for-weight-loss-boom"
       },
@@ -54,7 +89,7 @@
         "category": "Industry Update",
         "image": "https://img.etimg.com/thumb/msid-129724244,width-1200,height-630,imgsize-191384,overlay-economictimes/articleshow.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/india-is-well-positioned-to-attract-future-investments-patrick-johnson-president-lilly-international/articleshow/129724160.cms",
         "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-india-is-well-positioned-to-attract-future-investments-patrik-jonsson-pr"
       },
@@ -88,9 +123,26 @@
         "category": "Industry Update",
         "image": "https://img.etimg.com/thumb/msid-129723519,width-1200,height-630,imgsize-63772,overlay-economictimes/articleshow.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/price-alone-wont-push-weight-loss-diabetes-drug-semaglutide-sales-doctors/articleshow/129723449.cms",
         "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-price-alone-won-t-push-weight-loss-diabetes-drug-semaglutide-sales-docto"
+      },
+      {
+        "id": "2026-03-22-india-launches-clinical-study-integrating-traditional-ayurveda-with-mode",
+        "title": "India launches clinical study integrating traditional Ayurveda with modern TB treatments",
+        "summary": "The study will enrol 1,250 newly diagnosed TB patients across eight institutions, focusing on body weight, nutritional outcomes, disease progression, quality of life, safety, and tolerability.",
+        "source": "ET Healthworld",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-03-25T02:36:10.000Z",
+        "publishedLabel": "March 25, 2026",
+        "category": "Launch",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-129789796,imgsize-191880,width-1200,height=627,overlay-ethealth,resizemode-75/policy/india-launches-clinical-study-integrating-traditional-ayurveda-with-modern-tb-treatments.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/policy/india-launches-clinical-study-integrating-traditional-ayurveda-with-modern-tb-treatments/129789796",
+        "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-india-launches-clinical-study-integrating-traditional-ayurveda-with-mode"
       },
       {
         "id": "2026-03-22-indian-drugmakers-flood-market-with-cheaper-versions-of-novo-s-ozempic-w",
@@ -105,9 +157,26 @@
         "category": "Market",
         "image": "https://img.etimg.com/thumb/msid-129745817,width-1200,height-630,imgsize-112700,overlay-economictimes/articleshow.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/indian-drugmakers-flood-market-with-cheaper-versions-of-novos-ozempic-wegovy/articleshow/129745817.cms",
         "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-indian-drugmakers-flood-market-with-cheaper-versions-of-novo-s-ozempic-w"
+      },
+      {
+        "id": "2026-03-22-ima-seeks-specialist-only-prescriptions-amid-misuse-risks-and-cheap-gene",
+        "title": "IMA seeks specialist-only prescriptions amid misuse risks and cheap generics of GLP-1 weight-loss drugs",
+        "summary": "The Indian Medical Association is seeking government intervention to regulate GLP-1 weight-loss drugs. Concerns are rising over their misuse by various practitioners for cosmetic weight loss. The IMA advocates for restricting prescriptions to specialists to...",
+        "source": "Economic Times Pharma",
+        "sourceHost": "economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-03-24T18:57:16.000Z",
+        "publishedLabel": "March 25, 2026",
+        "category": "Industry Update",
+        "image": "https://img.etimg.com/thumb/msid-129785405,width-1200,height-630,imgsize-99792,overlay-economictimes/articleshow.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/ima-seeks-specialist-only-prescriptions-amid-misuse-risks-and-cheap-generics-of-glp-1-weight-loss-drugs/articleshow/129785384.cms",
+        "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-ima-seeks-specialist-only-prescriptions-amid-misuse-risks-and-cheap-gene"
       },
       {
         "id": "2026-03-22-no-shortage-of-anti-rabies-vaccine-rabies-immunoglobulin-in-india-nadda",
@@ -122,7 +191,7 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-129772104,imgsize-120412,width-1200,height=627,overlay-ethealth,resizemode-75/policy/no-shortage-of-anti-rabies-vaccine-rabies-immunoglobulin-in-india-nadda.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/policy/no-shortage-of-anti-rabies-vaccine-rabies-immunoglobulin-in-india-nadda/129772104",
         "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-no-shortage-of-anti-rabies-vaccine-rabies-immunoglobulin-in-india-nadda"
       },
@@ -139,26 +208,9 @@
         "category": "Industry Update",
         "image": "https://img.etimg.com/thumb/msid-129767442,width-1200,height-630,imgsize-53874,overlay-economictimes/articleshow.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/dcgi-intensifies-crackdown-on-glp-1-drug-misuse-sales-and-misleading-ads/articleshow/129767387.cms",
         "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-dcgi-intensifies-crackdown-on-glp-1-drug-misuse-sales-and-misleading-ads"
-      },
-      {
-        "id": "2026-03-22-study-finds-new-biomarker-for-cognitive-symptoms-of-schizophrenia-could-",
-        "title": "Study finds new biomarker for cognitive symptoms of schizophrenia, could serve as drug target",
-        "summary": "The researchers identified a previously unknown, freely circulating form of a brain protein called 'Cacna2d1' -- levels of the protein were reduced among patients with schizophrenia, compared to the healthy participants, resulting in overactive or overexcited...",
-        "source": "ET Healthworld",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-03-23T13:36:07.000Z",
-        "publishedLabel": "March 23, 2026",
-        "category": "Industry Update",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-129751082,imgsize-226730,width-1200,height=627,overlay-ethealth,resizemode-75/industry/study-finds-new-biomarker-for-cognitive-symptoms-of-schizophrenia-could-serve-as-drug-target.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/study-finds-new-biomarker-for-cognitive-symptoms-of-schizophrenia-could-serve-as-drug-target/129751082",
-        "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-study-finds-new-biomarker-for-cognitive-symptoms-of-schizophrenia-could-"
       },
       {
         "id": "2026-03-22-india-s-drug-regulator-flags-90-unapproved-fdcs-directs-states-to-take-a",
@@ -178,72 +230,72 @@
         "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-india-s-drug-regulator-flags-90-unapproved-fdcs-directs-states-to-take-a"
       },
       {
-        "id": "2026-03-22-delhi-pac-flags-overcrowding-shortage-of-basic-facilities-in-govt-hospit",
-        "title": "Delhi: PAC flags overcrowding, shortage of basic facilities in govt hospitals; calls for time-bound action",
-        "summary": "In its report presented in the Assembly on Monday, the committee examined the Comptroller and Auditor General's performance audit titled \"Report of the Comptroller & Auditor General of India on Public Health Infrastructure and Management of Health Services...",
+        "id": "2026-03-22-who-calls-for-urgent-action-as-south-east-asia-leads-in-tuberculosis-bur",
+        "title": "WHO calls for urgent action as South-East Asia leads in tuberculosis burden",
+        "summary": "On the World TB Day, the WHO called for stronger national leaderships, sustained investment and continued engagement of communities and people to control the spread of the disease.",
         "source": "ET Healthworld",
         "sourceHost": "health.economictimes.indiatimes.com",
         "region": "India",
         "country": "India",
-        "publishedAt": "2026-03-24T02:09:09.000Z",
-        "publishedLabel": "March 24, 2026",
+        "publishedAt": "2026-03-25T02:29:42.000Z",
+        "publishedLabel": "March 25, 2026",
         "category": "Industry Update",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-129765375,imgsize-84344,width-1200,height=627,overlay-ethealth,resizemode-75/policy/delhi-pac-flags-overcrowding-shortage-of-basic-facilities-in-govt-hospitals-calls-for-time-bound-action.jpg",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-129789829,imgsize-160560,width-1200,height=627,overlay-ethealth,resizemode-75/industry/who-calls-for-urgent-action-as-south-east-asia-leads-in-tuberculosis-burden.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
         "justIn": true,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/policy/delhi-pac-flags-overcrowding-shortage-of-basic-facilities-in-govt-hospitals-calls-for-time-bound-action/129765375",
-        "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-delhi-pac-flags-overcrowding-shortage-of-basic-facilities-in-govt-hospit"
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/who-calls-for-urgent-action-as-south-east-asia-leads-in-tuberculosis-burden/129789829",
+        "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-who-calls-for-urgent-action-as-south-east-asia-leads-in-tuberculosis-bur"
       },
       {
-        "id": "2026-03-22-med-device-industry-seeks-duty-refund-as-west-asia-conflict-fuels-input-",
-        "title": "Med device industry seeks duty refund as West Asia conflict fuels Input cost",
-        "summary": "According to AiMeD, ever since the outbreak of war in Iran, prices of critical plastics used in medical disposables have risen by 50 per cent, while packaging materials have increased by over 20 per cent.",
-        "source": "ET Healthworld",
-        "sourceHost": "health.economictimes.indiatimes.com",
+        "id": "2026-03-22-centre-steps-up-oversight-on-glp-1-drugs-amid-concerns-over-improper-pra",
+        "title": "Centre steps up oversight on GLP-1 drugs amid concerns over 'improper' practices",
+        "summary": "India's drug regulator is increasing oversight of GLP-1 weight loss drugs. Inspections across 49 entities revealed violations like unauthorized sales and improper prescriptions. Strict actions, including license cancellation, will be taken against...",
+        "source": "Economic Times Pharma",
+        "sourceHost": "economictimes.indiatimes.com",
         "region": "India",
         "country": "India",
-        "publishedAt": "2026-03-24T01:54:00.000Z",
-        "publishedLabel": "March 24, 2026",
+        "publishedAt": "2026-03-24T18:46:42.000Z",
+        "publishedLabel": "March 25, 2026",
         "category": "Industry Update",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-129765449,imgsize-71750,width-1200,height=627,overlay-ethealth,resizemode-75/medical-devices/med-device-industry-seeks-duty-refund-as-west-asia-conflict-fuels-input-cost.jpg",
+        "image": "https://img.etimg.com/thumb/msid-129785270,width-1200,height-630,imgsize-59094,overlay-economictimes/articleshow.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
         "justIn": true,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/medical-devices/med-device-industry-seeks-duty-refund-as-west-asia-conflict-fuels-input-cost/129765449",
-        "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-med-device-industry-seeks-duty-refund-as-west-asia-conflict-fuels-input-"
+        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/centre-steps-up-oversight-on-glp-1-drugs-amid-concerns-over-improper-practices/articleshow/129785262.cms",
+        "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-centre-steps-up-oversight-on-glp-1-drugs-amid-concerns-over-improper-pra"
       },
       {
-        "id": "2026-03-22-indian-cities-show-similar-antibiotic-resistance-genes-in-wastewater-ccm",
-        "title": "Indian cities show similar antibiotic resistance genes in wastewater: CCMB study",
-        "summary": "The analysis showed that microbial communities varied across cities because of local environmental factors. Klebsiella pneumoniae was found to be more abundant in Chennai and Mumbai, while Pseudomonas aeruginosa was more abundant in Kolkata. Yet the genes...",
+        "id": "2026-03-22-ors-labelling-medical-bodies-condemn-notice-to-hyderabad-based-paediatri",
+        "title": "ORS labelling: Medical bodies condemn notice to Hyderabad-based paediatrician",
+        "summary": "The organisations termed the move an attempt to silence evidence-based medical opinion and called for the immediate withdrawal of the notice. They collectively warned that if the legal notice is not withdrawn promptly, the association, in coordination with...",
         "source": "ET Healthworld",
         "sourceHost": "health.economictimes.indiatimes.com",
         "region": "India",
         "country": "India",
-        "publishedAt": "2026-03-23T13:23:00.000Z",
-        "publishedLabel": "March 23, 2026",
+        "publishedAt": "2026-03-25T02:42:51.000Z",
+        "publishedLabel": "March 25, 2026",
         "category": "Industry Update",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-129747783,imgsize-157670,width-1200,height=627,overlay-ethealth,resizemode-75/industry/indian-cities-show-similar-antibiotic-resistance-genes-in-wastewater-ccmb-study.jpg",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-129789851,imgsize-165548,width-1200,height=627,overlay-ethealth,resizemode-75/industry/ors-labelling-medical-bodies-condemn-notice-to-hyderabad-based-paediatrician.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
         "justIn": true,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/indian-cities-show-similar-antibiotic-resistance-genes-in-wastewater-ccmb-study/129747783",
-        "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-indian-cities-show-similar-antibiotic-resistance-genes-in-wastewater-ccm"
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/ors-labelling-medical-bodies-condemn-notice-to-hyderabad-based-paediatrician/129789851",
+        "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-ors-labelling-medical-bodies-condemn-notice-to-hyderabad-based-paediatri"
       },
       {
-        "id": "2026-03-22-doctors-call-for-sustained-action-to-eradicate-tb-warn-of-impact-on-fert",
-        "title": "Doctors call for sustained action to eradicate TB; warn of impact on fertility, overall health",
-        "summary": "India remains among the countries with the highest TB burden globally, with over 27 lakh cases reported in 2024, according to available data.",
+        "id": "2026-03-22-nadda-launches-next-phase-of-focused-intensified-100-day-tb-mukt-bharat-",
+        "title": "Nadda launches next phase of focused, intensified 100-day TB Mukt Bharat campaign",
+        "summary": "The campaign will cover 1.58 lakh villages and urban wards, each guided by granular, locally tailored micro-plans, ensuring precision in implementation and measurable outcomes, Nadda said.",
         "source": "ET Healthworld",
         "sourceHost": "health.economictimes.indiatimes.com",
         "region": "India",
         "country": "India",
-        "publishedAt": "2026-03-24T11:53:11.000Z",
-        "publishedLabel": "March 24, 2026",
-        "category": "Industry Update",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-129775895,imgsize-60662,width-1200,height=627,overlay-ethealth,resizemode-75/industry/doctors-call-for-sustained-action-to-eradicate-tb-warn-of-impact-on-fertility-overall-health.jpg",
+        "publishedAt": "2026-03-25T02:27:04.000Z",
+        "publishedLabel": "March 25, 2026",
+        "category": "Launch",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-129789797,imgsize-65464,width-1200,height=627,overlay-ethealth,resizemode-75/policy/nadda-launches-next-phase-of-focused-intensified-100-day-tb-mukt-bharat-campaign.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
         "justIn": true,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/doctors-call-for-sustained-action-to-eradicate-tb-warn-of-impact-on-fertility-overall-health/129775895",
-        "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-doctors-call-for-sustained-action-to-eradicate-tb-warn-of-impact-on-fert"
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/policy/nadda-launches-next-phase-of-focused-intensified-100-day-tb-mukt-bharat-campaign/129789797",
+        "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-nadda-launches-next-phase-of-focused-intensified-100-day-tb-mukt-bharat-"
       },
       {
         "id": "2026-03-22-we-are-discovery-rich-but-development-poor",
@@ -258,7 +310,7 @@
         "category": "Industry Update",
         "image": "https://img.etimg.com/thumb/msid-129740852,width-1200,height-900,overlay-economictimes/industry/healthcare/biotech/pharmaceuticals/we-are-discovery-rich-but-development-poor.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/we-are-discovery-rich-but-development-poor/videoshow/129740852.cms",
         "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-we-are-discovery-rich-but-development-poor"
       },
@@ -275,7 +327,7 @@
         "category": "Industry Update",
         "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/03/24140553/New-Project-2-1.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/news/second-edition-of-dia-medtech-conference-to-focus-on-safe-smart-and-scalable-medtech-innovation/453146/",
         "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-second-edition-of-dia-medtech-conference-to-focus-on-safe-smart-and-scal"
       },
@@ -292,7 +344,7 @@
         "category": "Industry Update",
         "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2020/04/08151611/GettyImages-1169192820-e1721710094611.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/news/seqrite-report-flags-rise-in-cyberattacks-on-healthcare-and-pharma-sector-in-india/453120/",
         "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-seqrite-report-flags-rise-in-cyberattacks-on-healthcare-and-pharma-secto"
       },
@@ -309,7 +361,7 @@
         "category": "Industry Update",
         "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2024/07/24150826/EH_Rajiv_Nath_Forum_Cordinator_AiMeD_750.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/news/strait-of-hormuz-disruption-raises-costs-supply-concerns-for-medical-devices-rajiv-nath/453128/",
         "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-strait-of-hormuz-disruption-raises-costs-supply-concerns-for-medical-dev"
       },
@@ -326,7 +378,7 @@
         "category": "Launch",
         "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2021/07/01130827/Doctors-consultation.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/news/trivitron-healthcare-launches-kiran-smart-track-app-for-radiation-protection-apparel-tracking/453132/",
         "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-trivitron-healthcare-launches-kiran-smart-track-app-for-radiation-protec"
       },
@@ -343,7 +395,7 @@
         "category": "Approval",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/03/image-1600x900-2026-03-24T122532.971.png",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/03/24/novo-nordisk-secures-fda-approval-for-high-dose-wegovy-as-patent-expiry-looms/",
         "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-novo-nordisk-secures-fda-approval-for-high-dose-wegovy-as-patent-expiry-"
       },
@@ -360,7 +412,7 @@
         "category": "Manufacturing",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/03/image-1600x900-2026-03-24T104708.735.png",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/03/24/novartis-commits-usd480m-to-scale-china-operations-amid-multinational-investment-surge/",
         "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-novartis-commits-usd480m-to-scale-china-operations-amid-multinational-in"
       },
@@ -377,7 +429,7 @@
         "category": "Clinical Trial",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/03/image-1600x900-2026-03-24T124648.777.png",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/03/24/abu-dhabi-launches-uaes-first-gene-therapy-clinical-trial-for-retinitis-pigmentosa/",
         "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-abu-dhabi-launches-uae-s-first-gene-therapy-clinical-trial-for-retinitis"
       },
@@ -394,7 +446,7 @@
         "category": "Manufacturing",
         "image": "https://medicaldialogues.in/h-upload/2023/02/06/200687-eye-drop-new.jpg",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/cdsco-flags-illegal-manufacturing-of-sodium-hyaluronate-eye-drops-seeks-immediate-action-167045",
         "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-cdsco-flags-illegal-manufacturing-of-sodium-hyaluronate-eye-drops-seeks-"
       },
@@ -411,7 +463,7 @@
         "category": "Manufacturing",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/03/image-1600x900-2026-03-24T120943.383.png",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/03/24/indian-pharma-giants-launch-generic-semaglutide-as-novo-nordisk-patent-expires/",
         "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-indian-pharma-giants-launch-generic-semaglutide-as-novo-nordisk-patent-e"
       },
@@ -428,7 +480,7 @@
         "category": "Approval",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/03/image-1600x900-2026-03-24T103501.198.png",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/03/24/apollo-acquires-37-stake-in-syntegon-from-cvc-capital-partners/",
         "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-apollo-acquires-37-stake-in-syntegon-from-cvc-capital-partners-healthcar"
       },
@@ -445,7 +497,7 @@
         "category": "Industry Update",
         "image": "https://medicaldialogues.in/h-upload/2024/01/23/230825-cdsco-drug-alert.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/cdsco/nsq-drug-alert-60-batches-including-paracetamol-cefixime-telmisartan-fail-cdsco-quality-tests-in-february-167138",
         "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-nsq-drug-alert-60-batches-including-paracetamol-cefixime-telmisartan-fai"
       },
@@ -462,7 +514,7 @@
         "category": "Clinical Trial",
         "image": "https://www.pharmatutor.org/sites/default/files/styles/webp/public/2026-03/dtab-backs-major-reform-all-antimicrobials-may-soon-be-classified-as-new-drugs-in-india.jpg.webp?itok=g2_Mfxcj",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/dtab-backs-major-reform-all-antimicrobials-may-soon-be-classified-as-new-drugs-in-india",
         "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-dtab-backs-major-reform-all-antimicrobials-may-soon-be-classified-as-new"
       },
@@ -479,7 +531,7 @@
         "category": "Manufacturing",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/03/image-1600x900-2026-03-24T111128.624.png",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/03/24/collegium-pharmaceutical-acquires-azstarys-to-strengthen-its-adhd-drug-portfolio/",
         "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-collegium-pharmaceutical-acquires-azstarys-to-strengthen-its-adhd-drug-p"
       },
@@ -496,7 +548,7 @@
         "category": "Industry Update",
         "image": "https://www.pharmatutor.org/sites/default/files/styles/webp/public/2026-03/Aindias-drug-regulator-gives-conditional-green-light-to-zyduss-first-human-trial-for-chikungunya-vaccinedd%20a%20subheading.jpg.webp?itok=P34-oVXm",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/indias-drug-regulator-gives-conditional-green-light-to-zyduss-first-human-trial-for-chikungunya-vaccine",
         "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-india-s-drug-regulator-gives-conditional-green-light-to-zydus-s-first-hu"
       },
@@ -513,7 +565,7 @@
         "category": "Industry Update",
         "image": "https://www.pharmatutor.org/sites/default/files/styles/webp/public/2026-03/dtab-eases-compliance-burden-while-tightening-quality-norms-under-revised-schedule-m.jpg.webp?itok=idiEymWN",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/dtab-eases-compliance-burden-while-tightening-quality-norms-under-revised-schedule-m",
         "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-dtab-eases-compliance-burden-while-tightening-quality-norms-under-revise"
       },
@@ -530,7 +582,7 @@
         "category": "Industry Update",
         "image": "https://medicaldialogues.in/h-upload/2024/06/17/241365-spurious-drug-alert.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/cdsco/cdsco-flags-4-drug-batches-as-suspected-spurious-in-february-2026-alert-167128",
         "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-cdsco-flags-4-drug-batches-as-suspected-spurious-in-february-2026-alert"
       },
@@ -547,7 +599,7 @@
         "category": "Approval",
         "image": "https://medicaldialogues.in/h-upload/2023/06/24/212730-bristol.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/bristol-myers-squibb-wins-usfda-approval-for-opdivo-combo-in-hodgkin-lymphoma-167132",
         "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-bristol-myers-squibb-wins-usfda-approval-for-opdivo-combo-in-hodgkin-lym"
       },
@@ -564,7 +616,7 @@
         "category": "Approval",
         "image": "https://medicaldialogues.in/h-upload/2024/03/05/233623-cipla-50-2.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/cipla-announces-leadership-change-usd-100-million-investment-approves-inzpera-merger-167036",
         "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-cipla-announces-leadership-change-usd-100-million-investment-approves-in"
       },
@@ -581,7 +633,7 @@
         "category": "Manufacturing",
         "image": "https://medicaldialogues.in/h-upload/2023/01/10/197353-astrazeneca-1.jpg",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/astrazeneca-to-set-up-cell-therapy-hub-in-shanghai-expands-car-t-capabilities-in-china-167035",
         "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-astrazeneca-to-set-up-cell-therapy-hub-in-shanghai-expands-car-t-capabil"
       },
@@ -598,7 +650,7 @@
         "category": "Market",
         "image": "https://medicaldialogues.in/h-upload/2026/01/14/321171-weight-loss-drug1.jpg",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/dcgi-orders-audits-steps-up-action-on-glp-1-weight-loss-drugs-misuse-and-marketing-167208",
         "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-dcgi-orders-audits-steps-up-action-on-glp-1-weight-loss-drugs-misuse-and"
       },
@@ -615,7 +667,7 @@
         "category": "Industry Update",
         "image": "https://www.pharmatutor.org/sites/default/files/styles/webp/public/2026-03/after-decades-of-waiting-a-lyme-disease-vaccine-may-finally-be-on-the-horizon.jpg.webp?itok=M92uz7u-",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/after-decades-of-waiting-a-lyme-disease-vaccine-may-finally-be-on-the-horizon",
         "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-after-decades-of-waiting-a-lyme-disease-vaccine-may-finally-be-on-the-ho"
       },
@@ -632,7 +684,7 @@
         "category": "Deal",
         "image": "https://medicaldialogues.in/h-upload/2022/10/14/187926-gilead-sciences-new.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/gilead-to-acquire-ouro-medicines-in-usd-2-billion-deal-to-boost-immunology-pipeline-167200",
         "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-gilead-to-acquire-ouro-medicines-in-usd-2-billion-deal-to-boost-immunolo"
       },
@@ -649,7 +701,7 @@
         "category": "Manufacturing",
         "image": "https://medicaldialogues.in/h-upload/2023/02/01/200249-alkem-new.jpg",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/alkem-gets-eu-gmp-compliance-certificate-for-daman-facility-from-malta-authority-167136",
         "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-alkem-gets-eu-gmp-compliance-certificate-for-daman-facility-from-malta-a"
       },
@@ -666,7 +718,7 @@
         "category": "Deal",
         "image": "https://medicaldialogues.in/h-upload/2024/05/11/237942-eris-lifesciences-new-50.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/eris-lifesciences-acquires-velbioms-probiotic-portfolio-for-rs-50-crore-167129",
         "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-eris-lifesciences-acquires-velbiom-s-probiotic-portfolio-for-rs-50-crore"
       },
@@ -683,7 +735,7 @@
         "category": "Industry Update",
         "image": "https://medicaldialogues.in/h-upload/2022/10/16/188122-pure-and-cure-new.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/cdsco-panel-recommends-key-changes-in-phase-iii-study-of-glimepiride-linagliptin-fdc-167043",
         "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-cdsco-panel-recommends-key-changes-in-phase-iii-study-of-glimepiride-lin"
       },
@@ -700,7 +752,7 @@
         "category": "Industry Update",
         "image": "https://medicaldialogues.in/h-upload/2025/12/08/313252-medicine-50.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/govt-panel-drops-plan-to-ban-ads-on-schedule-g-drugs-cites-alternative-approach-167037",
         "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-govt-panel-drops-plan-to-ban-ads-on-schedule-g-drugs-cites-alternative-a"
       },
@@ -717,7 +769,7 @@
         "category": "Industry Update",
         "image": "https://medicaldialogues.in/h-upload/2025/02/06/272986-cyber-crime.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/ahmedabad-pharma-firm-duped-of-rs-50-lakh-in-email-spoofing-fraud-167203",
         "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-ahmedabad-pharma-firm-duped-of-rs-50-lakh-in-email-spoofing-fraud"
       },
@@ -734,7 +786,7 @@
         "category": "Manufacturing",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/03/image-1600x900-2026-03-24T123858.274.png",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/03/24/tanzania-sets-2026-health-priorities-to-accelerate-universal-health-coverage/",
         "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-tanzania-sets-2026-health-priorities-to-accelerate-universal-health-cove"
       },
@@ -751,7 +803,7 @@
         "category": "Industry Update",
         "image": "https://medicaldialogues.in/h-upload/2024/02/20/232620-eli-lilly-50-1.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/lillys-retatrutide-shows-strong-sugar-weight-loss-gains-in-late-stage-trial-167019",
         "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-lilly-s-retatrutide-shows-strong-sugar-weight-loss-gains-in-late-stage-t"
       },
@@ -768,7 +820,7 @@
         "category": "Industry Update",
         "image": "https://medicaldialogues.in/h-upload/2020/09/07/134218-usfda.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/usfda-flags-seizure-risk-in-parkinsons-drugs-orders-label-updates-167134",
         "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-usfda-flags-seizure-risk-in-parkinson-s-drugs-orders-label-updates"
       },
@@ -785,7 +837,7 @@
         "category": "Industry Update",
         "image": "https://medicaldialogues.in/h-upload/2024/01/20/230600-roche-50.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/roche-drops-muscle-disease-drug-after-trial-failure-167133",
         "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-roche-drops-muscle-disease-drug-after-trial-failure"
       }
@@ -804,7 +856,7 @@
         "category": "Hospital",
         "image": "https://etimg.etb2bimg.com/thumb/msid-129747522,imgsize-169090,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/kims-hospitals-performs-nitrx-medial-pivot-knee-replacement.jpg",
         "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/kims-hospitals-performs-nitrx-medial-pivot-knee-replacement/129747522",
         "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-kims-hospitals-performs-nitrx-medial-pivot-knee-replacement"
       },
@@ -838,7 +890,7 @@
         "category": "Hospital",
         "image": "https://etimg.etb2bimg.com/thumb/msid-129727988,imgsize-57288,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/gr-noida-hospital-owner-nurse-held-for-trying-to-sell-newborn-for-3l.jpg",
         "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/gr-noida-hospital-owner-nurse-held-for-trying-to-sell-newborn-for-3l/129727988",
         "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-gr-noida-hospital-owner-nurse-held-for-trying-to-sell-newborn-for-3l"
       },
@@ -855,7 +907,7 @@
         "category": "AI Care Delivery",
         "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/03/24151957/New-Project-1-2.jpg",
         "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/news/fortis-institute-of-minimally-invasive-brain-spine-surgery-inaugrated-at-the-first-annual-neurosciences-conclave-in-mumbai/453144/",
         "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-fortis-institute-of-minimally-invasive-brain-and-spine-surgery-inaugrate"
       },
@@ -872,7 +924,7 @@
         "category": "Provider Update",
         "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/03/23142946/EH_GB_Dev_750.jpg",
         "thbAction": "Recommend THB's patient engagement workflows to improve acquisition, follow-up adherence, and post-discharge retention for expanding provider groups.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/news/caregiver-capital-the-invisible-workforce-powering-cancer-care/453122/",
         "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-caregiver-capital-the-invisible-workforce-powering-cancer-care"
       },
@@ -889,7 +941,7 @@
         "category": "Hospital",
         "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/03/24113838/New-Project-3.jpg",
         "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/news/qcil-signs-mou-with-intuitive-to-expand-robotic-assisted-surgery-in-tier-2-and-3-markets/453135/",
         "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-qcil-signs-mou-with-intuitive-to-expand-robotic-assisted-surgery-in-tier"
       },
@@ -897,7 +949,7 @@
         "id": "2026-03-22-from-emergency-response-to-everyday-prevention-rethinking-elder-care-del",
         "title": "From emergency response to everyday prevention: Rethinking elder care delivery in India",
         "summary": "Prashanth Reddy highlights the shift from emergency-led care to prevention and coordinated support in elder care delivery in India",
-        "source": "Express Healthcare",
+        "source": "Express Healthcare Posts",
         "sourceHost": "expresshealthcare.in",
         "region": "India",
         "country": "India",
@@ -906,7 +958,7 @@
         "category": "Provider Update",
         "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/03/23113938/EH_Prashanth_Reddy_750.jpg",
         "thbAction": "Recommend THB's patient engagement workflows to improve acquisition, follow-up adherence, and post-discharge retention for expanding provider groups.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/news/from-emergency-response-to-everyday-prevention-rethinking-elder-care-delivery-in-india/453117/",
         "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-from-emergency-response-to-everyday-prevention-rethinking-elder-care-del"
       },
@@ -923,7 +975,7 @@
         "category": "Patient Care",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/03/image-1600x900-2026-03-24T113138.984.png",
         "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/03/24/burjeel-holdings-opens-smart-medical-center-in-dubai-silicon-oasis/",
         "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-burjeel-holdings-opens-smart-medical-center-in-dubai-silicon-oasis-healt"
       }
@@ -959,7 +1011,7 @@
         "category": "Industry Update",
         "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/03/24144731/New-Project-4.jpg",
         "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/news/affordable-npoc-tests-help-expand-tb-testing-to-more-people/453149/",
         "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-affordable-npoc-tests-help-expand-tb-testing-to-more-people"
       },
@@ -976,7 +1028,7 @@
         "category": "Industry Update",
         "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/03/24114918/New-Project-1-1.jpg",
         "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/news/alcons-broader-commitment-is-helping-people-see-brilliantly/453138/",
         "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-alcon-s-broader-commitment-is-helping-people-see-brilliantly"
       },
@@ -993,14 +1045,48 @@
         "category": "Industry Update",
         "image": "https://medicaldialogues.in/h-upload/2022/12/09/193336-medical-device-new.jpg",
         "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/health-ministry-notifies-new-qualification-norms-for-inspectors-government-analysts-under-medical-devices-rules-167044",
         "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-health-ministry-notifies-new-qualification-norms-for-inspectors-governme"
       }
     ],
-    "healthtech": []
+    "healthtech": [
+      {
+        "id": "2026-03-22-jp-nadda-calls-for-timely-stroke-diagnosis-and-coordinated-care-at-ficci",
+        "title": "JP Nadda calls for timely stroke diagnosis and coordinated care at FICCI National Stroke Summit",
+        "summary": "Government highlights role of digital health, infrastructure and state-level action in stroke management",
+        "source": "Express Healthcare",
+        "sourceHost": "expresshealthcare.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-03-25T04:30:15.000Z",
+        "publishedLabel": "March 25, 2026",
+        "category": "Digital Health",
+        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/03/25095653/EH_Nadda_Stroke_Summit_750.jpg",
+        "thbAction": "",
+        "justIn": false,
+        "originalUrl": "https://www.expresshealthcare.in/news/jp-nadda-calls-for-timely-stroke-diagnosis-and-coordinated-care-at-ficci-national-stroke-summit/453157/",
+        "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-jp-nadda-calls-for-timely-stroke-diagnosis-and-coordinated-care-at-ficci"
+      }
+    ]
   },
   "thbActions": [
+    {
+      "segment": "pharma",
+      "articleId": "2026-03-22-us-based-warburg-pincus-in-talks-to-buy-maneesh-pharma-unit-in-rs-1-800-",
+      "title": "US-based Warburg Pincus in talks to buy Maneesh Pharma unit in Rs 1,800 crore deal",
+      "source": "Economic Times Pharma",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "pharma",
+      "articleId": "2026-03-22-rising-costs-of-key-chemicals-choke-production-at-drug-ingredient-makers",
+      "title": "Rising costs of key chemicals choke production at drug ingredient makers",
+      "source": "Economic Times Pharma",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
     {
       "segment": "pharma",
       "articleId": "2026-03-22-glp-1-rush-pharma-food-firms-eye-tie-ups-for-weight-loss-boom",
@@ -1021,22 +1107,6 @@
       "segment": "pharma",
       "articleId": "2026-03-22-india-tightens-grip-on-glp-1-supply-chain-amid-misuse-concerns-expands-c",
       "title": "India tightens grip on GLP-1 supply chain amid misuse concerns, expands crackdown on unapproved drugs",
-      "source": "Economic Times Pharma",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
-      "segment": "pharma",
-      "articleId": "2026-03-22-price-alone-won-t-push-weight-loss-diabetes-drug-semaglutide-sales-docto",
-      "title": "Price alone won't push weight-loss, diabetes drug semaglutide sales: Doctors",
-      "source": "Economic Times Pharma",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
-      "segment": "pharma",
-      "articleId": "2026-03-22-indian-drugmakers-flood-market-with-cheaper-versions-of-novo-s-ozempic-w",
-      "title": "Indian drugmakers flood market with cheaper versions of Novo's Ozempic, Wegovy",
       "source": "Economic Times Pharma",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."

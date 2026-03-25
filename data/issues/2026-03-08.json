@@ -5,19 +5,37 @@
   "startDate": "2026-03-07T18:30:00.000Z",
   "endDate": "2026-03-13T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-03-24T14:42:07.910Z",
+  "updatedAt": "2026-03-25T05:43:31.987Z",
   "coverage": {
-    "pharma": 1,
+    "pharma": 2,
     "providers": 11,
     "diagnostics": 0,
     "healthtech": 0
   },
   "sourcesUsed": [
+    "ET Healthworld",
     "ET Healthworld Hospitals",
     "PharmaTutor News"
   ],
   "segments": {
     "pharma": [
+      {
+        "id": "2026-03-08-c-section-births-witness-over-four-fold-rise-between-2008-09-and-2024-25",
+        "title": "C-section births witness over four-fold rise between 2008-09 and 2024-25: Govt",
+        "summary": "In a written reply to the Lok Sabha, Minister of State for Health Prataprao Jadhav said that while the total reported deliveries remained largely stable, rising marginally from 1.88 crore to 1.98 crore between 2008-09 and 2024-25, C-sections jumped from 12.03...",
+        "source": "ET Healthworld",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-03-13T02:29:46.000Z",
+        "publishedLabel": "March 13, 2026",
+        "category": "Industry Update",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-129533436,imgsize-57906,width-1200,height=627,overlay-ethealth,resizemode-75/policy/c-section-births-witness-over-four-fold-rise-between-2008-09-and-2024-25-govt.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": false,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/policy/c-section-births-witness-over-four-fold-rise-between-2008-09-and-2024-25-govt/129533436",
+        "articlePath": "/article.html?issue=2026-03-08&article=2026-03-08-c-section-births-witness-over-four-fold-rise-between-2008-09-and-2024-25"
+      },
       {
         "id": "2026-03-08-national-seminar-titled-future-pharma-ecosystem-fostering-synergy-among-",
         "title": "National Seminar titled Future Pharma Ecosystem – Fostering Synergy among Academia, Industry, Research, Regulatory and Practice",
@@ -229,6 +247,14 @@
     "healthtech": []
   },
   "thbActions": [
+    {
+      "segment": "pharma",
+      "articleId": "2026-03-08-c-section-births-witness-over-four-fold-rise-between-2008-09-and-2024-25",
+      "title": "C-section births witness over four-fold rise between 2008-09 and 2024-25: Govt",
+      "source": "ET Healthworld",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
     {
       "segment": "pharma",
       "articleId": "2026-03-08-national-seminar-titled-future-pharma-ecosystem-fostering-synergy-among-",
