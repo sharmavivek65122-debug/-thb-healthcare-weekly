@@ -5,15 +5,14 @@
   "startDate": "2026-02-21T18:30:00.000Z",
   "endDate": "2026-02-27T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-03-26T05:56:38.022Z",
+  "updatedAt": "2026-03-26T14:49:18.632Z",
   "coverage": {
-    "pharma": 6,
-    "providers": 6,
+    "pharma": 5,
+    "providers": 4,
     "diagnostics": 3,
     "healthtech": 0
   },
   "sourcesUsed": [
-    "BioSpectrum India Healthcare",
     "ET Healthworld",
     "ET Healthworld Diagnostics",
     "ET Healthworld Hospitals",
@@ -107,23 +106,6 @@
         "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-irfc-voltas-idfc-first-bank-alembic-pharma-lupin/articleshow/128756963.cms",
         "articlePath": "/article.html?issue=2026-02-22&article=2026-02-22-stocks-in-news-irfc-voltas-idfc-first-bank-alembic-pharma-lupin"
-      },
-      {
-        "id": "2026-02-22-cytiva-expands-fast-trak-process-development-and-validation-services-fac",
-        "title": "Cytiva expands Fast Trak™ process development and validation services facility in India",
-        "summary": "Cytiva expands Fast Trak™ process development and validation services facility in India",
-        "source": "BioSpectrum India Healthcare",
-        "sourceHost": "biospectrumindia.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-02-24T18:30:00.000Z",
-        "publishedLabel": "February 25, 2026",
-        "category": "Industry Update",
-        "image": "https://www.biospectrumindia.com/uploads/articles/fast_trak_blr_2-27386.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://www.biospectrumindia.com/news/16/27386/cytiva-expands-fast-trak-process-development-and-validation-services-facility-in-india.html",
-        "articlePath": "/article.html?issue=2026-02-22&article=2026-02-22-cytiva-expands-fast-trak-process-development-and-validation-services-fac"
       }
     ],
     "providers": [
@@ -194,40 +176,6 @@
         "justIn": false,
         "originalUrl": "https://www.financialexpress.com/business/healthcare/strong-demand-rise-in-complex-treatments-gst-exemption-on-health-insurance-to-drive-15-growth-in-private-hospitals-crisil/4157034/",
         "articlePath": "/article.html?issue=2026-02-22&article=2026-02-22-strong-demand-rise-in-complex-treatments-gst-exemption-on-health-insuran"
-      },
-      {
-        "id": "2026-02-22-health-minister-inaugurates-ai-based-e-icu-command-centre-at-yashoda-med",
-        "title": "Health Minister inaugurates AI-based e-ICU command centre at Yashoda Medicity",
-        "summary": "Health Minister inaugurates AI-based e-ICU command centre at Yashoda Medicity",
-        "source": "BioSpectrum India Healthcare",
-        "sourceHost": "biospectrumindia.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-02-24T18:30:00.000Z",
-        "publishedLabel": "February 25, 2026",
-        "category": "AI Care Delivery",
-        "image": "https://www.biospectrumindia.com/uploads/articles/image001nozl-27387.jpg",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://www.biospectrumindia.com/news/16/27387/health-minister-inaugurates-ai-based-e-icu-command-centre-at-yashoda-medicity.html",
-        "articlePath": "/article.html?issue=2026-02-22&article=2026-02-22-health-minister-inaugurates-ai-based-e-icu-command-centre-at-yashoda-med"
-      },
-      {
-        "id": "2026-02-22-aiims-bhubaneswar-becomes-first-govt-institution-in-odisha-equipped-with",
-        "title": "AIIMS Bhubaneswar becomes first govt institution in Odisha equipped with comprehensive robotic surgery programme",
-        "summary": "AIIMS Bhubaneswar becomes first govt institution in Odisha equipped with comprehensive robotic surgery programme",
-        "source": "BioSpectrum India Healthcare",
-        "sourceHost": "biospectrumindia.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-02-22T18:30:00.000Z",
-        "publishedLabel": "February 23, 2026",
-        "category": "AI Care Delivery",
-        "image": "https://www.biospectrumindia.com/uploads/articles/screenshot_23_2_2026_214854_www_careers360_com-27377.jpeg",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://www.biospectrumindia.com/news/16/27377/aiims-bhubaneswar-becomes-first-govt-institution-in-odisha-equipped-with-comprehensive-robotic-surgery-programme.html",
-        "articlePath": "/article.html?issue=2026-02-22&article=2026-02-22-aiims-bhubaneswar-becomes-first-govt-institution-in-odisha-equipped-with"
       }
     ],
     "diagnostics": [
@@ -355,14 +303,6 @@
       "articleId": "2026-02-22-strong-demand-rise-in-complex-treatments-gst-exemption-on-health-insuran",
       "title": "Strong demand, rise in complex treatments, GST exemption on health insurance to drive 15% growth in private hospitals: Crisil",
       "source": "Financial Express Healthcare",
-      "solution": "THB Provider CRM",
-      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
-    },
-    {
-      "segment": "providers",
-      "articleId": "2026-02-22-health-minister-inaugurates-ai-based-e-icu-command-centre-at-yashoda-med",
-      "title": "Health Minister inaugurates AI-based e-ICU command centre at Yashoda Medicity",
-      "source": "BioSpectrum India Healthcare",
       "solution": "THB Provider CRM",
       "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
     },
