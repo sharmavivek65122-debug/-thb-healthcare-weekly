@@ -5,12 +5,12 @@
   "startDate": "2026-03-21T18:30:00.000Z",
   "endDate": "2026-03-27T18:30:00.000Z",
   "status": "live",
-  "updatedAt": "2026-03-27T05:56:50.114Z",
+  "updatedAt": "2026-03-27T14:32:40.949Z",
   "coverage": {
-    "pharma": 50,
-    "providers": 16,
-    "diagnostics": 7,
-    "healthtech": 4
+    "pharma": 48,
+    "providers": 13,
+    "diagnostics": 9,
+    "healthtech": 3
   },
   "sourcesUsed": [
     "ET Healthworld",
@@ -21,6 +21,7 @@
     "Express Healthcare Posts",
     "Financial Express Healthcare",
     "Healthcare MEA",
+    "Lupin Updates",
     "Medical Dialogues Pharma",
     "PharmaTutor News",
     "Zawya Pharmaceuticals"
@@ -108,7 +109,7 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-129836860,imgsize-412360,width-1200,height=627,overlay-ethealth,resizemode-75/industry/iit-bombay-develops-dna-based-strategy-to-tackle-antibiotic-resistance.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/iit-bombay-develops-dna-based-strategy-to-tackle-antibiotic-resistance/129836860",
         "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-iit-bombay-develops-dna-based-strategy-to-tackle-antibiotic-resistance"
       },
@@ -232,40 +233,6 @@
         "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-india-s-drug-regulator-flags-90-unapproved-fdcs-directs-states-to-take-a"
       },
       {
-        "id": "2026-03-22-gujarat-based-biobank-powers-india-s-fight-against-rare-diseases",
-        "title": "Gujarat-Based Biobank powers India's fight against rare diseases",
-        "summary": "The facility, housed at the FRIGE's Institute of Human Genetics in Ahmedabad, has been developed over the past 22 years. Backed by government funding, the biobank brings together patient samples and detailed clinical data, enabling researchers to identify...",
-        "source": "ET Healthworld",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-03-26T06:02:33.000Z",
-        "publishedLabel": "March 26, 2026",
-        "category": "Industry Update",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-129816880,imgsize-100766,width-1200,height=627,overlay-ethealth,resizemode-75/industry/gujarat-based-biobank-powers-indias-fight-against-rare-diseases.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/gujarat-based-biobank-powers-indias-fight-against-rare-diseases/129816880",
-        "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-gujarat-based-biobank-powers-india-s-fight-against-rare-diseases"
-      },
-      {
-        "id": "2026-03-22-nathealth-pitch-standardized-baseline-benchmarks-across-healthcare-facil",
-        "title": "NATHEALTH pitch standardized baseline benchmarks across Healthcare facilities",
-        "summary": "Speaking to reporters, Ameera Shah, President, NATHEALTH said, moving beyond the Clinical Establishments Act, which is voluntary in nature and applies to a specific segment of healthcare providers, the new proposal aims to take a holistic approach, assessing...",
-        "source": "ET Healthworld",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-03-26T01:37:38.000Z",
-        "publishedLabel": "March 26, 2026",
-        "category": "Industry Update",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-129814267,imgsize-52244,width-1200,height=627,overlay-ethealth,resizemode-75/industry/nahealth-pitch-standardised-baseline-benchmarks-across-healthcare-facilities.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/nahealth-pitch-standardised-baseline-benchmarks-across-healthcare-facilities/129814267",
-        "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-nathealth-pitch-standardized-baseline-benchmarks-across-healthcare-facil"
-      },
-      {
         "id": "2026-03-22-centre-steps-up-oversight-on-glp-1-drugs-amid-concerns-over-improper-pra",
         "title": "Centre steps up oversight on GLP-1 drugs amid concerns over 'improper' practices",
         "summary": "India's drug regulator is increasing oversight of GLP-1 weight loss drugs. Inspections across 49 entities revealed violations like unauthorized sales and improper prescriptions. Strict actions, including license cancellation, will be taken against...",
@@ -283,6 +250,23 @@
         "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-centre-steps-up-oversight-on-glp-1-drugs-amid-concerns-over-improper-pra"
       },
       {
+        "id": "2026-03-22-redefining-success-in-diminished-ovarian-reserve-from-oocyte-yield-to-oo",
+        "title": "Redefining Success in Diminished Ovarian Reserve: From Oocyte Yield to Oocyte Competence",
+        "summary": "Experts underscored that while maternal age remains the most decisive factor, rising cases of early ovarian decline among Indian women driven by genetics, lifestyle, environmental factors, and medical conditions are reshaping fertility care.",
+        "source": "ET Healthworld",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-03-27T10:14:02.000Z",
+        "publishedLabel": "March 27, 2026",
+        "category": "Industry Update",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-129844399,imgsize-171200,width-1200,height=627,overlay-ethealth,resizemode-75/industry/redefining-success-in-diminished-ovarian-reserve-from-oocyte-yield-to-oocyte-competence.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/redefining-success-in-diminished-ovarian-reserve-from-oocyte-yield-to-oocyte-competence/129844399",
+        "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-redefining-success-in-diminished-ovarian-reserve-from-oocyte-yield-to-oo"
+      },
+      {
         "id": "2026-03-22-trump-delays-naming-new-cdc-head-bhattacharya-will-still-oversee-agency",
         "title": "Trump delays naming new CDC head, Bhattacharya will still oversee agency",
         "summary": "The CDC ⁠has been in a state of uncertainty since U.S. President Donald ​Trump fired Director Susan Monarez in August after she objected to Health ​Secretary Robert F. Kennedy Jr.'s proposed vaccine policy changes.",
@@ -295,26 +279,9 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-129836837,imgsize-89980,width-1200,height=627,overlay-ethealth,resizemode-75/industry/trump-delays-naming-new-cdc-head-bhattacharya-will-still-oversee-agency.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/trump-delays-naming-new-cdc-head-bhattacharya-will-still-oversee-agency/129836837",
         "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-trump-delays-naming-new-cdc-head-bhattacharya-will-still-oversee-agency"
-      },
-      {
-        "id": "2026-03-22-tb-remains-india-s-biggest-infectious-killer-but-mass-screening-push-sho",
-        "title": "TB remains India's biggest infectious killer, but mass screening push shows results",
-        "summary": "Tuberculosis continues to be India's biggest infectious disease challenge, according to the Tuberculosis Fact Sheet 2026 released by the Centre. India contributes about 25% of the global TB burden, with five countries together accounting for over half of all...",
-        "source": "ET Healthworld",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-03-26T02:22:59.000Z",
-        "publishedLabel": "March 26, 2026",
-        "category": "Industry Update",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-129814415,imgsize-99096,width-1200,height=627,overlay-ethealth,resizemode-75/industry/tb-remains-indias-biggest-infectious-killer-but-mass-screening-push-shows-results.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/tb-remains-indias-biggest-infectious-killer-but-mass-screening-push-shows-results/129814415",
-        "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-tb-remains-india-s-biggest-infectious-killer-but-mass-screening-push-sho"
       },
       {
         "id": "2026-03-22-we-are-discovery-rich-but-development-poor",
@@ -351,23 +318,6 @@
         "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-second-edition-of-dia-medtech-conference-to-focus-on-safe-smart-and-scal"
       },
       {
-        "id": "2026-03-22-strait-of-hormuz-disruption-raises-costs-supply-concerns-for-medical-dev",
-        "title": "Strait of Hormuz disruption raises costs, supply concerns for medical devices: Rajiv Nath",
-        "summary": "AiMeD flags input cost surge, freight challenges and policy support needs amid ongoing supply chain disruption",
-        "source": "Express Healthcare Posts",
-        "sourceHost": "expresshealthcare.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-03-23T10:30:07.000Z",
-        "publishedLabel": "March 23, 2026",
-        "category": "Industry Update",
-        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2024/07/24150826/EH_Rajiv_Nath_Forum_Cordinator_AiMeD_750.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://www.expresshealthcare.in/news/strait-of-hormuz-disruption-raises-costs-supply-concerns-for-medical-devices-rajiv-nath/453128/",
-        "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-strait-of-hormuz-disruption-raises-costs-supply-concerns-for-medical-dev"
-      },
-      {
         "id": "2026-03-22-feppa-2026-to-host-pelvic-pain-conference-in-chennai",
         "title": "FEPPA 2026 to host pelvic pain conference in Chennai",
         "summary": "Event to focus on multidisciplinary approaches to chronic pelvic pain across clinical specialties",
@@ -385,21 +335,38 @@
         "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-feppa-2026-to-host-pelvic-pain-conference-in-chennai"
       },
       {
-        "id": "2026-03-22-trivitron-healthcare-launches-kiran-smart-track-app-for-radiation-protec",
-        "title": "Trivitron Healthcare launches Kiran Smart Track app for radiation protection apparel tracking",
-        "summary": "Application enables QR-based tracking, product verification and compliance management in healthcare settings",
-        "source": "Express Healthcare Posts",
-        "sourceHost": "expresshealthcare.in",
+        "id": "2026-03-22-fda-approves-first-gene-therapy-for-severe-leukocyte-adhesion-deficiency",
+        "title": "FDA Approves First Gene Therapy for Severe Leukocyte Adhesion Deficiency Type I",
+        "summary": "The U.S. Food and Drug Administration today approved Kresladi (marnetegragene autotemcel), the first gene therapy for the treatment of severe Leukocyte Adhesion Deficiency Type I (LAD-I). Kresladi is indicated for the treatment of pediatric patients with...",
+        "source": "PharmaTutor News",
+        "sourceHost": "pharmatutor.org",
         "region": "India",
         "country": "India",
-        "publishedAt": "2026-03-23T11:22:35.000Z",
-        "publishedLabel": "March 23, 2026",
-        "category": "Launch",
-        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2021/07/01130827/Doctors-consultation.jpg",
+        "publishedAt": "2026-03-27T10:56:57.000Z",
+        "publishedLabel": "March 27, 2026",
+        "category": "Industry Update",
+        "image": "https://www.pharmatutor.org/sites/default/files/styles/webp/public/2026-03/fda-approves-first-gene-therapy-for-severe-leukocyte-adhesion-deficiency-type-i.jpg.webp?itok=UDqyE4nH",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://www.expresshealthcare.in/news/trivitron-healthcare-launches-kiran-smart-track-app-for-radiation-protection-apparel-tracking/453132/",
-        "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-trivitron-healthcare-launches-kiran-smart-track-app-for-radiation-protec"
+        "justIn": true,
+        "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/fda-approves-first-gene-therapy-for-severe-leukocyte-adhesion-deficiency-type-i",
+        "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-fda-approves-first-gene-therapy-for-severe-leukocyte-adhesion-deficiency"
+      },
+      {
+        "id": "2026-03-22-fda-approves-denali-s-avlayah-as-first-hunter-syndrome-treatment-for-bra",
+        "title": "FDA approves Denali's Avlayah as first Hunter Syndrome treatment for brain health | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
+        "summary": "Avlayah's approval validates Denali's blood-brain barrier shuttle technology, which the company now applies across five clinical programs targeting Alzheimer's disease, Parkinson&#0 ...",
+        "source": "Healthcare MEA",
+        "sourceHost": "healthcaremea.com",
+        "region": "Middle East",
+        "country": "Middle East",
+        "publishedAt": "2026-03-27T08:57:23.000Z",
+        "publishedLabel": "March 27, 2026",
+        "category": "Approval",
+        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/03/image-1600x900-2026-03-27T113603.862.png",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://www.healthcaremea.com/2026/03/27/fda-approves-denalis-avlayah-as-first-hunter-syndrome-treatment-for-brain-health/",
+        "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-fda-approves-denali-s-avlayah-as-first-hunter-syndrome-treatment-for-bra"
       },
       {
         "id": "2026-03-22-immunitybio-secures-first-asian-approval-for-anktiva-bladder-cancer-drug",
@@ -414,7 +381,7 @@
         "category": "Approval",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/03/image-1600x900-2026-03-26T113946.914.png",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/03/26/immunitybio-secures-first-asian-approval-for-anktiva-bladder-cancer-drug-in-macau/",
         "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-immunitybio-secures-first-asian-approval-for-anktiva-bladder-cancer-drug"
       },
@@ -482,9 +449,43 @@
         "category": "Industry Update",
         "image": "https://medicaldialogues.in/h-upload/2026/03/26/335220-animal-testing.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/uk-mhra-to-allow-drug-reviews-without-animal-testing-by-2026-issues-draft-framework-167356",
         "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-uk-mhra-to-allow-drug-reviews-without-animal-testing-by-2026-issues-draf"
+      },
+      {
+        "id": "2026-03-22-ema-reviews-gsk-s-bepirovirsen-as-potential-functional-cure-for-chronic-",
+        "title": "EMA reviews GSK’s Bepirovirsen as potential functional cure for chronic hepatitis B | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
+        "summary": "Chronic hepatitis B affects an estimated 3.2 million people in Europe alone and more than 250 million people globally.",
+        "source": "Healthcare MEA",
+        "sourceHost": "healthcaremea.com",
+        "region": "Middle East",
+        "country": "Middle East",
+        "publishedAt": "2026-03-27T10:09:56.000Z",
+        "publishedLabel": "March 27, 2026",
+        "category": "Manufacturing",
+        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/03/image-1600x900-2026-03-27T125748.342.png",
+        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
+        "justIn": true,
+        "originalUrl": "https://www.healthcaremea.com/2026/03/27/ema-reviews-gsks-bepirovirsen-as-potential-functional-cure-for-chronic-hepatitis-b/",
+        "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-ema-reviews-gsk-s-bepirovirsen-as-potential-functional-cure-for-chronic-"
+      },
+      {
+        "id": "2026-03-22-glp-1-impact-jefferies-sees-these-3-stocks-as-winners-in-the-race-for-oz",
+        "title": "GLP-1 impact: Jefferies sees these 3 stocks as winners in the race for Ozempic, Wegovy generics",
+        "summary": "Indian drug makers are launching affordable generic Semaglutide, the active ingredient in popular weight-loss drugs. Sun Pharma, Lupin, and Torrent Pharma are identified as potential market leaders. Despite initial stockouts online, companies are adjusting...",
+        "source": "Lupin Updates",
+        "sourceHost": "economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-03-27T08:52:00.000Z",
+        "publishedLabel": "March 27, 2026",
+        "category": "Market",
+        "image": "https://img.etimg.com/thumb/msid-129842836,width-1200,height-630,imgsize-754962,overlay-etmarkets/articleshow.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://economictimes.indiatimes.com/markets/stocks/news/glp-1-impact-jefferies-sees-these-3-stocks-as-winners-in-the-race-for-ozempic-wegovy-generics/articleshow/129842771.cms",
+        "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-glp-1-impact-jefferies-sees-these-3-stocks-as-winners-in-the-race-for-oz"
       },
       {
         "id": "2026-03-22-jb-chemicals-appoints-aman-mehta-as-md-expands-board-with-three-new-dire",
@@ -499,7 +500,7 @@
         "category": "Approval",
         "image": "https://medicaldialogues.in/h-upload/2020/09/07/134172-jb-chemicals.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/jb-chemicals-appoints-aman-mehta-as-md-expands-board-with-three-new-directors-167360",
         "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-jb-chemicals-appoints-aman-mehta-as-md-expands-board-with-three-new-dire"
       },
@@ -519,23 +520,6 @@
         "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/no-relief-from-sc-for-jamp-india-in-dispute-with-jubilant-generics-over-drug-rights-167284",
         "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-no-relief-from-sc-for-jamp-india-in-dispute-with-jubilant-generics-over-"
-      },
-      {
-        "id": "2026-03-22-ucb-to-build-usd2b-ai-powered-biologics-plant-in-georgia-s-rowen-distric",
-        "title": "UCB to build USD2B AI-powered biologics plant in Georgia's Rowen District | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
-        "summary": "The 460,000-square-foot factory will sit on a 79-acre plot within the Rowen innovation district, near Dacula, Georgia, approximately 35 miles northeast of downtown Atlanta.",
-        "source": "Healthcare MEA",
-        "sourceHost": "healthcaremea.com",
-        "region": "Middle East",
-        "country": "Middle East",
-        "publishedAt": "2026-03-25T09:38:53.000Z",
-        "publishedLabel": "March 25, 2026",
-        "category": "Manufacturing",
-        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/03/image-1600x900-2026-03-25T123420.697.png",
-        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
-        "originalUrl": "https://www.healthcaremea.com/2026/03/25/ucb-to-build-usd2b-ai-powered-biologics-plant-in-georgias-rowen-district/",
-        "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-ucb-to-build-usd2b-ai-powered-biologics-plant-in-georgia-s-rowen-distric"
       },
       {
         "id": "2026-03-22-india-s-drug-regulator-gives-conditional-green-light-to-zydus-s-first-hu",
@@ -589,6 +573,40 @@
         "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-cdsco-flags-4-drug-batches-as-suspected-spurious-in-february-2026-alert"
       },
       {
+        "id": "2026-03-22-jamjoom-pharma-partners-with-magrabi-health-group-to-advance-eye-care-in",
+        "title": "Jamjoom Pharma partners with Magrabi Health Group to advance eye care in Saudi Arabia | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
+        "summary": "A core focus of the partnership is building stronger capabilities among eye care professionals, whereby the two organizations will develop and launch specialized training programs designed for doc ...",
+        "source": "Healthcare MEA",
+        "sourceHost": "healthcaremea.com",
+        "region": "Middle East",
+        "country": "United Arab Emirates",
+        "publishedAt": "2026-03-27T11:39:20.000Z",
+        "publishedLabel": "March 27, 2026",
+        "category": "Manufacturing",
+        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/03/image-1600x900-2026-03-27T143257.697.png",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://www.healthcaremea.com/2026/03/27/jamjoom-pharma-partners-with-magrabi-health-group-to-advance-eye-care-in-saudi-arabia/",
+        "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-jamjoom-pharma-partners-with-magrabi-health-group-to-advance-eye-care-in"
+      },
+      {
+        "id": "2026-03-22-novo-nordisk-awiqli-approved-in-the-usa",
+        "title": "Novo Nordisk : Awiqli® approved in the USA",
+        "summary": "Novo Nordisk announced that the US Food and Drug Administration (FDA) has approved Awiqli® (insulin icodec-abae) injection 700 units/mL, the first and only once-weekly, long-acting basal insulin, indicated as an adjunct to diet and exercise to improve...",
+        "source": "PharmaTutor News",
+        "sourceHost": "pharmatutor.org",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-03-27T11:02:45.000Z",
+        "publishedLabel": "March 27, 2026",
+        "category": "Industry Update",
+        "image": "https://www.pharmatutor.org/sites/default/files/styles/webp/public/2026-03/novo-nordisk-awiqli-approved-in-the-usa.jpg.webp?itok=fv3-fa65",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://www.pharmatutor.org/content/march-2026/novo-nordisk-awiqli-approved-in-the-usa",
+        "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-novo-nordisk-awiqli-approved-in-the-usa"
+      },
+      {
         "id": "2026-03-22-aurobindo-arm-curateq-partners-stada-arzneimittel-ag-to-commercialise-bi",
         "title": "Aurobindo Arm CuraTeQ Partners STADA Arzneimittel AG to Commercialise Biosimilars in Europe",
         "summary": "Hyderabad: Aurobindo Pharma Limited has announced that its wholly owned subsidiary, CuraTeQ Biologics Pvt Ltd, has entered into a marketing and distribution agreement with Germany-based pharmaceutical...",
@@ -601,7 +619,7 @@
         "category": "Market",
         "image": "https://medicaldialogues.in/h-upload/2024/04/08/235841-aurobindo-pharma-50.jpg",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/aurobindo-arm-curateq-partners-stada-arzneimittel-ag-to-commercialise-biosimilars-in-europe-167361",
         "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-aurobindo-arm-curateq-partners-stada-arzneimittel-ag-to-commercialise-bi"
       },
@@ -618,7 +636,7 @@
         "category": "Launch",
         "image": "https://medicaldialogues.in/h-upload/2024/09/25/254134-semaglutide-50-1.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/semaglutide-misuse-under-watch-telangana-dca-issues-advisory-after-generic-launch-surge-167358",
         "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-semaglutide-misuse-under-watch-telangana-dca-issues-advisory-after-gener"
       },
@@ -635,26 +653,9 @@
         "category": "Market",
         "image": "https://medicaldialogues.in/h-upload/2023/01/11/197407-novo-nordisk-4.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/novo-slashes-wegovy-prices-amid-lillys-mounjaro-surge-in-south-african-market-167357",
         "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-novo-slashes-wegovy-prices-amid-lilly-s-mounjaro-surge-in-south-african-"
-      },
-      {
-        "id": "2026-03-22-nigeria-enrolls-6-5m-pregnant-women-in-its-national-triple-elimination-p",
-        "title": "Nigeria enrolls 6.5M pregnant women in its national triple elimination program | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
-        "summary": "The Global Fund has provided USD 3 million for governance and capacity building, along with USD701 million in programmatic funding.",
-        "source": "Healthcare MEA",
-        "sourceHost": "healthcaremea.com",
-        "region": "Middle East",
-        "country": "Middle East",
-        "publishedAt": "2026-03-26T07:52:04.000Z",
-        "publishedLabel": "March 26, 2026",
-        "category": "Manufacturing",
-        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/03/image-1600x900-2026-03-26T104433.509.png",
-        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
-        "originalUrl": "https://www.healthcaremea.com/2026/03/26/nigeria-enrolls-6-5m-pregnant-women-in-its-national-triple-elimination-program/",
-        "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-nigeria-enrolls-6-5m-pregnant-women-in-its-national-triple-elimination-p"
       },
       {
         "id": "2026-03-22-pfizer-valneva-lyme-disease-vaccine-shows-over-70-efficacy-in-late-stage",
@@ -672,23 +673,6 @@
         "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/pfizer-valneva-lyme-disease-vaccine-shows-over-70-efficacy-in-late-stage-trial-167280",
         "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-pfizer-valneva-lyme-disease-vaccine-shows-over-70-efficacy-in-late-stage"
-      },
-      {
-        "id": "2026-03-22-nafdac-warns-of-fake-mabthera-cancer-drugs-circulating-in-northern-niger",
-        "title": "NAFDAC warns of fake Mabthera cancer drugs circulating in Northern Nigeria | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
-        "summary": "The warning comes after an official report from Roche Nigeria, which traced the fake products bearing batch number N2110A09 in Kaduna and Gombe States.",
-        "source": "Healthcare MEA",
-        "sourceHost": "healthcaremea.com",
-        "region": "Middle East",
-        "country": "Middle East",
-        "publishedAt": "2026-03-25T10:35:35.000Z",
-        "publishedLabel": "March 25, 2026",
-        "category": "Manufacturing",
-        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/03/image-1600x900-2026-03-25T132055.711.png",
-        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
-        "originalUrl": "https://www.healthcaremea.com/2026/03/25/nafdac-warns-of-fake-mabthera-cancer-drugs-circulating-in-northern-nigeria/",
-        "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-nafdac-warns-of-fake-mabthera-cancer-drugs-circulating-in-northern-niger"
       },
       {
         "id": "2026-03-22-dcgi-orders-audits-steps-up-action-on-glp-1-weight-loss-drugs-misuse-and",
@@ -776,23 +760,6 @@
         "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-eris-lifesciences-acquires-velbiom-s-probiotic-portfolio-for-rs-50-crore"
       },
       {
-        "id": "2026-03-22-jamjoom-pharma-magrabi-health-group-sign-mou-to-boost-eye-care-services-",
-        "title": "Jamjoom Pharma, Magrabi Health Group sign MoU to boost eye care services in Saudi",
-        "summary": "The agreement aims to enhance medical training, raise public awareness of eye health, and support innovation in treatment",
-        "source": "Zawya Pharmaceuticals",
-        "sourceHost": "zawya.com",
-        "region": "Middle East",
-        "country": "Saudi Arabia",
-        "publishedAt": "2026-03-27T05:49:07.000Z",
-        "publishedLabel": "March 27, 2026",
-        "category": "Industry Update",
-        "image": "https://static.zawya.com/view/acePublic/alias/contentid/YzEzODQ3OTItMjJmZi00/0/magrabihealth-png.jpeg?f=3%3A2",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
-        "originalUrl": "https://www.zawya.com/en/business/healthcare/jamjoom-pharma-magrabi-health-group-sign-mou-to-boost-eye-care-services-in-saudi-kdarpoi4",
-        "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-jamjoom-pharma-magrabi-health-group-sign-mou-to-boost-eye-care-services-"
-      },
-      {
         "id": "2026-03-22-cipla-foundation-partners-with-fref-to-scale-sha-p-left-nurse-led-clinic",
         "title": "Cipla Foundation partners with FREF to scale \"Sha'p Left\" nurse-led clinics | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
         "summary": "Sha'p Left addresses this directly by positioning its nurse-led surgeries in high-traffic, easily accessible locations such as busy taxi ranks, so that patients can receive care quickly and c ...",
@@ -805,7 +772,7 @@
         "category": "Manufacturing",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/03/image-1600x900-2026-03-26T120632.462.png",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/03/26/cipla-foundation-partners-with-fref-to-scale-shap-left-nurse-led-clinics/",
         "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-cipla-foundation-partners-with-fref-to-scale-sha-p-left-nurse-led-clinic"
       },
@@ -909,26 +876,9 @@
         "category": "Hospital",
         "image": "https://etimg.etb2bimg.com/thumb/msid-129802133,imgsize-109596,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/medanta-plans-400-bed-multi-specialty-facility-in-varanasi-with-rs-550-cr-investment.jpg",
         "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/medanta-plans-400-bed-multi-specialty-facility-in-varanasi-with-rs-550-cr-investment/129802133",
         "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-medanta-plans-400-bed-multi-specialty-facility-in-varanasi-with-rs-550-c"
-      },
-      {
-        "id": "2026-03-22-kims-hospitals-performs-nitrx-medial-pivot-knee-replacement",
-        "title": "KIMS Hospitals performs NitrX medial pivot knee replacement",
-        "summary": "The surgery was performed on a 65-year-old woman suffering from Grade 4 osteoarthritis, the most advanced stage of the condition, marked by severe pain, deformity and instability in walking.",
-        "source": "ET Healthworld Hospitals",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-03-23T09:00:45.000Z",
-        "publishedLabel": "March 23, 2026",
-        "category": "Hospital",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-129747522,imgsize-169090,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/kims-hospitals-performs-nitrx-medial-pivot-knee-replacement.jpg",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/kims-hospitals-performs-nitrx-medial-pivot-knee-replacement/129747522",
-        "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-kims-hospitals-performs-nitrx-medial-pivot-knee-replacement"
       },
       {
         "id": "2026-03-22-360-one-to-finance-aims-founder-s-stake-buyback",
@@ -982,6 +932,23 @@
         "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-gr-noida-hospital-owner-nurse-held-for-trying-to-sell-newborn-for-3l"
       },
       {
+        "id": "2026-03-22-maharashtra-poised-to-emerge-as-global-hub-for-integrated-healthcare-dev",
+        "title": "Maharashtra poised to emerge as global hub for integrated healthcare: Devendra Fadnavis at PULSE 2026",
+        "summary": "Highlighting the state’s long-term vision for healthcare, Chief Minister Devendra Fadnavis emphasised that Maharashtra holds immense potential to become a global destination for integrated healthcare and recovery. As the state […]",
+        "source": "Express Healthcare",
+        "sourceHost": "expresshealthcare.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-03-27T13:23:46.000Z",
+        "publishedLabel": "March 27, 2026",
+        "category": "Provider Update",
+        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/03/27185334/EH_Pulse-2026.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": true,
+        "originalUrl": "https://www.expresshealthcare.in/news/maharashtra-poised-to-emerge-as-global-hub-for-integrated-healthcare-devendra-fadnavis-at-pulse-2026/453197/",
+        "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-maharashtra-poised-to-emerge-as-global-hub-for-integrated-healthcare-dev"
+      },
+      {
         "id": "2026-03-22-fortis-institute-of-minimally-invasive-brain-and-spine-surgery-inaugrate",
         "title": "Fortis Institute of Minimally Invasive Brain & Spine Surgery inaugrated at the first annual neurosciences conclave in Mumbai",
         "summary": "The Fortis Institute of Minimally Invasive Brain & Spine Surgery was inaugurated at the first annual neurosciences conclave hosted by Fortis Institute of Neurosciences, Mumbai. The institute will be helmed […]",
@@ -999,6 +966,23 @@
         "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-fortis-institute-of-minimally-invasive-brain-and-spine-surgery-inaugrate"
       },
       {
+        "id": "2026-03-22-nathealth-appoints-dr-sangita-reddy-as-president-for-fy-2026-27",
+        "title": "NATHEALTH appoints Dr Sangita Reddy as President for FY 2026–27",
+        "summary": "New leadership team includes Himanshu Baid as Senior Vice President and Varun Khanna as Vice President",
+        "source": "Express Healthcare",
+        "sourceHost": "expresshealthcare.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-03-27T08:40:37.000Z",
+        "publishedLabel": "March 27, 2026",
+        "category": "AI Care Delivery",
+        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/01/13144501/EH_Dr_Sangita_Reddy_750.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": true,
+        "originalUrl": "https://www.expresshealthcare.in/news/nathealth-appoints-dr-sangita-reddy-as-president-for-fy-2026-27/453192/",
+        "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-nathealth-appoints-dr-sangita-reddy-as-president-for-fy-2026-27"
+      },
+      {
         "id": "2026-03-22-curemeabroad-building-global-medical-tourism-platform",
         "title": "CureMeAbroad building global medical tourism platform",
         "summary": "Pune-based startup CureMeAbroad is revolutionizing medical tourism with an AI-driven discovery platform for high-value patients from the US, UK, and Australia.",
@@ -1011,26 +995,9 @@
         "category": "Patient Care",
         "image": "https://images.financialexpressdigital.com/2026/03/footer_logo.jpg",
         "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.financialexpress.com/business/news/curemeabroad-building-global-medical-tourism-platformnbsp/4185267/",
         "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-curemeabroad-building-global-medical-tourism-platform"
-      },
-      {
-        "id": "2026-03-22-qcil-signs-mou-with-intuitive-to-expand-robotic-assisted-surgery-in-tier",
-        "title": "QCIL signs MoU with Intuitive to expand robotic-assisted surgery in tier 2 and 3 markets",
-        "summary": "Quality Care India Ltd. (QCIL), headquartered in Hyderabad has signed a Memorandum of Understanding (MoU) with Intuitive to scale robotic-assisted surgery across its multi-brand hospital network comprising CARE Hospitals, KIMSHEALTH […]",
-        "source": "Express Healthcare Posts",
-        "sourceHost": "expresshealthcare.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-03-24T06:08:50.000Z",
-        "publishedLabel": "March 24, 2026",
-        "category": "Hospital",
-        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/03/24113838/New-Project-3.jpg",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://www.expresshealthcare.in/news/qcil-signs-mou-with-intuitive-to-expand-robotic-assisted-surgery-in-tier-2-and-3-markets/453135/",
-        "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-qcil-signs-mou-with-intuitive-to-expand-robotic-assisted-surgery-in-tier"
       },
       {
         "id": "2026-03-22-pulse-2026-to-convene-healthcare-and-education-stakeholders-in-india",
@@ -1087,7 +1054,7 @@
         "id": "2026-03-22-affordplan-ahpi-tamil-nadu-sign-mou-to-enable-procurement-platform-acces",
         "title": "Affordplan, AHPI Tamil Nadu sign MoU to enable procurement platform access",
         "summary": "Partnership provides member hospitals access to Procalyx for product and price discovery in pharma and medical devices",
-        "source": "Express Healthcare",
+        "source": "Express Healthcare Posts",
         "sourceHost": "expresshealthcare.in",
         "region": "India",
         "country": "India",
@@ -1099,57 +1066,6 @@
         "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/news/affordplan-ahpi-tamil-nadu-sign-mou-to-enable-procurement-platform-access/453164/",
         "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-affordplan-ahpi-tamil-nadu-sign-mou-to-enable-procurement-platform-acces"
-      },
-      {
-        "id": "2026-03-22-cleveland-clinic-abu-dhabi-completes-first-intracept-spine-procedure-in-",
-        "title": "Cleveland Clinic Abu Dhabi completes first Intracept™ spine procedure in the Middle East",
-        "summary": "The Intracept™ Procedure targets the basivertebral nerve, which carries pain signals from damaged vertebral endplates.",
-        "source": "Healthcare MEA",
-        "sourceHost": "healthcaremea.com",
-        "region": "Middle East",
-        "country": "United Arab Emirates",
-        "publishedAt": "2026-03-25T12:19:01.000Z",
-        "publishedLabel": "March 25, 2026",
-        "category": "AI Care Delivery",
-        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/03/image-1600x900-2026-03-25T151506.574.png",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
-        "originalUrl": "https://www.healthcaremea.com/2026/03/25/cleveland-clinic-abu-dhabi-completes-first-intracept-spine-procedure-in-the-middle-east/",
-        "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-cleveland-clinic-abu-dhabi-completes-first-intracept-spine-procedure-in-"
-      },
-      {
-        "id": "2026-03-22-miden-and-fuze-sign-mou-to-bring-private-regulated-digital-assets-infras",
-        "title": "Miden and Fuze sign MoU to bring private, regulated digital assets infrastructure to mainstream banking",
-        "summary": "Agreement to scale systems that enable businesses to move digital value on blockchains without exposing customer data or transactions, while still allowing regulatory oversight",
-        "source": "Zawya Pharmaceuticals",
-        "sourceHost": "zawya.com",
-        "region": "Middle East",
-        "country": "United Arab Emirates",
-        "publishedAt": "2026-03-27T05:34:16.000Z",
-        "publishedLabel": "March 27, 2026",
-        "category": "AI Care Delivery",
-        "image": "https://static.zawya.com/view/acePublic/alias/contentid/0a74c2ad-aa33-453d-ae81-edec6b33e84f/0/webversion-jfif.jpeg?f=3%3A2",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
-        "originalUrl": "https://www.zawya.com/en/press-release/companies-news/miden-and-fuze-sign-mou-to-bring-private-regulated-digital-assets-infrastructure-to-mainstream-banking-ubwc3jgm",
-        "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-miden-and-fuze-sign-mou-to-bring-private-regulated-digital-assets-infras"
-      },
-      {
-        "id": "2026-03-22-saudi-defences-intercept-destroy-9-drones-in-eastern-region",
-        "title": "Saudi defences intercept, destroy 9 drones in Eastern Region",
-        "summary": "The drones were intercepted and destroyed in the Eastern Region",
-        "source": "Zawya Pharmaceuticals",
-        "sourceHost": "zawya.com",
-        "region": "Middle East",
-        "country": "United Arab Emirates",
-        "publishedAt": "2026-03-27T05:25:44.000Z",
-        "publishedLabel": "March 27, 2026",
-        "category": "Provider Update",
-        "image": "https://static.zawya.com/view/acePublic/alias/contentid/68dbcf04-f15e-4054-bbfe-c6cc988600eb/1/iran-crisis-saudi-meeting.jpeg?f=3%3A2",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
-        "originalUrl": "https://www.zawya.com/en/world/middle-east/saudi-defences-intercept-destroy-9-drones-in-eastern-region-sq69c2u4",
-        "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-saudi-defences-intercept-destroy-9-drones-in-eastern-region"
       }
     ],
     "diagnostics": [
@@ -1166,9 +1082,26 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-129742950,imgsize-80902,width-1200,height=627,overlay-ethealth,resizemode-75/diagnostics/silent-epidemic-60-ckd-patients-unaware-of-their-condition-finds-study.jpg",
         "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/diagnostics/silent-epidemic-60-ckd-patients-unaware-of-their-condition-finds-study/129742950",
         "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-silent-epidemic-60-ckd-patients-unaware-of-their-condition-finds-study"
+      },
+      {
+        "id": "2026-03-22-neuberg-diagnostics-introduces-blood-test-for-alzheimer-s-screening-in-c",
+        "title": "Neuberg Diagnostics introduces blood test for Alzheimer’s screening in Chennai",
+        "summary": "Mispa i60 enables detection of Alzheimer’s markers through blood sample",
+        "source": "Express Healthcare",
+        "sourceHost": "expresshealthcare.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-03-27T10:30:06.000Z",
+        "publishedLabel": "March 27, 2026",
+        "category": "Screening",
+        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2019/10/28141030/Blood-test.jpg",
+        "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
+        "justIn": true,
+        "originalUrl": "https://www.expresshealthcare.in/news/neuberg-diagnostics-introduces-blood-test-for-alzheimers-screening-in-chennai/453194/",
+        "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-neuberg-diagnostics-introduces-blood-test-for-alzheimer-s-screening-in-c"
       },
       {
         "id": "2026-03-22-affordable-npoc-tests-help-expand-tb-testing-to-more-people",
@@ -1188,23 +1121,6 @@
         "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-affordable-npoc-tests-help-expand-tb-testing-to-more-people"
       },
       {
-        "id": "2026-03-22-alcon-s-broader-commitment-is-helping-people-see-brilliantly",
-        "title": "Alcon’s broader commitment is helping people see brilliantly",
-        "summary": "Give us an overview of Alcon and where it fits into India’s need for good quality eye care. Alcon has a legacy of more than 75 years globally. Over more […]",
-        "source": "Express Healthcare Posts",
-        "sourceHost": "expresshealthcare.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-03-24T08:00:19.000Z",
-        "publishedLabel": "March 24, 2026",
-        "category": "Industry Update",
-        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/03/24114918/New-Project-1-1.jpg",
-        "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
-        "justIn": false,
-        "originalUrl": "https://www.expresshealthcare.in/news/alcons-broader-commitment-is-helping-people-see-brilliantly/453138/",
-        "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-alcon-s-broader-commitment-is-helping-people-see-brilliantly"
-      },
-      {
         "id": "2026-03-22-war-impact-supply-snarls-hit-liquid-helium-used-in-mri-scanners-and-for-",
         "title": "War impact: Supply snarls hit liquid helium used in MRI scanners & for chip-making",
         "summary": "While NATHEALTH leaders highlight a $1 trillion opportunity in raising India's Health-Adjusted Life Expectancy (HALE), the industry must first navigate rising costs and supply chain disruptions caused by the ongoing Middle East conflict.",
@@ -1222,10 +1138,27 @@
         "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-war-impact-supply-snarls-hit-liquid-helium-used-in-mri-scanners-and-for-"
       },
       {
+        "id": "2026-03-22-somniscan-brings-sleep-diagnostics-to-home-based-testing-in-india",
+        "title": "SomniScan brings sleep diagnostics to home-based testing in India",
+        "summary": "Platform enables polysomnography at home for sleep disorder diagnosis",
+        "source": "Express Healthcare",
+        "sourceHost": "expresshealthcare.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-03-27T08:18:33.000Z",
+        "publishedLabel": "March 27, 2026",
+        "category": "Diagnostics",
+        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2022/03/31144233/Obstructive-Sleep-Snoring-1.jpg",
+        "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
+        "justIn": true,
+        "originalUrl": "https://www.expresshealthcare.in/news/somniscan-brings-sleep-diagnostics-to-home-based-testing-in-india/453190/",
+        "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-somniscan-brings-sleep-diagnostics-to-home-based-testing-in-india"
+      },
+      {
         "id": "2026-03-22-uttar-pradesh-reports-healthcare-expansion-across-digital-health-coverag",
         "title": "Uttar Pradesh reports healthcare expansion across digital health, coverage and services",
         "summary": "State records progress in health records, Ayushman coverage, emergency services and maternal care over nine years",
-        "source": "Express Healthcare",
+        "source": "Express Healthcare Posts",
         "sourceHost": "expresshealthcare.in",
         "region": "India",
         "country": "India",
@@ -1251,7 +1184,7 @@
         "category": "Screening",
         "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2021/05/13184627/handshake.jpg",
         "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/news/sightsavers-india-and-abbvie-therapeutics-india-hold-glaucoma-consultation-in-jaipur/453188/",
         "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-sightsavers-india-and-abbvie-therapeutics-india-hold-glaucoma-consultati"
       },
@@ -1271,6 +1204,23 @@
         "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/news/aksigen-ivf-opens-embryology-laboratory-in-mumbai/453179/",
         "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-aksigen-ivf-opens-embryology-laboratory-in-mumbai"
+      },
+      {
+        "id": "2026-03-22-dollar-cashes-in-on-safe-haven-demand-set-for-best-month-since-july",
+        "title": "Dollar cashes in on safe-haven demand, set for best month since July",
+        "summary": "The dollar headed for ⁠its strongest monthly gain in almost a year on Friday, driven by investors seeking safety as the Middle East war ‌intensifies and hopes of de-escalation fade.",
+        "source": "Zawya Pharmaceuticals",
+        "sourceHost": "zawya.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-03-27T12:03:47.000Z",
+        "publishedLabel": "March 27, 2026",
+        "category": "Industry Update",
+        "image": "https://static.zawya.com/view/acePublic/alias/contentid/6b82cf9d-0906-40e0-9431-a10547595045/0/global-forex.jpeg?f=3%3A2",
+        "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
+        "justIn": true,
+        "originalUrl": "https://www.zawya.com/en/business/currencies/dollar-cashes-in-on-safe-haven-demand-set-for-best-month-since-july-mf8hdlj8",
+        "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-dollar-cashes-in-on-safe-haven-demand-set-for-best-month-since-july"
       }
     ],
     "healthtech": [
@@ -1278,7 +1228,7 @@
         "id": "2026-03-22-healthcare-systems-should-create-a-standard-protocol-for-gender-specific",
         "title": "Healthcare systems should create a standard protocol for gender-specific screening methods",
         "summary": "Many semi-urban and tier-2/3 regions still lack consistent cardiac diagnostic infrastructure. What steps are needed to strengthen early detection capabilities in these geographies? As per the report of The Lancet […]",
-        "source": "Express Healthcare",
+        "source": "Express Healthcare Posts",
         "sourceHost": "expresshealthcare.in",
         "region": "India",
         "country": "India",
@@ -1295,7 +1245,7 @@
         "id": "2026-03-22-india-loses-0-8-1-trillion-annually-due-to-disease-burden-bain-nathealth",
         "title": "India loses $0.8–$1 trillion annually due to disease burden: Bain, NATHEALTH report",
         "summary": "Report links healthy life expectancy, healthcare investment and GDP growth under Viksit Bharat vision",
-        "source": "Express Healthcare",
+        "source": "Express Healthcare Posts",
         "sourceHost": "expresshealthcare.in",
         "region": "India",
         "country": "India",
@@ -1324,23 +1274,6 @@
         "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/news/jp-nadda-calls-for-timely-stroke-diagnosis-and-coordinated-care-at-ficci-national-stroke-summit/453157/",
         "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-jp-nadda-calls-for-timely-stroke-diagnosis-and-coordinated-care-at-ficci"
-      },
-      {
-        "id": "2026-03-22-dubai-health-collaborates-with-dfdf-to-transform-the-uae-into-a-global-h",
-        "title": "Dubai Health collaborates with DFDF to transform the UAE into a global healthtech venture hub",
-        "summary": "The partnership directly supports Dubai's D33 Economic Agenda and aims to establish the emirate as a global leader in HealthTech innovation.",
-        "source": "Healthcare MEA",
-        "sourceHost": "healthcaremea.com",
-        "region": "Middle East",
-        "country": "United Arab Emirates",
-        "publishedAt": "2026-03-26T07:38:30.000Z",
-        "publishedLabel": "March 26, 2026",
-        "category": "AI",
-        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/03/image-1600x900-2026-03-26T103103.415.png",
-        "thbAction": "",
-        "justIn": true,
-        "originalUrl": "https://www.healthcaremea.com/2026/03/26/dubai-health-collaborates-with-dfdf-to-transform-the-uae-into-a-global-healthtech-venture-hub/",
-        "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-dubai-health-collaborates-with-dfdf-to-transform-the-uae-into-a-global-h"
       }
     ]
   },
@@ -1403,14 +1336,6 @@
     },
     {
       "segment": "providers",
-      "articleId": "2026-03-22-kims-hospitals-performs-nitrx-medial-pivot-knee-replacement",
-      "title": "KIMS Hospitals performs NitrX medial pivot knee replacement",
-      "source": "ET Healthworld Hospitals",
-      "solution": "THB Provider CRM",
-      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
-    },
-    {
-      "segment": "providers",
       "articleId": "2026-03-22-360-one-to-finance-aims-founder-s-stake-buyback",
       "title": "360 ONE to finance AIMS founder's stake buyback",
       "source": "ET Healthworld Hospitals",
@@ -1426,6 +1351,14 @@
       "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
     },
     {
+      "segment": "providers",
+      "articleId": "2026-03-22-gr-noida-hospital-owner-nurse-held-for-trying-to-sell-newborn-for-3l",
+      "title": "Gr Noida hospital owner, nurse held for trying to 'sell' newborn for ₹3L",
+      "source": "ET Healthworld Hospitals",
+      "solution": "THB Provider CRM",
+      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
+    },
+    {
       "segment": "diagnostics",
       "articleId": "2026-03-22-silent-epidemic-60-ckd-patients-unaware-of-their-condition-finds-study",
       "title": "Silent epidemic: 60% CKD patients unaware of their condition, finds study",
@@ -1435,16 +1368,16 @@
     },
     {
       "segment": "diagnostics",
-      "articleId": "2026-03-22-affordable-npoc-tests-help-expand-tb-testing-to-more-people",
-      "title": "Affordable NPOC tests help expand TB testing to more people",
-      "source": "Express Healthcare Posts",
+      "articleId": "2026-03-22-neuberg-diagnostics-introduces-blood-test-for-alzheimer-s-screening-in-c",
+      "title": "Neuberg Diagnostics introduces blood test for Alzheimer’s screening in Chennai",
+      "source": "Express Healthcare",
       "solution": "THB Diagnostics CRM",
       "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
     },
     {
       "segment": "diagnostics",
-      "articleId": "2026-03-22-alcon-s-broader-commitment-is-helping-people-see-brilliantly",
-      "title": "Alcon’s broader commitment is helping people see brilliantly",
+      "articleId": "2026-03-22-affordable-npoc-tests-help-expand-tb-testing-to-more-people",
+      "title": "Affordable NPOC tests help expand TB testing to more people",
       "source": "Express Healthcare Posts",
       "solution": "THB Diagnostics CRM",
       "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
@@ -1459,11 +1392,11 @@
     },
     {
       "segment": "diagnostics",
-      "articleId": "2026-03-22-uttar-pradesh-reports-healthcare-expansion-across-digital-health-coverag",
-      "title": "Uttar Pradesh reports healthcare expansion across digital health, coverage and services",
+      "articleId": "2026-03-22-somniscan-brings-sleep-diagnostics-to-home-based-testing-in-india",
+      "title": "SomniScan brings sleep diagnostics to home-based testing in India",
       "source": "Express Healthcare",
-      "solution": "THB Network Growth",
-      "action": "Use this signal to position THB for diagnostics network expansion, channel partner onboarding, and visibility across spoke sites, franchises, and enterprise accounts."
+      "solution": "THB Diagnostics CRM",
+      "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
     }
   ]
 }
