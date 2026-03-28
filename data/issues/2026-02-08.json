@@ -5,9 +5,9 @@
   "startDate": "2026-02-07T18:30:00.000Z",
   "endDate": "2026-02-13T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-03-27T14:32:40.949Z",
+  "updatedAt": "2026-03-28T05:40:21.979Z",
   "coverage": {
-    "pharma": 1,
+    "pharma": 0,
     "providers": 4,
     "diagnostics": 3,
     "healthtech": 0
@@ -15,29 +15,10 @@
   "sourcesUsed": [
     "ET Healthworld Diagnostics",
     "ET Healthworld Hospitals",
-    "Financial Express Healthcare",
-    "Lupin Updates"
+    "Financial Express Healthcare"
   ],
   "segments": {
-    "pharma": [
-      {
-        "id": "2026-02-08-stocks-in-news-titan-bse-kotak-mahindra-bank-marico-tata-motors-pv",
-        "title": "Stocks in news: Titan, BSE, Kotak Mahindra Bank, Marico, Tata Motors PV",
-        "summary": "Markets rallied on Monday, buoyed by global optimism and a potential India-US trade framework, with analysts eyeing a Nifty retest of 26,000. Several companies, including Titan and BSE, are in focus due to Q3 results and significant corporate developments....",
-        "source": "Lupin Updates",
-        "sourceHost": "economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-02-10T01:02:00.000Z",
-        "publishedLabel": "February 10, 2026",
-        "category": "Market",
-        "image": "https://img.etimg.com/thumb/msid-128136113,width-1200,height-630,imgsize-54812,overlay-etmarkets/articleshow.jpg",
-        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": false,
-        "originalUrl": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-titan-bse-kotak-mahindra-bank-marico-tata-motors-pv/articleshow/128136130.cms",
-        "articlePath": "/article.html?issue=2026-02-08&article=2026-02-08-stocks-in-news-titan-bse-kotak-mahindra-bank-marico-tata-motors-pv"
-      }
-    ],
+    "pharma": [],
     "providers": [
       {
         "id": "2026-02-08-ihh-healthcare-fortis-launch-ihh-catalyst-to-boost-healthcare-innovation",
@@ -164,14 +145,6 @@
     "healthtech": []
   },
   "thbActions": [
-    {
-      "segment": "pharma",
-      "articleId": "2026-02-08-stocks-in-news-titan-bse-kotak-mahindra-bank-marico-tata-motors-pv",
-      "title": "Stocks in news: Titan, BSE, Kotak Mahindra Bank, Marico, Tata Motors PV",
-      "source": "Lupin Updates",
-      "solution": "THB Commercial Analytics",
-      "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
-    },
     {
       "segment": "providers",
       "articleId": "2026-02-08-ihh-healthcare-fortis-launch-ihh-catalyst-to-boost-healthcare-innovation",
