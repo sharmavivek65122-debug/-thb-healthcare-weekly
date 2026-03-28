@@ -5,10 +5,10 @@
   "startDate": "2026-03-21T18:30:00.000Z",
   "endDate": "2026-03-27T18:30:00.000Z",
   "status": "live",
-  "updatedAt": "2026-03-28T05:40:21.979Z",
+  "updatedAt": "2026-03-28T14:05:07.401Z",
   "coverage": {
     "pharma": 50,
-    "providers": 14,
+    "providers": 13,
     "diagnostics": 8,
     "healthtech": 3
   },
@@ -23,8 +23,7 @@
     "Healthcare MEA",
     "Lupin Updates",
     "Medical Dialogues Pharma",
-    "PharmaTutor News",
-    "Zawya Pharmaceuticals"
+    "PharmaTutor News"
   ],
   "segments": {
     "pharma": [
@@ -41,7 +40,7 @@
         "category": "Market",
         "image": "https://img.etimg.com/thumb/msid-129851357,width-1200,height-630,imgsize-102884,overlay-economictimes/articleshow.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/biocon-not-to-rush-generic-semaglutide-to-packed-india-market-says-incoming-ceo/articleshow/129851354.cms",
         "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-biocon-not-to-rush-generic-semaglutide-to-packed-india-market-says-incom"
       },
@@ -112,23 +111,6 @@
         "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/india-is-well-positioned-to-attract-future-investments-patrick-johnson-president-lilly-international/articleshow/129724160.cms",
         "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-india-is-well-positioned-to-attract-future-investments-patrik-jonsson-pr"
-      },
-      {
-        "id": "2026-03-22-iit-bombay-develops-dna-based-strategy-to-tackle-antibiotic-resistance",
-        "title": "IIT Bombay develops DNA-based strategy to tackle antibiotic resistance",
-        "summary": "In the first study, the researchers focused on specially identified short strands of DNA known as aptamers. Unlike the conventional drugs, aptamers are made up of nucleic acids, synthetically produced, relatively stable, and easier to modify.",
-        "source": "ET Healthworld",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-03-27T02:28:51.000Z",
-        "publishedLabel": "March 27, 2026",
-        "category": "Industry Update",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-129836860,imgsize-412360,width-1200,height=627,overlay-ethealth,resizemode-75/industry/iit-bombay-develops-dna-based-strategy-to-tackle-antibiotic-resistance.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/iit-bombay-develops-dna-based-strategy-to-tackle-antibiotic-resistance/129836860",
-        "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-iit-bombay-develops-dna-based-strategy-to-tackle-antibiotic-resistance"
       },
       {
         "id": "2026-03-22-india-tightens-grip-on-glp-1-supply-chain-amid-misuse-concerns-expands-c",
@@ -211,7 +193,7 @@
         "category": "Industry Update",
         "image": "https://img.etimg.com/thumb/msid-129858454,width-1200,height-630,imgsize-14600,overlay-economictimes/articleshow.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/bankruptcy-court-admits-bse-listed-supha-pharmachem-under-insolvency-resolution-process/articleshow/129858439.cms",
         "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-bankruptcy-court-admits-bse-listed-supha-pharmachem-under-insolvency-res"
       },
@@ -279,7 +261,7 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-129848314,imgsize-73850,width-1200,height=627,overlay-ethealth,resizemode-75/industry/stopping-preventive-drugs-in-elderly-not-linked-to-mortality-hospitalisation-analysis.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/stopping-preventive-drugs-in-elderly-not-linked-to-mortality-hospitalisation-analysis/129848314",
         "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-stopping-preventive-drugs-in-elderly-not-linked-to-mortality-hospitalisa"
       },
@@ -296,7 +278,7 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-129857570,imgsize-78354,width-1200,height=627,overlay-ethealth,resizemode-75/policy/centre-cracks-down-on-unlicensed-ivf-devices-flouting-rules.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/policy/centre-cracks-down-on-unlicensed-ivf-devices-flouting-rules/129857570",
         "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-centre-cracks-down-on-unlicensed-ivf-devices-flouting-rules"
       },
@@ -313,7 +295,7 @@
         "category": "Industry Update",
         "image": "https://img.etimg.com/thumb/msid-129853619,width-1200,height-630,imgsize-138448,overlay-economictimes/articleshow.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/regulator-steps-up-oversight-of-glp-1-drug-distribution-chain/articleshow/129853592.cms",
         "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-regulator-steps-up-oversight-of-glp-1-drug-distribution-chain"
       },
@@ -347,7 +329,7 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-129857617,imgsize-78888,width-1200,height=627,overlay-ethealth,resizemode-75/medical-devices/medtronic-gets-us-fda-nod-to-use-surgical-system-in-cranial-ent-surgeries.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/medical-devices/medtronic-gets-us-fda-nod-to-use-surgical-system-in-cranial-ent-surgeries/129857617",
         "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-medtronic-gets-us-fda-nod-to-use-surgical-system-in-cranial-ent-surgerie"
       },
@@ -364,7 +346,7 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-129857622,imgsize-132504,width-1200,height=627,overlay-ethealth,resizemode-75/industry/colgate-must-face-lawsuits-over-safety-of-mouth-rinse-for-young-children.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/colgate-must-face-lawsuits-over-safety-of-mouth-rinse-for-young-children/129857622",
         "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-colgate-must-face-lawsuits-over-safety-of-mouth-rinse-for-young-children"
       },
@@ -500,7 +482,7 @@
         "category": "Industry Update",
         "image": "https://medicaldialogues.in/h-upload/2023/01/11/197489-natco-pharma.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/natco-pharma-to-demerge-agrochemicals-arm-approves-nigeria-entry-and-australia-exit-167466",
         "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-natco-pharma-to-demerge-agrochemicals-arm-approves-nigeria-entry-and-aus"
       },
@@ -602,9 +584,26 @@
         "category": "Industry Update",
         "image": "https://medicaldialogues.in/h-upload/2024/03/12/234089-antiarrhythmic-drugs.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/cdsco/expert-panel-flags-gaps-in-mascot-healths-diabetes-fdc-trial-seeks-revised-phase-iv-protocol-167465",
         "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-expert-panel-flags-gaps-in-mascot-health-s-diabetes-fdc-trial-seeks-revi"
+      },
+      {
+        "id": "2026-03-22-glp-1-impact-jefferies-sees-these-3-stocks-as-winners-in-the-race-for-oz",
+        "title": "GLP-1 impact: Jefferies sees these 3 stocks as winners in the race for Ozempic, Wegovy generics",
+        "summary": "Indian drug makers are launching affordable generic Semaglutide, the active ingredient in popular weight-loss drugs. Sun Pharma, Lupin, and Torrent Pharma are identified as potential market leaders. Despite initial stockouts online, companies are adjusting...",
+        "source": "Lupin Updates",
+        "sourceHost": "economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-03-27T08:52:00.000Z",
+        "publishedLabel": "March 27, 2026",
+        "category": "Market",
+        "image": "https://img.etimg.com/thumb/msid-129842836,width-1200,height-630,imgsize-754962,overlay-etmarkets/articleshow.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://economictimes.indiatimes.com/markets/stocks/news/glp-1-impact-jefferies-sees-these-3-stocks-as-winners-in-the-race-for-ozempic-wegovy-generics/articleshow/129842771.cms",
+        "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-glp-1-impact-jefferies-sees-these-3-stocks-as-winners-in-the-race-for-oz"
       },
       {
         "id": "2026-03-22-jb-chemicals-appoints-aman-mehta-as-md-expands-board-with-three-new-dire",
@@ -687,7 +686,7 @@
         "category": "Industry Update",
         "image": "https://medicaldialogues.in/h-upload/2024/01/19/230521-usfda-50.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/usfda-approves-corcept-therapeutics-ovarian-cancer-drug-lifyorli-167463",
         "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-usfda-approves-corcept-therapeutics-ovarian-cancer-drug-lifyorli"
       },
@@ -840,7 +839,7 @@
         "category": "Market",
         "image": "https://medicaldialogues.in/h-upload/2024/03/05/233643-delhi-high-court-50.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/delhi-hc-bars-dr-reddys-from-selling-olymviq-over-similarity-with-novo-nordisks-ozempic-167462",
         "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-delhi-hc-bars-dr-reddy-s-from-selling-olymviq-over-similarity-with-novo-"
       },
@@ -1100,23 +1099,6 @@
         "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/news/affordplan-ahpi-tamil-nadu-sign-mou-to-enable-procurement-platform-access/453164/",
         "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-affordplan-ahpi-tamil-nadu-sign-mou-to-enable-procurement-platform-acces"
-      },
-      {
-        "id": "2026-03-22-record-15-marketing-and-merchandising-partners-to-support-2026-basketbal",
-        "title": "Record 15 Marketing and Merchandising Partners to Support 2026 Basketball Africa League Season",
-        "summary": "Record 15 Marketing and Merchandising Partners to Support 2026 Basketball Africa League Season",
-        "source": "Zawya Pharmaceuticals",
-        "sourceHost": "zawya.com",
-        "region": "Middle East",
-        "country": "Qatar",
-        "publishedAt": "2026-03-27T14:39:32.000Z",
-        "publishedLabel": "March 27, 2026",
-        "category": "Provider Update",
-        "image": "https://www.africa-newsroom.com/files/large/5f88907fd950ab1",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
-        "originalUrl": "https://www.zawya.com/en/press-release/africa-press-releases/record-15-marketing-and-merchandising-partners-to-support-2026-basketball-africa-league-season-lkhp5v5b",
-        "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-record-15-marketing-and-merchandising-partners-to-support-2026-basketbal"
       }
     ],
     "diagnostics": [
