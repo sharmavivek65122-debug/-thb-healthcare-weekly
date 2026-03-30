@@ -5,9 +5,9 @@
   "startDate": "2026-02-28T18:30:00.000Z",
   "endDate": "2026-03-06T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-03-30T06:15:42.803Z",
+  "updatedAt": "2026-03-30T14:50:58.459Z",
   "coverage": {
-    "pharma": 8,
+    "pharma": 6,
     "providers": 4,
     "diagnostics": 4,
     "healthtech": 0
@@ -54,23 +54,6 @@
         "justIn": false,
         "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/moderna-settles-vaccine-patent-dispute-with-950-million-usd-deal",
         "articlePath": "/article.html?issue=2026-03-01&article=2026-03-01-moderna-settles-vaccine-patent-dispute-with-950-million-usd-deal"
-      },
-      {
-        "id": "2026-03-01-us-fda-approves-glenmark-s-generic-fluticasone-propionate-inhaler-for-as",
-        "title": "US FDA Approves Glenmark’s Generic Fluticasone Propionate Inhaler for Asthma Treatment",
-        "summary": "Glenmark Specialty SA has received final approval from the U.S. Food and Drug Administration for Fluticasone Propionate Inhalation Aerosol USP",
-        "source": "PharmaTutor News",
-        "sourceHost": "pharmatutor.org",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-03-05T07:27:49.000Z",
-        "publishedLabel": "March 5, 2026",
-        "category": "Approval",
-        "image": "https://www.pharmatutor.org/sites/default/files/styles/webp/public/2026-03/us-fda-approves-glenmark-generic-fluticasone-propionate-inhaler-for-asthma-treatment.png.webp?itok=pOJFK3L9",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/us-fda-approves-glenmark-generic-fluticasone-propionate-inhaler-for-asthma-treatment",
-        "articlePath": "/article.html?issue=2026-03-01&article=2026-03-01-us-fda-approves-glenmark-s-generic-fluticasone-propionate-inhaler-for-as"
       },
       {
         "id": "2026-03-01-johnson-and-johnson-therapy-nipocalimab-granted-u-s-fda-fast-track-desig",
@@ -139,23 +122,6 @@
         "justIn": false,
         "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/cdsco-issues-alert-after-theft-of-sanofi-lantus-insulin-pens-during-transit",
         "articlePath": "/article.html?issue=2026-03-01&article=2026-03-01-cdsco-issues-alert-after-theft-of-sanofi-lantus-insulin-pens-during-tran"
-      },
-      {
-        "id": "2026-03-01-sanofi-s-rilzabrutinib-earns-orphan-drug-designation-in-japan-for-igg4-r",
-        "title": "Sanofi’s rilzabrutinib earns orphan drug designation in Japan for IgG4-related disease",
-        "summary": "The Ministry of Health, Labour and Welfare (MHLW) in Japan has granted orphan drug designation to rilzabrutinib, a novel, oral, reversible covalent Bruton’s tyrosine kinase (BTK) inhibitor, for IgG4-related disease (IgG4-RD).",
-        "source": "PharmaTutor News",
-        "sourceHost": "pharmatutor.org",
-        "region": "Middle East",
-        "country": "United Arab Emirates",
-        "publishedAt": "2026-03-05T10:51:36.000Z",
-        "publishedLabel": "March 5, 2026",
-        "category": "Industry Update",
-        "image": "https://www.pharmatutor.org/sites/default/files/styles/webp/public/2026-03/sanofis-rilzabrutinib-earns-orphan-drug-designation-in-japan-for-igg4-related-disease.jpg.webp?itok=-FQopsJx",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/sanofis-rilzabrutinib-earns-orphan-drug-designation-in-japan-for-igg4-related-disease",
-        "articlePath": "/article.html?issue=2026-03-01&article=2026-03-01-sanofi-s-rilzabrutinib-earns-orphan-drug-designation-in-japan-for-igg4-r"
       }
     ],
     "providers": [
@@ -319,14 +285,6 @@
     },
     {
       "segment": "pharma",
-      "articleId": "2026-03-01-us-fda-approves-glenmark-s-generic-fluticasone-propionate-inhaler-for-as",
-      "title": "US FDA Approves Glenmark’s Generic Fluticasone Propionate Inhaler for Asthma Treatment",
-      "source": "PharmaTutor News",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
-      "segment": "pharma",
       "articleId": "2026-03-01-johnson-and-johnson-therapy-nipocalimab-granted-u-s-fda-fast-track-desig",
       "title": "Johnson & Johnson therapy nipocalimab granted U.S. FDA Fast Track designation in systemic lupus erythematosus (SLE)",
       "source": "Janssen India Media",
@@ -338,6 +296,14 @@
       "articleId": "2026-03-01-fda-approves-new-combination-therapy-for-relapsed-or-refractory-multiple",
       "title": "FDA Approves New Combination Therapy for Relapsed or Refractory Multiple Myeloma",
       "source": "PharmaTutor News",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "pharma",
+      "articleId": "2026-03-01-the-global-trend-is-moving-beyond-centralised-hubs-toward-distributed-ne",
+      "title": "â€œThe global trend is moving beyond centralised hubs toward distributed networks and domestic capabilityâ€",
+      "source": "BioSpectrum Asia Middle East",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
     },
