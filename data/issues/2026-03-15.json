@@ -5,9 +5,9 @@
   "startDate": "2026-03-14T18:30:00.000Z",
   "endDate": "2026-03-20T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-03-29T14:06:22.109Z",
+  "updatedAt": "2026-03-30T06:15:42.803Z",
   "coverage": {
-    "pharma": 7,
+    "pharma": 6,
     "providers": 7,
     "diagnostics": 4,
     "healthtech": 0
@@ -16,30 +16,12 @@
     "ET Healthworld",
     "ET Healthworld Diagnostics",
     "ET Healthworld Hospitals",
-    "Economic Times Pharma",
     "Financial Express Healthcare",
     "Janssen India Media",
     "PharmaTutor News"
   ],
   "segments": {
     "pharma": [
-      {
-        "id": "2026-03-15-india-is-well-positioned-to-attract-future-investments-says-eli-lilly-s-",
-        "title": "India is well positioned to attract future investments, says Eli Lilly's Patrik Jonsson",
-        "summary": "Eli Lilly's Patrik Jonsson urges India to accelerate regulatory review pathways to boost competitiveness, emphasizing the need for data protection and harmonized guidelines. He highlighted India's potential for investment, driven by its scientific talent,...",
-        "source": "Economic Times Pharma",
-        "sourceHost": "economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-03-21T18:18:31.000Z",
-        "publishedLabel": "March 21, 2026",
-        "category": "Industry Update",
-        "image": "https://img.etimg.com/thumb/msid-129723865,width-1200,height-630,imgsize-258450,overlay-economictimes/articleshow.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/india-is-well-positioned-to-attract-future-investments-says-eli-lillys-patrick-johnson/articleshow/129723767.cms",
-        "articlePath": "/article.html?issue=2026-03-15&article=2026-03-15-india-is-well-positioned-to-attract-future-investments-says-eli-lilly-s-"
-      },
       {
         "id": "2026-03-15-pharma-companies-rush-cheap-semaglutide-shots-to-india-experts-warn-not-",
         "title": "Pharma Companies Rush Cheap Semaglutide Shots to India, Experts Warn \"Not a Magic Fix\"",
@@ -339,14 +321,6 @@
   "thbActions": [
     {
       "segment": "pharma",
-      "articleId": "2026-03-15-india-is-well-positioned-to-attract-future-investments-says-eli-lilly-s-",
-      "title": "India is well positioned to attract future investments, says Eli Lilly's Patrik Jonsson",
-      "source": "Economic Times Pharma",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
-      "segment": "pharma",
       "articleId": "2026-03-15-pharma-companies-rush-cheap-semaglutide-shots-to-india-experts-warn-not-",
       "title": "Pharma Companies Rush Cheap Semaglutide Shots to India, Experts Warn \"Not a Magic Fix\"",
       "source": "ET Healthworld",
@@ -376,6 +350,14 @@
       "source": "Janssen India Media",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "pharma",
+      "articleId": "2026-03-15-zydus-lifesciences-and-torrent-pharmaceuticals-partner-to-co-market-sema",
+      "title": "Zydus Lifesciences & Torrent Pharmaceuticals Partner to Co-Market Semaglutide in India",
+      "source": "PharmaTutor News",
+      "solution": "THB Commercial Analytics",
+      "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
     },
     {
       "segment": "providers",

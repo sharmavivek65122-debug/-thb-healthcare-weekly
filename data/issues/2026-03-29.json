@@ -5,21 +5,41 @@
   "startDate": "2026-03-28T18:30:00.000Z",
   "endDate": "2026-04-03T18:30:00.000Z",
   "status": "live",
-  "updatedAt": "2026-03-29T14:06:22.109Z",
+  "updatedAt": "2026-03-30T06:15:42.803Z",
   "coverage": {
     "pharma": 10,
-    "providers": 1,
-    "diagnostics": 0,
+    "providers": 2,
+    "diagnostics": 2,
     "healthtech": 0
   },
   "sourcesUsed": [
     "ET Healthworld",
+    "Economic Times Pharma",
+    "Express Healthcare",
+    "Financial Express Healthcare",
     "Healthcare MEA",
     "Medical Dialogues Pharma",
     "Zawya Pharmaceuticals"
   ],
   "segments": {
     "pharma": [
+      {
+        "id": "2026-03-29-centre-looks-to-trigger-essentials-act-to-regulate-prices-of-bulk-drugs",
+        "title": "Centre looks to trigger 'Essentials' Act to regulate prices of bulk drugs",
+        "summary": "Drug prices in India: The department of pharmaceuticals (DoP) has been holding meetings with industry executives to take stock of the situation, people in the know said.",
+        "source": "Economic Times Pharma",
+        "sourceHost": "economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-03-29T19:20:53.000Z",
+        "publishedLabel": "March 30, 2026",
+        "category": "Industry Update",
+        "image": "https://img.etimg.com/thumb/msid-129886775,width-1200,height-630,imgsize-172738,overlay-economictimes/articleshow.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/centre-looks-to-trigger-essentials-act-to-regulate-prices-of-bulk-drugs/articleshow/129886764.cms",
+        "articlePath": "/article.html?issue=2026-03-29&article=2026-03-29-centre-looks-to-trigger-essentials-act-to-regulate-prices-of-bulk-drugs"
+      },
       {
         "id": "2026-03-29-medicine-nobel-to-trio-who-identified-immune-system-s-security-guards",
         "title": "Medicine Nobel to trio who identified immune system's 'security guards'",
@@ -38,6 +58,23 @@
         "articlePath": "/article.html?issue=2026-03-29&article=2026-03-29-medicine-nobel-to-trio-who-identified-immune-system-s-security-guards"
       },
       {
+        "id": "2026-03-29-india-launches-new-yoga-protocols-to-fight-lifestyle-diseases",
+        "title": "India launches new yoga protocols to fight lifestyle diseases",
+        "summary": "Launched during the Yoga Mahotsav 2026 earlier this month by Union Ayush Minister Prataprao Jadhav, the initiative is being seen as a timely intervention to tackle various lifestyle diseases.",
+        "source": "ET Healthworld",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-03-30T02:02:14.000Z",
+        "publishedLabel": "March 30, 2026",
+        "category": "Launch",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-129889755,imgsize-150332,width-1200,height=627,overlay-ethealth,resizemode-75/policy/india-launches-new-yoga-protocols-to-fight-lifestyle-diseases.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/policy/india-launches-new-yoga-protocols-to-fight-lifestyle-diseases/129889755",
+        "articlePath": "/article.html?issue=2026-03-29&article=2026-03-29-india-launches-new-yoga-protocols-to-fight-lifestyle-diseases"
+      },
+      {
         "id": "2026-03-29-novartis-acquires-excellergy-for-usd2b-to-develop-next-generation-allerg",
         "title": "Novartis acquires Excellergy for USD2B to develop next-generation allergy treatments | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
         "summary": "The acquisition signals Novartis's confidence that Exl-111 can outperform this proven therapy by taking an entirely different approach.",
@@ -50,7 +87,7 @@
         "category": "Manufacturing",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/03/image-1600x900-27.png",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/03/29/novartis-acquires-excellergy-for-usd2b-to-develop-next-generation-allergy-treatments/",
         "articlePath": "/article.html?issue=2026-03-29&article=2026-03-29-novartis-acquires-excellergy-for-usd2b-to-develop-next-generation-allerg"
       },
@@ -67,7 +104,7 @@
         "category": "Industry Update",
         "image": "https://medicaldialogues.in/h-upload/2023/11/10/225091-nppa.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/drug-prices-set-to-rise-as-nppa-clears-wpi-linked-hike-for-2025-167539",
         "articlePath": "/article.html?issue=2026-03-29&article=2026-03-29-drug-prices-set-to-rise-as-nppa-clears-wpi-linked-hike-for-2025"
       },
@@ -84,7 +121,7 @@
         "category": "Industry Update",
         "image": "https://medicaldialogues.in/h-upload/2024/01/30/231245-untitled-design-1.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/sun-pharma-to-present-ilumya-leqselvi-winlevi-data-at-aad-2026-showcases-dermatology-advances-167532",
         "articlePath": "/article.html?issue=2026-03-29&article=2026-03-29-sun-pharma-to-present-ilumya-leqselvi-winlevi-data-at-aad-2026-showcases"
       },
@@ -101,7 +138,7 @@
         "category": "Market",
         "image": "https://medicaldialogues.in/h-upload/2023/11/29/226507-medical-representative-1.jpg",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/govt-bars-medical-representatives-from-central-hospitals-to-curb-unethical-pharma-marketing-167535",
         "articlePath": "/article.html?issue=2026-03-29&article=2026-03-29-govt-bars-medical-representatives-from-central-hospitals-to-curb-unethic"
       },
@@ -123,23 +160,6 @@
         "articlePath": "/article.html?issue=2026-03-29&article=2026-03-29-sanofi-s-sarclisa-gets-ema-nod-for-subcutaneous-on-body-injector-version"
       },
       {
-        "id": "2026-03-29-sico-concludes-annual-general-meeting",
-        "title": "SICO concludes Annual General Meeting",
-        "summary": "The AGM approved the Board of Directors' recommendation to distribute a cash dividend of 7.5% of the nominal value of the ordinary shares",
-        "source": "Zawya Pharmaceuticals",
-        "sourceHost": "zawya.com",
-        "region": "Middle East",
-        "country": "United Arab Emirates",
-        "publishedAt": "2026-03-29T11:26:22.000Z",
-        "publishedLabel": "March 29, 2026",
-        "category": "Industry Update",
-        "image": "https://static.zawya.com/view/acePublic/alias/contentid/NDk1OWE5YzctNGNiNi00/2/2928-sico-abdullahkamal-113-jpg.jpeg?f=3%3A2",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
-        "originalUrl": "https://www.zawya.com/en/press-release/companies-news/sico-concludes-annual-general-meeting-ptpstu3y",
-        "articlePath": "/article.html?issue=2026-03-29&article=2026-03-29-sico-concludes-annual-general-meeting"
-      },
-      {
         "id": "2026-03-29-tanzania-convenes-ihr-technical-review-to-sharpen-public-health-emergenc",
         "title": "Tanzania convenes IHR Technical Review to sharpen public health emergency readiness | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
         "summary": "The gathering brought together stakeholders from multiple sectors to evaluate the country's progress in developing systems to prevent, detect, and respond to public health emergencies",
@@ -152,7 +172,7 @@
         "category": "Manufacturing",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/03/image-1600x900-24.png",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/03/29/tanzania-convenes-ihr-technical-review-to-sharpen-public-health-emergency-readiness/",
         "articlePath": "/article.html?issue=2026-03-29&article=2026-03-29-tanzania-convenes-ihr-technical-review-to-sharpen-public-health-emergenc"
       },
@@ -169,29 +189,29 @@
         "category": "Industry Update",
         "image": "https://medicaldialogues.in/h-upload/2025/07/24/295590-gsk-50.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/gsk-pharma-slapped-rs-2321-crore-tax-demand-plans-appeal-167537",
         "articlePath": "/article.html?issue=2026-03-29&article=2026-03-29-gsk-pharma-slapped-rs-23-21-crore-tax-demand-plans-appeal"
-      },
-      {
-        "id": "2026-03-29-lime-partners-with-cippo-egypt-to-expand-access-to-inclusive-high-qualit",
-        "title": "Lime partners with Cippo Egypt to expand access to inclusive, high-quality education",
-        "summary": "Reaffirming its commitment to making quality education accessible to all, without barriers",
-        "source": "Zawya Pharmaceuticals",
-        "sourceHost": "zawya.com",
-        "region": "Middle East",
-        "country": "United Arab Emirates",
-        "publishedAt": "2026-03-29T13:48:06.000Z",
-        "publishedLabel": "March 29, 2026",
-        "category": "Industry Update",
-        "image": "https://static.zawya.com/view/acePublic/alias/contentid/9ba5d255-80cc-45f9-bd62-6f64422fd6f2/0/1-3-jpeg.jpeg?f=3%3A2",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
-        "originalUrl": "https://www.zawya.com/en/press-release/companies-news/lime-partners-with-cippo-egypt-to-expand-access-to-inclusive-high-quality-education-til4pqz1",
-        "articlePath": "/article.html?issue=2026-03-29&article=2026-03-29-lime-partners-with-cippo-egypt-to-expand-access-to-inclusive-high-qualit"
       }
     ],
     "providers": [
+      {
+        "id": "2026-03-29-fortis-hiranandani-hospital-conducts-laparoscopic-surgery-workshop-in-na",
+        "title": "Fortis Hiranandani Hospital conducts laparoscopic surgery workshop in Navi Mumbai",
+        "summary": "Train-the-trainer programme focuses on gynaecological endoscopy and surgical training",
+        "source": "Express Healthcare",
+        "sourceHost": "expresshealthcare.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-03-30T05:03:39.000Z",
+        "publishedLabel": "March 30, 2026",
+        "category": "Hospital",
+        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2021/05/04150337/Surgery.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": true,
+        "originalUrl": "https://www.expresshealthcare.in/news/fortis-hiranandani-hospital-conducts-laparoscopic-surgery-workshop-in-navi-mumbai/453201/",
+        "articlePath": "/article.html?issue=2026-03-29&article=2026-03-29-fortis-hiranandani-hospital-conducts-laparoscopic-surgery-workshop-in-na"
+      },
       {
         "id": "2026-03-29-burjeel-holdings-tajmeel-partners-with-turkey-s-suzermed-clinic-to-launc",
         "title": "Burjeel Holdings’ Tajmeel partners with Turkey’s Suzermed Clinic to launch a hair transplant facility in Dubai",
@@ -205,19 +225,70 @@
         "category": "AI Care Delivery",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/03/image-1600x900-25.png",
         "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/03/29/burjeel-holdings-tajmeel-partners-with-turkeys-suzermed-clinic-to-launch-a-hair-transplant-facility-in-dubai/",
         "articlePath": "/article.html?issue=2026-03-29&article=2026-03-29-burjeel-holdings-tajmeel-partners-with-turkey-s-suzermed-clinic-to-launc"
       }
     ],
-    "diagnostics": [],
+    "diagnostics": [
+      {
+        "id": "2026-03-29-ai-funding-fewer-deals-larger-cheques",
+        "title": "AI funding: Fewer deals, larger cheques",
+        "summary": "Valuations inch up; early stage capital abundant",
+        "source": "Financial Express Healthcare",
+        "sourceHost": "financialexpress.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-03-29T18:02:05.000Z",
+        "publishedLabel": "March 29, 2026",
+        "category": "Industry Update",
+        "image": "https://images.financialexpressdigital.com/2026/03/artificial-intelligence-1_20260214151410_20260219160649_20260225173837_20260329180046.jpg",
+        "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
+        "justIn": false,
+        "originalUrl": "https://www.financialexpress.com/business/news/ai-funding-fewer-deals-larger-cheques/4188512/",
+        "articlePath": "/article.html?issue=2026-03-29&article=2026-03-29-ai-funding-fewer-deals-larger-cheques"
+      },
+      {
+        "id": "2026-03-29-soza-introduces-innovative-on-site-stress-assessment-with-healthy-minds-",
+        "title": "SOZA introduces innovative on-site stress assessment with Healthy Minds Club UAE",
+        "summary": "These insights empower organization and individuals to take a more informed and proactive approach to managing their health, helping to prevent longer-term complications linked to chronic stress",
+        "source": "Zawya Pharmaceuticals",
+        "sourceHost": "zawya.com",
+        "region": "Middle East",
+        "country": "United Arab Emirates",
+        "publishedAt": "2026-03-30T05:16:12.000Z",
+        "publishedLabel": "March 30, 2026",
+        "category": "Industry Update",
+        "image": "https://static.zawya.com/view/acePublic/alias/contentid/d49abe77-a834-498d-a1d8-5c58780f6331/0/sozaxhmcstresstest-jpg.jpeg?f=3%3A2",
+        "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
+        "justIn": false,
+        "originalUrl": "https://www.zawya.com/en/press-release/companies-news/soza-introduces-innovative-on-site-stress-assessment-with-healthy-minds-club-uae-t4imapup",
+        "articlePath": "/article.html?issue=2026-03-29&article=2026-03-29-soza-introduces-innovative-on-site-stress-assessment-with-healthy-minds-"
+      }
+    ],
     "healthtech": []
   },
   "thbActions": [
     {
       "segment": "pharma",
+      "articleId": "2026-03-29-centre-looks-to-trigger-essentials-act-to-regulate-prices-of-bulk-drugs",
+      "title": "Centre looks to trigger 'Essentials' Act to regulate prices of bulk drugs",
+      "source": "Economic Times Pharma",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "pharma",
       "articleId": "2026-03-29-medicine-nobel-to-trio-who-identified-immune-system-s-security-guards",
       "title": "Medicine Nobel to trio who identified immune system's 'security guards'",
+      "source": "ET Healthworld",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "pharma",
+      "articleId": "2026-03-29-india-launches-new-yoga-protocols-to-fight-lifestyle-diseases",
+      "title": "India launches new yoga protocols to fight lifestyle diseases",
       "source": "ET Healthworld",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
@@ -239,20 +310,12 @@
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
     },
     {
-      "segment": "pharma",
-      "articleId": "2026-03-29-sun-pharma-to-present-ilumya-leqselvi-winlevi-data-at-aad-2026-showcases",
-      "title": "Sun Pharma to Present ILUMYA, LEQSELVI, WINLEVI Data at AAD 2026, Showcases Dermatology Advances",
-      "source": "Medical Dialogues Pharma",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
-      "segment": "pharma",
-      "articleId": "2026-03-29-govt-bars-medical-representatives-from-central-hospitals-to-curb-unethic",
-      "title": "Govt Bars Medical Representatives from Central Hospitals to Curb Unethical Pharma Marketing",
-      "source": "Medical Dialogues Pharma",
-      "solution": "THB Commercial Analytics",
-      "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
+      "segment": "providers",
+      "articleId": "2026-03-29-fortis-hiranandani-hospital-conducts-laparoscopic-surgery-workshop-in-na",
+      "title": "Fortis Hiranandani Hospital conducts laparoscopic surgery workshop in Navi Mumbai",
+      "source": "Express Healthcare",
+      "solution": "THB Provider CRM",
+      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
     },
     {
       "segment": "providers",
@@ -261,6 +324,22 @@
       "source": "Healthcare MEA",
       "solution": "THB Provider CRM",
       "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
+    },
+    {
+      "segment": "diagnostics",
+      "articleId": "2026-03-29-ai-funding-fewer-deals-larger-cheques",
+      "title": "AI funding: Fewer deals, larger cheques",
+      "source": "Financial Express Healthcare",
+      "solution": "THB Diagnostics CRM",
+      "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
+    },
+    {
+      "segment": "diagnostics",
+      "articleId": "2026-03-29-soza-introduces-innovative-on-site-stress-assessment-with-healthy-minds-",
+      "title": "SOZA introduces innovative on-site stress assessment with Healthy Minds Club UAE",
+      "source": "Zawya Pharmaceuticals",
+      "solution": "THB Diagnostics CRM",
+      "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
     }
   ]
 }
