@@ -5,11 +5,11 @@
   "startDate": "2026-03-28T18:30:00.000Z",
   "endDate": "2026-04-03T18:30:00.000Z",
   "status": "live",
-  "updatedAt": "2026-03-30T14:50:58.459Z",
+  "updatedAt": "2026-03-31T06:02:09.407Z",
   "coverage": {
-    "pharma": 18,
+    "pharma": 25,
     "providers": 3,
-    "diagnostics": 2,
+    "diagnostics": 1,
     "healthtech": 0
   },
   "sourcesUsed": [
@@ -18,8 +18,7 @@
     "Express Healthcare",
     "Healthcare MEA",
     "Medical Dialogues Pharma",
-    "PharmaTutor News",
-    "Zawya Pharmaceuticals"
+    "PharmaTutor News"
   ],
   "segments": {
     "pharma": [
@@ -41,6 +40,23 @@
         "articlePath": "/article.html?issue=2026-03-29&article=2026-03-29-centre-looks-to-trigger-essentials-act-to-regulate-prices-of-bulk-drugs"
       },
       {
+        "id": "2026-03-29-novo-nordisk-plans-to-cut-price-of-ozempic-as-generics-hit-market",
+        "title": "Novo Nordisk plans to cut price of Ozempic as generics hit market",
+        "summary": "Novo Nordisk is set to lower the price of its popular weight loss and diabetes drug, Ozempic. This move comes after several Indian drugmakers launched cheaper generic versions of semaglutide. Industry sources suggest Novo's revised price will be competitive....",
+        "source": "Economic Times Pharma",
+        "sourceHost": "economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-03-30T19:31:59.000Z",
+        "publishedLabel": "March 31, 2026",
+        "category": "Market",
+        "image": "https://img.etimg.com/thumb/msid-129910748,width-1200,height-630,imgsize-55202,overlay-economictimes/articleshow.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/novo-nordisk-plans-to-cut-price-of-ozempic-as-generics-hit-market/articleshow/129910721.cms",
+        "articlePath": "/article.html?issue=2026-03-29&article=2026-03-29-novo-nordisk-plans-to-cut-price-of-ozempic-as-generics-hit-market"
+      },
+      {
         "id": "2026-03-29-bangladesh-pm-orders-probe-into-measles-outbreak",
         "title": "Bangladesh PM orders probe into measles outbreak",
         "summary": "Prime Minister Tarique Rahman has directed two senior ministers to travel across the South Asian nation of 170 million people to assess the scale of the crisis and coordinate response efforts, according to a statement from his Bangladesh Nationalist Party...",
@@ -53,7 +69,7 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-129901480,imgsize-46210,width-1200,height=627,overlay-ethealth,resizemode-75/industry/bangladesh-pm-orders-probe-into-measles-outbreak.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/bangladesh-pm-orders-probe-into-measles-outbreak/129901480",
         "articlePath": "/article.html?issue=2026-03-29&article=2026-03-29-bangladesh-pm-orders-probe-into-measles-outbreak"
       },
@@ -75,21 +91,55 @@
         "articlePath": "/article.html?issue=2026-03-29&article=2026-03-29-india-launches-new-yoga-protocols-to-fight-lifestyle-diseases"
       },
       {
-        "id": "2026-03-29-peritoneal-dialysis-can-redefine-renal-care-a-vision-for-sustainable-hea",
-        "title": "Peritoneal Dialysis Can Redefine Renal Care: A Vision for Sustainable Health in India",
+        "id": "2026-03-29-medical-bodies-oppose-group-1-and-2-officers-as-hospital-admins",
+        "title": "Medical bodies oppose Group 1 & 2 officers as hospital admins",
+        "summary": "The TTGDA stressed that hospital administration is a specialised discipline requiring both clinical knowledge and management expertise. It pointed out that doctors undergo structured training through the MD in hospital administration programme, recognised by...",
+        "source": "ET Healthworld",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-03-31T02:19:25.000Z",
+        "publishedLabel": "March 31, 2026",
+        "category": "Industry Update",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-129897315,imgsize-108036,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/medical-bodies-oppose-group-1-2-officers-as-hospital-admins.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/medical-bodies-oppose-group-1-2-officers-as-hospital-admins/129897315",
+        "articlePath": "/article.html?issue=2026-03-29&article=2026-03-29-medical-bodies-oppose-group-1-and-2-officers-as-hospital-admins"
+      },
+      {
+        "id": "2026-03-29-excess-abdominal-fat-greater-risk-factor-compared-to-overall-obesity-jit",
+        "title": "Excess abdominal fat greater risk factor compared to overall obesity: Jitendra Singh",
+        "summary": "\"The presence of visceral fat around the abdomen, even without generalised obesity, has significant clinical implications and requires early detection and targeted intervention,\" Singh said during the launch of a book titled 'Advances in Obesity and Lipid...",
+        "source": "ET Healthworld",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-03-31T02:07:19.000Z",
+        "publishedLabel": "March 31, 2026",
+        "category": "Launch",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-129894149,imgsize-222868,width-1200,height=627,overlay-ethealth,resizemode-75/policy/excess-abdominal-fat-greater-risk-factor-compared-to-overall-obesity-jitendra-singh.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/policy/excess-abdominal-fat-greater-risk-factor-compared-to-overall-obesity-jitendra-singh/129894149",
+        "articlePath": "/article.html?issue=2026-03-29&article=2026-03-29-excess-abdominal-fat-greater-risk-factor-compared-to-overall-obesity-jit"
+      },
+      {
+        "id": "2026-03-29-salt-in-disguise-why-everyday-foods-are-driving-silent-hypertension-in-u",
+        "title": "Salt in Disguise: Why Everyday Foods Are Driving Silent Hypertension in Urban India",
         "summary": "Brand Connect Initiative",
         "source": "ET Healthworld",
         "sourceHost": "health.economictimes.indiatimes.com",
         "region": "India",
         "country": "India",
-        "publishedAt": "2026-03-30T06:33:37.000Z",
-        "publishedLabel": "March 30, 2026",
+        "publishedAt": "2026-03-31T05:56:46.000Z",
+        "publishedLabel": "March 31, 2026",
         "category": "Industry Update",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-129893042,imgsize-53868,width-1200,height=627,overlay-ethealth,resizemode-75/industry/peritoneal-dialysis-can-redefine-renal-care-a-vision-for-sustainable-health-in-india.jpg",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-129917393,imgsize-46660,width-1200,height=627,overlay-ethealth,resizemode-75/industry/the-hidden-dangers-of-sodium-how-processed-foods-trigger-hypertension-in-urban-india.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
         "justIn": true,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/peritoneal-dialysis-can-redefine-renal-care-a-vision-for-sustainable-health-in-india/129893042",
-        "articlePath": "/article.html?issue=2026-03-29&article=2026-03-29-peritoneal-dialysis-can-redefine-renal-care-a-vision-for-sustainable-hea"
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/the-hidden-dangers-of-sodium-how-processed-foods-trigger-hypertension-in-urban-india/129917393",
+        "articlePath": "/article.html?issue=2026-03-29&article=2026-03-29-salt-in-disguise-why-everyday-foods-are-driving-silent-hypertension-in-u"
       },
       {
         "id": "2026-03-29-novartis-acquires-excellergy-for-usd2b-to-develop-next-generation-allerg",
@@ -121,7 +171,7 @@
         "category": "Manufacturing",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/03/image-1600x900-2026-03-30T164121.170.png",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/03/30/msd-acquires-terns-pharmaceuticals-for-usd6-7b-to-challenge-cmls-dominance/",
         "articlePath": "/article.html?issue=2026-03-29&article=2026-03-29-msd-acquires-terns-pharmaceuticals-for-usd6-7b-to-challenge-cml-s-domina"
       },
@@ -138,9 +188,26 @@
         "category": "Approval",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/03/image-1600x900-2026-03-30T152828.058.png",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/03/30/novo-nordisks-awiqli-receives-fda-approval-for-type-2-diabetes-patients/",
         "articlePath": "/article.html?issue=2026-03-29&article=2026-03-29-novo-nordisk-s-awiqli-receives-fda-approval-for-type-2-diabetes-patients"
+      },
+      {
+        "id": "2026-03-29-wockhardt-gets-5-year-nppa-price-control-exemption-for-nafithromycin-400",
+        "title": "Wockhardt Gets 5-Year NPPA Price Control Exemption for Nafithromycin 400 mg Tablets",
+        "summary": "New Delhi: Through a recent notice, the National Pharmaceutical Pricing Authority (NPPA) has granted a five-year exemption from price control provisions under the Drugs (Prices Control) Order, 2013...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-03-30T08:15:25.000Z",
+        "publishedLabel": "March 30, 2026",
+        "category": "Industry Update",
+        "image": "https://medicaldialogues.in/h-upload/2023/03/08/204221-wockhardt-new.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/wockhardt-gets-5-year-nppa-price-control-exemption-for-nafithromycin-400-mg-tablets-167632",
+        "articlePath": "/article.html?issue=2026-03-29&article=2026-03-29-wockhardt-gets-5-year-nppa-price-control-exemption-for-nafithromycin-400"
       },
       {
         "id": "2026-03-29-drug-prices-set-to-rise-as-nppa-clears-wpi-linked-hike-for-2025",
@@ -189,7 +256,7 @@
         "category": "Clinical Trial",
         "image": "https://www.pharmatutor.org/sites/default/files/styles/webp/public/2026-03/new-drug-shows-91-percent-reduction-in-seizures-in-children-with-rare-epilepsy.jpg.webp?itok=vGLLLmsb",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/new-drug-shows-91-percent-reduction-in-seizures-in-children-with-rare-epilepsy",
         "articlePath": "/article.html?issue=2026-03-29&article=2026-03-29-new-drug-shows-91-reduction-in-seizures-in-children-with-rare-epilepsy"
       },
@@ -206,7 +273,7 @@
         "category": "Manufacturing",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/03/image-1600x900-2026-03-30T121350.470.png",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/03/30/the-global-fund-releases-usd1-6m-emergency-boost-for-tb-response-in-sudan/",
         "articlePath": "/article.html?issue=2026-03-29&article=2026-03-29-the-global-fund-releases-usd1-6m-emergency-boost-for-tb-response-in-suda"
       },
@@ -223,7 +290,7 @@
         "category": "Industry Update",
         "image": "https://www.pharmatutor.org/sites/default/files/styles/webp/public/2026-03/community-connect-pharmaceutical-care-everywhere-advancing-global-pharmaceutical-care-through-active-community-engagement.jpg.webp?itok=CvgWv6-R",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/community-connect-pharmaceutical-care-everywhere-advancing-global-pharmaceutical-care-through-active-community-engagement",
         "articlePath": "/article.html?issue=2026-03-29&article=2026-03-29-international-webinar-community-connect-pharmaceutical-care-everywhere-a"
       },
@@ -240,7 +307,7 @@
         "category": "Manufacturing",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/03/image-1600x900-2026-03-30T130934.964.png",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/03/30/south-african-medtech-firm-sat-debuts-centreflow-catheter-in-u-s-human-trials/",
         "articlePath": "/article.html?issue=2026-03-29&article=2026-03-29-south-african-medtech-firm-sat-debuts-centreflow-catheter-in-u-s-human-t"
       },
@@ -257,7 +324,7 @@
         "category": "Manufacturing",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/03/Untitled-design-1.png",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/03/30/tanzania-tests-smart-pillbox-technology-to-improve-tb-treatment-adherence/",
         "articlePath": "/article.html?issue=2026-03-29&article=2026-03-29-tanzania-tests-smart-pillbox-technology-to-improve-tb-treatment-adherenc"
       },
@@ -308,9 +375,60 @@
         "category": "Manufacturing",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/03/image-1600x900-2026-03-30T155318.790.png",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/03/30/cvc-capital-partners-targets-full-acquisition-of-recordati-in-usd12-6b-buyout/",
         "articlePath": "/article.html?issue=2026-03-29&article=2026-03-29-cvc-capital-partners-targets-full-acquisition-of-recordati-in-usd12-6b-b"
+      },
+      {
+        "id": "2026-03-29-eli-lilly-to-ink-usd-2-billion-ai-drug-deal-with-insilico-for-glp-1-diab",
+        "title": "Eli Lilly to Ink USD 2 Billion AI Drug Deal with Insilico for GLP-1 Diabetes Therapy",
+        "summary": "Bengaluru: U.S. drugmaker Eli Lilly will sign a USD 2 billion deal with Hong Kong-listed biotech Insilico Medicine, which uses artificial ‌intelligence for drug ⁠discovery, ⁠to develop products and...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-03-30T05:30:05.000Z",
+        "publishedLabel": "March 30, 2026",
+        "category": "Deal",
+        "image": "https://medicaldialogues.in/h-upload/2024/01/20/230637-eli-lilly-50.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://medicaldialogues.in/news/industry/health-investments/eli-lilly-to-ink-usd-2-billion-ai-drug-deal-with-insilico-for-glp-1-diabetes-therapy-167627",
+        "articlePath": "/article.html?issue=2026-03-29&article=2026-03-29-eli-lilly-to-ink-usd-2-billion-ai-drug-deal-with-insilico-for-glp-1-diab"
+      },
+      {
+        "id": "2026-03-29-aarti-pharmalabs-gets-1-observation-in-usfda-inspection-at-tarapur-unit",
+        "title": "Aarti Pharmalabs Gets 1 Observation in USFDA Inspection at Tarapur Unit",
+        "summary": "Mumbai: Aarti Pharmalabs Limited has successfully completed an inspection by the United States Food and Drug Administration (USFDA) at its Unit-IV facility located in Tarapur, Maharashtra.The...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-03-30T07:30:56.000Z",
+        "publishedLabel": "March 30, 2026",
+        "category": "Industry Update",
+        "image": "https://medicaldialogues.in/h-upload/2024/11/16/261049-usfda-50-2.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/aarti-pharmalabs-gets-1-observation-in-usfda-inspection-at-tarapur-unit-167631",
+        "articlePath": "/article.html?issue=2026-03-29&article=2026-03-29-aarti-pharmalabs-gets-1-observation-in-usfda-inspection-at-tarapur-unit"
+      },
+      {
+        "id": "2026-03-29-lupin-gets-usfda-tentative-nod-for-generic-pitolisant-tablets-for-sleep-",
+        "title": "Lupin Gets USFDA Tentative Nod for Generic Pitolisant Tablets for Sleep Disorder",
+        "summary": "New Delhi: Pharma major Lupin Ltd on Wednesday said it has received tentative approval from the US health regulator for its generic version of Pitolisant tablets indicated for treatment of excessive...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-03-30T07:00:16.000Z",
+        "publishedLabel": "March 30, 2026",
+        "category": "Approval",
+        "image": "https://medicaldialogues.in/h-upload/2023/01/10/197254-lupin-2.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/lupin-gets-usfda-tentative-nod-for-generic-pitolisant-tablets-for-sleep-disorder-167629",
+        "articlePath": "/article.html?issue=2026-03-29&article=2026-03-29-lupin-gets-usfda-tentative-nod-for-generic-pitolisant-tablets-for-sleep-"
       },
       {
         "id": "2026-03-29-gsk-pharma-slapped-rs-23-21-crore-tax-demand-plans-appeal",
@@ -344,7 +462,7 @@
         "category": "Hospital",
         "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/03/30144849/EH_GB_Anitha_P_750.jpg",
         "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/news/the-role-of-skilled-birth-attendance-and-midwifery-in-better-maternal-outcomes-in-india/453206/",
         "articlePath": "/article.html?issue=2026-03-29&article=2026-03-29-the-role-of-skilled-birth-attendance-and-midwifery-in-better-maternal-ou"
       },
@@ -397,26 +515,9 @@
         "category": "Imaging",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/03/Hcdesign.png",
         "thbAction": "Use this signal to position THB for diagnostics network expansion, channel partner onboarding, and visibility across spoke sites, franchises, and enterprise accounts.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/03/30/zimbabwe-recalls-urografin-imaging-agent-due-to-cancer-risk-impurity/",
         "articlePath": "/article.html?issue=2026-03-29&article=2026-03-29-zimbabwe-recalls-urografin-imaging-agent-due-to-cancer-risk-impurity-hea"
-      },
-      {
-        "id": "2026-03-29-burjeel-medical-city-launches-neuro-oncology-centre-in-abu-dhabi",
-        "title": "Burjeel Medical City launches Neuro-Oncology Centre in Abu Dhabi",
-        "summary": "The centre aims to deliver comprehensive, multidisciplinary care through a team of experts",
-        "source": "Zawya Pharmaceuticals",
-        "sourceHost": "zawya.com",
-        "region": "Middle East",
-        "country": "United Arab Emirates",
-        "publishedAt": "2026-03-30T12:30:41.000Z",
-        "publishedLabel": "March 30, 2026",
-        "category": "Industry Update",
-        "image": "https://static.zawya.com/view/acePublic/alias/contentid/ZmRlODQ1NDgtOWM2Ny00/4/burjeelmedicalcityisakeydriverofburjeelholdings-ambitiontodeliverincreasinglycomplexcareandhigh-valueservices-jpg.jpeg?f=3%3A2",
-        "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
-        "justIn": true,
-        "originalUrl": "https://www.zawya.com/en/business/healthcare/burjeel-medical-city-launches-neuro-oncology-centre-in-abu-dhabi-nm4vzh0v",
-        "articlePath": "/article.html?issue=2026-03-29&article=2026-03-29-burjeel-medical-city-launches-neuro-oncology-centre-in-abu-dhabi"
       }
     ],
     "healthtech": []
@@ -426,6 +527,14 @@
       "segment": "pharma",
       "articleId": "2026-03-29-centre-looks-to-trigger-essentials-act-to-regulate-prices-of-bulk-drugs",
       "title": "Centre looks to trigger 'Essentials' Act to regulate prices of bulk drugs",
+      "source": "Economic Times Pharma",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "pharma",
+      "articleId": "2026-03-29-novo-nordisk-plans-to-cut-price-of-ozempic-as-generics-hit-market",
+      "title": "Novo Nordisk plans to cut price of Ozempic as generics hit market",
       "source": "Economic Times Pharma",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
@@ -448,19 +557,11 @@
     },
     {
       "segment": "pharma",
-      "articleId": "2026-03-29-peritoneal-dialysis-can-redefine-renal-care-a-vision-for-sustainable-hea",
-      "title": "Peritoneal Dialysis Can Redefine Renal Care: A Vision for Sustainable Health in India",
+      "articleId": "2026-03-29-medical-bodies-oppose-group-1-and-2-officers-as-hospital-admins",
+      "title": "Medical bodies oppose Group 1 & 2 officers as hospital admins",
       "source": "ET Healthworld",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
-      "segment": "pharma",
-      "articleId": "2026-03-29-novartis-acquires-excellergy-for-usd2b-to-develop-next-generation-allerg",
-      "title": "Novartis acquires Excellergy for USD2B to develop next-generation allergy treatments | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
-      "source": "Healthcare MEA",
-      "solution": "THB Commercial Analytics",
-      "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
     },
     {
       "segment": "providers",
@@ -493,14 +594,6 @@
       "source": "Healthcare MEA",
       "solution": "THB Network Growth",
       "action": "Use this signal to position THB for diagnostics network expansion, channel partner onboarding, and visibility across spoke sites, franchises, and enterprise accounts."
-    },
-    {
-      "segment": "diagnostics",
-      "articleId": "2026-03-29-burjeel-medical-city-launches-neuro-oncology-centre-in-abu-dhabi",
-      "title": "Burjeel Medical City launches Neuro-Oncology Centre in Abu Dhabi",
-      "source": "Zawya Pharmaceuticals",
-      "solution": "THB Diagnostics CRM",
-      "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
     }
   ]
 }
