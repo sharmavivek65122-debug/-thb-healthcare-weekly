@@ -5,9 +5,9 @@
   "startDate": "2026-03-14T18:30:00.000Z",
   "endDate": "2026-03-20T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-04-01T06:11:12.103Z",
+  "updatedAt": "2026-04-01T14:50:22.282Z",
   "coverage": {
-    "pharma": 6,
+    "pharma": 5,
     "providers": 7,
     "diagnostics": 4,
     "healthtech": 0
@@ -17,7 +17,6 @@
     "ET Healthworld Diagnostics",
     "ET Healthworld Hospitals",
     "Financial Express Healthcare",
-    "Janssen India Media",
     "PharmaTutor News"
   ],
   "segments": {
@@ -55,23 +54,6 @@
         "justIn": false,
         "originalUrl": "https://www.financialexpress.com/business/healthcare/weight-loss-drug-prices-down-70-90-as-generics-hit-the-shelves/4179355/",
         "articlePath": "/article.html?issue=2026-03-15&article=2026-03-15-weight-loss-drug-prices-down-70-90-as-generics-hit-the-shelves"
-      },
-      {
-        "id": "2026-03-15-fda-approval-of-icotyde-icotrokinra-ushers-in-new-era-for-first-line-sys",
-        "title": "FDA approval of ICOTYDE™ (icotrokinra) ushers in new era for first-line systemic treatment of plaque psoriasis with a targeted oral peptide",
-        "summary": "Johnson & Johnson introduces the first and only IL-23R targeted oral peptide that delivers complete skin clearance and favorable safety profile in a once-daily pill ICOTYDE offers an innovative new option for patients with moderate-to-severe plaque psoriasis...",
-        "source": "Janssen India Media",
-        "sourceHost": "janssen.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-03-18T06:34:56.151Z",
-        "publishedLabel": "March 18, 2026",
-        "category": "Approval",
-        "image": "https://jnj-content-lab2.brightspotcdn.com/ac/25/bd2078f54d5992dd486ed26140ce/johnson-johnson-logo.svg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://www.jnj.com/media-center/press-releases/fda-approval-of-icotyde-icotrokinra-ushers-in-new-era-for-first-line-systemic-treatment-of-plaque-psoriasis-with-a-targeted-oral-peptide",
-        "articlePath": "/article.html?issue=2026-03-15&article=2026-03-15-fda-approval-of-icotyde-icotrokinra-ushers-in-new-era-for-first-line-sys"
       },
       {
         "id": "2026-03-15-zydus-lifesciences-and-torrent-pharmaceuticals-partner-to-co-market-sema",
@@ -337,14 +319,6 @@
     },
     {
       "segment": "pharma",
-      "articleId": "2026-03-15-fda-approval-of-icotyde-icotrokinra-ushers-in-new-era-for-first-line-sys",
-      "title": "FDA approval of ICOTYDE™ (icotrokinra) ushers in new era for first-line systemic treatment of plaque psoriasis with a targeted oral peptide",
-      "source": "Janssen India Media",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
-      "segment": "pharma",
       "articleId": "2026-03-15-zydus-lifesciences-and-torrent-pharmaceuticals-partner-to-co-market-sema",
       "title": "Zydus Lifesciences & Torrent Pharmaceuticals Partner to Co-Market Semaglutide in India",
       "source": "PharmaTutor News",
@@ -356,6 +330,14 @@
       "articleId": "2026-03-15-two-day-international-conference-pharmacy-beyond-borders-translating-inn",
       "title": "Two-Day International Conference : Pharmacy Beyond Borders : Translating Innovation into Impact for Global Health",
       "source": "PharmaTutor News",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "pharma",
+      "articleId": "2026-03-15-eveliqure-and-serum-institute-of-india-collaborate-for-development-of-an",
+      "title": "Eveliqure and Serum Institute of India collaborate for development of anti-diarrhoeal vaccines",
+      "source": "BioSpectrum India Healthcare",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
     },

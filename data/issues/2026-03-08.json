@@ -5,37 +5,19 @@
   "startDate": "2026-03-07T18:30:00.000Z",
   "endDate": "2026-03-13T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-04-01T06:11:12.103Z",
+  "updatedAt": "2026-04-01T14:50:22.282Z",
   "coverage": {
-    "pharma": 2,
+    "pharma": 1,
     "providers": 11,
     "diagnostics": 0,
     "healthtech": 0
   },
   "sourcesUsed": [
-    "BioSpectrum Asia Middle East",
     "ET Healthworld Hospitals",
     "PharmaTutor News"
   ],
   "segments": {
     "pharma": [
-      {
-        "id": "2026-03-08-bridging-academic-innovation-and-biomanufacturing-strategy-to-accelerate",
-        "title": "Bridging Academic Innovation And Biomanufacturing Strategy To Accelerate Advanced Therapies In APAC",
-        "summary": "Bridging Academic Innovation And Biomanufacturing Strategy To Accelerate Advanced Therapies In APAC",
-        "source": "BioSpectrum Asia Middle East",
-        "sourceHost": "biospectrumasia.com",
-        "region": "Middle East",
-        "country": "Oman",
-        "publishedAt": "2026-03-12T18:30:00.000Z",
-        "publishedLabel": "March 13, 2026",
-        "category": "Manufacturing",
-        "image": "https://www.biospectrumasia.com/uploads/articles/lucas_chan-27354.jpg",
-        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": false,
-        "originalUrl": "https://www.biospectrumasia.com/news/98/27354/bridging-academic-innovation-and-biomanufacturing-strategy-to-accelerate-advanced-therapies-in-apac.html",
-        "articlePath": "/article.html?issue=2026-03-08&article=2026-03-08-bridging-academic-innovation-and-biomanufacturing-strategy-to-accelerate"
-      },
       {
         "id": "2026-03-08-national-seminar-titled-future-pharma-ecosystem-fostering-synergy-among-",
         "title": "National Seminar titled Future Pharma Ecosystem – Fostering Synergy among Academia, Industry, Research, Regulatory and Practice",
@@ -247,14 +229,6 @@
     "healthtech": []
   },
   "thbActions": [
-    {
-      "segment": "pharma",
-      "articleId": "2026-03-08-bridging-academic-innovation-and-biomanufacturing-strategy-to-accelerate",
-      "title": "Bridging Academic Innovation And Biomanufacturing Strategy To Accelerate Advanced Therapies In APAC",
-      "source": "BioSpectrum Asia Middle East",
-      "solution": "THB Commercial Analytics",
-      "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
-    },
     {
       "segment": "pharma",
       "articleId": "2026-03-08-national-seminar-titled-future-pharma-ecosystem-fostering-synergy-among-",

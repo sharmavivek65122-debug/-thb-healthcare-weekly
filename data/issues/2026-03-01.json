@@ -5,9 +5,9 @@
   "startDate": "2026-02-28T18:30:00.000Z",
   "endDate": "2026-03-06T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-04-01T06:11:12.103Z",
+  "updatedAt": "2026-04-01T14:50:22.282Z",
   "coverage": {
-    "pharma": 5,
+    "pharma": 4,
     "providers": 4,
     "diagnostics": 2,
     "healthtech": 0
@@ -20,23 +20,6 @@
   ],
   "segments": {
     "pharma": [
-      {
-        "id": "2026-03-01-johnson-and-johnson-announces-u-s-fda-approval-of-tecvayli-plus-darzalex",
-        "title": "Johnson & Johnson Announces U.S. FDA Approval of TECVAYLI® plus DARZALEX FASPRO® for Relapsed/Refractory Multiple Myeloma, Offering a Potential New Standard of Care as Early as Second Line",
-        "summary": "Approval based on unprecedented Phase 3 data demonstrating statistically significant improvements in progression‑free survival and overall survival versus standard of care regimens 83.3% of patients were alive at three years, indicating durable clinical...",
-        "source": "Janssen India Media",
-        "sourceHost": "janssen.com",
-        "region": "Middle East",
-        "country": "Oman",
-        "publishedAt": "2026-03-05T15:00:20.763Z",
-        "publishedLabel": "March 5, 2026",
-        "category": "Approval",
-        "image": "https://jnj-content-lab2.brightspotcdn.com/dims4/default/c9e0651/2147483647/strip/true/crop/1246x701+366+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fjnj-production-jnj.s3.us-east-1.amazonaws.com%2Fbrightspot%2F72%2F3e%2F1e183ad14d899000eff41e7af727%2Ftecdara.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://www.jnj.com/media-center/press-releases/johnson-johnson-announces-u-s-fda-approval-of-tecvayli-plus-darzalex-faspro-for-relapsed-refractory-multiple-myeloma-offering-a-potential-new-standard-of-care-as-early-as-second-line",
-        "articlePath": "/article.html?issue=2026-03-01&article=2026-03-01-johnson-and-johnson-announces-u-s-fda-approval-of-tecvayli-plus-darzalex"
-      },
       {
         "id": "2026-03-01-moderna-settles-vaccine-patent-dispute-with-950-million-usd-deal",
         "title": "Moderna Settles Vaccine Patent Dispute with 950 Million USD Deal",
@@ -215,14 +198,6 @@
     "healthtech": []
   },
   "thbActions": [
-    {
-      "segment": "pharma",
-      "articleId": "2026-03-01-johnson-and-johnson-announces-u-s-fda-approval-of-tecvayli-plus-darzalex",
-      "title": "Johnson & Johnson Announces U.S. FDA Approval of TECVAYLI® plus DARZALEX FASPRO® for Relapsed/Refractory Multiple Myeloma, Offering a Potential New Standard of Care as Early as Second Line",
-      "source": "Janssen India Media",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
     {
       "segment": "pharma",
       "articleId": "2026-03-01-moderna-settles-vaccine-patent-dispute-with-950-million-usd-deal",
