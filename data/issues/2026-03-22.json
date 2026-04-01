@@ -5,14 +5,17 @@
   "startDate": "2026-03-21T18:30:00.000Z",
   "endDate": "2026-03-27T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-03-31T14:48:07.338Z",
+  "updatedAt": "2026-04-01T06:11:12.103Z",
   "coverage": {
-    "pharma": 32,
+    "pharma": 27,
     "providers": 10,
-    "diagnostics": 6,
+    "diagnostics": 8,
     "healthtech": 1
   },
   "sourcesUsed": [
+    "BioSpectrum India Healthcare",
+    "ET Healthworld",
+    "ET Healthworld Diagnostics",
     "ET Healthworld Hospitals",
     "Economic Times Pharma",
     "Express Healthcare",
@@ -76,21 +79,21 @@
         "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-rising-costs-of-key-chemicals-choke-production-at-drug-ingredient-makers"
       },
       {
-        "id": "2026-03-22-glp-1-rush-pharma-food-firms-eye-tie-ups-for-weight-loss-boom",
-        "title": "GLP-1 rush: Pharma, food firms eye tie-ups for weight-loss boom",
-        "summary": "Affordable weight-loss jabs are here. Drugmakers and food companies are partnering. They will offer special nutrition products. These are for people using semaglutide. The goal is to support fat loss and muscle health. This new market is set for massive...",
-        "source": "Economic Times Pharma",
-        "sourceHost": "economictimes.indiatimes.com",
+        "id": "2026-03-22-iit-bombay-develops-dna-based-strategy-to-tackle-antibiotic-resistance",
+        "title": "IIT Bombay develops DNA-based strategy to tackle antibiotic resistance",
+        "summary": "In the first study, the researchers focused on specially identified short strands of DNA known as aptamers. Unlike the conventional drugs, aptamers are made up of nucleic acids, synthetically produced, relatively stable, and easier to modify.",
+        "source": "ET Healthworld",
+        "sourceHost": "health.economictimes.indiatimes.com",
         "region": "India",
         "country": "India",
-        "publishedAt": "2026-03-22T18:46:01.000Z",
-        "publishedLabel": "March 23, 2026",
-        "category": "Market",
-        "image": "https://img.etimg.com/thumb/msid-129737820,width-1200,height-630,imgsize-97588,overlay-economictimes/articleshow.jpg",
-        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
+        "publishedAt": "2026-03-27T02:28:51.000Z",
+        "publishedLabel": "March 27, 2026",
+        "category": "Industry Update",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-129836860,imgsize-412360,width-1200,height=627,overlay-ethealth,resizemode-75/industry/iit-bombay-develops-dna-based-strategy-to-tackle-antibiotic-resistance.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
         "justIn": false,
-        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/glp-1-rush-pharma-food-firms-eye-tie-ups-for-weight-loss-boom/articleshow/129737763.cms",
-        "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-glp-1-rush-pharma-food-firms-eye-tie-ups-for-weight-loss-boom"
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/iit-bombay-develops-dna-based-strategy-to-tackle-antibiotic-resistance/129836860",
+        "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-iit-bombay-develops-dna-based-strategy-to-tackle-antibiotic-resistance"
       },
       {
         "id": "2026-03-22-india-tightens-grip-on-glp-1-supply-chain-amid-misuse-concerns-expands-c",
@@ -125,23 +128,6 @@
         "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/painkiller-antibiotic-prices-set-for-marginal-increase-starting-april-1/articleshow/129810586.cms",
         "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-painkiller-antibiotic-prices-set-for-marginal-increase-starting-april-1"
-      },
-      {
-        "id": "2026-03-22-indian-drugmakers-flood-market-with-cheaper-versions-of-novo-s-ozempic-w",
-        "title": "Indian drugmakers flood market with cheaper versions of Novo's Ozempic, Wegovy",
-        "summary": "Indian drugmakers have launched affordable generic versions of popular diabetes and weight-loss drugs. This move significantly reduces treatment costs by approximately 70%. Several major pharmaceutical companies are now offering these semaglutide-based...",
-        "source": "Economic Times Pharma",
-        "sourceHost": "economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-03-23T07:24:01.000Z",
-        "publishedLabel": "March 23, 2026",
-        "category": "Market",
-        "image": "https://img.etimg.com/thumb/msid-129745817,width-1200,height-630,imgsize-112700,overlay-economictimes/articleshow.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/indian-drugmakers-flood-market-with-cheaper-versions-of-novos-ozempic-wegovy/articleshow/129745817.cms",
-        "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-indian-drugmakers-flood-market-with-cheaper-versions-of-novo-s-ozempic-w"
       },
       {
         "id": "2026-03-22-bankruptcy-court-admits-bse-listed-supha-pharmachem-under-insolvency-res",
@@ -227,23 +213,6 @@
         "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/centre-steps-up-oversight-on-glp-1-drugs-amid-concerns-over-improper-practices/articleshow/129785262.cms",
         "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-centre-steps-up-oversight-on-glp-1-drugs-amid-concerns-over-improper-pra"
-      },
-      {
-        "id": "2026-03-22-we-are-discovery-rich-but-development-poor",
-        "title": "We are discovery rich, but development poor",
-        "summary": "G.V. Prasad has spent over thirty years at the helm of Dr. Reddy's Laboratories — long enough to know where the opportunities were missed and where the potential and challenges lie. In a candid conversation with ET’s pharma editor Vikas Dandekar on Corner...",
-        "source": "Economic Times Pharma",
-        "sourceHost": "economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-03-23T00:35:28.000Z",
-        "publishedLabel": "March 23, 2026",
-        "category": "Industry Update",
-        "image": "https://img.etimg.com/thumb/msid-129740852,width-1200,height-900,overlay-economictimes/industry/healthcare/biotech/pharmaceuticals/we-are-discovery-rich-but-development-poor.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/we-are-discovery-rich-but-development-poor/videoshow/129740852.cms",
-        "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-we-are-discovery-rich-but-development-poor"
       },
       {
         "id": "2026-03-22-feppa-2026-to-host-pelvic-pain-conference-in-chennai",
@@ -416,23 +385,6 @@
         "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-aap-mp-flags-spurious-drugs-crisis-seeks-national-quality-authority-as-p"
       },
       {
-        "id": "2026-03-22-expert-panel-flags-gaps-in-mascot-health-s-diabetes-fdc-trial-seeks-revi",
-        "title": "Expert Panel Flags Gaps in Mascot Health's Diabetes FDC Trial, Seeks Revised Phase IV Protocol",
-        "summary": "New Delhi: The Central Drugs Standard Control Organisation's (CDSCO) Subject Expert Committee (SEC) on Endocrinology and Metabolism has recommended Mascot Health Series Pvt Ltd to submit a revised...",
-        "source": "Medical Dialogues Pharma",
-        "sourceHost": "medicaldialogues.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-03-27T17:42:37.000Z",
-        "publishedLabel": "March 27, 2026",
-        "category": "Industry Update",
-        "image": "https://medicaldialogues.in/h-upload/2024/03/12/234089-antiarrhythmic-drugs.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/cdsco/expert-panel-flags-gaps-in-mascot-healths-diabetes-fdc-trial-seeks-revised-phase-iv-protocol-167465",
-        "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-expert-panel-flags-gaps-in-mascot-health-s-diabetes-fdc-trial-seeks-revi"
-      },
-      {
         "id": "2026-03-22-glp-1-impact-jefferies-sees-these-3-stocks-as-winners-in-the-race-for-oz",
         "title": "GLP-1 impact: Jefferies sees these 3 stocks as winners in the race for Ozempic, Wegovy generics",
         "summary": "Indian drug makers are launching affordable generic Semaglutide, the active ingredient in popular weight-loss drugs. Sun Pharma, Lupin, and Torrent Pharma are identified as potential market leaders. Despite initial stockouts online, companies are adjusting...",
@@ -484,23 +436,6 @@
         "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-dtab-eases-compliance-burden-while-tightening-quality-norms-under-revise"
       },
       {
-        "id": "2026-03-22-usfda-approves-corcept-therapeutics-ovarian-cancer-drug-lifyorli",
-        "title": "USFDA Approves Corcept Therapeutics' Ovarian Cancer Drug Lifyorli",
-        "summary": "Bengaluru: Corcept Therapeutics shares jumped more than 23% to a near two-month high on Wednesday after the U.S. health regulator approved the company's lead drug for treating an aggressive form of...",
-        "source": "Medical Dialogues Pharma",
-        "sourceHost": "medicaldialogues.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-03-27T17:24:05.000Z",
-        "publishedLabel": "March 27, 2026",
-        "category": "Industry Update",
-        "image": "https://medicaldialogues.in/h-upload/2024/01/19/230521-usfda-50.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/usfda-approves-corcept-therapeutics-ovarian-cancer-drug-lifyorli-167463",
-        "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-usfda-approves-corcept-therapeutics-ovarian-cancer-drug-lifyorli"
-      },
-      {
         "id": "2026-03-22-novo-nordisk-awiqli-approved-in-the-usa",
         "title": "Novo Nordisk : Awiqli® approved in the USA",
         "summary": "Novo Nordisk announced that the US Food and Drug Administration (FDA) has approved Awiqli® (insulin icodec-abae) injection 700 units/mL, the first and only once-weekly, long-acting basal insulin, indicated as an adjunct to diet and exercise to improve...",
@@ -550,23 +485,6 @@
         "justIn": false,
         "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/the-forgotten-half-of-diabetic-kidney-disease-finally-gets-its-own-trial-and-the-results-are-positive",
         "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-the-forgotten-half-of-diabetic-kidney-disease-finally-gets-its-own-trial"
-      },
-      {
-        "id": "2026-03-22-setback-to-wave-life-sciences-obesity-drug-wve-007-shows-limited-efficac",
-        "title": "Setback to Wave Life Sciences: Obesity Drug WVE-007 Shows Limited Efficacy in Early Trial",
-        "summary": "Bengaluru: Wave Life Sciences shares plunged 58% on Thursday after a higher dose of its experimental obesity drug failed to show a clear improvement at reducing a dangerous type of belly fat.The...",
-        "source": "Medical Dialogues Pharma",
-        "sourceHost": "medicaldialogues.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-03-27T17:35:36.000Z",
-        "publishedLabel": "March 27, 2026",
-        "category": "Industry Update",
-        "image": "https://medicaldialogues.in/h-upload/2026/03/27/337117-untitled-design-19.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/setback-to-wave-life-sciences-obesity-drug-wve-007-shows-limited-efficacy-in-early-trial-167464",
-        "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-setback-to-wave-life-sciences-obesity-drug-wve-007-shows-limited-efficac"
       }
     ],
     "providers": [
@@ -743,6 +661,23 @@
     ],
     "diagnostics": [
       {
+        "id": "2026-03-22-silent-epidemic-60-ckd-patients-unaware-of-their-condition-finds-study",
+        "title": "Silent epidemic: 60% CKD patients unaware of their condition, finds study",
+        "summary": "Using point-of-care tests and digital tools in local primary health centres, the researchers screened nearly 2,000 people in both urban pockets and rural CKD hotspot areas.",
+        "source": "ET Healthworld Diagnostics",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-03-23T04:33:07.000Z",
+        "publishedLabel": "March 23, 2026",
+        "category": "Industry Update",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-129742950,imgsize-80902,width-1200,height=627,overlay-ethealth,resizemode-75/diagnostics/silent-epidemic-60-ckd-patients-unaware-of-their-condition-finds-study.jpg",
+        "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
+        "justIn": false,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/diagnostics/silent-epidemic-60-ckd-patients-unaware-of-their-condition-finds-study/129742950",
+        "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-silent-epidemic-60-ckd-patients-unaware-of-their-condition-finds-study"
+      },
+      {
         "id": "2026-03-22-neuberg-diagnostics-introduces-blood-test-for-alzheimer-s-screening-in-c",
         "title": "Neuberg Diagnostics introduces blood test for Alzheimer’s screening in Chennai",
         "summary": "Mispa i60 enables detection of Alzheimer’s markers through blood sample",
@@ -843,6 +778,23 @@
         "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/news/aksigen-ivf-opens-embryology-laboratory-in-mumbai/453179/",
         "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-aksigen-ivf-opens-embryology-laboratory-in-mumbai"
+      },
+      {
+        "id": "2026-03-22-garbh-ini-to-strengthen-india-s-fight-to-combat-premature-birth-through-",
+        "title": "GARBH-INi to strengthen India's fight to combat premature birth through AI",
+        "summary": "GARBH-INi to strengthen India's fight to combat premature birth through AI",
+        "source": "BioSpectrum India Healthcare",
+        "sourceHost": "biospectrumindia.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-03-22T18:30:00.000Z",
+        "publishedLabel": "March 23, 2026",
+        "category": "Industry Update",
+        "image": "https://www.biospectrumindia.com/uploads/articles/screenshot_23_3_2026_22842_www_pib_gov_in-27542.jpeg",
+        "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
+        "justIn": false,
+        "originalUrl": "https://www.biospectrumindia.com/news/16/27542/garbh-ini-to-strengthen-indias-fight-to-combat-premature-birth-through-ai.html",
+        "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-garbh-ini-to-strengthen-india-s-fight-to-combat-premature-birth-through-"
       }
     ],
     "healthtech": [
@@ -892,11 +844,11 @@
     },
     {
       "segment": "pharma",
-      "articleId": "2026-03-22-glp-1-rush-pharma-food-firms-eye-tie-ups-for-weight-loss-boom",
-      "title": "GLP-1 rush: Pharma, food firms eye tie-ups for weight-loss boom",
-      "source": "Economic Times Pharma",
-      "solution": "THB Commercial Analytics",
-      "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
+      "articleId": "2026-03-22-iit-bombay-develops-dna-based-strategy-to-tackle-antibiotic-resistance",
+      "title": "IIT Bombay develops DNA-based strategy to tackle antibiotic resistance",
+      "source": "ET Healthworld",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
     },
     {
       "segment": "pharma",
@@ -948,6 +900,14 @@
     },
     {
       "segment": "diagnostics",
+      "articleId": "2026-03-22-silent-epidemic-60-ckd-patients-unaware-of-their-condition-finds-study",
+      "title": "Silent epidemic: 60% CKD patients unaware of their condition, finds study",
+      "source": "ET Healthworld Diagnostics",
+      "solution": "THB Diagnostics CRM",
+      "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
+    },
+    {
+      "segment": "diagnostics",
       "articleId": "2026-03-22-neuberg-diagnostics-introduces-blood-test-for-alzheimer-s-screening-in-c",
       "title": "Neuberg Diagnostics introduces blood test for Alzheimer’s screening in Chennai",
       "source": "Express Healthcare",
@@ -977,14 +937,6 @@
       "source": "Express Healthcare Posts",
       "solution": "THB Network Growth",
       "action": "Use this signal to position THB for diagnostics network expansion, channel partner onboarding, and visibility across spoke sites, franchises, and enterprise accounts."
-    },
-    {
-      "segment": "diagnostics",
-      "articleId": "2026-03-22-sightsavers-india-and-abbvie-therapeutics-india-hold-glaucoma-consultati",
-      "title": "Sightsavers India and AbbVie Therapeutics India hold glaucoma consultation in Jaipur",
-      "source": "Express Healthcare Posts",
-      "solution": "THB Diagnostics CRM",
-      "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
     }
   ]
 }
