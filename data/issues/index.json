@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-02T05:56:19.103Z",
+  "updatedAt": "2026-04-02T14:40:06.605Z",
   "latestIssueKey": "2026-03-29",
   "issues": [
     {
@@ -9,8 +9,8 @@
       "status": "published",
       "coverage": {
         "pharma": 0,
-        "providers": 4,
-        "diagnostics": 3,
+        "providers": 0,
+        "diagnostics": 2,
         "healthtech": 0
       }
     },
@@ -21,7 +21,7 @@
       "status": "published",
       "coverage": {
         "pharma": 3,
-        "providers": 5,
+        "providers": 0,
         "diagnostics": 2,
         "healthtech": 0
       }
@@ -33,7 +33,7 @@
       "status": "published",
       "coverage": {
         "pharma": 4,
-        "providers": 4,
+        "providers": 1,
         "diagnostics": 3,
         "healthtech": 0
       }
@@ -44,8 +44,8 @@
       "rangeLabel": "Mar 1 - Mar 7, 2026",
       "status": "published",
       "coverage": {
-        "pharma": 5,
-        "providers": 4,
+        "pharma": 3,
+        "providers": 0,
         "diagnostics": 2,
         "healthtech": 0
       }
@@ -56,8 +56,8 @@
       "rangeLabel": "Mar 8 - Mar 14, 2026",
       "status": "published",
       "coverage": {
-        "pharma": 2,
-        "providers": 11,
+        "pharma": 1,
+        "providers": 1,
         "diagnostics": 0,
         "healthtech": 0
       }
@@ -68,7 +68,7 @@
       "rangeLabel": "Mar 15 - Mar 21, 2026",
       "status": "published",
       "coverage": {
-        "pharma": 6,
+        "pharma": 5,
         "providers": 7,
         "diagnostics": 4,
         "healthtech": 0
@@ -80,9 +80,9 @@
       "rangeLabel": "Mar 22 - Mar 28, 2026",
       "status": "published",
       "coverage": {
-        "pharma": 18,
+        "pharma": 15,
         "providers": 9,
-        "diagnostics": 7,
+        "diagnostics": 5,
         "healthtech": 0
       }
     },
@@ -92,9 +92,9 @@
       "rangeLabel": "Mar 29 - Apr 4, 2026",
       "status": "live",
       "coverage": {
-        "pharma": 29,
+        "pharma": 48,
         "providers": 9,
-        "diagnostics": 5,
+        "diagnostics": 4,
         "healthtech": 0
       }
     }

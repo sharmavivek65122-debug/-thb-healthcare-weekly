@@ -5,16 +5,15 @@
   "startDate": "2026-02-28T18:30:00.000Z",
   "endDate": "2026-03-06T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-04-02T05:56:19.103Z",
+  "updatedAt": "2026-04-02T14:40:06.605Z",
   "coverage": {
-    "pharma": 5,
-    "providers": 4,
+    "pharma": 3,
+    "providers": 0,
     "diagnostics": 2,
     "healthtech": 0
   },
   "sourcesUsed": [
     "ET Healthworld Diagnostics",
-    "ET Healthworld Hospitals",
     "Janssen India Media",
     "PharmaTutor News"
   ],
@@ -36,23 +35,6 @@
         "justIn": false,
         "originalUrl": "https://www.jnj.com/media-center/press-releases/johnson-johnson-announces-u-s-fda-approval-of-tecvayli-plus-darzalex-faspro-for-relapsed-refractory-multiple-myeloma-offering-a-potential-new-standard-of-care-as-early-as-second-line",
         "articlePath": "/article.html?issue=2026-03-01&article=2026-03-01-johnson-and-johnson-announces-u-s-fda-approval-of-tecvayli-plus-darzalex"
-      },
-      {
-        "id": "2026-03-01-moderna-settles-vaccine-patent-dispute-with-950-million-usd-deal",
-        "title": "Moderna Settles Vaccine Patent Dispute with 950 Million USD Deal",
-        "summary": "Biotechnology company Moderna has announced a major settlement to resolve global patent litigation with Arbutus Biopharma Corporation and Genevant Sciences GmbH over technology used in its mRNA vaccines. The agreement settles all ongoing lawsuits worldwide...",
-        "source": "PharmaTutor News",
-        "sourceHost": "pharmatutor.org",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-03-05T10:58:26.000Z",
-        "publishedLabel": "March 5, 2026",
-        "category": "Deal",
-        "image": "https://www.pharmatutor.org/sites/default/files/styles/webp/public/2026-03/moderna-settles-vaccine-patent-dispute-with-950-million-usd-deal.jpg.webp?itok=vMFNVOKx",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/moderna-settles-vaccine-patent-dispute-with-950-million-usd-deal",
-        "articlePath": "/article.html?issue=2026-03-01&article=2026-03-01-moderna-settles-vaccine-patent-dispute-with-950-million-usd-deal"
       },
       {
         "id": "2026-03-01-johnson-and-johnson-therapy-nipocalimab-granted-u-s-fda-fast-track-desig",
@@ -87,95 +69,9 @@
         "justIn": false,
         "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/fda-approves-new-combination-therapy-for-relapsed-or-refractory-multiple-myeloma",
         "articlePath": "/article.html?issue=2026-03-01&article=2026-03-01-fda-approves-new-combination-therapy-for-relapsed-or-refractory-multiple"
-      },
-      {
-        "id": "2026-03-01-cdsco-issues-alert-after-theft-of-sanofi-lantus-insulin-pens-during-tran",
-        "title": "CDSCO Issues Alert After Theft of Sanofi Lantus Insulin Pens During Transit",
-        "summary": "India’s drug regulator has issued a public advisory after a consignment of insulin pens manufactured by Sanofi India Limited was reported stolen during transportation, raising concerns about potential risks if the products enter the market through...",
-        "source": "PharmaTutor News",
-        "sourceHost": "pharmatutor.org",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-03-05T11:04:25.000Z",
-        "publishedLabel": "March 5, 2026",
-        "category": "Market",
-        "image": "https://www.pharmatutor.org/sites/default/files/styles/webp/public/2026-03/cdsco-issues-alert-after-theft-of-sanofi-lantus-insulin-pens-during-transit.jpg.webp?itok=iS825vKI",
-        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": false,
-        "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/cdsco-issues-alert-after-theft-of-sanofi-lantus-insulin-pens-during-transit",
-        "articlePath": "/article.html?issue=2026-03-01&article=2026-03-01-cdsco-issues-alert-after-theft-of-sanofi-lantus-insulin-pens-during-tran"
       }
     ],
-    "providers": [
-      {
-        "id": "2026-03-01-philips-actrec-collaborate-to-strengthen-early-cancer-detection-with-spe",
-        "title": "Philips, ACTREC collaborate to strengthen early cancer detection with Spectral CT",
-        "summary": "The technology allows deeper disease characterisation from a single scan, helping clinicians make faster and more confident diagnostic decisions without increasing radiation exposure.",
-        "source": "ET Healthworld Hospitals",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-03-03T10:00:24.000Z",
-        "publishedLabel": "March 3, 2026",
-        "category": "Provider Update",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-128964382,imgsize-1009165,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/actrec-tmc-strengthens-early-cancer-detection-with-spectral-ct-deployment.jpg",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/actrec-tmc-strengthens-early-cancer-detection-with-spectral-ct-deployment/128964382",
-        "articlePath": "/article.html?issue=2026-03-01&article=2026-03-01-philips-actrec-collaborate-to-strengthen-early-cancer-detection-with-spe"
-      },
-      {
-        "id": "2026-03-01-deploy-ai-in-healthcare-with-caution-build-guardrails-first-says-manipal",
-        "title": "Deploy AI in healthcare with caution; build guardrails first, says Manipal CEO",
-        "summary": "Hospital chains including Aster DM Healthcare, Yashoda Hospitals, Apollo Hospitals, and Global Health have recently partnered with or are in talks with AI startups for diagnostics, deploying AI-powered tools alongside human expertise to reduce turnaround time...",
-        "source": "ET Healthworld Hospitals",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-03-01T22:42:17.000Z",
-        "publishedLabel": "March 2, 2026",
-        "category": "Hospital",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-128915598,imgsize-34264,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/deploy-ai-in-healthcare-with-caution-build-guardrails-first-says-manipal-ceo.jpg",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/deploy-ai-in-healthcare-with-caution-build-guardrails-first-says-manipal-ceo/128915598",
-        "articlePath": "/article.html?issue=2026-03-01&article=2026-03-01-deploy-ai-in-healthcare-with-caution-build-guardrails-first-says-manipal"
-      },
-      {
-        "id": "2026-03-01-hyd-hospital-launches-platform-for-non-invasive-brain-tumor-treatment",
-        "title": "Hyd hospital launches platform for non-invasive brain tumor treatment",
-        "summary": "Traditionally, many brain tumours require complicated neurosurgery, long hospital stays and weeks of recovery, according to doctors. However, the new machine enables the procedure to be completed in one day, with most patients able to go home on the same day....",
-        "source": "ET Healthworld Hospitals",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-03-07T02:16:15.000Z",
-        "publishedLabel": "March 7, 2026",
-        "category": "Hospital",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-129189473,imgsize-173552,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/hyd-hospital-launches-platform-for-non-invasive-brain-tumor-treatment.jpg",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/hyd-hospital-launches-platform-for-non-invasive-brain-tumor-treatment/129189473",
-        "articlePath": "/article.html?issue=2026-03-01&article=2026-03-01-hyd-hospital-launches-platform-for-non-invasive-brain-tumor-treatment"
-      },
-      {
-        "id": "2026-03-01-maha-govt-to-hold-meeting-with-hospitals-in-mumbai-region-to-boost-cover",
-        "title": "Maha govt to hold meeting with hospitals in Mumbai region to boost coverage under Ayushman, other schemes",
-        "summary": "\"Discussions are underway with multi speciality private hospitals in Mumbai and its suburbs to implement the Ayushman Bharat scheme but they can't be forced to join,\" the minister said, adding that they will be persuaded to come on board.",
-        "source": "ET Healthworld Hospitals",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-03-02T02:11:08.000Z",
-        "publishedLabel": "March 2, 2026",
-        "category": "Hospital",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-128916231,imgsize-29278,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/maha-govt-to-hold-meeting-with-hospitals-in-mumbai-region-to-boost-coverage-under-ayushman-other-schemes.jpg",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/maha-govt-to-hold-meeting-with-hospitals-in-mumbai-region-to-boost-coverage-under-ayushman-other-schemes/128916231",
-        "articlePath": "/article.html?issue=2026-03-01&article=2026-03-01-maha-govt-to-hold-meeting-with-hospitals-in-mumbai-region-to-boost-cover"
-      }
-    ],
+    "providers": [],
     "diagnostics": [
       {
         "id": "2026-03-01-medgenome-acquires-majority-stake-in-medcare-management-services",
@@ -225,14 +121,6 @@
     },
     {
       "segment": "pharma",
-      "articleId": "2026-03-01-moderna-settles-vaccine-patent-dispute-with-950-million-usd-deal",
-      "title": "Moderna Settles Vaccine Patent Dispute with 950 Million USD Deal",
-      "source": "PharmaTutor News",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
-      "segment": "pharma",
       "articleId": "2026-03-01-johnson-and-johnson-therapy-nipocalimab-granted-u-s-fda-fast-track-desig",
       "title": "Johnson & Johnson therapy nipocalimab granted U.S. FDA Fast Track designation in systemic lupus erythematosus (SLE)",
       "source": "Janssen India Media",
@@ -246,46 +134,6 @@
       "source": "PharmaTutor News",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
-      "segment": "pharma",
-      "articleId": "2026-03-01-cdsco-issues-alert-after-theft-of-sanofi-lantus-insulin-pens-during-tran",
-      "title": "CDSCO Issues Alert After Theft of Sanofi Lantus Insulin Pens During Transit",
-      "source": "PharmaTutor News",
-      "solution": "THB Commercial Analytics",
-      "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
-    },
-    {
-      "segment": "providers",
-      "articleId": "2026-03-01-philips-actrec-collaborate-to-strengthen-early-cancer-detection-with-spe",
-      "title": "Philips, ACTREC collaborate to strengthen early cancer detection with Spectral CT",
-      "source": "ET Healthworld Hospitals",
-      "solution": "THB Provider CRM",
-      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
-    },
-    {
-      "segment": "providers",
-      "articleId": "2026-03-01-deploy-ai-in-healthcare-with-caution-build-guardrails-first-says-manipal",
-      "title": "Deploy AI in healthcare with caution; build guardrails first, says Manipal CEO",
-      "source": "ET Healthworld Hospitals",
-      "solution": "THB Provider CRM",
-      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
-    },
-    {
-      "segment": "providers",
-      "articleId": "2026-03-01-hyd-hospital-launches-platform-for-non-invasive-brain-tumor-treatment",
-      "title": "Hyd hospital launches platform for non-invasive brain tumor treatment",
-      "source": "ET Healthworld Hospitals",
-      "solution": "THB Provider CRM",
-      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
-    },
-    {
-      "segment": "providers",
-      "articleId": "2026-03-01-maha-govt-to-hold-meeting-with-hospitals-in-mumbai-region-to-boost-cover",
-      "title": "Maha govt to hold meeting with hospitals in Mumbai region to boost coverage under Ayushman, other schemes",
-      "source": "ET Healthworld Hospitals",
-      "solution": "THB Provider CRM",
-      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
     },
     {
       "segment": "diagnostics",
