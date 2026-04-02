@@ -5,22 +5,22 @@
   "startDate": "2026-03-21T18:30:00.000Z",
   "endDate": "2026-03-27T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-04-01T14:50:22.282Z",
+  "updatedAt": "2026-04-02T05:56:19.103Z",
   "coverage": {
-    "pharma": 19,
-    "providers": 10,
-    "diagnostics": 6,
+    "pharma": 18,
+    "providers": 9,
+    "diagnostics": 7,
     "healthtech": 0
   },
   "sourcesUsed": [
     "BioSpectrum India Healthcare",
     "ET Healthworld",
+    "ET Healthworld Diagnostics",
     "ET Healthworld Hospitals",
     "Economic Times Pharma",
     "Express Healthcare Posts",
     "Financial Express Healthcare",
     "Lupin Updates",
-    "Medical Dialogues Pharma",
     "PharmaTutor News"
   ],
   "segments": {
@@ -145,23 +145,6 @@
         "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-ima-seeks-specialist-only-prescriptions-amid-misuse-risks-and-cheap-gene"
       },
       {
-        "id": "2026-03-22-dcgi-intensifies-crackdown-on-glp-1-drug-misuse-sales-and-misleading-ads",
-        "title": "DCGI intensifies crackdown on GLP-1 drug misuse, sales and misleading ads",
-        "summary": "India's drug regulator is cracking down on illegal sales and promotion of GLP-1 weight loss drugs. Inspections are underway across the country targeting pharmacies, wholesalers, and clinics. The regulator warns of strict action, including license...",
-        "source": "Economic Times Pharma",
-        "sourceHost": "economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-03-24T05:00:11.000Z",
-        "publishedLabel": "March 24, 2026",
-        "category": "Industry Update",
-        "image": "https://img.etimg.com/thumb/msid-129767442,width-1200,height-630,imgsize-53874,overlay-economictimes/articleshow.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/dcgi-intensifies-crackdown-on-glp-1-drug-misuse-sales-and-misleading-ads/articleshow/129767387.cms",
-        "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-dcgi-intensifies-crackdown-on-glp-1-drug-misuse-sales-and-misleading-ads"
-      },
-      {
         "id": "2026-03-22-regulator-steps-up-oversight-of-glp-1-drug-distribution-chain",
         "title": "Regulator steps up oversight of GLP-1 drug distribution chain",
         "summary": "India's drug regulatory body is intensifying its scrutiny of the distribution channels for GLP-1 weight loss drugs. State drug authorities are directed to ensure stringent compliance with approved protocols and accurate product labeling. Any instances of...",
@@ -196,6 +179,23 @@
         "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-centre-steps-up-oversight-on-glp-1-drugs-amid-concerns-over-improper-pra"
       },
       {
+        "id": "2026-03-22-pacific-onehealth-bets-rs-300-cr-on-micro-hospitals-to-decentralise-care",
+        "title": "Pacific OneHealth bets Rs.300 Cr on micro-hospitals to decentralise care in north India",
+        "summary": "Pacific OneHealth will invest Rs.100 crore in the first phase to set up five micro-hospitals in Delhi NCR over the next two years, as part of its ₹300 crore plan to build a decentralised care network across North India. Unlike traditional hospitals,...",
+        "source": "ET Healthworld",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-03-25T06:12:10.000Z",
+        "publishedLabel": "March 25, 2026",
+        "category": "Industry Update",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-129792744,imgsize-87596,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/pacific-onehealth-bets-rs-300-cr-on-micro-hospitals-to-decentralise-care-in-north-india.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": false,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/pacific-onehealth-bets-rs-300-cr-on-micro-hospitals-to-decentralise-care-in-north-india/129792744",
+        "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-pacific-onehealth-bets-rs-300-cr-on-micro-hospitals-to-decentralise-care"
+      },
+      {
         "id": "2026-03-22-fda-approves-first-gene-therapy-for-severe-leukocyte-adhesion-deficiency",
         "title": "FDA Approves First Gene Therapy for Severe Leukocyte Adhesion Deficiency Type I",
         "summary": "The U.S. Food and Drug Administration today approved Kresladi (marnetegragene autotemcel), the first gene therapy for the treatment of severe Leukocyte Adhesion Deficiency Type I (LAD-I). Kresladi is indicated for the treatment of pediatric patients with...",
@@ -211,23 +211,6 @@
         "justIn": false,
         "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/fda-approves-first-gene-therapy-for-severe-leukocyte-adhesion-deficiency-type-i",
         "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-fda-approves-first-gene-therapy-for-severe-leukocyte-adhesion-deficiency"
-      },
-      {
-        "id": "2026-03-22-setback-to-sun-pharma-as-fibromun-nidlegy-trials-miss-key-endpoints-in-c",
-        "title": "Setback to Sun Pharma as Fibromun, Nidlegy Trials Miss Key Endpoints in Cancer Studies",
-        "summary": "New Delhi: Sun Pharmaceutical Industries Limited has shared clinical updates on Fibromun and Nidlegy, with key studies failing to meet primary endpoints while further trials and regulatory pathways...",
-        "source": "Medical Dialogues Pharma",
-        "sourceHost": "medicaldialogues.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-03-28T15:07:09.000Z",
-        "publishedLabel": "March 28, 2026",
-        "category": "Industry Update",
-        "image": "https://medicaldialogues.in/h-upload/2024/01/16/230297-sun-pharma-new-50.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/setback-to-sun-pharma-as-fibromun-nidlegy-trials-miss-key-endpoints-in-cancer-studies-167528",
-        "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-setback-to-sun-pharma-as-fibromun-nidlegy-trials-miss-key-endpoints-in-c"
       },
       {
         "id": "2026-03-22-dtab-backs-major-reform-all-antimicrobials-may-soon-be-classified-as-new",
@@ -350,23 +333,6 @@
       }
     ],
     "providers": [
-      {
-        "id": "2026-03-22-pacific-onehealth-bets-rs-300-cr-on-micro-hospitals-to-decentralise-care",
-        "title": "Pacific OneHealth bets Rs.300 Cr on micro-hospitals to decentralise care in north India",
-        "summary": "Pacific OneHealth will invest Rs.100 crore in the first phase to set up five micro-hospitals in Delhi NCR over the next two years, as part of its ₹300 crore plan to build a decentralised care network across North India. Unlike traditional hospitals,...",
-        "source": "ET Healthworld Hospitals",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-03-25T06:12:10.000Z",
-        "publishedLabel": "March 25, 2026",
-        "category": "Hospital",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-129792744,imgsize-87596,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/pacific-onehealth-bets-rs-300-cr-on-micro-hospitals-to-decentralise-care-in-north-india.jpg",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/pacific-onehealth-bets-rs-300-cr-on-micro-hospitals-to-decentralise-care-in-north-india/129792744",
-        "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-pacific-onehealth-bets-rs-300-cr-on-micro-hospitals-to-decentralise-care"
-      },
       {
         "id": "2026-03-22-360-one-to-finance-aims-founder-s-stake-buyback",
         "title": "360 ONE to finance AIMS founder's stake buyback",
@@ -523,6 +489,23 @@
     ],
     "diagnostics": [
       {
+        "id": "2026-03-22-silent-epidemic-60-ckd-patients-unaware-of-their-condition-finds-study",
+        "title": "Silent epidemic: 60% CKD patients unaware of their condition, finds study",
+        "summary": "Using point-of-care tests and digital tools in local primary health centres, the researchers screened nearly 2,000 people in both urban pockets and rural CKD hotspot areas.",
+        "source": "ET Healthworld Diagnostics",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-03-23T04:33:07.000Z",
+        "publishedLabel": "March 23, 2026",
+        "category": "Industry Update",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-129742950,imgsize-80902,width-1200,height=627,overlay-ethealth,resizemode-75/diagnostics/silent-epidemic-60-ckd-patients-unaware-of-their-condition-finds-study.jpg",
+        "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
+        "justIn": false,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/diagnostics/silent-epidemic-60-ckd-patients-unaware-of-their-condition-finds-study/129742950",
+        "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-silent-epidemic-60-ckd-patients-unaware-of-their-condition-finds-study"
+      },
+      {
         "id": "2026-03-22-neuberg-diagnostics-introduces-blood-test-for-alzheimer-s-screening-in-c",
         "title": "Neuberg Diagnostics introduces blood test for Alzheimer’s screening in Chennai",
         "summary": "Mispa i60 enables detection of Alzheimer’s markers through blood sample",
@@ -670,14 +653,6 @@
     },
     {
       "segment": "providers",
-      "articleId": "2026-03-22-pacific-onehealth-bets-rs-300-cr-on-micro-hospitals-to-decentralise-care",
-      "title": "Pacific OneHealth bets Rs.300 Cr on micro-hospitals to decentralise care in north India",
-      "source": "ET Healthworld Hospitals",
-      "solution": "THB Provider CRM",
-      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
-    },
-    {
-      "segment": "providers",
       "articleId": "2026-03-22-360-one-to-finance-aims-founder-s-stake-buyback",
       "title": "360 ONE to finance AIMS founder's stake buyback",
       "source": "ET Healthworld Hospitals",
@@ -709,6 +684,22 @@
       "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
     },
     {
+      "segment": "providers",
+      "articleId": "2026-03-22-nathealth-appoints-dr-sangita-reddy-as-president-for-fy-2026-27",
+      "title": "NATHEALTH appoints Dr Sangita Reddy as President for FY 2026–27",
+      "source": "Express Healthcare Posts",
+      "solution": "THB Provider CRM",
+      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
+    },
+    {
+      "segment": "diagnostics",
+      "articleId": "2026-03-22-silent-epidemic-60-ckd-patients-unaware-of-their-condition-finds-study",
+      "title": "Silent epidemic: 60% CKD patients unaware of their condition, finds study",
+      "source": "ET Healthworld Diagnostics",
+      "solution": "THB Diagnostics CRM",
+      "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
+    },
+    {
       "segment": "diagnostics",
       "articleId": "2026-03-22-neuberg-diagnostics-introduces-blood-test-for-alzheimer-s-screening-in-c",
       "title": "Neuberg Diagnostics introduces blood test for Alzheimer’s screening in Chennai",
@@ -736,14 +727,6 @@
       "segment": "diagnostics",
       "articleId": "2026-03-22-sightsavers-india-and-abbvie-therapeutics-india-hold-glaucoma-consultati",
       "title": "Sightsavers India and AbbVie Therapeutics India hold glaucoma consultation in Jaipur",
-      "source": "Express Healthcare Posts",
-      "solution": "THB Diagnostics CRM",
-      "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
-    },
-    {
-      "segment": "diagnostics",
-      "articleId": "2026-03-22-aksigen-ivf-opens-embryology-laboratory-in-mumbai",
-      "title": "Aksigen IVF opens embryology laboratory in Mumbai",
       "source": "Express Healthcare Posts",
       "solution": "THB Diagnostics CRM",
       "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
