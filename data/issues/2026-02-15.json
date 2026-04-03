@@ -5,15 +5,16 @@
   "startDate": "2026-02-14T18:30:00.000Z",
   "endDate": "2026-02-20T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-04-02T14:40:06.605Z",
+  "updatedAt": "2026-04-03T05:56:16.164Z",
   "coverage": {
     "pharma": 3,
-    "providers": 0,
+    "providers": 5,
     "diagnostics": 2,
     "healthtech": 0
   },
   "sourcesUsed": [
     "ET Healthworld Diagnostics",
+    "ET Healthworld Hospitals",
     "Financial Express Healthcare",
     "Lupin Updates"
   ],
@@ -71,7 +72,93 @@
         "articlePath": "/article.html?issue=2026-02-15&article=2026-02-15-stocks-in-news-fractal-analytics-ril-cochin-shipyard-trent-britannia"
       }
     ],
-    "providers": [],
+    "providers": [
+      {
+        "id": "2026-02-15-medanta-noida-launches-structural-heart-programme-with-first-three-tavi-",
+        "title": "Medanta Noida Launches Structural Heart Programme with First Three TAVI Procedures",
+        "summary": "The three patients men in their early sixties were diagnosed with severe symptomatic aortic stenosis, a progressive and potentially life-threatening valve disease that can significantly impair quality of life if left untreated.",
+        "source": "ET Healthworld Hospitals",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-02-18T07:05:11.000Z",
+        "publishedLabel": "February 18, 2026",
+        "category": "Patient Care",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-128496337,imgsize-89800,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/medanta-noida-launches-structural-heart-programme-with-first-three-tavi-procedures.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": false,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/medanta-noida-launches-structural-heart-programme-with-first-three-tavi-procedures/128496337",
+        "articlePath": "/article.html?issue=2026-02-15&article=2026-02-15-medanta-noida-launches-structural-heart-programme-with-first-three-tavi-"
+      },
+      {
+        "id": "2026-02-15-ramaiah-memorial-hospital-earns-global-fact-accreditation-for-cellular-t",
+        "title": "Ramaiah Memorial Hospital earns global FACT accreditation for cellular therapy",
+        "summary": "With this recognition, RMH becomes one of only two hospitals in India to hold FACT accreditation and the only one in the country to have both FACT and Joint Commission International (JCI) accreditations—placing it among a select group of globally benchmarked...",
+        "source": "ET Healthworld Hospitals",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-02-20T12:42:10.000Z",
+        "publishedLabel": "February 20, 2026",
+        "category": "Hospital",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-128608818,imgsize-67084,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/ramaiah-memorial-hospital-earns-global-fact-accreditation-for-cellular-therapy.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": false,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/ramaiah-memorial-hospital-earns-global-fact-accreditation-for-cellular-therapy/128608818",
+        "articlePath": "/article.html?issue=2026-02-15&article=2026-02-15-ramaiah-memorial-hospital-earns-global-fact-accreditation-for-cellular-t"
+      },
+      {
+        "id": "2026-02-15-sims-hospital-launches-integrated-sleep-institute-in-chennai",
+        "title": "SIMS Hospital launches integrated sleep institute in Chennai",
+        "summary": "Equipped with a dedicated Sleep Board and advanced sleep analysis technologies, the centre offers comprehensive and personalised treatment for neurological, psychological, and respiratory sleep disorders across all age groups, according to a press release.",
+        "source": "ET Healthworld Hospitals",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-02-20T02:28:19.000Z",
+        "publishedLabel": "February 20, 2026",
+        "category": "Hospital",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-128586517,imgsize-800457,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/sims-hospital-launches-integrated-sleep-institute-in-chennai.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": false,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/sims-hospital-launches-integrated-sleep-institute-in-chennai/128586517",
+        "articlePath": "/article.html?issue=2026-02-15&article=2026-02-15-sims-hospital-launches-integrated-sleep-institute-in-chennai"
+      },
+      {
+        "id": "2026-02-15-zynova-shalby-launches-dedicated-oncology-department-in-mumbai",
+        "title": "Zynova Shalby launches dedicated oncology department in Mumbai",
+        "summary": "According to the hospital, the initiative is designed to strengthen early detection, timely diagnosis and coordinated treatment, which are critical in improving survival outcomes and quality of life for cancer patients.",
+        "source": "ET Healthworld Hospitals",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-02-17T07:09:41.000Z",
+        "publishedLabel": "February 17, 2026",
+        "category": "Hospital",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-128453232,imgsize-483583,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/zynova-shalby-launches-dedicated-oncology-department-in-mumbai.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": false,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/zynova-shalby-launches-dedicated-oncology-department-in-mumbai/128453232",
+        "articlePath": "/article.html?issue=2026-02-15&article=2026-02-15-zynova-shalby-launches-dedicated-oncology-department-in-mumbai"
+      },
+      {
+        "id": "2026-02-15-fortis-healthcare-maintains-strong-growth-momentum-eyes-expansion",
+        "title": "Fortis Healthcare maintains strong growth momentum, eyes expansion",
+        "summary": "Fortis Healthcare reported a 19% revenue growth in its hospital business, driven by acquisitions and brownfield expansions. The company anticipates reaching 70% occupancy within a year and is on track for margin expansion, with hospital EBITDA expected to...",
+        "source": "ET Healthworld Hospitals",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-02-17T01:50:35.000Z",
+        "publishedLabel": "February 17, 2026",
+        "category": "Expansion",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-128434419,imgsize-753371,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/fortis-healthcare-maintains-strong-growth-momentum-eyes-expansion.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": false,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/fortis-healthcare-maintains-strong-growth-momentum-eyes-expansion/128434419",
+        "articlePath": "/article.html?issue=2026-02-15&article=2026-02-15-fortis-healthcare-maintains-strong-growth-momentum-eyes-expansion"
+      }
+    ],
     "diagnostics": [
       {
         "id": "2026-02-15-kamala-nehru-hosp-iit-k-develop-ai-device-for-detection-of-lung-cancer",
@@ -134,6 +221,46 @@
       "source": "Lupin Updates",
       "solution": "THB Commercial Analytics",
       "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
+    },
+    {
+      "segment": "providers",
+      "articleId": "2026-02-15-medanta-noida-launches-structural-heart-programme-with-first-three-tavi-",
+      "title": "Medanta Noida Launches Structural Heart Programme with First Three TAVI Procedures",
+      "source": "ET Healthworld Hospitals",
+      "solution": "THB Provider CRM",
+      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
+    },
+    {
+      "segment": "providers",
+      "articleId": "2026-02-15-ramaiah-memorial-hospital-earns-global-fact-accreditation-for-cellular-t",
+      "title": "Ramaiah Memorial Hospital earns global FACT accreditation for cellular therapy",
+      "source": "ET Healthworld Hospitals",
+      "solution": "THB Provider CRM",
+      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
+    },
+    {
+      "segment": "providers",
+      "articleId": "2026-02-15-sims-hospital-launches-integrated-sleep-institute-in-chennai",
+      "title": "SIMS Hospital launches integrated sleep institute in Chennai",
+      "source": "ET Healthworld Hospitals",
+      "solution": "THB Provider CRM",
+      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
+    },
+    {
+      "segment": "providers",
+      "articleId": "2026-02-15-zynova-shalby-launches-dedicated-oncology-department-in-mumbai",
+      "title": "Zynova Shalby launches dedicated oncology department in Mumbai",
+      "source": "ET Healthworld Hospitals",
+      "solution": "THB Provider CRM",
+      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
+    },
+    {
+      "segment": "providers",
+      "articleId": "2026-02-15-fortis-healthcare-maintains-strong-growth-momentum-eyes-expansion",
+      "title": "Fortis Healthcare maintains strong growth momentum, eyes expansion",
+      "source": "ET Healthworld Hospitals",
+      "solution": "THB Provider CRM",
+      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
     },
     {
       "segment": "diagnostics",
