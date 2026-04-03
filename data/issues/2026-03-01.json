@@ -5,9 +5,9 @@
   "startDate": "2026-02-28T18:30:00.000Z",
   "endDate": "2026-03-06T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-04-03T05:56:16.164Z",
+  "updatedAt": "2026-04-03T14:23:51.566Z",
   "coverage": {
-    "pharma": 3,
+    "pharma": 2,
     "providers": 4,
     "diagnostics": 2,
     "healthtech": 0
@@ -15,8 +15,7 @@
   "sourcesUsed": [
     "ET Healthworld Diagnostics",
     "ET Healthworld Hospitals",
-    "Janssen India Media",
-    "PharmaTutor News"
+    "Janssen India Media"
   ],
   "segments": {
     "pharma": [
@@ -53,23 +52,6 @@
         "justIn": false,
         "originalUrl": "https://www.jnj.com/media-center/press-releases/johnson-johnson-therapy-nipocalimab-granted-u-s-fda-fast-track-designation-in-systemic-lupus-erythematosus-sle",
         "articlePath": "/article.html?issue=2026-03-01&article=2026-03-01-johnson-and-johnson-therapy-nipocalimab-granted-u-s-fda-fast-track-desig"
-      },
-      {
-        "id": "2026-03-01-fda-approves-new-combination-therapy-for-relapsed-or-refractory-multiple",
-        "title": "FDA Approves New Combination Therapy for Relapsed or Refractory Multiple Myeloma",
-        "summary": "The U.S. Food and Drug Administration has approved a new treatment combination of teclistamab‑cqyv with daratumumab and hyaluronidase‑fihj for adult patients with relapsed or refractory Multiple Myeloma. The approval offers a new therapeutic option for...",
-        "source": "PharmaTutor News",
-        "sourceHost": "pharmatutor.org",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-03-06T10:49:04.000Z",
-        "publishedLabel": "March 6, 2026",
-        "category": "Approval",
-        "image": "https://www.pharmatutor.org/sites/default/files/styles/webp/public/2026-03/fda-approves-new-combination-therapy-for-relapsed-or-refractory-multiple-myeloma.jpg.webp?itok=3s2yrsoT",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/fda-approves-new-combination-therapy-for-relapsed-or-refractory-multiple-myeloma",
-        "articlePath": "/article.html?issue=2026-03-01&article=2026-03-01-fda-approves-new-combination-therapy-for-relapsed-or-refractory-multiple"
       }
     ],
     "providers": [
@@ -194,14 +176,6 @@
       "articleId": "2026-03-01-johnson-and-johnson-therapy-nipocalimab-granted-u-s-fda-fast-track-desig",
       "title": "Johnson & Johnson therapy nipocalimab granted U.S. FDA Fast Track designation in systemic lupus erythematosus (SLE)",
       "source": "Janssen India Media",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
-      "segment": "pharma",
-      "articleId": "2026-03-01-fda-approves-new-combination-therapy-for-relapsed-or-refractory-multiple",
-      "title": "FDA Approves New Combination Therapy for Relapsed or Refractory Multiple Myeloma",
-      "source": "PharmaTutor News",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
     },
