@@ -5,93 +5,23 @@
   "startDate": "2026-03-21T18:30:00.000Z",
   "endDate": "2026-03-27T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-04-04T05:39:42.196Z",
+  "updatedAt": "2026-04-04T14:06:12.466Z",
   "coverage": {
-    "pharma": 12,
+    "pharma": 8,
     "providers": 7,
     "diagnostics": 3,
     "healthtech": 0
   },
   "sourcesUsed": [
     "BioSpectrum India Healthcare",
-    "ET Healthworld",
     "ET Healthworld Diagnostics",
     "ET Healthworld Hospitals",
-    "Economic Times Pharma",
     "Financial Express Healthcare",
     "Lupin Updates",
     "PharmaTutor News"
   ],
   "segments": {
     "pharma": [
-      {
-        "id": "2026-03-22-biocon-not-to-rush-generic-semaglutide-to-packed-india-market-says-incom",
-        "title": "Biocon not to rush generic semaglutide to packed India market, says incoming CEO Shreehas Tambe",
-        "summary": "Biocon will delay its Indian launch of semaglutide. The company is focusing on international markets for the diabetes and weight-management drug. Biocon aims to become a global medicines company driven by innovation. Insulin remains a strategic anchor....",
-        "source": "Economic Times Pharma",
-        "sourceHost": "economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-03-27T17:04:28.000Z",
-        "publishedLabel": "March 27, 2026",
-        "category": "Market",
-        "image": "https://img.etimg.com/thumb/msid-129851357,width-1200,height-630,imgsize-102884,overlay-economictimes/articleshow.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/biocon-not-to-rush-generic-semaglutide-to-packed-india-market-says-incoming-ceo/articleshow/129851354.cms",
-        "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-biocon-not-to-rush-generic-semaglutide-to-packed-india-market-says-incom"
-      },
-      {
-        "id": "2026-03-22-iit-bombay-develops-dna-based-strategy-to-tackle-antibiotic-resistance",
-        "title": "IIT Bombay develops DNA-based strategy to tackle antibiotic resistance",
-        "summary": "In the first study, the researchers focused on specially identified short strands of DNA known as aptamers. Unlike the conventional drugs, aptamers are made up of nucleic acids, synthetically produced, relatively stable, and easier to modify.",
-        "source": "ET Healthworld",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-03-27T02:28:51.000Z",
-        "publishedLabel": "March 27, 2026",
-        "category": "Industry Update",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-129836860,imgsize-412360,width-1200,height=627,overlay-ethealth,resizemode-75/industry/iit-bombay-develops-dna-based-strategy-to-tackle-antibiotic-resistance.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/iit-bombay-develops-dna-based-strategy-to-tackle-antibiotic-resistance/129836860",
-        "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-iit-bombay-develops-dna-based-strategy-to-tackle-antibiotic-resistance"
-      },
-      {
-        "id": "2026-03-22-bankruptcy-court-admits-bse-listed-supha-pharmachem-under-insolvency-res",
-        "title": "Bankruptcy court admits BSE-listed Supha Pharmachem under Insolvency Resolution Process",
-        "summary": "The Mumbai bench of the National Company Law Tribunal has admitted Supha Pharmachem into the Corporate Insolvency Resolution Process (CIRP) over a payment default, and appointed Rajesh Jhunjhunwala as interim resolution professional.",
-        "source": "Economic Times Pharma",
-        "sourceHost": "economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-03-28T03:55:45.000Z",
-        "publishedLabel": "March 28, 2026",
-        "category": "Industry Update",
-        "image": "https://img.etimg.com/thumb/msid-129858454,width-1200,height-630,imgsize-14600,overlay-economictimes/articleshow.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/bankruptcy-court-admits-bse-listed-supha-pharmachem-under-insolvency-resolution-process/articleshow/129858439.cms",
-        "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-bankruptcy-court-admits-bse-listed-supha-pharmachem-under-insolvency-res"
-      },
-      {
-        "id": "2026-03-22-regulator-steps-up-oversight-of-glp-1-drug-distribution-chain",
-        "title": "Regulator steps up oversight of GLP-1 drug distribution chain",
-        "summary": "India's drug regulatory body is intensifying its scrutiny of the distribution channels for GLP-1 weight loss drugs. State drug authorities are directed to ensure stringent compliance with approved protocols and accurate product labeling. Any instances of...",
-        "source": "Economic Times Pharma",
-        "sourceHost": "economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-03-27T19:04:13.000Z",
-        "publishedLabel": "March 28, 2026",
-        "category": "Industry Update",
-        "image": "https://img.etimg.com/thumb/msid-129853619,width-1200,height-630,imgsize-138448,overlay-economictimes/articleshow.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/regulator-steps-up-oversight-of-glp-1-drug-distribution-chain/articleshow/129853592.cms",
-        "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-regulator-steps-up-oversight-of-glp-1-drug-distribution-chain"
-      },
       {
         "id": "2026-03-22-fda-approves-first-gene-therapy-for-severe-leukocyte-adhesion-deficiency",
         "title": "FDA Approves First Gene Therapy for Severe Leukocyte Adhesion Deficiency Type I",
@@ -408,40 +338,40 @@
   "thbActions": [
     {
       "segment": "pharma",
-      "articleId": "2026-03-22-biocon-not-to-rush-generic-semaglutide-to-packed-india-market-says-incom",
-      "title": "Biocon not to rush generic semaglutide to packed India market, says incoming CEO Shreehas Tambe",
-      "source": "Economic Times Pharma",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
-      "segment": "pharma",
-      "articleId": "2026-03-22-iit-bombay-develops-dna-based-strategy-to-tackle-antibiotic-resistance",
-      "title": "IIT Bombay develops DNA-based strategy to tackle antibiotic resistance",
-      "source": "ET Healthworld",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
-      "segment": "pharma",
-      "articleId": "2026-03-22-bankruptcy-court-admits-bse-listed-supha-pharmachem-under-insolvency-res",
-      "title": "Bankruptcy court admits BSE-listed Supha Pharmachem under Insolvency Resolution Process",
-      "source": "Economic Times Pharma",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
-      "segment": "pharma",
-      "articleId": "2026-03-22-regulator-steps-up-oversight-of-glp-1-drug-distribution-chain",
-      "title": "Regulator steps up oversight of GLP-1 drug distribution chain",
-      "source": "Economic Times Pharma",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
-      "segment": "pharma",
       "articleId": "2026-03-22-fda-approves-first-gene-therapy-for-severe-leukocyte-adhesion-deficiency",
       "title": "FDA Approves First Gene Therapy for Severe Leukocyte Adhesion Deficiency Type I",
+      "source": "PharmaTutor News",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "pharma",
+      "articleId": "2026-03-22-dtab-backs-major-reform-all-antimicrobials-may-soon-be-classified-as-new",
+      "title": "DTAB Backs Major Reform : All Antimicrobials May Soon Be Classified as “New Drugs” in India",
+      "source": "PharmaTutor News",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "pharma",
+      "articleId": "2026-03-22-glp-1-impact-jefferies-sees-these-3-stocks-as-winners-in-the-race-for-oz",
+      "title": "GLP-1 impact: Jefferies sees these 3 stocks as winners in the race for Ozempic, Wegovy generics",
+      "source": "Lupin Updates",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "pharma",
+      "articleId": "2026-03-22-india-s-drug-regulator-gives-conditional-green-light-to-zydus-s-first-hu",
+      "title": "India's Drug Regulator Gives Conditional Green Light to Zydus's First Human Trial for Chikungunya Vaccine",
+      "source": "PharmaTutor News",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "pharma",
+      "articleId": "2026-03-22-dtab-eases-compliance-burden-while-tightening-quality-norms-under-revise",
+      "title": "DTAB Eases Compliance Burden While Tightening Quality Norms Under Revised Schedule M",
       "source": "PharmaTutor News",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
