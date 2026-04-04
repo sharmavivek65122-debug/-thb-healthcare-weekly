@@ -5,15 +5,16 @@
   "startDate": "2026-03-21T18:30:00.000Z",
   "endDate": "2026-03-27T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-04-03T14:23:51.566Z",
+  "updatedAt": "2026-04-04T05:39:42.196Z",
   "coverage": {
-    "pharma": 11,
+    "pharma": 12,
     "providers": 7,
     "diagnostics": 3,
     "healthtech": 0
   },
   "sourcesUsed": [
     "BioSpectrum India Healthcare",
+    "ET Healthworld",
     "ET Healthworld Diagnostics",
     "ET Healthworld Hospitals",
     "Economic Times Pharma",
@@ -39,6 +40,23 @@
         "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/biocon-not-to-rush-generic-semaglutide-to-packed-india-market-says-incoming-ceo/articleshow/129851354.cms",
         "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-biocon-not-to-rush-generic-semaglutide-to-packed-india-market-says-incom"
+      },
+      {
+        "id": "2026-03-22-iit-bombay-develops-dna-based-strategy-to-tackle-antibiotic-resistance",
+        "title": "IIT Bombay develops DNA-based strategy to tackle antibiotic resistance",
+        "summary": "In the first study, the researchers focused on specially identified short strands of DNA known as aptamers. Unlike the conventional drugs, aptamers are made up of nucleic acids, synthetically produced, relatively stable, and easier to modify.",
+        "source": "ET Healthworld",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-03-27T02:28:51.000Z",
+        "publishedLabel": "March 27, 2026",
+        "category": "Industry Update",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-129836860,imgsize-412360,width-1200,height=627,overlay-ethealth,resizemode-75/industry/iit-bombay-develops-dna-based-strategy-to-tackle-antibiotic-resistance.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": false,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/iit-bombay-develops-dna-based-strategy-to-tackle-antibiotic-resistance/129836860",
+        "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-iit-bombay-develops-dna-based-strategy-to-tackle-antibiotic-resistance"
       },
       {
         "id": "2026-03-22-bankruptcy-court-admits-bse-listed-supha-pharmachem-under-insolvency-res",
@@ -398,6 +416,14 @@
     },
     {
       "segment": "pharma",
+      "articleId": "2026-03-22-iit-bombay-develops-dna-based-strategy-to-tackle-antibiotic-resistance",
+      "title": "IIT Bombay develops DNA-based strategy to tackle antibiotic resistance",
+      "source": "ET Healthworld",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "pharma",
       "articleId": "2026-03-22-bankruptcy-court-admits-bse-listed-supha-pharmachem-under-insolvency-res",
       "title": "Bankruptcy court admits BSE-listed Supha Pharmachem under Insolvency Resolution Process",
       "source": "Economic Times Pharma",
@@ -416,14 +442,6 @@
       "segment": "pharma",
       "articleId": "2026-03-22-fda-approves-first-gene-therapy-for-severe-leukocyte-adhesion-deficiency",
       "title": "FDA Approves First Gene Therapy for Severe Leukocyte Adhesion Deficiency Type I",
-      "source": "PharmaTutor News",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
-      "segment": "pharma",
-      "articleId": "2026-03-22-dtab-backs-major-reform-all-antimicrobials-may-soon-be-classified-as-new",
-      "title": "DTAB Backs Major Reform : All Antimicrobials May Soon Be Classified as “New Drugs” in India",
       "source": "PharmaTutor News",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."

@@ -5,16 +5,17 @@
   "startDate": "2026-03-28T18:30:00.000Z",
   "endDate": "2026-04-03T18:30:00.000Z",
   "status": "live",
-  "updatedAt": "2026-04-03T14:23:51.566Z",
+  "updatedAt": "2026-04-04T05:39:42.196Z",
   "coverage": {
     "pharma": 50,
-    "providers": 10,
+    "providers": 12,
     "diagnostics": 7,
     "healthtech": 0
   },
   "sourcesUsed": [
     "BioSpectrum Asia Middle East",
     "ET Healthworld",
+    "ET Healthworld Diagnostics",
     "ET Healthworld Hospitals",
     "Economic Times Pharma",
     "Express Healthcare",
@@ -23,7 +24,8 @@
     "Healthcare MEA",
     "Lupin Updates",
     "Medical Dialogues Pharma",
-    "PharmaTutor News"
+    "PharmaTutor News",
+    "Zawya Pharmaceuticals"
   ],
   "segments": {
     "pharma": [
@@ -164,21 +166,21 @@
         "articlePath": "/article.html?issue=2026-03-29&article=2026-03-29-novo-nordisk-plans-to-cut-price-of-ozempic-as-generics-hit-market"
       },
       {
-        "id": "2026-03-29-genetic-testing-improves-treatment-survival-for-black-breast-cancer-pati",
-        "title": "Genetic testing improves treatment, survival for Black breast cancer patients",
-        "summary": "Tumor gene expression profiling was done using the MammaPrint and BluePrint tests from Agendia, which classify early-stage tumors as being at Ultra Low, Low, High 1, or High 2 risk for spreading throughout the body over the next 10 years. ​The results help to...",
+        "id": "2026-03-29-healthcare-sector-faces-rising-costs-amid-west-asia-conflict",
+        "title": "Healthcare sector faces rising costs amid West Asia conflict",
+        "summary": "Traders at Leader Road market claimed that several manufacturers in India (such as those in the Faridabad hub) have already increased syringe prices by 10% to 25%. If the conflict persists for another 3 to 6 months, hospitals could face a severe shortage of...",
         "source": "ET Healthworld",
         "sourceHost": "health.economictimes.indiatimes.com",
         "region": "India",
         "country": "India",
-        "publishedAt": "2026-04-01T12:15:57.000Z",
-        "publishedLabel": "April 1, 2026",
-        "category": "Industry Update",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-129951596,imgsize-128352,width-1200,height=627,overlay-ethealth,resizemode-75/diagnostics/genetic-testing-improves-treatment-survival-for-black-breast-cancer-patients.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "publishedAt": "2026-04-04T01:27:54.000Z",
+        "publishedLabel": "April 4, 2026",
+        "category": "Market",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-130008041,imgsize-150826,width-1200,height=627,overlay-ethealth,resizemode-75/industry/healthcare-sector-faces-rising-costs-amid-west-asia-conflict.jpg",
+        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
         "justIn": true,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/diagnostics/genetic-testing-improves-treatment-survival-for-black-breast-cancer-patients/129951596",
-        "articlePath": "/article.html?issue=2026-03-29&article=2026-03-29-genetic-testing-improves-treatment-survival-for-black-breast-cancer-pati"
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/healthcare-sector-faces-rising-costs-amid-west-asia-conflict/130008041",
+        "articlePath": "/article.html?issue=2026-03-29&article=2026-03-29-healthcare-sector-faces-rising-costs-amid-west-asia-conflict"
       },
       {
         "id": "2026-03-29-india-largely-shielded-from-us-tariffs-on-patented-drugs-due-to-generic-",
@@ -193,7 +195,7 @@
         "category": "Industry Update",
         "image": "https://img.etimg.com/thumb/msid-130002400,width-1200,height-630,imgsize-40684,overlay-economictimes/articleshow.jpg",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/india-largely-shielded-from-us-tariffs-on-patented-drugs-due-to-generic-export-strength-gtri/articleshow/130002400.cms",
         "articlePath": "/article.html?issue=2026-03-29&article=2026-03-29-india-largely-shielded-from-us-tariffs-on-patented-drugs-due-to-generic-"
       },
@@ -213,23 +215,6 @@
         "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/cctv-in-medical-stores-may-become-mandatory-dcc-proposes-rule-change/articleshow/129986307.cms",
         "articlePath": "/article.html?issue=2026-03-29&article=2026-03-29-cctv-in-medical-stores-may-become-mandatory-dcc-proposes-rule-change"
-      },
-      {
-        "id": "2026-03-29-us-supreme-court-rules-against-ban-on-conversion-therapy-for-lgbtq-minor",
-        "title": "US Supreme Court rules against ban on 'conversion therapy' for LGBTQ minors",
-        "summary": "In June, the Supreme Court voted 6-3 to uphold a Tennessee state law banning hormone therapy, puberty blockers and gender transition surgery for minors.",
-        "source": "ET Healthworld",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-04-02T02:27:54.000Z",
-        "publishedLabel": "April 2, 2026",
-        "category": "Industry Update",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-129939469,imgsize-109974,width-1200,height=627,overlay-ethealth,resizemode-75/industry/us-supreme-court-rules-against-ban-on-conversion-therapy-for-lgbtq-minors.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/us-supreme-court-rules-against-ban-on-conversion-therapy-for-lgbtq-minors/129939469",
-        "articlePath": "/article.html?issue=2026-03-29&article=2026-03-29-us-supreme-court-rules-against-ban-on-conversion-therapy-for-lgbtq-minor"
       },
       {
         "id": "2026-03-29-lilly-s-weight-loss-pill-wins-us-approval-sets-up-next-battle-with-rival",
@@ -283,6 +268,40 @@
         "articlePath": "/article.html?issue=2026-03-29&article=2026-03-29-emcure-cuts-semaglutide-injection-price-by-average-47"
       },
       {
+        "id": "2026-03-29-jan-vishwas-bill-rationalises-compliance-decriminalises-minor-offences-i",
+        "title": "Jan Vishwas Bill rationalises compliance, decriminalises minor offences in health sector",
+        "summary": "The Bill reflects the government's commitment to fostering a trust-based governance framework and ensuring proportionate regulation by reducing the compliance burden on individuals and businesses, the Union health ministry said.",
+        "source": "ET Healthworld",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-04-04T01:46:06.000Z",
+        "publishedLabel": "April 4, 2026",
+        "category": "Industry Update",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-130007162,imgsize-147652,width-1200,height=627,overlay-ethealth,resizemode-75/policy/jan-vishwas-bill-rationalises-compliance-decriminalises-minor-offences-in-health-sector.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/policy/jan-vishwas-bill-rationalises-compliance-decriminalises-minor-offences-in-health-sector/130007162",
+        "articlePath": "/article.html?issue=2026-03-29&article=2026-03-29-jan-vishwas-bill-rationalises-compliance-decriminalises-minor-offences-i"
+      },
+      {
+        "id": "2026-03-29-govt-orders-safety-review-of-popular-weight-loss-drugs-amid-rising-deman",
+        "title": "Govt orders safety review of popular weight-loss drugs amid rising demand",
+        "summary": "Indian authorities are increasing vigilance on popular weight loss drugs. Indian Pharmacopoeia Commission will now compile reports on adverse events. This move aims to ensure safety and timely action. Generic versions of these drugs are expected to become...",
+        "source": "Economic Times Pharma",
+        "sourceHost": "economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-04-03T19:08:07.000Z",
+        "publishedLabel": "April 4, 2026",
+        "category": "Industry Update",
+        "image": "https://img.etimg.com/thumb/msid-130008711,width-1200,height-630,imgsize-8444,overlay-economictimes/articleshow.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/govt-orders-safety-review-of-popular-weight-loss-drugs-amid-rising-demand/articleshow/130008658.cms",
+        "articlePath": "/article.html?issue=2026-03-29&article=2026-03-29-govt-orders-safety-review-of-popular-weight-loss-drugs-amid-rising-deman"
+      },
+      {
         "id": "2026-03-29-indian-pharma-sector-faces-supply-risk-amid-west-asia-conflict-despite-d",
         "title": "Indian pharma sector faces supply risk amid West Asia conflict despite duty waiver",
         "summary": "India's pharmaceutical industry faces ongoing concerns about securing essential petrochemical supplies due to the West Asia conflict. While a customs duty waiver offers some cost relief, industry experts highlight supply chain disruptions and timely movement...",
@@ -298,23 +317,6 @@
         "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/indian-pharma-sector-faces-supply-risk-amid-west-asia-conflict-despite-duty-waiver/articleshow/129986127.cms",
         "articlePath": "/article.html?issue=2026-03-29&article=2026-03-29-indian-pharma-sector-faces-supply-risk-amid-west-asia-conflict-despite-d"
-      },
-      {
-        "id": "2026-03-29-whoop-raises-575-million-at-a-10-billion-valuation-on-its-way-to-an-ipo",
-        "title": "Whoop raises $575 million at a $10 billion valuation on its way to an IPO",
-        "summary": "Boston-based Whoop was previously valued at $3.6 billion after a $200 million funding round in 2021. To date, the company has raised over $950 million.",
-        "source": "ET Healthworld",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "Middle East",
-        "country": "Qatar",
-        "publishedAt": "2026-04-02T02:21:13.000Z",
-        "publishedLabel": "April 2, 2026",
-        "category": "Industry Update",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-129926266,imgsize-67658,width-1200,height=627,overlay-ethealth,resizemode-75/industry/whoop-raises-575-million-at-a-10-billion-valuation-on-its-way-to-an-ipo.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/whoop-raises-575-million-at-a-10-billion-valuation-on-its-way-to-an-ipo/129926266",
-        "articlePath": "/article.html?issue=2026-03-29&article=2026-03-29-whoop-raises-575-million-at-a-10-billion-valuation-on-its-way-to-an-ipo"
       },
       {
         "id": "2026-03-29-lupin-gets-tentative-nod-from-usfda-for-generic-sugammadex-injection",
@@ -385,21 +387,21 @@
         "articlePath": "/article.html?issue=2026-03-29&article=2026-03-29-marksans-pharma-gets-usfda-nod-for-generic-benzonatate-capsules"
       },
       {
-        "id": "2026-03-29-molbio-diagnostics-digital-radiology-arm-secures-eu-mdr-certification-fo",
-        "title": "Molbio Diagnostics digital radiology arm secures EU MDR certification for imaging portfolio",
-        "summary": "The certification, issued by TÜV SÜD Product Service GmbH, marks company to expand into globally regulated markets and reflects its adherence to international standards for safety, quality, and clinical performance.",
+        "id": "2026-03-29-ai-based-monitoring-strengthens-ppp-dialysis-programme-in-karnataka-heal",
+        "title": "AI-based monitoring strengthens PPP dialysis programme in Karnataka: Health Minister",
+        "summary": "Launching the AI-based smart monitoring system at KC General Hospital in Bengaluru, the minister said such technological innovations bring dialysis services delivered under the PPP model on par with private healthcare standards.",
         "source": "ET Healthworld",
         "sourceHost": "health.economictimes.indiatimes.com",
         "region": "India",
         "country": "India",
-        "publishedAt": "2026-04-01T09:50:45.000Z",
-        "publishedLabel": "April 1, 2026",
-        "category": "Market",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-129947684,imgsize-143560,width-1200,height=627,overlay-ethealth,resizemode-75/diagnostics/molbio-diagnostics-digital-radiology-arm-secures-eu-mdr-certification-for-imaging-portfolio.jpg",
-        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
+        "publishedAt": "2026-04-04T01:42:03.000Z",
+        "publishedLabel": "April 4, 2026",
+        "category": "Launch",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-129978344,imgsize-58444,width-1200,height=627,overlay-ethealth,resizemode-75/policy/ai-based-monitoring-strengthens-ppp-dialysis-programme-in-karnataka-health-minister.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
         "justIn": true,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/diagnostics/molbio-diagnostics-digital-radiology-arm-secures-eu-mdr-certification-for-imaging-portfolio/129947684",
-        "articlePath": "/article.html?issue=2026-03-29&article=2026-03-29-molbio-diagnostics-digital-radiology-arm-secures-eu-mdr-certification-fo"
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/policy/ai-based-monitoring-strengthens-ppp-dialysis-programme-in-karnataka-health-minister/129978344",
+        "articlePath": "/article.html?issue=2026-03-29&article=2026-03-29-ai-based-monitoring-strengthens-ppp-dialysis-programme-in-karnataka-heal"
       },
       {
         "id": "2026-03-29-medical-bodies-oppose-group-1-and-2-officers-as-hospital-admins",
@@ -504,6 +506,23 @@
         "articlePath": "/article.html?issue=2026-03-29&article=2026-03-29-why-india-needs-a-health-score-not-just-a-credit-score"
       },
       {
+        "id": "2026-03-29-dabur-sees-mid-single-digit-q4-growth",
+        "title": "Dabur sees mid-single digit Q4 growth",
+        "summary": "Dabur India’s Q4 update projects mid-single digit consolidated revenue growth, fueled by a domestic recovery in home and personal care.",
+        "source": "Financial Express Healthcare",
+        "sourceHost": "financialexpress.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-04-03T18:45:47.000Z",
+        "publishedLabel": "April 4, 2026",
+        "category": "Industry Update",
+        "image": "https://images.financialexpressdigital.com/2026/04/Aditya-Infotech-IPO-Canva-1-2_20260129172250_20260217170321_20260403184434.jpg",
+        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
+        "justIn": true,
+        "originalUrl": "https://www.financialexpress.com/business/news/dabur-sees-mid-single-digit-q4-growth/4194635/",
+        "articlePath": "/article.html?issue=2026-03-29&article=2026-03-29-dabur-sees-mid-single-digit-q4-growth"
+      },
+      {
         "id": "2026-03-29-prevention-is-going-to-overtake-treatments-by-2040",
         "title": "Prevention is going to overtake treatments by 2040",
         "summary": "Biohacking is still an emerging concept in India. What’s driving its sudden momentum now, and is it poised to go mainstream? Indians are waking up to the limitations of generic […]",
@@ -516,7 +535,7 @@
         "category": "Industry Update",
         "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/04/03140518/New-Project-1-1.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/news/prevention-is-going-to-overtake-treatments-by-2040/453263/",
         "articlePath": "/article.html?issue=2026-03-29&article=2026-03-29-prevention-is-going-to-overtake-treatments-by-2040"
       },
@@ -524,7 +543,7 @@
         "id": "2026-03-29-gaudium-ivf-introduces-ai-led-infertility-treatment-marking-an-industry-",
         "title": "Gaudium IVF introduces AI-led infertility treatment, marking an industry first in India",
         "summary": "Gaudium IVF, an innovation leader and a pioneering force in India’s fertility healthcare sector, has introduced artificial intelligence (AI)-led infertility treatment, marking yet another industry first—just one month after becoming […]",
-        "source": "Express Healthcare",
+        "source": "Express Healthcare Posts",
         "sourceHost": "expresshealthcare.in",
         "region": "India",
         "country": "India",
@@ -640,6 +659,23 @@
         "articlePath": "/article.html?issue=2026-03-29&article=2026-03-29-granules-india-arm-gets-usfda-vai-status-for-shamirpet-facility-no-actio"
       },
       {
+        "id": "2026-03-29-emirates-drug-establishment-approves-oral-obesity-treatment-marking-shif",
+        "title": "Emirates Drug Establishment approves oral obesity treatment, marking shift away from injections",
+        "summary": "The move to approve this treatment is part of the Establishment’s ongoing efforts to provide innovative, advanced and high-value therapies",
+        "source": "Zawya Pharmaceuticals",
+        "sourceHost": "zawya.com",
+        "region": "Middle East",
+        "country": "United Arab Emirates",
+        "publishedAt": "2026-04-03T13:00:43.000Z",
+        "publishedLabel": "April 3, 2026",
+        "category": "Industry Update",
+        "image": "https://static.zawya.com/view/acePublic/alias/contentid/MTJjNTFkM2YtNDIyNy00/4/1500448393.jpeg?f=3%3A2",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://www.zawya.com/en/business/healthcare/emirates-drug-establishment-approves-oral-obesity-treatment-marking-shift-away-from-injections-dxsis0xn",
+        "articlePath": "/article.html?issue=2026-03-29&article=2026-03-29-emirates-drug-establishment-approves-oral-obesity-treatment-marking-shif"
+      },
+      {
         "id": "2026-03-29-marksans-pharma-gets-usfda-nod-for-generic-tessalon-capsules",
         "title": "Marksans Pharma Gets USFDA Nod for Generic Tessalon Capsules",
         "summary": "New Delhi: Marksans Pharma Limited has received final approval from the U.S. Food and Drug Administration (USFDA) for its Abbreviated New Drug Application (ANDA) for Benzonatate Capsules USP in...",
@@ -686,7 +722,7 @@
         "category": "Industry Update",
         "image": "https://medicaldialogues.in/h-upload/2022/08/06/182794-delhi-high-court.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/intas-pharma-barred-from-using-cancer-drug-brand-bevatas-similar-to-sun-pharmas-bevetex-167885",
         "articlePath": "/article.html?issue=2026-03-29&article=2026-03-29-intas-pharma-barred-from-using-cancer-drug-brand-bevatas-similar-to-sun-"
       },
@@ -706,23 +742,6 @@
         "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/04/02/toppan-establishes-us-subsidiary-in-houston-to-scale-personalized-cancer-medicine/",
         "articlePath": "/article.html?issue=2026-03-29&article=2026-03-29-toppan-establishes-us-subsidiary-in-houston-to-scale-personalized-cancer"
-      },
-      {
-        "id": "2026-03-29-us-stock-market-today-dow-jones-nasdaq-highlights-dow-soars-1-125-pts-na",
-        "title": "US Stock Market Today | Dow Jones | Nasdaq Highlights: Dow soars 1,125 pts, Nasdaq, S&P 3% after Iran says 'willing' to end war",
-        "summary": "Dow Jones Today | US Stock Market Highlights: Wall Street ended sharply higher on Tuesday, lifted by speculation about a potential de-escalation in the Middle East conflict that has sent oil prices soaring and fueled fears of global inflation in recent weeks.",
-        "source": "Lupin Updates",
-        "sourceHost": "economictimes.indiatimes.com",
-        "region": "Middle East",
-        "country": "United Arab Emirates",
-        "publishedAt": "2026-03-31T12:12:42.000Z",
-        "publishedLabel": "March 31, 2026",
-        "category": "Market",
-        "image": "https://economictimes.indiatimes.com/thumb/msid-129925432,width-1200,height-900,resizemode-4,imglength-231068/markets/us-stocks/news/us-stock-market-live-dow-jones-sp-500-nasdaq-trump-us-iran-israel-war-strait-of-hormuz-crude-brent-oil-nvidia-ai-tech-stock-price-news.jpg",
-        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
-        "originalUrl": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-live-dow-jones-sp-500-nasdaq-trump-us-iran-israel-war-crude-brent-oil-meta-google-mu-stock-price-news/liveblog/129925432.cms?from=mdr",
-        "articlePath": "/article.html?issue=2026-03-29&article=2026-03-29-us-stock-market-today-dow-jones-nasdaq-highlights-dow-soars-1-125-pts-na"
       },
       {
         "id": "2026-03-29-wockhardt-gets-5-year-nppa-price-control-exemption-for-nafithromycin-400",
@@ -822,26 +841,9 @@
         "category": "Industry Update",
         "image": "https://medicaldialogues.in/h-upload/2024/02/20/232620-eli-lilly-50-1.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/usfda-approves-eli-lillys-weight-loss-pill-foundayo-intensifies-rivalry-with-novo-nordisk-167873",
         "articlePath": "/article.html?issue=2026-03-29&article=2026-03-29-usfda-approves-eli-lilly-s-weight-loss-pill-foundayo-intensifies-rivalry"
-      },
-      {
-        "id": "2026-03-29-eli-lilly-foundayo-weight-loss-pill-price-side-effects-dosage-treatment-",
-        "title": "Eli Lilly Foundayo weight loss pill price, side effects, dosage, treatment: When will sales for oral weigh",
-        "summary": "Foundayo Eli Lilly weight loss pill: Eli Lilly drug, orforglipron, which will be sold under the brand name Foundayo, is a once-daily oral medication that targets the GLP-1 hormone.",
-        "source": "Lupin Updates",
-        "sourceHost": "economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-04-02T13:15:00.000Z",
-        "publishedLabel": "April 2, 2026",
-        "category": "Industry Update",
-        "image": "https://img.etimg.com/thumb/msid-129980299,width-1200,height-630,imgsize-42030,overlay-economictimes/articleshow.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
-        "originalUrl": "https://economictimes.indiatimes.com/news/international/us/eli-lilly-foundayo-weight-loss-pill-price-side-effects-dosage-treatment-when-will-sales-for-oral-weight-loss-drug-begin/articleshow/129980299.cms",
-        "articlePath": "/article.html?issue=2026-03-29&article=2026-03-29-eli-lilly-foundayo-weight-loss-pill-price-side-effects-dosage-treatment-"
       },
       {
         "id": "2026-03-29-dubai-autism-center-launches-region-s-first-adaptive-dynamic-education-m",
@@ -914,6 +916,23 @@
         "articlePath": "/article.html?issue=2026-03-29&article=2026-03-29-cardio-india-focuses-on-a-community-first-technology-enabled-model-rathe"
       },
       {
+        "id": "2026-03-29-consolidation-is-not-just-likely-it-is-already-underway",
+        "title": "Consolidation is not just likely, it is already underway",
+        "summary": "India’s IVF sector has historically been dominated by standalone clinics and clinician-led practices. With Gaudium becoming India’s first listed fertility services company, what does this milestone indicate about the sector’s […]",
+        "source": "Express Healthcare",
+        "sourceHost": "expresshealthcare.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-04-04T05:23:26.000Z",
+        "publishedLabel": "April 4, 2026",
+        "category": "Provider Update",
+        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/04/03175602/EH_Manika.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": true,
+        "originalUrl": "https://www.expresshealthcare.in/interviews/consolidation-is-not-just-likely-it-is-already-underway/453283/",
+        "articlePath": "/article.html?issue=2026-03-29&article=2026-03-29-consolidation-is-not-just-likely-it-is-already-underway"
+      },
+      {
         "id": "2026-03-29-rgcirc-appoints-dr-dharmendra-singh-gangwar-as-chief-executive-officer",
         "title": "RGCIRC appoints Dr Dharmendra Singh Gangwar as Chief Executive Officer",
         "summary": "RGCIRC (Rajiv Gandhi Cancer Institute & Research Centre) has announced the appointment of Dr Dharmendra Singh Gangwar as its Chief Executive Officer (CEO), effective April 1, 2026. Transitioning from his […]",
@@ -926,7 +945,7 @@
         "category": "Provider Update",
         "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/04/03152410/EH_GB_Dr_D_SGangwar_750.jpg",
         "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/news/rgcirc-appoints-dr-dharmendra-singh-gangwar-as-chief-executive-officer/453275/",
         "articlePath": "/article.html?issue=2026-03-29&article=2026-03-29-rgcirc-appoints-dr-dharmendra-singh-gangwar-as-chief-executive-officer"
       },
@@ -943,7 +962,7 @@
         "category": "Patient Care",
         "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2021/06/09145755/dental.jpg",
         "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/news/indias-dental-health-crisis-is-a-2-billion-opportunity-but-are-indian-patients-getting-better-care/453262/",
         "articlePath": "/article.html?issue=2026-03-29&article=2026-03-29-india-s-dental-health-crisis-is-a-2-billion-opportunity-but-are-indian-p"
       },
@@ -960,7 +979,7 @@
         "category": "AI Care Delivery",
         "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/04/03163743/EH_Rajgopal.jpg",
         "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/news/rajagopal-g-appointed-as-chairman-of-association-of-senior-living-india/453280/",
         "articlePath": "/article.html?issue=2026-03-29&article=2026-03-29-rajagopal-g-appointed-as-chairman-of-association-of-senior-living-india"
       },
@@ -1048,9 +1067,43 @@
         "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/04/02/tajmeel-clinic-opens-flagship-facility-in-dubais-jumeirah-district/",
         "articlePath": "/article.html?issue=2026-03-29&article=2026-03-29-tajmeel-clinic-opens-flagship-facility-in-dubai-s-jumeirah-district-heal"
+      },
+      {
+        "id": "2026-03-29-twelve-asians-sustain-injuries-by-falling-debris-from-missile-intercepti",
+        "title": "Twelve Asians sustain injuries by falling debris from missile interception in Abu Dhabi’s Ajban area",
+        "summary": "According to the Abu Dhabi Media Office, one major injury sustained by an individual of Nepali nationalit",
+        "source": "Zawya Pharmaceuticals",
+        "sourceHost": "zawya.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-04-03T13:02:27.000Z",
+        "publishedLabel": "April 3, 2026",
+        "category": "AI Care Delivery",
+        "image": "https://static.zawya.com/view/acePublic/alias/contentid/ecb6a1af-4f88-430c-87ff-f44eca90c67e/0/emirates-hillhouse-investment.jpeg?f=3%3A2",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": true,
+        "originalUrl": "https://www.zawya.com/en/world/middle-east/twelve-asians-sustain-injuries-by-falling-debris-from-missile-interception-in-abu-dhabis-ajban-area-d5mhbd0g",
+        "articlePath": "/article.html?issue=2026-03-29&article=2026-03-29-twelve-asians-sustain-injuries-by-falling-debris-from-missile-intercepti"
       }
     ],
     "diagnostics": [
+      {
+        "id": "2026-03-29-molbio-diagnostics-digital-radiology-arm-secures-eu-mdr-certification-fo",
+        "title": "Molbio Diagnostics digital radiology arm secures EU MDR certification for imaging portfolio",
+        "summary": "The certification, issued by TÜV SÜD Product Service GmbH, marks company to expand into globally regulated markets and reflects its adherence to international standards for safety, quality, and clinical performance.",
+        "source": "ET Healthworld Diagnostics",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-04-01T09:50:45.000Z",
+        "publishedLabel": "April 1, 2026",
+        "category": "Diagnostics",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-129947684,imgsize-143560,width-1200,height=627,overlay-ethealth,resizemode-75/diagnostics/molbio-diagnostics-digital-radiology-arm-secures-eu-mdr-certification-for-imaging-portfolio.jpg",
+        "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
+        "justIn": true,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/diagnostics/molbio-diagnostics-digital-radiology-arm-secures-eu-mdr-certification-for-imaging-portfolio/129947684",
+        "articlePath": "/article.html?issue=2026-03-29&article=2026-03-29-molbio-diagnostics-digital-radiology-arm-secures-eu-mdr-certification-fo"
+      },
       {
         "id": "2026-03-29-preventive-eye-care-needs-to-become-the-norm-not-the-exception-late",
         "title": "Preventive eye care needs to become the norm, not the exception late",
@@ -1064,7 +1117,7 @@
         "category": "Industry Update",
         "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/04/03144826/EH_Dr-Veneet-Sehgal.jpg",
         "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/interviews/preventive-eye-care-needs-to-become-the-norm-not-the-exception-late/453272/",
         "articlePath": "/article.html?issue=2026-03-29&article=2026-03-29-preventive-eye-care-needs-to-become-the-norm-not-the-exception-late"
       },
@@ -1081,7 +1134,7 @@
         "category": "Industry Update",
         "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/04/03120213/New-Project-1.jpg",
         "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/news/india-carries-one-of-the-largest-burdens-of-vision-disorders-globally/453253/",
         "articlePath": "/article.html?issue=2026-03-29&article=2026-03-29-india-carries-a-significant-burden-of-vision-disorders-globally"
       },
@@ -1115,7 +1168,7 @@
         "category": "Industry Update",
         "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/04/03140921/EH_Sajja-1.jpg",
         "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/news/beyond-the-white-coat-why-professional-indemnity-insurance-is-essential-for-doctors/453267/",
         "articlePath": "/article.html?issue=2026-03-29&article=2026-03-29-beyond-the-white-coat-why-professional-indemnity-insurance-is-essential-"
       },
@@ -1135,23 +1188,6 @@
         "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/news/gabify-raises-175000-in-pre-seed-funding-led-by-inflection-point-ventures-to-advance-ai-driven-neurodevelopmental-care-in-india/453239/",
         "articlePath": "/article.html?issue=2026-03-29&article=2026-03-29-gabify-raises-175-000-in-pre-seed-funding-led-by-ipv-to-advance-ai-drive"
-      },
-      {
-        "id": "2026-03-29-thyrocare-technologies-data-shows-one-in-three-fever-cases-linked-to-inf",
-        "title": "Thyrocare Technologies data shows one in three fever cases linked to infections in India",
-        "summary": "Study based on 2023–2025 testing highlights infection patterns, co-infections and laboratory findings",
-        "source": "Express Healthcare Posts",
-        "sourceHost": "expresshealthcare.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-03-31T06:16:36.000Z",
-        "publishedLabel": "March 31, 2026",
-        "category": "Lab Network",
-        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2021/05/08153729/data.jpg",
-        "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
-        "justIn": false,
-        "originalUrl": "https://www.expresshealthcare.in/news/thyrocare-technologies-data-shows-one-in-three-fever-cases-linked-to-infections-in-india/453209/",
-        "articlePath": "/article.html?issue=2026-03-29&article=2026-03-29-thyrocare-technologies-data-shows-one-in-three-fever-cases-linked-to-inf"
       },
       {
         "id": "2026-03-29-ai-scans-can-predict-fall-risk-in-middle-age-mayo-clinic-study-shows",
@@ -1232,6 +1268,14 @@
     },
     {
       "segment": "providers",
+      "articleId": "2026-03-29-consolidation-is-not-just-likely-it-is-already-underway",
+      "title": "Consolidation is not just likely, it is already underway",
+      "source": "Express Healthcare",
+      "solution": "THB Provider CRM",
+      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
+    },
+    {
+      "segment": "providers",
       "articleId": "2026-03-29-rgcirc-appoints-dr-dharmendra-singh-gangwar-as-chief-executive-officer",
       "title": "RGCIRC appoints Dr Dharmendra Singh Gangwar as Chief Executive Officer",
       "source": "Express Healthcare",
@@ -1247,12 +1291,12 @@
       "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
     },
     {
-      "segment": "providers",
-      "articleId": "2026-03-29-rajagopal-g-appointed-as-chairman-of-association-of-senior-living-india",
-      "title": "Rajagopal G appointed as Chairman of Association of Senior Living India",
-      "source": "Express Healthcare",
-      "solution": "THB Provider CRM",
-      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
+      "segment": "diagnostics",
+      "articleId": "2026-03-29-molbio-diagnostics-digital-radiology-arm-secures-eu-mdr-certification-fo",
+      "title": "Molbio Diagnostics digital radiology arm secures EU MDR certification for imaging portfolio",
+      "source": "ET Healthworld Diagnostics",
+      "solution": "THB Diagnostics CRM",
+      "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
     },
     {
       "segment": "diagnostics",
@@ -1283,14 +1327,6 @@
       "articleId": "2026-03-29-beyond-the-white-coat-why-professional-indemnity-insurance-is-essential-",
       "title": "Beyond the white coat: Why professional indemnity insurance is essential for doctors",
       "source": "Express Healthcare",
-      "solution": "THB Diagnostics CRM",
-      "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
-    },
-    {
-      "segment": "diagnostics",
-      "articleId": "2026-03-29-gabify-raises-175-000-in-pre-seed-funding-led-by-ipv-to-advance-ai-drive",
-      "title": "Gabify raises $175,000 in pre-seed funding led by IPV to advance AI driven neurodevelopmental care in India",
-      "source": "Express Healthcare Posts",
       "solution": "THB Diagnostics CRM",
       "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
     }
