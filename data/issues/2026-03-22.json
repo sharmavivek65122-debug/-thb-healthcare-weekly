@@ -5,9 +5,9 @@
   "startDate": "2026-03-21T18:30:00.000Z",
   "endDate": "2026-03-27T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-04-04T14:06:12.466Z",
+  "updatedAt": "2026-04-05T05:58:58.428Z",
   "coverage": {
-    "pharma": 8,
+    "pharma": 7,
     "providers": 7,
     "diagnostics": 3,
     "healthtech": 0
@@ -17,7 +17,6 @@
     "ET Healthworld Diagnostics",
     "ET Healthworld Hospitals",
     "Financial Express Healthcare",
-    "Lupin Updates",
     "PharmaTutor News"
   ],
   "segments": {
@@ -55,23 +54,6 @@
         "justIn": false,
         "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/dtab-backs-major-reform-all-antimicrobials-may-soon-be-classified-as-new-drugs-in-india",
         "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-dtab-backs-major-reform-all-antimicrobials-may-soon-be-classified-as-new"
-      },
-      {
-        "id": "2026-03-22-glp-1-impact-jefferies-sees-these-3-stocks-as-winners-in-the-race-for-oz",
-        "title": "GLP-1 impact: Jefferies sees these 3 stocks as winners in the race for Ozempic, Wegovy generics",
-        "summary": "Indian drug makers are launching affordable generic Semaglutide, the active ingredient in popular weight-loss drugs. Sun Pharma, Lupin, and Torrent Pharma are identified as potential market leaders. Despite initial stockouts online, companies are adjusting...",
-        "source": "Lupin Updates",
-        "sourceHost": "economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-03-27T08:52:00.000Z",
-        "publishedLabel": "March 27, 2026",
-        "category": "Market",
-        "image": "https://img.etimg.com/thumb/msid-129842836,width-1200,height-630,imgsize-754962,overlay-etmarkets/articleshow.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://economictimes.indiatimes.com/markets/stocks/news/glp-1-impact-jefferies-sees-these-3-stocks-as-winners-in-the-race-for-ozempic-wegovy-generics/articleshow/129842771.cms",
-        "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-glp-1-impact-jefferies-sees-these-3-stocks-as-winners-in-the-race-for-oz"
       },
       {
         "id": "2026-03-22-india-s-drug-regulator-gives-conditional-green-light-to-zydus-s-first-hu",
@@ -354,14 +336,6 @@
     },
     {
       "segment": "pharma",
-      "articleId": "2026-03-22-glp-1-impact-jefferies-sees-these-3-stocks-as-winners-in-the-race-for-oz",
-      "title": "GLP-1 impact: Jefferies sees these 3 stocks as winners in the race for Ozempic, Wegovy generics",
-      "source": "Lupin Updates",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
-      "segment": "pharma",
       "articleId": "2026-03-22-india-s-drug-regulator-gives-conditional-green-light-to-zydus-s-first-hu",
       "title": "India's Drug Regulator Gives Conditional Green Light to Zydus's First Human Trial for Chikungunya Vaccine",
       "source": "PharmaTutor News",
@@ -372,6 +346,14 @@
       "segment": "pharma",
       "articleId": "2026-03-22-dtab-eases-compliance-burden-while-tightening-quality-norms-under-revise",
       "title": "DTAB Eases Compliance Burden While Tightening Quality Norms Under Revised Schedule M",
+      "source": "PharmaTutor News",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "pharma",
+      "articleId": "2026-03-22-novo-nordisk-awiqli-approved-in-the-usa",
+      "title": "Novo Nordisk : Awiqli® approved in the USA",
       "source": "PharmaTutor News",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."

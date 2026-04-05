@@ -5,9 +5,9 @@
   "startDate": "2026-02-14T18:30:00.000Z",
   "endDate": "2026-02-20T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-04-04T14:06:12.466Z",
+  "updatedAt": "2026-04-05T05:58:58.428Z",
   "coverage": {
-    "pharma": 3,
+    "pharma": 2,
     "providers": 5,
     "diagnostics": 2,
     "healthtech": 0
@@ -15,8 +15,7 @@
   "sourcesUsed": [
     "ET Healthworld Diagnostics",
     "ET Healthworld Hospitals",
-    "Financial Express Healthcare",
-    "Lupin Updates"
+    "Financial Express Healthcare"
   ],
   "segments": {
     "pharma": [
@@ -53,23 +52,6 @@
         "justIn": false,
         "originalUrl": "https://www.financialexpress.com/business/healthcare/prices-of-weight-loss-drug-semaglutide-to-drop-by-over-65-in-india-post-march-patent-expiry-ind-ra/4148674/",
         "articlePath": "/article.html?issue=2026-02-15&article=2026-02-15-prices-of-weight-loss-drug-semaglutide-to-drop-by-over-65-in-india-post-"
-      },
-      {
-        "id": "2026-02-15-stocks-in-news-fractal-analytics-ril-cochin-shipyard-trent-britannia",
-        "title": "Stocks in news: Fractal Analytics, RIL, Cochin Shipyard, Trent, Britannia",
-        "summary": "Markets saw volatility but recovered modestly on Monday, with analysts maintaining a cautious outlook. Several stocks like Fractal Analytics, RIL, and Cochin Shipyard are in focus due to significant news, including joint ventures, expansion plans, and major...",
-        "source": "Lupin Updates",
-        "sourceHost": "economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-02-17T01:09:00.000Z",
-        "publishedLabel": "February 17, 2026",
-        "category": "Market",
-        "image": "https://img.etimg.com/thumb/msid-128443753,width-1200,height-630,imgsize-54812,overlay-etmarkets/articleshow.jpg",
-        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": false,
-        "originalUrl": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-fractal-analytics-ril-cochin-shipyard-trent-britannia/articleshow/128443764.cms",
-        "articlePath": "/article.html?issue=2026-02-15&article=2026-02-15-stocks-in-news-fractal-analytics-ril-cochin-shipyard-trent-britannia"
       }
     ],
     "providers": [
@@ -213,14 +195,6 @@
       "source": "Financial Express Healthcare",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
-      "segment": "pharma",
-      "articleId": "2026-02-15-stocks-in-news-fractal-analytics-ril-cochin-shipyard-trent-britannia",
-      "title": "Stocks in news: Fractal Analytics, RIL, Cochin Shipyard, Trent, Britannia",
-      "source": "Lupin Updates",
-      "solution": "THB Commercial Analytics",
-      "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
     },
     {
       "segment": "providers",
