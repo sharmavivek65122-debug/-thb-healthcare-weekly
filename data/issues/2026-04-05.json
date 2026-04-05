@@ -5,18 +5,37 @@
   "startDate": "2026-04-04T18:30:00.000Z",
   "endDate": "2026-04-10T18:30:00.000Z",
   "status": "live",
-  "updatedAt": "2026-04-05T05:58:58.428Z",
+  "updatedAt": "2026-04-05T14:06:54.680Z",
   "coverage": {
-    "pharma": 3,
-    "providers": 0,
+    "pharma": 4,
+    "providers": 2,
     "diagnostics": 0,
     "healthtech": 0
   },
   "sourcesUsed": [
-    "Medical Dialogues Pharma"
+    "ET Healthworld",
+    "Medical Dialogues Pharma",
+    "Zawya Pharmaceuticals"
   ],
   "segments": {
     "pharma": [
+      {
+        "id": "2026-04-05-doctors-seek-implementation-of-next-for-mbbs-students",
+        "title": "Doctors seek implementation of NExT for MBBS students",
+        "summary": "In an editorial published last month in the Journal of Family Medicine and Primary Care, titled \"Immediate NExT rollout is vital for MBBS students and the medical education ecosystem of India\", the doctors said current undergraduate medical assessments are...",
+        "source": "ET Healthworld",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-04-05T07:17:24.000Z",
+        "publishedLabel": "April 5, 2026",
+        "category": "Industry Update",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-130035044,imgsize-116096,width-1200,height=627,overlay-ethealth,resizemode-75/education/doctors-seek-implementation-of-next-for-mbbs-students.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/education/doctors-seek-implementation-of-next-for-mbbs-students/130035044",
+        "articlePath": "/article.html?issue=2026-04-05&article=2026-04-05-doctors-seek-implementation-of-next-for-mbbs-students"
+      },
       {
         "id": "2026-04-05-zydus-healthcare-asked-to-revise-phase-iv-protocol-for-empagliflozin-met",
         "title": "Zydus Healthcare Asked to Revise Phase IV Protocol for Empagliflozin-Metformin Tablets",
@@ -69,11 +88,54 @@
         "articlePath": "/article.html?issue=2026-04-05&article=2026-04-05-aurobindo-pharma-delays-26-stake-buy-in-swarnaakshu-solar-over-pending-a"
       }
     ],
-    "providers": [],
+    "providers": [
+      {
+        "id": "2026-04-05-ericsson-and-du-enhance-fixed-wireless-access-services-in-the-uae",
+        "title": "Ericsson and du enhance Fixed Wireless Access services in the UAE",
+        "summary": "Successful 5G mmWave trial demonstrates extended range capabilities to deliver faster speeds and broader coverage for residential customers",
+        "source": "Zawya Pharmaceuticals",
+        "sourceHost": "zawya.com",
+        "region": "Middle East",
+        "country": "United Arab Emirates",
+        "publishedAt": "2026-04-05T13:18:50.000Z",
+        "publishedLabel": "April 5, 2026",
+        "category": "Provider Update",
+        "image": "https://static.zawya.com/view/acePublic/alias/contentid/0ae54753-f707-4ad2-8f69-695e75aa2e34/1/fahadalhassawi-duceo-1-jpg.jpeg?f=3%3A2",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": false,
+        "originalUrl": "https://www.zawya.com/en/press-release/companies-news/ericsson-and-du-enhance-fixed-wireless-access-services-in-the-uae-d0zy0l42",
+        "articlePath": "/article.html?issue=2026-04-05&article=2026-04-05-ericsson-and-du-enhance-fixed-wireless-access-services-in-the-uae"
+      },
+      {
+        "id": "2026-04-05-ooredoo-reinforces-continuous-connectivity-for-businesses-with-starlink-",
+        "title": "Ooredoo reinforces continuous connectivity for businesses with Starlink satellite solution",
+        "summary": "Delivering resilient always-on connectivity for businesses across Qatar even in the most challenging environments",
+        "source": "Zawya Pharmaceuticals",
+        "sourceHost": "zawya.com",
+        "region": "Middle East",
+        "country": "Qatar",
+        "publishedAt": "2026-04-05T13:29:10.000Z",
+        "publishedLabel": "April 5, 2026",
+        "category": "Provider Update",
+        "image": "https://static.zawya.com/view/acePublic/alias/contentid/ZTVjOTY1NTUtM2VjZC00/12/oore-jpeg.jpeg?f=3%3A2",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": false,
+        "originalUrl": "https://www.zawya.com/en/press-release/companies-news/ooredoo-reinforces-continuous-connectivity-for-businesses-with-starlink-satellite-solution-muuyo5uc",
+        "articlePath": "/article.html?issue=2026-04-05&article=2026-04-05-ooredoo-reinforces-continuous-connectivity-for-businesses-with-starlink-"
+      }
+    ],
     "diagnostics": [],
     "healthtech": []
   },
   "thbActions": [
+    {
+      "segment": "pharma",
+      "articleId": "2026-04-05-doctors-seek-implementation-of-next-for-mbbs-students",
+      "title": "Doctors seek implementation of NExT for MBBS students",
+      "source": "ET Healthworld",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
     {
       "segment": "pharma",
       "articleId": "2026-04-05-zydus-healthcare-asked-to-revise-phase-iv-protocol-for-empagliflozin-met",
@@ -97,6 +159,22 @@
       "source": "Medical Dialogues Pharma",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "providers",
+      "articleId": "2026-04-05-ericsson-and-du-enhance-fixed-wireless-access-services-in-the-uae",
+      "title": "Ericsson and du enhance Fixed Wireless Access services in the UAE",
+      "source": "Zawya Pharmaceuticals",
+      "solution": "THB Provider CRM",
+      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
+    },
+    {
+      "segment": "providers",
+      "articleId": "2026-04-05-ooredoo-reinforces-continuous-connectivity-for-businesses-with-starlink-",
+      "title": "Ooredoo reinforces continuous connectivity for businesses with Starlink satellite solution",
+      "source": "Zawya Pharmaceuticals",
+      "solution": "THB Provider CRM",
+      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
     }
   ]
 }
