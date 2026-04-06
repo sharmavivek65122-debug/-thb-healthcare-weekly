@@ -5,18 +5,19 @@
   "startDate": "2026-04-04T18:30:00.000Z",
   "endDate": "2026-04-10T18:30:00.000Z",
   "status": "live",
-  "updatedAt": "2026-04-06T06:15:44.935Z",
+  "updatedAt": "2026-04-06T14:31:16.741Z",
   "coverage": {
-    "pharma": 7,
-    "providers": 2,
-    "diagnostics": 0,
+    "pharma": 12,
+    "providers": 1,
+    "diagnostics": 1,
     "healthtech": 0
   },
   "sourcesUsed": [
     "ET Healthworld",
     "ET Healthworld Hospitals",
     "Economic Times Pharma",
-    "Zawya Pharmaceuticals"
+    "Express Healthcare",
+    "Medical Dialogues Pharma"
   ],
   "segments": {
     "pharma": [
@@ -33,7 +34,7 @@
         "category": "Industry Update",
         "image": "https://img.etimg.com/thumb/msid-130046055,width-1200,height-630,imgsize-51178,overlay-economictimes/articleshow.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/cancer-drug-makers-seek-50-price-hike-as-platinum-surge-hits-production-viability/articleshow/130046021.cms",
         "articlePath": "/article.html?issue=2026-04-05&article=2026-04-05-cancer-drug-makers-seek-50-price-hike-as-platinum-surge-hits-production-"
       },
@@ -50,7 +51,7 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-130048796,imgsize-191948,width-1200,height=627,overlay-ethealth,resizemode-75/industry/diabetes-advocates-cross-their-fingers-as-a-bipartisan-bill-revives-efforts-to-lower-insulin-costs.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/diabetes-advocates-cross-their-fingers-as-a-bipartisan-bill-revives-efforts-to-lower-insulin-costs/130048796",
         "articlePath": "/article.html?issue=2026-04-05&article=2026-04-05-diabetes-advocates-cross-their-fingers-as-a-bipartisan-bill-revives-effo"
       },
@@ -67,9 +68,43 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-130007278,imgsize-41462,width-1200,height=627,overlay-ethealth,resizemode-75/industry/rare-disease-funds-drop-unspent-money-piles-up-at-key-centres.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/rare-disease-funds-drop-unspent-money-piles-up-at-key-centres/130007278",
         "articlePath": "/article.html?issue=2026-04-05&article=2026-04-05-rare-disease-funds-drop-unspent-money-piles-up-at-key-centres"
+      },
+      {
+        "id": "2026-04-05-eye-tb-inflammation-may-persist-even-after-cure-says-study",
+        "title": "Eye TB inflammation may persist even after cure, says study",
+        "summary": "The findings come from research conducted by teams at LV Prasad Eye Institute (LVPEI), Cole Eye Institute, Cleveland (US); and ABO Eye Institute, Nagpur. The study focused on tubercular serpiginous-like choroiditis (TB-SLC), a form of eye TB that affects the...",
+        "source": "ET Healthworld",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-04-06T12:22:01.000Z",
+        "publishedLabel": "April 6, 2026",
+        "category": "Industry Update",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-130058328,imgsize-106222,width-1200,height=627,overlay-ethealth,resizemode-75/industry/eye-tb-inflammation-may-persist-even-after-cure-says-study.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/eye-tb-inflammation-may-persist-even-after-cure-says-study/130058328",
+        "articlePath": "/article.html?issue=2026-04-05&article=2026-04-05-eye-tb-inflammation-may-persist-even-after-cure-says-study"
+      },
+      {
+        "id": "2026-04-05-bangladesh-launches-emergency-vaccination-campaign-as-measles-outbreak-s",
+        "title": "Bangladesh launches emergency vaccination campaign as measles outbreak spreads",
+        "summary": "Health ministry figures show there have been 17 confirmed deaths from measles so far, with 113 suspected ‌deaths and ⁠more than ⁠7,500 suspected infections nationwide.",
+        "source": "ET Healthworld",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-04-06T12:19:16.000Z",
+        "publishedLabel": "April 6, 2026",
+        "category": "Launch",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-130058051,imgsize-63122,width-1200,height=627,overlay-ethealth,resizemode-75/industry/bangladesh-launches-emergency-vaccination-campaign-as-measles-outbreak-spreads.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/bangladesh-launches-emergency-vaccination-campaign-as-measles-outbreak-spreads/130058051",
+        "articlePath": "/article.html?issue=2026-04-05&article=2026-04-05-bangladesh-launches-emergency-vaccination-campaign-as-measles-outbreak-s"
       },
       {
         "id": "2026-04-05-insurance-company-penalised-for-wrongful-rejection-of-mediclaim",
@@ -84,7 +119,7 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-130048765,imgsize-191562,width-1200,height=627,overlay-ethealth,resizemode-75/insurance/insurance-company-penalised-for-wrongful-rejection-of-mediclaim.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/insurance/insurance-company-penalised-for-wrongful-rejection-of-mediclaim/130048765",
         "articlePath": "/article.html?issue=2026-04-05&article=2026-04-05-insurance-company-penalised-for-wrongful-rejection-of-mediclaim"
       },
@@ -101,26 +136,9 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-130048759,imgsize-93324,width-1200,height=627,overlay-ethealth,resizemode-75/industry/bangladesh-says-suspected-measles-outbreak-kills-about-100-children.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/bangladesh-says-suspected-measles-outbreak-kills-about-100-children/130048759",
         "articlePath": "/article.html?issue=2026-04-05&article=2026-04-05-bangladesh-says-suspected-measles-outbreak-kills-about-100-children"
-      },
-      {
-        "id": "2026-04-05-chhattisgarh-hc-flags-delay-in-recruiting-top-mental-health-specialists",
-        "title": "Chhattisgarh HC flags delay in recruiting top mental health specialists",
-        "summary": "\"This court expects and trusts that the state shall make earnest efforts to complete the recruitment process for the post of MD Psychiatrist at the earliest and avoid any unwarranted delay,\" the Bench said.",
-        "source": "ET Healthworld",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-04-06T01:36:15.000Z",
-        "publishedLabel": "April 6, 2026",
-        "category": "Industry Update",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-130048817,imgsize-65566,width-1200,height=627,overlay-ethealth,resizemode-75/policy/chhattisgarh-hc-flags-delay-in-recruiting-top-mental-health-specialists.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/policy/chhattisgarh-hc-flags-delay-in-recruiting-top-mental-health-specialists/130048817",
-        "articlePath": "/article.html?issue=2026-04-05&article=2026-04-05-chhattisgarh-hc-flags-delay-in-recruiting-top-mental-health-specialists"
       },
       {
         "id": "2026-04-05-doctors-seek-implementation-of-next-for-mbbs-students",
@@ -138,6 +156,74 @@
         "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/education/doctors-seek-implementation-of-next-for-mbbs-students/130035044",
         "articlePath": "/article.html?issue=2026-04-05&article=2026-04-05-doctors-seek-implementation-of-next-for-mbbs-students"
+      },
+      {
+        "id": "2026-04-05-vertigo-often-misdiagnosed-in-india-delaying-treatment-for-many-patients",
+        "title": "Vertigo Often Misdiagnosed in India, Delaying Treatment for Many Patients: Experts",
+        "summary": "Apollo Hospitals convenes specialist workshop bringing together neurologists and ENT experts to address diagnostic gaps and improve clinical evaluation of vertigo in India.",
+        "source": "ET Healthworld",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-04-06T07:23:41.000Z",
+        "publishedLabel": "April 6, 2026",
+        "category": "Industry Update",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-130054231,imgsize-181208,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/vertigo-often-misdiagnosed-in-india-delaying-treatment-for-many-patients-experts.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/vertigo-often-misdiagnosed-in-india-delaying-treatment-for-many-patients-experts/130054231",
+        "articlePath": "/article.html?issue=2026-04-05&article=2026-04-05-vertigo-often-misdiagnosed-in-india-delaying-treatment-for-many-patients"
+      },
+      {
+        "id": "2026-04-05-zydus-healthcare-asked-to-revise-phase-iv-protocol-for-empagliflozin-met",
+        "title": "Zydus Healthcare Asked to Revise Phase IV Protocol for Empagliflozin-Metformin Tablets",
+        "summary": "New Delhi: The Subject Expert Committee (SEC) under the Central Drugs Standard Control Organization (CDSCO) has asked for revisions in the Phase IV clinical trial protocol submitted by Zydus...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-04-05T05:31:02.000Z",
+        "publishedLabel": "April 5, 2026",
+        "category": "Clinical Trial",
+        "image": "https://medicaldialogues.in/h-upload/2023/01/11/197471-zydus-lifesciences-3.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/cdsco/zydus-healthcare-asked-to-revise-phase-iv-protocol-for-empagliflozin-metformin-tablets-167950",
+        "articlePath": "/article.html?issue=2026-04-05&article=2026-04-05-zydus-healthcare-asked-to-revise-phase-iv-protocol-for-empagliflozin-met"
+      },
+      {
+        "id": "2026-04-05-usfda-raises-safety-alert-on-amgen-s-tavneos-after-liver-injury-death-ca",
+        "title": "USFDA Raises Safety Alert on Amgen's Tavneos After Liver Injury, Death Cases Surface",
+        "summary": "Bengaluru: The U.S. Food and Drug Administration on Monday said it had identified cases of liver injury in patients taking Amgen's drug for a group of rare autoimmune diseases and urged healthcare...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-04-05T04:30:55.000Z",
+        "publishedLabel": "April 5, 2026",
+        "category": "Industry Update",
+        "image": "https://medicaldialogues.in/h-upload/2024/01/22/230681-amgen-50.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/usfda-raises-safety-alert-on-amgens-tavneos-after-liver-injury-death-cases-surface-167949",
+        "articlePath": "/article.html?issue=2026-04-05&article=2026-04-05-usfda-raises-safety-alert-on-amgen-s-tavneos-after-liver-injury-death-ca"
+      },
+      {
+        "id": "2026-04-05-aurobindo-pharma-delays-26-stake-buy-in-swarnaakshu-solar-over-pending-a",
+        "title": "Aurobindo Pharma Delays 26% Stake Buy in Swarnaakshu Solar Over Pending Approvals",
+        "summary": "Hyderabad: Aurobindo Pharma Limited has deferred the completion timeline for its planned investment in Swarnaakshu Solar Power Private Limited, citing pending state government approval for setting up...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-04-05T04:16:23.000Z",
+        "publishedLabel": "April 5, 2026",
+        "category": "Approval",
+        "image": "https://medicaldialogues.in/h-upload/2024/03/02/233467-aurobindo-50.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/aurobindo-pharma-delays-26-stake-buy-in-swarnaakshu-solar-over-pending-approvals-167951",
+        "articlePath": "/article.html?issue=2026-04-05&article=2026-04-05-aurobindo-pharma-delays-26-stake-buy-in-swarnaakshu-solar-over-pending-a"
       }
     ],
     "providers": [
@@ -154,29 +240,30 @@
         "category": "Provider Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-130035189,imgsize-271294,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/pgi-revamps-procurement-after-ayushman-bharat-scam.jpg",
         "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/pgi-revamps-procurement-after-ayushman-bharat-scam/130035189",
         "articlePath": "/article.html?issue=2026-04-05&article=2026-04-05-pgi-revamps-procurement-after-ayushman-bharat-scam"
-      },
-      {
-        "id": "2026-04-05-authorities-in-fujairah-respond-to-incident-targeting-du-building-by-dro",
-        "title": "Authorities in Fujairah respond to incident targeting 'du' building by drone from Iran",
-        "summary": "The Fujairah Media Office stated that no injuries have been reported",
-        "source": "Zawya Pharmaceuticals",
-        "sourceHost": "zawya.com",
-        "region": "Middle East",
-        "country": "United Arab Emirates",
-        "publishedAt": "2026-04-06T06:06:55.000Z",
-        "publishedLabel": "April 6, 2026",
-        "category": "AI Care Delivery",
-        "image": "https://static.zawya.com/view/acePublic/alias/contentid/YmMxMWE0MWMtNzhmYy00/3/emirates-united-states-security.webp?f=1%3A1&q=0.75&w=3840",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
-        "originalUrl": "https://www.zawya.com/en/world/middle-east/authorities-in-fujairah-respond-to-incident-targeting-du-building-by-drone-from-iran-o6kmqi1i",
-        "articlePath": "/article.html?issue=2026-04-05&article=2026-04-05-authorities-in-fujairah-respond-to-incident-targeting-du-building-by-dro"
       }
     ],
-    "diagnostics": [],
+    "diagnostics": [
+      {
+        "id": "2026-04-05-apollo-hospitals-convenes-specialist-workshop-to-address-gaps-in-diagnos",
+        "title": "Apollo Hospitals convenes specialist workshop to address gaps in diagnosis and management of Vertigo",
+        "summary": "Vertigo and balance disorders are emerging as a significant yet under-recognised health concern in India, with clinicians noting that a substantial proportion of patients presenting with dizziness are either misdiagnosed […]",
+        "source": "Express Healthcare",
+        "sourceHost": "expresshealthcare.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-04-06T08:59:39.000Z",
+        "publishedLabel": "April 6, 2026",
+        "category": "Industry Update",
+        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/04/06142920/EH-Apollo.jpg",
+        "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
+        "justIn": false,
+        "originalUrl": "https://www.expresshealthcare.in/uncategorized/apollo-hospitals-convenes-specialist-workshop-to-address-gaps-in-diagnosis-and-management-of-vertigo/453287/",
+        "articlePath": "/article.html?issue=2026-04-05&article=2026-04-05-apollo-hospitals-convenes-specialist-workshop-to-address-gaps-in-diagnos"
+      }
+    ],
     "healthtech": []
   },
   "thbActions": [
@@ -206,16 +293,16 @@
     },
     {
       "segment": "pharma",
-      "articleId": "2026-04-05-insurance-company-penalised-for-wrongful-rejection-of-mediclaim",
-      "title": "Insurance company penalised for wrongful rejection of mediclaim",
+      "articleId": "2026-04-05-eye-tb-inflammation-may-persist-even-after-cure-says-study",
+      "title": "Eye TB inflammation may persist even after cure, says study",
       "source": "ET Healthworld",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
     },
     {
       "segment": "pharma",
-      "articleId": "2026-04-05-bangladesh-says-suspected-measles-outbreak-kills-about-100-children",
-      "title": "Bangladesh says suspected measles outbreak kills about 100 children",
+      "articleId": "2026-04-05-bangladesh-launches-emergency-vaccination-campaign-as-measles-outbreak-s",
+      "title": "Bangladesh launches emergency vaccination campaign as measles outbreak spreads",
       "source": "ET Healthworld",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
@@ -229,12 +316,12 @@
       "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
     },
     {
-      "segment": "providers",
-      "articleId": "2026-04-05-authorities-in-fujairah-respond-to-incident-targeting-du-building-by-dro",
-      "title": "Authorities in Fujairah respond to incident targeting 'du' building by drone from Iran",
-      "source": "Zawya Pharmaceuticals",
-      "solution": "THB Provider CRM",
-      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
+      "segment": "diagnostics",
+      "articleId": "2026-04-05-apollo-hospitals-convenes-specialist-workshop-to-address-gaps-in-diagnos",
+      "title": "Apollo Hospitals convenes specialist workshop to address gaps in diagnosis and management of Vertigo",
+      "source": "Express Healthcare",
+      "solution": "THB Diagnostics CRM",
+      "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
     }
   ]
 }

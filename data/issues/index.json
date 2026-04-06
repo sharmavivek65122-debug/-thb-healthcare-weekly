@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-06T06:15:44.935Z",
+  "updatedAt": "2026-04-06T14:31:16.741Z",
   "latestIssueKey": "2026-04-05",
   "issues": [
     {
@@ -45,7 +45,7 @@
       "status": "published",
       "coverage": {
         "pharma": 2,
-        "providers": 10,
+        "providers": 11,
         "diagnostics": 0,
         "healthtech": 0
       }
@@ -57,7 +57,7 @@
       "status": "published",
       "coverage": {
         "pharma": 6,
-        "providers": 8,
+        "providers": 7,
         "diagnostics": 4,
         "healthtech": 0
       }
@@ -80,7 +80,7 @@
       "rangeLabel": "Mar 29 - Apr 4, 2026",
       "status": "published",
       "coverage": {
-        "pharma": 38,
+        "pharma": 49,
         "providers": 12,
         "diagnostics": 7,
         "healthtech": 0
@@ -92,9 +92,9 @@
       "rangeLabel": "Apr 5 - Apr 11, 2026",
       "status": "live",
       "coverage": {
-        "pharma": 7,
-        "providers": 2,
-        "diagnostics": 0,
+        "pharma": 12,
+        "providers": 1,
+        "diagnostics": 1,
         "healthtech": 0
       }
     }
