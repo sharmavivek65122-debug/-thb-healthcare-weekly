@@ -5,10 +5,10 @@
   "startDate": "2026-03-21T18:30:00.000Z",
   "endDate": "2026-03-27T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-04-06T14:31:16.741Z",
+  "updatedAt": "2026-04-07T06:05:33.380Z",
   "coverage": {
     "pharma": 8,
-    "providers": 7,
+    "providers": 8,
     "diagnostics": 3,
     "healthtech": 0
   },
@@ -176,6 +176,23 @@
         "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/pacific-onehealth-bets-rs-300-cr-on-micro-hospitals-to-decentralise-care-in-north-india/129792744",
         "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-pacific-onehealth-bets-rs-300-cr-on-micro-hospitals-to-decentralise-care"
+      },
+      {
+        "id": "2026-03-22-medanta-plans-400-bed-multi-specialty-facility-in-varanasi-with-rs-550-c",
+        "title": "Medanta plans 400-bed multi-specialty facility in Varanasi with Rs 550 cr investment",
+        "summary": "Under the agreement, the civil infrastructure of the hospital will be developed by Shripal Hospitality, while Medanta will invest around around Rs 550 crores in interior services, fit outs and medical equipment.",
+        "source": "ET Healthworld Hospitals",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-03-25T12:54:18.000Z",
+        "publishedLabel": "March 25, 2026",
+        "category": "Hospital",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-129802133,imgsize-109596,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/medanta-plans-400-bed-multi-specialty-facility-in-varanasi-with-rs-550-cr-investment.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": false,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/medanta-plans-400-bed-multi-specialty-facility-in-varanasi-with-rs-550-cr-investment/129802133",
+        "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-medanta-plans-400-bed-multi-specialty-facility-in-varanasi-with-rs-550-c"
       },
       {
         "id": "2026-03-22-kims-hospitals-performs-nitrx-medial-pivot-knee-replacement",
@@ -386,6 +403,14 @@
     },
     {
       "segment": "providers",
+      "articleId": "2026-03-22-medanta-plans-400-bed-multi-specialty-facility-in-varanasi-with-rs-550-c",
+      "title": "Medanta plans 400-bed multi-specialty facility in Varanasi with Rs 550 cr investment",
+      "source": "ET Healthworld Hospitals",
+      "solution": "THB Provider CRM",
+      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
+    },
+    {
+      "segment": "providers",
       "articleId": "2026-03-22-kims-hospitals-performs-nitrx-medial-pivot-knee-replacement",
       "title": "KIMS Hospitals performs NitrX medial pivot knee replacement",
       "source": "ET Healthworld Hospitals",
@@ -404,14 +429,6 @@
       "segment": "providers",
       "articleId": "2026-03-22-temasek-backed-hospital-chain-manipal-health-files-for-ipo",
       "title": "Temasek-backed hospital chain Manipal Health files for IPO",
-      "source": "ET Healthworld Hospitals",
-      "solution": "THB Provider CRM",
-      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
-    },
-    {
-      "segment": "providers",
-      "articleId": "2026-03-22-gr-noida-hospital-owner-nurse-held-for-trying-to-sell-newborn-for-3l",
-      "title": "Gr Noida hospital owner, nurse held for trying to 'sell' newborn for ₹3L",
       "source": "ET Healthworld Hospitals",
       "solution": "THB Provider CRM",
       "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
