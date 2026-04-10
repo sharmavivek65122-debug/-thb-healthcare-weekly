@@ -5,12 +5,12 @@
   "startDate": "2026-04-04T18:30:00.000Z",
   "endDate": "2026-04-10T18:30:00.000Z",
   "status": "live",
-  "updatedAt": "2026-04-10T06:15:46.677Z",
+  "updatedAt": "2026-04-10T14:35:10.029Z",
   "coverage": {
     "pharma": 41,
-    "providers": 11,
+    "providers": 14,
     "diagnostics": 8,
-    "healthtech": 0
+    "healthtech": 1
   },
   "sourcesUsed": [
     "ET Healthworld",
@@ -55,7 +55,7 @@
         "category": "Industry Update",
         "image": "https://img.etimg.com/thumb/msid-130157789,width-1200,height-630,imgsize-83224,overlay-economictimes/articleshow.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/sun-pharma-preps-for-12-billion-organon-bid-in-biggest-overseas-pharma-ma-by-indian-co/articleshow/130152812.cms",
         "articlePath": "/article.html?issue=2026-04-05&article=2026-04-05-sun-pharma-closes-in-on-organon-buy-gets-set-for-12-billion-binding-bid"
       },
@@ -72,7 +72,7 @@
         "category": "Market",
         "image": "https://img.etimg.com/thumb/msid-130147229,width-1200,height-630,imgsize-57552,overlay-economictimes/articleshow.jpg",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/drugmaker-granules-to-tighten-oversight-after-us-fda-warning-executive-says/articleshow/130147154.cms",
         "articlePath": "/article.html?issue=2026-04-05&article=2026-04-05-drugmaker-granules-to-tighten-oversight-after-us-fda-warning-executive-s"
       },
@@ -106,7 +106,7 @@
         "category": "Industry Update",
         "image": "https://img.etimg.com/thumb/msid-130152712,width-1200,height-630,imgsize-60266,overlay-economictimes/articleshow.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/mounjaro-sales-dip-amid-price-war-as-semaglutide-generics-gain-ground/articleshow/130152530.cms",
         "articlePath": "/article.html?issue=2026-04-05&article=2026-04-05-mounjaro-sales-dip-amid-price-war-as-semaglutide-generics-gain-ground"
       },
@@ -164,7 +164,7 @@
       {
         "id": "2026-04-05-iran-conflict-pharma-supply-chains-may-take-months-to-recover",
         "title": "Iran conflict: Pharma supply chains may take months to recover",
-        "summary": "The recent ceasefire in the Iran conflict is a much-needed breath of fresh air for India's pharmaceutical sector, potentially rejuvenating exports. Nevertheless, industry specialists warn that it may take considerable time for supply chains to fully recover....",
+        "summary": "The ongoing Iran conflict has disrupted pharmaceutical supply chains, leading to prolonged recovery times for exports and API prices. Industry experts emphasize the need for resilience amid rising freight costs and inventory issues.",
         "source": "Economic Times Pharma",
         "sourceHost": "economictimes.indiatimes.com",
         "region": "India",
@@ -172,11 +172,28 @@
         "publishedAt": "2026-04-09T18:50:44.000Z",
         "publishedLabel": "April 10, 2026",
         "category": "Industry Update",
-        "image": "https://img.etimg.com/thumb/msid-130152371,width-1200,height-630,imgsize-225968,overlay-economictimes/articleshow.jpg",
+        "image": "https://img.etimg.com/thumb/msid-130152316,width-1200,height-630,imgsize-143660,overlay-economictimes/articleshow.jpg",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/iran-conflict-pharma-supply-chains-may-take-months-to-recover/articleshow/130152316.cms",
         "articlePath": "/article.html?issue=2026-04-05&article=2026-04-05-iran-conflict-pharma-supply-chains-may-take-months-to-recover"
+      },
+      {
+        "id": "2026-04-05-india-s-heart-care-needs-more-than-cutting-edge-stents",
+        "title": "India’s Heart Care Needs More Than Cutting-Edge Stents",
+        "summary": "Experts highlight that while technological innovations are reducing repeat procedures and enabling more personalised treatment decisions, long-term success still hinges on patient adherence, lifestyle changes, and a collaborative, patient-centric “heart team”...",
+        "source": "ET Healthworld",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-04-10T10:03:44.000Z",
+        "publishedLabel": "April 10, 2026",
+        "category": "Industry Update",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-130166044,imgsize-93586,width-1200,height=627,overlay-ethealth,resizemode-75/industry/indias-heart-care-needs-more-than-cutting-edge-stents.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/indias-heart-care-needs-more-than-cutting-edge-stents/130166044",
+        "articlePath": "/article.html?issue=2026-04-05&article=2026-04-05-india-s-heart-care-needs-more-than-cutting-edge-stents"
       },
       {
         "id": "2026-04-05-govt-ramps-up-feedstock-supplies-to-pharma-sector-amid-west-asia-disrupt",
@@ -213,23 +230,6 @@
         "articlePath": "/article.html?issue=2026-04-05&article=2026-04-05-ihh-healthcare-aims-to-hike-its-stake-in-fortis-to-50-ceo-prem-kumar-nai"
       },
       {
-        "id": "2026-04-05-new-procedure-dramatically-improves-combat-related-ptsd",
-        "title": "New procedure dramatically improves combat-related PTSD",
-        "summary": "After one month, 85% of those who received the navigated TMS treatment had clinically significant symptom reductions, enough to ​greatly improve their quality of life. That compared with 59% of those ⁠who received a \"sham\" ‌TMS procedure as a control, the...",
-        "source": "ET Healthworld",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "Middle East",
-        "country": "Oman",
-        "publishedAt": "2026-04-10T01:10:26.000Z",
-        "publishedLabel": "April 10, 2026",
-        "category": "Industry Update",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-130130727,imgsize-90876,width-1200,height=627,overlay-ethealth,resizemode-75/industry/new-procedure-dramatically-improves-combat-related-ptsd.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/new-procedure-dramatically-improves-combat-related-ptsd/130130727",
-        "articlePath": "/article.html?issue=2026-04-05&article=2026-04-05-new-procedure-dramatically-improves-combat-related-ptsd"
-      },
-      {
         "id": "2026-04-05-ai-in-pharma-how-india-s-drug-giants-are-betting-big-on-artificial-intel",
         "title": "AI in Pharma: How India's Drug Giants Are Betting Big on Artificial Intelligence",
         "summary": "Is AI in pharma just hype or a full-blown revolution? In this episode, ET's Anirban Chowdhury sits down with three industry heavyweights Sujay Shetty, Partner & Leader - Health Industries, PwC India, Phanimitra B, Chief Digital and Information Officer, Dr....",
@@ -247,6 +247,23 @@
         "articlePath": "/article.html?issue=2026-04-05&article=2026-04-05-ai-in-pharma-how-india-s-drug-giants-are-betting-big-on-artificial-intel"
       },
       {
+        "id": "2026-04-05-updated-rules-for-cdc-vaccine-advisory-panel-reflect-kennedy-skepticism",
+        "title": "Updated rules for CDC vaccine advisory panel reflect Kennedy skepticism",
+        "summary": "The changes published Thursday come after a recent legal defeat that has at least temporarily halted meetings of the Advisory Committee on Immunization Practices, which for decades has recommended how best to use the nation's vaccines.",
+        "source": "ET Healthworld",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-04-10T09:44:20.000Z",
+        "publishedLabel": "April 10, 2026",
+        "category": "Industry Update",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-130165535,imgsize-185968,width-1200,height=627,overlay-ethealth,resizemode-75/industry/updated-rules-for-cdc-vaccine-advisory-panel-reflect-kennedy-skepticism.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/updated-rules-for-cdc-vaccine-advisory-panel-reflect-kennedy-skepticism/130165535",
+        "articlePath": "/article.html?issue=2026-04-05&article=2026-04-05-updated-rules-for-cdc-vaccine-advisory-panel-reflect-kennedy-skepticism"
+      },
+      {
         "id": "2026-04-05-us-abortion-opponents-want-trump-s-fda-to-act-on-abortion-pill-restricti",
         "title": "US abortion opponents want Trump's FDA to act on abortion pill restrictions",
         "summary": "A court ruling this week in a lawsuit the Louisiana attorney general brought against Trump's Food and Drug Administration cast a spotlight on the simmering tension. The judge said the state has a strong case while declining to block telehealth prescriptions...",
@@ -259,7 +276,7 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-130156828,imgsize-23258,width-1200,height=627,overlay-ethealth,resizemode-75/industry/us-abortion-opponents-want-trumps-fda-to-act-on-abortion-pill-restrictions.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/us-abortion-opponents-want-trumps-fda-to-act-on-abortion-pill-restrictions/130156828",
         "articlePath": "/article.html?issue=2026-04-05&article=2026-04-05-us-abortion-opponents-want-trump-s-fda-to-act-on-abortion-pill-restricti"
       },
@@ -281,23 +298,6 @@
         "articlePath": "/article.html?issue=2026-04-05&article=2026-04-05-doctors-seek-implementation-of-next-for-mbbs-students"
       },
       {
-        "id": "2026-04-05-cap-duty-hours-ensure-rest-for-resident-doctors-parliamentary-panel",
-        "title": "Cap duty hours, ensure rest for resident doctors: Parliamentary panel",
-        "summary": "In its latest report, the panel has recommended that the government introduce and strictly enforce a formal \"Clinical Duty Hours Regulation\" policy. This should mandate fixed rest periods and monitored duty rosters, with oversight mechanisms to prevent...",
-        "source": "ET Healthworld",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-04-09T02:11:44.000Z",
-        "publishedLabel": "April 9, 2026",
-        "category": "Industry Update",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-130108686,imgsize-81464,width-1200,height=627,overlay-ethealth,resizemode-75/policy/cap-duty-hours-ensure-rest-for-resident-doctors-parliamentary-panel.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/policy/cap-duty-hours-ensure-rest-for-resident-doctors-parliamentary-panel/130108686",
-        "articlePath": "/article.html?issue=2026-04-05&article=2026-04-05-cap-duty-hours-ensure-rest-for-resident-doctors-parliamentary-panel"
-      },
-      {
         "id": "2026-04-05-healthcare-doesn-t-have-a-talent-problem-it-has-a-hiring-problem",
         "title": "Healthcare doesn’t have a talent problem. It has a hiring problem",
         "summary": "Everyone talks about AI in healthcare Artificial intelligence, robotics, and new treatment models dominate industry narratives. But inside hospitals, there’s a more immediate constraint that shapes daily operations: finding, verifying, […]",
@@ -310,7 +310,7 @@
         "category": "Industry Update",
         "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/04/10111728/New-Project-1-3.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/news/healthcare-doesnt-have-a-talent-problem-it-has-a-hiring-problem/453340/",
         "articlePath": "/article.html?issue=2026-04-05&article=2026-04-05-healthcare-doesn-t-have-a-talent-problem-it-has-a-hiring-problem"
       },
@@ -335,12 +335,12 @@
         "id": "2026-04-05-beyond-survival-why-india-must-make-mobility-a-public-health-priority",
         "title": "Beyond survival: Why India must make mobility a public health priority",
         "summary": "India needs inclusive prosthetic access to restore dignity, mobility, and empower millions to lead independent lives.",
-        "source": "Express Healthcare",
+        "source": "Express Healthcare Posts",
         "sourceHost": "expresshealthcare.in",
         "region": "India",
         "country": "India",
-        "publishedAt": "2026-04-07T10:06:43.000Z",
-        "publishedLabel": "April 7, 2026",
+        "publishedAt": "2026-04-09T06:42:51.000Z",
+        "publishedLabel": "April 9, 2026",
         "category": "Industry Update",
         "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/04/07153613/New-Project-3.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
@@ -383,21 +383,21 @@
         "articlePath": "/article.html?issue=2026-04-05&article=2026-04-05-biocon-launches-denosumab-biosimilars-bosaya-aukelso-in-us"
       },
       {
-        "id": "2026-04-05-shionogi-secures-usd482m-barda-contract-for-us-antibiotic-manufacturing-",
-        "title": "Shionogi secures USD482M BARDA contract for US antibiotic manufacturing | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
-        "summary": "The contract includes multiyear options that could ultimately deliver up to USD 482 million if exercised, enabling Shionogi to establish a dedicated manufacturing facility in the United States.",
+        "id": "2026-04-05-jeito-capital-closes-usd1-2b-second-fund-to-support-european-biopharma-b",
+        "title": "Jeito Capital closes USD1.2B second fund to support European biopharma breakthroughs | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
+        "summary": "Jeito II will back between 15 and 20 clinical-stage biopharma companies, primarily in Europe, with average investments of up to €150 million (USD180 million) per company",
         "source": "Healthcare MEA",
         "sourceHost": "healthcaremea.com",
         "region": "Middle East",
         "country": "Middle East",
-        "publishedAt": "2026-04-09T07:58:29.000Z",
-        "publishedLabel": "April 9, 2026",
+        "publishedAt": "2026-04-10T07:48:02.000Z",
+        "publishedLabel": "April 10, 2026",
         "category": "Manufacturing",
-        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/04/image-1600x900-2026-04-09T105353.411.png",
+        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/04/image-1600x900-2026-04-10T103657.409.png",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": false,
-        "originalUrl": "https://www.healthcaremea.com/2026/04/09/shionogi-secures-usd482m-barda-contract-for-us-antibiotic-manufacturing/",
-        "articlePath": "/article.html?issue=2026-04-05&article=2026-04-05-shionogi-secures-usd482m-barda-contract-for-us-antibiotic-manufacturing-"
+        "justIn": true,
+        "originalUrl": "https://www.healthcaremea.com/2026/04/10/jeito-capital-closes-usd1-2b-second-fund-to-support-european-biopharma-breakthroughs/",
+        "articlePath": "/article.html?issue=2026-04-05&article=2026-04-05-jeito-capital-closes-usd1-2b-second-fund-to-support-european-biopharma-b"
       },
       {
         "id": "2026-04-05-lupin-zydus-secure-usfda-nod-for-dapagliflozin-tablets",
@@ -468,23 +468,6 @@
         "articlePath": "/article.html?issue=2026-04-05&article=2026-04-05-nigeria-commences-lenacapavir-rollout-for-hiv-prevention-healthcare-midd"
       },
       {
-        "id": "2026-04-05-insmed-s-brinsupri-stumbles-again-in-second-failed-trial-in-four-months-",
-        "title": "Insmed's Brinsupri stumbles again in second failed trial in four months | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
-        "summary": "This setback follows Brinsupri's unsuccessful phase 2 trial for chronic rhinosinusitis without nasal polyps, which also failed to meet its primary and secondary endpoints at both tested doses.",
-        "source": "Healthcare MEA",
-        "sourceHost": "healthcaremea.com",
-        "region": "Middle East",
-        "country": "Middle East",
-        "publishedAt": "2026-04-09T07:41:34.000Z",
-        "publishedLabel": "April 9, 2026",
-        "category": "Manufacturing",
-        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/04/image-1600x900-2026-04-09T103454.083.png",
-        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": false,
-        "originalUrl": "https://www.healthcaremea.com/2026/04/09/insmeds-brinsupri-stumbles-again-in-second-failed-trial-in-four-months/",
-        "articlePath": "/article.html?issue=2026-04-05&article=2026-04-05-insmed-s-brinsupri-stumbles-again-in-second-failed-trial-in-four-months-"
-      },
-      {
         "id": "2026-04-05-bombay-hc-grants-relief-to-sun-pharma-restrains-use-of-pantozed-over-sim",
         "title": "Bombay HC Grants Relief to Sun Pharma, Restrains Use of PANTOZED Over Similarity with PANTOCID",
         "summary": "New Delhi: In a significant ruling on pharmaceutical trademark disputes, the Bombay High Court in Sun Pharma Laboratories Limited vs. Zawadi Healthcare Limited has granted interim relief in favor of...",
@@ -519,6 +502,23 @@
         "articlePath": "/article.html?issue=2026-04-05&article=2026-04-05-pharma-firms-seek-50-price-hike-in-key-cancer-drugs-including-carboplati"
       },
       {
+        "id": "2026-04-05-lupin-announces-approval-of-dapagliflozin-and-metformin-hydrochloride-ex",
+        "title": "Lupin announces approval of Dapagliflozin and Metformin Hydrochloride Extended-Release Tablets in the USA",
+        "summary": "Lupin Limited announced that it has received approval from the United States Food and Drug Administration (U.S. FDA) for its Abbreviated New Drug Application for Dapagliflozin and Metformin Hydrochloride Extended-Release Tablets, 5 mg/500 mg, 5 mg/1,000 mg,...",
+        "source": "PharmaTutor News",
+        "sourceHost": "pharmatutor.org",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-04-10T11:07:23.000Z",
+        "publishedLabel": "April 10, 2026",
+        "category": "Approval",
+        "image": "https://www.pharmatutor.org/sites/default/files/styles/webp/public/2026-04/lupin-announces-approval-of-dapagliflozin-and-metformin-hydrochloride-extended-release-tablets-in-the-usa.jpg.webp?itok=pgEloEjJ",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/lupin-announces-approval-of-dapagliflozin-and-metformin-hydrochloride-extended-release-tablets-in-the-usa",
+        "articlePath": "/article.html?issue=2026-04-05&article=2026-04-05-lupin-announces-approval-of-dapagliflozin-and-metformin-hydrochloride-ex"
+      },
+      {
         "id": "2026-04-05-dcc-approves-real-time-digital-portal-to-track-ndps-regulated-pharma-pro",
         "title": "DCC Approves Real-Time Digital Portal to Track NDPS-Regulated Pharma Products",
         "summary": "New Delhi: In a significant move aimed at tightening regulatory oversight over controlled pharmaceutical substances, the Drugs Consultative Committee (DCC) has approved a proposal for the development...",
@@ -531,7 +531,7 @@
         "category": "Industry Update",
         "image": "https://medicaldialogues.in/h-upload/2024/06/07/240457-medicine-2.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/dcc-approves-real-time-digital-portal-to-track-ndps-regulated-pharma-products-168334",
         "articlePath": "/article.html?issue=2026-04-05&article=2026-04-05-dcc-approves-real-time-digital-portal-to-track-ndps-regulated-pharma-pro"
       },
@@ -551,23 +551,6 @@
         "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/gilead-to-acquire-tubulis-for-usd-5-billion-to-strengthen-cancer-pipeline-168309",
         "articlePath": "/article.html?issue=2026-04-05&article=2026-04-05-gilead-to-acquire-tubulis-for-usd-5-billion-to-strengthen-cancer-pipelin"
-      },
-      {
-        "id": "2026-04-05-biontech-closes-singapore-manufacturing-plant-as-covid-19-vaccine-demand",
-        "title": "BioNTech closes Singapore manufacturing plant as COVID-19 vaccine demand collapses | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
-        "summary": "BioNTech's decision follows a comprehensive strategic review aimed at aligning the company's manufacturing capacity with its clinical pipeline and long-term business direction",
-        "source": "Healthcare MEA",
-        "sourceHost": "healthcaremea.com",
-        "region": "Middle East",
-        "country": "Middle East",
-        "publishedAt": "2026-04-09T07:49:29.000Z",
-        "publishedLabel": "April 9, 2026",
-        "category": "Manufacturing",
-        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/04/image-1600x900-2026-04-09T104334.655.png",
-        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": false,
-        "originalUrl": "https://www.healthcaremea.com/2026/04/09/biontech-closes-singapore-manufacturing-plant-as-covid-19-vaccine-demand-collapses/",
-        "articlePath": "/article.html?issue=2026-04-05&article=2026-04-05-biontech-closes-singapore-manufacturing-plant-as-covid-19-vaccine-demand"
       },
       {
         "id": "2026-04-05-usfda-approves-alembic-s-dapagliflozin-tablets-grants-180-day-exclusivit",
@@ -638,21 +621,21 @@
         "articlePath": "/article.html?issue=2026-04-05&article=2026-04-05-aurobindo-pharma-transfers-domestic-branded-business-to-auropharm-for-rs"
       },
       {
-        "id": "2026-04-05-nairobi-to-host-2nd-kenya-pharma-and-healthcare-expo-amid-manufacturing-",
-        "title": "Nairobi to host 2nd Kenya Pharma & Healthcare Expo amid manufacturing surge",
-        "summary": "Exhibitions & Trade Services India Private Limited (ETSIPL) will manage the event's organization and execution.",
+        "id": "2026-04-05-uk-government-commits-usd4-8m-to-scale-mhra-s-ai-airlock-regulatory-sand",
+        "title": "UK government commits USD4.8M to scale MHRA’s \"AI Airlock\" regulatory sandbox | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
+        "summary": "Since launching in 2024, AI Airlock has grown steadily, moving beyond its initial pilot phase to tackle increasingly complex regulatory questions.",
         "source": "Healthcare MEA",
         "sourceHost": "healthcaremea.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-04-08T09:18:26.000Z",
-        "publishedLabel": "April 8, 2026",
+        "region": "Middle East",
+        "country": "Middle East",
+        "publishedAt": "2026-04-10T07:08:52.000Z",
+        "publishedLabel": "April 10, 2026",
         "category": "Manufacturing",
-        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/04/HCMEA-1.png",
-        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": false,
-        "originalUrl": "https://www.healthcaremea.com/2026/04/08/nairobi-hosts-2nd-international-pharma-healthcare-expo-amid-manufacturing-surge/",
-        "articlePath": "/article.html?issue=2026-04-05&article=2026-04-05-nairobi-to-host-2nd-kenya-pharma-and-healthcare-expo-amid-manufacturing-"
+        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/04/image-1600x900-2026-04-10T100512.424.png",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://www.healthcaremea.com/2026/04/10/uk-government-commits-usd4-8m-to-scale-mhras-ai-airlock-regulatory-sandbox/",
+        "articlePath": "/article.html?issue=2026-04-05&article=2026-04-05-uk-government-commits-usd4-8m-to-scale-mhra-s-ai-airlock-regulatory-sand"
       },
       {
         "id": "2026-04-05-lokayukta-raids-assistant-drug-controller-unearths-rs-3-37-crore-disprop",
@@ -721,6 +704,23 @@
         "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/wegovy-hd-rollout-novo-nordisk-introduces-72-mg-dose-in-us-market-168267",
         "articlePath": "/article.html?issue=2026-04-05&article=2026-04-05-wegovy-hd-rollout-novo-nordisk-introduces-7-2-mg-dose-in-us-market"
+      },
+      {
+        "id": "2026-04-05-amgen-announced-results-from-a-phase-3-trial-of-tepezza",
+        "title": "Amgen announced results from a Phase 3 trial of TEPEZZA",
+        "summary": "Amgen announced positive topline results from a Phase 3 trial of TEPEZZA (teprotumumab-trbw) administered by subcutaneous injection via an on-body injector (OBI) in participants with moderate-to-severe active Thyroid Eye Disease",
+        "source": "PharmaTutor News",
+        "sourceHost": "pharmatutor.org",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-04-10T11:00:32.000Z",
+        "publishedLabel": "April 10, 2026",
+        "category": "Industry Update",
+        "image": "https://www.pharmatutor.org/sites/default/files/styles/webp/public/2026-04/amgen-announced-results-from-a-phase-3-trial-of-tepezza.jpg.webp?itok=X7DzIEMV",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/amgen-announced-results-from-a-phase-3-trial-of-tepezza",
+        "articlePath": "/article.html?issue=2026-04-05&article=2026-04-05-amgen-announced-results-from-a-phase-3-trial-of-tepezza"
       }
     ],
     "providers": [
@@ -759,23 +759,6 @@
         "articlePath": "/article.html?issue=2026-04-05&article=2026-04-05-pgi-revamps-procurement-after-ayushman-bharat-scam"
       },
       {
-        "id": "2026-04-05-this-world-health-day-rethinking-india-s-digital-state-as-a-competitive-",
-        "title": "This World Health Day, rethinking India’s digital state as a competitive state",
-        "summary": "On World Health Day, conversations around health systems often focus on infrastructure, access, and outcomes. Yet, in a rapidly digitising nation like India, the future of healthcare is increasingly tied […]",
-        "source": "Express Healthcare Posts",
-        "sourceHost": "expresshealthcare.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-04-07T04:07:37.000Z",
-        "publishedLabel": "April 7, 2026",
-        "category": "Provider Update",
-        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/04/07093624/New-Project-2.jpg",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://www.expresshealthcare.in/news/this-world-health-day-rethinking-indias-digital-state-as-a-competitive-state/453291/",
-        "articlePath": "/article.html?issue=2026-04-05&article=2026-04-05-this-world-health-day-rethinking-india-s-digital-state-as-a-competitive-"
-      },
-      {
         "id": "2026-04-05-access-to-medicines-remains-uneven-across-rural-and-semi-urban-india",
         "title": "Access to medicines remains uneven across rural and semi-urban India",
         "summary": "Access to medicines remains uneven across rural and semi-urban India. What are the key structural bottlenecks that still persist in pharma distribution today? The pharma distribution challenge in rural India […]",
@@ -791,6 +774,40 @@
         "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/news/access-to-medicines-remains-uneven-across-rural-and-semi-urban-india/453294/",
         "articlePath": "/article.html?issue=2026-04-05&article=2026-04-05-access-to-medicines-remains-uneven-across-rural-and-semi-urban-india"
+      },
+      {
+        "id": "2026-04-05-yatharth-hospital-launches-advanced-brain-stimulation-centre",
+        "title": "Yatharth Hospital launches advanced brain stimulation centre",
+        "summary": "Yatharth Super Speciality Hospital, Sector-20, Faridabad has announced the inauguration of its Brain Stimulation Centre. The newly inaugurated Centre is equipped with advanced technologies such as Transcranial Magnetic Stimulation (TMS) […]",
+        "source": "Express Healthcare",
+        "sourceHost": "expresshealthcare.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-04-10T11:37:31.000Z",
+        "publishedLabel": "April 10, 2026",
+        "category": "Hospital",
+        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/04/10170723/New-Project-5.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": true,
+        "originalUrl": "https://www.expresshealthcare.in/news/yatharth-hospital-launches-advanced-brain-stimulation-centre/453349/",
+        "articlePath": "/article.html?issue=2026-04-05&article=2026-04-05-yatharth-hospital-launches-advanced-brain-stimulation-centre"
+      },
+      {
+        "id": "2026-04-05-mlhealth360-partners-with-government-of-mp-to-pilot-ai-driven-radiology-",
+        "title": "mlHealth360 partners with Government of MP to pilot AI-driven radiology in public hospitals",
+        "summary": "mlHealth360 has signed a Memorandum of Understanding (MoU) with the Government of Madhya Pradesh to introduce AI-enabled radiology solutions across public healthcare facilities in the state. This strategic collaboration aims […]",
+        "source": "Express Healthcare",
+        "sourceHost": "expresshealthcare.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-04-10T06:46:03.000Z",
+        "publishedLabel": "April 10, 2026",
+        "category": "Hospital",
+        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2021/06/29113543/Partnership.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": true,
+        "originalUrl": "https://www.expresshealthcare.in/news/mlhealth360-partners-with-government-of-mp-to-pilot-ai-driven-radiology-in-public-hospitals/453343/",
+        "articlePath": "/article.html?issue=2026-04-05&article=2026-04-05-mlhealth360-partners-with-government-of-mp-to-pilot-ai-driven-radiology-"
       },
       {
         "id": "2026-04-05-healthcare-major-qcil-signs-solar-power-pacts-with-ampin-and-radiance-fo",
@@ -847,7 +864,7 @@
         "id": "2026-04-05-world-health-day-2026-why-prevention-is-the-strongest-line-of-defense-in",
         "title": "World health day 2026: Why prevention is the strongest line of defense in modern healthcare",
         "summary": "As the healthcare system is evolving on a global basis, World Health Day 2026 indicates a very critical reality – In today’s time most of the major healthcare conditions are […]",
-        "source": "Express Healthcare",
+        "source": "Express Healthcare Posts",
         "sourceHost": "expresshealthcare.in",
         "region": "India",
         "country": "India",
@@ -873,9 +890,43 @@
         "category": "Patient Care",
         "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/04/10110814/New-Project-4.jpg",
         "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/news/stroke-recovery-remains-a-costly-burden-as-rehabilitation-lacks-insurance-cover-experts-call-for-urgent-policy-reform/453337/",
         "articlePath": "/article.html?issue=2026-04-05&article=2026-04-05-stroke-recovery-remains-a-costly-burden-as-rehabilitation-lacks-insuranc"
+      },
+      {
+        "id": "2026-04-05-johns-hopkins-aramco-healthcare-wins-prestigious-amyaz-award-for-healthc",
+        "title": "Johns Hopkins Aramco Healthcare wins prestigious Amyaz Award for healthcare excellence in Saudi Arabia",
+        "summary": "The Amyaz Award specifically honours organisations that demonstrate leadership and drive measurable improvements in patient safety and care delivery.",
+        "source": "Healthcare MEA",
+        "sourceHost": "healthcaremea.com",
+        "region": "Middle East",
+        "country": "Saudi Arabia",
+        "publishedAt": "2026-04-10T09:32:42.000Z",
+        "publishedLabel": "April 10, 2026",
+        "category": "Patient Care",
+        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/04/image-1600x900-2026-04-10T122014.514.png",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": true,
+        "originalUrl": "https://www.healthcaremea.com/2026/04/10/johns-hopkins-aramco-healthcare-wins-prestigious-amyaz-award-for-healthcare-excellence-in-saudi-arabia/",
+        "articlePath": "/article.html?issue=2026-04-05&article=2026-04-05-johns-hopkins-aramco-healthcare-wins-prestigious-amyaz-award-for-healthc"
+      },
+      {
+        "id": "2026-04-05-dubai-s-dp-world-launches-premium-primary-care-clinic-for-residents-heal",
+        "title": "Dubai's DP World launches premium primary care clinic for residents | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
+        "summary": "The facility provides a full range of primary care services, from acute conditions and chronic disease management to preventive health, all delivered in a calm, private clinical environment.",
+        "source": "Healthcare MEA",
+        "sourceHost": "healthcaremea.com",
+        "region": "Middle East",
+        "country": "United Arab Emirates",
+        "publishedAt": "2026-04-10T08:04:17.000Z",
+        "publishedLabel": "April 10, 2026",
+        "category": "AI Care Delivery",
+        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/04/image-1600x900-2026-04-10T110109.561.png",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": true,
+        "originalUrl": "https://www.healthcaremea.com/2026/04/10/dubais-dp-world-launches-premium-primary-care-clinic-for-residents/",
+        "articlePath": "/article.html?issue=2026-04-05&article=2026-04-05-dubai-s-dp-world-launches-premium-primary-care-clinic-for-residents-heal"
       },
       {
         "id": "2026-04-05-namibia-s-dbn-injects-usd55-2m-into-500-bed-windhoek-district-hospital-h",
@@ -999,6 +1050,23 @@
         "articlePath": "/article.html?issue=2026-04-05&article=2026-04-05-bayer-s-ultravist-iopromide-injection-approved-for-contrast-enhanced-mam"
       },
       {
+        "id": "2026-04-05-mnlu-mumbai-and-niphtr-host-medical-and-health-awareness-camp",
+        "title": "MNLU Mumbai and NIPHTR host medical and health awareness camp",
+        "summary": "The Centre for Applied Research in Public Health Law, Rights and Policy (CPHL), Maharashtra National Law University (MNLU), Mumbai in collaboration with NIPHTR (Ministry of Health and Family Welfare, Government […]",
+        "source": "Express Healthcare",
+        "sourceHost": "expresshealthcare.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-04-10T08:34:24.000Z",
+        "publishedLabel": "April 10, 2026",
+        "category": "Lab Network",
+        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/04/10140408/New-Project-3-1.jpg",
+        "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
+        "justIn": true,
+        "originalUrl": "https://www.expresshealthcare.in/news/mnlu-mumbai-and-niphtr-host-medical-and-health-awareness-camp/453345/",
+        "articlePath": "/article.html?issue=2026-04-05&article=2026-04-05-mnlu-mumbai-and-niphtr-host-medical-and-health-awareness-camp"
+      },
+      {
         "id": "2026-04-05-beyond-the-white-coat-why-professional-indemnity-insurance-is-essential-",
         "title": "Beyond the white coat: Why professional indemnity insurance is essential for doctors",
         "summary": "Professional indemnity insurance protects doctors from legal risks, malpractice claims, and financial losses.",
@@ -1014,23 +1082,6 @@
         "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/news/beyond-the-white-coat-why-professional-indemnity-insurance-is-essential-for-doctors/453267/",
         "articlePath": "/article.html?issue=2026-04-05&article=2026-04-05-beyond-the-white-coat-why-professional-indemnity-insurance-is-essential-"
-      },
-      {
-        "id": "2026-04-05-apollo-hospitals-convenes-specialist-workshop-to-address-gaps-in-diagnos",
-        "title": "Apollo Hospitals convenes specialist workshop to address gaps in diagnosis and management of Vertigo",
-        "summary": "Vertigo and balance disorders are emerging as a significant yet under-recognised health concern in India, with clinicians noting that a substantial proportion of patients presenting with dizziness are either misdiagnosed […]",
-        "source": "Express Healthcare Posts",
-        "sourceHost": "expresshealthcare.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-04-06T08:59:39.000Z",
-        "publishedLabel": "April 6, 2026",
-        "category": "Industry Update",
-        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/04/06142920/EH-Apollo.jpg",
-        "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
-        "justIn": false,
-        "originalUrl": "https://www.expresshealthcare.in/uncategorized/apollo-hospitals-convenes-specialist-workshop-to-address-gaps-in-diagnosis-and-management-of-vertigo/453287/",
-        "articlePath": "/article.html?issue=2026-04-05&article=2026-04-05-apollo-hospitals-convenes-specialist-workshop-to-address-gaps-in-diagnos"
       },
       {
         "id": "2026-04-05-rajasthan-flags-spurious-antibiotic-qcepod-200-after-tests-find-no-activ",
@@ -1050,7 +1101,25 @@
         "articlePath": "/article.html?issue=2026-04-05&article=2026-04-05-rajasthan-flags-spurious-antibiotic-qcepod-200-after-tests-find-no-activ"
       }
     ],
-    "healthtech": []
+    "healthtech": [
+      {
+        "id": "2026-04-05-innovaccer-partners-with-infinia-to-develop-abu-dhabi-s-ai-driven-health",
+        "title": "Innovaccer partners with Infinia to develop Abu Dhabi’s AI-driven healthcare core",
+        "summary": "The partnership seeks to unify healthcare data and convert it into actionable insights that healthcare providers, insurance companies, and government agencies can leverage.",
+        "source": "Healthcare MEA",
+        "sourceHost": "healthcaremea.com",
+        "region": "Middle East",
+        "country": "United Arab Emirates",
+        "publishedAt": "2026-04-10T08:45:24.000Z",
+        "publishedLabel": "April 10, 2026",
+        "category": "AI",
+        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/04/image-1600x900-2026-04-10T114104.572.png",
+        "thbAction": "",
+        "justIn": false,
+        "originalUrl": "https://www.healthcaremea.com/2026/04/10/innovaccer-partners-with-infinia-to-develop-abu-dhabis-ai-driven-healthcare-core/",
+        "articlePath": "/article.html?issue=2026-04-05&article=2026-04-05-innovaccer-partners-with-infinia-to-develop-abu-dhabi-s-ai-driven-health"
+      }
+    ]
   },
   "thbActions": [
     {
@@ -1111,14 +1180,6 @@
     },
     {
       "segment": "providers",
-      "articleId": "2026-04-05-this-world-health-day-rethinking-india-s-digital-state-as-a-competitive-",
-      "title": "This World Health Day, rethinking India’s digital state as a competitive state",
-      "source": "Express Healthcare Posts",
-      "solution": "THB Provider CRM",
-      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
-    },
-    {
-      "segment": "providers",
       "articleId": "2026-04-05-access-to-medicines-remains-uneven-across-rural-and-semi-urban-india",
       "title": "Access to medicines remains uneven across rural and semi-urban India",
       "source": "Express Healthcare Posts",
@@ -1127,8 +1188,16 @@
     },
     {
       "segment": "providers",
-      "articleId": "2026-04-05-healthcare-major-qcil-signs-solar-power-pacts-with-ampin-and-radiance-fo",
-      "title": "Healthcare major QCIL signs solar power pacts with AMPIN and Radiance for multi-state hospital network",
+      "articleId": "2026-04-05-yatharth-hospital-launches-advanced-brain-stimulation-centre",
+      "title": "Yatharth Hospital launches advanced brain stimulation centre",
+      "source": "Express Healthcare",
+      "solution": "THB Provider CRM",
+      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
+    },
+    {
+      "segment": "providers",
+      "articleId": "2026-04-05-mlhealth360-partners-with-government-of-mp-to-pilot-ai-driven-radiology-",
+      "title": "mlHealth360 partners with Government of MP to pilot AI-driven radiology in public hospitals",
       "source": "Express Healthcare",
       "solution": "THB Provider CRM",
       "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."

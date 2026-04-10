@@ -5,9 +5,9 @@
   "startDate": "2026-03-14T18:30:00.000Z",
   "endDate": "2026-03-20T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-04-10T06:15:46.677Z",
+  "updatedAt": "2026-04-10T14:35:10.029Z",
   "coverage": {
-    "pharma": 6,
+    "pharma": 4,
     "providers": 7,
     "diagnostics": 4,
     "healthtech": 0
@@ -17,8 +17,7 @@
     "ET Healthworld Diagnostics",
     "ET Healthworld Hospitals",
     "Financial Express Healthcare",
-    "Janssen India Media",
-    "PharmaTutor News"
+    "Janssen India Media"
   ],
   "segments": {
     "pharma": [
@@ -72,40 +71,6 @@
         "justIn": false,
         "originalUrl": "https://www.jnj.com/media-center/press-releases/fda-approval-of-icotyde-icotrokinra-ushers-in-new-era-for-first-line-systemic-treatment-of-plaque-psoriasis-with-a-targeted-oral-peptide",
         "articlePath": "/article.html?issue=2026-03-15&article=2026-03-15-fda-approval-of-icotyde-icotrokinra-ushers-in-new-era-for-first-line-sys"
-      },
-      {
-        "id": "2026-03-15-zydus-lifesciences-and-torrent-pharmaceuticals-partner-to-co-market-sema",
-        "title": "Zydus Lifesciences & Torrent Pharmaceuticals Partner to Co-Market Semaglutide in India",
-        "summary": "Zydus Lifesciences Limited an innovation-led global life-sciences company and Torrent Pharmaceuticals Limited a specialty-focused global pharmaceutical company, have entered into a Licensing and Supply Agreement to co-market Semaglutide Injection in the...",
-        "source": "PharmaTutor News",
-        "sourceHost": "pharmatutor.org",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-03-18T11:52:28.000Z",
-        "publishedLabel": "March 18, 2026",
-        "category": "Market",
-        "image": "https://www.pharmatutor.org/sites/default/files/styles/webp/public/2026-03/zydus-lifesciences-and-torrent-pharmaceuticals-partner-to-co-market-semaglutide-in-india.jpg.webp?itok=YQ7Sa75R",
-        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": false,
-        "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/zydus-lifesciences-and-torrent-pharmaceuticals-partner-to-co-market-semaglutide-in-india",
-        "articlePath": "/article.html?issue=2026-03-15&article=2026-03-15-zydus-lifesciences-and-torrent-pharmaceuticals-partner-to-co-market-sema"
-      },
-      {
-        "id": "2026-03-15-two-day-international-conference-pharmacy-beyond-borders-translating-inn",
-        "title": "Two-Day International Conference : Pharmacy Beyond Borders : Translating Innovation into Impact for Global Health",
-        "summary": "The Himachal Institute of Pharmacy, Paonta Sahib, in association with the Himachal Pradesh State APTI Branch, successfully organized a two-day International Conference on the theme “Pharmacy Beyond Borders: Translating Innovation into Impact for Global...",
-        "source": "PharmaTutor News",
-        "sourceHost": "pharmatutor.org",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-03-17T10:05:13.000Z",
-        "publishedLabel": "March 17, 2026",
-        "category": "Industry Update",
-        "image": "https://www.pharmatutor.org/sites/default/files/styles/webp/public/2026-03/two-day-international-conference-pharmacy-beyond-borders-translating-innovation-into-impact-for-global-health.jpg.webp?itok=S5LHO1XV",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/two-day-international-conference-pharmacy-beyond-borders-translating-innovation-into-impact-for-global-health",
-        "articlePath": "/article.html?issue=2026-03-15&article=2026-03-15-two-day-international-conference-pharmacy-beyond-borders-translating-inn"
       },
       {
         "id": "2026-03-15-eveliqure-and-serum-institute-of-india-collaborate-for-development-of-an",
@@ -345,17 +310,9 @@
     },
     {
       "segment": "pharma",
-      "articleId": "2026-03-15-zydus-lifesciences-and-torrent-pharmaceuticals-partner-to-co-market-sema",
-      "title": "Zydus Lifesciences & Torrent Pharmaceuticals Partner to Co-Market Semaglutide in India",
-      "source": "PharmaTutor News",
-      "solution": "THB Commercial Analytics",
-      "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
-    },
-    {
-      "segment": "pharma",
-      "articleId": "2026-03-15-two-day-international-conference-pharmacy-beyond-borders-translating-inn",
-      "title": "Two-Day International Conference : Pharmacy Beyond Borders : Translating Innovation into Impact for Global Health",
-      "source": "PharmaTutor News",
+      "articleId": "2026-03-15-eveliqure-and-serum-institute-of-india-collaborate-for-development-of-an",
+      "title": "Eveliqure and Serum Institute of India collaborate for development of anti-diarrhoeal vaccines",
+      "source": "BioSpectrum India Healthcare",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
     },

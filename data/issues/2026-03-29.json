@@ -5,10 +5,10 @@
   "startDate": "2026-03-28T18:30:00.000Z",
   "endDate": "2026-04-03T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-04-10T06:15:46.677Z",
+  "updatedAt": "2026-04-10T14:35:10.029Z",
   "coverage": {
     "pharma": 15,
-    "providers": 5,
+    "providers": 4,
     "diagnostics": 1,
     "healthtech": 0
   },
@@ -17,7 +17,6 @@
     "ET Healthworld Diagnostics",
     "ET Healthworld Hospitals",
     "Economic Times Pharma",
-    "Express Healthcare Posts",
     "Financial Express Healthcare",
     "Lupin Updates",
     "PharmaTutor News"
@@ -348,23 +347,6 @@
         "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/aiims-mangalagiri-to-inaugurate-advanced-blood-screening-systems/130008058",
         "articlePath": "/article.html?issue=2026-03-29&article=2026-03-29-aiims-mangalagiri-to-inaugurate-advanced-blood-screening-systems"
-      },
-      {
-        "id": "2026-03-29-consolidation-is-not-just-likely-it-is-already-underway",
-        "title": "Consolidation is not just likely, it is already underway",
-        "summary": "India’s IVF sector has historically been dominated by standalone clinics and clinician-led practices. With Gaudium becoming India’s first listed fertility services company, what does this milestone indicate about the sector’s […]",
-        "source": "Express Healthcare Posts",
-        "sourceHost": "expresshealthcare.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-04-04T05:23:26.000Z",
-        "publishedLabel": "April 4, 2026",
-        "category": "Provider Update",
-        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/04/03175602/EH_Manika.jpg",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://www.expresshealthcare.in/interviews/consolidation-is-not-just-likely-it-is-already-underway/453283/",
-        "articlePath": "/article.html?issue=2026-03-29&article=2026-03-29-consolidation-is-not-just-likely-it-is-already-underway"
       }
     ],
     "diagnostics": [
@@ -458,14 +440,6 @@
       "articleId": "2026-03-29-aiims-mangalagiri-to-inaugurate-advanced-blood-screening-systems",
       "title": "AIIMS Mangalagiri to inaugurate advanced blood screening systems",
       "source": "ET Healthworld Hospitals",
-      "solution": "THB Provider CRM",
-      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
-    },
-    {
-      "segment": "providers",
-      "articleId": "2026-03-29-consolidation-is-not-just-likely-it-is-already-underway",
-      "title": "Consolidation is not just likely, it is already underway",
-      "source": "Express Healthcare Posts",
       "solution": "THB Provider CRM",
       "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
     },
