@@ -5,15 +5,18 @@
   "startDate": "2026-04-11T18:30:00.000Z",
   "endDate": "2026-04-17T18:30:00.000Z",
   "status": "live",
-  "updatedAt": "2026-04-12T06:09:19.394Z",
+  "updatedAt": "2026-04-12T14:10:06.878Z",
   "coverage": {
-    "pharma": 1,
-    "providers": 0,
+    "pharma": 5,
+    "providers": 1,
     "diagnostics": 0,
     "healthtech": 0
   },
   "sourcesUsed": [
-    "Economic Times Pharma"
+    "ET Healthworld",
+    "Economic Times Pharma",
+    "Financial Express Healthcare",
+    "Healthcare MEA"
   ],
   "segments": {
     "pharma": [
@@ -33,9 +36,95 @@
         "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/pharma-and-healthcare-companies-to-face-continued-margin-pressure-hdfc-securities/articleshow/130201975.cms",
         "articlePath": "/article.html?issue=2026-04-12&article=2026-04-12-pharma-and-healthcare-companies-to-face-continued-margin-pressure-hdfc-s"
+      },
+      {
+        "id": "2026-04-12-vaccine-gaps-fuel-bangladesh-s-deadly-measles-crisis",
+        "title": "Vaccine gaps fuel Bangladesh's deadly measles crisis",
+        "summary": "Rocking her baby to soothe his searing pain and gasping breaths, 18-year-old Rubia Akhtar Brishti recounts how her son nearly died in Bangladesh's deadly measles outbreak. \"The boy had (a) high fever and found it hard to breathe,\"mopping the fevered brow of...",
+        "source": "ET Healthworld",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-04-12T13:59:51.000Z",
+        "publishedLabel": "April 12, 2026",
+        "category": "Industry Update",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-130209103,imgsize-69480,width-1200,height=627,overlay-ethealth,resizemode-75/industry/vaccine-gaps-fuel-bangladeshs-deadly-measles-crisis.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/vaccine-gaps-fuel-bangladeshs-deadly-measles-crisis/130209103",
+        "articlePath": "/article.html?issue=2026-04-12&article=2026-04-12-vaccine-gaps-fuel-bangladesh-s-deadly-measles-crisis"
+      },
+      {
+        "id": "2026-04-12-reconsider-mou-with-c-dac-over-his-2-0-centre-directs-pgi",
+        "title": "Reconsider MoU with C-DAC over HIS 2.0, Centre directs PGI",
+        "summary": "This intervention comes after the project stalled for over two years, significantly hindering the institute's digitalisation efforts and critical tasks such as data mining and clinical research.",
+        "source": "ET Healthworld",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-04-12T14:01:43.000Z",
+        "publishedLabel": "April 12, 2026",
+        "category": "Industry Update",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-130209070,imgsize-144068,width-1200,height=627,overlay-ethealth,resizemode-75/industry/reconsider-mou-with-c-dac-over-his-2-0-centre-directs-pgi.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/reconsider-mou-with-c-dac-over-his-2-0-centre-directs-pgi/130209070",
+        "articlePath": "/article.html?issue=2026-04-12&article=2026-04-12-reconsider-mou-with-c-dac-over-his-2-0-centre-directs-pgi"
+      },
+      {
+        "id": "2026-04-12-domestic-pharma-grew-at-8-8-in-fy26-torrent-cipla-surge-ahead-in-the-rs-",
+        "title": "Domestic pharma grew at 8.8% in FY26; Torrent, Cipla surge ahead in the Rs 2.46 lakh crore market",
+        "summary": "The Indian domestic pharmaceutical market grew to ₹2.46 lakh crore in FY26, fueled by a 13.6% jump in the cardiac segment and a shift toward high-value GLP-1 diabetes therapies.",
+        "source": "Financial Express Healthcare",
+        "sourceHost": "financialexpress.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-04-12T12:48:26.000Z",
+        "publishedLabel": "April 12, 2026",
+        "category": "Market",
+        "image": "https://images.financialexpressdigital.com/2026/04/pharma-sector_20251005123023_20251010183352_20251207114147_20260224154327_20260403172243_20260410180905_20260412124411.jpg",
+        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
+        "justIn": true,
+        "originalUrl": "https://www.financialexpress.com/business/news/domestic-pharma-grew-at-8-8-in-fy26-torrent-cipla-surge-ahead-in-the-rs-246-lakh-crore-market/4204881/",
+        "articlePath": "/article.html?issue=2026-04-12&article=2026-04-12-domestic-pharma-grew-at-8-8-in-fy26-torrent-cipla-surge-ahead-in-the-rs-"
+      },
+      {
+        "id": "2026-04-12-german-cdmo-adragos-acquires-major-sanofi-sterile-injectables-plant-near",
+        "title": "German CDMO Adragos acquires major Sanofi sterile injectables plant near Paris | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
+        "summary": "The Maisons-Alfort plant, which previously operated under Sanofi's ownership, specializes in fill-finish manufacturing at commercial scale.",
+        "source": "Healthcare MEA",
+        "sourceHost": "healthcaremea.com",
+        "region": "Middle East",
+        "country": "Middle East",
+        "publishedAt": "2026-04-12T09:24:30.000Z",
+        "publishedLabel": "April 12, 2026",
+        "category": "Manufacturing",
+        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/04/image-1600x900-28.png",
+        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
+        "justIn": true,
+        "originalUrl": "https://www.healthcaremea.com/2026/04/12/german-cdmo-adragos-acquires-major-sanofi-sterile-injectables-plant-near-paris/",
+        "articlePath": "/article.html?issue=2026-04-12&article=2026-04-12-german-cdmo-adragos-acquires-major-sanofi-sterile-injectables-plant-near"
       }
     ],
-    "providers": [],
+    "providers": [
+      {
+        "id": "2026-04-12-seha-tawam-hospital-debuts-histotripsy-for-non-invasive-liver-cancer-tre",
+        "title": "SEHA Tawam Hospital debuts histotripsy for non-invasive liver cancer treatment | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
+        "summary": "Histotripsy uses precisely focused ultrasound energy to destroy tumours from outside the body, eliminating the need for surgery, radiotherapy, or chemotherapy.",
+        "source": "Healthcare MEA",
+        "sourceHost": "healthcaremea.com",
+        "region": "Middle East",
+        "country": "United Arab Emirates",
+        "publishedAt": "2026-04-12T09:37:38.000Z",
+        "publishedLabel": "April 12, 2026",
+        "category": "Hospital",
+        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/04/image-1600x900-29.png",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": false,
+        "originalUrl": "https://www.healthcaremea.com/2026/04/12/seha-tawam-hospital-debuts-histotripsy-for-non-invasive-liver-cancer-treatment/",
+        "articlePath": "/article.html?issue=2026-04-12&article=2026-04-12-seha-tawam-hospital-debuts-histotripsy-for-non-invasive-liver-cancer-tre"
+      }
+    ],
     "diagnostics": [],
     "healthtech": []
   },
@@ -47,6 +136,46 @@
       "source": "Economic Times Pharma",
       "solution": "THB Commercial Analytics",
       "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
+    },
+    {
+      "segment": "pharma",
+      "articleId": "2026-04-12-vaccine-gaps-fuel-bangladesh-s-deadly-measles-crisis",
+      "title": "Vaccine gaps fuel Bangladesh's deadly measles crisis",
+      "source": "ET Healthworld",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "pharma",
+      "articleId": "2026-04-12-reconsider-mou-with-c-dac-over-his-2-0-centre-directs-pgi",
+      "title": "Reconsider MoU with C-DAC over HIS 2.0, Centre directs PGI",
+      "source": "ET Healthworld",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "pharma",
+      "articleId": "2026-04-12-domestic-pharma-grew-at-8-8-in-fy26-torrent-cipla-surge-ahead-in-the-rs-",
+      "title": "Domestic pharma grew at 8.8% in FY26; Torrent, Cipla surge ahead in the Rs 2.46 lakh crore market",
+      "source": "Financial Express Healthcare",
+      "solution": "THB Commercial Analytics",
+      "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
+    },
+    {
+      "segment": "pharma",
+      "articleId": "2026-04-12-german-cdmo-adragos-acquires-major-sanofi-sterile-injectables-plant-near",
+      "title": "German CDMO Adragos acquires major Sanofi sterile injectables plant near Paris | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
+      "source": "Healthcare MEA",
+      "solution": "THB Commercial Analytics",
+      "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
+    },
+    {
+      "segment": "providers",
+      "articleId": "2026-04-12-seha-tawam-hospital-debuts-histotripsy-for-non-invasive-liver-cancer-tre",
+      "title": "SEHA Tawam Hospital debuts histotripsy for non-invasive liver cancer treatment | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
+      "source": "Healthcare MEA",
+      "solution": "THB Provider CRM",
+      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
     }
   ]
 }
