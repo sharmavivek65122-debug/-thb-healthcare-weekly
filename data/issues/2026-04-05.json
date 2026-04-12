@@ -4,12 +4,12 @@
   "rangeLabel": "Apr 5 - Apr 11, 2026",
   "startDate": "2026-04-04T18:30:00.000Z",
   "endDate": "2026-04-10T18:30:00.000Z",
-  "status": "live",
-  "updatedAt": "2026-04-11T14:07:44.356Z",
+  "status": "published",
+  "updatedAt": "2026-04-12T06:09:19.394Z",
   "coverage": {
-    "pharma": 48,
-    "providers": 16,
-    "diagnostics": 8,
+    "pharma": 50,
+    "providers": 13,
+    "diagnostics": 7,
     "healthtech": 1
   },
   "sourcesUsed": [
@@ -21,8 +21,7 @@
     "Express Healthcare Posts",
     "Healthcare MEA",
     "Medical Dialogues Pharma",
-    "PharmaTutor News",
-    "Zawya Pharmaceuticals"
+    "PharmaTutor News"
   ],
   "segments": {
     "pharma": [
@@ -294,7 +293,7 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-130187012,imgsize-110332,width-1200,height=627,overlay-ethealth,resizemode-75/industry/revolutionary-ai-tool-to-predict-freezing-of-gait-in-parkinsons-patients-developed-by-doctors-in-mumbai.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/revolutionary-ai-tool-to-predict-freezing-of-gait-in-parkinsons-patients-developed-by-doctors-in-mumbai/130187012",
         "articlePath": "/article.html?issue=2026-04-05&article=2026-04-05-docs-developing-ai-tool-to-predict-gait-freezing-in-parkinson-s-patients"
       },
@@ -447,7 +446,7 @@
         "category": "Industry Update",
         "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/04/11140710/New-Project-6.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/blogs/guest-blogs-healthcare/safe-motherhood-as-public-health-infrastructure-rethinking-maternal-care-in-india/453352/",
         "articlePath": "/article.html?issue=2026-04-05&article=2026-04-05-safe-motherhood-as-public-health-infrastructure-rethinking-maternal-care"
       },
@@ -571,23 +570,6 @@
         "articlePath": "/article.html?issue=2026-04-05&article=2026-04-05-aurobindo-pharma-secures-usfda-nod-for-dapagliflozin-metformin-xr-gains-"
       },
       {
-        "id": "2026-04-05-granules-india-s-us-arm-gets-4-usfda-observations",
-        "title": "Granules India's US Arm Gets 4 USFDA Observations",
-        "summary": "New Delhi: Granules India Limited has announced that its US-based subsidiary, Granules Pharmaceuticals, Inc. (GPI), has successfully completed a routine US Food and Drug Administration (USFDA) cGMP...",
-        "source": "Medical Dialogues Pharma",
-        "sourceHost": "medicaldialogues.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-04-07T06:15:57.000Z",
-        "publishedLabel": "April 7, 2026",
-        "category": "Industry Update",
-        "image": "https://medicaldialogues.in/h-upload/2023/01/10/197293-granules-india-1.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/granules-indias-us-arm-gets-4-usfda-observations-168191",
-        "articlePath": "/article.html?issue=2026-04-05&article=2026-04-05-granules-india-s-us-arm-gets-4-usfda-observations"
-      },
-      {
         "id": "2026-04-05-glenmark-secures-usfda-nod-for-progesterone-vaginal-inserts-targets-usd-",
         "title": "Glenmark Secures USFDA Nod for Progesterone Vaginal Inserts, Targets USD 59 Million US Market",
         "summary": "New Delhi: Glenmark Pharmaceuticals has received final approval from the United States Food and Drug Administration (USFDA) for its Progesterone Vaginal Inserts, 100 mg, which are therapeutically and...",
@@ -654,6 +636,23 @@
         "justIn": false,
         "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/lupin-announces-approval-of-dapagliflozin-and-metformin-hydrochloride-extended-release-tablets-in-the-usa",
         "articlePath": "/article.html?issue=2026-04-05&article=2026-04-05-lupin-announces-approval-of-dapagliflozin-and-metformin-hydrochloride-ex"
+      },
+      {
+        "id": "2026-04-05-torrent-pharma-gets-zero-usfda-observations-for-bileshwarpura-oncology-f",
+        "title": "Torrent Pharma Gets Zero USFDA Observations for Bileshwarpura Oncology Facility",
+        "summary": "New Delhi: Torrent Pharmaceuticals Limited has successfully completed a USFDA inspection at its Bileshwarpura oncology manufacturing facility with zero observations, indicating full compliance with...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-04-11T18:03:18.000Z",
+        "publishedLabel": "April 11, 2026",
+        "category": "Manufacturing",
+        "image": "https://medicaldialogues.in/h-upload/2023/01/11/197479-torrent-pharma-3.jpg",
+        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
+        "justIn": false,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/torrent-pharma-gets-zero-usfda-observations-for-bileshwarpura-oncology-facility-168462",
+        "articlePath": "/article.html?issue=2026-04-05&article=2026-04-05-torrent-pharma-gets-zero-usfda-observations-for-bileshwarpura-oncology-f"
       },
       {
         "id": "2026-04-05-aurobindo-arm-curateq-reports-positive-phase-3-results-for-xolair-biosim",
@@ -741,6 +740,57 @@
         "articlePath": "/article.html?issue=2026-04-05&article=2026-04-05-2-5-million-jobs-by-2030-in-pharma-healthcare-as-sector-shifts-to-skill-"
       },
       {
+        "id": "2026-04-05-usfda-rejects-replimune-s-rp1-for-advanced-melanoma-flags-insufficient-d",
+        "title": "USFDA Rejects Replimune's RP1 for Advanced Melanoma, Flags Insufficient Data",
+        "summary": "Bengaluru: The U.S. ​Food and Drug Administration ​on Friday declined to approve Replimune's drug for ​advanced skin cancer citing insufficient data from studies, a letter from the regulator...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-04-11T17:47:13.000Z",
+        "publishedLabel": "April 11, 2026",
+        "category": "Industry Update",
+        "image": "https://medicaldialogues.in/h-upload/2024/11/13/260536-usfda.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": false,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/usfda-rejects-replimunes-rp1-for-advanced-melanoma-flags-insufficient-data-168460",
+        "articlePath": "/article.html?issue=2026-04-05&article=2026-04-05-usfda-rejects-replimune-s-rp1-for-advanced-melanoma-flags-insufficient-d"
+      },
+      {
+        "id": "2026-04-05-mckinsey-to-pay-usd-125-million-in-purdue-opioid-settlement-over-oxycont",
+        "title": "McKinsey to Pay USD 125 Million in Purdue Opioid Settlement Over OxyContin Sales Advice",
+        "summary": "New York: Consulting firm McKinsey & Co has ​agreed to contribute USD 125 million to Purdue Pharma's bankruptcy settlement, resolving potential legal ​claims over advice it provided to Purdue on how...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-04-11T17:32:19.000Z",
+        "publishedLabel": "April 11, 2026",
+        "category": "Industry Update",
+        "image": "https://medicaldialogues.in/h-upload/2026/04/11/341040-mckinsey.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": false,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/mckinsey-to-pay-usd-125-million-in-purdue-opioid-settlement-over-oxycontin-sales-advice-168458",
+        "articlePath": "/article.html?issue=2026-04-05&article=2026-04-05-mckinsey-to-pay-usd-125-million-in-purdue-opioid-settlement-over-oxycont"
+      },
+      {
+        "id": "2026-04-05-pharmacies-deny-loose-tablets-govt-mulls-exact-prescription-quantity-dru",
+        "title": "Pharmacies Deny Loose Tablets: Govt Mulls Exact Prescription Quantity Drug Dispensing, AIOCD Raises...",
+        "summary": "New Delhi: The All India Organisation of Chemists and Druggists Association (AIOCD) has raised concerns regarding the proposal on dispensing exact prescription quantities of strip-packed medicines...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-04-11T09:45:31.000Z",
+        "publishedLabel": "April 11, 2026",
+        "category": "Industry Update",
+        "image": "https://medicaldialogues.in/h-upload/2026/02/09/326373-medicine.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": false,
+        "originalUrl": "https://medicaldialogues.in/news/industry/industry-perspective/pharmacies-deny-loose-tablets-govt-mulls-exact-prescription-quantity-drug-dispensing-aiocd-raises-concerns-168463",
+        "articlePath": "/article.html?issue=2026-04-05&article=2026-04-05-pharmacies-deny-loose-tablets-govt-mulls-exact-prescription-quantity-dru"
+      },
+      {
         "id": "2026-04-05-uk-government-commits-usd4-8m-to-scale-mhra-s-ai-airlock-regulatory-sand",
         "title": "UK government commits USD4.8M to scale MHRA’s \"AI Airlock\" regulatory sandbox | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
         "summary": "Since launching in 2024, AI Airlock has grown steadily, moving beyond its initial pilot phase to tackle increasingly complex regulatory questions.",
@@ -792,38 +842,21 @@
         "articlePath": "/article.html?issue=2026-04-05&article=2026-04-05-fda-approves-first-generic-dapagliflozin-tablets"
       },
       {
-        "id": "2026-04-05-astrazeneca-s-imfinzi-combo-shows-strong-survival-benefit-in-liver-cance",
-        "title": "AstraZeneca's Imfinzi Combo Shows Strong Survival Benefit in Liver Cancer Trial",
-        "summary": "Bengaluru: AstraZeneca said that a combination treatment with its cancer drug Imfinzi showed significant improvement in how long patients with a common liver cancer lived before their disease...",
+        "id": "2026-04-05-china-approves-amgen-s-tarlatamab-imdelltra-for-advanced-small-cell-lung",
+        "title": "China Approves Amgen's Tarlatamab (Imdelltra) for Advanced Small Cell Lung Cancer",
+        "summary": "Shanghai: Amgen's lung cancer drug tarlatamab has won approval from ​China's National Medical Products Administration, its development and commercialisation partner BeOne Medicines said on Friday on...",
         "source": "Medical Dialogues Pharma",
         "sourceHost": "medicaldialogues.in",
         "region": "India",
         "country": "India",
-        "publishedAt": "2026-04-08T13:33:40.000Z",
-        "publishedLabel": "April 8, 2026",
-        "category": "Industry Update",
-        "image": "https://medicaldialogues.in/h-upload/2024/06/17/241275-astrazeneca-50.jpg",
+        "publishedAt": "2026-04-11T17:41:17.000Z",
+        "publishedLabel": "April 11, 2026",
+        "category": "Approval",
+        "image": "https://medicaldialogues.in/h-upload/2024/01/22/230681-amgen-50.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
         "justIn": false,
-        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/astrazenecas-imfinzi-combo-shows-strong-survival-benefit-in-liver-cancer-trial-168266",
-        "articlePath": "/article.html?issue=2026-04-05&article=2026-04-05-astrazeneca-s-imfinzi-combo-shows-strong-survival-benefit-in-liver-cance"
-      },
-      {
-        "id": "2026-04-05-wegovy-hd-rollout-novo-nordisk-introduces-7-2-mg-dose-in-us-market",
-        "title": "Wegovy HD Rollout: Novo Nordisk Introduces 7.2 mg Dose in US Market",
-        "summary": "Bengaluru: Novo Nordisk said on Tuesday that it has made a higher-dose version of its blockbuster weight-loss drug Wegovy available across the United States.The 7.2-milligram dose, ‌branded ⁠as Wegovy...",
-        "source": "Medical Dialogues Pharma",
-        "sourceHost": "medicaldialogues.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-04-08T13:40:15.000Z",
-        "publishedLabel": "April 8, 2026",
-        "category": "Market",
-        "image": "https://medicaldialogues.in/h-upload/2024/01/25/230934-novo-nordisk-50.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/wegovy-hd-rollout-novo-nordisk-introduces-72-mg-dose-in-us-market-168267",
-        "articlePath": "/article.html?issue=2026-04-05&article=2026-04-05-wegovy-hd-rollout-novo-nordisk-introduces-7-2-mg-dose-in-us-market"
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/china-approves-amgens-tarlatamab-imdelltra-for-advanced-small-cell-lung-cancer-168459",
+        "articlePath": "/article.html?issue=2026-04-05&article=2026-04-05-china-approves-amgen-s-tarlatamab-imdelltra-for-advanced-small-cell-lung"
       },
       {
         "id": "2026-04-05-amgen-announced-results-from-a-phase-3-trial-of-tepezza",
@@ -1049,23 +1082,6 @@
         "articlePath": "/article.html?issue=2026-04-05&article=2026-04-05-namibia-s-dbn-injects-usd55-2m-into-500-bed-windhoek-district-hospital-h"
       },
       {
-        "id": "2026-04-05-century-group-joins-african-energy-week-aew-2026-as-floating-production-",
-        "title": "Century Group Joins African Energy Week (AEW) 2026 as Floating Production Storage and Offloading (FPSO) Partner, Showcasing Regional Offshore Expansion",
-        "summary": "Century Group Joins African Energy Week (AEW) 2026 as Floating Production Storage and Offloading (FPSO) Partner, Showcasing Regional Offshore Expansion",
-        "source": "Zawya Pharmaceuticals",
-        "sourceHost": "zawya.com",
-        "region": "Middle East",
-        "country": "Middle East",
-        "publishedAt": "2026-04-10T18:10:05.000Z",
-        "publishedLabel": "April 10, 2026",
-        "category": "Expansion",
-        "image": "https://www.africa-newsroom.com/files/large/b264d9f8612af0d",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
-        "originalUrl": "https://www.zawya.com/en/press-release/africa-press-releases/century-group-joins-african-energy-week-aew-2026-as-floating-production-storage-and-offloading-fpso-partner-djbdtazo",
-        "articlePath": "/article.html?issue=2026-04-05&article=2026-04-05-century-group-joins-african-energy-week-aew-2026-as-floating-production-"
-      },
-      {
         "id": "2026-04-05-africa-cdc-secures-usd310m-strategic-investment-at-lyon-one-health-summi",
         "title": "Africa CDC secures USD310M strategic investment at Lyon One Health Summit",
         "summary": "Implementing these programs under Africa CDC leadership will enhance disease surveillance systems, expand laboratory infrastructure, and foster deeper partnerships with leading European research i ...",
@@ -1081,40 +1097,6 @@
         "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/04/09/africa-cdc-secures-usd310m-strategic-investment-at-lyon-one-health-summit/",
         "articlePath": "/article.html?issue=2026-04-05&article=2026-04-05-africa-cdc-secures-usd310m-strategic-investment-at-lyon-one-health-summi"
-      },
-      {
-        "id": "2026-04-05-seychelles-backs-united-arab-emirates-uae-statement-calls-for-de-escalat",
-        "title": "Seychelles Backs United Arab Emirates (UAE) Statement, Calls for De-escalation and Respect for International Law",
-        "summary": "Seychelles Backs United Arab Emirates (UAE) Statement, Calls for De-escalation and Respect for International Law",
-        "source": "Zawya Pharmaceuticals",
-        "sourceHost": "zawya.com",
-        "region": "Middle East",
-        "country": "United Arab Emirates",
-        "publishedAt": "2026-04-11T13:33:38.000Z",
-        "publishedLabel": "April 11, 2026",
-        "category": "Provider Update",
-        "image": "https://www.africa-newsroom.com/files/large/0104699ef0470ca",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
-        "originalUrl": "https://www.zawya.com/en/press-release/africa-press-releases/seychelles-backs-united-arab-emirates-uae-statement-calls-for-de-escalation-and-respect-for-international-law-dug2n1w5",
-        "articlePath": "/article.html?issue=2026-04-05&article=2026-04-05-seychelles-backs-united-arab-emirates-uae-statement-calls-for-de-escalat"
-      },
-      {
-        "id": "2026-04-05-beyond-the-court-the-kalahari-conference-solidifies-its-status-as-africa",
-        "title": "Beyond the Court: The Kalahari Conference Solidifies its Status as Africa’s Premier Sports & Lifestyle Destination",
-        "summary": "Beyond the Court: The Kalahari Conference Solidifies its Status as Africa’s Premier Sports & Lifestyle Destination",
-        "source": "Zawya Pharmaceuticals",
-        "sourceHost": "zawya.com",
-        "region": "Middle East",
-        "country": "Oman",
-        "publishedAt": "2026-04-10T12:49:04.000Z",
-        "publishedLabel": "April 10, 2026",
-        "category": "Provider Update",
-        "image": "https://www.africa-newsroom.com/files/thumb/75557f03e3505d6/600/418",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
-        "originalUrl": "https://www.zawya.com/en/press-release/africa-press-releases/beyond-the-court-the-kalahari-conference-solidifies-its-status-as-africas-premier-sports-lifestyle-destination-fq6s84a1",
-        "articlePath": "/article.html?issue=2026-04-05&article=2026-04-05-beyond-the-court-the-kalahari-conference-solidifies-its-status-as-africa"
       }
     ],
     "diagnostics": [
@@ -1236,23 +1218,6 @@
         "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/news/beyond-the-white-coat-why-professional-indemnity-insurance-is-essential-for-doctors/453267/",
         "articlePath": "/article.html?issue=2026-04-05&article=2026-04-05-beyond-the-white-coat-why-professional-indemnity-insurance-is-essential-"
-      },
-      {
-        "id": "2026-04-05-rajasthan-flags-spurious-antibiotic-qcepod-200-after-tests-find-no-activ",
-        "title": "Rajasthan Flags Spurious Antibiotic Qcepod 200 After Tests Find No Active Ingredient",
-        "summary": "New Delhi: Rajasthan drug control authorities have issued a statewide alert after laboratory tests found that a widely sold antibiotic, Qcepod 200, contained no active ingredient, rendering it...",
-        "source": "Medical Dialogues Pharma",
-        "sourceHost": "medicaldialogues.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-04-08T01:20:35.000Z",
-        "publishedLabel": "April 8, 2026",
-        "category": "Lab Network",
-        "image": "https://medicaldialogues.in/h-upload/2025/10/28/305875-fake.jpg",
-        "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
-        "justIn": false,
-        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/rajasthan-flags-spurious-antibiotic-qcepod-200-after-tests-find-no-active-ingredient-168189",
-        "articlePath": "/article.html?issue=2026-04-05&article=2026-04-05-rajasthan-flags-spurious-antibiotic-qcepod-200-after-tests-find-no-activ"
       }
     ],
     "healthtech": [

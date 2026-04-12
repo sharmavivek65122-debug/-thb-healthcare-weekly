@@ -5,37 +5,18 @@
   "startDate": "2026-03-07T18:30:00.000Z",
   "endDate": "2026-03-13T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-04-11T14:07:44.356Z",
+  "updatedAt": "2026-04-12T06:09:19.394Z",
   "coverage": {
-    "pharma": 1,
+    "pharma": 0,
     "providers": 11,
     "diagnostics": 0,
     "healthtech": 0
   },
   "sourcesUsed": [
-    "BioSpectrum Asia Middle East",
     "ET Healthworld Hospitals"
   ],
   "segments": {
-    "pharma": [
-      {
-        "id": "2026-03-08-bridging-academic-innovation-and-biomanufacturing-strategy-to-accelerate",
-        "title": "Bridging Academic Innovation And Biomanufacturing Strategy To Accelerate Advanced Therapies In APAC",
-        "summary": "Bridging Academic Innovation And Biomanufacturing Strategy To Accelerate Advanced Therapies In APAC",
-        "source": "BioSpectrum Asia Middle East",
-        "sourceHost": "biospectrumasia.com",
-        "region": "Middle East",
-        "country": "Oman",
-        "publishedAt": "2026-03-12T18:30:00.000Z",
-        "publishedLabel": "March 13, 2026",
-        "category": "Manufacturing",
-        "image": "https://www.biospectrumasia.com/uploads/articles/lucas_chan-27354.jpg",
-        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": false,
-        "originalUrl": "https://www.biospectrumasia.com/news/98/27354/bridging-academic-innovation-and-biomanufacturing-strategy-to-accelerate-advanced-therapies-in-apac.html",
-        "articlePath": "/article.html?issue=2026-03-08&article=2026-03-08-bridging-academic-innovation-and-biomanufacturing-strategy-to-accelerate"
-      }
-    ],
+    "pharma": [],
     "providers": [
       {
         "id": "2026-03-08-superhealth-launches-supersurgery-programme-with-fixed-pricing-zero-doct",
@@ -229,14 +210,6 @@
     "healthtech": []
   },
   "thbActions": [
-    {
-      "segment": "pharma",
-      "articleId": "2026-03-08-bridging-academic-innovation-and-biomanufacturing-strategy-to-accelerate",
-      "title": "Bridging Academic Innovation And Biomanufacturing Strategy To Accelerate Advanced Therapies In APAC",
-      "source": "BioSpectrum Asia Middle East",
-      "solution": "THB Commercial Analytics",
-      "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
-    },
     {
       "segment": "providers",
       "articleId": "2026-03-08-superhealth-launches-supersurgery-programme-with-fixed-pricing-zero-doct",
