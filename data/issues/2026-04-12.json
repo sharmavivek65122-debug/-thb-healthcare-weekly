@@ -5,21 +5,39 @@
   "startDate": "2026-04-11T18:30:00.000Z",
   "endDate": "2026-04-17T18:30:00.000Z",
   "status": "live",
-  "updatedAt": "2026-04-12T14:10:06.878Z",
+  "updatedAt": "2026-04-13T06:30:39.283Z",
   "coverage": {
-    "pharma": 5,
+    "pharma": 12,
     "providers": 1,
-    "diagnostics": 0,
+    "diagnostics": 1,
     "healthtech": 0
   },
   "sourcesUsed": [
     "ET Healthworld",
     "Economic Times Pharma",
     "Financial Express Healthcare",
-    "Healthcare MEA"
+    "Healthcare MEA",
+    "Medical Dialogues Pharma"
   ],
   "segments": {
     "pharma": [
+      {
+        "id": "2026-04-12-social-media-is-abuzz-with-weight-loss-drug-retatrutide-and-longevity-go",
+        "title": "Social media is abuzz with weight-loss drug retatrutide and longevity goals. What is the drug all about?",
+        "summary": "A new weight-loss drug, retatrutide, is generating excitement. This investigational medicine targets three hormone receptors, offering a potential breakthrough for diabetes and obesity. Experts believe it could also contribute to longevity goals. Clinical...",
+        "source": "Economic Times Pharma",
+        "sourceHost": "economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-04-12T18:45:19.000Z",
+        "publishedLabel": "April 13, 2026",
+        "category": "Industry Update",
+        "image": "https://img.etimg.com/thumb/msid-130218427,width-1200,height-630,imgsize-141682,overlay-economictimes/articleshow.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/retatrutide-can-this-shot-make-you-lose-weight-live-longer-too/articleshow/130218334.cms",
+        "articlePath": "/article.html?issue=2026-04-12&article=2026-04-12-social-media-is-abuzz-with-weight-loss-drug-retatrutide-and-longevity-go"
+      },
       {
         "id": "2026-04-12-pharma-and-healthcare-companies-to-face-continued-margin-pressure-hdfc-s",
         "title": "Pharma and healthcare companies to face continued margin pressure: HDFC Securities",
@@ -38,6 +56,23 @@
         "articlePath": "/article.html?issue=2026-04-12&article=2026-04-12-pharma-and-healthcare-companies-to-face-continued-margin-pressure-hdfc-s"
       },
       {
+        "id": "2026-04-12-high-court-relief-to-sun-pharma-ahd-co-barred-from-using-esiraft",
+        "title": "High Court relief to Sun Pharma, Ahd Co barred from using 'Esiraft'",
+        "summary": "Sun Pharmaceutical Industries has received a significant legal victory. The Bombay High Court has stopped Meghmani Lifesciences from using its product mark 'Esiraft'. This decision comes after Sun Pharma alleged trademark infringement and passing off rights...",
+        "source": "Economic Times Pharma",
+        "sourceHost": "economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-04-12T19:42:30.000Z",
+        "publishedLabel": "April 13, 2026",
+        "category": "Industry Update",
+        "image": "https://img.etimg.com/thumb/msid-130220005,width-1200,height-630,imgsize-68650,overlay-economictimes/articleshow.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/bombay-high-court-rules-against-meghmani-lifesciences-in-trademark-dispute-with-sun-pharma/articleshow/130219988.cms",
+        "articlePath": "/article.html?issue=2026-04-12&article=2026-04-12-high-court-relief-to-sun-pharma-ahd-co-barred-from-using-esiraft"
+      },
+      {
         "id": "2026-04-12-vaccine-gaps-fuel-bangladesh-s-deadly-measles-crisis",
         "title": "Vaccine gaps fuel Bangladesh's deadly measles crisis",
         "summary": "Rocking her baby to soothe his searing pain and gasping breaths, 18-year-old Rubia Akhtar Brishti recounts how her son nearly died in Bangladesh's deadly measles outbreak. \"The boy had (a) high fever and found it hard to breathe,\"mopping the fevered brow of...",
@@ -50,7 +85,7 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-130209103,imgsize-69480,width-1200,height=627,overlay-ethealth,resizemode-75/industry/vaccine-gaps-fuel-bangladeshs-deadly-measles-crisis.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/vaccine-gaps-fuel-bangladeshs-deadly-measles-crisis/130209103",
         "articlePath": "/article.html?issue=2026-04-12&article=2026-04-12-vaccine-gaps-fuel-bangladesh-s-deadly-measles-crisis"
       },
@@ -67,7 +102,7 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-130209070,imgsize-144068,width-1200,height=627,overlay-ethealth,resizemode-75/industry/reconsider-mou-with-c-dac-over-his-2-0-centre-directs-pgi.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/reconsider-mou-with-c-dac-over-his-2-0-centre-directs-pgi/130209070",
         "articlePath": "/article.html?issue=2026-04-12&article=2026-04-12-reconsider-mou-with-c-dac-over-his-2-0-centre-directs-pgi"
       },
@@ -84,9 +119,43 @@
         "category": "Market",
         "image": "https://images.financialexpressdigital.com/2026/04/pharma-sector_20251005123023_20251010183352_20251207114147_20260224154327_20260403172243_20260410180905_20260412124411.jpg",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.financialexpress.com/business/news/domestic-pharma-grew-at-8-8-in-fy26-torrent-cipla-surge-ahead-in-the-rs-246-lakh-crore-market/4204881/",
         "articlePath": "/article.html?issue=2026-04-12&article=2026-04-12-domestic-pharma-grew-at-8-8-in-fy26-torrent-cipla-surge-ahead-in-the-rs-"
+      },
+      {
+        "id": "2026-04-12-indian-pharma-market-grows-10-1-to-rs-20-012-cr-in-march-report",
+        "title": "Indian Pharma Market Grows 10.1% to Rs 20,012 Cr in March: Report",
+        "summary": "New Delhi: The Indian Pharmaceutical Market (IPM) registered a value growth of 10.1% in March 2026, reaching Rs 20,012 crore, according to the latest PharmaTrac industry report by Pharmarack.On a...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-04-12T18:51:54.000Z",
+        "publishedLabel": "April 13, 2026",
+        "category": "Market",
+        "image": "https://medicaldialogues.in/h-upload/2025/03/10/277890-202410103240544.jpg",
+        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
+        "justIn": true,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/indian-pharma-market-grows-101-to-rs-20012-cr-in-march-report-168487",
+        "articlePath": "/article.html?issue=2026-04-12&article=2026-04-12-indian-pharma-market-grows-10-1-to-rs-20-012-cr-in-march-report"
+      },
+      {
+        "id": "2026-04-12-nppa-revises-prices-of-piperacillin-tazobactam-injections-sets-ceiling-a",
+        "title": "NPPA Revises Prices of Piperacillin-Tazobactam Injections, Sets Ceiling at Rs 470 per Bag",
+        "summary": "New Delhi: Through a recent notification, the National Pharmaceutical Pricing Authority (NPPA), Ministry of Chemicals and Fertilizers, Government of India, has revised the ceiling prices of...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-04-12T18:15:33.000Z",
+        "publishedLabel": "April 12, 2026",
+        "category": "Industry Update",
+        "image": "https://medicaldialogues.in/h-upload/2024/06/07/240441-nppa.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/nppa-revises-prices-of-piperacillin-tazobactam-injections-sets-ceiling-at-rs-470-per-bag-168488",
+        "articlePath": "/article.html?issue=2026-04-12&article=2026-04-12-nppa-revises-prices-of-piperacillin-tazobactam-injections-sets-ceiling-a"
       },
       {
         "id": "2026-04-12-german-cdmo-adragos-acquires-major-sanofi-sterile-injectables-plant-near",
@@ -101,9 +170,60 @@
         "category": "Manufacturing",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/04/image-1600x900-28.png",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/04/12/german-cdmo-adragos-acquires-major-sanofi-sterile-injectables-plant-near-paris/",
         "articlePath": "/article.html?issue=2026-04-12&article=2026-04-12-german-cdmo-adragos-acquires-major-sanofi-sterile-injectables-plant-near"
+      },
+      {
+        "id": "2026-04-12-bombay-hc-upholds-fda-action-in-spurious-anti-venom-case-against-aarav-p",
+        "title": "Bombay HC Upholds FDA Action in Spurious Anti-Venom Case Against Aarav Pharma",
+        "summary": "New Delhi: In a significant reaffirmation of regulatory authority in matters of public health and drug safety, the Bombay High Court has dismissed a petition filed by Aarav Pharma challenging a...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-04-12T18:52:35.000Z",
+        "publishedLabel": "April 13, 2026",
+        "category": "Industry Update",
+        "image": "https://medicaldialogues.in/h-upload/2022/11/02/189703-bombay-high.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/bombay-hc-upholds-fda-action-in-spurious-anti-venom-case-against-aarav-pharma-168486",
+        "articlePath": "/article.html?issue=2026-04-12&article=2026-04-12-bombay-hc-upholds-fda-action-in-spurious-anti-venom-case-against-aarav-p"
+      },
+      {
+        "id": "2026-04-12-c4-therapeutics-roche-ink-usd-1-billion-cancer-drug-deal-for-novel-dac-t",
+        "title": "C4 Therapeutics, Roche Ink USD 1 Billion Cancer Drug Deal for Novel DAC Therapies",
+        "summary": "New Delhi: C4 Therapeutics, opens new tab said on Thursday it has entered into a deal ​focused on research and development of ‌a type of cancer drug with Swiss drugmaker Roche, opens new tab that...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-04-12T18:50:21.000Z",
+        "publishedLabel": "April 13, 2026",
+        "category": "Deal",
+        "image": "https://medicaldialogues.in/h-upload/2024/01/20/230600-roche-50.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/c4-therapeutics-roche-ink-usd-1-billion-cancer-drug-deal-for-novel-dac-therapies-168484",
+        "articlePath": "/article.html?issue=2026-04-12&article=2026-04-12-c4-therapeutics-roche-ink-usd-1-billion-cancer-drug-deal-for-novel-dac-t"
+      },
+      {
+        "id": "2026-04-12-gland-pharma-reappoints-naina-lal-kidwai-as-independent-director-for-sec",
+        "title": "Gland Pharma Reappoints Naina Lal Kidwai as Independent Director for Second Term",
+        "summary": "New Delhi: Gland Pharma Limited has approved the re-appointment of Naina Lal Kidwai as an Independent Director for a second term of five consecutive years from May 17, 2026 to May 16, 2031.The...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-04-12T18:51:00.000Z",
+        "publishedLabel": "April 13, 2026",
+        "category": "Industry Update",
+        "image": "https://medicaldialogues.in/h-upload/2023/01/10/197311-gland-pharma.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/gland-pharma-reappoints-naina-lal-kidwai-as-independent-director-for-second-term-168485",
+        "articlePath": "/article.html?issue=2026-04-12&article=2026-04-12-gland-pharma-reappoints-naina-lal-kidwai-as-independent-director-for-sec"
       }
     ],
     "providers": [
@@ -125,10 +245,36 @@
         "articlePath": "/article.html?issue=2026-04-12&article=2026-04-12-seha-tawam-hospital-debuts-histotripsy-for-non-invasive-liver-cancer-tre"
       }
     ],
-    "diagnostics": [],
+    "diagnostics": [
+      {
+        "id": "2026-04-12-sanofi-s-thyrotropin-alfa-label-update-cdsco-panel-recommends-new-prescr",
+        "title": "Sanofi's Thyrotropin Alfa Label Update: CDSCO Panel Recommends New Prescription Warning, Limits Sale to...",
+        "summary": "New Delhi: The Subject Expert Committee (SEC) under the Central Drugs Standard Control Organisation (CDSCO) has approved an amendment in the warning statement of Thyrotropin Alfa lyophilized powder...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-04-12T18:49:43.000Z",
+        "publishedLabel": "April 13, 2026",
+        "category": "Lab Network",
+        "image": "https://medicaldialogues.in/h-upload/2023/01/10/197328-sanofi-3.jpg",
+        "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
+        "justIn": false,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/cdsco/sanofis-thyrotropin-alfa-label-update-cdsco-panel-recommends-new-prescription-warning-limits-sale-to-specialists-only-168483",
+        "articlePath": "/article.html?issue=2026-04-12&article=2026-04-12-sanofi-s-thyrotropin-alfa-label-update-cdsco-panel-recommends-new-prescr"
+      }
+    ],
     "healthtech": []
   },
   "thbActions": [
+    {
+      "segment": "pharma",
+      "articleId": "2026-04-12-social-media-is-abuzz-with-weight-loss-drug-retatrutide-and-longevity-go",
+      "title": "Social media is abuzz with weight-loss drug retatrutide and longevity goals. What is the drug all about?",
+      "source": "Economic Times Pharma",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
     {
       "segment": "pharma",
       "articleId": "2026-04-12-pharma-and-healthcare-companies-to-face-continued-margin-pressure-hdfc-s",
@@ -136,6 +282,14 @@
       "source": "Economic Times Pharma",
       "solution": "THB Commercial Analytics",
       "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
+    },
+    {
+      "segment": "pharma",
+      "articleId": "2026-04-12-high-court-relief-to-sun-pharma-ahd-co-barred-from-using-esiraft",
+      "title": "High Court relief to Sun Pharma, Ahd Co barred from using 'Esiraft'",
+      "source": "Economic Times Pharma",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
     },
     {
       "segment": "pharma",
@@ -154,28 +308,20 @@
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
     },
     {
-      "segment": "pharma",
-      "articleId": "2026-04-12-domestic-pharma-grew-at-8-8-in-fy26-torrent-cipla-surge-ahead-in-the-rs-",
-      "title": "Domestic pharma grew at 8.8% in FY26; Torrent, Cipla surge ahead in the Rs 2.46 lakh crore market",
-      "source": "Financial Express Healthcare",
-      "solution": "THB Commercial Analytics",
-      "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
-    },
-    {
-      "segment": "pharma",
-      "articleId": "2026-04-12-german-cdmo-adragos-acquires-major-sanofi-sterile-injectables-plant-near",
-      "title": "German CDMO Adragos acquires major Sanofi sterile injectables plant near Paris | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
-      "source": "Healthcare MEA",
-      "solution": "THB Commercial Analytics",
-      "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
-    },
-    {
       "segment": "providers",
       "articleId": "2026-04-12-seha-tawam-hospital-debuts-histotripsy-for-non-invasive-liver-cancer-tre",
       "title": "SEHA Tawam Hospital debuts histotripsy for non-invasive liver cancer treatment | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
       "source": "Healthcare MEA",
       "solution": "THB Provider CRM",
       "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
+    },
+    {
+      "segment": "diagnostics",
+      "articleId": "2026-04-12-sanofi-s-thyrotropin-alfa-label-update-cdsco-panel-recommends-new-prescr",
+      "title": "Sanofi's Thyrotropin Alfa Label Update: CDSCO Panel Recommends New Prescription Warning, Limits Sale to...",
+      "source": "Medical Dialogues Pharma",
+      "solution": "THB Diagnostics CRM",
+      "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
     }
   ]
 }
