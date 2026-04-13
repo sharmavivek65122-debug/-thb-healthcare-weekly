@@ -5,12 +5,12 @@
   "startDate": "2026-04-04T18:30:00.000Z",
   "endDate": "2026-04-10T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-04-13T06:30:39.283Z",
+  "updatedAt": "2026-04-13T15:03:19.543Z",
   "coverage": {
-    "pharma": 41,
+    "pharma": 31,
     "providers": 11,
     "diagnostics": 8,
-    "healthtech": 1
+    "healthtech": 0
   },
   "sourcesUsed": [
     "ET Healthworld",
@@ -180,23 +180,6 @@
         "articlePath": "/article.html?issue=2026-04-05&article=2026-04-05-iran-conflict-pharma-supply-chains-may-take-months-to-recover"
       },
       {
-        "id": "2026-04-05-india-s-heart-care-needs-more-than-cutting-edge-stents",
-        "title": "India’s Heart Care Needs More Than Cutting-Edge Stents",
-        "summary": "Experts highlight that while technological innovations are reducing repeat procedures and enabling more personalised treatment decisions, long-term success still hinges on patient adherence, lifestyle changes, and a collaborative, patient-centric “heart team”...",
-        "source": "ET Healthworld",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-04-10T10:03:44.000Z",
-        "publishedLabel": "April 10, 2026",
-        "category": "Industry Update",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-130166044,imgsize-93586,width-1200,height=627,overlay-ethealth,resizemode-75/industry/indias-heart-care-needs-more-than-cutting-edge-stents.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/indias-heart-care-needs-more-than-cutting-edge-stents/130166044",
-        "articlePath": "/article.html?issue=2026-04-05&article=2026-04-05-india-s-heart-care-needs-more-than-cutting-edge-stents"
-      },
-      {
         "id": "2026-04-05-govt-ramps-up-feedstock-supplies-to-pharma-sector-amid-west-asia-disrupt",
         "title": "Govt ramps up feedstock supplies to pharma sector amid West Asia disruptions",
         "summary": "India's government is boosting petrochemical feedstock for drug makers. This ensures essential medicines remain available as global supply chains face disruptions. Indian refiners are now supplying key inputs like propylene, ammonia, and methanol. Customs...",
@@ -265,40 +248,6 @@
         "articlePath": "/article.html?issue=2026-04-05&article=2026-04-05-docs-developing-ai-tool-to-predict-gait-freezing-in-parkinson-s-patients"
       },
       {
-        "id": "2026-04-05-empanelled-hospitals-may-exit-ayushman-scheme-if-payment-issues-remain-u",
-        "title": "Empanelled hospitals may exit Ayushman scheme if payment issues remain unresolved: IMA Haryana",
-        "summary": "In a letter dated April 10, 2026, addressed to the CEO of the Ayushman Bharat Health Protection Authority, Haryana, the association highlighted multiple operational and financial challenges being faced by hospitals under the scheme.",
-        "source": "ET Healthworld",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-04-11T02:35:57.000Z",
-        "publishedLabel": "April 11, 2026",
-        "category": "Industry Update",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-130183160,imgsize-159944,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/empanelled-hospitals-may-exit-ayushman-scheme-if-payment-issues-remain-unresolved-ima-haryana.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/empanelled-hospitals-may-exit-ayushman-scheme-if-payment-issues-remain-unresolved-ima-haryana/130183160",
-        "articlePath": "/article.html?issue=2026-04-05&article=2026-04-05-empanelled-hospitals-may-exit-ayushman-scheme-if-payment-issues-remain-u"
-      },
-      {
-        "id": "2026-04-05-rs-400-cr-rml-block-waiting-for-power-for-over-a-year",
-        "title": "Rs 400 cr RML block waiting for power for over a year",
-        "summary": "The foundation stone for the project was laid in Aug 2019, and it received formal approval in 2020. Initially expected to be completed within two to three years, the structure was ready by March 2024. By early 2025, nearly all finishing work had been...",
-        "source": "ET Healthworld",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-04-11T02:14:50.000Z",
-        "publishedLabel": "April 11, 2026",
-        "category": "Approval",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-130183081,imgsize-3436996,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/rs-400-cr-rml-block-waiting-for-power-for-over-a-year.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/rs-400-cr-rml-block-waiting-for-power-for-over-a-year/130183081",
-        "articlePath": "/article.html?issue=2026-04-05&article=2026-04-05-rs-400-cr-rml-block-waiting-for-power-for-over-a-year"
-      },
-      {
         "id": "2026-04-05-doctors-seek-implementation-of-next-for-mbbs-students",
         "title": "Doctors seek implementation of NExT for MBBS students",
         "summary": "In an editorial published last month in the Journal of Family Medicine and Primary Care, titled \"Immediate NExT rollout is vital for MBBS students and the medical education ecosystem of India\", the doctors said current undergraduate medical assessments are...",
@@ -348,23 +297,6 @@
         "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/news/healthcare-doesnt-have-a-talent-problem-it-has-a-hiring-problem/453340/",
         "articlePath": "/article.html?issue=2026-04-05&article=2026-04-05-healthcare-doesn-t-have-a-talent-problem-it-has-a-hiring-problem"
-      },
-      {
-        "id": "2026-04-05-aiims-new-delhi-partners-with-medisim-vr-to-drive-adoption-of-vr-skill-t",
-        "title": "AIIMS New Delhi partners with MediSim VR to drive adoption of VR skill training in medical education",
-        "summary": "MediSim VR announced its partnership with the All India Institute of Medical Sciences (AIIMS), New Delhi, to integrate its AI-enabled Virtual Reality solutions into medical and nursing education. This collaboration […]",
-        "source": "Express Healthcare Posts",
-        "sourceHost": "expresshealthcare.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-04-07T06:48:56.000Z",
-        "publishedLabel": "April 7, 2026",
-        "category": "Partnership",
-        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/04/07121841/EH_AIIMS.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://www.expresshealthcare.in/news/aiims-new-delhi-partners-with-medisim-vr-to-drive-adoption-of-vr-skill-training-in-medical-education/453297/",
-        "articlePath": "/article.html?issue=2026-04-05&article=2026-04-05-aiims-new-delhi-partners-with-medisim-vr-to-drive-adoption-of-vr-skill-t"
       },
       {
         "id": "2026-04-05-beyond-survival-why-india-must-make-mobility-a-public-health-priority",
@@ -418,23 +350,6 @@
         "articlePath": "/article.html?issue=2026-04-05&article=2026-04-05-why-india-needs-a-health-score-not-just-a-credit-score"
       },
       {
-        "id": "2026-04-05-biocon-launches-denosumab-biosimilars-bosaya-aukelso-in-us",
-        "title": "Biocon Launches Denosumab Biosimilars Bosaya, Aukelso in US",
-        "summary": "New Delhi: Biocon Limited has announced the commercial launch of its denosumab biosimilars, Bosaya and Aukelso, in the United States, marking a significant expansion of its biosimilars portfolio in...",
-        "source": "Medical Dialogues Pharma",
-        "sourceHost": "medicaldialogues.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-04-09T15:03:16.000Z",
-        "publishedLabel": "April 9, 2026",
-        "category": "Launch",
-        "image": "https://medicaldialogues.in/h-upload/2025/01/03/267433-biocon-50-1.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/biocon-launches-denosumab-biosimilars-bosaya-aukelso-in-us-168329",
-        "articlePath": "/article.html?issue=2026-04-05&article=2026-04-05-biocon-launches-denosumab-biosimilars-bosaya-aukelso-in-us"
-      },
-      {
         "id": "2026-04-05-sun-pharma-plans-usd-12-billion-organon-acquisition-prepares-binding-bid",
         "title": "Sun Pharma Plans USD 12 Billion Organon Acquisition, Prepares Binding Bid: Report",
         "summary": "Mumbai: Sun Pharmaceutical Industries is preparing to submit a binding offer of around USD 12 billion to acquire Organon & Co., in what could become the largest overseas acquisition by an Indian...",
@@ -469,40 +384,6 @@
         "articlePath": "/article.html?issue=2026-04-05&article=2026-04-05-lupin-gets-usfda-approval-for-xigduo-xr-generic-dapagliflozin-metformin-"
       },
       {
-        "id": "2026-04-05-jeito-capital-closes-usd1-2b-second-fund-to-support-european-biopharma-b",
-        "title": "Jeito Capital closes USD1.2B second fund to support European biopharma breakthroughs | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
-        "summary": "Jeito II will back between 15 and 20 clinical-stage biopharma companies, primarily in Europe, with average investments of up to €150 million (USD180 million) per company",
-        "source": "Healthcare MEA",
-        "sourceHost": "healthcaremea.com",
-        "region": "Middle East",
-        "country": "Middle East",
-        "publishedAt": "2026-04-10T07:48:02.000Z",
-        "publishedLabel": "April 10, 2026",
-        "category": "Manufacturing",
-        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/04/image-1600x900-2026-04-10T103657.409.png",
-        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": false,
-        "originalUrl": "https://www.healthcaremea.com/2026/04/10/jeito-capital-closes-usd1-2b-second-fund-to-support-european-biopharma-breakthroughs/",
-        "articlePath": "/article.html?issue=2026-04-05&article=2026-04-05-jeito-capital-closes-usd1-2b-second-fund-to-support-european-biopharma-b"
-      },
-      {
-        "id": "2026-04-05-lupin-zydus-secure-usfda-nod-for-dapagliflozin-tablets",
-        "title": "Lupin, Zydus Secure USFDA Nod for Dapagliflozin Tablets",
-        "summary": "New Delhi: Lupin Limited and Zydus Lifesciences Limited have received approval from the United States Food and Drug Administration (USFDA) for Dapagliflozin Tablets, 5 mg and 10 mg, strengthening...",
-        "source": "Medical Dialogues Pharma",
-        "sourceHost": "medicaldialogues.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-04-09T12:20:55.000Z",
-        "publishedLabel": "April 9, 2026",
-        "category": "Approval",
-        "image": "https://medicaldialogues.in/h-upload/2025/08/07/297167-dapagliflozin.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/lupin-zydus-secure-usfda-nod-for-dapagliflozin-tablets-168323",
-        "articlePath": "/article.html?issue=2026-04-05&article=2026-04-05-lupin-zydus-secure-usfda-nod-for-dapagliflozin-tablets"
-      },
-      {
         "id": "2026-04-05-glenmark-secures-usfda-nod-for-progesterone-vaginal-inserts-targets-usd-",
         "title": "Glenmark Secures USFDA Nod for Progesterone Vaginal Inserts, Targets USD 59 Million US Market",
         "summary": "New Delhi: Glenmark Pharmaceuticals has received final approval from the United States Food and Drug Administration (USFDA) for its Progesterone Vaginal Inserts, 100 mg, which are therapeutically and...",
@@ -518,23 +399,6 @@
         "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/glenmark-secures-usfda-nod-for-progesterone-vaginal-inserts-targets-usd-59-million-us-market-168408",
         "articlePath": "/article.html?issue=2026-04-05&article=2026-04-05-glenmark-secures-usfda-nod-for-progesterone-vaginal-inserts-targets-usd-"
-      },
-      {
-        "id": "2026-04-05-domestic-pharma-growth-strong-us-market-drag-to-weigh-on-q4fy26-earnings",
-        "title": "Domestic Pharma Growth Strong, US Market Drag to Weigh on Q4FY26 Earnings: Report",
-        "summary": "New Delhi: India's pharmaceutical sector is likely to witness steady domestic growth but continued pressure in the US market in the fourth quarter of FY26, according to a report by Nuvama...",
-        "source": "Medical Dialogues Pharma",
-        "sourceHost": "medicaldialogues.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-04-10T15:31:30.000Z",
-        "publishedLabel": "April 10, 2026",
-        "category": "Market",
-        "image": "https://medicaldialogues.in/h-upload/2024/10/28/258521-medicine-7.jpg",
-        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": false,
-        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/domestic-pharma-growth-strong-us-market-drag-to-weigh-on-q4fy26-earnings-report-168405",
-        "articlePath": "/article.html?issue=2026-04-05&article=2026-04-05-domestic-pharma-growth-strong-us-market-drag-to-weigh-on-q4fy26-earnings"
       },
       {
         "id": "2026-04-05-lupin-announces-approval-of-dapagliflozin-and-metformin-hydrochloride-ex",
@@ -639,40 +503,6 @@
         "articlePath": "/article.html?issue=2026-04-05&article=2026-04-05-pharmacies-deny-loose-tablets-govt-mulls-exact-prescription-quantity-dru"
       },
       {
-        "id": "2026-04-05-uk-government-commits-usd4-8m-to-scale-mhra-s-ai-airlock-regulatory-sand",
-        "title": "UK government commits USD4.8M to scale MHRA’s \"AI Airlock\" regulatory sandbox | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
-        "summary": "Since launching in 2024, AI Airlock has grown steadily, moving beyond its initial pilot phase to tackle increasingly complex regulatory questions.",
-        "source": "Healthcare MEA",
-        "sourceHost": "healthcaremea.com",
-        "region": "Middle East",
-        "country": "Middle East",
-        "publishedAt": "2026-04-10T07:08:52.000Z",
-        "publishedLabel": "April 10, 2026",
-        "category": "Manufacturing",
-        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/04/image-1600x900-2026-04-10T100512.424.png",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://www.healthcaremea.com/2026/04/10/uk-government-commits-usd4-8m-to-scale-mhras-ai-airlock-regulatory-sandbox/",
-        "articlePath": "/article.html?issue=2026-04-05&article=2026-04-05-uk-government-commits-usd4-8m-to-scale-mhra-s-ai-airlock-regulatory-sand"
-      },
-      {
-        "id": "2026-04-05-lokayukta-raids-assistant-drug-controller-unearths-rs-3-37-crore-disprop",
-        "title": "Lokayukta Raids Assistant Drug Controller, Unearths Rs 3.37 Crore Disproportionate Assets",
-        "summary": "Mangaluru: Officials from the Karnataka Lokayukta on Tuesday carried out coordinated raids at the office, residences, and other properties linked to Assistant Drug Controller Babu B N, who is posted...",
-        "source": "Medical Dialogues Pharma",
-        "sourceHost": "medicaldialogues.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-04-09T12:07:08.000Z",
-        "publishedLabel": "April 9, 2026",
-        "category": "Industry Update",
-        "image": "https://medicaldialogues.in/h-upload/2025/05/06/285723-raid.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/lokayukta-raids-assistant-drug-controller-unearths-rs-337-crore-disproportionate-assets-168317",
-        "articlePath": "/article.html?issue=2026-04-05&article=2026-04-05-lokayukta-raids-assistant-drug-controller-unearths-rs-3-37-crore-disprop"
-      },
-      {
         "id": "2026-04-05-fda-approves-first-generic-dapagliflozin-tablets",
         "title": "FDA approves First Generic Dapagliflozin Tablets",
         "summary": "U.S. Food and Drug Administration approved the first generics of FARXIGA (dapagliflozin) tablets to reduce the risk of hospitalization for heart failure in adults with type 2 diabetes mellitus and either established cardiovascular disease or multiple...",
@@ -725,6 +555,40 @@
       }
     ],
     "providers": [
+      {
+        "id": "2026-04-05-rs-400-cr-rml-block-waiting-for-power-for-over-a-year",
+        "title": "Rs 400 cr RML block waiting for power for over a year",
+        "summary": "The foundation stone for the project was laid in Aug 2019, and it received formal approval in 2020. Initially expected to be completed within two to three years, the structure was ready by March 2024. By early 2025, nearly all finishing work had been...",
+        "source": "ET Healthworld Hospitals",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-04-11T02:14:50.000Z",
+        "publishedLabel": "April 11, 2026",
+        "category": "AI Care Delivery",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-130183081,imgsize-3436996,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/rs-400-cr-rml-block-waiting-for-power-for-over-a-year.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": false,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/rs-400-cr-rml-block-waiting-for-power-for-over-a-year/130183081",
+        "articlePath": "/article.html?issue=2026-04-05&article=2026-04-05-rs-400-cr-rml-block-waiting-for-power-for-over-a-year"
+      },
+      {
+        "id": "2026-04-05-empanelled-hospitals-may-exit-ayushman-scheme-if-payment-issues-remain-u",
+        "title": "Empanelled hospitals may exit Ayushman scheme if payment issues remain unresolved: IMA Haryana",
+        "summary": "In a letter dated April 10, 2026, addressed to the CEO of the Ayushman Bharat Health Protection Authority, Haryana, the association highlighted multiple operational and financial challenges being faced by hospitals under the scheme.",
+        "source": "ET Healthworld Hospitals",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-04-11T02:35:57.000Z",
+        "publishedLabel": "April 11, 2026",
+        "category": "Hospital",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-130183160,imgsize-159944,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/empanelled-hospitals-may-exit-ayushman-scheme-if-payment-issues-remain-unresolved-ima-haryana.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": false,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/empanelled-hospitals-may-exit-ayushman-scheme-if-payment-issues-remain-unresolved-ima-haryana/130183160",
+        "articlePath": "/article.html?issue=2026-04-05&article=2026-04-05-empanelled-hospitals-may-exit-ayushman-scheme-if-payment-issues-remain-u"
+      },
       {
         "id": "2026-04-05-ihh-healthcare-aims-to-hike-its-stake-in-fortis-to-50-ceo-prem-kumar-nai",
         "title": "IHH Healthcare aims to hike its stake in Fortis to 50%: CEO Prem Kumar Nair",
@@ -797,7 +661,7 @@
         "id": "2026-04-05-healthcare-major-qcil-signs-solar-power-pacts-with-ampin-and-radiance-fo",
         "title": "Healthcare major QCIL signs solar power pacts with AMPIN and Radiance for multi-state hospital network",
         "summary": "Quality Care India Ltd. (QCIL), one of India’s leading healthcare platforms, announced the signing of agreements with AMPIN Energy and Radiance Renewables under its Group Captive Solar Initiative. The agreements […]",
-        "source": "Express Healthcare",
+        "source": "Express Healthcare Posts",
         "sourceHost": "expresshealthcare.in",
         "region": "India",
         "country": "India",
@@ -814,7 +678,7 @@
         "id": "2026-04-05-oral-healthcare-chain-eka-dental-care-plans-25-clinics-by-fy27",
         "title": "Oral Healthcare Chain, Eka Dental Care plans 25+ Clinics by FY27",
         "summary": "India’s healthcare market, especially oral care, is quite fragmented – from economic local clinics, to premium oral care wings at multispecialty hospitals. Brands like Eka Dental Care offer the consistency […]",
-        "source": "Express Healthcare",
+        "source": "Express Healthcare Posts",
         "sourceHost": "expresshealthcare.in",
         "region": "India",
         "country": "India",
@@ -843,23 +707,6 @@
         "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/news/how-ai-can-power-indias-next-public-health-leap/453031/",
         "articlePath": "/article.html?issue=2026-04-05&article=2026-04-05-how-ai-can-power-india-s-next-public-health-leap"
-      },
-      {
-        "id": "2026-04-05-world-health-day-2026-why-prevention-is-the-strongest-line-of-defense-in",
-        "title": "World health day 2026: Why prevention is the strongest line of defense in modern healthcare",
-        "summary": "As the healthcare system is evolving on a global basis, World Health Day 2026 indicates a very critical reality – In today’s time most of the major healthcare conditions are […]",
-        "source": "Express Healthcare Posts",
-        "sourceHost": "expresshealthcare.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-04-07T09:43:05.000Z",
-        "publishedLabel": "April 7, 2026",
-        "category": "Provider Update",
-        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2019/09/30180030/World-Heart-Day-2.jpg",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://www.expresshealthcare.in/news/world-health-day-2026-why-prevention-is-the-strongest-line-of-defense-in-modern-healthcare/453303/",
-        "articlePath": "/article.html?issue=2026-04-05&article=2026-04-05-world-health-day-2026-why-prevention-is-the-strongest-line-of-defense-in"
       },
       {
         "id": "2026-04-05-stroke-recovery-remains-a-costly-burden-as-rehabilitation-lacks-insuranc",
@@ -894,23 +741,6 @@
         "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/04/10/johns-hopkins-aramco-healthcare-wins-prestigious-amyaz-award-for-healthcare-excellence-in-saudi-arabia/",
         "articlePath": "/article.html?issue=2026-04-05&article=2026-04-05-johns-hopkins-aramco-healthcare-wins-prestigious-amyaz-award-for-healthc"
-      },
-      {
-        "id": "2026-04-05-dubai-s-dp-world-launches-premium-primary-care-clinic-for-residents-heal",
-        "title": "Dubai's DP World launches premium primary care clinic for residents | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
-        "summary": "The facility provides a full range of primary care services, from acute conditions and chronic disease management to preventive health, all delivered in a calm, private clinical environment.",
-        "source": "Healthcare MEA",
-        "sourceHost": "healthcaremea.com",
-        "region": "Middle East",
-        "country": "United Arab Emirates",
-        "publishedAt": "2026-04-10T08:04:17.000Z",
-        "publishedLabel": "April 10, 2026",
-        "category": "AI Care Delivery",
-        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/04/image-1600x900-2026-04-10T110109.561.png",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://www.healthcaremea.com/2026/04/10/dubais-dp-world-launches-premium-primary-care-clinic-for-residents/",
-        "articlePath": "/article.html?issue=2026-04-05&article=2026-04-05-dubai-s-dp-world-launches-premium-primary-care-clinic-for-residents-heal"
       }
     ],
     "diagnostics": [
@@ -986,7 +816,7 @@
         "id": "2026-04-05-metropolis-arsh-initiative-reaches-3-25-lakh-adolescents-across-1-000-vi",
         "title": "Metropolis’ ARSH Initiative reaches 3.25 lakh adolescents across 1,000+ villages and 371 panchayats",
         "summary": "Metropolis Healthcare, India’s second largest and the most respected pathology laboratory chain, successfully hosted the second edition of the Adolescent Reproductive and Sexual Health (ARSH) Conclave in Mumbai. As part […]",
-        "source": "Express Healthcare",
+        "source": "Express Healthcare Posts",
         "sourceHost": "expresshealthcare.in",
         "region": "India",
         "country": "India",
@@ -1051,25 +881,7 @@
         "articlePath": "/article.html?issue=2026-04-05&article=2026-04-05-beyond-the-white-coat-why-professional-indemnity-insurance-is-essential-"
       }
     ],
-    "healthtech": [
-      {
-        "id": "2026-04-05-innovaccer-partners-with-infinia-to-develop-abu-dhabi-s-ai-driven-health",
-        "title": "Innovaccer partners with Infinia to develop Abu Dhabi’s AI-driven healthcare core",
-        "summary": "The partnership seeks to unify healthcare data and convert it into actionable insights that healthcare providers, insurance companies, and government agencies can leverage.",
-        "source": "Healthcare MEA",
-        "sourceHost": "healthcaremea.com",
-        "region": "Middle East",
-        "country": "United Arab Emirates",
-        "publishedAt": "2026-04-10T08:45:24.000Z",
-        "publishedLabel": "April 10, 2026",
-        "category": "AI",
-        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/04/image-1600x900-2026-04-10T114104.572.png",
-        "thbAction": "",
-        "justIn": false,
-        "originalUrl": "https://www.healthcaremea.com/2026/04/10/innovaccer-partners-with-infinia-to-develop-abu-dhabis-ai-driven-healthcare-core/",
-        "articlePath": "/article.html?issue=2026-04-05&article=2026-04-05-innovaccer-partners-with-infinia-to-develop-abu-dhabi-s-ai-driven-health"
-      }
-    ]
+    "healthtech": []
   },
   "thbActions": [
     {
@@ -1114,6 +926,22 @@
     },
     {
       "segment": "providers",
+      "articleId": "2026-04-05-rs-400-cr-rml-block-waiting-for-power-for-over-a-year",
+      "title": "Rs 400 cr RML block waiting for power for over a year",
+      "source": "ET Healthworld Hospitals",
+      "solution": "THB Provider CRM",
+      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
+    },
+    {
+      "segment": "providers",
+      "articleId": "2026-04-05-empanelled-hospitals-may-exit-ayushman-scheme-if-payment-issues-remain-u",
+      "title": "Empanelled hospitals may exit Ayushman scheme if payment issues remain unresolved: IMA Haryana",
+      "source": "ET Healthworld Hospitals",
+      "solution": "THB Provider CRM",
+      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
+    },
+    {
+      "segment": "providers",
       "articleId": "2026-04-05-ihh-healthcare-aims-to-hike-its-stake-in-fortis-to-50-ceo-prem-kumar-nai",
       "title": "IHH Healthcare aims to hike its stake in Fortis to 50%: CEO Prem Kumar Nair",
       "source": "ET Healthworld Hospitals",
@@ -1132,22 +960,6 @@
       "segment": "providers",
       "articleId": "2026-04-05-yatharth-hospital-launches-advanced-brain-stimulation-centre",
       "title": "Yatharth Hospital launches advanced brain stimulation centre",
-      "source": "Express Healthcare",
-      "solution": "THB Provider CRM",
-      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
-    },
-    {
-      "segment": "providers",
-      "articleId": "2026-04-05-mlhealth360-partners-with-government-of-mp-to-pilot-ai-driven-radiology-",
-      "title": "mlHealth360 partners with Government of MP to pilot AI-driven radiology in public hospitals",
-      "source": "Express Healthcare",
-      "solution": "THB Provider CRM",
-      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
-    },
-    {
-      "segment": "providers",
-      "articleId": "2026-04-05-healthcare-major-qcil-signs-solar-power-pacts-with-ampin-and-radiance-fo",
-      "title": "Healthcare major QCIL signs solar power pacts with AMPIN and Radiance for multi-state hospital network",
       "source": "Express Healthcare",
       "solution": "THB Provider CRM",
       "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
@@ -1188,7 +1000,7 @@
       "segment": "diagnostics",
       "articleId": "2026-04-05-metropolis-arsh-initiative-reaches-3-25-lakh-adolescents-across-1-000-vi",
       "title": "Metropolis’ ARSH Initiative reaches 3.25 lakh adolescents across 1,000+ villages and 371 panchayats",
-      "source": "Express Healthcare",
+      "source": "Express Healthcare Posts",
       "solution": "THB Diagnostics CRM",
       "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
     }
