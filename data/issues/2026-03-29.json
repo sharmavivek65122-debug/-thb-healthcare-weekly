@@ -5,15 +5,14 @@
   "startDate": "2026-03-28T18:30:00.000Z",
   "endDate": "2026-04-03T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-04-13T15:03:19.543Z",
+  "updatedAt": "2026-04-14T06:16:08.434Z",
   "coverage": {
-    "pharma": 11,
+    "pharma": 9,
     "providers": 4,
     "diagnostics": 1,
     "healthtech": 0
   },
   "sourcesUsed": [
-    "BioSpectrum Asia Middle East",
     "ET Healthworld Diagnostics",
     "ET Healthworld Hospitals",
     "Economic Times Pharma",
@@ -56,23 +55,6 @@
         "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/work-on-reducing-import-dependence-for-raw-materials-commerce-secretary-rajesh-agrawal-to-pharma-industry/articleshow/130020252.cms",
         "articlePath": "/article.html?issue=2026-03-29&article=2026-03-29-work-on-reducing-import-dependence-for-raw-materials-commerce-secretary-"
-      },
-      {
-        "id": "2026-03-29-india-s-pharma-exports-stay-resilient-amid-global-headwinds-near-29-bill",
-        "title": "India’s pharma exports stay resilient amid global headwinds, near $29 billion mark",
-        "summary": "Indian pharmaceutical exports are performing strongly. Shipments neared $29 billion by February this financial year. This growth continues despite global market volatility. Formulations, biologicals, vaccines, and Ayush products are leading the surge. The...",
-        "source": "Economic Times Pharma",
-        "sourceHost": "economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-04-04T06:39:47.000Z",
-        "publishedLabel": "April 4, 2026",
-        "category": "Market",
-        "image": "https://img.etimg.com/thumb/msid-130014452,width-1200,height-630,imgsize-127266,overlay-economictimes/articleshow.jpg",
-        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": false,
-        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/indias-pharma-exports-stay-resilient-amid-global-headwinds-near-29-billion-mark/articleshow/130014384.cms",
-        "articlePath": "/article.html?issue=2026-03-29&article=2026-03-29-india-s-pharma-exports-stay-resilient-amid-global-headwinds-near-29-bill"
       },
       {
         "id": "2026-03-29-lalitpur-pharma-park-gets-export-push-as-upsida-jnpa-sign-pact",
@@ -158,23 +140,6 @@
         "justIn": false,
         "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/new-drug-shows-91-percent-reduction-in-seizures-in-children-with-rare-epilepsy",
         "articlePath": "/article.html?issue=2026-03-29&article=2026-03-29-new-drug-shows-91-reduction-in-seizures-in-children-with-rare-epilepsy"
-      },
-      {
-        "id": "2026-03-29-season-of-biotech-succession",
-        "title": "Season of Biotech Succession",
-        "summary": "Season of Biotech Succession",
-        "source": "BioSpectrum Asia Middle East",
-        "sourceHost": "biospectrumasia.com",
-        "region": "Middle East",
-        "country": "Oman",
-        "publishedAt": "2026-03-31T18:30:00.000Z",
-        "publishedLabel": "April 1, 2026",
-        "category": "Industry Update",
-        "image": "https://www.biospectrumasia.com/uploads/articles/1-27437.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://www.biospectrumasia.com/analysis/26/27437/season-of-biotech-succession-.html",
-        "articlePath": "/article.html?issue=2026-03-29&article=2026-03-29-season-of-biotech-succession"
       },
       {
         "id": "2026-03-29-stocks-in-news-indigo-sammaan-capital-bharti-airtel-grse-coforge",
@@ -321,14 +286,6 @@
     },
     {
       "segment": "pharma",
-      "articleId": "2026-03-29-india-s-pharma-exports-stay-resilient-amid-global-headwinds-near-29-bill",
-      "title": "India’s pharma exports stay resilient amid global headwinds, near $29 billion mark",
-      "source": "Economic Times Pharma",
-      "solution": "THB Commercial Analytics",
-      "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
-    },
-    {
-      "segment": "pharma",
       "articleId": "2026-03-29-lalitpur-pharma-park-gets-export-push-as-upsida-jnpa-sign-pact",
       "title": "Lalitpur Pharma Park gets export push as UPSIDA, JNPA sign pact",
       "source": "Economic Times Pharma",
@@ -339,6 +296,14 @@
       "segment": "pharma",
       "articleId": "2026-03-29-industry-body-seeks-govt-aid-to-tide-over-disruptions-in-the-pharma-and-",
       "title": "Industry body seeks govt aid to tide over disruptions in the pharma and MedTech sectors",
+      "source": "Financial Express Healthcare",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "pharma",
+      "articleId": "2026-03-29-emcure-cuts-glp-drug-poviztra-price-by-55",
+      "title": "Emcure cuts GLP drug Poviztra price by 55%",
       "source": "Financial Express Healthcare",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
