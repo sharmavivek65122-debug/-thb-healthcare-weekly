@@ -5,10 +5,10 @@
   "startDate": "2026-03-28T18:30:00.000Z",
   "endDate": "2026-04-03T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-04-15T14:53:52.582Z",
+  "updatedAt": "2026-04-16T06:18:53.383Z",
   "coverage": {
-    "pharma": 9,
-    "providers": 4,
+    "pharma": 7,
+    "providers": 5,
     "diagnostics": 1,
     "healthtech": 0
   },
@@ -16,47 +16,12 @@
     "BioSpectrum Asia Middle East",
     "ET Healthworld Diagnostics",
     "ET Healthworld Hospitals",
-    "Economic Times Pharma",
     "Financial Express Healthcare",
     "Lupin Updates",
     "PharmaTutor News"
   ],
   "segments": {
     "pharma": [
-      {
-        "id": "2026-03-29-comm-secy-asks-pharma-sector-to-cut-dependence-on-imported-raw-materials",
-        "title": "Comm secy asks pharma sector to cut dependence on imported raw materials",
-        "summary": "India's Commerce Secretary Rajesh Agrawal has called for greater self-reliance in the pharmaceutical sector. He wants the industry to produce 80-90% of its needs domestically. This move aims to reduce dependence on imported raw materials. India is already a...",
-        "source": "Economic Times Pharma",
-        "sourceHost": "economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-04-04T15:44:03.000Z",
-        "publishedLabel": "April 4, 2026",
-        "category": "Industry Update",
-        "image": "https://img.etimg.com/thumb/msid-130022666,width-1200,height-630,imgsize-105516,overlay-economictimes/articleshow.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/comm-secy-asks-pharma-sector-to-cut-dependence-on-imported-raw-materials/articleshow/130022635.cms",
-        "articlePath": "/article.html?issue=2026-03-29&article=2026-03-29-comm-secy-asks-pharma-sector-to-cut-dependence-on-imported-raw-materials"
-      },
-      {
-        "id": "2026-03-29-work-on-reducing-import-dependence-for-raw-materials-commerce-secretary-",
-        "title": "Work on reducing import dependence for raw materials: Commerce Secretary Rajesh Agrawal to pharma industry",
-        "summary": "Commerce Secretary Rajesh Agrawal has called on India's pharmaceutical sector to boost domestic production and reduce reliance on imported raw materials. He emphasized diversifying export markets to navigate global uncertainties. Agrawal stressed the need for...",
-        "source": "Economic Times Pharma",
-        "sourceHost": "economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-04-04T13:10:21.000Z",
-        "publishedLabel": "April 4, 2026",
-        "category": "Market",
-        "image": "https://img.etimg.com/thumb/msid-130020280,width-1200,height-630,imgsize-90488,overlay-economictimes/articleshow.jpg",
-        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": false,
-        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/work-on-reducing-import-dependence-for-raw-materials-commerce-secretary-rajesh-agrawal-to-pharma-industry/articleshow/130020252.cms",
-        "articlePath": "/article.html?issue=2026-03-29&article=2026-03-29-work-on-reducing-import-dependence-for-raw-materials-commerce-secretary-"
-      },
       {
         "id": "2026-03-29-industry-body-seeks-govt-aid-to-tide-over-disruptions-in-the-pharma-and-",
         "title": "Industry body seeks govt aid to tide over disruptions in the pharma and MedTech sectors",
@@ -213,6 +178,23 @@
         "articlePath": "/article.html?issue=2026-03-29&article=2026-03-29-delhi-doctors-remove-denture-stuck-in-man-s-food-pipe-using-laser-cutter"
       },
       {
+        "id": "2026-03-29-final-deadline-for-cghs-hospitals-comply-by-april-30-or-lose-empanelment",
+        "title": "Final deadline for CGHS hospitals: Comply by April 30 or lose empanelment",
+        "summary": "While the transition is aimed at improving transparency, it has slowed submissions. At the same time, the government has drawn a hard line: hospitals failing to comply by April 30 will be de-empanelled from May 1, making them ineligible to treat CGHS patients...",
+        "source": "ET Healthworld Hospitals",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-04-02T02:32:18.000Z",
+        "publishedLabel": "April 2, 2026",
+        "category": "Hospital",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-129965230,imgsize-108414,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/final-deadline-for-cghs-hospitals-comply-by-april-30-or-lose-empanelment.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": false,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/final-deadline-for-cghs-hospitals-comply-by-april-30-or-lose-empanelment/129965230",
+        "articlePath": "/article.html?issue=2026-03-29&article=2026-03-29-final-deadline-for-cghs-hospitals-comply-by-april-30-or-lose-empanelment"
+      },
+      {
         "id": "2026-03-29-india-s-blindness-burden-persists-despite-policy-gains-sceh-ceo",
         "title": "India’s Blindness Burden Persists Despite Policy Gains: SCEH CEO",
         "summary": "Umang Mathur, CEO, Dr Shroff’s Charity Eye Hospital, in an interview with ETHealthworld, highlights that disparities across high-burden states and an over-reliance on hospital-centric care continue to hinder outcomes.",
@@ -271,22 +253,6 @@
   "thbActions": [
     {
       "segment": "pharma",
-      "articleId": "2026-03-29-comm-secy-asks-pharma-sector-to-cut-dependence-on-imported-raw-materials",
-      "title": "Comm secy asks pharma sector to cut dependence on imported raw materials",
-      "source": "Economic Times Pharma",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
-      "segment": "pharma",
-      "articleId": "2026-03-29-work-on-reducing-import-dependence-for-raw-materials-commerce-secretary-",
-      "title": "Work on reducing import dependence for raw materials: Commerce Secretary Rajesh Agrawal to pharma industry",
-      "source": "Economic Times Pharma",
-      "solution": "THB Commercial Analytics",
-      "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
-    },
-    {
-      "segment": "pharma",
       "articleId": "2026-03-29-industry-body-seeks-govt-aid-to-tide-over-disruptions-in-the-pharma-and-",
       "title": "Industry body seeks govt aid to tide over disruptions in the pharma and MedTech sectors",
       "source": "Financial Express Healthcare",
@@ -310,6 +276,22 @@
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
     },
     {
+      "segment": "pharma",
+      "articleId": "2026-03-29-new-drug-shows-91-reduction-in-seizures-in-children-with-rare-epilepsy",
+      "title": "New Drug Shows 91% Reduction in Seizures in Children with Rare Epilepsy",
+      "source": "PharmaTutor News",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "pharma",
+      "articleId": "2026-03-29-season-of-biotech-succession",
+      "title": "Season of Biotech Succession",
+      "source": "BioSpectrum Asia Middle East",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
       "segment": "providers",
       "articleId": "2026-03-29-medical-bodies-oppose-group-1-and-2-officers-as-hospital-admins",
       "title": "Medical bodies oppose Group 1 & 2 officers as hospital admins",
@@ -321,6 +303,14 @@
       "segment": "providers",
       "articleId": "2026-03-29-delhi-doctors-remove-denture-stuck-in-man-s-food-pipe-using-laser-cutter",
       "title": "Delhi doctors remove denture stuck in man's food pipe using laser cutter",
+      "source": "ET Healthworld Hospitals",
+      "solution": "THB Provider CRM",
+      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
+    },
+    {
+      "segment": "providers",
+      "articleId": "2026-03-29-final-deadline-for-cghs-hospitals-comply-by-april-30-or-lose-empanelment",
+      "title": "Final deadline for CGHS hospitals: Comply by April 30 or lose empanelment",
       "source": "ET Healthworld Hospitals",
       "solution": "THB Provider CRM",
       "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
