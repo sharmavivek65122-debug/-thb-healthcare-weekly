@@ -5,10 +5,10 @@
   "startDate": "2026-03-28T18:30:00.000Z",
   "endDate": "2026-04-03T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-04-17T06:19:58.357Z",
+  "updatedAt": "2026-04-17T14:41:51.190Z",
   "coverage": {
     "pharma": 7,
-    "providers": 4,
+    "providers": 5,
     "diagnostics": 1,
     "healthtech": 0
   },
@@ -178,6 +178,23 @@
         "articlePath": "/article.html?issue=2026-03-29&article=2026-03-29-delhi-doctors-remove-denture-stuck-in-man-s-food-pipe-using-laser-cutter"
       },
       {
+        "id": "2026-03-29-final-deadline-for-cghs-hospitals-comply-by-april-30-or-lose-empanelment",
+        "title": "Final deadline for CGHS hospitals: Comply by April 30 or lose empanelment",
+        "summary": "While the transition is aimed at improving transparency, it has slowed submissions. At the same time, the government has drawn a hard line: hospitals failing to comply by April 30 will be de-empanelled from May 1, making them ineligible to treat CGHS patients...",
+        "source": "ET Healthworld Hospitals",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-04-02T02:32:18.000Z",
+        "publishedLabel": "April 2, 2026",
+        "category": "Hospital",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-129965230,imgsize-108414,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/final-deadline-for-cghs-hospitals-comply-by-april-30-or-lose-empanelment.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": false,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/final-deadline-for-cghs-hospitals-comply-by-april-30-or-lose-empanelment/129965230",
+        "articlePath": "/article.html?issue=2026-03-29&article=2026-03-29-final-deadline-for-cghs-hospitals-comply-by-april-30-or-lose-empanelment"
+      },
+      {
         "id": "2026-03-29-india-s-blindness-burden-persists-despite-policy-gains-sceh-ceo",
         "title": "India’s Blindness Burden Persists Despite Policy Gains: SCEH CEO",
         "summary": "Umang Mathur, CEO, Dr Shroff’s Charity Eye Hospital, in an interview with ETHealthworld, highlights that disparities across high-burden states and an over-reliance on hospital-centric care continue to hinder outcomes.",
@@ -286,6 +303,14 @@
       "segment": "providers",
       "articleId": "2026-03-29-delhi-doctors-remove-denture-stuck-in-man-s-food-pipe-using-laser-cutter",
       "title": "Delhi doctors remove denture stuck in man's food pipe using laser cutter",
+      "source": "ET Healthworld Hospitals",
+      "solution": "THB Provider CRM",
+      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
+    },
+    {
+      "segment": "providers",
+      "articleId": "2026-03-29-final-deadline-for-cghs-hospitals-comply-by-april-30-or-lose-empanelment",
+      "title": "Final deadline for CGHS hospitals: Comply by April 30 or lose empanelment",
       "source": "ET Healthworld Hospitals",
       "solution": "THB Provider CRM",
       "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
