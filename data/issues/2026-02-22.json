@@ -5,10 +5,10 @@
   "startDate": "2026-02-21T18:30:00.000Z",
   "endDate": "2026-02-27T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-04-16T15:12:42.732Z",
+  "updatedAt": "2026-04-17T06:19:58.357Z",
   "coverage": {
-    "pharma": 4,
-    "providers": 4,
+    "pharma": 3,
+    "providers": 3,
     "diagnostics": 3,
     "healthtech": 0
   },
@@ -16,7 +16,6 @@
     "ET Healthworld Diagnostics",
     "ET Healthworld Hospitals",
     "ET Healthworld Pharma",
-    "Financial Express Healthcare",
     "Lupin Updates"
   ],
   "segments": {
@@ -37,23 +36,6 @@
         "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/pharma/pharma-industry/your-weight-loss-drugs-set-to-become-cheaper/128881451",
         "articlePath": "/article.html?issue=2026-02-22&article=2026-02-22-your-weight-loss-drugs-set-to-become-cheaper"
-      },
-      {
-        "id": "2026-02-22-90-audits-of-cough-syrup-makers-done-focus-high-on-quality-and-future-re",
-        "title": "90% audits of cough syrup makers done, focus high on quality and future-readiness, says drug controller",
-        "summary": "The Drug Controller said that the focus is now on stricter quality, faster approvals and future-ready pharma regulation.",
-        "source": "Financial Express Healthcare",
-        "sourceHost": "financialexpress.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-02-24T05:12:25.000Z",
-        "publishedLabel": "February 24, 2026",
-        "category": "Approval",
-        "image": "https://images.financialexpressdigital.com/2026/02/Cough-syrup-Reuters.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://www.financialexpress.com/business/healthcare-90-audits-of-cough-syrup-makers-done-focus-high-on-quality-and-future-readiness-says-drug-controller-4152253/",
-        "articlePath": "/article.html?issue=2026-02-22&article=2026-02-22-90-audits-of-cough-syrup-makers-done-focus-high-on-quality-and-future-re"
       },
       {
         "id": "2026-02-22-natco-pharma-eris-lifesciences-shares-jump-up-to-6-on-partnership-for-se",
@@ -141,23 +123,6 @@
         "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/aster-dm-healthcare-plans-to-invest-rs-2300-cr-to-grow-india-gootprint-chairman-moopen/128736397",
         "articlePath": "/article.html?issue=2026-02-22&article=2026-02-22-aster-dm-healthcare-plans-to-invest-rs-2-300-cr-to-grow-india-footprint-"
-      },
-      {
-        "id": "2026-02-22-strong-demand-rise-in-complex-treatments-gst-exemption-on-health-insuran",
-        "title": "Strong demand, rise in complex treatments, GST exemption on health insurance to drive 15% growth in private hospitals: Crisil",
-        "summary": "India's private hospital sector is projected to maintain double-digit growth for the fifth year, with 15% revenue growth expected in FY27.",
-        "source": "Financial Express Healthcare",
-        "sourceHost": "financialexpress.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-02-27T15:01:10.000Z",
-        "publishedLabel": "February 27, 2026",
-        "category": "Hospital",
-        "image": "https://images.financialexpressdigital.com/2026/02/Insurance_20260213142928_20260220152042_20260225134638_20260227145538.jpg",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://www.financialexpress.com/business/healthcare/strong-demand-rise-in-complex-treatments-gst-exemption-on-health-insurance-to-drive-15-growth-in-private-hospitals-crisil/4157034/",
-        "articlePath": "/article.html?issue=2026-02-22&article=2026-02-22-strong-demand-rise-in-complex-treatments-gst-exemption-on-health-insuran"
       }
     ],
     "diagnostics": [
@@ -226,14 +191,6 @@
     },
     {
       "segment": "pharma",
-      "articleId": "2026-02-22-90-audits-of-cough-syrup-makers-done-focus-high-on-quality-and-future-re",
-      "title": "90% audits of cough syrup makers done, focus high on quality and future-readiness, says drug controller",
-      "source": "Financial Express Healthcare",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
-      "segment": "pharma",
       "articleId": "2026-02-22-natco-pharma-eris-lifesciences-shares-jump-up-to-6-on-partnership-for-se",
       "title": "Natco Pharma, Eris Lifesciences shares jump up to 6% on partnership for Semaglutide launch in India",
       "source": "Lupin Updates",
@@ -269,14 +226,6 @@
       "articleId": "2026-02-22-aster-dm-healthcare-plans-to-invest-rs-2-300-cr-to-grow-india-footprint-",
       "title": "Aster DM Healthcare plans to invest Rs 2,300 cr to grow India footprint: Chairman Moopen",
       "source": "ET Healthworld Hospitals",
-      "solution": "THB Provider CRM",
-      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
-    },
-    {
-      "segment": "providers",
-      "articleId": "2026-02-22-strong-demand-rise-in-complex-treatments-gst-exemption-on-health-insuran",
-      "title": "Strong demand, rise in complex treatments, GST exemption on health insurance to drive 15% growth in private hospitals: Crisil",
-      "source": "Financial Express Healthcare",
       "solution": "THB Provider CRM",
       "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
     },
