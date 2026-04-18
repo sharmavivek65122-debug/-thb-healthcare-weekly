@@ -5,10 +5,10 @@
   "startDate": "2026-04-04T18:30:00.000Z",
   "endDate": "2026-04-10T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-04-18T05:56:23.877Z",
+  "updatedAt": "2026-04-18T14:11:18.332Z",
   "coverage": {
     "pharma": 9,
-    "providers": 4,
+    "providers": 5,
     "diagnostics": 3,
     "healthtech": 0
   },
@@ -244,6 +244,23 @@
         "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/pgi-revamps-procurement-after-ayushman-bharat-scam/130035189",
         "articlePath": "/article.html?issue=2026-04-05&article=2026-04-05-pgi-revamps-procurement-after-ayushman-bharat-scam"
+      },
+      {
+        "id": "2026-04-05-max-healthcare-to-acquire-kalinga-hospital-controlling-stake-for-300-cr",
+        "title": "Max Healthcare to acquire Kalinga Hospital controlling stake for ₹300 cr",
+        "summary": "Under the share purchase agreement, Max will acquire 58.4 per cent stake in the Bhubaneswar-based 250 bed facility, at an equity value of Rs 300 crore (including control premium).",
+        "source": "ET Healthworld Hospitals",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-04-08T07:39:52.000Z",
+        "publishedLabel": "April 8, 2026",
+        "category": "Hospital",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-130106337,imgsize-69996,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/max-healthcare-to-acquire-kalinga-hospital-controlling-stake-for-300-cr.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": false,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/max-healthcare-to-acquire-kalinga-hospital-controlling-stake-for-300-cr/130106337",
+        "articlePath": "/article.html?issue=2026-04-05&article=2026-04-05-max-healthcare-to-acquire-kalinga-hospital-controlling-stake-for-300-cr"
       }
     ],
     "diagnostics": [
@@ -370,6 +387,14 @@
       "segment": "providers",
       "articleId": "2026-04-05-pgi-revamps-procurement-after-ayushman-bharat-scam",
       "title": "PGI revamps procurement after Ayushman Bharat scam",
+      "source": "ET Healthworld Hospitals",
+      "solution": "THB Provider CRM",
+      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
+    },
+    {
+      "segment": "providers",
+      "articleId": "2026-04-05-max-healthcare-to-acquire-kalinga-hospital-controlling-stake-for-300-cr",
+      "title": "Max Healthcare to acquire Kalinga Hospital controlling stake for ₹300 cr",
       "source": "ET Healthworld Hospitals",
       "solution": "THB Provider CRM",
       "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
