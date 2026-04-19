@@ -1,0 +1,78 @@
+{
+  "key": "2026-04-19",
+  "issueNumber": 11,
+  "rangeLabel": "Apr 19 - Apr 25, 2026",
+  "startDate": "2026-04-18T18:30:00.000Z",
+  "endDate": "2026-04-24T18:30:00.000Z",
+  "status": "live",
+  "updatedAt": "2026-04-19T06:14:26.701Z",
+  "coverage": {
+    "pharma": 2,
+    "providers": 0,
+    "diagnostics": 0,
+    "healthtech": 0
+  },
+  "sourcesUsed": [
+    "ET Healthworld",
+    "Economic Times Pharma"
+  ],
+  "segments": {
+    "pharma": [
+      {
+        "id": "2026-04-19-drug-regulator-oversight-sought-for-nutraceuticals-ngo-flags-quality-pri",
+        "title": "Drug regulator oversight sought for nutraceuticals; NGO flags quality, pricing concerns",
+        "summary": "A Gujarat NGO is pushing the government to regulate nutraceuticals like medicines. They cite concerns about product quality and unregulated prices. The NGO wants these health supplements to be overseen by drug regulators, not food safety authorities. This...",
+        "source": "Economic Times Pharma",
+        "sourceHost": "economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-04-19T05:45:12.000Z",
+        "publishedLabel": "April 19, 2026",
+        "category": "Industry Update",
+        "image": "https://img.etimg.com/thumb/msid-130365635,width-1200,height-630,imgsize-51818,overlay-economictimes/articleshow.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": false,
+        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/drug-regulator-oversight-sought-for-nutraceuticals-ngo-flags-quality-pricing-concerns/articleshow/130365607.cms",
+        "articlePath": "/article.html?issue=2026-04-19&article=2026-04-19-drug-regulator-oversight-sought-for-nutraceuticals-ngo-flags-quality-pri"
+      },
+      {
+        "id": "2026-04-19-children-exclusively-breastfed-show-distinct-dna-changes-study-finds",
+        "title": "Children exclusively breastfed show distinct DNA changes, study finds",
+        "summary": "DNA methylation marks were measured from samples taken when the children were aged 5 to 12 years, and compared them with samples taken from the umbilical cord to assess pre-breastfeeding. The researchers examined whether there was any difference related to...",
+        "source": "ET Healthworld",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-04-19T05:19:32.000Z",
+        "publishedLabel": "April 19, 2026",
+        "category": "Industry Update",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-130365399,imgsize-158278,width-1200,height=627,overlay-ethealth,resizemode-75/industry/children-exclusively-breastfed-show-distinct-dna-changes-study-finds.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": false,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/children-exclusively-breastfed-show-distinct-dna-changes-study-finds/130365399",
+        "articlePath": "/article.html?issue=2026-04-19&article=2026-04-19-children-exclusively-breastfed-show-distinct-dna-changes-study-finds"
+      }
+    ],
+    "providers": [],
+    "diagnostics": [],
+    "healthtech": []
+  },
+  "thbActions": [
+    {
+      "segment": "pharma",
+      "articleId": "2026-04-19-drug-regulator-oversight-sought-for-nutraceuticals-ngo-flags-quality-pri",
+      "title": "Drug regulator oversight sought for nutraceuticals; NGO flags quality, pricing concerns",
+      "source": "Economic Times Pharma",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "pharma",
+      "articleId": "2026-04-19-children-exclusively-breastfed-show-distinct-dna-changes-study-finds",
+      "title": "Children exclusively breastfed show distinct DNA changes, study finds",
+      "source": "ET Healthworld",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    }
+  ]
+}
