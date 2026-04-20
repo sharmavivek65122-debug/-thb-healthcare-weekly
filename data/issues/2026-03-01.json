@@ -5,7 +5,7 @@
   "startDate": "2026-02-28T18:30:00.000Z",
   "endDate": "2026-03-06T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-04-20T06:31:43.348Z",
+  "updatedAt": "2026-04-20T15:04:13.829Z",
   "coverage": {
     "pharma": 2,
     "providers": 4,
@@ -56,23 +56,6 @@
     ],
     "providers": [
       {
-        "id": "2026-03-01-philips-actrec-collaborate-to-strengthen-early-cancer-detection-with-spe",
-        "title": "Philips, ACTREC collaborate to strengthen early cancer detection with Spectral CT",
-        "summary": "The technology allows deeper disease characterisation from a single scan, helping clinicians make faster and more confident diagnostic decisions without increasing radiation exposure.",
-        "source": "ET Healthworld Hospitals",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-03-03T10:00:24.000Z",
-        "publishedLabel": "March 3, 2026",
-        "category": "Provider Update",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-128964382,imgsize-1009165,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/actrec-tmc-strengthens-early-cancer-detection-with-spectral-ct-deployment.jpg",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/actrec-tmc-strengthens-early-cancer-detection-with-spectral-ct-deployment/128964382",
-        "articlePath": "/article.html?issue=2026-03-01&article=2026-03-01-philips-actrec-collaborate-to-strengthen-early-cancer-detection-with-spe"
-      },
-      {
         "id": "2026-03-01-deploy-ai-in-healthcare-with-caution-build-guardrails-first-says-manipal",
         "title": "Deploy AI in healthcare with caution; build guardrails first, says Manipal CEO",
         "summary": "Hospital chains including Aster DM Healthcare, Yashoda Hospitals, Apollo Hospitals, and Global Health have recently partnered with or are in talks with AI startups for diagnostics, deploying AI-powered tools alongside human expertise to reduce turnaround time...",
@@ -105,6 +88,23 @@
         "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/hyd-hospital-launches-platform-for-non-invasive-brain-tumor-treatment/129189473",
         "articlePath": "/article.html?issue=2026-03-01&article=2026-03-01-hyd-hospital-launches-platform-for-non-invasive-brain-tumor-treatment"
+      },
+      {
+        "id": "2026-03-01-philips-actrec-collaborate-to-strengthen-early-cancer-detection-with-spe",
+        "title": "Philips, ACTREC collaborate to strengthen early cancer detection with Spectral CT",
+        "summary": "The technology allows deeper disease characterisation from a single scan, helping clinicians make faster and more confident diagnostic decisions without increasing radiation exposure.",
+        "source": "ET Healthworld Hospitals",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-03-03T10:00:24.000Z",
+        "publishedLabel": "March 3, 2026",
+        "category": "Provider Update",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-128964382,imgsize-1009165,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/actrec-tmc-strengthens-early-cancer-detection-with-spectral-ct-deployment.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": false,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/actrec-tmc-strengthens-early-cancer-detection-with-spectral-ct-deployment/128964382",
+        "articlePath": "/article.html?issue=2026-03-01&article=2026-03-01-philips-actrec-collaborate-to-strengthen-early-cancer-detection-with-spe"
       },
       {
         "id": "2026-03-01-maha-govt-to-hold-meeting-with-hospitals-in-mumbai-region-to-boost-cover",
@@ -181,14 +181,6 @@
     },
     {
       "segment": "providers",
-      "articleId": "2026-03-01-philips-actrec-collaborate-to-strengthen-early-cancer-detection-with-spe",
-      "title": "Philips, ACTREC collaborate to strengthen early cancer detection with Spectral CT",
-      "source": "ET Healthworld Hospitals",
-      "solution": "THB Provider CRM",
-      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
-    },
-    {
-      "segment": "providers",
       "articleId": "2026-03-01-deploy-ai-in-healthcare-with-caution-build-guardrails-first-says-manipal",
       "title": "Deploy AI in healthcare with caution; build guardrails first, says Manipal CEO",
       "source": "ET Healthworld Hospitals",
@@ -199,6 +191,14 @@
       "segment": "providers",
       "articleId": "2026-03-01-hyd-hospital-launches-platform-for-non-invasive-brain-tumor-treatment",
       "title": "Hyd hospital launches platform for non-invasive brain tumor treatment",
+      "source": "ET Healthworld Hospitals",
+      "solution": "THB Provider CRM",
+      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
+    },
+    {
+      "segment": "providers",
+      "articleId": "2026-03-01-philips-actrec-collaborate-to-strengthen-early-cancer-detection-with-spe",
+      "title": "Philips, ACTREC collaborate to strengthen early cancer detection with Spectral CT",
       "source": "ET Healthworld Hospitals",
       "solution": "THB Provider CRM",
       "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."

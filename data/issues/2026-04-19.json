@@ -5,9 +5,9 @@
   "startDate": "2026-04-18T18:30:00.000Z",
   "endDate": "2026-04-24T18:30:00.000Z",
   "status": "live",
-  "updatedAt": "2026-04-20T06:31:43.348Z",
+  "updatedAt": "2026-04-20T15:04:13.829Z",
   "coverage": {
-    "pharma": 15,
+    "pharma": 18,
     "providers": 0,
     "diagnostics": 1,
     "healthtech": 0
@@ -16,7 +16,8 @@
     "ET Healthworld",
     "Economic Times Pharma",
     "Healthcare MEA",
-    "Medical Dialogues Pharma"
+    "Medical Dialogues Pharma",
+    "PharmaTutor News"
   ],
   "segments": {
     "pharma": [
@@ -50,7 +51,7 @@
         "category": "Market",
         "image": "https://etimg.etb2bimg.com/thumb/msid-130384143,imgsize-59224,width-1200,height=627,overlay-ethealth,resizemode-75/medical-devices/from-lab-to-market-iisc-team-surgeon-develop-dissolving-stent-to-cut-2nd-surgeries.jpg",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/medical-devices/from-lab-to-market-iisc-team-surgeon-develop-dissolving-stent-to-cut-2nd-surgeries/130384143",
         "articlePath": "/article.html?issue=2026-04-19&article=2026-04-19-from-lab-to-market-iisc-team-surgeon-develop-dissolving-stent-to-cut-2nd"
       },
@@ -67,7 +68,7 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-130380195,imgsize-89852,width-1200,height=627,overlay-ethealth,resizemode-75/industry/experts-urge-standard-treatment-guidelines-to-streamline-haemophilia-care-in-india.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/experts-urge-standard-treatment-guidelines-to-streamline-haemophilia-care-in-india/130380195",
         "articlePath": "/article.html?issue=2026-04-19&article=2026-04-19-experts-urge-standard-treatment-guidelines-to-streamline-haemophilia-car"
       },
@@ -89,6 +90,23 @@
         "articlePath": "/article.html?issue=2026-04-19&article=2026-04-19-researchers-use-nasal-spray-to-suppress-brain-inflammation-reverse-agein"
       },
       {
+        "id": "2026-04-19-opd-is-india-s-largest-untapped-revenue-engine-so-why-are-hospitals-stil",
+        "title": "OPD Is India’s Largest Untapped Revenue Engine — So Why Are Hospitals Still Flying Blind?",
+        "summary": "Hospitals often build their growth strategies around surgeries and inpatient care. But the real volume and a significant share of revenue comes from the OPD. Despite this, most outpatient departments remain poorly structured, with limited visibility into...",
+        "source": "ET Healthworld",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-04-20T12:05:46.000Z",
+        "publishedLabel": "April 20, 2026",
+        "category": "Industry Update",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-130391875,imgsize-62188,width-1200,height=627,overlay-ethealth,resizemode-75/industry/unlocking-indias-healthcare-revenue-the-untapped-potential-of-opds.jpg",
+        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
+        "justIn": true,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/unlocking-indias-healthcare-revenue-the-untapped-potential-of-opds/130391875",
+        "articlePath": "/article.html?issue=2026-04-19&article=2026-04-19-opd-is-india-s-largest-untapped-revenue-engine-so-why-are-hospitals-stil"
+      },
+      {
         "id": "2026-04-19-nha-honours-states-uts-for-excellence-in-ab-pm-jay-and-abdm-implementati",
         "title": "NHA honours states, UTs for excellence in AB PM-JAY and ABDM implementation",
         "summary": "According to an official release issued by the Ministry of Health and Family Welfare, building upon the discussions of Day 1, the second day commenced with a presentation on Karnataka's online referral system for PM-JAY beneficiaries. The initiative has...",
@@ -101,7 +119,7 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-130380183,imgsize-156160,width-1200,height=627,overlay-ethealth,resizemode-75/policy/nha-honours-states-uts-for-excellence-in-ab-pm-jay-and-abdm-implementation.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/policy/nha-honours-states-uts-for-excellence-in-ab-pm-jay-and-abdm-implementation/130380183",
         "articlePath": "/article.html?issue=2026-04-19&article=2026-04-19-nha-honours-states-uts-for-excellence-in-ab-pm-jay-and-abdm-implementati"
       },
@@ -118,7 +136,7 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-130380241,imgsize-128134,width-1200,height=627,overlay-ethealth,resizemode-75/insurance/centre-to-states-standardise-hospital-rates.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/insurance/centre-to-states-standardise-hospital-rates/130380241",
         "articlePath": "/article.html?issue=2026-04-19&article=2026-04-19-centre-to-states-standardise-hospital-rates"
       },
@@ -135,7 +153,7 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-130383887,imgsize-76778,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/apollo-hospitals-appoints-dr-harit-kumar-chaturvedi-ceo-of-oncology-network.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/apollo-hospitals-appoints-dr-harit-kumar-chaturvedi-ceo-of-oncology-network/130383887",
         "articlePath": "/article.html?issue=2026-04-19&article=2026-04-19-apollo-hospitals-appoints-dr-harit-kumar-chaturvedi-ceo-of-oncology-netw"
       },
@@ -152,7 +170,7 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-130380197,imgsize-221908,width-1200,height=627,overlay-ethealth,resizemode-75/industry/excessive-energy-drink-consumption-harming-liver-health-of-youth-experts.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/excessive-energy-drink-consumption-harming-liver-health-of-youth-experts/130380197",
         "articlePath": "/article.html?issue=2026-04-19&article=2026-04-19-excessive-energy-drink-consumption-harming-liver-health-of-youth-experts"
       },
@@ -169,7 +187,7 @@
         "category": "Launch",
         "image": "https://etimg.etb2bimg.com/thumb/msid-130380200,imgsize-129944,width-1200,height=627,overlay-ethealth,resizemode-75/health-it/doctor-led-ai-platform-offering-24x7-monitoring-outside-hospital-settings-launched-in-chennai.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/health-it/doctor-led-ai-platform-offering-24x7-monitoring-outside-hospital-settings-launched-in-chennai/130380200",
         "articlePath": "/article.html?issue=2026-04-19&article=2026-04-19-doctor-led-ai-platform-offering-24x7-monitoring-outside-hospital-setting"
       },
@@ -225,6 +243,23 @@
         "articlePath": "/article.html?issue=2026-04-19&article=2026-04-19-nppa-defers-price-exemption-for-biological-e-s-pneumonia-vaccine-seeks-p"
       },
       {
+        "id": "2026-04-19-gurugram-bust-rs-70-lakh-counterfeit-eli-lilly-mounjaro-recovered-2-arre",
+        "title": "Gurugram Bust: Rs 70 Lakh Counterfeit Eli Lilly Mounjaro Recovered, 2 Arrested",
+        "summary": "New Delhi: In a major enforcement action, two individuals were arrested in Gurugram after the drugs control department seized a consignment of suspected spurious Mounjaro KwikPen (tirzepatide)...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-04-20T14:00:40.000Z",
+        "publishedLabel": "April 20, 2026",
+        "category": "Industry Update",
+        "image": "https://medicaldialogues.in/h-upload/2024/01/20/230637-eli-lilly-50.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/gurugram-bust-rs-70-lakh-counterfeit-eli-lilly-mounjaro-recovered-2-arrested-169036",
+        "articlePath": "/article.html?issue=2026-04-19&article=2026-04-19-gurugram-bust-rs-70-lakh-counterfeit-eli-lilly-mounjaro-recovered-2-arre"
+      },
+      {
         "id": "2026-04-19-stf-drug-control-team-bust-illegal-codeine-supply-chain-8-520-bottles-se",
         "title": "STF, Drug Control Team Bust Illegal Codeine Supply Chain, 8,520 Bottles Seized in Cuttack",
         "summary": "New Delhi: In a major crackdown on illegal drug trafficking, a joint team of the Directorate of Drugs Control and the Special Task Force (STF) seized 8,520 bottles of codeine-based cough syrup from a...",
@@ -240,6 +275,23 @@
         "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/stf-drug-control-team-bust-illegal-codeine-supply-chain-8520-bottles-seized-in-cuttack-168929",
         "articlePath": "/article.html?issue=2026-04-19&article=2026-04-19-stf-drug-control-team-bust-illegal-codeine-supply-chain-8-520-bottles-se"
+      },
+      {
+        "id": "2026-04-19-new-hope-for-copd-patients-as-astrazeneca-drug-shows-strong-results-in-m",
+        "title": "New Hope for COPD Patients as AstraZeneca Drug Shows Strong Results in Major Trial",
+        "summary": "A new experimental drug from AstraZeneca is giving fresh hope to millions of people living with Chronic Obstructive Pulmonary Disease after showing positive results in a large late-stage study.The drug, Tozorakimab, met its main goal in the Phase III MIRANDA...",
+        "source": "PharmaTutor News",
+        "sourceHost": "pharmatutor.org",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-04-20T11:08:39.000Z",
+        "publishedLabel": "April 20, 2026",
+        "category": "Industry Update",
+        "image": "https://www.pharmatutor.org/sites/default/files/styles/webp/public/2026-04/new-hope-for-copd-patients-as-astrazeneca-drug-shows-strong-results-in-major-trial.jpg.webp?itok=5EMMULF5",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/new-hope-for-copd-patients-as-astrazeneca-drug-shows-strong-results-in-major-trial",
+        "articlePath": "/article.html?issue=2026-04-19&article=2026-04-19-new-hope-for-copd-patients-as-astrazeneca-drug-shows-strong-results-in-m"
       },
       {
         "id": "2026-04-19-lilly-s-foundayo-clocks-1-390-prescriptions-in-debut-week-as-oral-obesit",
@@ -333,11 +385,11 @@
     },
     {
       "segment": "pharma",
-      "articleId": "2026-04-19-nha-honours-states-uts-for-excellence-in-ab-pm-jay-and-abdm-implementati",
-      "title": "NHA honours states, UTs for excellence in AB PM-JAY and ABDM implementation",
+      "articleId": "2026-04-19-opd-is-india-s-largest-untapped-revenue-engine-so-why-are-hospitals-stil",
+      "title": "OPD Is India’s Largest Untapped Revenue Engine — So Why Are Hospitals Still Flying Blind?",
       "source": "ET Healthworld",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+      "solution": "THB Commercial Analytics",
+      "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
     },
     {
       "segment": "diagnostics",

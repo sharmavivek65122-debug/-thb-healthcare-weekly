@@ -5,7 +5,7 @@
   "startDate": "2026-03-21T18:30:00.000Z",
   "endDate": "2026-03-27T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-04-20T06:31:43.348Z",
+  "updatedAt": "2026-04-20T15:04:13.829Z",
   "coverage": {
     "pharma": 3,
     "providers": 8,
@@ -17,6 +17,7 @@
     "ET Healthworld Diagnostics",
     "ET Healthworld Hospitals",
     "Financial Express Healthcare",
+    "Lupin Updates",
     "PharmaTutor News"
   ],
   "segments": {
@@ -39,6 +40,23 @@
         "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-fda-approves-first-gene-therapy-for-severe-leukocyte-adhesion-deficiency"
       },
       {
+        "id": "2026-03-22-glp-1-impact-jefferies-sees-these-3-stocks-as-winners-in-the-race-for-oz",
+        "title": "GLP-1 impact: Jefferies sees these 3 stocks as winners in the race for Ozempic, Wegovy generics",
+        "summary": "Indian drug makers are launching affordable generic Semaglutide, the active ingredient in popular weight-loss drugs. Sun Pharma, Lupin, and Torrent Pharma are identified as potential market leaders. Despite initial stockouts online, companies are adjusting...",
+        "source": "Lupin Updates",
+        "sourceHost": "economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-03-27T08:52:00.000Z",
+        "publishedLabel": "March 27, 2026",
+        "category": "Market",
+        "image": "https://img.etimg.com/thumb/msid-129842836,width-1200,height-630,imgsize-754962,overlay-etmarkets/articleshow.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": false,
+        "originalUrl": "https://economictimes.indiatimes.com/markets/stocks/news/glp-1-impact-jefferies-sees-these-3-stocks-as-winners-in-the-race-for-ozempic-wegovy-generics/articleshow/129842771.cms",
+        "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-glp-1-impact-jefferies-sees-these-3-stocks-as-winners-in-the-race-for-oz"
+      },
+      {
         "id": "2026-03-22-novo-nordisk-awiqli-approved-in-the-usa",
         "title": "Novo Nordisk : Awiqli® approved in the USA",
         "summary": "Novo Nordisk announced that the US Food and Drug Administration (FDA) has approved Awiqli® (insulin icodec-abae) injection 700 units/mL, the first and only once-weekly, long-acting basal insulin, indicated as an adjunct to diet and exercise to improve...",
@@ -54,23 +72,6 @@
         "justIn": false,
         "originalUrl": "https://www.pharmatutor.org/content/march-2026/novo-nordisk-awiqli-approved-in-the-usa",
         "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-novo-nordisk-awiqli-approved-in-the-usa"
-      },
-      {
-        "id": "2026-03-22-the-forgotten-half-of-diabetic-kidney-disease-finally-gets-its-own-trial",
-        "title": "The Forgotten Half of Diabetic Kidney Disease Finally Gets Its Own Trial and the Results Are Positive",
-        "summary": "A phase 3 clinical trial has found that finerenone, a nonsteroidal mineralocorticoid receptor antagonist, produces a significantly greater reduction in a key marker of kidney damage compared to placebo in adults with Type 1 diabetes and chronic kidney disease...",
-        "source": "PharmaTutor News",
-        "sourceHost": "pharmatutor.org",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-03-25T11:22:21.000Z",
-        "publishedLabel": "March 25, 2026",
-        "category": "Clinical Trial",
-        "image": "https://www.pharmatutor.org/sites/default/files/styles/webp/public/2026-03/the-forgotten-half-of-diabetic-kidney-disease-finally-gets-its-own-trial-and-the-results-are-positive.jpg.webp?itok=eFsZWujr",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/the-forgotten-half-of-diabetic-kidney-disease-finally-gets-its-own-trial-and-the-results-are-positive",
-        "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-the-forgotten-half-of-diabetic-kidney-disease-finally-gets-its-own-trial"
       }
     ],
     "providers": [
@@ -277,16 +278,16 @@
     },
     {
       "segment": "pharma",
-      "articleId": "2026-03-22-novo-nordisk-awiqli-approved-in-the-usa",
-      "title": "Novo Nordisk : Awiqli® approved in the USA",
-      "source": "PharmaTutor News",
+      "articleId": "2026-03-22-glp-1-impact-jefferies-sees-these-3-stocks-as-winners-in-the-race-for-oz",
+      "title": "GLP-1 impact: Jefferies sees these 3 stocks as winners in the race for Ozempic, Wegovy generics",
+      "source": "Lupin Updates",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
     },
     {
       "segment": "pharma",
-      "articleId": "2026-03-22-the-forgotten-half-of-diabetic-kidney-disease-finally-gets-its-own-trial",
-      "title": "The Forgotten Half of Diabetic Kidney Disease Finally Gets Its Own Trial and the Results Are Positive",
+      "articleId": "2026-03-22-novo-nordisk-awiqli-approved-in-the-usa",
+      "title": "Novo Nordisk : Awiqli® approved in the USA",
       "source": "PharmaTutor News",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
