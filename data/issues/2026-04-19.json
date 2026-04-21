@@ -5,22 +5,42 @@
   "startDate": "2026-04-18T18:30:00.000Z",
   "endDate": "2026-04-24T18:30:00.000Z",
   "status": "live",
-  "updatedAt": "2026-04-20T15:04:13.829Z",
+  "updatedAt": "2026-04-21T06:19:29.964Z",
   "coverage": {
-    "pharma": 18,
-    "providers": 0,
+    "pharma": 19,
+    "providers": 2,
     "diagnostics": 1,
     "healthtech": 0
   },
   "sourcesUsed": [
     "ET Healthworld",
+    "ET Healthworld Hospitals",
     "Economic Times Pharma",
+    "Express Healthcare",
     "Healthcare MEA",
+    "Lupin Updates",
     "Medical Dialogues Pharma",
     "PharmaTutor News"
   ],
   "segments": {
     "pharma": [
+      {
+        "id": "2026-04-19-bain-capital-sole-contender-for-vitabiotics-buy",
+        "title": "Bain Capital sole contender for Vitabiotics buy",
+        "summary": "The group’s Indian arm, Meyer Vitabiotics, accounts for around 20% of the total Rs 3,000 crore (£253 million) in annual sales. Within Meyer’s portfolio, Calcimax holds a strong presence across paediatrics, diabetes, cardiac care, and women’s health segments,...",
+        "source": "ET Healthworld",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-04-21T01:52:45.000Z",
+        "publishedLabel": "April 21, 2026",
+        "category": "Industry Update",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-130405078,imgsize-84246,width-1200,height=627,overlay-ethealth,resizemode-75/industry/bain-capital-sole-contender-for-vitabiotics-buy.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/bain-capital-sole-contender-for-vitabiotics-buy/130405078",
+        "articlePath": "/article.html?issue=2026-04-19&article=2026-04-19-bain-capital-sole-contender-for-vitabiotics-buy"
+      },
       {
         "id": "2026-04-19-drug-regulator-oversight-sought-for-nutraceuticals-ngo-flags-quality-pri",
         "title": "Drug regulator oversight sought for nutraceuticals; NGO flags quality, pricing concerns",
@@ -56,23 +76,6 @@
         "articlePath": "/article.html?issue=2026-04-19&article=2026-04-19-from-lab-to-market-iisc-team-surgeon-develop-dissolving-stent-to-cut-2nd"
       },
       {
-        "id": "2026-04-19-experts-urge-standard-treatment-guidelines-to-streamline-haemophilia-car",
-        "title": "Experts urge standard treatment guidelines to streamline haemophilia care in India",
-        "summary": "Experts noted that haemophilia is frequently misdiagnosed, with children sometimes incorrectly treated for arthritis, resulting in avoidable joint damage and, in severe cases, the need for joint replacement surgeries.",
-        "source": "ET Healthworld",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-04-20T01:06:01.000Z",
-        "publishedLabel": "April 20, 2026",
-        "category": "Industry Update",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-130380195,imgsize-89852,width-1200,height=627,overlay-ethealth,resizemode-75/industry/experts-urge-standard-treatment-guidelines-to-streamline-haemophilia-care-in-india.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/experts-urge-standard-treatment-guidelines-to-streamline-haemophilia-care-in-india/130380195",
-        "articlePath": "/article.html?issue=2026-04-19&article=2026-04-19-experts-urge-standard-treatment-guidelines-to-streamline-haemophilia-car"
-      },
-      {
         "id": "2026-04-19-researchers-use-nasal-spray-to-suppress-brain-inflammation-reverse-agein",
         "title": "Researchers use nasal spray to suppress brain inflammation, reverse ageing",
         "summary": "The therapy, developed by the team at Texas A&M University in the US and involving two doses of the spray, also helped restore the brain cells' mitochondria, or power plants, and significantly improved memory in mice.",
@@ -102,26 +105,9 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-130391875,imgsize-62188,width-1200,height=627,overlay-ethealth,resizemode-75/industry/unlocking-indias-healthcare-revenue-the-untapped-potential-of-opds.jpg",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/unlocking-indias-healthcare-revenue-the-untapped-potential-of-opds/130391875",
         "articlePath": "/article.html?issue=2026-04-19&article=2026-04-19-opd-is-india-s-largest-untapped-revenue-engine-so-why-are-hospitals-stil"
-      },
-      {
-        "id": "2026-04-19-nha-honours-states-uts-for-excellence-in-ab-pm-jay-and-abdm-implementati",
-        "title": "NHA honours states, UTs for excellence in AB PM-JAY and ABDM implementation",
-        "summary": "According to an official release issued by the Ministry of Health and Family Welfare, building upon the discussions of Day 1, the second day commenced with a presentation on Karnataka's online referral system for PM-JAY beneficiaries. The initiative has...",
-        "source": "ET Healthworld",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-04-20T01:17:40.000Z",
-        "publishedLabel": "April 20, 2026",
-        "category": "Industry Update",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-130380183,imgsize-156160,width-1200,height=627,overlay-ethealth,resizemode-75/policy/nha-honours-states-uts-for-excellence-in-ab-pm-jay-and-abdm-implementation.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/policy/nha-honours-states-uts-for-excellence-in-ab-pm-jay-and-abdm-implementation/130380183",
-        "articlePath": "/article.html?issue=2026-04-19&article=2026-04-19-nha-honours-states-uts-for-excellence-in-ab-pm-jay-and-abdm-implementati"
       },
       {
         "id": "2026-04-19-centre-to-states-standardise-hospital-rates",
@@ -141,74 +127,6 @@
         "articlePath": "/article.html?issue=2026-04-19&article=2026-04-19-centre-to-states-standardise-hospital-rates"
       },
       {
-        "id": "2026-04-19-apollo-hospitals-appoints-dr-harit-kumar-chaturvedi-ceo-of-oncology-netw",
-        "title": "Apollo Hospitals appoints Dr Harit Kumar Chaturvedi CEO of Oncology Network",
-        "summary": "With nearly four decades of experience in surgical oncology, Dr Chaturvedi, has played a key role in building one of North India’s leading oncology ecosystems, introducing organ-specific cancer units, multidisciplinary tumour boards, and national research...",
-        "source": "ET Healthworld",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-04-20T06:01:12.000Z",
-        "publishedLabel": "April 20, 2026",
-        "category": "Industry Update",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-130383887,imgsize-76778,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/apollo-hospitals-appoints-dr-harit-kumar-chaturvedi-ceo-of-oncology-network.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/apollo-hospitals-appoints-dr-harit-kumar-chaturvedi-ceo-of-oncology-network/130383887",
-        "articlePath": "/article.html?issue=2026-04-19&article=2026-04-19-apollo-hospitals-appoints-dr-harit-kumar-chaturvedi-ceo-of-oncology-netw"
-      },
-      {
-        "id": "2026-04-19-excessive-energy-drink-consumption-harming-liver-health-of-youth-experts",
-        "title": "Excessive energy drink consumption harming liver health of youth: Experts",
-        "summary": "Recent medical studies have highlighted the harmful impact of energy drinks on liver health. A widely cited case published in the journal BMJ Case Reports documented acute hepatitis in a previously healthy individual linked to excessive energy drink...",
-        "source": "ET Healthworld",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-04-20T01:04:17.000Z",
-        "publishedLabel": "April 20, 2026",
-        "category": "Industry Update",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-130380197,imgsize-221908,width-1200,height=627,overlay-ethealth,resizemode-75/industry/excessive-energy-drink-consumption-harming-liver-health-of-youth-experts.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/excessive-energy-drink-consumption-harming-liver-health-of-youth-experts/130380197",
-        "articlePath": "/article.html?issue=2026-04-19&article=2026-04-19-excessive-energy-drink-consumption-harming-liver-health-of-youth-experts"
-      },
-      {
-        "id": "2026-04-19-doctor-led-ai-platform-offering-24x7-monitoring-outside-hospital-setting",
-        "title": "Doctor-led AI platform offering 24x7 monitoring outside hospital settings launched in Chennai",
-        "summary": "The initiative aims to improve clinical outcomes for patients with chronic conditions preventing their escalation into serious illness and reduce the risk of sudden cardiac events.",
-        "source": "ET Healthworld",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-04-20T01:02:30.000Z",
-        "publishedLabel": "April 20, 2026",
-        "category": "Launch",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-130380200,imgsize-129944,width-1200,height=627,overlay-ethealth,resizemode-75/health-it/doctor-led-ai-platform-offering-24x7-monitoring-outside-hospital-settings-launched-in-chennai.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/health-it/doctor-led-ai-platform-offering-24x7-monitoring-outside-hospital-settings-launched-in-chennai/130380200",
-        "articlePath": "/article.html?issue=2026-04-19&article=2026-04-19-doctor-led-ai-platform-offering-24x7-monitoring-outside-hospital-setting"
-      },
-      {
-        "id": "2026-04-19-children-exclusively-breastfed-show-distinct-dna-changes-study-finds",
-        "title": "Children exclusively breastfed show distinct DNA changes, study finds",
-        "summary": "DNA methylation marks were measured from samples taken when the children were aged 5 to 12 years, and compared them with samples taken from the umbilical cord to assess pre-breastfeeding. The researchers examined whether there was any difference related to...",
-        "source": "ET Healthworld",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-04-19T05:19:32.000Z",
-        "publishedLabel": "April 19, 2026",
-        "category": "Industry Update",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-130365399,imgsize-158278,width-1200,height=627,overlay-ethealth,resizemode-75/industry/children-exclusively-breastfed-show-distinct-dna-changes-study-finds.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/children-exclusively-breastfed-show-distinct-dna-changes-study-finds/130365399",
-        "articlePath": "/article.html?issue=2026-04-19&article=2026-04-19-children-exclusively-breastfed-show-distinct-dna-changes-study-finds"
-      },
-      {
         "id": "2026-04-19-ucb-acquires-neurona-therapeutics-for-usd1-15b-to-secure-epilepsy-cell-t",
         "title": "UCB acquires Neurona Therapeutics for USD1.15B to secure epilepsy cell therapy | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
         "summary": "The therapy, known as NRTX-1001, uses pluripotent stem cells engineered to regulate brain activity and repair damaged neural networks.",
@@ -224,6 +142,23 @@
         "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/04/19/ucb-acquires-neurona-therapeutics-for-usd1-15b-to-secure-epilepsy-cell-therapy/",
         "articlePath": "/article.html?issue=2026-04-19&article=2026-04-19-ucb-acquires-neurona-therapeutics-for-usd1-15b-to-secure-epilepsy-cell-t"
+      },
+      {
+        "id": "2026-04-19-rusan-pharma-achieves-key-gmp-clearance-from-japan-s-pmda",
+        "title": "Rusan Pharma Achieves Key GMP Clearance from Japan's PMDA",
+        "summary": "Mumbai: Rusan Pharma, a leading pharmaceutical company pioneering pain management, movement disorder, and addiction solutions worldwide, has achieved a significant global regulatory milestone with the...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-04-20T14:00:08.000Z",
+        "publishedLabel": "April 20, 2026",
+        "category": "Industry Update",
+        "image": "https://medicaldialogues.in/h-upload/2026/04/20/342705-rusan-pharma.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/rusan-pharma-achieves-key-gmp-clearance-from-japans-pmda-169041",
+        "articlePath": "/article.html?issue=2026-04-19&article=2026-04-19-rusan-pharma-achieves-key-gmp-clearance-from-japan-s-pmda"
       },
       {
         "id": "2026-04-19-nppa-defers-price-exemption-for-biological-e-s-pneumonia-vaccine-seeks-p",
@@ -243,6 +178,40 @@
         "articlePath": "/article.html?issue=2026-04-19&article=2026-04-19-nppa-defers-price-exemption-for-biological-e-s-pneumonia-vaccine-seeks-p"
       },
       {
+        "id": "2026-04-19-west-asia-conflict-may-trigger-drug-price-surge-in-india-warn-distributo",
+        "title": "West Asia Conflict May Trigger Drug Price Surge in India, Warn Distributors",
+        "summary": "Visakhapatnam: The ongoing conflict involving Iran has begun to ripple through India's healthcare sector, with pharmaceutical distributors warning of a significant price hike for life-saving...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-04-20T16:46:19.000Z",
+        "publishedLabel": "April 20, 2026",
+        "category": "Industry Update",
+        "image": "https://medicaldialogues.in/h-upload/2026/02/09/326373-medicine.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/west-asia-conflict-may-trigger-drug-price-surge-in-india-warn-distributors-169040",
+        "articlePath": "/article.html?issue=2026-04-19&article=2026-04-19-west-asia-conflict-may-trigger-drug-price-surge-in-india-warn-distributo"
+      },
+      {
+        "id": "2026-04-19-gujarat-ngo-flags-regulatory-gaps-in-nutraceuticals-seeks-drug-level-con",
+        "title": "Gujarat NGO Flags 'Regulatory Gaps' in Nutraceuticals, Seeks Drug-Level Control",
+        "summary": "New Delhi: A Gujarat-based NGO has urged the government to bring nutraceuticals, including fortified foods and health supplements, under the ambit of drug regulators by implementing the...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-04-20T16:43:51.000Z",
+        "publishedLabel": "April 20, 2026",
+        "category": "Industry Update",
+        "image": "https://medicaldialogues.in/h-upload/2026/04/20/342699-nutraceuticals.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/gujarat-ngo-flags-regulatory-gaps-in-nutraceuticals-seeks-drug-level-control-169039",
+        "articlePath": "/article.html?issue=2026-04-19&article=2026-04-19-gujarat-ngo-flags-regulatory-gaps-in-nutraceuticals-seeks-drug-level-con"
+      },
+      {
         "id": "2026-04-19-gurugram-bust-rs-70-lakh-counterfeit-eli-lilly-mounjaro-recovered-2-arre",
         "title": "Gurugram Bust: Rs 70 Lakh Counterfeit Eli Lilly Mounjaro Recovered, 2 Arrested",
         "summary": "New Delhi: In a major enforcement action, two individuals were arrested in Gurugram after the drugs control department seized a consignment of suspected spurious Mounjaro KwikPen (tirzepatide)...",
@@ -255,7 +224,7 @@
         "category": "Industry Update",
         "image": "https://medicaldialogues.in/h-upload/2024/01/20/230637-eli-lilly-50.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/gurugram-bust-rs-70-lakh-counterfeit-eli-lilly-mounjaro-recovered-2-arrested-169036",
         "articlePath": "/article.html?issue=2026-04-19&article=2026-04-19-gurugram-bust-rs-70-lakh-counterfeit-eli-lilly-mounjaro-recovered-2-arre"
       },
@@ -277,6 +246,23 @@
         "articlePath": "/article.html?issue=2026-04-19&article=2026-04-19-stf-drug-control-team-bust-illegal-codeine-supply-chain-8-520-bottles-se"
       },
       {
+        "id": "2026-04-19-eli-lilly-nears-2-billion-deal-to-buy-kelonia-therapeutics",
+        "title": "Eli Lilly Nears $2 Billion Deal to Buy Kelonia Therapeutics",
+        "summary": "New Delhi: The U.S. drugmaker Eli Lilly, opens new tab, is in advanced talks to acquire ​biotech firm Kelonia Therapeutics for more than $ 2 ‌billion, the Wall Street Journal reported on Sunday.A deal...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-04-20T11:30:43.000Z",
+        "publishedLabel": "April 20, 2026",
+        "category": "Deal",
+        "image": "https://medicaldialogues.in/h-upload/2024/06/07/240414-eli-lilly-50.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/eli-lilly-nears-2-billion-deal-to-buy-kelonia-therapeutics-169042",
+        "articlePath": "/article.html?issue=2026-04-19&article=2026-04-19-eli-lilly-nears-2-billion-deal-to-buy-kelonia-therapeutics"
+      },
+      {
         "id": "2026-04-19-new-hope-for-copd-patients-as-astrazeneca-drug-shows-strong-results-in-m",
         "title": "New Hope for COPD Patients as AstraZeneca Drug Shows Strong Results in Major Trial",
         "summary": "A new experimental drug from AstraZeneca is giving fresh hope to millions of people living with Chronic Obstructive Pulmonary Disease after showing positive results in a large late-stage study.The drug, Tozorakimab, met its main goal in the Phase III MIRANDA...",
@@ -289,7 +275,7 @@
         "category": "Industry Update",
         "image": "https://www.pharmatutor.org/sites/default/files/styles/webp/public/2026-04/new-hope-for-copd-patients-as-astrazeneca-drug-shows-strong-results-in-major-trial.jpg.webp?itok=5EMMULF5",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/new-hope-for-copd-patients-as-astrazeneca-drug-shows-strong-results-in-major-trial",
         "articlePath": "/article.html?issue=2026-04-19&article=2026-04-19-new-hope-for-copd-patients-as-astrazeneca-drug-shows-strong-results-in-m"
       },
@@ -326,9 +312,78 @@
         "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/ias-son-duped-in-rs-13-cr-pharma-investment-scam-in-lucknow-168930",
         "articlePath": "/article.html?issue=2026-04-19&article=2026-04-19-ias-son-duped-in-rs-13-cr-pharma-investment-scam-in-lucknow"
+      },
+      {
+        "id": "2026-04-19-no-zombie-drug-man-seen-in-thane-video-overdosed-on-pain-medicine-police",
+        "title": "No 'zombie drug', man seen in Thane video overdosed on pain medicine: Police",
+        "summary": "Thane police have clarified a viral video showing a disoriented man. The man was not under the influence of a 'zombie drug'. He had taken an overdose of Pregabalin, a medicine for nerve pain. The individual was identified as Sameer Rajendra Rawal, a labourer...",
+        "source": "Lupin Updates",
+        "sourceHost": "economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-04-21T05:30:00.000Z",
+        "publishedLabel": "April 21, 2026",
+        "category": "Industry Update",
+        "image": "https://img.etimg.com/thumb/msid-130408344,width-1200,height-630,imgsize-14124,overlay-economictimes/articleshow.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://economictimes.indiatimes.com/news/india/no-zombie-drug-man-seen-in-thane-video-overdosed-on-pain-medicine-police/articleshow/130408344.cms",
+        "articlePath": "/article.html?issue=2026-04-19&article=2026-04-19-no-zombie-drug-man-seen-in-thane-video-overdosed-on-pain-medicine-police"
+      },
+      {
+        "id": "2026-04-19-lupin-limited-gets-3-observations-after-usfda-inspection-of-somerset-fac",
+        "title": "Lupin Limited Gets 3 Observations After USFDA Inspection of Somerset Facility",
+        "summary": "New Delhi: Lupin Limited has informed that the United States Food and Drug Administration (USFDA) has concluded an inspection at its manufacturing facility in Somerset, New Jersey, USA.The inspection...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-04-20T13:30:09.000Z",
+        "publishedLabel": "April 20, 2026",
+        "category": "Manufacturing",
+        "image": "https://medicaldialogues.in/h-upload/2023/01/10/197256-lupin-3.jpg",
+        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
+        "justIn": true,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/lupin-limited-gets-3-observations-after-usfda-inspection-of-somerset-facility-169043",
+        "articlePath": "/article.html?issue=2026-04-19&article=2026-04-19-lupin-limited-gets-3-observations-after-usfda-inspection-of-somerset-fac"
       }
     ],
-    "providers": [],
+    "providers": [
+      {
+        "id": "2026-04-19-apollo-hospitals-appoints-dr-harit-kumar-chaturvedi-ceo-of-oncology-netw",
+        "title": "Apollo Hospitals appoints Dr Harit Kumar Chaturvedi CEO of Oncology Network",
+        "summary": "With nearly four decades of experience in surgical oncology, Dr Chaturvedi, has played a key role in building one of North India’s leading oncology ecosystems, introducing organ-specific cancer units, multidisciplinary tumour boards, and national research...",
+        "source": "ET Healthworld Hospitals",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-04-20T06:01:12.000Z",
+        "publishedLabel": "April 20, 2026",
+        "category": "Hospital",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-130383887,imgsize-76778,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/apollo-hospitals-appoints-dr-harit-kumar-chaturvedi-ceo-of-oncology-network.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": false,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/apollo-hospitals-appoints-dr-harit-kumar-chaturvedi-ceo-of-oncology-network/130383887",
+        "articlePath": "/article.html?issue=2026-04-19&article=2026-04-19-apollo-hospitals-appoints-dr-harit-kumar-chaturvedi-ceo-of-oncology-netw"
+      },
+      {
+        "id": "2026-04-19-lilavati-hospital-and-research-centre-expands-its-footprint-in-gujarat",
+        "title": "Lilavati Hospital and Research Centre expands its footprint in Gujarat",
+        "summary": "Lilavati Hospital and Research Centre has announced its expansion into Gujarat with the launch of its upcoming facility in GIFT City, Gandhinagar. Located in GIFT City, the new facility is […]",
+        "source": "Express Healthcare",
+        "sourceHost": "expresshealthcare.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-04-21T06:07:04.000Z",
+        "publishedLabel": "April 21, 2026",
+        "category": "Expansion",
+        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/04/21113656/New-Project-14.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": false,
+        "originalUrl": "https://www.expresshealthcare.in/news/lilavati-hospital-and-research-centre-expands-its-footprint-in-gujarat/453439/",
+        "articlePath": "/article.html?issue=2026-04-19&article=2026-04-19-lilavati-hospital-and-research-centre-expands-its-footprint-in-gujarat"
+      }
+    ],
     "diagnostics": [
       {
         "id": "2026-04-19-antibiotic-killmed-625-lb-fails-quality-test-no-clavulanic-acid-found-de",
@@ -353,6 +408,14 @@
   "thbActions": [
     {
       "segment": "pharma",
+      "articleId": "2026-04-19-bain-capital-sole-contender-for-vitabiotics-buy",
+      "title": "Bain Capital sole contender for Vitabiotics buy",
+      "source": "ET Healthworld",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "pharma",
       "articleId": "2026-04-19-drug-regulator-oversight-sought-for-nutraceuticals-ngo-flags-quality-pri",
       "title": "Drug regulator oversight sought for nutraceuticals; NGO flags quality, pricing concerns",
       "source": "Economic Times Pharma",
@@ -369,14 +432,6 @@
     },
     {
       "segment": "pharma",
-      "articleId": "2026-04-19-experts-urge-standard-treatment-guidelines-to-streamline-haemophilia-car",
-      "title": "Experts urge standard treatment guidelines to streamline haemophilia care in India",
-      "source": "ET Healthworld",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
-      "segment": "pharma",
       "articleId": "2026-04-19-researchers-use-nasal-spray-to-suppress-brain-inflammation-reverse-agein",
       "title": "Researchers use nasal spray to suppress brain inflammation, reverse ageing",
       "source": "ET Healthworld",
@@ -390,6 +445,22 @@
       "source": "ET Healthworld",
       "solution": "THB Commercial Analytics",
       "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
+    },
+    {
+      "segment": "providers",
+      "articleId": "2026-04-19-apollo-hospitals-appoints-dr-harit-kumar-chaturvedi-ceo-of-oncology-netw",
+      "title": "Apollo Hospitals appoints Dr Harit Kumar Chaturvedi CEO of Oncology Network",
+      "source": "ET Healthworld Hospitals",
+      "solution": "THB Provider CRM",
+      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
+    },
+    {
+      "segment": "providers",
+      "articleId": "2026-04-19-lilavati-hospital-and-research-centre-expands-its-footprint-in-gujarat",
+      "title": "Lilavati Hospital and Research Centre expands its footprint in Gujarat",
+      "source": "Express Healthcare",
+      "solution": "THB Provider CRM",
+      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
     },
     {
       "segment": "diagnostics",
