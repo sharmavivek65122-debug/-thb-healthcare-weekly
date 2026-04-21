@@ -5,9 +5,9 @@
   "startDate": "2026-03-21T18:30:00.000Z",
   "endDate": "2026-03-27T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-04-21T06:19:29.964Z",
+  "updatedAt": "2026-04-21T14:57:20.760Z",
   "coverage": {
-    "pharma": 3,
+    "pharma": 1,
     "providers": 8,
     "diagnostics": 3,
     "healthtech": 0
@@ -17,28 +17,10 @@
     "ET Healthworld Diagnostics",
     "ET Healthworld Hospitals",
     "Financial Express Healthcare",
-    "Lupin Updates",
-    "PharmaTutor News"
+    "Lupin Updates"
   ],
   "segments": {
     "pharma": [
-      {
-        "id": "2026-03-22-fda-approves-first-gene-therapy-for-severe-leukocyte-adhesion-deficiency",
-        "title": "FDA Approves First Gene Therapy for Severe Leukocyte Adhesion Deficiency Type I",
-        "summary": "The U.S. Food and Drug Administration today approved Kresladi (marnetegragene autotemcel), the first gene therapy for the treatment of severe Leukocyte Adhesion Deficiency Type I (LAD-I). Kresladi is indicated for the treatment of pediatric patients with...",
-        "source": "PharmaTutor News",
-        "sourceHost": "pharmatutor.org",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-03-27T10:56:57.000Z",
-        "publishedLabel": "March 27, 2026",
-        "category": "Industry Update",
-        "image": "https://www.pharmatutor.org/sites/default/files/styles/webp/public/2026-03/fda-approves-first-gene-therapy-for-severe-leukocyte-adhesion-deficiency-type-i.jpg.webp?itok=UDqyE4nH",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/fda-approves-first-gene-therapy-for-severe-leukocyte-adhesion-deficiency-type-i",
-        "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-fda-approves-first-gene-therapy-for-severe-leukocyte-adhesion-deficiency"
-      },
       {
         "id": "2026-03-22-glp-1-impact-jefferies-sees-these-3-stocks-as-winners-in-the-race-for-oz",
         "title": "GLP-1 impact: Jefferies sees these 3 stocks as winners in the race for Ozempic, Wegovy generics",
@@ -55,23 +37,6 @@
         "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/markets/stocks/news/glp-1-impact-jefferies-sees-these-3-stocks-as-winners-in-the-race-for-ozempic-wegovy-generics/articleshow/129842771.cms",
         "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-glp-1-impact-jefferies-sees-these-3-stocks-as-winners-in-the-race-for-oz"
-      },
-      {
-        "id": "2026-03-22-novo-nordisk-awiqli-approved-in-the-usa",
-        "title": "Novo Nordisk : Awiqli® approved in the USA",
-        "summary": "Novo Nordisk announced that the US Food and Drug Administration (FDA) has approved Awiqli® (insulin icodec-abae) injection 700 units/mL, the first and only once-weekly, long-acting basal insulin, indicated as an adjunct to diet and exercise to improve...",
-        "source": "PharmaTutor News",
-        "sourceHost": "pharmatutor.org",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-03-27T11:02:45.000Z",
-        "publishedLabel": "March 27, 2026",
-        "category": "Industry Update",
-        "image": "https://www.pharmatutor.org/sites/default/files/styles/webp/public/2026-03/novo-nordisk-awiqli-approved-in-the-usa.jpg.webp?itok=fv3-fa65",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://www.pharmatutor.org/content/march-2026/novo-nordisk-awiqli-approved-in-the-usa",
-        "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-novo-nordisk-awiqli-approved-in-the-usa"
       }
     ],
     "providers": [
@@ -270,25 +235,9 @@
   "thbActions": [
     {
       "segment": "pharma",
-      "articleId": "2026-03-22-fda-approves-first-gene-therapy-for-severe-leukocyte-adhesion-deficiency",
-      "title": "FDA Approves First Gene Therapy for Severe Leukocyte Adhesion Deficiency Type I",
-      "source": "PharmaTutor News",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
-      "segment": "pharma",
       "articleId": "2026-03-22-glp-1-impact-jefferies-sees-these-3-stocks-as-winners-in-the-race-for-oz",
       "title": "GLP-1 impact: Jefferies sees these 3 stocks as winners in the race for Ozempic, Wegovy generics",
       "source": "Lupin Updates",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
-      "segment": "pharma",
-      "articleId": "2026-03-22-novo-nordisk-awiqli-approved-in-the-usa",
-      "title": "Novo Nordisk : Awiqli® approved in the USA",
-      "source": "PharmaTutor News",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
     },

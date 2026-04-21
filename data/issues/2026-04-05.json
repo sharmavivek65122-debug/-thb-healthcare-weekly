@@ -5,10 +5,10 @@
   "startDate": "2026-04-04T18:30:00.000Z",
   "endDate": "2026-04-10T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-04-21T06:19:29.964Z",
+  "updatedAt": "2026-04-21T14:57:20.760Z",
   "coverage": {
-    "pharma": 7,
-    "providers": 4,
+    "pharma": 6,
+    "providers": 5,
     "diagnostics": 3,
     "healthtech": 0
   },
@@ -54,23 +54,6 @@
         "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/mounjaro-sales-dip-amid-price-war-as-semaglutide-generics-gain-ground/articleshow/130152530.cms",
         "articlePath": "/article.html?issue=2026-04-05&article=2026-04-05-mounjaro-sales-dip-amid-price-war-as-semaglutide-generics-gain-ground"
-      },
-      {
-        "id": "2026-04-05-iran-conflict-pharma-supply-chains-may-take-months-to-recover",
-        "title": "Iran conflict: Pharma supply chains may take months to recover",
-        "summary": "The ongoing Iran conflict has disrupted pharmaceutical supply chains, leading to prolonged recovery times for exports and API prices. Industry experts emphasize the need for resilience amid rising freight costs and inventory issues.",
-        "source": "Economic Times Pharma",
-        "sourceHost": "economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-04-09T18:50:44.000Z",
-        "publishedLabel": "April 10, 2026",
-        "category": "Industry Update",
-        "image": "https://img.etimg.com/thumb/msid-130152316,width-1200,height-630,imgsize-143660,overlay-economictimes/articleshow.jpg",
-        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": false,
-        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/iran-conflict-pharma-supply-chains-may-take-months-to-recover/articleshow/130152316.cms",
-        "articlePath": "/article.html?issue=2026-04-05&article=2026-04-05-iran-conflict-pharma-supply-chains-may-take-months-to-recover"
       },
       {
         "id": "2026-04-05-mounjaro-takes-a-hit-as-generic-weight-loss-medicines-flood-the-market",
@@ -209,6 +192,23 @@
         "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/pgi-revamps-procurement-after-ayushman-bharat-scam/130035189",
         "articlePath": "/article.html?issue=2026-04-05&article=2026-04-05-pgi-revamps-procurement-after-ayushman-bharat-scam"
+      },
+      {
+        "id": "2026-04-05-max-healthcare-to-acquire-kalinga-hospital-controlling-stake-for-300-cr",
+        "title": "Max Healthcare to acquire Kalinga Hospital controlling stake for ₹300 cr",
+        "summary": "Under the share purchase agreement, Max will acquire 58.4 per cent stake in the Bhubaneswar-based 250 bed facility, at an equity value of Rs 300 crore (including control premium).",
+        "source": "ET Healthworld Hospitals",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-04-08T07:39:52.000Z",
+        "publishedLabel": "April 8, 2026",
+        "category": "Hospital",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-130106337,imgsize-69996,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/max-healthcare-to-acquire-kalinga-hospital-controlling-stake-for-300-cr.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": false,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/max-healthcare-to-acquire-kalinga-hospital-controlling-stake-for-300-cr/130106337",
+        "articlePath": "/article.html?issue=2026-04-05&article=2026-04-05-max-healthcare-to-acquire-kalinga-hospital-controlling-stake-for-300-cr"
       }
     ],
     "diagnostics": [
@@ -285,14 +285,6 @@
     },
     {
       "segment": "pharma",
-      "articleId": "2026-04-05-iran-conflict-pharma-supply-chains-may-take-months-to-recover",
-      "title": "Iran conflict: Pharma supply chains may take months to recover",
-      "source": "Economic Times Pharma",
-      "solution": "THB Commercial Analytics",
-      "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
-    },
-    {
-      "segment": "pharma",
       "articleId": "2026-04-05-mounjaro-takes-a-hit-as-generic-weight-loss-medicines-flood-the-market",
       "title": "Mounjaro takes a hit as generic weight-loss medicines flood the market",
       "source": "Financial Express Healthcare",
@@ -303,6 +295,14 @@
       "segment": "pharma",
       "articleId": "2026-04-05-lupin-announces-approval-of-dapagliflozin-and-metformin-hydrochloride-ex",
       "title": "Lupin announces approval of Dapagliflozin and Metformin Hydrochloride Extended-Release Tablets in the USA",
+      "source": "PharmaTutor News",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "pharma",
+      "articleId": "2026-04-05-fda-approves-first-generic-dapagliflozin-tablets",
+      "title": "FDA approves First Generic Dapagliflozin Tablets",
       "source": "PharmaTutor News",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
@@ -335,6 +335,14 @@
       "segment": "providers",
       "articleId": "2026-04-05-pgi-revamps-procurement-after-ayushman-bharat-scam",
       "title": "PGI revamps procurement after Ayushman Bharat scam",
+      "source": "ET Healthworld Hospitals",
+      "solution": "THB Provider CRM",
+      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
+    },
+    {
+      "segment": "providers",
+      "articleId": "2026-04-05-max-healthcare-to-acquire-kalinga-hospital-controlling-stake-for-300-cr",
+      "title": "Max Healthcare to acquire Kalinga Hospital controlling stake for ₹300 cr",
       "source": "ET Healthworld Hospitals",
       "solution": "THB Provider CRM",
       "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
