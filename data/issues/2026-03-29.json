@@ -5,23 +5,40 @@
   "startDate": "2026-03-28T18:30:00.000Z",
   "endDate": "2026-04-03T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-04-22T06:18:49.640Z",
+  "updatedAt": "2026-04-22T14:58:26.744Z",
   "coverage": {
-    "pharma": 6,
+    "pharma": 5,
     "providers": 5,
     "diagnostics": 1,
     "healthtech": 0
   },
   "sourcesUsed": [
     "BioSpectrum Asia Middle East",
+    "ET Healthworld",
     "ET Healthworld Diagnostics",
     "ET Healthworld Hospitals",
     "Financial Express Healthcare",
-    "Lupin Updates",
-    "PharmaTutor News"
+    "Lupin Updates"
   ],
   "segments": {
     "pharma": [
+      {
+        "id": "2026-03-29-peritoneal-dialysis-can-redefine-renal-care-a-vision-for-sustainable-hea",
+        "title": "Peritoneal Dialysis Can Redefine Renal Care: A Vision for Sustainable Health in India",
+        "summary": "Brand Connect Initiative",
+        "source": "ET Healthworld",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-03-30T06:33:37.000Z",
+        "publishedLabel": "March 30, 2026",
+        "category": "Industry Update",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-129893042,imgsize-53868,width-1200,height=627,overlay-ethealth,resizemode-75/industry/peritoneal-dialysis-can-redefine-renal-care-a-vision-for-sustainable-health-in-india.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": false,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/peritoneal-dialysis-can-redefine-renal-care-a-vision-for-sustainable-health-in-india/129893042",
+        "articlePath": "/article.html?issue=2026-03-29&article=2026-03-29-peritoneal-dialysis-can-redefine-renal-care-a-vision-for-sustainable-hea"
+      },
       {
         "id": "2026-03-29-industry-body-seeks-govt-aid-to-tide-over-disruptions-in-the-pharma-and-",
         "title": "Industry body seeks govt aid to tide over disruptions in the pharma and MedTech sectors",
@@ -55,40 +72,6 @@
         "justIn": false,
         "originalUrl": "https://www.financialexpress.com/business/news/emcure-cuts-glp-drug-poviztra-price-by-55/4193187/",
         "articlePath": "/article.html?issue=2026-03-29&article=2026-03-29-emcure-cuts-glp-drug-poviztra-price-by-55"
-      },
-      {
-        "id": "2026-03-29-lilly-s-novel-weight-loss-medicine-gets-fda-approval",
-        "title": "Lilly's novel weight loss medicine gets FDA approval",
-        "summary": "Eli Lilly and Company announced the U.S. Food and Drug Administration (FDA) approved Foundayo™ (orforglipron) for adults with obesity, or overweight with weight-related medical problems.When used alongside a reduced-calorie diet and increased physical...",
-        "source": "PharmaTutor News",
-        "sourceHost": "pharmatutor.org",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-04-02T11:25:05.000Z",
-        "publishedLabel": "April 2, 2026",
-        "category": "Approval",
-        "image": "https://www.pharmatutor.org/sites/default/files/styles/webp/public/2026-04/lillys-novel-weight-loss-medicine-gets-fda-approval.jpg.webp?itok=YmsdlXGs",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/lillys-novel-weight-loss-medicine-gets-fda-approval",
-        "articlePath": "/article.html?issue=2026-03-29&article=2026-03-29-lilly-s-novel-weight-loss-medicine-gets-fda-approval"
-      },
-      {
-        "id": "2026-03-29-new-drug-shows-91-reduction-in-seizures-in-children-with-rare-epilepsy",
-        "title": "New Drug Shows 91% Reduction in Seizures in Children with Rare Epilepsy",
-        "summary": "A groundbreaking investigational therapy is offering new hope for children affected by Dravet syndrome, a severe and treatment-resistant form of epilepsy. The drug, known as zorevunersen, has demonstrated remarkable results in clinical trials, significantly...",
-        "source": "PharmaTutor News",
-        "sourceHost": "pharmatutor.org",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-03-30T11:12:43.000Z",
-        "publishedLabel": "March 30, 2026",
-        "category": "Clinical Trial",
-        "image": "https://www.pharmatutor.org/sites/default/files/styles/webp/public/2026-03/new-drug-shows-91-percent-reduction-in-seizures-in-children-with-rare-epilepsy.jpg.webp?itok=vGLLLmsb",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/new-drug-shows-91-percent-reduction-in-seizures-in-children-with-rare-epilepsy",
-        "articlePath": "/article.html?issue=2026-03-29&article=2026-03-29-new-drug-shows-91-reduction-in-seizures-in-children-with-rare-epilepsy"
       },
       {
         "id": "2026-03-29-season-of-biotech-succession",
@@ -236,6 +219,14 @@
   "thbActions": [
     {
       "segment": "pharma",
+      "articleId": "2026-03-29-peritoneal-dialysis-can-redefine-renal-care-a-vision-for-sustainable-hea",
+      "title": "Peritoneal Dialysis Can Redefine Renal Care: A Vision for Sustainable Health in India",
+      "source": "ET Healthworld",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "pharma",
       "articleId": "2026-03-29-industry-body-seeks-govt-aid-to-tide-over-disruptions-in-the-pharma-and-",
       "title": "Industry body seeks govt aid to tide over disruptions in the pharma and MedTech sectors",
       "source": "Financial Express Healthcare",
@@ -252,27 +243,19 @@
     },
     {
       "segment": "pharma",
-      "articleId": "2026-03-29-lilly-s-novel-weight-loss-medicine-gets-fda-approval",
-      "title": "Lilly's novel weight loss medicine gets FDA approval",
-      "source": "PharmaTutor News",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
-      "segment": "pharma",
-      "articleId": "2026-03-29-new-drug-shows-91-reduction-in-seizures-in-children-with-rare-epilepsy",
-      "title": "New Drug Shows 91% Reduction in Seizures in Children with Rare Epilepsy",
-      "source": "PharmaTutor News",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
-      "segment": "pharma",
       "articleId": "2026-03-29-season-of-biotech-succession",
       "title": "Season of Biotech Succession",
       "source": "BioSpectrum Asia Middle East",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "pharma",
+      "articleId": "2026-03-29-stocks-in-news-indigo-sammaan-capital-bharti-airtel-grse-coforge",
+      "title": "Stocks in news: IndiGo, Sammaan Capital, Bharti Airtel, GRSE, Coforge",
+      "source": "Lupin Updates",
+      "solution": "THB Commercial Analytics",
+      "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
     },
     {
       "segment": "providers",
