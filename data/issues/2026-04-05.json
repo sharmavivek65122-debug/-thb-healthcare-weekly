@@ -5,9 +5,9 @@
   "startDate": "2026-04-04T18:30:00.000Z",
   "endDate": "2026-04-10T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-04-21T14:57:20.760Z",
+  "updatedAt": "2026-04-22T06:18:49.640Z",
   "coverage": {
-    "pharma": 6,
+    "pharma": 4,
     "providers": 5,
     "diagnostics": 3,
     "healthtech": 0
@@ -15,46 +15,11 @@
   "sourcesUsed": [
     "ET Healthworld Diagnostics",
     "ET Healthworld Hospitals",
-    "Economic Times Pharma",
     "Financial Express Healthcare",
     "PharmaTutor News"
   ],
   "segments": {
     "pharma": [
-      {
-        "id": "2026-04-05-sun-pharma-closes-in-on-organon-buy-gets-set-for-12-billion-binding-bid",
-        "title": "Sun Pharma closes in on Organon buy, gets set for $12 billion binding bid",
-        "summary": "Sun Pharmaceutical Industries moves forward with a $12 billion binding bid to acquire Organon & Co., potentially transforming the landscape of Indian pharmaceuticals and marking the largest overseas acquisition by an Indian pharma company.",
-        "source": "Economic Times Pharma",
-        "sourceHost": "economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-04-10T00:00:00.000Z",
-        "publishedLabel": "April 10, 2026",
-        "category": "Industry Update",
-        "image": "https://img.etimg.com/thumb/msid-130157789,width-1200,height-630,imgsize-83224,overlay-economictimes/articleshow.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/sun-pharma-preps-for-12-billion-organon-bid-in-biggest-overseas-pharma-ma-by-indian-co/articleshow/130152812.cms",
-        "articlePath": "/article.html?issue=2026-04-05&article=2026-04-05-sun-pharma-closes-in-on-organon-buy-gets-set-for-12-billion-binding-bid"
-      },
-      {
-        "id": "2026-04-05-mounjaro-sales-dip-amid-price-war-as-semaglutide-generics-gain-ground",
-        "title": "Mounjaro sales dip amid price war as semaglutide generics gain ground",
-        "summary": "Mounjaro, the star pharmaceutical from Eli Lilly, is experiencing a downturn in sales across India. This slump can be attributed to competitor Novo Nordisk slashing prices on their famed Ozempic and Wegovy, not to mention the influx of cost-effective...",
-        "source": "Economic Times Pharma",
-        "sourceHost": "economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-04-09T19:08:06.000Z",
-        "publishedLabel": "April 10, 2026",
-        "category": "Industry Update",
-        "image": "https://img.etimg.com/thumb/msid-130152712,width-1200,height-630,imgsize-60266,overlay-economictimes/articleshow.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/mounjaro-sales-dip-amid-price-war-as-semaglutide-generics-gain-ground/articleshow/130152530.cms",
-        "articlePath": "/article.html?issue=2026-04-05&article=2026-04-05-mounjaro-sales-dip-amid-price-war-as-semaglutide-generics-gain-ground"
-      },
       {
         "id": "2026-04-05-mounjaro-takes-a-hit-as-generic-weight-loss-medicines-flood-the-market",
         "title": "Mounjaro takes a hit as generic weight-loss medicines flood the market",
@@ -269,22 +234,6 @@
   "thbActions": [
     {
       "segment": "pharma",
-      "articleId": "2026-04-05-sun-pharma-closes-in-on-organon-buy-gets-set-for-12-billion-binding-bid",
-      "title": "Sun Pharma closes in on Organon buy, gets set for $12 billion binding bid",
-      "source": "Economic Times Pharma",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
-      "segment": "pharma",
-      "articleId": "2026-04-05-mounjaro-sales-dip-amid-price-war-as-semaglutide-generics-gain-ground",
-      "title": "Mounjaro sales dip amid price war as semaglutide generics gain ground",
-      "source": "Economic Times Pharma",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
-      "segment": "pharma",
       "articleId": "2026-04-05-mounjaro-takes-a-hit-as-generic-weight-loss-medicines-flood-the-market",
       "title": "Mounjaro takes a hit as generic weight-loss medicines flood the market",
       "source": "Financial Express Healthcare",
@@ -303,6 +252,14 @@
       "segment": "pharma",
       "articleId": "2026-04-05-fda-approves-first-generic-dapagliflozin-tablets",
       "title": "FDA approves First Generic Dapagliflozin Tablets",
+      "source": "PharmaTutor News",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "pharma",
+      "articleId": "2026-04-05-amgen-announced-results-from-a-phase-3-trial-of-tepezza",
+      "title": "Amgen announced results from a Phase 3 trial of TEPEZZA",
       "source": "PharmaTutor News",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
