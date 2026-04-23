@@ -5,11 +5,11 @@
   "startDate": "2026-04-18T18:30:00.000Z",
   "endDate": "2026-04-24T18:30:00.000Z",
   "status": "live",
-  "updatedAt": "2026-04-23T06:23:21.275Z",
+  "updatedAt": "2026-04-23T15:26:39.892Z",
   "coverage": {
-    "pharma": 41,
-    "providers": 9,
-    "diagnostics": 4,
+    "pharma": 44,
+    "providers": 14,
+    "diagnostics": 5,
     "healthtech": 0
   },
   "sourcesUsed": [
@@ -20,9 +20,9 @@
     "Express Healthcare",
     "Healthcare MEA",
     "Janssen India Media",
-    "Lupin Updates",
     "Medical Dialogues Pharma",
-    "PharmaTutor News"
+    "PharmaTutor News",
+    "Zawya Pharmaceuticals"
   ],
   "segments": {
     "pharma": [
@@ -95,6 +95,40 @@
         "articlePath": "/article.html?issue=2026-04-19&article=2026-04-19-counterfeit-mounjaro-case-eli-lilly-issues-statement-after-gurugram-drug"
       },
       {
+        "id": "2026-04-19-different-packaging-typos-expose-fake-mounjaro-racket",
+        "title": "Different packaging, typos expose fake Mounjaro racket",
+        "summary": "Gurugram authorities uncovered a counterfeit Mounjaro operation. Police seized fake diabetes and weight loss injections valued at ₹70 lakh. The alleged mastermind, Avi Sharma, procured raw materials from China. The investigation revealed significant...",
+        "source": "Economic Times Pharma",
+        "sourceHost": "economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-04-23T09:47:05.000Z",
+        "publishedLabel": "April 23, 2026",
+        "category": "Industry Update",
+        "image": "https://img.etimg.com/thumb/msid-130463749,width-1200,height-630,imgsize-59144,overlay-economictimes/articleshow.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/different-packaging-typos-expose-fake-mounjaro-racket/articleshow/130463738.cms",
+        "articlePath": "/article.html?issue=2026-04-19&article=2026-04-19-different-packaging-typos-expose-fake-mounjaro-racket"
+      },
+      {
+        "id": "2026-04-19-cipla-gets-usfda-nod-for-generic-respiratory-issues-treatment-inhalation",
+        "title": "Cipla gets USFDA nod for generic respiratory issues treatment inhalation aerosol",
+        "summary": "Pharma major Cipla has secured final approval from the US health regulator for its generic albuterol sulfate inhalation aerosol. This marks a significant milestone for Cipla, reinforcing its leadership in the respiratory segment. The approval enhances Cipla's...",
+        "source": "Economic Times Pharma",
+        "sourceHost": "economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-04-23T08:08:06.000Z",
+        "publishedLabel": "April 23, 2026",
+        "category": "Approval",
+        "image": "https://img.etimg.com/thumb/msid-130461720,width-1200,height-630,imgsize-164470,overlay-economictimes/articleshow.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/cipla-gets-usfda-nod-for-generic-respiratory-issues-treatment-inhalation-aerosol/articleshow/130461701.cms",
+        "articlePath": "/article.html?issue=2026-04-19&article=2026-04-19-cipla-gets-usfda-nod-for-generic-respiratory-issues-treatment-inhalation"
+      },
+      {
         "id": "2026-04-19-nitr-team-develops-bio-ink-to-aid-3d-bioprinting-tissue-engineering",
         "title": "NITR team develops bio-ink to aid 3D bioprinting, tissue engineering",
         "summary": "The research team, comprising Devendra Verma and research scholar Shreya Chrungoo, have also secured a patent titled, ‘A High Shape-Fidelity Protein-Polysaccharide Composite Bioink for 3D Bioprinting’ for the developed technology. The patent was granted on...",
@@ -107,7 +141,7 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-130454615,imgsize-44302,width-1200,height=627,overlay-ethealth,resizemode-75/industry/nitr-team-develops-bio-ink-to-aid-3d-bioprinting-tissue-engineering.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/nitr-team-develops-bio-ink-to-aid-3d-bioprinting-tissue-engineering/130454615",
         "articlePath": "/article.html?issue=2026-04-19&article=2026-04-19-nitr-team-develops-bio-ink-to-aid-3d-bioprinting-tissue-engineering"
       },
@@ -127,6 +161,23 @@
         "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/uk-lawmakers-approve-lifetime-smoking-ban-for-todays-under-18s/130440480",
         "articlePath": "/article.html?issue=2026-04-19&article=2026-04-19-uk-lawmakers-approve-lifetime-smoking-ban-for-today-s-under-18s"
+      },
+      {
+        "id": "2026-04-19-researchers-use-nasal-spray-to-suppress-brain-inflammation-reverse-agein",
+        "title": "Researchers use nasal spray to suppress brain inflammation, reverse ageing",
+        "summary": "The therapy, developed by the team at Texas A&M University in the US and involving two doses of the spray, also helped restore the brain cells' mitochondria, or power plants, and significantly improved memory in mice.",
+        "source": "ET Healthworld",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-04-19T11:34:33.000Z",
+        "publishedLabel": "April 19, 2026",
+        "category": "Industry Update",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-130369450,imgsize-59514,width-1200,height=627,overlay-ethealth,resizemode-75/industry/researchers-use-nasal-spray-to-suppress-brain-inflammation-reverse-ageing.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/researchers-use-nasal-spray-to-suppress-brain-inflammation-reverse-ageing/130369450",
+        "articlePath": "/article.html?issue=2026-04-19&article=2026-04-19-researchers-use-nasal-spray-to-suppress-brain-inflammation-reverse-agein"
       },
       {
         "id": "2026-04-19-alkem-labs-ceo-vikas-gupta-may-exit-company",
@@ -158,7 +209,7 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-130454590,imgsize-63986,width-1200,height=627,overlay-ethealth,resizemode-75/industry/us-health-officials-nix-publication-of-a-study-on-covid-vaccine-effectiveness.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/us-health-officials-nix-publication-of-a-study-on-covid-vaccine-effectiveness/130454590",
         "articlePath": "/article.html?issue=2026-04-19&article=2026-04-19-us-health-officials-nix-publication-of-a-study-on-covid-vaccine-effectiv"
       },
@@ -260,7 +311,7 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-130458570,imgsize-1912446,width-1200,height=627,overlay-ethealth,resizemode-75/industry/transforming-lives-the-impact-of-peritoneal-dialysis-on-esrd-patient-quality-of-life.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/transforming-lives-the-impact-of-peritoneal-dialysis-on-esrd-patient-quality-of-life/130458570",
         "articlePath": "/article.html?issue=2026-04-19&article=2026-04-19-peritoneal-dialysis-can-improve-quality-of-life-for-esrd-patients"
       },
@@ -280,6 +331,23 @@
         "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/news/health-parliament-and-brooke-india-submit-draft-planetary-health-policy-framework-to-government-of-india/453448/",
         "articlePath": "/article.html?issue=2026-04-19&article=2026-04-19-health-parliament-and-brooke-india-submit-draft-planetary-health-policy-"
+      },
+      {
+        "id": "2026-04-19-medtronic-launches-adbs-system-for-parkinson-s-patients-in-india",
+        "title": "Medtronic launches aDBS system for Parkinson’s patients in India",
+        "summary": "The aDBS system uses BrainSense technology, which has been approved by the U.S. Food and Drug Administration (FDA)",
+        "source": "Express Healthcare",
+        "sourceHost": "expresshealthcare.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-04-23T08:13:14.000Z",
+        "publishedLabel": "April 23, 2026",
+        "category": "Launch",
+        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/04/23134306/New-Project-18.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://www.expresshealthcare.in/news/medtronic-launches-adbs-system-for-parkinsons-patients-in-india/453471/",
+        "articlePath": "/article.html?issue=2026-04-19&article=2026-04-19-medtronic-launches-adbs-system-for-parkinson-s-patients-in-india"
       },
       {
         "id": "2026-04-19-ils-hospitals-announces-strategic-partnership-with-medlern",
@@ -418,23 +486,6 @@
         "articlePath": "/article.html?issue=2026-04-19&article=2026-04-19-european-commission-approves-merck-s-enflonsia-for-rsv-prevention-in-inf"
       },
       {
-        "id": "2026-04-19-sanofi-s-nuvaxovid-exhibits-50-fewer-severe-side-effects-than-moderna-s-",
-        "title": "Sanofi's Nuvaxovid exhibits 50% fewer severe side effects than Moderna's mRNA booster | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
-        "summary": "Less than 10% of participants in the Nuvaxovid group experienced severe side effects that interfered with daily activities compared with 20% in the mNexspike group.",
-        "source": "Healthcare MEA",
-        "sourceHost": "healthcaremea.com",
-        "region": "Middle East",
-        "country": "Middle East",
-        "publishedAt": "2026-04-22T07:53:19.000Z",
-        "publishedLabel": "April 22, 2026",
-        "category": "Manufacturing",
-        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/04/image-1600x900-2026-04-22T104445.765.png",
-        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": false,
-        "originalUrl": "https://www.healthcaremea.com/2026/04/22/sanofis-nuvaxovid-exhibits-50-fewer-severe-side-effects-than-modernas-mrna-booster/",
-        "articlePath": "/article.html?issue=2026-04-19&article=2026-04-19-sanofi-s-nuvaxovid-exhibits-50-fewer-severe-side-effects-than-moderna-s-"
-      },
-      {
         "id": "2026-04-19-suspected-spurious-buprenorphine-injection-batch-under-scanner-cdsco-lau",
         "title": "Suspected Spurious Buprenorphine Injection Batch Under Scanner, CDSCO Launches Investigation",
         "summary": "New Delhi: The Central Drugs Standard Control Organisation (CDSCO) has issued an alert regarding an additional drug batch, with preliminary findings indicating that Buprenorphine Injection IP 2 ml...",
@@ -447,7 +498,7 @@
         "category": "Launch",
         "image": "https://medicaldialogues.in/h-upload/2025/11/15/308756-investigation.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/cdsco/suspected-spurious-buprenorphine-injection-batch-under-scanner-cdsco-launches-investigation-169200",
         "articlePath": "/article.html?issue=2026-04-19&article=2026-04-19-suspected-spurious-buprenorphine-injection-batch-under-scanner-cdsco-lau"
       },
@@ -464,7 +515,7 @@
         "category": "Approval",
         "image": "https://medicaldialogues.in/h-upload/2024/02/03/231498-merck-50.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/merck-wins-usfda-approval-for-dual-drug-hiv-therapy-idvynso-169196",
         "articlePath": "/article.html?issue=2026-04-19&article=2026-04-19-merck-wins-usfda-approval-for-dual-drug-hiv-therapy-idvynso"
       },
@@ -518,6 +569,23 @@
         "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/gurugram-bust-rs-70-lakh-counterfeit-eli-lilly-mounjaro-recovered-2-arrested-169036",
         "articlePath": "/article.html?issue=2026-04-19&article=2026-04-19-gurugram-bust-rs-70-lakh-counterfeit-eli-lilly-mounjaro-recovered-2-arre"
+      },
+      {
+        "id": "2026-04-19-egypt-s-medical-supplies-sector-pushes-for-procurement-price-reforms-ami",
+        "title": "Egypt's medical supplies sector pushes for procurement price reforms amid rising costs | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
+        "summary": "Suppliers delivering goods for Egypt’s strategic stockpile will now receive payments within 30 to 45 days, compared to the previous 120-day period.",
+        "source": "Healthcare MEA",
+        "sourceHost": "healthcaremea.com",
+        "region": "Middle East",
+        "country": "Middle East",
+        "publishedAt": "2026-04-23T07:40:00.000Z",
+        "publishedLabel": "April 23, 2026",
+        "category": "Manufacturing",
+        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/04/image-1600x900-2026-04-23T094028.361.png",
+        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
+        "justIn": true,
+        "originalUrl": "https://www.healthcaremea.com/2026/04/23/egypts-medical-supplies-sector-pushes-for-procurement-price-reforms-amid-rising-costs/",
+        "articlePath": "/article.html?issue=2026-04-19&article=2026-04-19-egypt-s-medical-supplies-sector-pushes-for-procurement-price-reforms-ami"
       },
       {
         "id": "2026-04-19-molecular-keyhole-sheds-light-on-pain-and-epilepsy",
@@ -605,23 +673,6 @@
         "articlePath": "/article.html?issue=2026-04-19&article=2026-04-19-new-hope-for-copd-patients-as-astrazeneca-drug-shows-strong-results-in-m"
       },
       {
-        "id": "2026-04-19-spacex-targets-in-house-gpus-as-it-warns-investors-of-chip-supply-costs",
-        "title": "SpaceX targets in-house GPUs as it warns investors of chip supply, costs",
-        "summary": "SpaceX is preparing for a major IPO and has revealed ambitious plans to manufacture its own graphics processing units, or GPUs. These chips are crucial for powering artificial intelligence technologies. The company is investing heavily in this venture, which...",
-        "source": "Lupin Updates",
-        "sourceHost": "economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-04-23T05:35:00.000Z",
-        "publishedLabel": "April 23, 2026",
-        "category": "Industry Update",
-        "image": "https://img.etimg.com/thumb/msid-130458123,width-1200,height-630,imgsize-46452,overlay-economictimes/articleshow.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
-        "originalUrl": "https://economictimes.indiatimes.com/news/international/business/spacex-targets-in-house-gpus-as-it-warns-investors-of-chip-supply-costs/articleshow/130458090.cms",
-        "articlePath": "/article.html?issue=2026-04-19&article=2026-04-19-spacex-targets-in-house-gpus-as-it-warns-investors-of-chip-supply-costs"
-      },
-      {
         "id": "2026-04-19-roche-submits-fenebrutinib-for-ms-approval-reports-improved-relapse-cont",
         "title": "Roche Submits Fenebrutinib for MS Approval, Reports Improved Relapse Control Amid Death Cases",
         "summary": "New Delhi: Swiss drugmaker Roche on Wednesday said it was submitting its experimental multiple sclerosis drug fenebrutinib to global regulators after meeting late-stage trial goals while data released...",
@@ -634,7 +685,7 @@
         "category": "Approval",
         "image": "https://medicaldialogues.in/h-upload/2024/01/20/230600-roche-50.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/roche-submits-fenebrutinib-for-ms-approval-reports-improved-relapse-control-amid-death-cases-169195",
         "articlePath": "/article.html?issue=2026-04-19&article=2026-04-19-roche-submits-fenebrutinib-for-ms-approval-reports-improved-relapse-cont"
       },
@@ -685,7 +736,7 @@
         "category": "Manufacturing",
         "image": "https://medicaldialogues.in/h-upload/2022/12/23/194734-ajanta-pharma-new.jpg",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/ajanta-pharma-gets-5-usfda-observations-for-paithan-facility-169199",
         "articlePath": "/article.html?issue=2026-04-19&article=2026-04-19-ajanta-pharma-gets-5-usfda-observations-for-paithan-facility"
       },
@@ -760,6 +811,23 @@
         "articlePath": "/article.html?issue=2026-04-19&article=2026-04-19-maharashtra-govt-waives-development-charges-premiums-for-tata-memorial-h"
       },
       {
+        "id": "2026-04-19-robotics-is-steadily-becoming-part-of-routine-surgical-planning-rather-t",
+        "title": "Robotics is steadily becoming part of routine surgical planning rather than an exception",
+        "summary": "Dr Pradeep Jain, Chairman GI, HPB ONCO, Bariatric and Minimal Access Surgery, and Dr Randeep Wadhawan, Chairman - GI, Minimal Access and Bariatric Surgery, Max Super Speciality Hospital, New Delhi, in an interview with Kalyani Sharma, discuss the implications...",
+        "source": "Express Healthcare",
+        "sourceHost": "expresshealthcare.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-04-23T11:58:26.000Z",
+        "publishedLabel": "April 23, 2026",
+        "category": "Hospital",
+        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/04/23172704/New-Project-1-10.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": true,
+        "originalUrl": "https://www.expresshealthcare.in/news/robotics-is-steadily-becoming-part-of-routine-surgical-planning-rather-than-an-exception/453475/",
+        "articlePath": "/article.html?issue=2026-04-19&article=2026-04-19-robotics-is-steadily-becoming-part-of-routine-surgical-planning-rather-t"
+      },
+      {
         "id": "2026-04-19-grey-matters-the-new-old-age",
         "title": "Grey matters: The new old age",
         "summary": "India’s demographic dividend is set to age into a new reality. How its care ecosystem evolves alongside is a story still unfolding, writes Neha Aathavale",
@@ -828,6 +896,23 @@
         "articlePath": "/article.html?issue=2026-04-19&article=2026-04-19-lilavati-hospital-and-research-centre-expands-its-footprint-in-gujarat"
       },
       {
+        "id": "2026-04-19-upwyde-developments-collaborates-with-vezeeta-to-launch-an-integrated-me",
+        "title": "Upwyde Developments collaborates with Vezeeta to launch an integrated medical complex in New Cairo",
+        "summary": "The partnership reflects Upwyde Developments’ vision of creating smart, mixed-use destinations that integrate residential, commercial, administrative, and medical services in one location.",
+        "source": "Healthcare MEA",
+        "sourceHost": "healthcaremea.com",
+        "region": "Middle East",
+        "country": "Middle East",
+        "publishedAt": "2026-04-23T08:15:00.000Z",
+        "publishedLabel": "April 23, 2026",
+        "category": "AI Care Delivery",
+        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/04/image-1600x900-2026-04-23T094541.161.png",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": true,
+        "originalUrl": "https://www.healthcaremea.com/2026/04/23/upwyde-developments-collaborates-with-vezeeta-to-launch-an-integrated-medical-complex-in-new-cairo/",
+        "articlePath": "/article.html?issue=2026-04-19&article=2026-04-19-upwyde-developments-collaborates-with-vezeeta-to-launch-an-integrated-me"
+      },
+      {
         "id": "2026-04-19-king-faisal-specialist-hospital-and-research-center-to-lead-global-innov",
         "title": "King Faisal Specialist Hospital & Research Center to lead global innovation at C3 Davos Silicon Valley Summit",
         "summary": "The summit convenes senior executives from healthcare, biotechnology, artificial intelligence, academia, and investment firms under the theme \"Healthtech Frontiers: Building the Health Ecosys ...",
@@ -845,21 +930,21 @@
         "articlePath": "/article.html?issue=2026-04-19&article=2026-04-19-king-faisal-specialist-hospital-and-research-center-to-lead-global-innov"
       },
       {
-        "id": "2026-04-19-medcare-royal-hospital-performs-landmark-organ-preserving-colon-tumor-re",
-        "title": "Medcare Royal Hospital performs landmark organ-preserving colon tumor resection | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
-        "summary": "The procedure allowed a Dubai patient to leave the hospital within days, with his organ completely intact, an outcome that would have been impossible with traditional surgical approaches.",
+        "id": "2026-04-19-med-expo-africa-2026-opens-in-nairobi-healthcare-middle-east-and-africa-",
+        "title": "MED-EXPO AFRICA 2026 opens in Nairobi | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
+        "summary": "The three-day international exhibition, taking place from April 22 to 24 at the Sarit Expo Centre, has attracted participants from across Africa and beyond, reflecting growing regional demand for ...",
         "source": "Healthcare MEA",
         "sourceHost": "healthcaremea.com",
         "region": "Middle East",
-        "country": "United Arab Emirates",
-        "publishedAt": "2026-04-22T08:14:18.000Z",
-        "publishedLabel": "April 22, 2026",
-        "category": "Hospital",
-        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/04/image-1600x900-2026-04-22T110359.353.png",
+        "country": "Middle East",
+        "publishedAt": "2026-04-23T08:07:37.000Z",
+        "publishedLabel": "April 23, 2026",
+        "category": "AI Care Delivery",
+        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/04/image-1600x900-2026-04-23T110335.595.png",
         "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://www.healthcaremea.com/2026/04/22/medcare-royal-hospital-performs-landmark-organ-preserving-colon-tumor-resection/",
-        "articlePath": "/article.html?issue=2026-04-19&article=2026-04-19-medcare-royal-hospital-performs-landmark-organ-preserving-colon-tumor-re"
+        "justIn": true,
+        "originalUrl": "https://www.healthcaremea.com/2026/04/23/med-expo-africa-2026-opens-in-nairobi/",
+        "articlePath": "/article.html?issue=2026-04-19&article=2026-04-19-med-expo-africa-2026-opens-in-nairobi-healthcare-middle-east-and-africa-"
       },
       {
         "id": "2026-04-19-contract-pharmacists-protest-at-sms-medical-college-demand-reinstatement",
@@ -874,9 +959,60 @@
         "category": "AI Care Delivery",
         "image": "https://medicaldialogues.in/h-upload/2024/03/12/234089-antiarrhythmic-drugs.jpg",
         "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/contract-pharmacists-protest-at-sms-medical-college-demand-reinstatement-recruitment-probe-169198",
         "articlePath": "/article.html?issue=2026-04-19&article=2026-04-19-contract-pharmacists-protest-at-sms-medical-college-demand-reinstatement"
+      },
+      {
+        "id": "2026-04-19-aster-dm-healthcare-earns-great-place-to-work-certification-in-all-regio",
+        "title": "Aster DM Healthcare earns Great Place to Work® Certification in all regional markets",
+        "summary": "The organization recorded an overall Trust Index score of 82%, alongside an employee participation rate of 88%.",
+        "source": "Healthcare MEA",
+        "sourceHost": "healthcaremea.com",
+        "region": "Middle East",
+        "country": "United Arab Emirates",
+        "publishedAt": "2026-04-23T07:50:00.000Z",
+        "publishedLabel": "April 23, 2026",
+        "category": "Provider Update",
+        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/04/image-1600x900-2026-04-23T095028.879.png",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": true,
+        "originalUrl": "https://www.healthcaremea.com/2026/04/23/aster-dm-healthcare-earns-great-place-to-work-certification-in-all-regional-markets/",
+        "articlePath": "/article.html?issue=2026-04-19&article=2026-04-19-aster-dm-healthcare-earns-great-place-to-work-certification-in-all-regio"
+      },
+      {
+        "id": "2026-04-19-seha-clinics-opens-community-clinic-on-saadiyat-island",
+        "title": "SEHA CLINICS opens community clinic on Saadiyat Island",
+        "summary": "The clinic operates seven days a week",
+        "source": "Zawya Pharmaceuticals",
+        "sourceHost": "zawya.com",
+        "region": "Middle East",
+        "country": "United Arab Emirates",
+        "publishedAt": "2026-04-23T14:25:33.000Z",
+        "publishedLabel": "April 23, 2026",
+        "category": "Provider Update",
+        "image": "https://static.zawya.com/view/acePublic/alias/contentid/56cbe720-8a7f-498c-b129-f58611db375f/1/image1-jpg.jpeg?f=3%3A2",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": true,
+        "originalUrl": "https://www.zawya.com/en/business/healthcare/seha-clinics-opens-community-clinic-on-saadiyat-island-k8mudm67",
+        "articlePath": "/article.html?issue=2026-04-19&article=2026-04-19-seha-clinics-opens-community-clinic-on-saadiyat-island"
+      },
+      {
+        "id": "2026-04-19-yas-clinic-group-to-manage-sheikh-khalifa-hospital-in-fujairah-healthcar",
+        "title": "Yas Clinic Group to manage Sheikh Khalifa Hospital in Fujairah | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
+        "summary": "Sheikh Khalifa Hospital spans approximately 89,000 square metres and currently accommodates 222 beds.",
+        "source": "Healthcare MEA",
+        "sourceHost": "healthcaremea.com",
+        "region": "Middle East",
+        "country": "Middle East",
+        "publishedAt": "2026-04-23T08:58:10.000Z",
+        "publishedLabel": "April 23, 2026",
+        "category": "Hospital",
+        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/04/image-1600x900-2026-04-23T102012.610.png",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": true,
+        "originalUrl": "https://www.healthcaremea.com/2026/04/23/yas-clinic-group-to-manage-sheikh-khalifa-hospital-in-fujairah/",
+        "articlePath": "/article.html?issue=2026-04-19&article=2026-04-19-yas-clinic-group-to-manage-sheikh-khalifa-hospital-in-fujairah-healthcar"
       }
     ],
     "diagnostics": [
@@ -893,7 +1029,7 @@
         "category": "Diagnostics",
         "image": "https://etimg.etb2bimg.com/thumb/msid-130417093,imgsize-97784,width-1200,height=627,overlay-ethealth,resizemode-75/diagnostics/quest-diagnostics-raises-full-year-forecast-posts-strong-quarter-on-testing-demand.jpg",
         "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/diagnostics/quest-diagnostics-raises-full-year-forecast-posts-strong-quarter-on-testing-demand/130417093",
         "articlePath": "/article.html?issue=2026-04-19&article=2026-04-19-quest-diagnostics-raises-full-year-forecast-posts-strong-quarter-on-test"
       },
@@ -930,6 +1066,23 @@
         "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/news/terumo-india-signs-mou-with-aig-hospitals-to-strengthen-interventional-radiology-training/453468/",
         "articlePath": "/article.html?issue=2026-04-19&article=2026-04-19-terumo-india-signs-mou-with-aig-hospitals-to-strengthen-interventional-r"
+      },
+      {
+        "id": "2026-04-19-philips-launches-fda-cleared-rembra-platform-for-high-throughput-imaging",
+        "title": "Philips launches FDA-cleared Rembra platform for high-throughput imaging | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
+        "summary": "The Rembra platform extends the use of computed tomography beyond traditional diagnostic radiology into radiation therapy planning.",
+        "source": "Healthcare MEA",
+        "sourceHost": "healthcaremea.com",
+        "region": "Middle East",
+        "country": "Middle East",
+        "publishedAt": "2026-04-23T07:03:43.000Z",
+        "publishedLabel": "April 23, 2026",
+        "category": "Diagnostics",
+        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/04/image-1600x900-2026-04-23T095736.619.png",
+        "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
+        "justIn": true,
+        "originalUrl": "https://www.healthcaremea.com/2026/04/23/philips-launches-fda-cleared-rembra-platform-for-high-throughput-imaging/",
+        "articlePath": "/article.html?issue=2026-04-19&article=2026-04-19-philips-launches-fda-cleared-rembra-platform-for-high-throughput-imaging"
       },
       {
         "id": "2026-04-19-antibiotic-killmed-625-lb-fails-quality-test-no-clavulanic-acid-found-de",
@@ -986,9 +1139,9 @@
     },
     {
       "segment": "pharma",
-      "articleId": "2026-04-19-nitr-team-develops-bio-ink-to-aid-3d-bioprinting-tissue-engineering",
-      "title": "NITR team develops bio-ink to aid 3D bioprinting, tissue engineering",
-      "source": "ET Healthworld",
+      "articleId": "2026-04-19-different-packaging-typos-expose-fake-mounjaro-racket",
+      "title": "Different packaging, typos expose fake Mounjaro racket",
+      "source": "Economic Times Pharma",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
     },
@@ -1010,6 +1163,14 @@
     },
     {
       "segment": "providers",
+      "articleId": "2026-04-19-robotics-is-steadily-becoming-part-of-routine-surgical-planning-rather-t",
+      "title": "Robotics is steadily becoming part of routine surgical planning rather than an exception",
+      "source": "Express Healthcare",
+      "solution": "THB Provider CRM",
+      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
+    },
+    {
+      "segment": "providers",
       "articleId": "2026-04-19-grey-matters-the-new-old-age",
       "title": "Grey matters: The new old age",
       "source": "Express Healthcare",
@@ -1020,14 +1181,6 @@
       "segment": "providers",
       "articleId": "2026-04-19-aster-cmi-hospital-launches-pearl",
       "title": "Aster CMI Hospital launches PEARL",
-      "source": "Express Healthcare",
-      "solution": "THB Provider CRM",
-      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
-    },
-    {
-      "segment": "providers",
-      "articleId": "2026-04-19-anvka-foundation-launches-azure-innovation-lab",
-      "title": "ANVKA Foundation launches Azure Innovation Lab",
       "source": "Express Healthcare",
       "solution": "THB Provider CRM",
       "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
@@ -1053,6 +1206,14 @@
       "articleId": "2026-04-19-terumo-india-signs-mou-with-aig-hospitals-to-strengthen-interventional-r",
       "title": "Terumo India signs MoU with AIG Hospitals to strengthen interventional radiology training",
       "source": "Express Healthcare",
+      "solution": "THB Diagnostics CRM",
+      "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
+    },
+    {
+      "segment": "diagnostics",
+      "articleId": "2026-04-19-philips-launches-fda-cleared-rembra-platform-for-high-throughput-imaging",
+      "title": "Philips launches FDA-cleared Rembra platform for high-throughput imaging | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
+      "source": "Healthcare MEA",
       "solution": "THB Diagnostics CRM",
       "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
     },
