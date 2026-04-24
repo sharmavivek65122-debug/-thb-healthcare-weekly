@@ -5,15 +5,14 @@
   "startDate": "2026-03-21T18:30:00.000Z",
   "endDate": "2026-03-27T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-04-23T15:26:39.892Z",
+  "updatedAt": "2026-04-24T06:25:45.516Z",
   "coverage": {
     "pharma": 1,
-    "providers": 8,
-    "diagnostics": 2,
+    "providers": 7,
+    "diagnostics": 1,
     "healthtech": 0
   },
   "sourcesUsed": [
-    "ET Healthworld Diagnostics",
     "ET Healthworld Hospitals",
     "Financial Express Healthcare",
     "Lupin Updates"
@@ -39,23 +38,6 @@
       }
     ],
     "providers": [
-      {
-        "id": "2026-03-22-pacific-onehealth-bets-rs-300-cr-on-micro-hospitals-to-decentralise-care",
-        "title": "Pacific OneHealth bets Rs.300 Cr on micro-hospitals to decentralise care in north India",
-        "summary": "Pacific OneHealth will invest Rs.100 crore in the first phase to set up five micro-hospitals in Delhi NCR over the next two years, as part of its ₹300 crore plan to build a decentralised care network across North India. Unlike traditional hospitals,...",
-        "source": "ET Healthworld Hospitals",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-03-25T06:12:10.000Z",
-        "publishedLabel": "March 25, 2026",
-        "category": "Hospital",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-129792744,imgsize-87596,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/pacific-onehealth-bets-rs-300-cr-on-micro-hospitals-to-decentralise-care-in-north-india.jpg",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/pacific-onehealth-bets-rs-300-cr-on-micro-hospitals-to-decentralise-care-in-north-india/129792744",
-        "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-pacific-onehealth-bets-rs-300-cr-on-micro-hospitals-to-decentralise-care"
-      },
       {
         "id": "2026-03-22-medanta-plans-400-bed-multi-specialty-facility-in-varanasi-with-rs-550-c",
         "title": "Medanta plans 400-bed multi-specialty facility in Varanasi with Rs 550 cr investment",
@@ -178,23 +160,6 @@
     ],
     "diagnostics": [
       {
-        "id": "2026-03-22-silent-epidemic-60-ckd-patients-unaware-of-their-condition-finds-study",
-        "title": "Silent epidemic: 60% CKD patients unaware of their condition, finds study",
-        "summary": "Using point-of-care tests and digital tools in local primary health centres, the researchers screened nearly 2,000 people in both urban pockets and rural CKD hotspot areas.",
-        "source": "ET Healthworld Diagnostics",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-03-23T04:33:07.000Z",
-        "publishedLabel": "March 23, 2026",
-        "category": "Industry Update",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-129742950,imgsize-80902,width-1200,height=627,overlay-ethealth,resizemode-75/diagnostics/silent-epidemic-60-ckd-patients-unaware-of-their-condition-finds-study.jpg",
-        "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/diagnostics/silent-epidemic-60-ckd-patients-unaware-of-their-condition-finds-study/129742950",
-        "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-silent-epidemic-60-ckd-patients-unaware-of-their-condition-finds-study"
-      },
-      {
         "id": "2026-03-22-war-impact-supply-snarls-hit-liquid-helium-used-in-mri-scanners-and-for-",
         "title": "War impact: Supply snarls hit liquid helium used in MRI scanners & for chip-making",
         "summary": "While NATHEALTH leaders highlight a $1 trillion opportunity in raising India's Health-Adjusted Life Expectancy (HALE), the industry must first navigate rising costs and supply chain disruptions caused by the ongoing Middle East conflict.",
@@ -222,14 +187,6 @@
       "source": "Lupin Updates",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
-      "segment": "providers",
-      "articleId": "2026-03-22-pacific-onehealth-bets-rs-300-cr-on-micro-hospitals-to-decentralise-care",
-      "title": "Pacific OneHealth bets Rs.300 Cr on micro-hospitals to decentralise care in north India",
-      "source": "ET Healthworld Hospitals",
-      "solution": "THB Provider CRM",
-      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
     },
     {
       "segment": "providers",
@@ -264,12 +221,12 @@
       "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
     },
     {
-      "segment": "diagnostics",
-      "articleId": "2026-03-22-silent-epidemic-60-ckd-patients-unaware-of-their-condition-finds-study",
-      "title": "Silent epidemic: 60% CKD patients unaware of their condition, finds study",
-      "source": "ET Healthworld Diagnostics",
-      "solution": "THB Diagnostics CRM",
-      "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
+      "segment": "providers",
+      "articleId": "2026-03-22-gr-noida-hospital-owner-nurse-held-for-trying-to-sell-newborn-for-3l",
+      "title": "Gr Noida hospital owner, nurse held for trying to 'sell' newborn for ₹3L",
+      "source": "ET Healthworld Hospitals",
+      "solution": "THB Provider CRM",
+      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
     },
     {
       "segment": "diagnostics",
