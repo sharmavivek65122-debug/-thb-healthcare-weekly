@@ -5,10 +5,10 @@
   "startDate": "2026-03-07T18:30:00.000Z",
   "endDate": "2026-03-13T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-04-24T06:25:45.516Z",
+  "updatedAt": "2026-04-24T14:54:18.096Z",
   "coverage": {
     "pharma": 0,
-    "providers": 13,
+    "providers": 15,
     "diagnostics": 0,
     "healthtech": 0
   },
@@ -35,6 +35,40 @@
         "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/superhealth-launches-supersurgery-programme-with-fixed-pricing-zero-doctor-commissions/129449527",
         "articlePath": "/article.html?issue=2026-03-08&article=2026-03-08-superhealth-launches-supersurgery-programme-with-fixed-pricing-zero-doct"
+      },
+      {
+        "id": "2026-03-08-kims-hospitals-launches-two-facilities-in-bengaluru",
+        "title": "KIMS Hospitals launches two facilities in Bengaluru",
+        "summary": "The Mahadevapura unit has over 450 beds, while the Electronic City facility has 350 beds. Both facilities are equipped with 30 state-of-the-art operation theatres and over 170 outpatient consultation rooms (OPDs) to deliver the best medical care, it said.",
+        "source": "ET Healthworld Hospitals",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-03-10T02:16:46.000Z",
+        "publishedLabel": "March 10, 2026",
+        "category": "Hospital",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-129325692,imgsize-121666,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/kims-hospitals-launches-two-facilities-in-bengaluru.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": false,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/kims-hospitals-launches-two-facilities-in-bengaluru/129325692",
+        "articlePath": "/article.html?issue=2026-03-08&article=2026-03-08-kims-hospitals-launches-two-facilities-in-bengaluru"
+      },
+      {
+        "id": "2026-03-08-middle-east-conflict-hits-medical-tourism-indian-hospitals-tap-other-mar",
+        "title": "Middle East conflict hits medical tourism, Indian hospitals tap other markets",
+        "summary": "Many patients from countries such as Oman, Saudi Arabia, Iran, Iraq and Yemen travel to India for cancer treatment, heart surgeries, transplants and orthopaedic procedures. Their arrival has slowed to a near standstill as the Iran war crippled air traffic in...",
+        "source": "ET Healthworld Hospitals",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-03-09T02:20:37.000Z",
+        "publishedLabel": "March 9, 2026",
+        "category": "Hospital",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-129302195,imgsize-90344,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/middle-east-conflict-hits-medical-tourism-indian-hospitals-tap-other-markets.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": false,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/middle-east-conflict-hits-medical-tourism-indian-hospitals-tap-other-markets/129302195",
+        "articlePath": "/article.html?issue=2026-03-08&article=2026-03-08-middle-east-conflict-hits-medical-tourism-indian-hospitals-tap-other-mar"
       },
       {
         "id": "2026-03-08-aster-dm-healthcare-earmarks-rs-4-000-cr-to-add-4-080-beds-in-next-few-y",
@@ -255,6 +289,22 @@
     },
     {
       "segment": "providers",
+      "articleId": "2026-03-08-kims-hospitals-launches-two-facilities-in-bengaluru",
+      "title": "KIMS Hospitals launches two facilities in Bengaluru",
+      "source": "ET Healthworld Hospitals",
+      "solution": "THB Provider CRM",
+      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
+    },
+    {
+      "segment": "providers",
+      "articleId": "2026-03-08-middle-east-conflict-hits-medical-tourism-indian-hospitals-tap-other-mar",
+      "title": "Middle East conflict hits medical tourism, Indian hospitals tap other markets",
+      "source": "ET Healthworld Hospitals",
+      "solution": "THB Provider CRM",
+      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
+    },
+    {
+      "segment": "providers",
       "articleId": "2026-03-08-aster-dm-healthcare-earmarks-rs-4-000-cr-to-add-4-080-beds-in-next-few-y",
       "title": "Aster DM Healthcare earmarks Rs 4,000 cr to add 4,080 beds in next few yrs",
       "source": "ET Healthworld Hospitals",
@@ -268,22 +318,6 @@
       "source": "ET Healthworld Hospitals",
       "solution": "THB Patient Engagement",
       "action": "Recommend THB's patient engagement workflows to improve acquisition, follow-up adherence, and post-discharge retention for expanding provider groups."
-    },
-    {
-      "segment": "providers",
-      "articleId": "2026-03-08-nims-set-for-major-upgrade-with-2-000-more-beds",
-      "title": "NIMS set for major upgrade with 2,000 more beds",
-      "source": "ET Healthworld Hospitals",
-      "solution": "THB Provider CRM",
-      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
-    },
-    {
-      "segment": "providers",
-      "articleId": "2026-03-08-safdarjung-set-to-launch-india-s-first-online-icu-follow-up-clinic",
-      "title": "Safdarjung set to launch India’s first online ICU follow-up clinic",
-      "source": "ET Healthworld Hospitals",
-      "solution": "THB Provider CRM",
-      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
     }
   ]
 }
