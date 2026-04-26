@@ -4,11 +4,11 @@
   "rangeLabel": "Apr 19 - Apr 25, 2026",
   "startDate": "2026-04-18T18:30:00.000Z",
   "endDate": "2026-04-24T18:30:00.000Z",
-  "status": "live",
-  "updatedAt": "2026-04-25T14:24:21.753Z",
+  "status": "published",
+  "updatedAt": "2026-04-26T06:24:01.526Z",
   "coverage": {
-    "pharma": 50,
-    "providers": 11,
+    "pharma": 46,
+    "providers": 10,
     "diagnostics": 5,
     "healthtech": 0
   },
@@ -21,10 +21,8 @@
     "Express Healthcare Posts",
     "Healthcare MEA",
     "Janssen India Media",
-    "Lupin Updates",
     "Medical Dialogues Pharma",
-    "PharmaTutor News",
-    "Zawya Pharmaceuticals"
+    "PharmaTutor News"
   ],
   "segments": {
     "pharma": [
@@ -211,7 +209,7 @@
         "category": "Launch",
         "image": "https://etimg.etb2bimg.com/thumb/msid-130509997,imgsize-139902,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/fortis-healthcare-launches-preventive-genomics-clinic-in-bengaluru-to-boost-precision-medicine.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/fortis-healthcare-launches-preventive-genomics-clinic-in-bengaluru-to-boost-precision-medicine/130509997",
         "articlePath": "/article.html?issue=2026-04-19&article=2026-04-19-fortis-healthcare-launches-preventive-genomics-clinic-in-bengaluru-to-bo"
       },
@@ -245,9 +243,26 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-130506863,imgsize-29332,width-1200,height=627,overlay-ethealth,resizemode-75/industry/lancet-medical-journal-declined-us-senate-covid-origins-ask.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/lancet-medical-journal-declined-us-senate-covid-origins-ask/130506863",
         "articlePath": "/article.html?issue=2026-04-19&article=2026-04-19-lancet-medical-journal-declined-us-senate-covid-origins-ask"
+      },
+      {
+        "id": "2026-04-19-india-s-healthcare-paradox-and-the-defining-link-between-access-and-outc",
+        "title": "India’s Healthcare Paradox and the defining Link Between Access and Outcomes",
+        "summary": "One reason outcomes still lag is that India’s disease burden has shifted sharply toward chronic illness, which do not resolve with one visit. India has done the hard work of expanding access, the next phase is harder, but it is where lives will be saved. We...",
+        "source": "ET Healthworld",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-04-24T10:24:02.000Z",
+        "publishedLabel": "April 24, 2026",
+        "category": "Industry Update",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-130490586,imgsize-198931,width-1200,height=627,overlay-ethealth,resizemode-75/industry/indias-healthcare-dilemma-bridging-access-and-medical-outcomes.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": false,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/indias-healthcare-dilemma-bridging-access-and-medical-outcomes/130490586",
+        "articlePath": "/article.html?issue=2026-04-19&article=2026-04-19-india-s-healthcare-paradox-and-the-defining-link-between-access-and-outc"
       },
       {
         "id": "2026-04-19-centre-to-states-standardise-hospital-rates",
@@ -534,7 +549,7 @@
         "category": "Market",
         "image": "https://medicaldialogues.in/h-upload/2023/01/10/197268-alembic-pharma.jpg",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/alembic-pharma-sets-up-germany-arm-to-expand-european-market-presence-169408",
         "articlePath": "/article.html?issue=2026-04-19&article=2026-04-19-alembic-pharma-sets-up-germany-arm-to-expand-european-market-presence"
       },
@@ -551,7 +566,7 @@
         "category": "Industry Update",
         "image": "https://medicaldialogues.in/h-upload/2023/01/10/197259-shilpa-medicare-1.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/shilpa-medicare-names-pharma-veteran-vellaian-karuppiah-as-coo-formulations-169407",
         "articlePath": "/article.html?issue=2026-04-19&article=2026-04-19-shilpa-medicare-names-pharma-veteran-vellaian-karuppiah-as-coo-formulati"
       },
@@ -568,7 +583,7 @@
         "category": "Industry Update",
         "image": "https://medicaldialogues.in/h-upload/2024/01/20/230600-roche-50.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/roche-q1-sales-dip-5-on-currency-headwinds-pins-hopes-on-new-drugs-weight-loss-entry-169402",
         "articlePath": "/article.html?issue=2026-04-19&article=2026-04-19-roche-q1-sales-dip-5-on-currency-headwinds-pins-hopes-on-new-drugs-weigh"
       },
@@ -605,23 +620,6 @@
         "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/alembic-enters-philippines-market-with-new-subsidiary-for-pharma-distribution-169363",
         "articlePath": "/article.html?issue=2026-04-19&article=2026-04-19-alembic-enters-philippines-market-with-new-subsidiary-for-pharma-distrib"
-      },
-      {
-        "id": "2026-04-19-suspected-spurious-buprenorphine-injection-batch-under-scanner-cdsco-lau",
-        "title": "Suspected Spurious Buprenorphine Injection Batch Under Scanner, CDSCO Launches Investigation",
-        "summary": "New Delhi: The Central Drugs Standard Control Organisation (CDSCO) has issued an alert regarding an additional drug batch, with preliminary findings indicating that Buprenorphine Injection IP 2 ml...",
-        "source": "Medical Dialogues Pharma",
-        "sourceHost": "medicaldialogues.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-04-22T06:15:15.000Z",
-        "publishedLabel": "April 22, 2026",
-        "category": "Launch",
-        "image": "https://medicaldialogues.in/h-upload/2025/11/15/308756-investigation.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/cdsco/suspected-spurious-buprenorphine-injection-batch-under-scanner-cdsco-launches-investigation-169200",
-        "articlePath": "/article.html?issue=2026-04-19&article=2026-04-19-suspected-spurious-buprenorphine-injection-batch-under-scanner-cdsco-lau"
       },
       {
         "id": "2026-04-19-new-prior-intimation-rule-for-drug-export-trials-to-take-effect-from-apr",
@@ -716,12 +714,12 @@
         "sourceHost": "medicaldialogues.in",
         "region": "India",
         "country": "India",
-        "publishedAt": "2026-04-25T12:27:56.000Z",
+        "publishedAt": "2026-04-25T17:36:13.000Z",
         "publishedLabel": "April 25, 2026",
         "category": "Industry Update",
         "image": "https://medicaldialogues.in/h-upload/2024/06/04/240154-sun-pharma-new-50-1.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/no-distinction-between-house-mark-and-trademark-bombay-hc-grants-relief-to-sun-pharma-bars-absun-169419",
         "articlePath": "/article.html?issue=2026-04-19&article=2026-04-19-no-distinction-between-house-mark-and-trademark-bombay-hc-grants-relief-"
       },
@@ -743,23 +741,6 @@
         "articlePath": "/article.html?issue=2026-04-19&article=2026-04-19-novartis-malaria-treatment-coartem-baby-receives-who-prequalification"
       },
       {
-        "id": "2026-04-19-merck-partners-google-cloud-in-usd-1-billion-ai-push-to-transform-drug-r",
-        "title": "Merck Partners Google Cloud in USD 1 Billion AI Push to Transform Drug Research, Manufacturing",
-        "summary": "New Delhi: Drugmaker Merck & Co said on Wednesday it will partner with Google Cloud to build up its artificial intelligence capabilities, investing as much as USD 1 billion ​with Google over a number...",
-        "source": "Medical Dialogues Pharma",
-        "sourceHost": "medicaldialogues.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-04-23T04:30:54.000Z",
-        "publishedLabel": "April 23, 2026",
-        "category": "Manufacturing",
-        "image": "https://medicaldialogues.in/h-upload/2026/04/23/343288-study-links-obesity-driven-organ-enlargement-to-increased-risk-of-cancer-development-2026-04-23t150648471.jpg",
-        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": false,
-        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/merck-partners-google-cloud-in-usd-1-billion-ai-push-to-transform-drug-research-manufacturing-169298",
-        "articlePath": "/article.html?issue=2026-04-19&article=2026-04-19-merck-partners-google-cloud-in-usd-1-billion-ai-push-to-transform-drug-r"
-      },
-      {
         "id": "2026-04-19-pharma-innovation-gets-a-boost-as-niper-mohali-joins-hands-with-novartis",
         "title": "Pharma Innovation Gets a Boost as NIPER Mohali Joins Hands with Novartis",
         "summary": "In a significant move to strengthen India’s pharmaceutical research ecosystem, the National Institute of Pharmaceutical Education and Research (NIPER), Mohali has signed an agreement with Novartis Healthcare Private Limited. The collaboration aims to promote...",
@@ -775,40 +756,6 @@
         "justIn": false,
         "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/pharma-innovation-gets-a-boost-as-niper-mohali-joins-hands-with-novartis",
         "articlePath": "/article.html?issue=2026-04-19&article=2026-04-19-pharma-innovation-gets-a-boost-as-niper-mohali-joins-hands-with-novartis"
-      },
-      {
-        "id": "2026-04-19-ajanta-pharma-gets-5-usfda-observations-for-paithan-facility",
-        "title": "Ajanta Pharma Gets 5 USFDA Observations for Paithan Facility",
-        "summary": "New Delhi: Ajanta Pharma Limited has informed that the US Food and Drug Administration (USFDA) has completed its inspection of its manufacturing facility located at Paithan, Maharashtra.The inspection...",
-        "source": "Medical Dialogues Pharma",
-        "sourceHost": "medicaldialogues.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-04-22T07:00:00.000Z",
-        "publishedLabel": "April 22, 2026",
-        "category": "Manufacturing",
-        "image": "https://medicaldialogues.in/h-upload/2022/12/23/194734-ajanta-pharma-new.jpg",
-        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": false,
-        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/ajanta-pharma-gets-5-usfda-observations-for-paithan-facility-169199",
-        "articlePath": "/article.html?issue=2026-04-19&article=2026-04-19-ajanta-pharma-gets-5-usfda-observations-for-paithan-facility"
-      },
-      {
-        "id": "2026-04-19-donald-trump-s-approval-rating-on-economy-crashes-to-historic-low-check-",
-        "title": "Donald Trump's approval rating on economy crashes to historic low. Check how Republican President is farin",
-        "summary": "Donald Trump approval rating: Trumps approval rating on the economy dropped to 30 per cent in April from 38 per cent in a March, as per a poll.",
-        "source": "Lupin Updates",
-        "sourceHost": "economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-04-25T13:38:00.000Z",
-        "publishedLabel": "April 25, 2026",
-        "category": "Approval",
-        "image": "https://img.etimg.com/thumb/msid-130516123,width-1200,height-630,imgsize-745485,overlay-economictimes/articleshow.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
-        "originalUrl": "https://economictimes.indiatimes.com/news/international/us/donald-trumps-approval-rating-on-economy-crashes-to-historic-low-check-how-republican-president-is-faring-against-joe-biden-george-w-bush-jimmy-carter/articleshow/130516123.cms",
-        "articlePath": "/article.html?issue=2026-04-19&article=2026-04-19-donald-trump-s-approval-rating-on-economy-crashes-to-historic-low-check-"
       },
       {
         "id": "2026-04-19-typo-errors-colour-mismatch-lead-to-bust-of-fake-mounjaro-in-gurugram",
@@ -860,23 +807,6 @@
         "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/lupin-launches-bioequivalent-of-xigduo-xr-in-us-across-multiple-strengths-169300",
         "articlePath": "/article.html?issue=2026-04-19&article=2026-04-19-lupin-launches-bioequivalent-of-xigduo-xr-in-us-across-multiple-strength"
-      },
-      {
-        "id": "2026-04-19-supriya-lifescience-secures-usfda-eir-with-vai-status-for-lote-api-facil",
-        "title": "Supriya Lifescience Secures USFDA EIR With VAI Status for Lote API Facility",
-        "summary": "New Delhi: Active pharmaceutical ingredients (API) manufacturer Supriya Lifescience on Wednesday announced that the USFDA has issued an Establishment Inspection Report (EIR) with Voluntary Action...",
-        "source": "Medical Dialogues Pharma",
-        "sourceHost": "medicaldialogues.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-04-23T05:30:35.000Z",
-        "publishedLabel": "April 23, 2026",
-        "category": "Industry Update",
-        "image": "https://medicaldialogues.in/h-upload/2026/04/23/343309-study-links-obesity-driven-organ-enlargement-to-increased-risk-of-cancer-development-2026-04-23t163919186.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/supriya-lifescience-secures-usfda-eir-with-vai-status-for-lote-api-facility-169299",
-        "articlePath": "/article.html?issue=2026-04-19&article=2026-04-19-supriya-lifescience-secures-usfda-eir-with-vai-status-for-lote-api-facil"
       }
     ],
     "providers": [
@@ -1012,7 +942,7 @@
         "category": "Expansion",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/04/image-1600x900-2026-04-24T094208.949.png",
         "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/04/24/seha-clinics-opens-flagship-community-clinic-on-saadiyat-island-to-improve-access-to-preventive-healthcare/",
         "articlePath": "/article.html?issue=2026-04-19&article=2026-04-19-purehealth-opens-seha-clinics-flagship-on-saadiyat-island-to-boost-preve"
       },
@@ -1049,23 +979,6 @@
         "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/04/23/upwyde-developments-collaborates-with-vezeeta-to-launch-an-integrated-medical-complex-in-new-cairo/",
         "articlePath": "/article.html?issue=2026-04-19&article=2026-04-19-upwyde-developments-collaborates-with-vezeeta-to-launch-an-integrated-me"
-      },
-      {
-        "id": "2026-04-19-contract-pharmacists-protest-at-sms-medical-college-demand-reinstatement",
-        "title": "Contract Pharmacists Protest at SMS Medical College, Demand Reinstatement, Recruitment Probe",
-        "summary": "Jaipur: Tensions have escalated at the super speciality wing of SMS Medical College as contract pharmacists have issued a seven-day ultimatum to the administration, demanding immediate reinstatement...",
-        "source": "Medical Dialogues Pharma",
-        "sourceHost": "medicaldialogues.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-04-22T05:30:55.000Z",
-        "publishedLabel": "April 22, 2026",
-        "category": "AI Care Delivery",
-        "image": "https://medicaldialogues.in/h-upload/2024/03/12/234089-antiarrhythmic-drugs.jpg",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/contract-pharmacists-protest-at-sms-medical-college-demand-reinstatement-recruitment-probe-169198",
-        "articlePath": "/article.html?issue=2026-04-19&article=2026-04-19-contract-pharmacists-protest-at-sms-medical-college-demand-reinstatement"
       }
     ],
     "diagnostics": [
