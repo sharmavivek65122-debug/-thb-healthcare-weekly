@@ -5,19 +5,72 @@
   "startDate": "2026-04-25T18:30:00.000Z",
   "endDate": "2026-05-01T18:30:00.000Z",
   "status": "live",
-  "updatedAt": "2026-04-26T06:24:01.526Z",
+  "updatedAt": "2026-04-26T14:24:10.256Z",
   "coverage": {
-    "pharma": 6,
-    "providers": 2,
-    "diagnostics": 2,
+    "pharma": 9,
+    "providers": 1,
+    "diagnostics": 1,
     "healthtech": 0
   },
   "sourcesUsed": [
+    "ET Healthworld",
+    "Healthcare MEA",
     "Medical Dialogues Pharma",
     "Zawya Pharmaceuticals"
   ],
   "segments": {
     "pharma": [
+      {
+        "id": "2026-04-26-iit-prof-develops-ai-vr-device-for-faster-heart-disease-diagnosis",
+        "title": "IIT prof develops AI-VR device for faster heart disease diagnosis",
+        "summary": "The technology can save time and reduce the need for large amounts of pre-labelled medical data normally required for AI systems.",
+        "source": "ET Healthworld",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-04-26T11:14:59.000Z",
+        "publishedLabel": "April 26, 2026",
+        "category": "Industry Update",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-130530382,imgsize-135750,width-1200,height=627,overlay-ethealth,resizemode-75/medical-devices/iit-prof-develops-ai-vr-device-for-faster-heart-disease-diagnosis.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/medical-devices/iit-prof-develops-ai-vr-device-for-faster-heart-disease-diagnosis/130530382",
+        "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-iit-prof-develops-ai-vr-device-for-faster-heart-disease-diagnosis"
+      },
+      {
+        "id": "2026-04-26-boehringer-ingelheim-opens-usd202-7m-ai-hub-in-london-to-accelerate-drug",
+        "title": "Boehringer Ingelheim opens USD202.7M AI hub in London to accelerate drug discovery | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
+        "summary": "The new Computational Innovation site will focus on using advanced data science to better understand disease biology and identify biological mechanisms with a higher likelihood of success in drug ...",
+        "source": "Healthcare MEA",
+        "sourceHost": "healthcaremea.com",
+        "region": "Middle East",
+        "country": "Middle East",
+        "publishedAt": "2026-04-26T08:12:22.000Z",
+        "publishedLabel": "April 26, 2026",
+        "category": "Manufacturing",
+        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/03/image-1600x900-2026-03-06T133054.172.png",
+        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
+        "justIn": true,
+        "originalUrl": "https://www.healthcaremea.com/2026/04/26/boehringer-ingelheim-opens-usd202-7m-ai-hub-in-london-to-accelerate-drug-discovery/",
+        "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-boehringer-ingelheim-opens-usd202-7m-ai-hub-in-london-to-accelerate-drug"
+      },
+      {
+        "id": "2026-04-26-novo-nordisk-oral-semaglutide-shows-superior-glycemic-control-in-teens-h",
+        "title": "Novo Nordisk oral semaglutide shows superior glycemic control in teens | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
+        "summary": "The study showed that oral semaglutide achieved a significantly greater reduction in HbA1c levels, a key marker of blood sugar control, compared to placebo.",
+        "source": "Healthcare MEA",
+        "sourceHost": "healthcaremea.com",
+        "region": "Middle East",
+        "country": "Middle East",
+        "publishedAt": "2026-04-26T09:02:01.000Z",
+        "publishedLabel": "April 26, 2026",
+        "category": "Manufacturing",
+        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/03/image-1600x900-2026-03-03T121729.356.png",
+        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
+        "justIn": true,
+        "originalUrl": "https://www.healthcaremea.com/2026/04/26/novo-nordisk-oral-semaglutide-shows-superior-glycemic-control-in-teens/",
+        "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-novo-nordisk-oral-semaglutide-shows-superior-glycemic-control-in-teens-h"
+      },
       {
         "id": "2026-04-26-regeneron-secures-usfda-nod-for-first-gene-therapy-targeting-genetic-hea",
         "title": "Regeneron Secures USFDA Nod for First Gene Therapy Targeting Genetic Hearing Loss",
@@ -70,91 +123,74 @@
         "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-cough-syrup-death-linked-pharma-firm-resurfaces-under-new-name-sparks-re"
       },
       {
-        "id": "2026-04-26-milestone-grows-net-revenue-to-eur-298mln-in-2025-and-invests-in-the-int",
-        "title": "Milestone grows net revenue to EUR 298mln in 2025 and invests in the intelligent video era",
-        "summary": "Fueling new advances in video analytics, responsible AI, and cloud technology",
+        "id": "2026-04-26-mohammed-bin-rashid-approves-decisions-to-enhance-industrial-resilience-",
+        "title": "Mohammed bin Rashid approves decisions to enhance industrial resilience and support national products",
+        "summary": "Reviewed the preparations for the 5th Make it in the Emirates platform",
         "source": "Zawya Pharmaceuticals",
         "sourceHost": "zawya.com",
         "region": "Middle East",
         "country": "United Arab Emirates",
-        "publishedAt": "2026-04-26T04:09:57.000Z",
+        "publishedAt": "2026-04-26T12:48:31.000Z",
         "publishedLabel": "April 26, 2026",
         "category": "Industry Update",
-        "image": "https://static.zawya.com/view/acePublic/alias/contentid/c2de0e93-e474-4b57-8f6e-3749e6d4bfa3/0/milestonesystems-png.jpeg?f=3%3A2",
-        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": false,
-        "originalUrl": "https://www.zawya.com/en/press-release/companies-news/milestone-grows-net-revenue-to-eur-298mln-in-2025-and-invests-in-the-intelligent-video-era-rkzmapw9",
-        "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-milestone-grows-net-revenue-to-eur-298mln-in-2025-and-invests-in-the-int"
-      },
-      {
-        "id": "2026-04-26-sheraa-launches-aed-5mln-entrepreneurs-resilience-fund",
-        "title": "Sheraa launches AED 5mln Entrepreneurs Resilience Fund",
-        "summary": "To empower startups & SMEs in key sectors and strengthen economic resilience",
-        "source": "Zawya Pharmaceuticals",
-        "sourceHost": "zawya.com",
-        "region": "Middle East",
-        "country": "United Arab Emirates",
-        "publishedAt": "2026-04-26T05:43:23.000Z",
-        "publishedLabel": "April 26, 2026",
-        "category": "Launch",
-        "image": "https://static.zawya.com/view/acePublic/alias/contentid/785c60a1-31b9-4e12-ba9e-6a4abbbb7746/4/flag-island-in-sharjah-emirate-shurooq-development.jpeg?f=3%3A2",
+        "image": "https://static.zawya.com/view/acePublic/alias/contentid/c53047bb-9aeb-4fda-b550-c9d423a8b2bd/0/mgls-lozr-snaa-fy-lmrt.jpeg?f=3%3A2",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://www.zawya.com/en/press-release/government-news/sheraa-launches-aed-5mln-entrepreneurs-resilience-fund-q8p2wth8",
-        "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-sheraa-launches-aed-5mln-entrepreneurs-resilience-fund"
+        "justIn": true,
+        "originalUrl": "https://www.zawya.com/en/press-release/government-news/mohammed-bin-rashid-approves-decisions-to-enhance-industrial-resilience-and-support-national-products-fkc1pinf",
+        "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-mohammed-bin-rashid-approves-decisions-to-enhance-industrial-resilience-"
       },
       {
-        "id": "2026-04-26-pfizer-enters-china-s-glp-1-market-with-xianweiying-pre-orders-intensifi",
-        "title": "Pfizer Enters China's GLP-1 Market with Xianweiying Pre-Orders, Intensifies Weight-Loss Drug Race",
-        "summary": "New Delhi: Pfizer's GLP-1 weight management treatment Xianweiying is available for pre-order in China, ​a Reuters check on a local e-commerce ‌platform showed, ramping up competition with rivals in a...",
-        "source": "Medical Dialogues Pharma",
-        "sourceHost": "medicaldialogues.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-04-26T04:00:46.000Z",
-        "publishedLabel": "April 26, 2026",
-        "category": "Market",
-        "image": "https://medicaldialogues.in/h-upload/2024/01/22/230672-pfizer-50.jpg",
-        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": false,
-        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/pfizer-enters-chinas-glp-1-market-with-xianweiying-pre-orders-intensifies-weight-loss-drug-race-169420",
-        "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-pfizer-enters-china-s-glp-1-market-with-xianweiying-pre-orders-intensifi"
-      }
-    ],
-    "providers": [
-      {
-        "id": "2026-04-26-salama-completes-restructuring-restores-financial-strength-shifts-to-gro",
-        "title": "SALAMA completes restructuring, restores financial strength, shifts to growth",
-        "summary": "Capital restructuring programme completed, restoring solvency to a strong and fully compliant level",
+        "id": "2026-04-26-sharjah-chamber-explores-prospects-for-new-investment-partnerships-with-",
+        "title": "Sharjah Chamber explores prospects for new investment partnerships with Hong Kong Economic Office",
+        "summary": "Discussions included strengthening collaboration through reciprocal participation in key economic events and specialised exhibitions",
         "source": "Zawya Pharmaceuticals",
         "sourceHost": "zawya.com",
         "region": "Middle East",
         "country": "United Arab Emirates",
-        "publishedAt": "2026-04-26T05:43:08.000Z",
+        "publishedAt": "2026-04-26T12:27:12.000Z",
         "publishedLabel": "April 26, 2026",
-        "category": "Provider Update",
-        "image": "https://static.zawya.com/view/acePublic/alias/contentid/7f316119-06ae-44f6-b0a2-4d3747189b7d/0/content-2-jpg.jpeg?f=3%3A2",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://www.zawya.com/en/press-release/companies-news/salama-completes-restructuring-restores-financial-strength-shifts-to-growth-g2wc7eq0",
-        "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-salama-completes-restructuring-restores-financial-strength-shifts-to-gro"
+        "category": "Partnership",
+        "image": "https://static.zawya.com/view/acePublic/alias/contentid/519d5320-7d9a-4c2c-8ecf-fd8de32897bb/0/3-duringthemeeting-jpg.jpeg?f=3%3A2",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://www.zawya.com/en/press-release/government-news/sharjah-chamber-explores-prospects-for-new-investment-partnerships-with-hong-kong-economic-office-gk6e433m",
+        "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-sharjah-chamber-explores-prospects-for-new-investment-partnerships-with-"
       },
       {
-        "id": "2026-04-26-tabreed-bahrain-to-expand-district-cooling-network-in-manama",
-        "title": "Tabreed Bahrain to expand district cooling network in Manama",
-        "summary": "Announces appointment of Arabian International as EPC Contractor",
+        "id": "2026-04-26-arabian-gulf-university-holds-in-person-final-exams-for-83-students-with",
+        "title": "Arabian Gulf University holds in-person final exams for 83 students with 100% attendance",
+        "summary": "All of whom are in their sixth and final year at the college and are pursuing a Doctor of Medicine degree",
         "source": "Zawya Pharmaceuticals",
         "sourceHost": "zawya.com",
         "region": "Middle East",
         "country": "Bahrain",
-        "publishedAt": "2026-04-26T06:20:39.000Z",
+        "publishedAt": "2026-04-26T12:43:43.000Z",
+        "publishedLabel": "April 26, 2026",
+        "category": "Industry Update",
+        "image": "https://static.zawya.com/view/acePublic/alias/contentid/8b5fe1d1-de53-440a-8bba-1581d8b26048/0/f34a9485-jpg.jpeg?f=3%3A2",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://www.zawya.com/en/press-release/companies-news/arabian-gulf-university-holds-in-person-final-exams-for-83-students-with-100-attendance-kcpificj",
+        "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-arabian-gulf-university-holds-in-person-final-exams-for-83-students-with"
+      }
+    ],
+    "providers": [
+      {
+        "id": "2026-04-26-general-assembly-and-doo-sign-mou-to-solidify-strategic-partnership",
+        "title": "General Assembly and DOO sign MoU to solidify strategic partnership",
+        "summary": "Transforming the Tech Landscape in Bahrain",
+        "source": "Zawya Pharmaceuticals",
+        "sourceHost": "zawya.com",
+        "region": "Middle East",
+        "country": "United Arab Emirates",
+        "publishedAt": "2026-04-26T12:07:44.000Z",
         "publishedLabel": "April 26, 2026",
         "category": "AI Care Delivery",
-        "image": "https://static.zawya.com/view/acePublic/alias/contentid/91ee25ac-7a18-4e1b-ad7d-2e82eab2ce15/0/sdfsdfsdf-jpg.jpeg?f=3%3A2",
+        "image": "https://static.zawya.com/view/acePublic/alias/contentid/0fe87aa6-7c89-483f-b04c-9f69c39a0a22/0/ga1-jpeg.jpeg?f=3%3A2",
         "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://www.zawya.com/en/press-release/companies-news/tabreed-bahrain-to-expand-district-cooling-network-in-manama-l3xyrmep",
-        "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-tabreed-bahrain-to-expand-district-cooling-network-in-manama"
+        "justIn": true,
+        "originalUrl": "https://www.zawya.com/en/press-release/companies-news/general-assembly-and-doo-sign-mou-to-solidify-strategic-partnership-oseywrcw",
+        "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-general-assembly-and-doo-sign-mou-to-solidify-strategic-partnership"
       }
     ],
     "diagnostics": [
@@ -174,28 +210,35 @@
         "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/delhi-drugs-dept-busts-illegal-pharmacy-in-shahdara-seizes-amoxicillin-azithromycin-100-medicines-169424",
         "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-delhi-drugs-dept-busts-illegal-pharmacy-in-shahdara-seizes-amoxicillin-a"
-      },
-      {
-        "id": "2026-04-26-kfsh-scales-genomic-medicine-from-research-to-clinical-decision-making",
-        "title": "KFSH scales genomic medicine from research to clinical decision-making",
-        "summary": "This shift is reflected in the hospital’s ability to expand genomic testing at scale",
-        "source": "Zawya Pharmaceuticals",
-        "sourceHost": "zawya.com",
-        "region": "Middle East",
-        "country": "Saudi Arabia",
-        "publishedAt": "2026-04-26T04:29:13.000Z",
-        "publishedLabel": "April 26, 2026",
-        "category": "Genomics",
-        "image": "https://static.zawya.com/view/acePublic/alias/contentid/b4d5ac85-6a34-4e21-91b4-ed1192cec6c6/0/genomenews4-jpg.jpeg?f=3%3A2",
-        "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
-        "justIn": false,
-        "originalUrl": "https://www.zawya.com/en/press-release/companies-news/kfsh-scales-genomic-medicine-from-research-to-clinical-decision-making-i8axaxxh",
-        "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-kfsh-scales-genomic-medicine-from-research-to-clinical-decision-making"
       }
     ],
     "healthtech": []
   },
   "thbActions": [
+    {
+      "segment": "pharma",
+      "articleId": "2026-04-26-iit-prof-develops-ai-vr-device-for-faster-heart-disease-diagnosis",
+      "title": "IIT prof develops AI-VR device for faster heart disease diagnosis",
+      "source": "ET Healthworld",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "pharma",
+      "articleId": "2026-04-26-boehringer-ingelheim-opens-usd202-7m-ai-hub-in-london-to-accelerate-drug",
+      "title": "Boehringer Ingelheim opens USD202.7M AI hub in London to accelerate drug discovery | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
+      "source": "Healthcare MEA",
+      "solution": "THB Commercial Analytics",
+      "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
+    },
+    {
+      "segment": "pharma",
+      "articleId": "2026-04-26-novo-nordisk-oral-semaglutide-shows-superior-glycemic-control-in-teens-h",
+      "title": "Novo Nordisk oral semaglutide shows superior glycemic control in teens | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
+      "source": "Healthcare MEA",
+      "solution": "THB Commercial Analytics",
+      "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
+    },
     {
       "segment": "pharma",
       "articleId": "2026-04-26-regeneron-secures-usfda-nod-for-first-gene-therapy-targeting-genetic-hea",
@@ -213,41 +256,9 @@
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
     },
     {
-      "segment": "pharma",
-      "articleId": "2026-04-26-cough-syrup-death-linked-pharma-firm-resurfaces-under-new-name-sparks-re",
-      "title": "Cough Syrup Death-Linked Pharma Firm Resurfaces Under New Name, Sparks Regulatory Concerns",
-      "source": "Medical Dialogues Pharma",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
-      "segment": "pharma",
-      "articleId": "2026-04-26-milestone-grows-net-revenue-to-eur-298mln-in-2025-and-invests-in-the-int",
-      "title": "Milestone grows net revenue to EUR 298mln in 2025 and invests in the intelligent video era",
-      "source": "Zawya Pharmaceuticals",
-      "solution": "THB Commercial Analytics",
-      "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
-    },
-    {
-      "segment": "pharma",
-      "articleId": "2026-04-26-sheraa-launches-aed-5mln-entrepreneurs-resilience-fund",
-      "title": "Sheraa launches AED 5mln Entrepreneurs Resilience Fund",
-      "source": "Zawya Pharmaceuticals",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
       "segment": "providers",
-      "articleId": "2026-04-26-salama-completes-restructuring-restores-financial-strength-shifts-to-gro",
-      "title": "SALAMA completes restructuring, restores financial strength, shifts to growth",
-      "source": "Zawya Pharmaceuticals",
-      "solution": "THB Provider CRM",
-      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
-    },
-    {
-      "segment": "providers",
-      "articleId": "2026-04-26-tabreed-bahrain-to-expand-district-cooling-network-in-manama",
-      "title": "Tabreed Bahrain to expand district cooling network in Manama",
+      "articleId": "2026-04-26-general-assembly-and-doo-sign-mou-to-solidify-strategic-partnership",
+      "title": "General Assembly and DOO sign MoU to solidify strategic partnership",
       "source": "Zawya Pharmaceuticals",
       "solution": "THB Provider CRM",
       "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
@@ -257,14 +268,6 @@
       "articleId": "2026-04-26-delhi-drugs-dept-busts-illegal-pharmacy-in-shahdara-seizes-amoxicillin-a",
       "title": "Delhi Drugs Dept Busts Illegal Pharmacy in Shahdara, Seizes Amoxicillin, Azithromycin, 100+ Medicines",
       "source": "Medical Dialogues Pharma",
-      "solution": "THB Diagnostics CRM",
-      "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
-    },
-    {
-      "segment": "diagnostics",
-      "articleId": "2026-04-26-kfsh-scales-genomic-medicine-from-research-to-clinical-decision-making",
-      "title": "KFSH scales genomic medicine from research to clinical decision-making",
-      "source": "Zawya Pharmaceuticals",
       "solution": "THB Diagnostics CRM",
       "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
     }
