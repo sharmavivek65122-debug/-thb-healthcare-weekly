@@ -5,9 +5,9 @@
   "startDate": "2026-04-04T18:30:00.000Z",
   "endDate": "2026-04-10T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-04-27T07:14:15.290Z",
+  "updatedAt": "2026-04-27T15:24:44.967Z",
   "coverage": {
-    "pharma": 3,
+    "pharma": 1,
     "providers": 5,
     "diagnostics": 3,
     "healthtech": 0
@@ -15,8 +15,7 @@
   "sourcesUsed": [
     "ET Healthworld Diagnostics",
     "ET Healthworld Hospitals",
-    "Financial Express Healthcare",
-    "PharmaTutor News"
+    "Financial Express Healthcare"
   ],
   "segments": {
     "pharma": [
@@ -36,40 +35,6 @@
         "justIn": false,
         "originalUrl": "https://www.financialexpress.com/business/healthcare/mounjaro-takes-a-hit-as-generic-weight-loss-medicines-flood-the-market/4201975/",
         "articlePath": "/article.html?issue=2026-04-05&article=2026-04-05-mounjaro-takes-a-hit-as-generic-weight-loss-medicines-flood-the-market"
-      },
-      {
-        "id": "2026-04-05-lupin-announces-approval-of-dapagliflozin-and-metformin-hydrochloride-ex",
-        "title": "Lupin announces approval of Dapagliflozin and Metformin Hydrochloride Extended-Release Tablets in the USA",
-        "summary": "Lupin Limited announced that it has received approval from the United States Food and Drug Administration (U.S. FDA) for its Abbreviated New Drug Application for Dapagliflozin and Metformin Hydrochloride Extended-Release Tablets, 5 mg/500 mg, 5 mg/1,000 mg,...",
-        "source": "PharmaTutor News",
-        "sourceHost": "pharmatutor.org",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-04-10T11:07:23.000Z",
-        "publishedLabel": "April 10, 2026",
-        "category": "Approval",
-        "image": "https://www.pharmatutor.org/sites/default/files/styles/webp/public/2026-04/lupin-announces-approval-of-dapagliflozin-and-metformin-hydrochloride-extended-release-tablets-in-the-usa.jpg.webp?itok=pgEloEjJ",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/lupin-announces-approval-of-dapagliflozin-and-metformin-hydrochloride-extended-release-tablets-in-the-usa",
-        "articlePath": "/article.html?issue=2026-04-05&article=2026-04-05-lupin-announces-approval-of-dapagliflozin-and-metformin-hydrochloride-ex"
-      },
-      {
-        "id": "2026-04-05-amgen-announced-results-from-a-phase-3-trial-of-tepezza",
-        "title": "Amgen announced results from a Phase 3 trial of TEPEZZA",
-        "summary": "Amgen announced positive topline results from a Phase 3 trial of TEPEZZA (teprotumumab-trbw) administered by subcutaneous injection via an on-body injector (OBI) in participants with moderate-to-severe active Thyroid Eye Disease",
-        "source": "PharmaTutor News",
-        "sourceHost": "pharmatutor.org",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-04-10T11:00:32.000Z",
-        "publishedLabel": "April 10, 2026",
-        "category": "Industry Update",
-        "image": "https://www.pharmatutor.org/sites/default/files/styles/webp/public/2026-04/amgen-announced-results-from-a-phase-3-trial-of-tepezza.jpg.webp?itok=X7DzIEMV",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/amgen-announced-results-from-a-phase-3-trial-of-tepezza",
-        "articlePath": "/article.html?issue=2026-04-05&article=2026-04-05-amgen-announced-results-from-a-phase-3-trial-of-tepezza"
       }
     ],
     "providers": [
@@ -222,22 +187,6 @@
       "source": "Financial Express Healthcare",
       "solution": "THB Commercial Analytics",
       "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
-    },
-    {
-      "segment": "pharma",
-      "articleId": "2026-04-05-lupin-announces-approval-of-dapagliflozin-and-metformin-hydrochloride-ex",
-      "title": "Lupin announces approval of Dapagliflozin and Metformin Hydrochloride Extended-Release Tablets in the USA",
-      "source": "PharmaTutor News",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
-      "segment": "pharma",
-      "articleId": "2026-04-05-amgen-announced-results-from-a-phase-3-trial-of-tepezza",
-      "title": "Amgen announced results from a Phase 3 trial of TEPEZZA",
-      "source": "PharmaTutor News",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
     },
     {
       "segment": "providers",

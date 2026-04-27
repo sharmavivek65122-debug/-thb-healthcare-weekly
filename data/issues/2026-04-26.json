@@ -5,10 +5,10 @@
   "startDate": "2026-04-25T18:30:00.000Z",
   "endDate": "2026-05-01T18:30:00.000Z",
   "status": "live",
-  "updatedAt": "2026-04-27T07:14:15.290Z",
+  "updatedAt": "2026-04-27T15:24:44.967Z",
   "coverage": {
-    "pharma": 12,
-    "providers": 0,
+    "pharma": 26,
+    "providers": 1,
     "diagnostics": 1,
     "healthtech": 0
   },
@@ -16,10 +16,29 @@
     "ET Healthworld",
     "Economic Times Pharma",
     "Healthcare MEA",
-    "Medical Dialogues Pharma"
+    "Janssen India Media",
+    "Medical Dialogues Pharma",
+    "PharmaTutor News"
   ],
   "segments": {
     "pharma": [
+      {
+        "id": "2026-04-26-sun-pharma-how-a-small-kolkata-trader-became-a-global-buyout-artist",
+        "title": "Sun Pharma: How a small Kolkata trader became a global buyout artist",
+        "summary": "Sun Pharma, led by Dilip Shanghvi, is poised for its largest overseas acquisition, a $12.5 billion deal for Organon & Co. This move continues Shanghvi's proven strategy of acquiring companies to fuel growth and global expansion. His approach prioritizes...",
+        "source": "Economic Times Pharma",
+        "sourceHost": "economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-04-27T08:54:44.000Z",
+        "publishedLabel": "April 27, 2026",
+        "category": "Deal",
+        "image": "https://img.etimg.com/thumb/msid-130549074,width-1200,height-630,imgsize-157274,overlay-economictimes/articleshow.jpg",
+        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
+        "justIn": true,
+        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/dilip-shanghvi-sun-pharma-organon-12-5-billion-acquisition-strategy-global-expansion-how-a-small-kolkata-trader-became-a-global-buyout-artist/articleshow/130548787.cms",
+        "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-sun-pharma-how-a-small-kolkata-trader-became-a-global-buyout-artist"
+      },
       {
         "id": "2026-04-26-et-exclusive-sun-pharma-set-to-acquire-organon-for-12-5-bn-its-biggest-t",
         "title": "ET Exclusive | Sun Pharma set to acquire Organon for $12.5 bn, its biggest till date",
@@ -33,7 +52,7 @@
         "category": "Industry Update",
         "image": "https://img.etimg.com/thumb/msid-130535118,width-1200,height-630,imgsize-47698,overlay-economictimes/articleshow.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/sun-pharma-set-to-acquire-organon-for-12-5-bn-its-biggest-till-date/articleshow/130534538.cms",
         "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-et-exclusive-sun-pharma-set-to-acquire-organon-for-12-5-bn-its-biggest-t"
       },
@@ -50,7 +69,7 @@
         "category": "Industry Update",
         "image": "https://img.etimg.com/thumb/msid-130543710,width-1200,height-630,imgsize-94450,overlay-economictimes/articleshow.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/cyrus-poonawalla-commitment-to-affordable-vaccines-and-global-health-saves-30-million-lives/articleshow/130542811.cms",
         "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-et-awards-cyrus-poonawalla-reflects-on-sii-s-mission-of-affordable-vacci"
       },
@@ -67,9 +86,26 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-130541470,imgsize-54894,width-1200,height=627,overlay-ethealth,resizemode-75/policy/new-app-soon-to-ease-tracking-blood-bags-online-registration-of-donors-rajasthan-govt.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/policy/new-app-soon-to-ease-tracking-blood-bags-online-registration-of-donors-rajasthan-govt/130541470",
         "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-new-app-soon-to-ease-tracking-blood-bags-online-registration-of-donors-r"
+      },
+      {
+        "id": "2026-04-26-7-in-10-heart-failure-patients-in-india-lack-financial-cover-treatment-c",
+        "title": "7 in 10 heart failure patients in India lack financial cover; treatment costs push families to brink",
+        "summary": "Insurance offers some relief — but not enough. Schemes such as Ayushman Bharat provide coverage for hospitalisation, but gaps remain. Most schemes do not fully cover outpatient care, medicines and long-term follow-up — which form a major part of treatment in...",
+        "source": "ET Healthworld",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-04-27T08:19:13.000Z",
+        "publishedLabel": "April 27, 2026",
+        "category": "Industry Update",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-130548419,imgsize-89008,width-1200,height=627,overlay-ethealth,resizemode-75/insurance/7-in-10-heart-failure-patients-in-india-lack-financial-cover-treatment-costs-push-families-to-brink.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/insurance/7-in-10-heart-failure-patients-in-india-lack-financial-cover-treatment-costs-push-families-to-brink/130548419",
+        "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-7-in-10-heart-failure-patients-in-india-lack-financial-cover-treatment-c"
       },
       {
         "id": "2026-04-26-sun-pharma-to-buy-organon-in-11-75-billion-all-cash-deal",
@@ -84,9 +120,26 @@
         "category": "Deal",
         "image": "https://img.etimg.com/thumb/msid-130541676,width-1200,height-630,imgsize-68206,overlay-economictimes/articleshow.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/sun-pharma-to-buy-organon-in-11-75-billion-all-cash-deal/articleshow/130541665.cms",
         "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-sun-pharma-to-buy-organon-in-11-75-billion-all-cash-deal"
+      },
+      {
+        "id": "2026-04-26-max-healthcare-joins-global-consortium-to-advance-dengue-research-under-",
+        "title": "Max Healthcare joins global consortium to advance dengue research under Indo-EU COMBAT initiative",
+        "summary": "The initiative, supported by the Department of Biotechnology and the European Commission, brings together leading institutions from India and Europe to develop technology-driven approaches for better understanding, diagnosis and management of dengue and...",
+        "source": "ET Healthworld",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-04-27T08:13:25.000Z",
+        "publishedLabel": "April 27, 2026",
+        "category": "Industry Update",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-130548402,imgsize-283868,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/max-healthcare-joins-global-consortium-to-advance-dengue-research-under-indo-eu-combat-initiative.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/max-healthcare-joins-global-consortium-to-advance-dengue-research-under-indo-eu-combat-initiative/130548402",
+        "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-max-healthcare-joins-global-consortium-to-advance-dengue-research-under-"
       },
       {
         "id": "2026-04-26-nathealth-appoints-shankha-banerjee-as-treasurer-mandeep-singh-kumar-as-",
@@ -101,9 +154,26 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-130546648,imgsize-101270,width-1200,height=627,overlay-ethealth,resizemode-75/industry/nathealth-appoints-shankha-banerjee-as-treasurer-mandeep-singh-kumar-as-secretary-for-fy27.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/nathealth-appoints-shankha-banerjee-as-treasurer-mandeep-singh-kumar-as-secretary-for-fy27/130546648",
         "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-nathealth-appoints-shankha-banerjee-as-treasurer-mandeep-singh-kumar-as-"
+      },
+      {
+        "id": "2026-04-26-integrated-robotic-gynae-oncology-ecosystem-launched-to-address-gaps-in-",
+        "title": "Integrated robotic gynae-oncology ecosystem launched to address gaps in women’s cancer care",
+        "summary": "Apollo Athenaa has launched an integrated gynae-oncology and robotic surgery ecosystem aimed at addressing fragmented care in women’s cancers. The initiative brings together early detection, precision diagnostics and minimally invasive surgery within a single...",
+        "source": "ET Healthworld",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-04-27T08:20:42.000Z",
+        "publishedLabel": "April 27, 2026",
+        "category": "Launch",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-130548540,imgsize-1074979,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/integrated-robotic-gynae-oncology-ecosystem-launched-to-address-gaps-in-womens-cancer-care.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/integrated-robotic-gynae-oncology-ecosystem-launched-to-address-gaps-in-womens-cancer-care/130548540",
+        "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-integrated-robotic-gynae-oncology-ecosystem-launched-to-address-gaps-in-"
       },
       {
         "id": "2026-04-26-iit-prof-develops-ai-vr-device-for-faster-heart-disease-diagnosis",
@@ -123,6 +193,74 @@
         "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-iit-prof-develops-ai-vr-device-for-faster-heart-disease-diagnosis"
       },
       {
+        "id": "2026-04-26-dcgi-approves-zydus-phase-iii-trials-for-zintrodiazine-to-combat-drug-re",
+        "title": "DCGI Approves Zydus' Phase III Trials for Zintrodiazine to Combat Drug-Resistant Malaria",
+        "summary": "Ahmedabad: Zydus Lifesciences Limited has received approval from the Drugs Controller General of India (DCGI) to initiate Phase III clinical trials of its novel anti-malarial candidate, Zintrodiazine,...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-04-27T12:35:09.000Z",
+        "publishedLabel": "April 27, 2026",
+        "category": "Approval",
+        "image": "https://medicaldialogues.in/h-upload/2023/01/11/197471-zydus-lifesciences-3.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/dcgi-approves-zydus-phase-iii-trials-for-zintrodiazine-to-combat-drug-resistant-malaria-169526",
+        "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-dcgi-approves-zydus-phase-iii-trials-for-zintrodiazine-to-combat-drug-re"
+      },
+      {
+        "id": "2026-04-26-insilico-medicine-unveils-uae-s-first-fully-ai-discovered-cancer-drug-ca",
+        "title": "Insilico Medicine unveils UAE's first fully AI-discovered cancer drug candidate | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
+        "summary": "AI Platform Accelerates Development Timeline The team developed ISM0387 using Insilico Medicine’s Chemistry42 platform, which integrates more than 40 generative AI models to analyse complex biolog ...",
+        "source": "Healthcare MEA",
+        "sourceHost": "healthcaremea.com",
+        "region": "Middle East",
+        "country": "United Arab Emirates",
+        "publishedAt": "2026-04-27T07:19:39.000Z",
+        "publishedLabel": "April 27, 2026",
+        "category": "Manufacturing",
+        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/04/image-1600x900-2026-04-27T100340.075.png",
+        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
+        "justIn": true,
+        "originalUrl": "https://www.healthcaremea.com/2026/04/27/insilico-medicine-unveils-uaes-first-fully-ai-discovered-cancer-drug-candidate/",
+        "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-insilico-medicine-unveils-uae-s-first-fully-ai-discovered-cancer-drug-ca"
+      },
+      {
+        "id": "2026-04-26-sun-pharma-s-bold-11-75-billion-usd-bet-a-deal-that-could-redefine-india",
+        "title": "Sun Pharma’s Bold 11.75 Billion USD Bet : A Deal That Could Redefine Indian Pharma",
+        "summary": "In a move that has sent shockwaves across the global pharmaceutical industry, Sun Pharmaceutical Industries Limited has announced its biggest-ever acquisition, buying Organon & Co. in a massive USD 11.75 billion all-cash deal.This isn’t just another corporate...",
+        "source": "PharmaTutor News",
+        "sourceHost": "pharmatutor.org",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-04-27T11:04:24.000Z",
+        "publishedLabel": "April 27, 2026",
+        "category": "Deal",
+        "image": "https://www.pharmatutor.org/sites/default/files/styles/webp/public/2026-04/sun-pharmas-bold-billion-usd-bet-a-deal-that-could-redefine-indian-pharma.jpg.webp?itok=oAn4sS7s",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/sun-pharmas-bold-billion-usd-bet-a-deal-that-could-redefine-indian-pharma",
+        "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-sun-pharma-s-bold-11-75-billion-usd-bet-a-deal-that-could-redefine-india"
+      },
+      {
+        "id": "2026-04-26-fda-approves-caplyta-lumateperone-snda-with-robust-new-data-supporting-r",
+        "title": "FDA approves CAPLYTA® (lumateperone) sNDA with robust new data supporting reduced risk of relapse in schizophrenia",
+        "summary": "CAPLYTA® reduced relapse risk by 63 percent, with 84 percent of patients with schizophrenia relapse-free over six months Demonstrating long-term stability and a well-established safety profile consistent with previous CAPLYTA® studies",
+        "source": "Janssen India Media",
+        "sourceHost": "janssen.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-04-27T06:46:06.710Z",
+        "publishedLabel": "April 27, 2026",
+        "category": "Industry Update",
+        "image": "https://jnj-content-lab2.brightspotcdn.com/ac/25/bd2078f54d5992dd486ed26140ce/johnson-johnson-logo.svg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://www.jnj.com/media-center/press-releases/fda-approves-caplyta-lumateperone-snda-with-robust-new-data-supporting-reduced-risk-of-relapse-in-schizophrenia",
+        "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-fda-approves-caplyta-lumateperone-snda-with-robust-new-data-supporting-r"
+      },
+      {
         "id": "2026-04-26-boehringer-ingelheim-opens-usd202-7m-ai-hub-in-london-to-accelerate-drug",
         "title": "Boehringer Ingelheim opens USD202.7M AI hub in London to accelerate drug discovery | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
         "summary": "The new Computational Innovation site will focus on using advanced data science to better understand disease biology and identify biological mechanisms with a higher likelihood of success in drug ...",
@@ -138,6 +276,40 @@
         "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/04/26/boehringer-ingelheim-opens-usd202-7m-ai-hub-in-london-to-accelerate-drug-discovery/",
         "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-boehringer-ingelheim-opens-usd202-7m-ai-hub-in-london-to-accelerate-drug"
+      },
+      {
+        "id": "2026-04-26-sun-pharma-seals-rs-97-500-crore-organon-acquisition-deal",
+        "title": "Sun Pharma Seals Rs 97,500 Crore Organon Acquisition Deal",
+        "summary": "New Delhi: Sun Pharmaceutical Industries Limited and Organon & Co. has announced that they have entered into a definitive agreement under which Sun Pharma will acquire all outstanding shares of...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-04-27T07:20:36.000Z",
+        "publishedLabel": "April 27, 2026",
+        "category": "Deal",
+        "image": "https://medicaldialogues.in/h-upload/2024/01/16/230297-sun-pharma-new-50.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/sun-pharma-seals-rs-97500-crore-organon-acquisition-deal-169480",
+        "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-sun-pharma-seals-rs-97-500-crore-organon-acquisition-deal"
+      },
+      {
+        "id": "2026-04-26-alembic-secures-usfda-approval-for-gilenya-generic",
+        "title": "Alembic Secures USFDA Approval for Gilenya Generic",
+        "summary": "Vadodara: Alembic Pharmaceuticals Limited has received final approval from the US Food and Drug Administration (USFDA) for its Fingolimod Capsules, 0.5 mg, strengthening its generics portfolio in the...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-04-27T06:45:56.000Z",
+        "publishedLabel": "April 27, 2026",
+        "category": "Approval",
+        "image": "https://medicaldialogues.in/h-upload/2023/01/10/197274-alembic-pharma-4.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/alembic-secures-usfda-approval-for-gilenya-generic-169488",
+        "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-alembic-secures-usfda-approval-for-gilenya-generic"
       },
       {
         "id": "2026-04-26-novo-nordisk-oral-semaglutide-shows-superior-glycemic-control-in-teens-h",
@@ -174,6 +346,40 @@
         "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-regeneron-secures-usfda-nod-for-first-gene-therapy-targeting-genetic-hea"
       },
       {
+        "id": "2026-04-26-webinar-on-role-of-artificial-intelligence-in-pharmacy-careers-and-it-im",
+        "title": "Webinar on Role of Artificial Intelligence in Pharmacy Careers and IT Impact organized by Saveetha College of Pharmacy",
+        "summary": "Saveetha College of Pharmacy, Saveetha Institute of Medical and Technical Sciences (SIMATS), Chennai, successfully organized an insightful webinar entitled “Role of Artificial Intelligence in Pharmacy Careers & IT Impact”; jointly in collaboration with the...",
+        "source": "PharmaTutor News",
+        "sourceHost": "pharmatutor.org",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-04-27T06:08:06.000Z",
+        "publishedLabel": "April 27, 2026",
+        "category": "Industry Update",
+        "image": "https://www.pharmatutor.org/sites/default/files/styles/webp/public/2026-04/webinar-on-role-of-artificial-intelligence-in-pharmacy-careers-and-it-impact-organized-by-saveetha-college-of-pharmacy.jpg.webp?itok=_NRa0LY9",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/webinar-on-role-of-artificial-intelligence-in-pharmacy-careers-and-it-impact-organized-by-saveetha-college-of-pharmacy",
+        "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-webinar-on-role-of-artificial-intelligence-in-pharmacy-careers-and-it-im"
+      },
+      {
+        "id": "2026-04-26-delhi-police-bust-illegal-pharma-drug-racket-medical-representative-amon",
+        "title": "Delhi Police Bust Illegal Pharma Drug Racket, Medical Representative Among 3 Held",
+        "summary": "New Delhi: Delhi Police has arrested three men for their alleged involvement in an illegal network supplying banned and controlled pharmaceutical drugs across Delhi and the NCR, an official said on...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-04-27T05:00:48.000Z",
+        "publishedLabel": "April 27, 2026",
+        "category": "Industry Update",
+        "image": "https://medicaldialogues.in/h-upload/2026/04/08/340407-arrest-1.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/delhi-police-bust-illegal-pharma-drug-racket-medical-representative-among-3-held-169481",
+        "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-delhi-police-bust-illegal-pharma-drug-racket-medical-representative-amon"
+      },
+      {
         "id": "2026-04-26-rajasthan-flags-7-drug-batches-including-cefixime-albendazole-ciprofloxa",
         "title": "Rajasthan Flags 7 Drug Batches Including Cefixime, Albendazole, Ciprofloxacin as NSQ, Orders Recall",
         "summary": "New Delhi: Raising serious concerns over drug safety and quality, the Commissionerate of Food Safety and Drug Control, Rajasthan, has flagged seven commonly used medicines as \"Not of Standard Quality\"...",
@@ -208,6 +414,40 @@
         "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-cough-syrup-death-linked-pharma-firm-resurfaces-under-new-name-sparks-re"
       },
       {
+        "id": "2026-04-26-who-validates-algeria-s-elimination-of-trachoma-as-a-public-health-probl",
+        "title": "WHO validates Algeria's elimination of trachoma as a public health problem | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
+        "summary": "Current estimates indicate that about 1.9 million people live with blindness or visual impairment caused by trachoma, while approximately 97 million people remain at risk in endemic areas.",
+        "source": "Healthcare MEA",
+        "sourceHost": "healthcaremea.com",
+        "region": "Middle East",
+        "country": "Middle East",
+        "publishedAt": "2026-04-27T09:10:00.000Z",
+        "publishedLabel": "April 27, 2026",
+        "category": "Manufacturing",
+        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/04/image-1600x900-2026-04-27T085203.067.png",
+        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
+        "justIn": true,
+        "originalUrl": "https://www.healthcaremea.com/2026/04/27/who-validates-algerias-elimination-of-trachoma-as-a-public-health-problem/",
+        "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-who-validates-algeria-s-elimination-of-trachoma-as-a-public-health-probl"
+      },
+      {
+        "id": "2026-04-26-newly-discovered-virus-linked-to-colorectal-cancer",
+        "title": "Newly discovered virus linked to colorectal cancer",
+        "summary": "Colorectal cancer is one of the most common types of cancer in the Western world and a leading cause of cancer-related deaths. Age, diet and lifestyle are known risk factors. However, in most cases we still lack a precise understanding of what triggers the...",
+        "source": "PharmaTutor News",
+        "sourceHost": "pharmatutor.org",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-04-27T12:03:38.000Z",
+        "publishedLabel": "April 27, 2026",
+        "category": "Industry Update",
+        "image": "https://www.pharmatutor.org/sites/default/files/styles/webp/public/2026-04/newly-discovered-virus-linked-to-colorectal-cancer.jpg.webp?itok=RDWQYUYg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/newly-discovered-virus-linked-to-colorectal-cancer",
+        "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-newly-discovered-virus-linked-to-colorectal-cancer"
+      },
+      {
         "id": "2026-04-26-pfizer-enters-china-s-glp-1-market-with-xianweiying-pre-orders-intensifi",
         "title": "Pfizer Enters China's GLP-1 Market with Xianweiying Pre-Orders, Intensifies Weight-Loss Drug Race",
         "summary": "New Delhi: Pfizer's GLP-1 weight management treatment Xianweiying is available for pre-order in China, ​a Reuters check on a local e-commerce ‌platform showed, ramping up competition with rivals in a...",
@@ -220,12 +460,30 @@
         "category": "Market",
         "image": "https://medicaldialogues.in/h-upload/2024/01/22/230672-pfizer-50.jpg",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/pfizer-enters-chinas-glp-1-market-with-xianweiying-pre-orders-intensifies-weight-loss-drug-race-169420",
         "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-pfizer-enters-china-s-glp-1-market-with-xianweiying-pre-orders-intensifi"
       }
     ],
-    "providers": [],
+    "providers": [
+      {
+        "id": "2026-04-26-thumbay-healthcare-launches-hyperbaric-oxygen-therapy-unit-and-royale-pr",
+        "title": "Thumbay Healthcare launches Hyperbaric Oxygen Therapy Unit and Royale Presidential Suite in Ajman",
+        "summary": "Hyperbaric Oxygen Therapy works by delivering pure oxygen in a pressurized chamber, helping the body repair damaged tissues more efficiently.",
+        "source": "Healthcare MEA",
+        "sourceHost": "healthcaremea.com",
+        "region": "Middle East",
+        "country": "United Arab Emirates",
+        "publishedAt": "2026-04-27T07:42:18.000Z",
+        "publishedLabel": "April 27, 2026",
+        "category": "AI Care Delivery",
+        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/04/image-1600x900-2026-04-27T103648.837.png",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": false,
+        "originalUrl": "https://www.healthcaremea.com/2026/04/27/thumbay-healthcare-launches-hyperbaric-oxygen-therapy-unit-and-royale-presidential-suite-in-ajman/",
+        "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-thumbay-healthcare-launches-hyperbaric-oxygen-therapy-unit-and-royale-pr"
+      }
+    ],
     "diagnostics": [
       {
         "id": "2026-04-26-delhi-drugs-dept-busts-illegal-pharmacy-in-shahdara-seizes-amoxicillin-a",
@@ -248,6 +506,14 @@
     "healthtech": []
   },
   "thbActions": [
+    {
+      "segment": "pharma",
+      "articleId": "2026-04-26-sun-pharma-how-a-small-kolkata-trader-became-a-global-buyout-artist",
+      "title": "Sun Pharma: How a small Kolkata trader became a global buyout artist",
+      "source": "Economic Times Pharma",
+      "solution": "THB Commercial Analytics",
+      "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
+    },
     {
       "segment": "pharma",
       "articleId": "2026-04-26-et-exclusive-sun-pharma-set-to-acquire-organon-for-12-5-bn-its-biggest-t",
@@ -274,19 +540,19 @@
     },
     {
       "segment": "pharma",
-      "articleId": "2026-04-26-sun-pharma-to-buy-organon-in-11-75-billion-all-cash-deal",
-      "title": "Sun Pharma to buy Organon in $11.75 billion all-cash deal",
-      "source": "Economic Times Pharma",
+      "articleId": "2026-04-26-7-in-10-heart-failure-patients-in-india-lack-financial-cover-treatment-c",
+      "title": "7 in 10 heart failure patients in India lack financial cover; treatment costs push families to brink",
+      "source": "ET Healthworld",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
     },
     {
-      "segment": "pharma",
-      "articleId": "2026-04-26-nathealth-appoints-shankha-banerjee-as-treasurer-mandeep-singh-kumar-as-",
-      "title": "NATHEALTH appoints Shankha Banerjee as Treasurer, Mandeep Singh Kumar as Secretary for FY27",
-      "source": "ET Healthworld",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+      "segment": "providers",
+      "articleId": "2026-04-26-thumbay-healthcare-launches-hyperbaric-oxygen-therapy-unit-and-royale-pr",
+      "title": "Thumbay Healthcare launches Hyperbaric Oxygen Therapy Unit and Royale Presidential Suite in Ajman",
+      "source": "Healthcare MEA",
+      "solution": "THB Provider CRM",
+      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
     },
     {
       "segment": "diagnostics",
