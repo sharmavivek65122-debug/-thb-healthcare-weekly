@@ -5,20 +5,18 @@
   "startDate": "2026-04-11T18:30:00.000Z",
   "endDate": "2026-04-17T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-04-28T07:13:25.196Z",
+  "updatedAt": "2026-04-28T15:58:02.621Z",
   "coverage": {
-    "pharma": 6,
-    "providers": 7,
-    "diagnostics": 3,
+    "pharma": 3,
+    "providers": 6,
+    "diagnostics": 1,
     "healthtech": 0
   },
   "sourcesUsed": [
     "ET Healthworld Diagnostics",
     "ET Healthworld Hospitals",
     "Economic Times Pharma",
-    "Express Healthcare Posts",
-    "Financial Express Healthcare",
-    "PharmaTutor News"
+    "Financial Express Healthcare"
   ],
   "segments": {
     "pharma": [
@@ -72,57 +70,6 @@
         "justIn": false,
         "originalUrl": "https://www.financialexpress.com/business/news/domestic-pharma-grew-at-8-8-in-fy26-torrent-cipla-surge-ahead-in-the-rs-246-lakh-crore-market/4204881/",
         "articlePath": "/article.html?issue=2026-04-12&article=2026-04-12-domestic-pharma-grew-at-8-8-in-fy26-torrent-cipla-surge-ahead-in-the-rs-"
-      },
-      {
-        "id": "2026-04-12-burnett-homoeopathy-hosts-4th-world-homoeopathy-summit-2026",
-        "title": "Burnett Homoeopathy hosts 4th World Homoeopathy Summit 2026",
-        "summary": "Burnett Homoeopathy host 4th World Homoeopathy Summit 2026 at the Palace of Westminster in London. Dr Nitish Chandra Dubey, Founder and Chairman of Burnett Homoeopathy, stated that the summit represents […]",
-        "source": "Express Healthcare Posts",
-        "sourceHost": "expresshealthcare.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-04-18T11:06:56.000Z",
-        "publishedLabel": "April 18, 2026",
-        "category": "Industry Update",
-        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/04/18163648/New-Project-1-7.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://www.expresshealthcare.in/news/burnett-homoeopathy-hosts-4th-world-homoeopathy-summit-2026/453433/",
-        "articlePath": "/article.html?issue=2026-04-12&article=2026-04-12-burnett-homoeopathy-hosts-4th-world-homoeopathy-summit-2026"
-      },
-      {
-        "id": "2026-04-12-eli-lilly-announced-results-of-jaypirca-pirtobrutinib",
-        "title": "Eli Lilly announced results of Jaypirca (pirtobrutinib)",
-        "summary": "Eli Lilly and Company announced positive topline results from the Phase 3 BRUIN CLL-322 trial of Jaypirca (pirtobrutinib), a non-covalent (reversible) Bruton tyrosine kinase (BTK) inhibitor, plus venetoclax and rituximab versus venetoclax and rituximab in...",
-        "source": "PharmaTutor News",
-        "sourceHost": "pharmatutor.org",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-04-15T11:22:31.000Z",
-        "publishedLabel": "April 15, 2026",
-        "category": "Industry Update",
-        "image": "https://www.pharmatutor.org/sites/default/files/styles/webp/public/2026-04/eli-lilly-announced-results-of-jaypirca-pirtobrutinib.jpg.webp?itok=b4pPOnFF",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/eli-lilly-announced-results-of-jaypirca-pirtobrutinib",
-        "articlePath": "/article.html?issue=2026-04-12&article=2026-04-12-eli-lilly-announced-results-of-jaypirca-pirtobrutinib"
-      },
-      {
-        "id": "2026-04-12-piramal-critical-care-has-successfully-closed-the-acquisition-of-kenalog",
-        "title": "Piramal Critical Care has successfully closed the acquisition of Kenalog",
-        "summary": "Kenalog® is a well-established injectable therapy with a long-standing legacy in the treatment of inflammatory conditions, marketed across 15 countries under trusted brands including Kenalog®, Kenacort®, Trigon®, and Adcortyl®.",
-        "source": "PharmaTutor News",
-        "sourceHost": "pharmatutor.org",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-04-17T10:55:34.000Z",
-        "publishedLabel": "April 17, 2026",
-        "category": "Market",
-        "image": "https://www.pharmatutor.org/sites/default/files/styles/webp/public/2026-04/piramal-critical-care-has-successfully-closed-the-acquisition-of-kenalog.jpg.webp?itok=lezItMGc",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/piramal-critical-care-has-successfully-closed-the-acquisition-of-kenalog",
-        "articlePath": "/article.html?issue=2026-04-12&article=2026-04-12-piramal-critical-care-has-successfully-closed-the-acquisition-of-kenalog"
       }
     ],
     "providers": [
@@ -227,23 +174,6 @@
         "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/kkr-backed-baby-memorial-to-acquire-60-stake-in-star-hospitals-for-1800-crore/130270858",
         "articlePath": "/article.html?issue=2026-04-12&article=2026-04-12-kkr-backed-baby-memorial-to-acquire-60-stake-in-star-hospitals-for-1-800"
-      },
-      {
-        "id": "2026-04-12-caho-appoints-dr-ilankumaran-kaliamoorthy-as-chairperson-of-healthcare-i",
-        "title": "CAHO appoints Dr Ilankumaran Kaliamoorthy as Chairperson of Healthcare Institutions Division",
-        "summary": "Apollo Hospitals executive to lead quality and accreditation initiatives for 2026–2028 term",
-        "source": "Express Healthcare Posts",
-        "sourceHost": "expresshealthcare.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-04-17T08:37:37.000Z",
-        "publishedLabel": "April 17, 2026",
-        "category": "Hospital",
-        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/04/17140646/EH_Dr.Ilan_750.jpg",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://www.expresshealthcare.in/news/caho-appoints-dr-ilankumaran-kaliamoorthy-as-chairperson-of-healthcare-institutions-division/453430/",
-        "articlePath": "/article.html?issue=2026-04-12&article=2026-04-12-caho-appoints-dr-ilankumaran-kaliamoorthy-as-chairperson-of-healthcare-i"
       }
     ],
     "diagnostics": [
@@ -263,40 +193,6 @@
         "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/diagnostics/bengalurus-central-ayurveda-institute-achieves-iso-151892022-accreditation/130229133",
         "articlePath": "/article.html?issue=2026-04-12&article=2026-04-12-central-ayurveda-institute-in-bengaluru-receives-iso-accreditation-for-b"
-      },
-      {
-        "id": "2026-04-12-danone-india-launches-anaemia-and-malnutrition-awareness-project-in-utta",
-        "title": "Danone India launches anaemia and malnutrition awareness project in Uttar Pradesh",
-        "summary": "Programme to cover three districts with screening, training and school outreach initiatives",
-        "source": "Express Healthcare Posts",
-        "sourceHost": "expresshealthcare.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-04-17T08:05:48.000Z",
-        "publishedLabel": "April 17, 2026",
-        "category": "Screening",
-        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2020/03/31102445/GettyImages-1152268821-e1724220111612.jpg",
-        "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
-        "justIn": false,
-        "originalUrl": "https://www.expresshealthcare.in/news/danone-india-launches-anaemia-and-malnutrition-awareness-project-in-uttar-pradesh/453428/",
-        "articlePath": "/article.html?issue=2026-04-12&article=2026-04-12-danone-india-launches-anaemia-and-malnutrition-awareness-project-in-utta"
-      },
-      {
-        "id": "2026-04-12-apollo-hospitals-chennai-performs-basilica-assisted-tavi-for-high-risk-h",
-        "title": "Apollo Hospitals Chennai performs BASILICA-assisted TAVI for high-risk heart patient",
-        "summary": "Procedure used to prevent coronary obstruction during transcatheter aortic valve implantation",
-        "source": "Express Healthcare Posts",
-        "sourceHost": "expresshealthcare.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-04-17T05:12:04.000Z",
-        "publishedLabel": "April 17, 2026",
-        "category": "Industry Update",
-        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2021/07/01130827/Doctors-consultation.jpg",
-        "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
-        "justIn": false,
-        "originalUrl": "https://www.expresshealthcare.in/news/apollo-hospitals-chennai-performs-basilica-assisted-tavi-for-high-risk-heart-patient/453426/",
-        "articlePath": "/article.html?issue=2026-04-12&article=2026-04-12-apollo-hospitals-chennai-performs-basilica-assisted-tavi-for-high-risk-h"
       }
     ],
     "healthtech": []
@@ -325,22 +221,6 @@
       "source": "Financial Express Healthcare",
       "solution": "THB Commercial Analytics",
       "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
-    },
-    {
-      "segment": "pharma",
-      "articleId": "2026-04-12-burnett-homoeopathy-hosts-4th-world-homoeopathy-summit-2026",
-      "title": "Burnett Homoeopathy hosts 4th World Homoeopathy Summit 2026",
-      "source": "Express Healthcare Posts",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
-      "segment": "pharma",
-      "articleId": "2026-04-12-eli-lilly-announced-results-of-jaypirca-pirtobrutinib",
-      "title": "Eli Lilly announced results of Jaypirca (pirtobrutinib)",
-      "source": "PharmaTutor News",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
     },
     {
       "segment": "providers",
@@ -387,22 +267,6 @@
       "articleId": "2026-04-12-central-ayurveda-institute-in-bengaluru-receives-iso-accreditation-for-b",
       "title": "Central Ayurveda institute in Bengaluru receives ISO accreditation for biochemistry, haematology",
       "source": "ET Healthworld Diagnostics",
-      "solution": "THB Diagnostics CRM",
-      "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
-    },
-    {
-      "segment": "diagnostics",
-      "articleId": "2026-04-12-danone-india-launches-anaemia-and-malnutrition-awareness-project-in-utta",
-      "title": "Danone India launches anaemia and malnutrition awareness project in Uttar Pradesh",
-      "source": "Express Healthcare Posts",
-      "solution": "THB Diagnostics CRM",
-      "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
-    },
-    {
-      "segment": "diagnostics",
-      "articleId": "2026-04-12-apollo-hospitals-chennai-performs-basilica-assisted-tavi-for-high-risk-h",
-      "title": "Apollo Hospitals Chennai performs BASILICA-assisted TAVI for high-risk heart patient",
-      "source": "Express Healthcare Posts",
       "solution": "THB Diagnostics CRM",
       "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
     }
