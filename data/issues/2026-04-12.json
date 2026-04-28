@@ -5,12 +5,12 @@
   "startDate": "2026-04-11T18:30:00.000Z",
   "endDate": "2026-04-17T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-04-27T15:24:44.967Z",
+  "updatedAt": "2026-04-28T07:13:25.196Z",
   "coverage": {
-    "pharma": 9,
-    "providers": 8,
-    "diagnostics": 4,
-    "healthtech": 1
+    "pharma": 6,
+    "providers": 7,
+    "diagnostics": 3,
+    "healthtech": 0
   },
   "sourcesUsed": [
     "ET Healthworld Diagnostics",
@@ -22,23 +22,6 @@
   ],
   "segments": {
     "pharma": [
-      {
-        "id": "2026-04-12-semaglutide-api-price-plunges-amid-glp-1-rush",
-        "title": "Semaglutide API price plunges amid GLP-1 rush",
-        "summary": "Global demand for weight-loss drugs Ozempic and Wegovy has caused semaglutide prices to drop significantly. Manufacturing has expanded rapidly, and patents are expiring in key markets. Indian drugmakers are launching generics at lower prices. Experts predict...",
-        "source": "Economic Times Pharma",
-        "sourceHost": "economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-04-16T19:24:57.000Z",
-        "publishedLabel": "April 17, 2026",
-        "category": "Manufacturing",
-        "image": "https://img.etimg.com/thumb/msid-130317210,width-1200,height-630,imgsize-994910,overlay-economictimes/articleshow.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/semaglutide-api-price-plunges-amid-glp-1-rush/articleshow/130317198.cms",
-        "articlePath": "/article.html?issue=2026-04-12&article=2026-04-12-semaglutide-api-price-plunges-amid-glp-1-rush"
-      },
       {
         "id": "2026-04-12-paracetamol-may-get-costlier-as-vizag-chemists-warn-30-40-drug-cost-surg",
         "title": "Paracetamol may get costlier as Vizag chemists warn 30–40% drug cost surge amid Iran war-led pharma cost s",
@@ -57,23 +40,6 @@
         "articlePath": "/article.html?issue=2026-04-12&article=2026-04-12-paracetamol-may-get-costlier-as-vizag-chemists-warn-30-40-drug-cost-surg"
       },
       {
-        "id": "2026-04-12-pharma-exports-fall-to-five-year-low-in-march-amid-west-asia-crisis",
-        "title": "Pharma exports fall to five-year low in March amid West Asia crisis",
-        "summary": "India's pharma exports saw a sharp 23.17% fall in March. The West Asia war disrupted shipping routes and air transit hubs. This led to increased freight costs and potential losses of ₹2,500-₹5,000 crore. Despite strong growth earlier in FY26, the conflict...",
-        "source": "Economic Times Pharma",
-        "sourceHost": "economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-04-16T19:28:17.000Z",
-        "publishedLabel": "April 17, 2026",
-        "category": "Industry Update",
-        "image": "https://img.etimg.com/thumb/msid-130317290,width-1200,height-630,imgsize-105516,overlay-economictimes/articleshow.jpg",
-        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": false,
-        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/pharma-exports-fall-to-five-year-low-in-march-amid-west-asia-crisis/articleshow/130317276.cms",
-        "articlePath": "/article.html?issue=2026-04-12&article=2026-04-12-pharma-exports-fall-to-five-year-low-in-march-amid-west-asia-crisis"
-      },
-      {
         "id": "2026-04-12-et-family-business-awards-torrent-pharma-drives-growth-through-acquisiti",
         "title": "ET Family Business Awards: Torrent Pharma drives growth through acquisitions and innovation",
         "summary": "Aman Mehta is guiding Torrent Pharmaceuticals through a significant period of growth and strategic change. He is driving the company's expansion through acquisitions, notably the purchase of JB Chemicals. This move positions Torrent Pharma for a potential...",
@@ -89,23 +55,6 @@
         "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/et-family-business-awards-torrent-pharma-drives-growth-through-acquisitions-and-innovation/articleshow/130317078.cms",
         "articlePath": "/article.html?issue=2026-04-12&article=2026-04-12-et-family-business-awards-torrent-pharma-drives-growth-through-acquisiti"
-      },
-      {
-        "id": "2026-04-12-hospital-infra-isn-t-sole-determinant-of-better-care-outcomes-also-matte",
-        "title": "'Hospital infra isn't sole determinant of better care, outcomes also matter,' says Max Healthcare Chairman",
-        "summary": "Max Healthcare has significantly increased its bed capacity to 6,500 with a new Saket facility. This expansion targets both domestic patients seeking quality care and international medical tourists. The company leverages brownfield economics to manage costs...",
-        "source": "Economic Times Pharma",
-        "sourceHost": "economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-04-16T19:31:32.000Z",
-        "publishedLabel": "April 17, 2026",
-        "category": "Industry Update",
-        "image": "https://img.etimg.com/thumb/msid-130317324,width-1200,height-630,imgsize-47726,overlay-economictimes/articleshow.jpg",
-        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": false,
-        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/hospital-infra-isnt-sole-determinant-of-better-care-outcomes-also-matter-says-max-healthcare-chairman/articleshow/130317307.cms",
-        "articlePath": "/article.html?issue=2026-04-12&article=2026-04-12-hospital-infra-isn-t-sole-determinant-of-better-care-outcomes-also-matte"
       },
       {
         "id": "2026-04-12-domestic-pharma-grew-at-8-8-in-fy26-torrent-cipla-surge-ahead-in-the-rs-",
@@ -280,23 +229,6 @@
         "articlePath": "/article.html?issue=2026-04-12&article=2026-04-12-kkr-backed-baby-memorial-to-acquire-60-stake-in-star-hospitals-for-1-800"
       },
       {
-        "id": "2026-04-12-max-smart-super-speciality-hospital-saket-launches-400-bed-tower-in-delh",
-        "title": "Max Smart Super Speciality Hospital Saket launches 400-bed tower in Delhi-NCR",
-        "summary": "New facility to expand capacity and support medical value travel under Heal in India initiative",
-        "source": "Express Healthcare Posts",
-        "sourceHost": "expresshealthcare.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-04-16T08:49:10.000Z",
-        "publishedLabel": "April 16, 2026",
-        "category": "Hospital",
-        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2021/10/29141126/growth.jpg",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://www.expresshealthcare.in/news/max-smart-super-speciality-hospital-saket-launches-400-bed-tower-in-delhi-ncr/453424/",
-        "articlePath": "/article.html?issue=2026-04-12&article=2026-04-12-max-smart-super-speciality-hospital-saket-launches-400-bed-tower-in-delh"
-      },
-      {
         "id": "2026-04-12-caho-appoints-dr-ilankumaran-kaliamoorthy-as-chairperson-of-healthcare-i",
         "title": "CAHO appoints Dr Ilankumaran Kaliamoorthy as Chairperson of Healthcare Institutions Division",
         "summary": "Apollo Hospitals executive to lead quality and accreditation initiatives for 2026–2028 term",
@@ -333,23 +265,6 @@
         "articlePath": "/article.html?issue=2026-04-12&article=2026-04-12-central-ayurveda-institute-in-bengaluru-receives-iso-accreditation-for-b"
       },
       {
-        "id": "2026-04-12-latest-fertility-treatment-advancements-in-india-genetic-testing-in-ivf-",
-        "title": "Latest fertility treatment advancements in India: Genetic testing in IVF – Boon or ethical concern?",
-        "summary": "Dr Hrishikesh Pai explains the role of genetic testing in IVF and outlines its clinical use and ethical considerations in India",
-        "source": "Express Healthcare Posts",
-        "sourceHost": "expresshealthcare.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-04-16T05:54:02.000Z",
-        "publishedLabel": "April 16, 2026",
-        "category": "Industry Update",
-        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/04/16112349/EH_GB_Dr_Hrishikesh_Pai_750.jpg",
-        "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
-        "justIn": false,
-        "originalUrl": "https://www.expresshealthcare.in/news/latest-fertility-treatment-advancements-in-india-genetic-testing-in-ivf-boon-or-ethical-concern/453421/",
-        "articlePath": "/article.html?issue=2026-04-12&article=2026-04-12-latest-fertility-treatment-advancements-in-india-genetic-testing-in-ivf-"
-      },
-      {
         "id": "2026-04-12-danone-india-launches-anaemia-and-malnutrition-awareness-project-in-utta",
         "title": "Danone India launches anaemia and malnutrition awareness project in Uttar Pradesh",
         "summary": "Programme to cover three districts with screening, training and school outreach initiatives",
@@ -384,35 +299,9 @@
         "articlePath": "/article.html?issue=2026-04-12&article=2026-04-12-apollo-hospitals-chennai-performs-basilica-assisted-tavi-for-high-risk-h"
       }
     ],
-    "healthtech": [
-      {
-        "id": "2026-04-12-ivory-raises-fresh-capital-to-strengthen-deep-tech-offerings",
-        "title": "Ivory raises fresh capital to strengthen deep tech offerings",
-        "summary": "Ivory, a brain health platform focused on early cognitive screening, has raised $1M in fresh funding, onboarding new investors to deepen its product, clinical, and IP capabilities. The round saw […]",
-        "source": "Express Healthcare Posts",
-        "sourceHost": "expresshealthcare.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-04-16T04:00:22.000Z",
-        "publishedLabel": "April 16, 2026",
-        "category": "AI",
-        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2024/02/12151606/EP_Funding_02_750.jpg",
-        "thbAction": "",
-        "justIn": false,
-        "originalUrl": "https://www.expresshealthcare.in/news/ivory-raises-fresh-capital-to-strengthen-deep-tech-offerings/453415/",
-        "articlePath": "/article.html?issue=2026-04-12&article=2026-04-12-ivory-raises-fresh-capital-to-strengthen-deep-tech-offerings"
-      }
-    ]
+    "healthtech": []
   },
   "thbActions": [
-    {
-      "segment": "pharma",
-      "articleId": "2026-04-12-semaglutide-api-price-plunges-amid-glp-1-rush",
-      "title": "Semaglutide API price plunges amid GLP-1 rush",
-      "source": "Economic Times Pharma",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
     {
       "segment": "pharma",
       "articleId": "2026-04-12-paracetamol-may-get-costlier-as-vizag-chemists-warn-30-40-drug-cost-surg",
@@ -420,14 +309,6 @@
       "source": "Economic Times Pharma",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
-      "segment": "pharma",
-      "articleId": "2026-04-12-pharma-exports-fall-to-five-year-low-in-march-amid-west-asia-crisis",
-      "title": "Pharma exports fall to five-year low in March amid West Asia crisis",
-      "source": "Economic Times Pharma",
-      "solution": "THB Commercial Analytics",
-      "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
     },
     {
       "segment": "pharma",
@@ -439,11 +320,27 @@
     },
     {
       "segment": "pharma",
-      "articleId": "2026-04-12-hospital-infra-isn-t-sole-determinant-of-better-care-outcomes-also-matte",
-      "title": "'Hospital infra isn't sole determinant of better care, outcomes also matter,' says Max Healthcare Chairman",
-      "source": "Economic Times Pharma",
+      "articleId": "2026-04-12-domestic-pharma-grew-at-8-8-in-fy26-torrent-cipla-surge-ahead-in-the-rs-",
+      "title": "Domestic pharma grew at 8.8% in FY26; Torrent, Cipla surge ahead in the Rs 2.46 lakh crore market",
+      "source": "Financial Express Healthcare",
       "solution": "THB Commercial Analytics",
       "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
+    },
+    {
+      "segment": "pharma",
+      "articleId": "2026-04-12-burnett-homoeopathy-hosts-4th-world-homoeopathy-summit-2026",
+      "title": "Burnett Homoeopathy hosts 4th World Homoeopathy Summit 2026",
+      "source": "Express Healthcare Posts",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "pharma",
+      "articleId": "2026-04-12-eli-lilly-announced-results-of-jaypirca-pirtobrutinib",
+      "title": "Eli Lilly announced results of Jaypirca (pirtobrutinib)",
+      "source": "PharmaTutor News",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
     },
     {
       "segment": "providers",
@@ -490,14 +387,6 @@
       "articleId": "2026-04-12-central-ayurveda-institute-in-bengaluru-receives-iso-accreditation-for-b",
       "title": "Central Ayurveda institute in Bengaluru receives ISO accreditation for biochemistry, haematology",
       "source": "ET Healthworld Diagnostics",
-      "solution": "THB Diagnostics CRM",
-      "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
-    },
-    {
-      "segment": "diagnostics",
-      "articleId": "2026-04-12-latest-fertility-treatment-advancements-in-india-genetic-testing-in-ivf-",
-      "title": "Latest fertility treatment advancements in India: Genetic testing in IVF – Boon or ethical concern?",
-      "source": "Express Healthcare Posts",
       "solution": "THB Diagnostics CRM",
       "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
     },
