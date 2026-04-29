@@ -5,14 +5,15 @@
   "startDate": "2026-03-28T18:30:00.000Z",
   "endDate": "2026-04-03T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-04-28T15:58:02.621Z",
+  "updatedAt": "2026-04-29T06:42:37.503Z",
   "coverage": {
-    "pharma": 4,
+    "pharma": 5,
     "providers": 5,
     "diagnostics": 1,
     "healthtech": 0
   },
   "sourcesUsed": [
+    "BioSpectrum Asia Middle East",
     "ET Healthworld",
     "ET Healthworld Diagnostics",
     "ET Healthworld Hospitals",
@@ -71,6 +72,23 @@
         "justIn": false,
         "originalUrl": "https://www.financialexpress.com/business/news/emcure-cuts-glp-drug-poviztra-price-by-55/4193187/",
         "articlePath": "/article.html?issue=2026-03-29&article=2026-03-29-emcure-cuts-glp-drug-poviztra-price-by-55"
+      },
+      {
+        "id": "2026-03-29-season-of-biotech-succession",
+        "title": "Season of Biotech Succession",
+        "summary": "Season of Biotech Succession",
+        "source": "BioSpectrum Asia Middle East",
+        "sourceHost": "biospectrumasia.com",
+        "region": "Middle East",
+        "country": "Oman",
+        "publishedAt": "2026-03-31T18:30:00.000Z",
+        "publishedLabel": "April 1, 2026",
+        "category": "Industry Update",
+        "image": "https://www.biospectrumasia.com/uploads/articles/1-27437.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": false,
+        "originalUrl": "https://www.biospectrumasia.com/analysis/26/27437/season-of-biotech-succession-.html",
+        "articlePath": "/article.html?issue=2026-03-29&article=2026-03-29-season-of-biotech-succession"
       },
       {
         "id": "2026-03-29-stocks-in-news-indigo-sammaan-capital-bharti-airtel-grse-coforge",
@@ -220,6 +238,14 @@
       "articleId": "2026-03-29-emcure-cuts-glp-drug-poviztra-price-by-55",
       "title": "Emcure cuts GLP drug Poviztra price by 55%",
       "source": "Financial Express Healthcare",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "pharma",
+      "articleId": "2026-03-29-season-of-biotech-succession",
+      "title": "Season of Biotech Succession",
+      "source": "BioSpectrum Asia Middle East",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
     },

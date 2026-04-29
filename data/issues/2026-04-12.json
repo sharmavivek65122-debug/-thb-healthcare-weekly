@@ -5,9 +5,9 @@
   "startDate": "2026-04-11T18:30:00.000Z",
   "endDate": "2026-04-17T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-04-28T15:58:02.621Z",
+  "updatedAt": "2026-04-29T06:42:37.503Z",
   "coverage": {
-    "pharma": 3,
+    "pharma": 1,
     "providers": 6,
     "diagnostics": 1,
     "healthtech": 0
@@ -15,45 +15,10 @@
   "sourcesUsed": [
     "ET Healthworld Diagnostics",
     "ET Healthworld Hospitals",
-    "Economic Times Pharma",
     "Financial Express Healthcare"
   ],
   "segments": {
     "pharma": [
-      {
-        "id": "2026-04-12-paracetamol-may-get-costlier-as-vizag-chemists-warn-30-40-drug-cost-surg",
-        "title": "Paracetamol may get costlier as Vizag chemists warn 30–40% drug cost surge amid Iran war-led pharma cost s",
-        "summary": "The ongoing conflict in Iran is impacting India's healthcare sector. Pharmaceutical distributors warn of significant price increases for essential medicines. Soaring raw material costs, particularly from West Asia, are forcing manufacturers to adjust prices....",
-        "source": "Economic Times Pharma",
-        "sourceHost": "economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-04-17T15:01:14.000Z",
-        "publishedLabel": "April 17, 2026",
-        "category": "Industry Update",
-        "image": "https://img.etimg.com/thumb/msid-130336631,width-1200,height-630,imgsize-101748,overlay-economictimes/articleshow.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/paracetamol-may-get-costlier-as-vizag-chemists-warn-3040-drug-cost-surge-amid-iran-war-led-pharma-cost-shock/articleshow/130335244.cms",
-        "articlePath": "/article.html?issue=2026-04-12&article=2026-04-12-paracetamol-may-get-costlier-as-vizag-chemists-warn-30-40-drug-cost-surg"
-      },
-      {
-        "id": "2026-04-12-et-family-business-awards-torrent-pharma-drives-growth-through-acquisiti",
-        "title": "ET Family Business Awards: Torrent Pharma drives growth through acquisitions and innovation",
-        "summary": "Aman Mehta is guiding Torrent Pharmaceuticals through a significant period of growth and strategic change. He is driving the company's expansion through acquisitions, notably the purchase of JB Chemicals. This move positions Torrent Pharma for a potential...",
-        "source": "Economic Times Pharma",
-        "sourceHost": "economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-04-16T19:36:07.000Z",
-        "publishedLabel": "April 17, 2026",
-        "category": "Industry Update",
-        "image": "https://img.etimg.com/thumb/msid-130473065,width-1200,height-630,imgsize-17690,overlay-economictimes/articleshow.jpg",
-        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": false,
-        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/et-family-business-awards-torrent-pharma-drives-growth-through-acquisitions-and-innovation/articleshow/130317078.cms",
-        "articlePath": "/article.html?issue=2026-04-12&article=2026-04-12-et-family-business-awards-torrent-pharma-drives-growth-through-acquisiti"
-      },
       {
         "id": "2026-04-12-domestic-pharma-grew-at-8-8-in-fy26-torrent-cipla-surge-ahead-in-the-rs-",
         "title": "Domestic pharma grew at 8.8% in FY26; Torrent, Cipla surge ahead in the Rs 2.46 lakh crore market",
@@ -198,22 +163,6 @@
     "healthtech": []
   },
   "thbActions": [
-    {
-      "segment": "pharma",
-      "articleId": "2026-04-12-paracetamol-may-get-costlier-as-vizag-chemists-warn-30-40-drug-cost-surg",
-      "title": "Paracetamol may get costlier as Vizag chemists warn 30–40% drug cost surge amid Iran war-led pharma cost s",
-      "source": "Economic Times Pharma",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
-      "segment": "pharma",
-      "articleId": "2026-04-12-et-family-business-awards-torrent-pharma-drives-growth-through-acquisiti",
-      "title": "ET Family Business Awards: Torrent Pharma drives growth through acquisitions and innovation",
-      "source": "Economic Times Pharma",
-      "solution": "THB Commercial Analytics",
-      "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
-    },
     {
       "segment": "pharma",
       "articleId": "2026-04-12-domestic-pharma-grew-at-8-8-in-fy26-torrent-cipla-surge-ahead-in-the-rs-",

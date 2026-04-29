@@ -5,14 +5,15 @@
   "startDate": "2026-03-14T18:30:00.000Z",
   "endDate": "2026-03-20T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-04-28T15:58:02.621Z",
+  "updatedAt": "2026-04-29T06:42:37.503Z",
   "coverage": {
-    "pharma": 3,
-    "providers": 7,
+    "pharma": 4,
+    "providers": 8,
     "diagnostics": 4,
     "healthtech": 0
   },
   "sourcesUsed": [
+    "BioSpectrum India Healthcare",
     "ET Healthworld Diagnostics",
     "ET Healthworld Hospitals",
     "Financial Express Healthcare",
@@ -70,6 +71,23 @@
         "justIn": false,
         "originalUrl": "https://www.jnj.com/media-center/press-releases/fda-approval-of-icotyde-icotrokinra-ushers-in-new-era-for-first-line-systemic-treatment-of-plaque-psoriasis-with-a-targeted-oral-peptide",
         "articlePath": "/article.html?issue=2026-03-15&article=2026-03-15-fda-approval-of-icotyde-icotrokinra-ushers-in-new-era-for-first-line-sys"
+      },
+      {
+        "id": "2026-03-15-eveliqure-and-serum-institute-of-india-collaborate-for-development-of-an",
+        "title": "Eveliqure and Serum Institute of India collaborate for development of anti-diarrhoeal vaccines",
+        "summary": "Eveliqure and Serum Institute of India collaborate for development of anti-diarrhoeal vaccines",
+        "source": "BioSpectrum India Healthcare",
+        "sourceHost": "biospectrumindia.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-03-20T18:30:00.000Z",
+        "publishedLabel": "March 21, 2026",
+        "category": "Industry Update",
+        "image": "https://www.biospectrumindia.com/uploads/articles/screenshot_21_3_2026_135717_-27531.jpeg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": false,
+        "originalUrl": "https://www.biospectrumindia.com/news/16/27531/eveliqure-and-serum-institute-of-india-collaborate-for-development-of-anti-diarrhoeal-vaccines.html",
+        "articlePath": "/article.html?issue=2026-03-15&article=2026-03-15-eveliqure-and-serum-institute-of-india-collaborate-for-development-of-an"
       }
     ],
     "providers": [
@@ -140,6 +158,23 @@
         "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/aiims-delhi-begins-process-for-first-ever-passive-euthanasia-forms-specialised-team-for-harish-rana/129622021",
         "articlePath": "/article.html?issue=2026-03-15&article=2026-03-15-aiims-delhi-begins-process-for-first-ever-passive-euthanasia-forms-speci"
+      },
+      {
+        "id": "2026-03-15-west-asia-war-hits-medical-tourism-overseas-patient-flow-to-indian-hospi",
+        "title": "West Asia war hits medical tourism: Overseas patient flow to Indian hospitals drops up to 75%",
+        "summary": "For the current month, Fortis healthcare says the overall revenue impact may be in the range of 15% to 20%, a figure like some other hospitals. Executives feel the market may see further decline if the war continues.",
+        "source": "ET Healthworld Hospitals",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-03-17T02:20:12.000Z",
+        "publishedLabel": "March 17, 2026",
+        "category": "Hospital",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-129622110,imgsize-95930,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/west-asia-war-hits-medical-tourism-overseas-patient-flow-to-indian-hospitals-drops-up-to-75.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": false,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/west-asia-war-hits-medical-tourism-overseas-patient-flow-to-indian-hospitals-drops-up-to-75/129622110",
+        "articlePath": "/article.html?issue=2026-03-15&article=2026-03-15-west-asia-war-hits-medical-tourism-overseas-patient-flow-to-indian-hospi"
       },
       {
         "id": "2026-03-15-manipal-hospitals-targets-11k-crore-ipo-set-to-file-papers",
@@ -291,6 +326,14 @@
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
     },
     {
+      "segment": "pharma",
+      "articleId": "2026-03-15-eveliqure-and-serum-institute-of-india-collaborate-for-development-of-an",
+      "title": "Eveliqure and Serum Institute of India collaborate for development of anti-diarrhoeal vaccines",
+      "source": "BioSpectrum India Healthcare",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
       "segment": "providers",
       "articleId": "2026-03-15-even-healthcare-to-set-up-second-hospital-in-bengaluru",
       "title": "Even Healthcare to set up second hospital in Bengaluru",
@@ -324,8 +367,8 @@
     },
     {
       "segment": "providers",
-      "articleId": "2026-03-15-manipal-hospitals-targets-11k-crore-ipo-set-to-file-papers",
-      "title": "Manipal Hospitals targets 11k crore IPO, set to file papers",
+      "articleId": "2026-03-15-west-asia-war-hits-medical-tourism-overseas-patient-flow-to-indian-hospi",
+      "title": "West Asia war hits medical tourism: Overseas patient flow to Indian hospitals drops up to 75%",
       "source": "ET Healthworld Hospitals",
       "solution": "THB Provider CRM",
       "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
