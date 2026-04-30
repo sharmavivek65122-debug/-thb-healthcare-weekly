@@ -5,10 +5,10 @@
   "startDate": "2026-03-07T18:30:00.000Z",
   "endDate": "2026-03-13T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-04-29T15:33:02.007Z",
+  "updatedAt": "2026-04-30T07:09:24.834Z",
   "coverage": {
     "pharma": 1,
-    "providers": 6,
+    "providers": 4,
     "diagnostics": 0,
     "healthtech": 0
   },
@@ -37,23 +37,6 @@
       }
     ],
     "providers": [
-      {
-        "id": "2026-03-08-superhealth-launches-supersurgery-programme-with-fixed-pricing-zero-doct",
-        "title": "Superhealth launches ‘Supersurgery’ programme with fixed pricing, zero doctor commissions",
-        "summary": "Healthcare provider Superhealth has launched Supersurgery, a surgical care programme aimed at reducing unnecessary procedures, billing unpredictability and discharge delays in private hospitals.",
-        "source": "ET Healthworld Hospitals",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-03-11T10:54:29.000Z",
-        "publishedLabel": "March 11, 2026",
-        "category": "Hospital",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-129449527,imgsize-395818,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/superhealth-launches-supersurgery-programme-with-fixed-pricing-zero-doctor-commissions.jpg",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/superhealth-launches-supersurgery-programme-with-fixed-pricing-zero-doctor-commissions/129449527",
-        "articlePath": "/article.html?issue=2026-03-08&article=2026-03-08-superhealth-launches-supersurgery-programme-with-fixed-pricing-zero-doct"
-      },
       {
         "id": "2026-03-08-aster-dm-healthcare-earmarks-rs-4-000-cr-to-add-4-080-beds-in-next-few-y",
         "title": "Aster DM Healthcare earmarks Rs 4,000 cr to add 4,080 beds in next few yrs",
@@ -87,23 +70,6 @@
         "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/aster-dm-healthcare-gets-96-68-shareholder-approval-for-merger-with-quality-care-india/129502341",
         "articlePath": "/article.html?issue=2026-03-08&article=2026-03-08-aster-dm-healthcare-gets-96-68-shareholder-approval-for-merger-with-qual"
-      },
-      {
-        "id": "2026-03-08-nims-set-for-major-upgrade-with-2-000-more-beds",
-        "title": "NIMS set for major upgrade with 2,000 more beds",
-        "summary": "The project, spread across 19.54 acres and covering over 26 lakh square feet, is being taken up at an estimated cost of ₹1,698 crore. Once completed, the expansion will add 2,000 beds to the hospital's existing 1,639-bed capacity, taking the total bed...",
-        "source": "ET Healthworld Hospitals",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-03-12T07:47:32.000Z",
-        "publishedLabel": "March 12, 2026",
-        "category": "Expansion",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-129496996,imgsize-203890,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/nims-set-for-major-upgrade-with-2000-more-beds.jpg",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/nims-set-for-major-upgrade-with-2000-more-beds/129496996",
-        "articlePath": "/article.html?issue=2026-03-08&article=2026-03-08-nims-set-for-major-upgrade-with-2-000-more-beds"
       },
       {
         "id": "2026-03-08-safdarjung-set-to-launch-india-s-first-online-icu-follow-up-clinic",
@@ -154,14 +120,6 @@
     },
     {
       "segment": "providers",
-      "articleId": "2026-03-08-superhealth-launches-supersurgery-programme-with-fixed-pricing-zero-doct",
-      "title": "Superhealth launches ‘Supersurgery’ programme with fixed pricing, zero doctor commissions",
-      "source": "ET Healthworld Hospitals",
-      "solution": "THB Provider CRM",
-      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
-    },
-    {
-      "segment": "providers",
       "articleId": "2026-03-08-aster-dm-healthcare-earmarks-rs-4-000-cr-to-add-4-080-beds-in-next-few-y",
       "title": "Aster DM Healthcare earmarks Rs 4,000 cr to add 4,080 beds in next few yrs",
       "source": "ET Healthworld Hospitals",
@@ -178,16 +136,16 @@
     },
     {
       "segment": "providers",
-      "articleId": "2026-03-08-nims-set-for-major-upgrade-with-2-000-more-beds",
-      "title": "NIMS set for major upgrade with 2,000 more beds",
+      "articleId": "2026-03-08-safdarjung-set-to-launch-india-s-first-online-icu-follow-up-clinic",
+      "title": "Safdarjung set to launch India’s first online ICU follow-up clinic",
       "source": "ET Healthworld Hospitals",
       "solution": "THB Provider CRM",
       "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
     },
     {
       "segment": "providers",
-      "articleId": "2026-03-08-safdarjung-set-to-launch-india-s-first-online-icu-follow-up-clinic",
-      "title": "Safdarjung set to launch India’s first online ICU follow-up clinic",
+      "articleId": "2026-03-08-medicover-hospitals-opens-550-bed-facility-in-hyderabad",
+      "title": "Medicover Hospitals opens 550 bed facility in Hyderabad",
       "source": "ET Healthworld Hospitals",
       "solution": "THB Provider CRM",
       "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
