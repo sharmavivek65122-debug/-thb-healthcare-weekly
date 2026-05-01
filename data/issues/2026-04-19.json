@@ -5,11 +5,11 @@
   "startDate": "2026-04-18T18:30:00.000Z",
   "endDate": "2026-04-24T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-04-30T15:28:36.932Z",
+  "updatedAt": "2026-05-01T07:12:56.645Z",
   "coverage": {
-    "pharma": 14,
-    "providers": 3,
-    "diagnostics": 1,
+    "pharma": 12,
+    "providers": 4,
+    "diagnostics": 3,
     "healthtech": 0
   },
   "sourcesUsed": [
@@ -17,6 +17,7 @@
     "ET Healthworld Diagnostics",
     "ET Healthworld Hospitals",
     "Economic Times Pharma",
+    "Express Healthcare Posts",
     "PharmaTutor News"
   ],
   "segments": {
@@ -73,57 +74,6 @@
         "articlePath": "/article.html?issue=2026-04-19&article=2026-04-19-different-packaging-typos-expose-fake-mounjaro-racket"
       },
       {
-        "id": "2026-04-19-cipla-gets-usfda-nod-for-generic-respiratory-issues-treatment-inhalation",
-        "title": "Cipla gets USFDA nod for generic respiratory issues treatment inhalation aerosol",
-        "summary": "Pharma major Cipla has secured final approval from the US health regulator for its generic albuterol sulfate inhalation aerosol. This marks a significant milestone for Cipla, reinforcing its leadership in the respiratory segment. The approval enhances Cipla's...",
-        "source": "Economic Times Pharma",
-        "sourceHost": "economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-04-23T08:08:06.000Z",
-        "publishedLabel": "April 23, 2026",
-        "category": "Approval",
-        "image": "https://img.etimg.com/thumb/msid-130461720,width-1200,height-630,imgsize-164470,overlay-economictimes/articleshow.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/cipla-gets-usfda-nod-for-generic-respiratory-issues-treatment-inhalation-aerosol/articleshow/130461701.cms",
-        "articlePath": "/article.html?issue=2026-04-19&article=2026-04-19-cipla-gets-usfda-nod-for-generic-respiratory-issues-treatment-inhalation"
-      },
-      {
-        "id": "2026-04-19-alkem-labs-ceo-vikas-gupta-may-exit-company",
-        "title": "Alkem Labs CEO Vikas Gupta may exit company",
-        "summary": "Alkem Labs, a leading Indian drug maker, is set for a top management change. Vikas Gupta, the CEO for nearly three years, is expected to depart in the coming months. Gupta joined Alkem from Cipla and has a strong background in the Indian pharmaceutical market.",
-        "source": "Economic Times Pharma",
-        "sourceHost": "economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-04-22T07:58:21.000Z",
-        "publishedLabel": "April 22, 2026",
-        "category": "Market",
-        "image": "https://img.etimg.com/thumb/msid-130435610,width-1200,height-630,imgsize-735903,overlay-economictimes/articleshow.jpg",
-        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": false,
-        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/alkem-labs-ceo-vikas-gupta-may-exit-company/articleshow/130435627.cms",
-        "articlePath": "/article.html?issue=2026-04-19&article=2026-04-19-alkem-labs-ceo-vikas-gupta-may-exit-company"
-      },
-      {
-        "id": "2026-04-19-usfda-issues-form-483-with-5-observations-to-ajanta-pharma-s-paithan-fac",
-        "title": "USFDA issues Form-483 with 5 observations to Ajanta Pharma's Paithan facility",
-        "summary": "Ajanta Pharma said the US FDA has issued Form-483 with five observations after inspecting its Paithan manufacturing facility in Maharashtra from April 13–21, 2026. The company stated it will respond within the stipulated timeframe, while noting that Form-483...",
-        "source": "Economic Times Pharma",
-        "sourceHost": "economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-04-22T06:35:23.000Z",
-        "publishedLabel": "April 22, 2026",
-        "category": "Manufacturing",
-        "image": "https://img.etimg.com/thumb/msid-130434026,width-1200,height-630,imgsize-68908,overlay-economictimes/articleshow.jpg",
-        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": false,
-        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/ajanta-pharma-faces-usfda-inspection-blow-5-critical-observations-issued-at-paithan-manufacturing-facility/articleshow/130433855.cms",
-        "articlePath": "/article.html?issue=2026-04-19&article=2026-04-19-usfda-issues-form-483-with-5-observations-to-ajanta-pharma-s-paithan-fac"
-      },
-      {
         "id": "2026-04-19-fortis-healthcare-healthify-launch-hospital-led-digital-weight-managemen",
         "title": "Fortis Healthcare, Healthify launch hospital-led digital weight management programme",
         "summary": "Healthify has partnered with Fortis Healthcare to launch a clinically supervised, hospital-based weight management programme combining medical care, personalised nutrition and digital tracking. The initiative, launched at Fortis Hospital Mohali, aims to help...",
@@ -156,6 +106,23 @@
         "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/apollo-hospitals-appoints-dr-harit-kumar-chaturvedi-ceo-of-oncology-network/130383887",
         "articlePath": "/article.html?issue=2026-04-19&article=2026-04-19-apollo-hospitals-appoints-dr-harit-kumar-chaturvedi-ceo-of-oncology-netw"
+      },
+      {
+        "id": "2026-04-19-medtronic-launches-adbs-system-for-parkinson-s-patients-in-india",
+        "title": "Medtronic launches aDBS system for Parkinson’s patients in India",
+        "summary": "The aDBS system uses BrainSense technology, which has been approved by the U.S. Food and Drug Administration (FDA)",
+        "source": "Express Healthcare Posts",
+        "sourceHost": "expresshealthcare.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-04-23T08:13:47.000Z",
+        "publishedLabel": "April 23, 2026",
+        "category": "Launch",
+        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/04/23134306/New-Project-18.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": false,
+        "originalUrl": "https://www.expresshealthcare.in/news/medtronic-launches-adbs-system-for-parkinsons-patients-in-india/453471/",
+        "articlePath": "/article.html?issue=2026-04-19&article=2026-04-19-medtronic-launches-adbs-system-for-parkinson-s-patients-in-india"
       },
       {
         "id": "2026-04-19-regeneron-pharma-announced-approval-for-otarmeni",
@@ -311,6 +278,23 @@
         "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/maharashtra-govt-waives-development-charges-premiums-for-tata-memorial-hospital/130435807",
         "articlePath": "/article.html?issue=2026-04-19&article=2026-04-19-maharashtra-govt-waives-development-charges-premiums-for-tata-memorial-h"
+      },
+      {
+        "id": "2026-04-19-robotics-is-steadily-becoming-part-of-routine-surgical-planning-rather-t",
+        "title": "Robotics is steadily becoming part of routine surgical planning rather than an exception",
+        "summary": "Dr Pradeep Jain, Chairman GI, HPB ONCO, Bariatric and Minimal Access Surgery, and Dr Randeep Wadhawan, Chairman - GI, Minimal Access and Bariatric Surgery, Max Super Speciality Hospital, New Delhi, in an interview with Kalyani Sharma, discuss the implications...",
+        "source": "Express Healthcare Posts",
+        "sourceHost": "expresshealthcare.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-04-23T11:58:26.000Z",
+        "publishedLabel": "April 23, 2026",
+        "category": "Hospital",
+        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/04/23172704/New-Project-1-10.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": false,
+        "originalUrl": "https://www.expresshealthcare.in/news/robotics-is-steadily-becoming-part-of-routine-surgical-planning-rather-than-an-exception/453475/",
+        "articlePath": "/article.html?issue=2026-04-19&article=2026-04-19-robotics-is-steadily-becoming-part-of-routine-surgical-planning-rather-t"
       }
     ],
     "diagnostics": [
@@ -330,6 +314,40 @@
         "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/diagnostics/quest-diagnostics-raises-full-year-forecast-posts-strong-quarter-on-testing-demand/130417093",
         "articlePath": "/article.html?issue=2026-04-19&article=2026-04-19-quest-diagnostics-raises-full-year-forecast-posts-strong-quarter-on-test"
+      },
+      {
+        "id": "2026-04-19-fortis-hospitals-bengaluru-launches-preventive-genomics-clinic",
+        "title": "Fortis Hospitals Bengaluru launches preventive genomics clinic",
+        "summary": "This clinic aims to offer advanced genetic testing, expert counselling and personalised treatment plans, enabling individuals to make informed healthcare decisions based on their genetic profile",
+        "source": "Express Healthcare Posts",
+        "sourceHost": "expresshealthcare.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-04-24T05:12:53.000Z",
+        "publishedLabel": "April 24, 2026",
+        "category": "Genomics",
+        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/04/24104246/New-Project-19.jpg",
+        "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
+        "justIn": false,
+        "originalUrl": "https://www.expresshealthcare.in/news/fortis-hospitals-bengaluru-launches-preventive-genomics-clinic/453478/",
+        "articlePath": "/article.html?issue=2026-04-19&article=2026-04-19-fortis-hospitals-bengaluru-launches-preventive-genomics-clinic"
+      },
+      {
+        "id": "2026-04-19-terumo-india-signs-mou-with-aig-hospitals-to-strengthen-interventional-r",
+        "title": "Terumo India signs MoU with AIG Hospitals to strengthen interventional radiology training",
+        "summary": "This collaboration is designed to improve clinical outcomes, reduce procedural risks, and expand access to advanced, minimally invasive treatments for a wide range of conditions, from vascular diseases and cancers to life-threatening emergencies",
+        "source": "Express Healthcare Posts",
+        "sourceHost": "expresshealthcare.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-04-22T11:35:25.000Z",
+        "publishedLabel": "April 22, 2026",
+        "category": "Lab Network",
+        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/04/22170519/New-Project-17.jpg",
+        "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
+        "justIn": false,
+        "originalUrl": "https://www.expresshealthcare.in/news/terumo-india-signs-mou-with-aig-hospitals-to-strengthen-interventional-radiology-training/453468/",
+        "articlePath": "/article.html?issue=2026-04-19&article=2026-04-19-terumo-india-signs-mou-with-aig-hospitals-to-strengthen-interventional-r"
       }
     ],
     "healthtech": []
@@ -361,19 +379,19 @@
     },
     {
       "segment": "pharma",
-      "articleId": "2026-04-19-cipla-gets-usfda-nod-for-generic-respiratory-issues-treatment-inhalation",
-      "title": "Cipla gets USFDA nod for generic respiratory issues treatment inhalation aerosol",
-      "source": "Economic Times Pharma",
+      "articleId": "2026-04-19-fortis-healthcare-healthify-launch-hospital-led-digital-weight-managemen",
+      "title": "Fortis Healthcare, Healthify launch hospital-led digital weight management programme",
+      "source": "ET Healthworld",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
     },
     {
       "segment": "pharma",
-      "articleId": "2026-04-19-alkem-labs-ceo-vikas-gupta-may-exit-company",
-      "title": "Alkem Labs CEO Vikas Gupta may exit company",
-      "source": "Economic Times Pharma",
-      "solution": "THB Commercial Analytics",
-      "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
+      "articleId": "2026-04-19-apollo-hospitals-appoints-dr-harit-kumar-chaturvedi-ceo-of-oncology-netw",
+      "title": "Apollo Hospitals appoints Dr Harit Kumar Chaturvedi CEO of Oncology Network",
+      "source": "ET Healthworld",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
     },
     {
       "segment": "providers",
@@ -400,10 +418,34 @@
       "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
     },
     {
+      "segment": "providers",
+      "articleId": "2026-04-19-robotics-is-steadily-becoming-part-of-routine-surgical-planning-rather-t",
+      "title": "Robotics is steadily becoming part of routine surgical planning rather than an exception",
+      "source": "Express Healthcare Posts",
+      "solution": "THB Provider CRM",
+      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
+    },
+    {
       "segment": "diagnostics",
       "articleId": "2026-04-19-quest-diagnostics-raises-full-year-forecast-posts-strong-quarter-on-test",
       "title": "Quest Diagnostics raises full-year forecast, posts strong quarter on testing demand",
       "source": "ET Healthworld Diagnostics",
+      "solution": "THB Diagnostics CRM",
+      "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
+    },
+    {
+      "segment": "diagnostics",
+      "articleId": "2026-04-19-fortis-hospitals-bengaluru-launches-preventive-genomics-clinic",
+      "title": "Fortis Hospitals Bengaluru launches preventive genomics clinic",
+      "source": "Express Healthcare Posts",
+      "solution": "THB Diagnostics CRM",
+      "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
+    },
+    {
+      "segment": "diagnostics",
+      "articleId": "2026-04-19-terumo-india-signs-mou-with-aig-hospitals-to-strengthen-interventional-r",
+      "title": "Terumo India signs MoU with AIG Hospitals to strengthen interventional radiology training",
+      "source": "Express Healthcare Posts",
       "solution": "THB Diagnostics CRM",
       "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
     }
