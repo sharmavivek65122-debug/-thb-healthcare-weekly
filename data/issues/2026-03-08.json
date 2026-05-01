@@ -5,55 +5,19 @@
   "startDate": "2026-03-07T18:30:00.000Z",
   "endDate": "2026-03-13T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-05-01T07:12:56.645Z",
+  "updatedAt": "2026-05-01T14:38:19.682Z",
   "coverage": {
-    "pharma": 1,
-    "providers": 3,
+    "pharma": 0,
+    "providers": 2,
     "diagnostics": 0,
     "healthtech": 0
   },
   "sourcesUsed": [
-    "BioSpectrum Asia Middle East",
     "ET Healthworld Hospitals"
   ],
   "segments": {
-    "pharma": [
-      {
-        "id": "2026-03-08-bridging-academic-innovation-and-biomanufacturing-strategy-to-accelerate",
-        "title": "Bridging Academic Innovation And Biomanufacturing Strategy To Accelerate Advanced Therapies In APAC",
-        "summary": "Bridging Academic Innovation And Biomanufacturing Strategy To Accelerate Advanced Therapies In APAC",
-        "source": "BioSpectrum Asia Middle East",
-        "sourceHost": "biospectrumasia.com",
-        "region": "Middle East",
-        "country": "Oman",
-        "publishedAt": "2026-03-12T18:30:00.000Z",
-        "publishedLabel": "March 13, 2026",
-        "category": "Manufacturing",
-        "image": "https://www.biospectrumasia.com/uploads/articles/lucas_chan-27354.jpg",
-        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": false,
-        "originalUrl": "https://www.biospectrumasia.com/news/98/27354/bridging-academic-innovation-and-biomanufacturing-strategy-to-accelerate-advanced-therapies-in-apac.html",
-        "articlePath": "/article.html?issue=2026-03-08&article=2026-03-08-bridging-academic-innovation-and-biomanufacturing-strategy-to-accelerate"
-      }
-    ],
+    "pharma": [],
     "providers": [
-      {
-        "id": "2026-03-08-aster-dm-healthcare-earmarks-rs-4-000-cr-to-add-4-080-beds-in-next-few-y",
-        "title": "Aster DM Healthcare earmarks Rs 4,000 cr to add 4,080 beds in next few yrs",
-        "summary": "The company, which received the final approval from shareholders for merger with Quality Care India Ltd (QCIL), expects the process to be completed in the next quarter, post receipt of remaining regulatory and statutory NCLT approvals, Aster DM Healthcare...",
-        "source": "ET Healthworld Hospitals",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-03-13T02:33:57.000Z",
-        "publishedLabel": "March 13, 2026",
-        "category": "AI Care Delivery",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-129533356,imgsize-76850,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/aster-dm-healthcare-earmarks-rs-4000-cr-to-add-4080-beds-in-next-few-yrs.jpg",
-        "thbAction": "Recommend THB's patient engagement workflows to improve acquisition, follow-up adherence, and post-discharge retention for expanding provider groups.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/aster-dm-healthcare-earmarks-rs-4000-cr-to-add-4080-beds-in-next-few-yrs/129533356",
-        "articlePath": "/article.html?issue=2026-03-08&article=2026-03-08-aster-dm-healthcare-earmarks-rs-4-000-cr-to-add-4-080-beds-in-next-few-y"
-      },
       {
         "id": "2026-03-08-safdarjung-set-to-launch-india-s-first-online-icu-follow-up-clinic",
         "title": "Safdarjung set to launch India’s first online ICU follow-up clinic",
@@ -93,22 +57,6 @@
     "healthtech": []
   },
   "thbActions": [
-    {
-      "segment": "pharma",
-      "articleId": "2026-03-08-bridging-academic-innovation-and-biomanufacturing-strategy-to-accelerate",
-      "title": "Bridging Academic Innovation And Biomanufacturing Strategy To Accelerate Advanced Therapies In APAC",
-      "source": "BioSpectrum Asia Middle East",
-      "solution": "THB Commercial Analytics",
-      "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
-    },
-    {
-      "segment": "providers",
-      "articleId": "2026-03-08-aster-dm-healthcare-earmarks-rs-4-000-cr-to-add-4-080-beds-in-next-few-y",
-      "title": "Aster DM Healthcare earmarks Rs 4,000 cr to add 4,080 beds in next few yrs",
-      "source": "ET Healthworld Hospitals",
-      "solution": "THB Patient Engagement",
-      "action": "Recommend THB's patient engagement workflows to improve acquisition, follow-up adherence, and post-discharge retention for expanding provider groups."
-    },
     {
       "segment": "providers",
       "articleId": "2026-03-08-safdarjung-set-to-launch-india-s-first-online-icu-follow-up-clinic",

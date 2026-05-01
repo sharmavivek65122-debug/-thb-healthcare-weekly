@@ -5,15 +5,14 @@
   "startDate": "2026-03-21T18:30:00.000Z",
   "endDate": "2026-03-27T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-05-01T07:12:56.645Z",
+  "updatedAt": "2026-05-01T14:38:19.682Z",
   "coverage": {
     "pharma": 1,
     "providers": 8,
-    "diagnostics": 3,
+    "diagnostics": 2,
     "healthtech": 0
   },
   "sourcesUsed": [
-    "BioSpectrum India Healthcare",
     "ET Healthworld Diagnostics",
     "ET Healthworld Hospitals",
     "Financial Express Healthcare",
@@ -211,23 +210,6 @@
         "justIn": false,
         "originalUrl": "https://www.financialexpress.com/business/news/war-impact-supply-snarls-hit-liquid-helium-used-in-mri-scanners-amp-for-chip-making/4184044/",
         "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-war-impact-supply-snarls-hit-liquid-helium-used-in-mri-scanners-and-for-"
-      },
-      {
-        "id": "2026-03-22-garbh-ini-to-strengthen-india-s-fight-to-combat-premature-birth-through-",
-        "title": "GARBH-INi to strengthen India's fight to combat premature birth through AI",
-        "summary": "GARBH-INi to strengthen India's fight to combat premature birth through AI",
-        "source": "BioSpectrum India Healthcare",
-        "sourceHost": "biospectrumindia.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-03-22T18:30:00.000Z",
-        "publishedLabel": "March 23, 2026",
-        "category": "Industry Update",
-        "image": "https://www.biospectrumindia.com/uploads/articles/screenshot_23_3_2026_22842_www_pib_gov_in-27542.jpeg",
-        "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
-        "justIn": false,
-        "originalUrl": "https://www.biospectrumindia.com/news/16/27542/garbh-ini-to-strengthen-indias-fight-to-combat-premature-birth-through-ai.html",
-        "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-garbh-ini-to-strengthen-india-s-fight-to-combat-premature-birth-through-"
       }
     ],
     "healthtech": []
@@ -294,14 +276,6 @@
       "articleId": "2026-03-22-war-impact-supply-snarls-hit-liquid-helium-used-in-mri-scanners-and-for-",
       "title": "War impact: Supply snarls hit liquid helium used in MRI scanners & for chip-making",
       "source": "Financial Express Healthcare",
-      "solution": "THB Diagnostics CRM",
-      "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
-    },
-    {
-      "segment": "diagnostics",
-      "articleId": "2026-03-22-garbh-ini-to-strengthen-india-s-fight-to-combat-premature-birth-through-",
-      "title": "GARBH-INi to strengthen India's fight to combat premature birth through AI",
-      "source": "BioSpectrum India Healthcare",
       "solution": "THB Diagnostics CRM",
       "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
     }

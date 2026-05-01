@@ -5,14 +5,15 @@
   "startDate": "2026-04-18T18:30:00.000Z",
   "endDate": "2026-04-24T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-05-01T07:12:56.645Z",
+  "updatedAt": "2026-05-01T14:38:19.682Z",
   "coverage": {
-    "pharma": 12,
+    "pharma": 10,
     "providers": 4,
-    "diagnostics": 3,
+    "diagnostics": 4,
     "healthtech": 0
   },
   "sourcesUsed": [
+    "BioSpectrum India Healthcare",
     "ET Healthworld",
     "ET Healthworld Diagnostics",
     "ET Healthworld Hospitals",
@@ -38,40 +39,6 @@
         "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/sun-pharma-looks-to-outshine-rival-bids-with-13-billion-organon-offer/articleshow/130478122.cms",
         "articlePath": "/article.html?issue=2026-04-19&article=2026-04-19-sun-pharma-looks-to-outshine-rival-bids-with-13-billion-organon-offer"
-      },
-      {
-        "id": "2026-04-19-sun-pharma-wins-trademark-case-against-navi-mumbai-company",
-        "title": "Sun Pharma wins trademark case against Navi Mumbai company",
-        "summary": "The Bombay High Court has ruled against a Navi Mumbai drugmaker. The court prohibited the use of brand names 'Absun' and 'Absun Pharma'. This decision favors Sun Pharmaceutical Industries in a decade-long trademark dispute. The court found the names...",
-        "source": "Economic Times Pharma",
-        "sourceHost": "economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-04-23T18:49:05.000Z",
-        "publishedLabel": "April 24, 2026",
-        "category": "Industry Update",
-        "image": "https://img.etimg.com/thumb/msid-130477728,width-1200,height-630,imgsize-69764,overlay-economictimes/articleshow.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/sun-pharma-wins-trademark-case-against-navi-mumbai-company/articleshow/130477715.cms",
-        "articlePath": "/article.html?issue=2026-04-19&article=2026-04-19-sun-pharma-wins-trademark-case-against-navi-mumbai-company"
-      },
-      {
-        "id": "2026-04-19-different-packaging-typos-expose-fake-mounjaro-racket",
-        "title": "Different packaging, typos expose fake Mounjaro racket",
-        "summary": "Gurugram authorities uncovered a counterfeit Mounjaro operation. Police seized fake diabetes and weight loss injections valued at ₹70 lakh. The alleged mastermind, Avi Sharma, procured raw materials from China. The investigation revealed significant...",
-        "source": "Economic Times Pharma",
-        "sourceHost": "economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-04-23T09:47:05.000Z",
-        "publishedLabel": "April 23, 2026",
-        "category": "Industry Update",
-        "image": "https://img.etimg.com/thumb/msid-130463749,width-1200,height-630,imgsize-59144,overlay-economictimes/articleshow.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/different-packaging-typos-expose-fake-mounjaro-racket/articleshow/130463738.cms",
-        "articlePath": "/article.html?issue=2026-04-19&article=2026-04-19-different-packaging-typos-expose-fake-mounjaro-racket"
       },
       {
         "id": "2026-04-19-fortis-healthcare-healthify-launch-hospital-led-digital-weight-managemen",
@@ -348,6 +315,23 @@
         "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/news/terumo-india-signs-mou-with-aig-hospitals-to-strengthen-interventional-radiology-training/453468/",
         "articlePath": "/article.html?issue=2026-04-19&article=2026-04-19-terumo-india-signs-mou-with-aig-hospitals-to-strengthen-interventional-r"
+      },
+      {
+        "id": "2026-04-19-national-and-international-experts-convene-for-national-diagnostics-conc",
+        "title": "National and international experts convene for National Diagnostics Conclave in Bengaluru",
+        "summary": "National and international experts convene for National Diagnostics Conclave in Bengaluru",
+        "source": "BioSpectrum India Healthcare",
+        "sourceHost": "biospectrumindia.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-04-19T18:30:00.000Z",
+        "publishedLabel": "April 20, 2026",
+        "category": "Diagnostics",
+        "image": "https://www.biospectrumindia.com/uploads/articles/picture1-27691.jpg",
+        "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
+        "justIn": false,
+        "originalUrl": "https://www.biospectrumindia.com/news/16/27691/national-and-international-experts-convene-for-national-diagnostics-conclave-in-bengaluru.html",
+        "articlePath": "/article.html?issue=2026-04-19&article=2026-04-19-national-and-international-experts-convene-for-national-diagnostics-conc"
       }
     ],
     "healthtech": []
@@ -357,22 +341,6 @@
       "segment": "pharma",
       "articleId": "2026-04-19-sun-pharma-looks-to-outshine-rival-bids-with-13-billion-organon-offer",
       "title": "Sun Pharma looks to outshine rival bids with $13 billion Organon offer",
-      "source": "Economic Times Pharma",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
-      "segment": "pharma",
-      "articleId": "2026-04-19-sun-pharma-wins-trademark-case-against-navi-mumbai-company",
-      "title": "Sun Pharma wins trademark case against Navi Mumbai company",
-      "source": "Economic Times Pharma",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
-      "segment": "pharma",
-      "articleId": "2026-04-19-different-packaging-typos-expose-fake-mounjaro-racket",
-      "title": "Different packaging, typos expose fake Mounjaro racket",
       "source": "Economic Times Pharma",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
@@ -390,6 +358,22 @@
       "articleId": "2026-04-19-apollo-hospitals-appoints-dr-harit-kumar-chaturvedi-ceo-of-oncology-netw",
       "title": "Apollo Hospitals appoints Dr Harit Kumar Chaturvedi CEO of Oncology Network",
       "source": "ET Healthworld",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "pharma",
+      "articleId": "2026-04-19-medtronic-launches-adbs-system-for-parkinson-s-patients-in-india",
+      "title": "Medtronic launches aDBS system for Parkinson’s patients in India",
+      "source": "Express Healthcare Posts",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "pharma",
+      "articleId": "2026-04-19-regeneron-pharma-announced-approval-for-otarmeni",
+      "title": "Regeneron Pharma announced approval for Otarmeni",
+      "source": "PharmaTutor News",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
     },
@@ -446,6 +430,14 @@
       "articleId": "2026-04-19-terumo-india-signs-mou-with-aig-hospitals-to-strengthen-interventional-r",
       "title": "Terumo India signs MoU with AIG Hospitals to strengthen interventional radiology training",
       "source": "Express Healthcare Posts",
+      "solution": "THB Diagnostics CRM",
+      "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
+    },
+    {
+      "segment": "diagnostics",
+      "articleId": "2026-04-19-national-and-international-experts-convene-for-national-diagnostics-conc",
+      "title": "National and international experts convene for National Diagnostics Conclave in Bengaluru",
+      "source": "BioSpectrum India Healthcare",
       "solution": "THB Diagnostics CRM",
       "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
     }

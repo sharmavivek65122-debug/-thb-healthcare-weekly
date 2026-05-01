@@ -5,14 +5,15 @@
   "startDate": "2026-04-25T18:30:00.000Z",
   "endDate": "2026-05-01T18:30:00.000Z",
   "status": "live",
-  "updatedAt": "2026-05-01T07:12:56.645Z",
+  "updatedAt": "2026-05-01T14:38:19.682Z",
   "coverage": {
-    "pharma": 49,
-    "providers": 15,
+    "pharma": 50,
+    "providers": 16,
     "diagnostics": 3,
     "healthtech": 0
   },
   "sourcesUsed": [
+    "BioSpectrum Asia Middle East",
     "ET Healthworld",
     "ET Healthworld Hospitals",
     "Economic Times Pharma",
@@ -38,7 +39,7 @@
         "category": "Market",
         "image": "https://img.etimg.com/thumb/msid-130647429,width-1200,height-630,imgsize-1268314,overlay-economictimes/articleshow.jpg",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/rpg-life-sciences-bets-big-on-api-business-eyes-glp-1-entry-by-august-september/articleshow/130647407.cms",
         "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-rpg-life-sciences-bets-big-on-api-business-eyes-glp-1-entry-by-august-se"
       },
@@ -123,7 +124,7 @@
         "category": "Industry Update",
         "image": "https://img.etimg.com/thumb/msid-130669810,width-1200,height-630,imgsize-160892,overlay-economictimes/articleshow.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/pharma-quick-commerce-india-medicine-sales-trends-impact-drugs-doorstep-zepto-tata-1-mg-e-pharmacy/articleshow/130626560.cms",
         "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-drugs-at-your-door-signs-of-a-disruption-taking-shape-in-india"
       },
@@ -145,6 +146,40 @@
         "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-organon-gives-sun-pharma-scale-and-reach-but-challenge-lies-in-integrati"
       },
       {
+        "id": "2026-04-26-aurobindo-pharma-arm-curateq-gets-health-canada-nod-for-biosimilar",
+        "title": "Aurobindo Pharma arm CuraTeQ gets Health Canada nod for biosimilar",
+        "summary": "Aurobindo Pharma announced a significant development today. Its subsidiary, CuraTeQ Biologics, has received a compliance notice from Health Canada for its cancer drug Bevqolva. This approval marks a crucial step for the bevacizumab biosimilar. Bevqolva is...",
+        "source": "Economic Times Pharma",
+        "sourceHost": "economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-05-01T09:23:52.000Z",
+        "publishedLabel": "May 1, 2026",
+        "category": "Approval",
+        "image": "https://img.etimg.com/thumb/msid-130674432,width-1200,height-630,imgsize-67656,overlay-economictimes/articleshow.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/aurobindo-pharma-arm-curateq-gets-health-canada-nod-for-biosimilar/articleshow/130674395.cms",
+        "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-aurobindo-pharma-arm-curateq-gets-health-canada-nod-for-biosimilar"
+      },
+      {
+        "id": "2026-04-26-india-supplies-20-of-global-generic-medicines-its-ip-rules-wto-compliant",
+        "title": "India supplies 20% of global generic medicines; its IP rules WTO-compliant: GTRI",
+        "summary": "India is a major global supplier of affordable generic medicines. The United States continues to pressure India regarding intellectual property protection for pharmaceuticals. India maintains its intellectual property regime is compliant with international...",
+        "source": "Economic Times Pharma",
+        "sourceHost": "economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-05-01T11:11:57.000Z",
+        "publishedLabel": "May 1, 2026",
+        "category": "Industry Update",
+        "image": "https://img.etimg.com/thumb/msid-130676618,width-1200,height-630,imgsize-121588,overlay-economictimes/articleshow.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/india-supplies-20-of-global-generic-medicines-its-ip-rules-wto-compliant-gtri/articleshow/130676557.cms",
+        "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-india-supplies-20-of-global-generic-medicines-its-ip-rules-wto-compliant"
+      },
+      {
         "id": "2026-04-26-et-awards-cyrus-poonawalla-reflects-on-sii-s-mission-of-affordable-vacci",
         "title": "ET Awards: Cyrus Poonawalla reflects on SII’s mission of affordable vaccines and saving lives worldwide",
         "summary": "Cyrus Poonawalla began Serum Institute of India in 1966 with a goal to make India self-reliant in healthcare. His vision was to provide affordable vaccines and save lives. The institute has since become a global leader, supplying vaccines to over 100...",
@@ -162,6 +197,23 @@
         "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-et-awards-cyrus-poonawalla-reflects-on-sii-s-mission-of-affordable-vacci"
       },
       {
+        "id": "2026-04-26-fortis-to-host-international-summit-to-discuss-future-of-cancer-care",
+        "title": "Fortis to host international summit to discuss future of cancer care",
+        "summary": "Centered around the theme “Beyond Evidence-Based Oncology,” the summit will focus on sharing real-world insights, outlining newer innovations, and exploring strategies to integrate them into daily clinical practice to improve outcomes.",
+        "source": "ET Healthworld",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-05-01T12:34:52.000Z",
+        "publishedLabel": "May 1, 2026",
+        "category": "Industry Update",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-130678221,imgsize-46946,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/fortis-to-host-international-summit-to-discuss-future-of-cancer-care.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/fortis-to-host-international-summit-to-discuss-future-of-cancer-care/130678221",
+        "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-fortis-to-host-international-summit-to-discuss-future-of-cancer-care"
+      },
+      {
         "id": "2026-04-26-india-among-worst-hit-as-hepatitis-deaths-stay-high-despite-global-gains",
         "title": "India among worst-hit as hepatitis deaths stay high despite global gains: WHO report",
         "summary": "The report flags viral hepatitis as a major public health threat, with over 1.3 million deaths globally in 2024—largely from hepatitis B and C, which together account for more than 95% of hepatitis-related deaths.",
@@ -174,7 +226,7 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-130672338,imgsize-132602,width-1200,height=627,overlay-ethealth,resizemode-75/industry/india-among-worst-hit-as-hepatitis-deaths-stay-high-despite-global-gains-who-report.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/india-among-worst-hit-as-hepatitis-deaths-stay-high-despite-global-gains-who-report/130672338",
         "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-india-among-worst-hit-as-hepatitis-deaths-stay-high-despite-global-gains"
       },
@@ -191,7 +243,7 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-130662279,imgsize-62940,width-1200,height=627,overlay-ethealth,resizemode-75/industry/rich-nations-might-eliminate-cervical-cancer-by-2048-progress-slow-in-poor-countries-study.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/rich-nations-might-eliminate-cervical-cancer-by-2048-progress-slow-in-poor-countries-study/130662279",
         "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-rich-nations-might-eliminate-cervical-cancer-by-2048-progress-slow-in-po"
       },
@@ -298,23 +350,6 @@
         "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-sun-pharma-to-buy-organon-in-11-75-billion-all-cash-deal"
       },
       {
-        "id": "2026-04-26-delhi-health-minister-inaugurates-advanced-3d-dental-imaging-facility-at",
-        "title": "Delhi Health Minister inaugurates advanced 3D dental imaging facility at Maulana Azad Institute",
-        "summary": "The CBCT system provides high-resolution 3D imaging with faster scan times, typically completed within seconds in a single rotation, while also improving patient comfort by allowing imaging in seated or standing positions.",
-        "source": "ET Healthworld",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-04-29T18:00:40.000Z",
-        "publishedLabel": "April 29, 2026",
-        "category": "Industry Update",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-130614083,imgsize-208630,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/delhi-health-minister-inaugurates-advanced-3d-dental-imaging-facility-at-maulana-azad-institute.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/delhi-health-minister-inaugurates-advanced-3d-dental-imaging-facility-at-maulana-azad-institute/130614083",
-        "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-delhi-health-minister-inaugurates-advanced-3d-dental-imaging-facility-at"
-      },
-      {
         "id": "2026-04-26-dr-reddy-s-gets-health-canada-nod-for-generic-semaglutide-injection",
         "title": "Dr Reddy's gets Health Canada nod for generic semaglutide injection",
         "summary": "Dr Reddy's Laboratories has secured market authorization from Health Canada for its generic semaglutide injection. This marks a significant achievement as the first company to receive approval for this diabetes treatment in Canada. The company is now...",
@@ -361,7 +396,7 @@
         "category": "Industry Update",
         "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/04/29112813/EH_CHC.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/news/cancer-healer-center-strengthens-access-to-immunology-led-cancer-care-with-its-27th-center-in-nashik/453508/",
         "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-cancer-healer-center-strengthens-access-to-immunology-led-cancer-care-wi"
       },
@@ -378,7 +413,7 @@
         "category": "Launch",
         "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/04/29150137/EH_Trident.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/news/stryker-launches-trident-ii-acetabular-system-in-india-for-advancing-hip-replacement-surgeries/453511/",
         "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-stryker-launches-trident-ii-acetabular-system-in-india-for-advancing-hip"
       },
@@ -395,7 +430,7 @@
         "category": "Industry Update",
         "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/04/28155638/EH_Asia-Healthcare.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/news/asia-healthcare-holdings-appoints-venkatesh-tarakkad-as-cfo-head-business-development/453504/",
         "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-asia-healthcare-holdings-appoints-venkatesh-tarakkad-as-cfo-and-head-bus"
       },
@@ -449,6 +484,23 @@
         "justIn": false,
         "originalUrl": "https://www.jnj.com/media-center/press-releases/fda-grants-priority-review-for-imaavy-nipocalimab-aahu-as-the-potential-first-approved-treatment-for-people-living-with-warm-autoimmune-hemolytic-anemia-waiha",
         "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-fda-grants-priority-review-for-imaavy-nipocalimab-aahu-as-the-potential-"
+      },
+      {
+        "id": "2026-04-26-south-korea-s-cell-and-gene-therapy-surge",
+        "title": "South Korea’s Cell and Gene Therapy Surge",
+        "summary": "South Korea’s Cell and Gene Therapy Surge",
+        "source": "BioSpectrum Asia Middle East",
+        "sourceHost": "biospectrumasia.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-04-30T18:30:00.000Z",
+        "publishedLabel": "May 1, 2026",
+        "category": "Industry Update",
+        "image": "https://www.biospectrumasia.com/uploads/articles/ruplekha_pic300dpi_1_-27571.png",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://www.biospectrumasia.com/opinion/29/27571/south-koreas-cell-and-gene-therapy-surge.html",
+        "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-south-korea-s-cell-and-gene-therapy-surge"
       },
       {
         "id": "2026-04-26-boehringer-ingelheim-india-and-niper-hajipur-sign-mou-to-advance-pharmac",
@@ -823,40 +875,6 @@
         "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/pharma-employee-duped-of-rs-145-cr-in-facebook-ad-linked-scam-169709",
         "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-pharma-employee-duped-of-rs-1-45-cr-in-facebook-ad-linked-scam"
-      },
-      {
-        "id": "2026-04-26-eli-lilly-to-acquire-ajax-therapeutics-in-usd-2-3-billion-cancer-drug-pu",
-        "title": "Eli Lilly to Acquire Ajax Therapeutics in USD 2.3 Billion Cancer Drug Push",
-        "summary": "Bengaluru: Eli Lilly said on Monday it would buy privately held cancer drug developer Ajax Therapeutics for up to USD2.3 billion in cash, as the U.S. drugmaker looks to expand its oncology...",
-        "source": "Medical Dialogues Pharma",
-        "sourceHost": "medicaldialogues.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-04-28T14:33:10.000Z",
-        "publishedLabel": "April 28, 2026",
-        "category": "Industry Update",
-        "image": "https://medicaldialogues.in/h-upload/2024/06/07/240414-eli-lilly-50.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/eli-lilly-to-acquire-ajax-therapeutics-in-usd-23-billion-cancer-drug-push-169582",
-        "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-eli-lilly-to-acquire-ajax-therapeutics-in-usd-2-3-billion-cancer-drug-pu"
-      },
-      {
-        "id": "2026-04-26-newly-discovered-virus-linked-to-colorectal-cancer",
-        "title": "Newly discovered virus linked to colorectal cancer",
-        "summary": "Colorectal cancer is one of the most common types of cancer in the Western world and a leading cause of cancer-related deaths. Age, diet and lifestyle are known risk factors. However, in most cases we still lack a precise understanding of what triggers the...",
-        "source": "PharmaTutor News",
-        "sourceHost": "pharmatutor.org",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-04-27T12:03:38.000Z",
-        "publishedLabel": "April 27, 2026",
-        "category": "Industry Update",
-        "image": "https://www.pharmatutor.org/sites/default/files/styles/webp/public/2026-04/newly-discovered-virus-linked-to-colorectal-cancer.jpg.webp?itok=RDWQYUYg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/newly-discovered-virus-linked-to-colorectal-cancer",
-        "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-newly-discovered-virus-linked-to-colorectal-cancer"
       }
     ],
     "providers": [
@@ -893,6 +911,23 @@
         "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/apollo-hospitals-launches-400-bed-smart-hospital-in-hyderabad-expands-national-network-to-76/130603271",
         "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-apollo-hospitals-launches-400-bed-smart-hospital-in-hyderabad-expands-na"
+      },
+      {
+        "id": "2026-04-26-delhi-health-minister-inaugurates-advanced-3d-dental-imaging-facility-at",
+        "title": "Delhi Health Minister inaugurates advanced 3D dental imaging facility at Maulana Azad Institute",
+        "summary": "The CBCT system provides high-resolution 3D imaging with faster scan times, typically completed within seconds in a single rotation, while also improving patient comfort by allowing imaging in seated or standing positions.",
+        "source": "ET Healthworld Hospitals",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-04-29T18:00:40.000Z",
+        "publishedLabel": "April 29, 2026",
+        "category": "Patient Care",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-130614083,imgsize-208630,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/delhi-health-minister-inaugurates-advanced-3d-dental-imaging-facility-at-maulana-azad-institute.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": true,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/delhi-health-minister-inaugurates-advanced-3d-dental-imaging-facility-at-maulana-azad-institute/130614083",
+        "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-delhi-health-minister-inaugurates-advanced-3d-dental-imaging-facility-at"
       },
       {
         "id": "2026-04-26-medanta-takeover-80-bed-cancer-facility-in-indore-for-30-crore",
@@ -975,7 +1010,7 @@
         "category": "AI Care Delivery",
         "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/04/30135301/EH_Orbis.jpg",
         "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/blogs/guest-blogs-healthcare/from-global-best-practices-to-local-impact-strengthening-sustainable-eye-care-infrastructure-in-india/453523/",
         "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-from-global-best-practices-to-local-impact-strengthening-sustainable-eye"
       },
@@ -992,7 +1027,7 @@
         "category": "Hospital",
         "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/04/30103823/EH_Apollo.jpg",
         "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/news/apollo-hospitals-navi-mumbai-surpasses-250-liver-transplants/453517/",
         "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-apollo-hospitals-navi-mumbai-surpasses-250-liver-transplants"
       },
@@ -1009,7 +1044,7 @@
         "category": "Hospital",
         "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/04/28134005/EH_S-L-Raheja.jpg",
         "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/news/s-l-raheja-launches-enhanced-diagnostics-and-orthorobo-care/453496/",
         "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-s-l-raheja-launches-enhanced-diagnostics-and-orthorobo-care"
       },
@@ -1026,7 +1061,7 @@
         "category": "Expansion",
         "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/04/28113056/EH_Nathealth.jpg",
         "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/news/nathealth-expands-its-leadership-team-appoints-treasurer-and-secretary-for-2026-27/453488/",
         "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-nathealth-expands-its-leadership-team-appoints-treasurer-and-secretary-f"
       },
@@ -1043,7 +1078,7 @@
         "category": "AI Care Delivery",
         "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/04/30143940/EH_PCFD.jpg",
         "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/news/pfcd-advocates-for-insurance-coverage-of-robotic-joint-replacement-surgery/453526/",
         "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-pfcd-advocates-for-insurance-coverage-of-robotic-joint-replacement-surge"
       },
@@ -1060,7 +1095,7 @@
         "category": "Hospital",
         "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/04/28120709/EH_Heal.jpg",
         "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/news/gleneagles-bgs-hospital-launches-heal-health-card-to-make-healthcare-more-accessible/453493/",
         "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-gleneagles-bgs-hospital-launches-heal-health-card-to-make-healthcare-mor"
       },
@@ -1130,7 +1165,7 @@
         "category": "Screening",
         "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2019/12/03163415/alzheimer-e1777356439644.jpg",
         "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/news/metropolis-healthcare-introduces-advanced-blood-based-alzheimers-screening/453491/",
         "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-metropolis-healthcare-introduces-advanced-blood-based-alzheimer-s-screen"
       },
@@ -1147,7 +1182,7 @@
         "category": "Industry Update",
         "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2022/05/31150830/EH_HealthTech_Advanced_Healthcare_750.jpg",
         "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/news/india-strengthens-healthcare-access-for-sri-city-through-an-integrated-care-model/453514/",
         "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-india-strengthens-healthcare-access-for-sri-city-through-an-integrated-c"
       },
@@ -1230,6 +1265,14 @@
     },
     {
       "segment": "providers",
+      "articleId": "2026-04-26-delhi-health-minister-inaugurates-advanced-3d-dental-imaging-facility-at",
+      "title": "Delhi Health Minister inaugurates advanced 3D dental imaging facility at Maulana Azad Institute",
+      "source": "ET Healthworld Hospitals",
+      "solution": "THB Provider CRM",
+      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
+    },
+    {
+      "segment": "providers",
       "articleId": "2026-04-26-medanta-takeover-80-bed-cancer-facility-in-indore-for-30-crore",
       "title": "Medanta takeover 80-bed cancer facility in Indore for ₹30 crore",
       "source": "ET Healthworld Hospitals",
@@ -1240,14 +1283,6 @@
       "segment": "providers",
       "articleId": "2026-04-26-kkr-invests-rs-1-750-cr-in-baby-memorial-hospital",
       "title": "KKR invests Rs 1,750 cr in Baby Memorial Hospital",
-      "source": "ET Healthworld Hospitals",
-      "solution": "THB Provider CRM",
-      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
-    },
-    {
-      "segment": "providers",
-      "articleId": "2026-04-26-ahh-names-venkatesh-tarakkad-as-cfo-ritesh-pandey-moves-to-chief-busines",
-      "title": "AHH names Venkatesh Tarakkad as CFO; Ritesh Pandey moves to chief business officer role",
       "source": "ET Healthworld Hospitals",
       "solution": "THB Provider CRM",
       "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
