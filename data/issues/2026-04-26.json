@@ -4,16 +4,15 @@
   "rangeLabel": "Apr 26 - May 2, 2026",
   "startDate": "2026-04-25T18:30:00.000Z",
   "endDate": "2026-05-01T18:30:00.000Z",
-  "status": "live",
-  "updatedAt": "2026-05-02T14:30:44.693Z",
+  "status": "published",
+  "updatedAt": "2026-05-03T07:05:09.133Z",
   "coverage": {
     "pharma": 50,
-    "providers": 20,
-    "diagnostics": 5,
+    "providers": 14,
+    "diagnostics": 4,
     "healthtech": 0
   },
   "sourcesUsed": [
-    "Arabian Business Healthcare",
     "BioSpectrum Asia Middle East",
     "ET Healthworld",
     "ET Healthworld Hospitals",
@@ -24,8 +23,7 @@
     "Healthcare MEA",
     "Janssen India Media",
     "Medical Dialogues Pharma",
-    "PharmaTutor News",
-    "Zawya Pharmaceuticals"
+    "PharmaTutor News"
   ],
   "segments": {
     "pharma": [
@@ -229,9 +227,26 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-130717110,imgsize-65520,width-1200,height=627,overlay-ethealth,resizemode-75/health-it/new-app-repository-to-guide-digital-mental-health-choices.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/health-it/new-app-repository-to-guide-digital-mental-health-choices/130717110",
         "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-new-app-repository-to-guide-digital-mental-health-choices"
+      },
+      {
+        "id": "2026-04-26-fortis-to-host-international-summit-to-discuss-future-of-cancer-care",
+        "title": "Fortis to host international summit to discuss future of cancer care",
+        "summary": "Centered around the theme “Beyond Evidence-Based Oncology,” the summit will focus on sharing real-world insights, outlining newer innovations, and exploring strategies to integrate them into daily clinical practice to improve outcomes.",
+        "source": "ET Healthworld",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-05-01T12:34:52.000Z",
+        "publishedLabel": "May 1, 2026",
+        "category": "Industry Update",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-130678221,imgsize-46946,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/fortis-to-host-international-summit-to-discuss-future-of-cancer-care.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": false,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/fortis-to-host-international-summit-to-discuss-future-of-cancer-care/130678221",
+        "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-fortis-to-host-international-summit-to-discuss-future-of-cancer-care"
       },
       {
         "id": "2026-04-26-weight-loss-drugs-may-also-help-cut-alcohol-intake-study",
@@ -370,6 +385,23 @@
         "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-ghana-becomes-the-latest-african-country-to-reject-a-us-health-deal-citi"
       },
       {
+        "id": "2026-04-26-ai-outperforms-doctors-in-emergency-diagnosis-claims-harvard-study",
+        "title": "AI outperforms doctors in emergency diagnosis, claims Harvard study",
+        "summary": "A Harvard Medical School study revealed an advanced AI system, OpenAI o1, outperformed human doctors in certain emergency diagnoses. The AI achieved higher accuracy in interpreting written patient records and excelled in treatment planning, highlighting its...",
+        "source": "ET Healthworld",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-05-02T02:48:08.000Z",
+        "publishedLabel": "May 2, 2026",
+        "category": "Industry Update",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-130708925,imgsize-121600,width-1200,height=627,overlay-ethealth,resizemode-75/health-it/ai-outperforms-doctors-in-emergency-diagnosis-claims-harvard-study.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": false,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/health-it/ai-outperforms-doctors-in-emergency-diagnosis-claims-harvard-study/130708925",
+        "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-ai-outperforms-doctors-in-emergency-diagnosis-claims-harvard-study"
+      },
+      {
         "id": "2026-04-26-dr-reddy-s-gets-health-canada-nod-for-generic-semaglutide-injection",
         "title": "Dr Reddy's gets Health Canada nod for generic semaglutide injection",
         "summary": "Dr Reddy's Laboratories has secured market authorization from Health Canada for its generic semaglutide injection. This marks a significant achievement as the first company to receive approval for this diabetes treatment in Canada. The company is now...",
@@ -453,6 +485,23 @@
         "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/news/asia-healthcare-holdings-appoints-venkatesh-tarakkad-as-cfo-head-business-development/453504/",
         "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-asia-healthcare-holdings-appoints-venkatesh-tarakkad-as-cfo-and-head-bus"
+      },
+      {
+        "id": "2026-04-26-rpg-life-sciences-q4-revenue-jumps-23-6-to-rs-176-9-cr",
+        "title": "RPG Life Sciences Q4 Revenue Jumps 23.6% to Rs 176.9 Cr",
+        "summary": "Mumbai: RPG Life Sciences Limited has reported a 23.6% year-on-year increase in revenue for the fourth quarter of FY26, along with a strong EBITDA margin of 25.6%, while also recommending a final...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-05-02T05:30:10.000Z",
+        "publishedLabel": "May 2, 2026",
+        "category": "Industry Update",
+        "image": "https://medicaldialogues.in/h-upload/2025/12/08/313252-medicine-50.jpg",
+        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
+        "justIn": false,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/rpg-life-sciences-q4-revenue-jumps-236-to-rs-1769-cr-169851",
+        "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-rpg-life-sciences-q4-revenue-jumps-23-6-to-rs-176-9-cr"
       },
       {
         "id": "2026-04-26-arcera-life-sciences-signs-strategic-mou-with-fosun-pharma-to-advance-gl",
@@ -625,23 +674,6 @@
         "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-dr-reddy-s-labs-bags-health-canada-nod-for-ozempic-generic-onesource-to-"
       },
       {
-        "id": "2026-04-26-veteran-umang-vohra-to-lead-cohance-lifesciences-as-executive-chairman-g",
-        "title": "Veteran Umang Vohra to Lead Cohance Lifesciences as Executive Chairman, Group CEO",
-        "summary": "New Delhi: Cohance Lifesciences Limited has appointed industry veteran Umang Vohra as Executive Chairman effective May 1, 2026, and Group CEO effective May 20, 2026, marking a strategic leadership...",
-        "source": "Medical Dialogues Pharma",
-        "sourceHost": "medicaldialogues.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-04-28T14:54:37.000Z",
-        "publishedLabel": "April 28, 2026",
-        "category": "Industry Update",
-        "image": "https://medicaldialogues.in/h-upload/2021/03/24/150583-umang-vohra.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/veteran-umang-vohra-to-lead-cohance-lifesciences-as-executive-chairman-group-ceo-169584",
-        "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-veteran-umang-vohra-to-lead-cohance-lifesciences-as-executive-chairman-g"
-      },
-      {
         "id": "2026-04-26-granules-india-reports-strong-fy26-q4-pat-jumps-33-to-rs-2-016-mn",
         "title": "Granules India Reports Strong FY26, Q4 PAT Jumps 33% to Rs 2,016 Mn",
         "summary": "New Delhi: Granules India Limited has reported strong financial performance for the quarter and financial year ended March 31, 2026, with Q4 FY26 revenue rising 23% year-on-year to Rs 14,706 million,...",
@@ -674,23 +706,6 @@
         "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/solara-active-pharma-gets-eir-for-puducherry-ibuprofen-plant-post-usfda-inspection-169628",
         "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-solara-active-pharma-gets-eir-for-puducherry-ibuprofen-plant-post-usfda-"
-      },
-      {
-        "id": "2026-04-26-dilip-shanghvi-calls-sun-pharma-s-usd-11-75-billion-organon-deal-excitin",
-        "title": "Dilip Shanghvi Calls Sun Pharma's USD 11.75 Billion Organon Deal \"Exciting Yet Anxious\" Amid Debt Push",
-        "summary": "New Delhi: Sun Pharmaceutical Industries' acquisition of US-based Organon & Co at USD 11.75 billion enterprise valuation is both a \"happy\" and \"bit anxious\" moment, considering the large nature of the...",
-        "source": "Medical Dialogues Pharma",
-        "sourceHost": "medicaldialogues.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-04-28T14:43:31.000Z",
-        "publishedLabel": "April 28, 2026",
-        "category": "Deal",
-        "image": "https://medicaldialogues.in/h-upload/2026/04/28/344164-dilip-shangvi.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/dilip-shanghvi-calls-sun-pharmas-usd-1175-billion-organon-deal-exciting-yet-anxious-amid-debt-push-169583",
-        "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-dilip-shanghvi-calls-sun-pharma-s-usd-11-75-billion-organon-deal-excitin"
       },
       {
         "id": "2026-04-26-boehringer-s-dual-action-obesity-drug-survodutide-shows-strong-weight-lo",
@@ -742,6 +757,40 @@
         "justIn": false,
         "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/webinar-on-role-of-artificial-intelligence-in-pharmacy-careers-and-it-impact-organized-by-saveetha-college-of-pharmacy",
         "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-webinar-on-role-of-artificial-intelligence-in-pharmacy-careers-and-it-im"
+      },
+      {
+        "id": "2026-04-26-delhi-pharmacist-arrested-for-supplying-prescription-drugs-illegally-wid",
+        "title": "Delhi Pharmacist Arrested for Supplying Prescription Drugs Illegally, Wider Racket Suspected",
+        "summary": "New Delhi: A pharmacist has been arrested by Delhi Police for his alleged involvement in an illegal drug racket involving the supply of prescription medicines without valid authorization, with...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-05-02T05:15:57.000Z",
+        "publishedLabel": "May 2, 2026",
+        "category": "Industry Update",
+        "image": "https://medicaldialogues.in/h-upload/2021/03/06/149648-illegal02.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": false,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/delhi-pharmacist-arrested-for-supplying-prescription-drugs-illegally-wider-racket-suspected-169850",
+        "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-delhi-pharmacist-arrested-for-supplying-prescription-drugs-illegally-wid"
+      },
+      {
+        "id": "2026-04-26-eli-lilly-s-foundayo-sees-slow-start-in-u-s-trails-novo-nordisk-s-wegovy",
+        "title": "Eli Lilly's Foundayo Sees Slow Start in U.S., Trails Novo Nordisk's Wegovy in Early Prescription Race",
+        "summary": "Bengaluru: Eli Lilly's newly launched oral weight-loss drug, Foundayo, was prescribed 5,612 times in the U.S. in the third week after its launch, according to analysts citing IQVIA data.The pill,...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-05-02T04:30:40.000Z",
+        "publishedLabel": "May 2, 2026",
+        "category": "Launch",
+        "image": "https://medicaldialogues.in/h-upload/2024/01/20/230637-eli-lilly-50.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": false,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/eli-lillys-foundayo-sees-slow-start-in-us-trails-novo-nordisks-wegovy-in-early-prescription-race-169847",
+        "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-eli-lilly-s-foundayo-sees-slow-start-in-u-s-trails-novo-nordisk-s-wegovy"
       },
       {
         "id": "2026-04-26-former-pharma-employees-booked-for-alleged-rs-1-crore-extortion-forging-",
@@ -812,23 +861,6 @@
         "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-serum-institute-of-india-university-of-oxford-sign-licensing-pact-for-mu"
       },
       {
-        "id": "2026-04-26-pfizer-secures-vyndamax-patent-till-2031-settles-disputes-with-cipla-hik",
-        "title": "Pfizer Secures Vyndamax Patent Till 2031, Settles Disputes with Cipla, Hikma, Dexcel Pharma",
-        "summary": "Bengaluru: Pfizer ​said on Tuesday it has settled patent disputes with three generic drugmakers over its blockbuster heart drug Vyndamax, effectively extending ‌its patent ⁠protection until ⁠2031 and...",
-        "source": "Medical Dialogues Pharma",
-        "sourceHost": "medicaldialogues.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-04-29T10:14:26.000Z",
-        "publishedLabel": "April 29, 2026",
-        "category": "Industry Update",
-        "image": "https://medicaldialogues.in/h-upload/2024/01/22/230672-pfizer-50.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/pfizer-secures-vyndamax-patent-till-2031-settles-disputes-with-cipla-hikma-dexcel-pharma-169619",
-        "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-pfizer-secures-vyndamax-patent-till-2031-settles-disputes-with-cipla-hik"
-      },
-      {
         "id": "2026-04-26-enzene-biosciences-gets-sec-approval-to-conduct-phase-iii-pembrolizumab-",
         "title": "Enzene Biosciences Gets SEC Approval to Conduct Phase III Pembrolizumab Trial",
         "summary": "New Delhi: Enzene Biosciences Ltd has received recommendation from the Subject Expert Committee (SEC), under CDSCO, for grant of permission to conduct a Phase III clinical trial for its proposed...",
@@ -841,43 +873,9 @@
         "category": "Approval",
         "image": "https://medicaldialogues.in/h-upload/2025/08/05/296954-202508053472997.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/cdsco/enzene-biosciences-gets-sec-approval-to-conduct-phase-iii-pembrolizumab-trial-169786",
         "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-enzene-biosciences-gets-sec-approval-to-conduct-phase-iii-pembrolizumab-"
-      },
-      {
-        "id": "2026-04-26-cic-raps-icmr-over-missing-rotavirus-trial-data-calls-rti-handling-caval",
-        "title": "CIC Raps ICMR Over Missing Rotavirus Trial Data, Calls RTI Handling Cavalier, Seeks Affidavit",
-        "summary": "New Delhi: The Central Information Commission (CIC) pulled up the Indian Council of Medical Research (ICMR) for claiming that participant-level data on a rotavirus vaccine trial is \"not...",
-        "source": "Medical Dialogues Pharma",
-        "sourceHost": "medicaldialogues.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-05-01T05:30:00.000Z",
-        "publishedLabel": "May 1, 2026",
-        "category": "Industry Update",
-        "image": "https://medicaldialogues.in/h-upload/2026/05/01/344850-rotavirus-vaccine.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
-        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/cic-raps-icmr-over-missing-rotavirus-trial-data-calls-rti-handling-cavalier-seeks-affidavit-169785",
-        "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-cic-raps-icmr-over-missing-rotavirus-trial-data-calls-rti-handling-caval"
-      },
-      {
-        "id": "2026-04-26-pharma-employee-duped-of-rs-1-45-cr-in-facebook-ad-linked-scam",
-        "title": "Pharma Employee Duped of Rs 1.45 Cr in Facebook Ad Linked Scam",
-        "summary": "New Delhi: A pharmaceutical company employee in Haridwar was defrauded of Rs 1.45 crore in an elaborate online investment scam after being lured through a Facebook advertisement promising high...",
-        "source": "Medical Dialogues Pharma",
-        "sourceHost": "medicaldialogues.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-04-30T14:41:45.000Z",
-        "publishedLabel": "April 30, 2026",
-        "category": "Industry Update",
-        "image": "https://medicaldialogues.in/h-upload/2026/04/04/339592-fraud-alert.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
-        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/pharma-employee-duped-of-rs-145-cr-in-facebook-ad-linked-scam-169709",
-        "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-pharma-employee-duped-of-rs-1-45-cr-in-facebook-ad-linked-scam"
       }
     ],
     "providers": [
@@ -916,23 +914,6 @@
         "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-apollo-hospitals-launches-400-bed-smart-hospital-in-hyderabad-expands-na"
       },
       {
-        "id": "2026-04-26-fortis-to-host-international-summit-to-discuss-future-of-cancer-care",
-        "title": "Fortis to host international summit to discuss future of cancer care",
-        "summary": "Centered around the theme “Beyond Evidence-Based Oncology,” the summit will focus on sharing real-world insights, outlining newer innovations, and exploring strategies to integrate them into daily clinical practice to improve outcomes.",
-        "source": "ET Healthworld Hospitals",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-05-01T12:34:52.000Z",
-        "publishedLabel": "May 1, 2026",
-        "category": "AI Care Delivery",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-130678221,imgsize-46946,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/fortis-to-host-international-summit-to-discuss-future-of-cancer-care.jpg",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/fortis-to-host-international-summit-to-discuss-future-of-cancer-care/130678221",
-        "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-fortis-to-host-international-summit-to-discuss-future-of-cancer-care"
-      },
-      {
         "id": "2026-04-26-delhi-health-minister-inaugurates-advanced-3d-dental-imaging-facility-at",
         "title": "Delhi Health Minister inaugurates advanced 3D dental imaging facility at Maulana Azad Institute",
         "summary": "The CBCT system provides high-resolution 3D imaging with faster scan times, typically completed within seconds in a single rotation, while also improving patient comfort by allowing imaging in seated or standing positions.",
@@ -965,6 +946,23 @@
         "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/medanta-acquires-80-bed-cancer-hospital-in-indore-for-30-crore/130575498",
         "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-medanta-takeover-80-bed-cancer-facility-in-indore-for-30-crore"
+      },
+      {
+        "id": "2026-04-26-kkr-invests-rs-1-750-cr-in-baby-memorial-hospital",
+        "title": "KKR invests Rs 1,750 cr in Baby Memorial Hospital",
+        "summary": "KKR had initially invested ₹2,100 crore in Baby Memorial Hospital in July 2024 to create a platform of hospitals in southern India. It increased its investment by ₹1,261 crore in the hospital in September last year before the latest funding round, the...",
+        "source": "ET Healthworld Hospitals",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-04-29T01:49:09.000Z",
+        "publishedLabel": "April 29, 2026",
+        "category": "Hospital",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-130593318,imgsize-222010,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/kkr-invests-rs-1750-cr-in-baby-memorial-hospital.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": false,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/kkr-invests-rs-1750-cr-in-baby-memorial-hospital/130593318",
+        "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-kkr-invests-rs-1-750-cr-in-baby-memorial-hospital"
       },
       {
         "id": "2026-04-26-ahh-names-venkatesh-tarakkad-as-cfo-ritesh-pandey-moves-to-chief-busines",
@@ -1103,74 +1101,6 @@
         "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-gleneagles-bgs-hospital-launches-heal-health-card-to-make-healthcare-mor"
       },
       {
-        "id": "2026-04-26-amsons-group-to-build-10-mother-and-child-hospitals-in-kenya-under-us-40",
-        "title": "AMSONS Group to build 10 mother-and-child hospitals in Kenya under US$40M health initiative",
-        "summary": "The initiative, dubbed “A Promise to Life,” reflects a shared commitment to ensuring safe deliveries and healthy starts for newborns.",
-        "source": "Healthcare MEA",
-        "sourceHost": "healthcaremea.com",
-        "region": "Middle East",
-        "country": "Oman",
-        "publishedAt": "2026-04-30T06:24:03.000Z",
-        "publishedLabel": "April 30, 2026",
-        "category": "Hospital",
-        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/04/image-1600x1000-10.png",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://www.healthcaremea.com/2026/04/30/amsons-group-to-build-10-mother-and-child-hospitals-in-kenya-under-us40m-health-initiative/",
-        "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-amsons-group-to-build-10-mother-and-child-hospitals-in-kenya-under-us-40"
-      },
-      {
-        "id": "2026-04-26-novo-nordisk-trial-shows-promise-for-teen-diabetes-treatment",
-        "title": "Novo Nordisk trial shows promise for teen diabetes treatment",
-        "summary": "Novo Nordisk has reported positive results from a clinical trial evaluating its oral semaglutide treatment in children with type 2 diabetes.",
-        "source": "Arabian Business Healthcare",
-        "sourceHost": "arabianbusiness.com",
-        "region": "Middle East",
-        "country": "United Arab Emirates",
-        "publishedAt": "2026-04-30T08:05:57.000Z",
-        "publishedLabel": "April 30, 2026",
-        "category": "Provider Update",
-        "image": "https://www.arabianbusiness.com/cloud/2026/04/30/Diseno-sin-titulo.png",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
-        "originalUrl": "https://www.arabianbusiness.com/business/healthcare/novo-nordisk-trial-shows-promise-for-teen-diabetes-treatment",
-        "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-novo-nordisk-trial-shows-promise-for-teen-diabetes-treatment"
-      },
-      {
-        "id": "2026-04-26-mayo-clinic-study-finds-wearable-sleep-data-may-improve-copd-pulmonary-r",
-        "title": "Mayo Clinic Study finds wearable sleep data may improve COPD pulmonary rehabilitation participation",
-        "summary": "The study suggests that tracking sleep patterns before rehabilitation begins could help healthcare teams identify patients who may need extra support to stay engaged throughout treatment.",
-        "source": "Healthcare MEA",
-        "sourceHost": "healthcaremea.com",
-        "region": "Middle East",
-        "country": "United Arab Emirates",
-        "publishedAt": "2026-04-29T10:50:00.000Z",
-        "publishedLabel": "April 29, 2026",
-        "category": "Patient Care",
-        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/04/image-1600x900-2026-04-29T095245.705.png",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://www.healthcaremea.com/2026/04/29/mayo-clinic-study-finds-wearable-sleep-data-may-improve-copd-pulmonary-rehabilitation-participation/",
-        "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-mayo-clinic-study-finds-wearable-sleep-data-may-improve-copd-pulmonary-r"
-      },
-      {
-        "id": "2026-04-26-exclusive-uae-clinic-says-thousands-join-waitlist-for-eli-lilly-s-weight",
-        "title": "EXCLUSIVE: UAE clinic says thousands join waitlist for Eli Lilly’s weight-loss pill after early approval -",
-        "summary": "Ali Hashemi, Co-Founder of Metabolic, said demand reflects both patient interest in needle-free treatment options and the scale of obesity-related disease across the region",
-        "source": "Arabian Business Healthcare",
-        "sourceHost": "arabianbusiness.com",
-        "region": "Middle East",
-        "country": "United Arab Emirates",
-        "publishedAt": "2026-04-27T10:12:42.000Z",
-        "publishedLabel": "April 27, 2026",
-        "category": "Patient Care",
-        "image": "https://www.arabianbusiness.com/wp-content/uploads/2026/04/UAE-pills.jpg",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
-        "originalUrl": "https://www.arabianbusiness.com/business/healthcare/exclusive-uae-clinic-says-thousands-join-waitlist-for-eli-lillys-weight-loss-pill-after-early-approval",
-        "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-exclusive-uae-clinic-says-thousands-join-waitlist-for-eli-lilly-s-weight"
-      },
-      {
         "id": "2026-04-26-medcare-royal-specialty-hospital-becomes-first-outside-us-to-offer-adult",
         "title": "Medcare Royal Specialty Hospital becomes first outside US to offer adult SMA gene therapy in Dubai",
         "summary": "SMA is a rare inherited neuromuscular disorder that causes progressive muscle weakness and reduced mobility.",
@@ -1186,40 +1116,6 @@
         "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/04/30/medcare-royal-specialty-hospital-becomes-first-outside-us-to-offer-adult-sma-gene-therapy-in-dubai/",
         "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-medcare-royal-specialty-hospital-becomes-first-outside-us-to-offer-adult"
-      },
-      {
-        "id": "2026-04-26-uae-approves-first-nasal-adrenaline-spray-for-severe-allergies-in-region",
-        "title": "UAE approves first nasal adrenaline spray for severe allergies in regional first - Arabian Business: Latest",
-        "summary": "UAE approves EURneffy, the region’s first nasal adrenaline spray for severe allergies, boosting emergency care response and patient safety",
-        "source": "Arabian Business Healthcare",
-        "sourceHost": "arabianbusiness.com",
-        "region": "Middle East",
-        "country": "United Arab Emirates",
-        "publishedAt": "2026-04-29T23:34:55.000Z",
-        "publishedLabel": "April 30, 2026",
-        "category": "Patient Care",
-        "image": "https://www.arabianbusiness.com/cloud/2026/04/29/EURneffy-UAE.jpg",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
-        "originalUrl": "https://www.arabianbusiness.com/business/healthcare/uae-approves-first-nasal-adrenaline-spray-for-severe-allergies-in-regional-first",
-        "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-uae-approves-first-nasal-adrenaline-spray-for-severe-allergies-in-region"
-      },
-      {
-        "id": "2026-04-26-uae-healthcare-sector-reassures-investors-as-private-leaders-back-system",
-        "title": "UAE healthcare sector reassures investors as private leaders back system resilience and growth - Arabian",
-        "summary": "UAE private healthcare leaders back system resilience, supply stability and growth as Minister meets sector to strengthen confidence and investment outlook",
-        "source": "Arabian Business Healthcare",
-        "sourceHost": "arabianbusiness.com",
-        "region": "Middle East",
-        "country": "United Arab Emirates",
-        "publishedAt": "2026-04-29T22:54:27.000Z",
-        "publishedLabel": "April 30, 2026",
-        "category": "Provider Update",
-        "image": "https://www.arabianbusiness.com/cloud/2026/04/29/Al-UAE-Healthcare-1-1000x667-1.jpg",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
-        "originalUrl": "https://www.arabianbusiness.com/business/healthcare/uae-healthcare-sector-reassures-investors-as-private-leaders-back-system-resilience-and-growth",
-        "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-uae-healthcare-sector-reassures-investors-as-private-leaders-back-system"
       }
     ],
     "diagnostics": [
@@ -1273,23 +1169,6 @@
         "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/news/india-strengthens-healthcare-access-for-sri-city-through-an-integrated-care-model/453514/",
         "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-india-strengthens-healthcare-access-for-sri-city-through-an-integrated-c"
-      },
-      {
-        "id": "2026-04-26-mhesi-joins-partners-to-launch-space-f-batch-7-pushing-thai-foodtech-to-",
-        "title": "MHESI Joins Partners to Launch SPACE-F Batch 7, Pushing Thai FoodTech to the Global Stage, Highlighting the Wellness Economy as a New Economic Engine",
-        "summary": "MHESI Joins Partners to Launch SPACE-F Batch 7, Pushing Thai FoodTech to the Global Stage, Highlighting the Wellness Economy as a New Economic Engine",
-        "source": "Zawya Pharmaceuticals",
-        "sourceHost": "zawya.com",
-        "region": "Middle East",
-        "country": "Saudi Arabia",
-        "publishedAt": "2026-05-01T16:02:21.000Z",
-        "publishedLabel": "May 1, 2026",
-        "category": "Industry Update",
-        "image": "https://images.media-outreach.com/release.php/Thumb/1600x1067/759523/759523-SPACE-F-Batch-7-JPG-1600x.jpeg",
-        "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
-        "justIn": true,
-        "originalUrl": "https://www.zawya.com/en/economy/global/mhesi-joins-partners-to-launch-space-f-batch-7-pushing-thai-foodtech-to-the-global-stage-highlighting-the-hbiknnv3",
-        "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-mhesi-joins-partners-to-launch-space-f-batch-7-pushing-thai-foodtech-to-"
       },
       {
         "id": "2026-04-26-aster-dm-healthcare-collaborates-with-qatar-charity-to-expand-mobile-hea",
@@ -1370,14 +1249,6 @@
     },
     {
       "segment": "providers",
-      "articleId": "2026-04-26-fortis-to-host-international-summit-to-discuss-future-of-cancer-care",
-      "title": "Fortis to host international summit to discuss future of cancer care",
-      "source": "ET Healthworld Hospitals",
-      "solution": "THB Provider CRM",
-      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
-    },
-    {
-      "segment": "providers",
       "articleId": "2026-04-26-delhi-health-minister-inaugurates-advanced-3d-dental-imaging-facility-at",
       "title": "Delhi Health Minister inaugurates advanced 3D dental imaging facility at Maulana Azad Institute",
       "source": "ET Healthworld Hospitals",
@@ -1388,6 +1259,14 @@
       "segment": "providers",
       "articleId": "2026-04-26-medanta-takeover-80-bed-cancer-facility-in-indore-for-30-crore",
       "title": "Medanta takeover 80-bed cancer facility in Indore for ₹30 crore",
+      "source": "ET Healthworld Hospitals",
+      "solution": "THB Provider CRM",
+      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
+    },
+    {
+      "segment": "providers",
+      "articleId": "2026-04-26-kkr-invests-rs-1-750-cr-in-baby-memorial-hospital",
+      "title": "KKR invests Rs 1,750 cr in Baby Memorial Hospital",
       "source": "ET Healthworld Hospitals",
       "solution": "THB Provider CRM",
       "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
@@ -1413,14 +1292,6 @@
       "articleId": "2026-04-26-india-strengthens-healthcare-access-for-sri-city-through-an-integrated-c",
       "title": "India strengthens healthcare access for Sri City through an integrated care model",
       "source": "Express Healthcare",
-      "solution": "THB Diagnostics CRM",
-      "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
-    },
-    {
-      "segment": "diagnostics",
-      "articleId": "2026-04-26-mhesi-joins-partners-to-launch-space-f-batch-7-pushing-thai-foodtech-to-",
-      "title": "MHESI Joins Partners to Launch SPACE-F Batch 7, Pushing Thai FoodTech to the Global Stage, Highlighting the Wellness Economy as a New Economic Engine",
-      "source": "Zawya Pharmaceuticals",
       "solution": "THB Diagnostics CRM",
       "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
     },
