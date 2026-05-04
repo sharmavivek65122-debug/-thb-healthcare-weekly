@@ -5,21 +5,20 @@
   "startDate": "2026-05-02T18:30:00.000Z",
   "endDate": "2026-05-08T18:30:00.000Z",
   "status": "live",
-  "updatedAt": "2026-05-04T07:34:52.261Z",
+  "updatedAt": "2026-05-04T15:31:40.473Z",
   "coverage": {
-    "pharma": 17,
+    "pharma": 19,
     "providers": 3,
-    "diagnostics": 1,
+    "diagnostics": 0,
     "healthtech": 0
   },
   "sourcesUsed": [
     "ET Healthworld",
     "Economic Times Pharma",
-    "Financial Express Healthcare",
+    "Express Healthcare",
     "Healthcare MEA",
     "Lupin Updates",
-    "Medical Dialogues Pharma",
-    "Zawya Pharmaceuticals"
+    "Medical Dialogues Pharma"
   ],
   "segments": {
     "pharma": [
@@ -70,7 +69,7 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-130742966,imgsize-23856,width-1200,height=627,overlay-ethealth,resizemode-75/industry/abortion-pill-makers-ask-us-supreme-court-to-restore-mail-order-access.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/abortion-pill-makers-ask-us-supreme-court-to-restore-mail-order-access/130742966",
         "articlePath": "/article.html?issue=2026-05-03&article=2026-05-03-abortion-pill-makers-ask-us-supreme-court-to-restore-mail-order-access"
       },
@@ -104,7 +103,7 @@
         "category": "Launch",
         "image": "https://etimg.etb2bimg.com/thumb/msid-130761462,imgsize-70484,width-1200,height=627,overlay-ethealth,resizemode-75/policy/centre-launches-national-childhood-diabetes-screening-treatment-framework.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/policy/centre-launches-national-childhood-diabetes-screening-treatment-framework/130761462",
         "articlePath": "/article.html?issue=2026-05-03&article=2026-05-03-centre-launches-national-childhood-diabetes-screening-treatment-framewor"
       },
@@ -121,7 +120,7 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-130742933,imgsize-67156,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/north-indias-first-speech-and-hearing-institute-to-be-ready-in-kanpur-by-oct.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/north-indias-first-speech-and-hearing-institute-to-be-ready-in-kanpur-by-oct/130742933",
         "articlePath": "/article.html?issue=2026-05-03&article=2026-05-03-north-india-s-first-speech-and-hearing-institute-to-be-ready-in-kanpur-b"
       },
@@ -138,7 +137,7 @@
         "category": "Launch",
         "image": "https://etimg.etb2bimg.com/thumb/msid-130742949,imgsize-94572,width-1200,height=627,overlay-ethealth,resizemode-75/policy/meghalaya-to-launch-annual-data-driven-health-survey.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/policy/meghalaya-to-launch-annual-data-driven-health-survey/130742949",
         "articlePath": "/article.html?issue=2026-05-03&article=2026-05-03-meghalaya-to-launch-annual-data-driven-health-survey"
       },
@@ -160,6 +159,23 @@
         "articlePath": "/article.html?issue=2026-05-03&article=2026-05-03-india-s-medical-tourism-market-to-nearly-double-to-16-2-bn-by-2030-govt"
       },
       {
+        "id": "2026-05-03-zydus-receives-approval-to-conduct-phase-iii-trials-of-zintrodiazine-for",
+        "title": "Zydus receives approval to conduct Phase III trials of Zintrodiazine for malaria in India",
+        "summary": "Two studies to evaluate efficacy and safety in Plasmodium falciparum and Plasmodium vivax infections",
+        "source": "Express Healthcare",
+        "sourceHost": "expresshealthcare.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-05-04T11:34:21.000Z",
+        "publishedLabel": "May 4, 2026",
+        "category": "Approval",
+        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2020/04/01120612/GettyImages-1013627700-e1723013520525.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://www.expresshealthcare.in/news/zydus-receives-approval-to-conduct-phase-iii-trials-of-zintrodiazine-for-malaria-in-india/453538/",
+        "articlePath": "/article.html?issue=2026-05-03&article=2026-05-03-zydus-receives-approval-to-conduct-phase-iii-trials-of-zintrodiazine-for"
+      },
+      {
         "id": "2026-05-03-delhi-hc-upholds-ban-on-unapproved-fdc-drugs-backs-dcgi-action",
         "title": "Delhi HC Upholds Ban on Unapproved FDC Drugs, Backs DCGI Action",
         "summary": "New Delhi: The Delhi High Court has cleared the path for cancelling licences related to the manufacture, sale, marketing, and distribution of fixed-dose combination (FDC) drugs that lack approval...",
@@ -177,21 +193,38 @@
         "articlePath": "/article.html?issue=2026-05-03&article=2026-05-03-delhi-hc-upholds-ban-on-unapproved-fdc-drugs-backs-dcgi-action"
       },
       {
-        "id": "2026-05-03-mubadala-bio-s-gmsc-opens-new-facility-significantly-scaling-up-operatio",
-        "title": "Mubadala Bio’s GMSC opens new facility, significantly scaling up operations",
-        "summary": "With a larger warehouse footprint, increased pallet capacity, and expanded cold chain space, the new KEZAD facility enhances GMSC’s end-to-end medical logistics capabilities and supports growing demand across the UAE’s healthcare sector",
-        "source": "Zawya Pharmaceuticals",
-        "sourceHost": "zawya.com",
+        "id": "2026-05-03-chiesi-strengthens-rare-disease-portfolio-with-us-1-9b-acquisition-of-ka",
+        "title": "Chiesi strengthens rare disease portfolio with US$1.9B acquisition of KalVista | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
+        "summary": "Under the terms of the agreement, Chiesi will purchase KalVista for US$27 per share, representing a 36% premium over the company’s closing stock price on April 28.",
+        "source": "Healthcare MEA",
+        "sourceHost": "healthcaremea.com",
         "region": "Middle East",
-        "country": "United Arab Emirates",
-        "publishedAt": "2026-05-04T07:20:36.000Z",
+        "country": "Middle East",
+        "publishedAt": "2026-05-04T09:37:00.000Z",
         "publishedLabel": "May 4, 2026",
-        "category": "Industry Update",
-        "image": "https://static.zawya.com/view/acePublic/alias/contentid/6ef441b5-6449-4fe5-9c29-2a8a1698fc2e/0/picture1-jpg.jpeg?f=3%3A2",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "category": "Manufacturing",
+        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/05/Chesi_RD-1.jpg",
+        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
         "justIn": true,
-        "originalUrl": "https://www.zawya.com/en/press-release/companies-news/mubadala-bios-gmsc-opens-new-facility-significantly-scaling-up-operations-psvnxg7j",
-        "articlePath": "/article.html?issue=2026-05-03&article=2026-05-03-mubadala-bio-s-gmsc-opens-new-facility-significantly-scaling-up-operatio"
+        "originalUrl": "https://www.healthcaremea.com/2026/05/04/chiesi-strengthens-rare-disease-portfolio-with-us1-9b-acquisition-of-kalvista/",
+        "articlePath": "/article.html?issue=2026-05-03&article=2026-05-03-chiesi-strengthens-rare-disease-portfolio-with-us-1-9b-acquisition-of-ka"
+      },
+      {
+        "id": "2026-05-03-eli-lilly-bets-us-2-25b-on-profluent-s-ai-designed-gene-editing-recombin",
+        "title": "Eli Lilly bets US$2.25B on Profluent’s AI-designed gene editing recombinases | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
+        "summary": "The collaboration focuses on multiple research programmes designed to develop and commercialise site-specific recombinases for diseases characterised by severe unmet medical needs.",
+        "source": "Healthcare MEA",
+        "sourceHost": "healthcaremea.com",
+        "region": "Middle East",
+        "country": "Middle East",
+        "publishedAt": "2026-05-04T08:15:33.000Z",
+        "publishedLabel": "May 4, 2026",
+        "category": "Manufacturing",
+        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/05/Eli-Lilly-1-2.webp",
+        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
+        "justIn": true,
+        "originalUrl": "https://www.healthcaremea.com/2026/05/04/eli-lilly-bets-us2-25b-on-profluents-ai-designed-gene-editing-recombinases/",
+        "articlePath": "/article.html?issue=2026-05-03&article=2026-05-03-eli-lilly-bets-us-2-25b-on-profluent-s-ai-designed-gene-editing-recombin"
       },
       {
         "id": "2026-05-03-pharma-q4-outlook-mixed-hospitals-steady-generics-face-revlimid-drag",
@@ -206,7 +239,7 @@
         "category": "Industry Update",
         "image": "https://img.etimg.com/thumb/msid-130742041,width-1200,height-630,imgsize-124648,overlay-etmarkets/articleshow.jpg",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/markets/stocks/news/pharma-q4-outlook-mixed-hospitals-steady-generics-face-revlimid-drag/articleshow/130742088.cms",
         "articlePath": "/article.html?issue=2026-05-03&article=2026-05-03-pharma-q4-outlook-mixed-hospitals-steady-generics-face-revlimid-drag"
       },
@@ -315,6 +348,23 @@
     ],
     "providers": [
       {
+        "id": "2026-05-03-the-emerging-role-of-ai-platforms-in-healthcare-delivery-what-healthcare",
+        "title": "The emerging role of AI platforms in healthcare delivery: What healthcare leaders need to know",
+        "summary": "Ashutosh Kavathekar outlines how AI platforms are reshaping healthcare delivery and what healthcare leaders need to consider",
+        "source": "Express Healthcare",
+        "sourceHost": "expresshealthcare.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-05-04T11:26:21.000Z",
+        "publishedLabel": "May 4, 2026",
+        "category": "AI Care Delivery",
+        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/05/04143105/EH_Ashutosh_Kavathekar_Apexon_750.jpg",
+        "thbAction": "Recommend THB's patient engagement workflows to improve acquisition, follow-up adherence, and post-discharge retention for expanding provider groups.",
+        "justIn": true,
+        "originalUrl": "https://www.expresshealthcare.in/news/the-emerging-role-of-ai-platforms-in-healthcare-delivery-what-healthcare-leaders-need-to-know/453535/",
+        "articlePath": "/article.html?issue=2026-05-03&article=2026-05-03-the-emerging-role-of-ai-platforms-in-healthcare-delivery-what-healthcare"
+      },
+      {
         "id": "2026-05-03-kenyatta-national-hospital-launches-full-digital-overhaul-with-afya-apex",
         "title": "Kenyatta National Hospital launches full digital overhaul with Afya Apex system | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
         "summary": "Once fully implemented, Afya Apex is expected to improve efficiency, enhance transparency, strengthen accountability, and enable faster and more accurate patient care delivery.",
@@ -327,7 +377,7 @@
         "category": "Hospital",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/05/652244267_1380295920810348_2997820147172418874_n-3.jpg",
         "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/05/04/kenyatta-national-hospital-launches-full-digital-overhaul-with-afya-apex-system/",
         "articlePath": "/article.html?issue=2026-05-03&article=2026-05-03-kenyatta-national-hospital-launches-full-digital-overhaul-with-afya-apex"
       },
@@ -347,44 +397,9 @@
         "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/05/03/nmc-healthcare-opens-new-multi-specialty-clinic-in-al-riyadh-city-abu-dhabi/",
         "articlePath": "/article.html?issue=2026-05-03&article=2026-05-03-nmc-healthcare-opens-new-multi-specialty-clinic-in-al-riyadh-city-abu-dh"
-      },
-      {
-        "id": "2026-05-03-kuwait-extends-2bln-deposit-with-cbe-by-one-year",
-        "title": "Kuwait extends $2bln deposit with CBE by one year",
-        "summary": "The deposit, originally due in September 2025, has been extended until September 2026",
-        "source": "Zawya Pharmaceuticals",
-        "sourceHost": "zawya.com",
-        "region": "Middle East",
-        "country": "Saudi Arabia",
-        "publishedAt": "2026-05-04T06:46:28.000Z",
-        "publishedLabel": "May 4, 2026",
-        "category": "AI Care Delivery",
-        "image": "https://static.zawya.com/view/acePublic/alias/contentid/image.180725121939YKGT/196/180725121939ykgt-jpg.jpeg?f=3%3A2",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
-        "originalUrl": "https://www.zawya.com/en/economy/north-africa/kuwait-extends-2bln-deposit-with-cbe-by-one-year-gxtdeyw9",
-        "articlePath": "/article.html?issue=2026-05-03&article=2026-05-03-kuwait-extends-2bln-deposit-with-cbe-by-one-year"
       }
     ],
-    "diagnostics": [
-      {
-        "id": "2026-05-03-l-and-t-ai-playbook-build-for-self-then-find-buyers",
-        "title": "L&T AI playbook: Build for self, then find buyers",
-        "summary": "Engineering giant L&T is pivoting its AI strategy from internal optimization to a commercial go-to-market model. By leveraging its vast operating data across construction, energy, and manufacturing, the company is building an “AI factory” in partnership with...",
-        "source": "Financial Express Healthcare",
-        "sourceHost": "financialexpress.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-05-03T18:28:25.000Z",
-        "publishedLabel": "May 3, 2026",
-        "category": "Industry Update",
-        "image": "https://images.financialexpressdigital.com/2026/05/Larsen-Toubro-LT-1_20260225051759_20260412181556_20260415075159_20260503182636.jpg",
-        "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
-        "justIn": false,
-        "originalUrl": "https://www.financialexpress.com/business/news/lampt-ai-playbook-build-for-self-then-find-buyers/4228501/",
-        "articlePath": "/article.html?issue=2026-05-03&article=2026-05-03-l-and-t-ai-playbook-build-for-self-then-find-buyers"
-      }
-    ],
+    "diagnostics": [],
     "healthtech": []
   },
   "thbActions": [
@@ -430,6 +445,14 @@
     },
     {
       "segment": "providers",
+      "articleId": "2026-05-03-the-emerging-role-of-ai-platforms-in-healthcare-delivery-what-healthcare",
+      "title": "The emerging role of AI platforms in healthcare delivery: What healthcare leaders need to know",
+      "source": "Express Healthcare",
+      "solution": "THB Patient Engagement",
+      "action": "Recommend THB's patient engagement workflows to improve acquisition, follow-up adherence, and post-discharge retention for expanding provider groups."
+    },
+    {
+      "segment": "providers",
       "articleId": "2026-05-03-kenyatta-national-hospital-launches-full-digital-overhaul-with-afya-apex",
       "title": "Kenyatta National Hospital launches full digital overhaul with Afya Apex system | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
       "source": "Healthcare MEA",
@@ -443,22 +466,6 @@
       "source": "Healthcare MEA",
       "solution": "THB Provider CRM",
       "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
-    },
-    {
-      "segment": "providers",
-      "articleId": "2026-05-03-kuwait-extends-2bln-deposit-with-cbe-by-one-year",
-      "title": "Kuwait extends $2bln deposit with CBE by one year",
-      "source": "Zawya Pharmaceuticals",
-      "solution": "THB Provider CRM",
-      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
-    },
-    {
-      "segment": "diagnostics",
-      "articleId": "2026-05-03-l-and-t-ai-playbook-build-for-self-then-find-buyers",
-      "title": "L&T AI playbook: Build for self, then find buyers",
-      "source": "Financial Express Healthcare",
-      "solution": "THB Diagnostics CRM",
-      "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
     }
   ]
 }

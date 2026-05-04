@@ -5,15 +5,14 @@
   "startDate": "2026-04-18T18:30:00.000Z",
   "endDate": "2026-04-24T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-05-04T07:34:52.261Z",
+  "updatedAt": "2026-05-04T15:31:40.473Z",
   "coverage": {
-    "pharma": 8,
-    "providers": 5,
-    "diagnostics": 3,
+    "pharma": 7,
+    "providers": 4,
+    "diagnostics": 2,
     "healthtech": 0
   },
   "sourcesUsed": [
-    "BioSpectrum India Healthcare",
     "ET Healthworld",
     "ET Healthworld Diagnostics",
     "ET Healthworld Hospitals",
@@ -38,23 +37,6 @@
         "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/fortis-healthcare-healthify-launch-hospital-led-digital-weight-management-programme/130486557",
         "articlePath": "/article.html?issue=2026-04-19&article=2026-04-19-fortis-healthcare-healthify-launch-hospital-led-digital-weight-managemen"
-      },
-      {
-        "id": "2026-04-19-medtronic-launches-adbs-system-for-parkinson-s-patients-in-india",
-        "title": "Medtronic launches aDBS system for Parkinson’s patients in India",
-        "summary": "The aDBS system uses BrainSense technology, which has been approved by the U.S. Food and Drug Administration (FDA)",
-        "source": "Express Healthcare Posts",
-        "sourceHost": "expresshealthcare.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-04-23T08:13:47.000Z",
-        "publishedLabel": "April 23, 2026",
-        "category": "Launch",
-        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/04/23134306/New-Project-18.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://www.expresshealthcare.in/news/medtronic-launches-adbs-system-for-parkinsons-patients-in-india/453471/",
-        "articlePath": "/article.html?issue=2026-04-19&article=2026-04-19-medtronic-launches-adbs-system-for-parkinson-s-patients-in-india"
       },
       {
         "id": "2026-04-19-regeneron-pharma-announced-approval-for-otarmeni",
@@ -227,23 +209,6 @@
         "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/maharashtra-govt-waives-development-charges-premiums-for-tata-memorial-hospital/130435807",
         "articlePath": "/article.html?issue=2026-04-19&article=2026-04-19-maharashtra-govt-waives-development-charges-premiums-for-tata-memorial-h"
-      },
-      {
-        "id": "2026-04-19-robotics-is-steadily-becoming-part-of-routine-surgical-planning-rather-t",
-        "title": "Robotics is steadily becoming part of routine surgical planning rather than an exception",
-        "summary": "Dr Pradeep Jain, Chairman GI, HPB ONCO, Bariatric and Minimal Access Surgery, and Dr Randeep Wadhawan, Chairman - GI, Minimal Access and Bariatric Surgery, Max Super Speciality Hospital, New Delhi, in an interview with Kalyani Sharma, discuss the implications...",
-        "source": "Express Healthcare Posts",
-        "sourceHost": "expresshealthcare.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-04-23T11:58:26.000Z",
-        "publishedLabel": "April 23, 2026",
-        "category": "Hospital",
-        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/04/23172704/New-Project-1-10.jpg",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://www.expresshealthcare.in/news/robotics-is-steadily-becoming-part-of-routine-surgical-planning-rather-than-an-exception/453475/",
-        "articlePath": "/article.html?issue=2026-04-19&article=2026-04-19-robotics-is-steadily-becoming-part-of-routine-surgical-planning-rather-t"
       }
     ],
     "diagnostics": [
@@ -280,23 +245,6 @@
         "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/news/fortis-hospitals-bengaluru-launches-preventive-genomics-clinic/453478/",
         "articlePath": "/article.html?issue=2026-04-19&article=2026-04-19-fortis-hospitals-bengaluru-launches-preventive-genomics-clinic"
-      },
-      {
-        "id": "2026-04-19-national-and-international-experts-convene-for-national-diagnostics-conc",
-        "title": "National and international experts convene for National Diagnostics Conclave in Bengaluru",
-        "summary": "National and international experts convene for National Diagnostics Conclave in Bengaluru",
-        "source": "BioSpectrum India Healthcare",
-        "sourceHost": "biospectrumindia.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-04-19T18:30:00.000Z",
-        "publishedLabel": "April 20, 2026",
-        "category": "Diagnostics",
-        "image": "https://www.biospectrumindia.com/uploads/articles/picture1-27691.jpg",
-        "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
-        "justIn": false,
-        "originalUrl": "https://www.biospectrumindia.com/news/16/27691/national-and-international-experts-convene-for-national-diagnostics-conclave-in-bengaluru.html",
-        "articlePath": "/article.html?issue=2026-04-19&article=2026-04-19-national-and-international-experts-convene-for-national-diagnostics-conc"
       }
     ],
     "healthtech": []
@@ -307,14 +255,6 @@
       "articleId": "2026-04-19-fortis-healthcare-healthify-launch-hospital-led-digital-weight-managemen",
       "title": "Fortis Healthcare, Healthify launch hospital-led digital weight management programme",
       "source": "ET Healthworld",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
-      "segment": "pharma",
-      "articleId": "2026-04-19-medtronic-launches-adbs-system-for-parkinson-s-patients-in-india",
-      "title": "Medtronic launches aDBS system for Parkinson’s patients in India",
-      "source": "Express Healthcare Posts",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
     },
@@ -341,6 +281,14 @@
       "source": "PharmaTutor News",
       "solution": "THB Commercial Analytics",
       "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
+    },
+    {
+      "segment": "pharma",
+      "articleId": "2026-04-19-molecular-keyhole-sheds-light-on-pain-and-epilepsy",
+      "title": "Molecular keyhole sheds light on pain and epilepsy",
+      "source": "PharmaTutor News",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
     },
     {
       "segment": "providers",
@@ -375,14 +323,6 @@
       "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
     },
     {
-      "segment": "providers",
-      "articleId": "2026-04-19-robotics-is-steadily-becoming-part-of-routine-surgical-planning-rather-t",
-      "title": "Robotics is steadily becoming part of routine surgical planning rather than an exception",
-      "source": "Express Healthcare Posts",
-      "solution": "THB Provider CRM",
-      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
-    },
-    {
       "segment": "diagnostics",
       "articleId": "2026-04-19-quest-diagnostics-raises-full-year-forecast-posts-strong-quarter-on-test",
       "title": "Quest Diagnostics raises full-year forecast, posts strong quarter on testing demand",
@@ -395,14 +335,6 @@
       "articleId": "2026-04-19-fortis-hospitals-bengaluru-launches-preventive-genomics-clinic",
       "title": "Fortis Hospitals Bengaluru launches preventive genomics clinic",
       "source": "Express Healthcare Posts",
-      "solution": "THB Diagnostics CRM",
-      "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
-    },
-    {
-      "segment": "diagnostics",
-      "articleId": "2026-04-19-national-and-international-experts-convene-for-national-diagnostics-conc",
-      "title": "National and international experts convene for National Diagnostics Conclave in Bengaluru",
-      "source": "BioSpectrum India Healthcare",
       "solution": "THB Diagnostics CRM",
       "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
     }
