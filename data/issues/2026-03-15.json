@@ -5,10 +5,10 @@
   "startDate": "2026-03-14T18:30:00.000Z",
   "endDate": "2026-03-20T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-05-04T15:31:40.473Z",
+  "updatedAt": "2026-05-05T06:34:05.600Z",
   "coverage": {
     "pharma": 3,
-    "providers": 4,
+    "providers": 3,
     "diagnostics": 4,
     "healthtech": 0
   },
@@ -73,23 +73,6 @@
       }
     ],
     "providers": [
-      {
-        "id": "2026-03-15-even-healthcare-to-set-up-second-hospital-in-bengaluru",
-        "title": "Even Healthcare to set up second hospital in Bengaluru",
-        "summary": "The upcoming hospital follows the launch of the company’s first hospital on Racecourse Road in May 2025, marking its transition to a fully integrated managed-care provider.",
-        "source": "ET Healthworld Hospitals",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-03-18T11:14:01.000Z",
-        "publishedLabel": "March 18, 2026",
-        "category": "Hospital",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-129654675,imgsize-114230,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/even-healthcare-to-set-up-second-hospital-in-bengaluru.jpg",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/even-healthcare-to-set-up-second-hospital-in-bengaluru/129654675",
-        "articlePath": "/article.html?issue=2026-03-15&article=2026-03-15-even-healthcare-to-set-up-second-hospital-in-bengaluru"
-      },
       {
         "id": "2026-03-15-manipal-hospitals-targets-11k-crore-ipo-set-to-file-papers",
         "title": "Manipal Hospitals targets 11k crore IPO, set to file papers",
@@ -238,14 +221,6 @@
       "source": "Janssen India Media",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
-      "segment": "providers",
-      "articleId": "2026-03-15-even-healthcare-to-set-up-second-hospital-in-bengaluru",
-      "title": "Even Healthcare to set up second hospital in Bengaluru",
-      "source": "ET Healthworld Hospitals",
-      "solution": "THB Provider CRM",
-      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
     },
     {
       "segment": "providers",

@@ -5,7 +5,7 @@
   "startDate": "2026-04-18T18:30:00.000Z",
   "endDate": "2026-04-24T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-05-04T15:31:40.473Z",
+  "updatedAt": "2026-05-05T06:34:05.600Z",
   "coverage": {
     "pharma": 7,
     "providers": 4,
@@ -13,10 +13,10 @@
     "healthtech": 0
   },
   "sourcesUsed": [
+    "BioSpectrum India Healthcare",
     "ET Healthworld",
     "ET Healthworld Diagnostics",
     "ET Healthworld Hospitals",
-    "Express Healthcare Posts",
     "PharmaTutor News"
   ],
   "segments": {
@@ -230,21 +230,21 @@
         "articlePath": "/article.html?issue=2026-04-19&article=2026-04-19-quest-diagnostics-raises-full-year-forecast-posts-strong-quarter-on-test"
       },
       {
-        "id": "2026-04-19-fortis-hospitals-bengaluru-launches-preventive-genomics-clinic",
-        "title": "Fortis Hospitals Bengaluru launches preventive genomics clinic",
-        "summary": "This clinic aims to offer advanced genetic testing, expert counselling and personalised treatment plans, enabling individuals to make informed healthcare decisions based on their genetic profile",
-        "source": "Express Healthcare Posts",
-        "sourceHost": "expresshealthcare.in",
+        "id": "2026-04-19-national-and-international-experts-convene-for-national-diagnostics-conc",
+        "title": "National and international experts convene for National Diagnostics Conclave in Bengaluru",
+        "summary": "National and international experts convene for National Diagnostics Conclave in Bengaluru",
+        "source": "BioSpectrum India Healthcare",
+        "sourceHost": "biospectrumindia.com",
         "region": "India",
         "country": "India",
-        "publishedAt": "2026-04-24T05:12:53.000Z",
-        "publishedLabel": "April 24, 2026",
-        "category": "Genomics",
-        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/04/24104246/New-Project-19.jpg",
+        "publishedAt": "2026-04-19T18:30:00.000Z",
+        "publishedLabel": "April 20, 2026",
+        "category": "Diagnostics",
+        "image": "https://www.biospectrumindia.com/uploads/articles/picture1-27691.jpg",
         "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
         "justIn": false,
-        "originalUrl": "https://www.expresshealthcare.in/news/fortis-hospitals-bengaluru-launches-preventive-genomics-clinic/453478/",
-        "articlePath": "/article.html?issue=2026-04-19&article=2026-04-19-fortis-hospitals-bengaluru-launches-preventive-genomics-clinic"
+        "originalUrl": "https://www.biospectrumindia.com/news/16/27691/national-and-international-experts-convene-for-national-diagnostics-conclave-in-bengaluru.html",
+        "articlePath": "/article.html?issue=2026-04-19&article=2026-04-19-national-and-international-experts-convene-for-national-diagnostics-conc"
       }
     ],
     "healthtech": []
@@ -332,9 +332,9 @@
     },
     {
       "segment": "diagnostics",
-      "articleId": "2026-04-19-fortis-hospitals-bengaluru-launches-preventive-genomics-clinic",
-      "title": "Fortis Hospitals Bengaluru launches preventive genomics clinic",
-      "source": "Express Healthcare Posts",
+      "articleId": "2026-04-19-national-and-international-experts-convene-for-national-diagnostics-conc",
+      "title": "National and international experts convene for National Diagnostics Conclave in Bengaluru",
+      "source": "BioSpectrum India Healthcare",
       "solution": "THB Diagnostics CRM",
       "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
     }
