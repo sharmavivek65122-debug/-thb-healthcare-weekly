@@ -5,11 +5,11 @@
   "startDate": "2026-04-25T18:30:00.000Z",
   "endDate": "2026-05-01T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-05-06T07:15:40.049Z",
+  "updatedAt": "2026-05-06T15:42:01.557Z",
   "coverage": {
-    "pharma": 25,
-    "providers": 13,
-    "diagnostics": 3,
+    "pharma": 23,
+    "providers": 11,
+    "diagnostics": 2,
     "healthtech": 0
   },
   "sourcesUsed": [
@@ -17,11 +17,9 @@
     "ET Healthworld",
     "ET Healthworld Hospitals",
     "Economic Times Pharma",
-    "Express Healthcare",
     "Express Healthcare Posts",
     "Financial Express Healthcare",
     "Janssen India Media",
-    "Medical Dialogues Pharma",
     "PharmaTutor News"
   ],
   "segments": {
@@ -265,23 +263,6 @@
         "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-asia-healthcare-holdings-appoints-venkatesh-tarakkad-as-cfo-and-head-bus"
       },
       {
-        "id": "2026-04-26-rpg-life-sciences-q4-revenue-jumps-23-6-to-rs-176-9-cr",
-        "title": "RPG Life Sciences Q4 Revenue Jumps 23.6% to Rs 176.9 Cr",
-        "summary": "Mumbai: RPG Life Sciences Limited has reported a 23.6% year-on-year increase in revenue for the fourth quarter of FY26, along with a strong EBITDA margin of 25.6%, while also recommending a final...",
-        "source": "Medical Dialogues Pharma",
-        "sourceHost": "medicaldialogues.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-05-02T05:30:10.000Z",
-        "publishedLabel": "May 2, 2026",
-        "category": "Industry Update",
-        "image": "https://medicaldialogues.in/h-upload/2025/12/08/313252-medicine-50.jpg",
-        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": false,
-        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/rpg-life-sciences-q4-revenue-jumps-236-to-rs-1769-cr-169851",
-        "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-rpg-life-sciences-q4-revenue-jumps-23-6-to-rs-176-9-cr"
-      },
-      {
         "id": "2026-04-26-fda-grants-priority-review-for-imaavy-nipocalimab-aahu-as-the-potential-",
         "title": "FDA grants Priority Review for IMAAVY® (nipocalimab-aahu) as the potential first approved treatment for people living with warm autoimmune hemolytic anemia (wAIHA)",
         "summary": "Priority Review is granted to medicines that may offer significant improvements in safety or effectiveness for serious conditions like warm autoimmune hemolytic anemia, a life-threatening disease in which pathogenic immunoglobulin G autoantibodies attach to...",
@@ -418,23 +399,6 @@
         "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-webinar-on-role-of-artificial-intelligence-in-pharmacy-careers-and-it-im"
       },
       {
-        "id": "2026-04-26-delhi-pharmacist-arrested-for-supplying-prescription-drugs-illegally-wid",
-        "title": "Delhi Pharmacist Arrested for Supplying Prescription Drugs Illegally, Wider Racket Suspected",
-        "summary": "New Delhi: A pharmacist has been arrested by Delhi Police for his alleged involvement in an illegal drug racket involving the supply of prescription medicines without valid authorization, with...",
-        "source": "Medical Dialogues Pharma",
-        "sourceHost": "medicaldialogues.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-05-02T05:15:57.000Z",
-        "publishedLabel": "May 2, 2026",
-        "category": "Industry Update",
-        "image": "https://medicaldialogues.in/h-upload/2021/03/06/149648-illegal02.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/delhi-pharmacist-arrested-for-supplying-prescription-drugs-illegally-wider-racket-suspected-169850",
-        "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-delhi-pharmacist-arrested-for-supplying-prescription-drugs-illegally-wid"
-      },
-      {
         "id": "2026-04-26-newly-discovered-virus-linked-to-colorectal-cancer",
         "title": "Newly discovered virus linked to colorectal cancer",
         "summary": "Colorectal cancer is one of the most common types of cancer in the Western world and a leading cause of cancer-related deaths. Age, diet and lifestyle are known risk factors. However, in most cases we still lack a precise understanding of what triggers the...",
@@ -556,6 +520,23 @@
         "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-medanta-takeover-80-bed-cancer-facility-in-indore-for-30-crore"
       },
       {
+        "id": "2026-04-26-kkr-invests-rs-1-750-cr-in-baby-memorial-hospital",
+        "title": "KKR invests Rs 1,750 cr in Baby Memorial Hospital",
+        "summary": "KKR had initially invested ₹2,100 crore in Baby Memorial Hospital in July 2024 to create a platform of hospitals in southern India. It increased its investment by ₹1,261 crore in the hospital in September last year before the latest funding round, the...",
+        "source": "ET Healthworld Hospitals",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-04-29T01:49:09.000Z",
+        "publishedLabel": "April 29, 2026",
+        "category": "Hospital",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-130593318,imgsize-222010,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/kkr-invests-rs-1750-cr-in-baby-memorial-hospital.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": false,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/kkr-invests-rs-1750-cr-in-baby-memorial-hospital/130593318",
+        "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-kkr-invests-rs-1-750-cr-in-baby-memorial-hospital"
+      },
+      {
         "id": "2026-04-26-ahh-names-venkatesh-tarakkad-as-cfo-ritesh-pandey-moves-to-chief-busines",
         "title": "AHH names Venkatesh Tarakkad as CFO; Ritesh Pandey moves to chief business officer role",
         "summary": "The appointment comes as AHH, which runs hospital chains across oncology, women and childcare, fertility, and urology, accelerates its growth agenda. The company's portfolio includes Motherhood Hospitals, Nova IVF Fertility, and Asian Institute of Nephrology...",
@@ -593,7 +574,7 @@
         "id": "2026-04-26-from-global-best-practices-to-local-impact-strengthening-sustainable-eye",
         "title": "From global best practices to local impact: Strengthening sustainable eye care infrastructure in India",
         "summary": "India’s 9.8 million cataract surgeries in FY 2024–25 mark a meaningful milestone, but access to consistent care remains uneven, particularly in rural and remote regions where gaps in service delivery […]",
-        "source": "Express Healthcare",
+        "source": "Express Healthcare Posts",
         "sourceHost": "expresshealthcare.in",
         "region": "India",
         "country": "India",
@@ -622,77 +603,9 @@
         "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/news/apollo-hospitals-navi-mumbai-surpasses-250-liver-transplants/453517/",
         "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-apollo-hospitals-navi-mumbai-surpasses-250-liver-transplants"
-      },
-      {
-        "id": "2026-04-26-s-l-raheja-launches-enhanced-diagnostics-and-orthorobo-care",
-        "title": "S.L. Raheja launches enhanced diagnostics and orthorobo care",
-        "summary": "As S.L. Raheja Hospital – A Fortis Associate marks its 45th year of delivering trusted healthcare, it reinforces its commitment to clinical excellence with the launch of two close-to-heart initiatives: […]",
-        "source": "Express Healthcare Posts",
-        "sourceHost": "expresshealthcare.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-04-28T08:10:27.000Z",
-        "publishedLabel": "April 28, 2026",
-        "category": "Hospital",
-        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/04/28134005/EH_S-L-Raheja.jpg",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://www.expresshealthcare.in/news/s-l-raheja-launches-enhanced-diagnostics-and-orthorobo-care/453496/",
-        "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-s-l-raheja-launches-enhanced-diagnostics-and-orthorobo-care"
-      },
-      {
-        "id": "2026-04-26-pfcd-advocates-for-insurance-coverage-of-robotic-joint-replacement-surge",
-        "title": "PFCD advocates for insurance coverage of robotic joint replacement surgery",
-        "summary": "The Partnership to Fight Chronic Disease (PFCD) convened a panel of leading orthopaedic surgeons in New Delhi – Dr Ramneek Mahajan, Chairman – Orthopaedics, Joint Replacement and Chief Robotic Joint […]",
-        "source": "Express Healthcare",
-        "sourceHost": "expresshealthcare.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-04-30T09:10:04.000Z",
-        "publishedLabel": "April 30, 2026",
-        "category": "AI Care Delivery",
-        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/04/30143940/EH_PCFD.jpg",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://www.expresshealthcare.in/news/pfcd-advocates-for-insurance-coverage-of-robotic-joint-replacement-surgery/453526/",
-        "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-pfcd-advocates-for-insurance-coverage-of-robotic-joint-replacement-surge"
-      },
-      {
-        "id": "2026-04-26-gleneagles-bgs-hospital-launches-heal-health-card-to-make-healthcare-mor",
-        "title": "Gleneagles BGS Hospital launches HEAL Health Card to make healthcare more accessible",
-        "summary": "Gleneagles BGS Hospital, Kengeri, Bengaluru, part of the Fortis Healthcare Network, launched the ‘HEAL Health Card’—a collaborative initiative aimed at improving access to affordable and quality healthcare. The launch was […]",
-        "source": "Express Healthcare Posts",
-        "sourceHost": "expresshealthcare.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-04-28T06:37:30.000Z",
-        "publishedLabel": "April 28, 2026",
-        "category": "Hospital",
-        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/04/28120709/EH_Heal.jpg",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://www.expresshealthcare.in/news/gleneagles-bgs-hospital-launches-heal-health-card-to-make-healthcare-more-accessible/453493/",
-        "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-gleneagles-bgs-hospital-launches-heal-health-card-to-make-healthcare-mor"
       }
     ],
     "diagnostics": [
-      {
-        "id": "2026-04-26-metropolis-healthcare-introduces-advanced-blood-based-alzheimer-s-screen",
-        "title": "Metropolis Healthcare introduces advanced blood-based Alzheimer’s screening",
-        "summary": "Metropolis Healthcare, India’s second largest and the most respected pathology laboratory chain, announced the launch of an advanced blood-based test designed to support earlier detection and more informed clinical decisions […]",
-        "source": "Express Healthcare Posts",
-        "sourceHost": "expresshealthcare.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-04-28T06:08:10.000Z",
-        "publishedLabel": "April 28, 2026",
-        "category": "Screening",
-        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2019/12/03163415/alzheimer-e1777356439644.jpg",
-        "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
-        "justIn": false,
-        "originalUrl": "https://www.expresshealthcare.in/news/metropolis-healthcare-introduces-advanced-blood-based-alzheimers-screening/453491/",
-        "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-metropolis-healthcare-introduces-advanced-blood-based-alzheimer-s-screen"
-      },
       {
         "id": "2026-04-26-india-s-lord-s-mark-secures-global-nod-for-hiv-self-test",
         "title": "India’s Lord’s Mark secures global nod for HIV self-test",
@@ -810,14 +723,6 @@
       "source": "ET Healthworld Hospitals",
       "solution": "THB Provider CRM",
       "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
-    },
-    {
-      "segment": "diagnostics",
-      "articleId": "2026-04-26-metropolis-healthcare-introduces-advanced-blood-based-alzheimer-s-screen",
-      "title": "Metropolis Healthcare introduces advanced blood-based Alzheimer’s screening",
-      "source": "Express Healthcare Posts",
-      "solution": "THB Diagnostics CRM",
-      "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
     },
     {
       "segment": "diagnostics",
