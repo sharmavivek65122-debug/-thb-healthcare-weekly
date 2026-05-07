@@ -5,10 +5,10 @@
   "startDate": "2026-03-14T18:30:00.000Z",
   "endDate": "2026-03-20T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-05-06T15:42:01.557Z",
+  "updatedAt": "2026-05-07T07:24:58.541Z",
   "coverage": {
     "pharma": 3,
-    "providers": 3,
+    "providers": 2,
     "diagnostics": 4,
     "healthtech": 0
   },
@@ -73,23 +73,6 @@
       }
     ],
     "providers": [
-      {
-        "id": "2026-03-15-manipal-hospitals-targets-11k-crore-ipo-set-to-file-papers",
-        "title": "Manipal Hospitals targets 11k crore IPO, set to file papers",
-        "summary": "The issue will include an offer-for-sale component of around Rs 2,000 crore, while a large portion of the proceeds will be used to retire about Rs 8,000 crore of debt and fund inorganic expansion opportunities.",
-        "source": "ET Healthworld Hospitals",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-03-19T06:23:17.000Z",
-        "publishedLabel": "March 19, 2026",
-        "category": "Expansion",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-129672214,imgsize-227244,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/manipal-hospitals-targets-11k-crore-ipo-set-to-file-papers.jpg",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/manipal-hospitals-targets-11k-crore-ipo-set-to-file-papers/129672214",
-        "articlePath": "/article.html?issue=2026-03-15&article=2026-03-15-manipal-hospitals-targets-11k-crore-ipo-set-to-file-papers"
-      },
       {
         "id": "2026-03-15-cmri-boosts-advanced-ent-care-with-smart-cochlear-implant-system",
         "title": "CMRI Boosts Advanced ENT Care with Smart Cochlear Implant System",
@@ -221,14 +204,6 @@
       "source": "Janssen India Media",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
-      "segment": "providers",
-      "articleId": "2026-03-15-manipal-hospitals-targets-11k-crore-ipo-set-to-file-papers",
-      "title": "Manipal Hospitals targets 11k crore IPO, set to file papers",
-      "source": "ET Healthworld Hospitals",
-      "solution": "THB Provider CRM",
-      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
     },
     {
       "segment": "providers",
