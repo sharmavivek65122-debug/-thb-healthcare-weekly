@@ -5,11 +5,11 @@
   "startDate": "2026-05-02T18:30:00.000Z",
   "endDate": "2026-05-08T18:30:00.000Z",
   "status": "live",
-  "updatedAt": "2026-05-08T15:08:35.394Z",
+  "updatedAt": "2026-05-09T06:31:55.103Z",
   "coverage": {
     "pharma": 50,
     "providers": 4,
-    "diagnostics": 5,
+    "diagnostics": 6,
     "healthtech": 0
   },
   "sourcesUsed": [
@@ -20,10 +20,10 @@
     "Express Healthcare",
     "Express Healthcare Posts",
     "Healthcare MEA",
+    "Janssen India Media",
     "Lupin Updates",
     "Medical Dialogues Pharma",
-    "PharmaTutor News",
-    "Zawya Pharmaceuticals"
+    "PharmaTutor News"
   ],
   "segments": {
     "pharma": [
@@ -130,23 +130,6 @@
         "articlePath": "/article.html?issue=2026-05-03&article=2026-05-03-semaglutide-race-torrent-grabs-38-market-share"
       },
       {
-        "id": "2026-05-03-newer-weight-loss-drugs-may-alter-brain-s-reward-circuit-impact-how-one-",
-        "title": "Newer weight loss drugs may alter brain's reward circuit, impact how one experiences pleasure: Study",
-        "summary": "The drugs were found to engage a separate circuit linking the hindbrain to the central amygdala (emotions processing centre) and ultimately to dopamine-producing neurons -- the pathway is critical to how the brain assigns value to rewarding experiences,...",
-        "source": "ET Healthworld",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-05-07T11:59:11.000Z",
-        "publishedLabel": "May 7, 2026",
-        "category": "Industry Update",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-130894178,imgsize-89286,width-1200,height=627,overlay-ethealth,resizemode-75/industry/newer-weight-loss-drugs-may-alter-brains-reward-circuit-impact-how-one-experiences-pleasure-study.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/newer-weight-loss-drugs-may-alter-brains-reward-circuit-impact-how-one-experiences-pleasure-study/130894178",
-        "articlePath": "/article.html?issue=2026-05-03&article=2026-05-03-newer-weight-loss-drugs-may-alter-brain-s-reward-circuit-impact-how-one-"
-      },
-      {
         "id": "2026-05-03-sun-pharma-explores-funding-mix-for-12-billion-organon-deal",
         "title": "Sun Pharma explores funding mix for $12 billion Organon deal",
         "summary": "Global lenders are exploring various financing options for Sun Pharmaceutical Industries' proposed $12 billion acquisition of Organon & Co. The Indian drugmaker is considering swapping Organon bondholders into Sun Pharma debt and a potential euro-denominated...",
@@ -198,6 +181,40 @@
         "articlePath": "/article.html?issue=2026-05-03&article=2026-05-03-pharma-exports-surpass-31-billion-in-fy26-despite-global-headwinds"
       },
       {
+        "id": "2026-05-03-scientists-develop-a-regenerative-therapy-that-may-bring-back-teeth",
+        "title": "Scientists develop a regenerative therapy that may bring back teeth",
+        "summary": "Japanese scientists are developing a drug, TRG-035, to regenerate missing teeth by inhibiting a protein that prevents adult tooth growth. Clinical trials are underway, building on successful animal tests, with the aim of offering a biological alternative to...",
+        "source": "ET Healthworld",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-05-09T02:38:33.000Z",
+        "publishedLabel": "May 9, 2026",
+        "category": "Clinical Trial",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-130969515,imgsize-79642,width-1200,height=627,overlay-ethealth,resizemode-75/industry/scientists-develop-a-regenerative-therapy-that-may-bring-back-teeth.jpg",
+        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
+        "justIn": true,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/scientists-develop-a-regenerative-therapy-that-may-bring-back-teeth/130969515",
+        "articlePath": "/article.html?issue=2026-05-03&article=2026-05-03-scientists-develop-a-regenerative-therapy-that-may-bring-back-teeth"
+      },
+      {
+        "id": "2026-05-03-drug-regulator-cracks-down-on-delayed-safety-reporting-by-pharma-compani",
+        "title": "Drug regulator cracks down on delayed safety reporting by pharma companies",
+        "summary": "India's drug regulator CDSCO has issued new rules for drug safety reporting. Companies must now submit safety reports from the actual launch date of new drugs, not from when they were approved. This change aims to capture real-world safety data more...",
+        "source": "Economic Times Pharma",
+        "sourceHost": "economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-05-08T18:17:50.000Z",
+        "publishedLabel": "May 8, 2026",
+        "category": "Launch",
+        "image": "https://img.etimg.com/thumb/msid-130965781,width-1200,height-630,imgsize-59452,overlay-economictimes/articleshow.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/drug-regulator-cracks-down-on-delayed-safety-reporting-by-pharma-companies/articleshow/130965781.cms",
+        "articlePath": "/article.html?issue=2026-05-03&article=2026-05-03-drug-regulator-cracks-down-on-delayed-safety-reporting-by-pharma-compani"
+      },
+      {
         "id": "2026-05-03-guardant-health-to-launch-blood-based-cancer-test-in-india-with-zydus-li",
         "title": "Guardant Health to launch blood-based cancer test in India with Zydus Lifesciences",
         "summary": "Guardant Health is set to introduce a groundbreaking blood test in India for early cancer detection. This multi-cancer test, co-marketed by Zydus Lifesciences in India, aims to identify various cancers like lung, breast, and prostate. The initiative targets...",
@@ -244,7 +261,7 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-130958877,imgsize-158396,width-1200,height=627,overlay-ethealth,resizemode-75/diagnostics/pharma-giant-roche-nets-pathai-to-bolster-ai-driven-diagnostics.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/diagnostics/pharma-giant-roche-nets-pathai-to-bolster-ai-driven-diagnostics/130958877",
         "articlePath": "/article.html?issue=2026-05-03&article=2026-05-03-pharma-giant-roche-nets-pathai-to-bolster-ai-driven-diagnostics"
       },
@@ -278,26 +295,9 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-130958779,imgsize-69936,width-1200,height=627,overlay-ethealth,resizemode-75/industry/researchers-identify-antibodies-that-may-prevent-and-treat-measles-infections.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/researchers-identify-antibodies-that-may-prevent-and-treat-measles-infections/130958779",
         "articlePath": "/article.html?issue=2026-05-03&article=2026-05-03-researchers-identify-antibodies-that-may-prevent-and-treat-measles-infec"
-      },
-      {
-        "id": "2026-05-03-us-fda-issues-recall-of-boston-scientific-heart-devices",
-        "title": "US FDA issues recall of Boston Scientific heart devices",
-        "summary": "The ‌recall does ⁠not ⁠require the devices to be removed from patients or pulled ​from sale. Instead, doctors are being told to update the devices' ​software during an in-person clinic visit, the FDA said.",
-        "source": "ET Healthworld",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-05-08T02:28:11.000Z",
-        "publishedLabel": "May 8, 2026",
-        "category": "Industry Update",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-130939664,imgsize-299300,width-1200,height=627,overlay-ethealth,resizemode-75/medical-devices/us-fda-issues-recall-of-boston-scientific-heart-devices.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/medical-devices/us-fda-issues-recall-of-boston-scientific-heart-devices/130939664",
-        "articlePath": "/article.html?issue=2026-05-03&article=2026-05-03-us-fda-issues-recall-of-boston-scientific-heart-devices"
       },
       {
         "id": "2026-05-03-aiims-delhi-introduces-india-s-first-portable-mri-system-for-bedside-bra",
@@ -334,23 +334,6 @@
         "articlePath": "/article.html?issue=2026-05-03&article=2026-05-03-sun-pharma-gets-relief-in-trademark-case-from-high-court"
       },
       {
-        "id": "2026-05-03-ncdc-and-icmr-monitoring-maharashtra-bird-flu-spread-no-human-cases-repo",
-        "title": "NCDC and ICMR monitoring Maharashtra bird flu spread, \"no human cases reported,\" confirms Dr Rajeev Bahl",
-        "summary": "In light of the outbreak, Dr. Rajeev Bahl, Director General of the Indian Council of Medical Research (ICMR), asserted that the National Centre for Disease Control (NCDC) and the ICMR are closely monitoring the spread of H5N1 avian influenza in the state.",
-        "source": "ET Healthworld",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-05-08T02:20:01.000Z",
-        "publishedLabel": "May 8, 2026",
-        "category": "Industry Update",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-130940955,imgsize-63936,width-1200,height=627,overlay-ethealth,resizemode-75/industry/ncdc-and-icmr-monitoring-maharashtra-bird-flu-spread-no-human-cases-reported-confirms-dr-rajeev-bahl.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/ncdc-and-icmr-monitoring-maharashtra-bird-flu-spread-no-human-cases-reported-confirms-dr-rajeev-bahl/130940955",
-        "articlePath": "/article.html?issue=2026-05-03&article=2026-05-03-ncdc-and-icmr-monitoring-maharashtra-bird-flu-spread-no-human-cases-repo"
-      },
-      {
         "id": "2026-05-03-dr-reddy-s-and-nestle-health-science-strengthen-presence-in-diabetes-obe",
         "title": "Dr Reddy's and Nestle Health Science strengthen presence in diabetes, obesity nutrition space",
         "summary": "Dr Reddy's teams up with Nestle Health Science to introduce Celevida GLP+, a specialized supplement crafted for those navigating the challenges of GLP-1/GIP therapy for type 2 diabetes and obesity.",
@@ -366,40 +349,6 @@
         "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/dr-reddys-and-nestle-health-science-strengthen-presence-in-diabetes-obesity-nutrition-space/articleshow/130899728.cms",
         "articlePath": "/article.html?issue=2026-05-03&article=2026-05-03-dr-reddy-s-and-nestle-health-science-strengthen-presence-in-diabetes-obe"
-      },
-      {
-        "id": "2026-05-03-study-describes-blood-test-that-might-reveal-one-s-illness-trajectory-re",
-        "title": "Study describes blood test that might reveal one's illness trajectory, response to treatment",
-        "summary": "The testing method, called 'VeloCD', could predict whether children with acute fever were likely to recover or deteriorate, and whether healthy adults were likely to go on to develop flu or COVID-19 after exposure to the viruses, among other disease...",
-        "source": "ET Healthworld",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-05-08T02:11:50.000Z",
-        "publishedLabel": "May 8, 2026",
-        "category": "Industry Update",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-130940623,imgsize-96174,width-1200,height=627,overlay-ethealth,resizemode-75/diagnostics/study-describes-blood-test-that-might-reveal-ones-illness-trajectory-response-to-treatment.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/diagnostics/study-describes-blood-test-that-might-reveal-ones-illness-trajectory-response-to-treatment/130940623",
-        "articlePath": "/article.html?issue=2026-05-03&article=2026-05-03-study-describes-blood-test-that-might-reveal-one-s-illness-trajectory-re"
-      },
-      {
-        "id": "2026-05-03-heart-friendly-dialysis-a-patient-first-approach-to-cardiac-and-kidney-c",
-        "title": "Heart-Friendly Dialysis: A Patient-First Approach to Cardiac and Kidney Care",
-        "summary": "Brand Connect Initiative",
-        "source": "ET Healthworld",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-05-08T10:38:03.000Z",
-        "publishedLabel": "May 8, 2026",
-        "category": "Industry Update",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-130957250,imgsize-4623732,width-1200,height=627,overlay-ethealth,resizemode-75/industry/revolutionizing-kidney-care-heart-friendly-peritoneal-dialysis-benefits.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/revolutionizing-kidney-care-heart-friendly-peritoneal-dialysis-benefits/130957250",
-        "articlePath": "/article.html?issue=2026-05-03&article=2026-05-03-heart-friendly-dialysis-a-patient-first-approach-to-cardiac-and-kidney-c"
       },
       {
         "id": "2026-05-03-zydus-biologics-ahmedabad-injectable-facility-gets-7-observations-in-usf",
@@ -431,9 +380,26 @@
         "category": "Industry Update",
         "image": "https://img.etimg.com/thumb/msid-130961627,width-1200,height-630,imgsize-11928,overlay-economictimes/articleshow.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/msd-india-ropes-in-madhuri-dixit-for-cervical-cancer-awareness-drive/articleshow/130961527.cms",
         "articlePath": "/article.html?issue=2026-05-03&article=2026-05-03-msd-india-ropes-in-madhuri-dixit-for-cervical-cancer-awareness-drive"
+      },
+      {
+        "id": "2026-05-03-aiims-bhopal-surgeon-wins-global-trauma-surgery-honour",
+        "title": "AIIMS Bhopal surgeon wins global trauma surgery honour",
+        "summary": "The honour was conferred during International Surgical Week (ISW 2026), held as part of the 51st World Congress of the International Society of Surgery (ISS/SIC) in Mexico City.",
+        "source": "ET Healthworld",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-05-09T02:26:47.000Z",
+        "publishedLabel": "May 9, 2026",
+        "category": "Industry Update",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-130969621,imgsize-96658,width-1200,height=627,overlay-ethealth,resizemode-75/industry/aiims-bhopal-surgeon-wins-global-trauma-surgery-honour.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/aiims-bhopal-surgeon-wins-global-trauma-surgery-honour/130969621",
+        "articlePath": "/article.html?issue=2026-05-03&article=2026-05-03-aiims-bhopal-surgeon-wins-global-trauma-surgery-honour"
       },
       {
         "id": "2026-05-03-the-future-isn-t-just-about-access-to-treatment-it-s-about-measurable-op",
@@ -533,7 +499,7 @@
         "category": "Industry Update",
         "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/05/08173511/New-Project-2-1.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/news/the-biggest-challenge-in-clinical-training-today-is-variability/453603/",
         "articlePath": "/article.html?issue=2026-05-03&article=2026-05-03-the-biggest-challenge-in-clinical-training-today-is-variability"
       },
@@ -550,7 +516,7 @@
         "category": "Launch",
         "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/05/08122527/New-Project-6.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/news/gims-launches-advanced-paediatric-orthopaedic-surgery-facilities/453597/",
         "articlePath": "/article.html?issue=2026-05-03&article=2026-05-03-gims-launches-advanced-paediatric-orthopaedic-surgery-facilities"
       },
@@ -601,7 +567,7 @@
         "category": "Deal",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/05/image-1600x900-2026-05-08T085825.548.png",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/05/08/lifepharma-launches-us27-2m-uae-cell-and-gene-therapy-spin-off-amid-major-kezad-expansion-deal/",
         "articlePath": "/article.html?issue=2026-05-03&article=2026-05-03-lifepharma-launches-us27-2m-uae-cell-and-gene-therapy-spin-off-amid-majo"
       },
@@ -754,7 +720,7 @@
         "category": "Industry Update",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/05/image-1600x900-2026-05-08T094409.910.png",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/05/08/oman-investment-authority-invests-in-neuralink-as-brain-computer-interface-trials-progress/",
         "articlePath": "/article.html?issue=2026-05-03&article=2026-05-03-oman-investment-authority-invests-in-neuralink-as-brain-computer-interfa"
       },
@@ -771,7 +737,7 @@
         "category": "Industry Update",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/05/image-1600x900-2026-05-08T091958.621.png",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/05/08/abu-dhabi-biobank-collaborates-with-human-life-cord-to-advance-stem-cell-therapies-in-uae/",
         "articlePath": "/article.html?issue=2026-05-03&article=2026-05-03-abu-dhabi-biobank-collaborates-with-human-life-cord-to-advance-stem-cell"
       },
@@ -805,7 +771,7 @@
         "category": "Industry Update",
         "image": "https://medicaldialogues.in/h-upload/2022/11/05/190054-moderna-new.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/modernas-mrna-flu-vaccine-outperforms-conventional-flu-shots-in-late-stage-trial-170244",
         "articlePath": "/article.html?issue=2026-05-03&article=2026-05-03-moderna-s-mrna-flu-vaccine-outperforms-conventional-flu-shots-in-late-st"
       },
@@ -861,21 +827,55 @@
         "articlePath": "/article.html?issue=2026-05-03&article=2026-05-03-saveetha-college-of-pharmacy-collaboration-with-ipga-organized-a-webinar"
       },
       {
-        "id": "2026-05-03-moiat-expands-future-industries-lab-with-new-pepsico-partnership-support",
-        "title": "MoIAT expands Future Industries Lab with new PepsiCo partnership supporting SMEs and young Emiratis",
-        "summary": "The collaboration supports MoIAT’s efforts to strengthen industrial capabilities, empower SMEs, and prepare the next generation of Emirati talent",
-        "source": "Zawya Pharmaceuticals",
-        "sourceHost": "zawya.com",
-        "region": "Middle East",
-        "country": "United Arab Emirates",
-        "publishedAt": "2026-05-08T11:36:07.000Z",
+        "id": "2026-05-03-buy-capital-goods-on-dips-stay-cautious-on-it-and-consumption-sudip-band",
+        "title": "Buy capital goods on dips, stay cautious on IT and consumption: Sudip Bandyopadhyay",
+        "summary": "Market expert Sudip Bandyopadhyay outlines investment strategies across key sectors. He sees opportunities in State Bank of India and a generational re-rating for the pharma sector. Capital goods also present long-term buying windows. Consumption requires...",
+        "source": "Lupin Updates",
+        "sourceHost": "economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-05-09T05:45:00.000Z",
+        "publishedLabel": "May 9, 2026",
+        "category": "Market",
+        "image": "https://img.etimg.com/thumb/msid-130971601,width-1200,height-630,imgsize-21606,overlay-etmarkets/articleshow.jpg",
+        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
+        "justIn": true,
+        "originalUrl": "https://economictimes.indiatimes.com/markets/expert-view/buy-capital-goods-on-dips-stay-cautious-on-it-and-consumption-sudip-bandyopadhyay/articleshow/130971600.cms",
+        "articlePath": "/article.html?issue=2026-05-03&article=2026-05-03-buy-capital-goods-on-dips-stay-cautious-on-it-and-consumption-sudip-band"
+      },
+      {
+        "id": "2026-05-03-amazon-pharmacy-to-stock-novo-nordisk-s-ozempic-pill-offer-same-day-deli",
+        "title": "Amazon Pharmacy to Stock Novo Nordisk's Ozempic Pill, Offer Same-Day Delivery Across US",
+        "summary": "New Delhi: Amazon said ​on Thursday its pharmacy will stock Novo Nordisk's Ozempic pill to treat type 2 diabetes at its kiosks and offer same-day delivery of the drug Novo's Ozempic uses the ⁠active...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-05-08T10:56:47.000Z",
         "publishedLabel": "May 8, 2026",
-        "category": "Partnership",
-        "image": "https://static.zawya.com/view/acePublic/alias/contentid/799c51fd-10e9-42e7-a883-bb22f2eb1e09/0/8123e8f3-1e2c-4694-bce5-fc2b442f6e2c-jpg.jpeg?f=3%3A2",
+        "category": "Industry Update",
+        "image": "https://medicaldialogues.in/h-upload/2025/10/10/304034-education-2025-10-10t140057264.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
         "justIn": true,
-        "originalUrl": "https://www.zawya.com/en/press-release/companies-news/moiat-expands-future-industries-lab-with-new-pepsico-partnership-supporting-smes-and-young-emiratis-c598zmby",
-        "articlePath": "/article.html?issue=2026-05-03&article=2026-05-03-moiat-expands-future-industries-lab-with-new-pepsico-partnership-support"
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/amazon-pharmacy-to-stock-novo-nordisks-ozempic-pill-offer-same-day-delivery-across-us-170243",
+        "articlePath": "/article.html?issue=2026-05-03&article=2026-05-03-amazon-pharmacy-to-stock-novo-nordisk-s-ozempic-pill-offer-same-day-deli"
+      },
+      {
+        "id": "2026-05-03-moderna-publishes-phase-3-data-for-experimental-flu-vaccine-mrna-1010",
+        "title": "Moderna Publishes Phase 3 Data for Experimental Flu Vaccine mRNA-1010",
+        "summary": "Moderna, Inc. announced a publication in the New England Journal of Medicine of the positive Phase 3 study results evaluating mRNA-1010, its vaccine candidate for seasonal influenza. The peer-reviewed article summarizes the safety and efficacy data from...",
+        "source": "PharmaTutor News",
+        "sourceHost": "pharmatutor.org",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-05-07T11:45:10.000Z",
+        "publishedLabel": "May 7, 2026",
+        "category": "Industry Update",
+        "image": "https://www.pharmatutor.org/sites/default/files/styles/webp/public/2026-05/moderna-publishes-phase-3-data-for-experimental-flu-vaccine-mrna-1010.jpg.webp?itok=Ehd8_xfV",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/moderna-publishes-phase-3-data-for-experimental-flu-vaccine-mrna-1010",
+        "articlePath": "/article.html?issue=2026-05-03&article=2026-05-03-moderna-publishes-phase-3-data-for-experimental-flu-vaccine-mrna-1010"
       }
     ],
     "providers": [
@@ -967,6 +967,23 @@
         "articlePath": "/article.html?issue=2026-05-03&article=2026-05-03-guardant-health-to-launch-blood-based-cancer-test-in-india-with-zydus-li"
       },
       {
+        "id": "2026-05-03-study-describes-blood-test-that-might-reveal-one-s-illness-trajectory-re",
+        "title": "Study describes blood test that might reveal one's illness trajectory, response to treatment",
+        "summary": "The testing method, called 'VeloCD', could predict whether children with acute fever were likely to recover or deteriorate, and whether healthy adults were likely to go on to develop flu or COVID-19 after exposure to the viruses, among other disease...",
+        "source": "ET Healthworld Diagnostics",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-05-08T02:11:50.000Z",
+        "publishedLabel": "May 8, 2026",
+        "category": "Industry Update",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-130940623,imgsize-96174,width-1200,height=627,overlay-ethealth,resizemode-75/diagnostics/study-describes-blood-test-that-might-reveal-ones-illness-trajectory-response-to-treatment.jpg",
+        "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
+        "justIn": true,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/diagnostics/study-describes-blood-test-that-might-reveal-ones-illness-trajectory-response-to-treatment/130940623",
+        "articlePath": "/article.html?issue=2026-05-03&article=2026-05-03-study-describes-blood-test-that-might-reveal-one-s-illness-trajectory-re"
+      },
+      {
         "id": "2026-05-03-thyrocare-launches-new-genomics-lab-in-navi-mumbai",
         "title": "Thyrocare launches new genomics lab in Navi Mumbai",
         "summary": "Thyrocare Technologies has announced the launch of its new genomics laboratory in Navi Mumbai. With this launch, Thyrocare is expanding its portfolio with a new range of speciality tests in […]",
@@ -996,7 +1013,7 @@
         "category": "Industry Update",
         "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/05/08172241/New-Project-1-2.jpg",
         "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/news/nhm-mp-sanofi-sign-mou-to-strengthen-public-health-services-in-madhya-pradesh/453600/",
         "articlePath": "/article.html?issue=2026-05-03&article=2026-05-03-nhm-mp-sanofi-sign-mou-to-strengthen-public-health-services-in-madhya-pr"
       },
@@ -1013,7 +1030,7 @@
         "category": "Cancer Testing",
         "image": "https://medicaldialogues.in/h-upload/2026/03/24/334861-arrest-2.jpg",
         "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/delhi-police-busts-rs-10-crore-syndicate-supplying-fake-cancer-liver-disease-drugs-4-held-170252",
         "articlePath": "/article.html?issue=2026-05-03&article=2026-05-03-delhi-police-busts-rs-10-crore-syndicate-supplying-fake-cancer-liver-dis"
       },
@@ -1030,7 +1047,7 @@
         "category": "Industry Update",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/05/image-1600x900-2026-05-08T093559.788.png",
         "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/05/08/omans-khoula-hospital-launches-advanced-same-day-cochlear-implant-surgeries-to-expand-hearing-care/",
         "articlePath": "/article.html?issue=2026-05-03&article=2026-05-03-oman-s-khoula-hospital-launches-advanced-same-day-cochlear-implant-surge"
       }
@@ -1120,6 +1137,14 @@
     },
     {
       "segment": "diagnostics",
+      "articleId": "2026-05-03-study-describes-blood-test-that-might-reveal-one-s-illness-trajectory-re",
+      "title": "Study describes blood test that might reveal one's illness trajectory, response to treatment",
+      "source": "ET Healthworld Diagnostics",
+      "solution": "THB Diagnostics CRM",
+      "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
+    },
+    {
+      "segment": "diagnostics",
       "articleId": "2026-05-03-thyrocare-launches-new-genomics-lab-in-navi-mumbai",
       "title": "Thyrocare launches new genomics lab in Navi Mumbai",
       "source": "Express Healthcare Posts",
@@ -1139,14 +1164,6 @@
       "articleId": "2026-05-03-delhi-police-busts-rs-10-crore-syndicate-supplying-fake-cancer-liver-dis",
       "title": "Delhi Police Busts Rs 10 Crore Syndicate Supplying Fake Cancer, Liver Disease Drugs, 4 Held",
       "source": "Medical Dialogues Pharma",
-      "solution": "THB Diagnostics CRM",
-      "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
-    },
-    {
-      "segment": "diagnostics",
-      "articleId": "2026-05-03-oman-s-khoula-hospital-launches-advanced-same-day-cochlear-implant-surge",
-      "title": "Oman’s Khoula Hospital launches advanced same-day cochlear implant surgeries to expand hearing care",
-      "source": "Healthcare MEA",
       "solution": "THB Diagnostics CRM",
       "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
     }
