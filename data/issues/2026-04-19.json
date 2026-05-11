@@ -5,14 +5,15 @@
   "startDate": "2026-04-18T18:30:00.000Z",
   "endDate": "2026-04-24T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-05-11T08:00:28.929Z",
+  "updatedAt": "2026-05-11T16:16:14.381Z",
   "coverage": {
     "pharma": 1,
-    "providers": 4,
+    "providers": 5,
     "diagnostics": 2,
     "healthtech": 0
   },
   "sourcesUsed": [
+    "Arabian Business Healthcare",
     "BioSpectrum India Healthcare",
     "ET Healthworld",
     "ET Healthworld Diagnostics",
@@ -106,6 +107,23 @@
         "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/maharashtra-govt-waives-development-charges-premiums-for-tata-memorial-hospital/130435807",
         "articlePath": "/article.html?issue=2026-04-19&article=2026-04-19-maharashtra-govt-waives-development-charges-premiums-for-tata-memorial-h"
+      },
+      {
+        "id": "2026-04-19-oman-boosts-healthcare-with-ai-diagnostics-new-hospitals-and-genome-prog",
+        "title": "Oman boosts healthcare with AI diagnostics, new hospitals and genome programme under Vision 2040 - Arabian",
+        "summary": "Oman advances healthcare with AI diagnostics, new hospitals and genome programme under Vision 2040",
+        "source": "Arabian Business Healthcare",
+        "sourceHost": "arabianbusiness.com",
+        "region": "Middle East",
+        "country": "United Arab Emirates",
+        "publishedAt": "2026-04-19T16:42:08.000Z",
+        "publishedLabel": "April 19, 2026",
+        "category": "Hospital",
+        "image": "https://www.arabianbusiness.com/wp-content/uploads/2026/04/Oman-healthcare.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": false,
+        "originalUrl": "https://www.arabianbusiness.com/business/healthcare/oman-boosts-healthcare-with-ai-diagnostics-new-hospitals-and-genome-programme-under-vision-2040",
+        "articlePath": "/article.html?issue=2026-04-19&article=2026-04-19-oman-boosts-healthcare-with-ai-diagnostics-new-hospitals-and-genome-prog"
       }
     ],
     "diagnostics": [
@@ -184,6 +202,14 @@
       "articleId": "2026-04-19-maharashtra-govt-waives-development-charges-premiums-for-tata-memorial-h",
       "title": "Maharashtra govt waives development charges, premiums for Tata Memorial Hospital",
       "source": "ET Healthworld Hospitals",
+      "solution": "THB Provider CRM",
+      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
+    },
+    {
+      "segment": "providers",
+      "articleId": "2026-04-19-oman-boosts-healthcare-with-ai-diagnostics-new-hospitals-and-genome-prog",
+      "title": "Oman boosts healthcare with AI diagnostics, new hospitals and genome programme under Vision 2040 - Arabian",
+      "source": "Arabian Business Healthcare",
       "solution": "THB Provider CRM",
       "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
     },

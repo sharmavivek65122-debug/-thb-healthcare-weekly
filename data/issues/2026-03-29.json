@@ -5,9 +5,9 @@
   "startDate": "2026-03-28T18:30:00.000Z",
   "endDate": "2026-04-03T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-05-11T08:00:28.929Z",
+  "updatedAt": "2026-05-11T16:16:14.381Z",
   "coverage": {
-    "pharma": 2,
+    "pharma": 3,
     "providers": 5,
     "diagnostics": 1,
     "healthtech": 0
@@ -20,6 +20,23 @@
   ],
   "segments": {
     "pharma": [
+      {
+        "id": "2026-03-29-industry-body-seeks-govt-aid-to-tide-over-disruptions-in-the-pharma-and-",
+        "title": "Industry body seeks govt aid to tide over disruptions in the pharma and MedTech sectors",
+        "summary": "The Confederation of Indian Industry (CII) has petitioned the Department of Pharmaceuticals for freight subsidies and drug pricing relaxations as West Asia tensions double shipping costs and spike API prices by 30%.",
+        "source": "Financial Express Healthcare",
+        "sourceHost": "financialexpress.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-04-01T15:42:48.000Z",
+        "publishedLabel": "April 1, 2026",
+        "category": "Industry Update",
+        "image": "https://images.financialexpressdigital.com/2026/04/pharma-sector_20251005123023_20251010183352_20251207114147_20251218184036_20251230153534_20260219145300_20260305163255_20260321135755_20260401153918.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": false,
+        "originalUrl": "https://www.financialexpress.com/business/healthcare/industry-body-seeks-govt-aid-to-tide-over-disruptions-in-the-pharma-and-medtech-sectors/4192156/",
+        "articlePath": "/article.html?issue=2026-03-29&article=2026-03-29-industry-body-seeks-govt-aid-to-tide-over-disruptions-in-the-pharma-and-"
+      },
       {
         "id": "2026-03-29-emcure-cuts-glp-drug-poviztra-price-by-55",
         "title": "Emcure cuts GLP drug Poviztra price by 55%",
@@ -164,6 +181,14 @@
     "healthtech": []
   },
   "thbActions": [
+    {
+      "segment": "pharma",
+      "articleId": "2026-03-29-industry-body-seeks-govt-aid-to-tide-over-disruptions-in-the-pharma-and-",
+      "title": "Industry body seeks govt aid to tide over disruptions in the pharma and MedTech sectors",
+      "source": "Financial Express Healthcare",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
     {
       "segment": "pharma",
       "articleId": "2026-03-29-emcure-cuts-glp-drug-poviztra-price-by-55",

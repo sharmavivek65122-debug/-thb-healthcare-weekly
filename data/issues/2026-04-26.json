@@ -5,14 +5,17 @@
   "startDate": "2026-04-25T18:30:00.000Z",
   "endDate": "2026-05-01T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-05-11T08:00:28.929Z",
+  "updatedAt": "2026-05-11T16:16:14.381Z",
   "coverage": {
-    "pharma": 6,
-    "providers": 9,
+    "pharma": 7,
+    "providers": 13,
     "diagnostics": 2,
     "healthtech": 0
   },
   "sourcesUsed": [
+    "Arabian Business Healthcare",
+    "BioSpectrum Asia Middle East",
+    "ET Healthworld",
     "ET Healthworld Hospitals",
     "Economic Times Pharma",
     "Financial Express Healthcare",
@@ -21,23 +24,6 @@
   ],
   "segments": {
     "pharma": [
-      {
-        "id": "2026-04-26-aurobindo-pharma-arm-curateq-gets-health-canada-nod-for-biosimilar",
-        "title": "Aurobindo Pharma arm CuraTeQ gets Health Canada nod for biosimilar",
-        "summary": "Aurobindo Pharma announced a significant development today. Its subsidiary, CuraTeQ Biologics, has received a compliance notice from Health Canada for its cancer drug Bevqolva. This approval marks a crucial step for the bevacizumab biosimilar. Bevqolva is...",
-        "source": "Economic Times Pharma",
-        "sourceHost": "economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-05-01T09:23:52.000Z",
-        "publishedLabel": "May 1, 2026",
-        "category": "Approval",
-        "image": "https://img.etimg.com/thumb/msid-130674432,width-1200,height-630,imgsize-67656,overlay-economictimes/articleshow.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/aurobindo-pharma-arm-curateq-gets-health-canada-nod-for-biosimilar/articleshow/130674395.cms",
-        "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-aurobindo-pharma-arm-curateq-gets-health-canada-nod-for-biosimilar"
-      },
       {
         "id": "2026-04-26-india-supplies-20-of-global-generic-medicines-its-ip-rules-wto-compliant",
         "title": "India supplies 20% of global generic medicines; its IP rules WTO-compliant: GTRI",
@@ -54,6 +40,23 @@
         "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/india-supplies-20-of-global-generic-medicines-its-ip-rules-wto-compliant-gtri/articleshow/130676557.cms",
         "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-india-supplies-20-of-global-generic-medicines-its-ip-rules-wto-compliant"
+      },
+      {
+        "id": "2026-04-26-nmc-grants-recognition-to-pgdcc-cardiology-diploma-after-two-decade-wait",
+        "title": "NMC grants recognition to PGDCC cardiology diploma after two decade wait",
+        "summary": "NMC has recognised the Post Graduate Diploma in Clinical Cardiology (PGDCC) offered through Indira Gandhi National Open University, ending a 20-year regulatory and legal battle. Experts say the move could help address India’s shortage of cardiology...",
+        "source": "ET Healthworld",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-04-29T13:24:08.000Z",
+        "publishedLabel": "April 29, 2026",
+        "category": "Industry Update",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-130608779,imgsize-200782,width-1200,height=627,overlay-ethealth,resizemode-75/policy/nmc-grants-recognition-to-pgdcc-cardiology-diploma-after-two-decade-wait.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": false,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/policy/nmc-grants-recognition-to-pgdcc-cardiology-diploma-after-two-decade-wait/130608779",
+        "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-nmc-grants-recognition-to-pgdcc-cardiology-diploma-after-two-decade-wait"
       },
       {
         "id": "2026-04-26-dr-reddy-s-gets-nod-for-generic-semaglutide-in-canada",
@@ -88,6 +91,23 @@
         "justIn": false,
         "originalUrl": "https://www.jnj.com/media-center/press-releases/fda-grants-priority-review-for-imaavy-nipocalimab-aahu-as-the-potential-first-approved-treatment-for-people-living-with-warm-autoimmune-hemolytic-anemia-waiha",
         "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-fda-grants-priority-review-for-imaavy-nipocalimab-aahu-as-the-potential-"
+      },
+      {
+        "id": "2026-04-26-south-korea-s-cell-and-gene-therapy-surge",
+        "title": "South Korea’s Cell and Gene Therapy Surge",
+        "summary": "South Korea’s Cell and Gene Therapy Surge",
+        "source": "BioSpectrum Asia Middle East",
+        "sourceHost": "biospectrumasia.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-04-30T18:30:00.000Z",
+        "publishedLabel": "May 1, 2026",
+        "category": "Industry Update",
+        "image": "https://www.biospectrumasia.com/uploads/articles/ruplekha_pic300dpi_1_-27571.png",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": false,
+        "originalUrl": "https://www.biospectrumasia.com/opinion/29/27571/south-koreas-cell-and-gene-therapy-surge.html",
+        "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-south-korea-s-cell-and-gene-therapy-surge"
       },
       {
         "id": "2026-04-26-fda-approves-caplyta-lumateperone-snda-with-robust-new-data-supporting-r",
@@ -277,6 +297,74 @@
         "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/ihh-healthcare-seeks-its-investor-mitsuis-help-to-set-up-talks-with-daiichi-in-a-11800-crore-dispute/130566819",
         "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-ihh-healthcare-seeks-its-investor-mitsui-s-help-to-set-up-talks-with-dai"
+      },
+      {
+        "id": "2026-04-26-novo-nordisk-trial-shows-promise-for-teen-diabetes-treatment",
+        "title": "Novo Nordisk trial shows promise for teen diabetes treatment",
+        "summary": "Novo Nordisk has reported positive results from a clinical trial evaluating its oral semaglutide treatment in children with type 2 diabetes.",
+        "source": "Arabian Business Healthcare",
+        "sourceHost": "arabianbusiness.com",
+        "region": "Middle East",
+        "country": "United Arab Emirates",
+        "publishedAt": "2026-04-30T08:05:57.000Z",
+        "publishedLabel": "April 30, 2026",
+        "category": "Provider Update",
+        "image": "https://www.arabianbusiness.com/cloud/2026/04/30/Diseno-sin-titulo.png",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": false,
+        "originalUrl": "https://www.arabianbusiness.com/business/healthcare/novo-nordisk-trial-shows-promise-for-teen-diabetes-treatment",
+        "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-novo-nordisk-trial-shows-promise-for-teen-diabetes-treatment"
+      },
+      {
+        "id": "2026-04-26-exclusive-uae-clinic-says-thousands-join-waitlist-for-eli-lilly-s-weight",
+        "title": "EXCLUSIVE: UAE clinic says thousands join waitlist for Eli Lilly’s weight-loss pill after early approval -",
+        "summary": "Ali Hashemi, Co-Founder of Metabolic, said demand reflects both patient interest in needle-free treatment options and the scale of obesity-related disease across the region",
+        "source": "Arabian Business Healthcare",
+        "sourceHost": "arabianbusiness.com",
+        "region": "Middle East",
+        "country": "United Arab Emirates",
+        "publishedAt": "2026-04-27T10:12:42.000Z",
+        "publishedLabel": "April 27, 2026",
+        "category": "Patient Care",
+        "image": "https://www.arabianbusiness.com/wp-content/uploads/2026/04/UAE-pills.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": false,
+        "originalUrl": "https://www.arabianbusiness.com/business/healthcare/exclusive-uae-clinic-says-thousands-join-waitlist-for-eli-lillys-weight-loss-pill-after-early-approval",
+        "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-exclusive-uae-clinic-says-thousands-join-waitlist-for-eli-lilly-s-weight"
+      },
+      {
+        "id": "2026-04-26-uae-approves-first-nasal-adrenaline-spray-for-severe-allergies-in-region",
+        "title": "UAE approves first nasal adrenaline spray for severe allergies in regional first - Arabian Business: Latest",
+        "summary": "UAE approves EURneffy, the region’s first nasal adrenaline spray for severe allergies, boosting emergency care response and patient safety",
+        "source": "Arabian Business Healthcare",
+        "sourceHost": "arabianbusiness.com",
+        "region": "Middle East",
+        "country": "United Arab Emirates",
+        "publishedAt": "2026-04-29T23:34:55.000Z",
+        "publishedLabel": "April 30, 2026",
+        "category": "Patient Care",
+        "image": "https://www.arabianbusiness.com/cloud/2026/04/29/EURneffy-UAE.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": false,
+        "originalUrl": "https://www.arabianbusiness.com/business/healthcare/uae-approves-first-nasal-adrenaline-spray-for-severe-allergies-in-regional-first",
+        "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-uae-approves-first-nasal-adrenaline-spray-for-severe-allergies-in-region"
+      },
+      {
+        "id": "2026-04-26-uae-healthcare-sector-reassures-investors-as-private-leaders-back-system",
+        "title": "UAE healthcare sector reassures investors as private leaders back system resilience and growth - Arabian",
+        "summary": "UAE private healthcare leaders back system resilience, supply stability and growth as Minister meets sector to strengthen confidence and investment outlook",
+        "source": "Arabian Business Healthcare",
+        "sourceHost": "arabianbusiness.com",
+        "region": "Middle East",
+        "country": "United Arab Emirates",
+        "publishedAt": "2026-04-29T22:54:27.000Z",
+        "publishedLabel": "April 30, 2026",
+        "category": "Provider Update",
+        "image": "https://www.arabianbusiness.com/cloud/2026/04/29/Al-UAE-Healthcare-1-1000x667-1.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": false,
+        "originalUrl": "https://www.arabianbusiness.com/business/healthcare/uae-healthcare-sector-reassures-investors-as-private-leaders-back-system-resilience-and-growth",
+        "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-uae-healthcare-sector-reassures-investors-as-private-leaders-back-system"
       }
     ],
     "diagnostics": [
@@ -320,17 +408,17 @@
   "thbActions": [
     {
       "segment": "pharma",
-      "articleId": "2026-04-26-aurobindo-pharma-arm-curateq-gets-health-canada-nod-for-biosimilar",
-      "title": "Aurobindo Pharma arm CuraTeQ gets Health Canada nod for biosimilar",
+      "articleId": "2026-04-26-india-supplies-20-of-global-generic-medicines-its-ip-rules-wto-compliant",
+      "title": "India supplies 20% of global generic medicines; its IP rules WTO-compliant: GTRI",
       "source": "Economic Times Pharma",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
     },
     {
       "segment": "pharma",
-      "articleId": "2026-04-26-india-supplies-20-of-global-generic-medicines-its-ip-rules-wto-compliant",
-      "title": "India supplies 20% of global generic medicines; its IP rules WTO-compliant: GTRI",
-      "source": "Economic Times Pharma",
+      "articleId": "2026-04-26-nmc-grants-recognition-to-pgdcc-cardiology-diploma-after-two-decade-wait",
+      "title": "NMC grants recognition to PGDCC cardiology diploma after two decade wait",
+      "source": "ET Healthworld",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
     },
@@ -352,9 +440,9 @@
     },
     {
       "segment": "pharma",
-      "articleId": "2026-04-26-fda-approves-caplyta-lumateperone-snda-with-robust-new-data-supporting-r",
-      "title": "FDA approves CAPLYTA® (lumateperone) sNDA with robust new data supporting reduced risk of relapse in schizophrenia",
-      "source": "Janssen India Media",
+      "articleId": "2026-04-26-south-korea-s-cell-and-gene-therapy-surge",
+      "title": "South Korea’s Cell and Gene Therapy Surge",
+      "source": "BioSpectrum Asia Middle East",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
     },
