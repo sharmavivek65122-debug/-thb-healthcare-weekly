@@ -5,20 +5,20 @@
   "startDate": "2026-05-09T18:30:00.000Z",
   "endDate": "2026-05-15T18:30:00.000Z",
   "status": "live",
-  "updatedAt": "2026-05-10T14:36:53.435Z",
+  "updatedAt": "2026-05-11T08:00:28.929Z",
   "coverage": {
     "pharma": 13,
-    "providers": 3,
-    "diagnostics": 0,
+    "providers": 0,
+    "diagnostics": 1,
     "healthtech": 0
   },
   "sourcesUsed": [
     "ET Healthworld",
     "Economic Times Pharma",
     "Express Healthcare",
+    "Financial Express Healthcare",
     "Healthcare MEA",
-    "Medical Dialogues Pharma",
-    "Zawya Pharmaceuticals"
+    "Medical Dialogues Pharma"
   ],
   "segments": {
     "pharma": [
@@ -38,6 +38,40 @@
         "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/drugmakers-must-report-safety-data-from-launch-date-not-approval-date-cdsco/articleshow/130986692.cms",
         "articlePath": "/article.html?issue=2026-05-10&article=2026-05-10-drugmakers-must-report-safety-data-from-launch-date-not-approval-date-cd"
+      },
+      {
+        "id": "2026-05-10-aiims-launches-low-cost-advanced-test-to-make-epilepsy-treatment-safer",
+        "title": "AIIMS Launches Low-Cost Advanced Test to Make Epilepsy Treatment Safer",
+        "summary": "The new facility at AIIMS' Neurosciences Centre will monitor the levels of two commonly used anti-epilepsy medicines — levetiracetam and lamotrigine — in a patient's blood. Doctors say this is important because the same dose may affect patients differently,...",
+        "source": "ET Healthworld",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-05-11T01:40:28.000Z",
+        "publishedLabel": "May 11, 2026",
+        "category": "Launch",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-131001233,imgsize-300424,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/aiims-launches-low-cost-advanced-test-to-make-epilepsy-treatment-safer.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/aiims-launches-low-cost-advanced-test-to-make-epilepsy-treatment-safer/131001233",
+        "articlePath": "/article.html?issue=2026-05-10&article=2026-05-10-aiims-launches-low-cost-advanced-test-to-make-epilepsy-treatment-safer"
+      },
+      {
+        "id": "2026-05-10-biocon-arm-gets-health-canada-nod-for-fungal-infection-treatment-injecti",
+        "title": "Biocon arm gets Health Canada nod for fungal infection treatment injection",
+        "summary": "Biocon Pharma Ltd has secured Health Canada approval for its micafungin for injection. This medication targets serious fungal infections in adults and children. It will be used for conditions like candidemia and esophageal candidiasis. The approval also...",
+        "source": "Economic Times Pharma",
+        "sourceHost": "economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-05-11T05:33:21.000Z",
+        "publishedLabel": "May 11, 2026",
+        "category": "Approval",
+        "image": "https://img.etimg.com/thumb/msid-131004934,width-1200,height-630,imgsize-39588,overlay-economictimes/articleshow.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/biocon-arm-gets-health-canada-nod-for-fungal-infection-treatment-injection/articleshow/131004882.cms",
+        "articlePath": "/article.html?issue=2026-05-10&article=2026-05-10-biocon-arm-gets-health-canada-nod-for-fungal-infection-treatment-injecti"
       },
       {
         "id": "2026-05-10-why-consistency-is-key-in-cholesterol-management-a-doctor-s-take",
@@ -137,7 +171,7 @@
         "category": "Manufacturing",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/05/image-1600x900-43.png",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/05/10/gsk-bets-us1b-on-siranbios-alk7-sirna-to-disrupt-the-obesity-market/",
         "articlePath": "/article.html?issue=2026-05-10&article=2026-05-10-gsk-bets-us-1b-on-siranbio-s-alk7-sirna-to-disrupt-the-obesity-market-he"
       },
@@ -154,7 +188,7 @@
         "category": "Industry Update",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/05/image-1600x900-44.png",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/05/10/m42-collaborates-with-mubadala-bio-to-strengthen-uae-healthcare-logistics-through-strategic-supply/",
         "articlePath": "/article.html?issue=2026-05-10&article=2026-05-10-m42-collaborates-with-mubadala-bio-to-strengthen-uae-healthcare-logistic"
       },
@@ -193,23 +227,6 @@
         "articlePath": "/article.html?issue=2026-05-10&article=2026-05-10-gsk-moves-closer-to-india-launch-of-rsv-vaccine"
       },
       {
-        "id": "2026-05-10-tanmiah-delivers-8-0-revenue-growth-in-q1-2026",
-        "title": "Tanmiah delivers 8.0% revenue growth in Q1 2026",
-        "summary": "Demonstrating strong operational and commercial execution, and long‑term capital allocation discipline",
-        "source": "Zawya Pharmaceuticals",
-        "sourceHost": "zawya.com",
-        "region": "Middle East",
-        "country": "United Arab Emirates",
-        "publishedAt": "2026-05-10T12:23:21.000Z",
-        "publishedLabel": "May 10, 2026",
-        "category": "Industry Update",
-        "image": "https://static.zawya.com/view/acePublic/alias/contentid/32d25f32-8597-4d31-868a-d01459581c95/1/untitled-1-jpg.jpeg?f=3%3A2",
-        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
-        "originalUrl": "https://www.zawya.com/en/press-release/companies-news/tanmiah-delivers-80-revenue-growth-in-q1-2026-ul5t9z7z",
-        "articlePath": "/article.html?issue=2026-05-10&article=2026-05-10-tanmiah-delivers-8-0-revenue-growth-in-q1-2026"
-      },
-      {
         "id": "2026-05-10-aurobindo-arm-curateq-clears-key-cdsco-hurdle-for-bevacizumab-cancer-bio",
         "title": "Aurobindo Arm CuraTeQ Clears Key CDSCO Hurdle for Bevacizumab Cancer Biosimilar",
         "summary": "New Delhi: CuraTeQ Biologics Private Limited has received recommendation from the Subject Expert Committee (SEC), CDSCO, for grant of permission to manufacture and market Bevacizumab concentrate for...",
@@ -225,79 +242,28 @@
         "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/cdsco/aurobindo-arm-curateq-clears-key-cdsco-hurdle-for-bevacizumab-cancer-biosimilar-170320",
         "articlePath": "/article.html?issue=2026-05-10&article=2026-05-10-aurobindo-arm-curateq-clears-key-cdsco-hurdle-for-bevacizumab-cancer-bio"
-      },
+      }
+    ],
+    "providers": [],
+    "diagnostics": [
       {
-        "id": "2026-05-10-rcsi-medical-university-of-bahrain-s-undergraduate-medical-programme-rec",
-        "title": "RCSI Medical University of Bahrain’s Undergraduate Medical Programme receives further 5-year accreditation",
-        "summary": "By Irish Medical Council",
-        "source": "Zawya Pharmaceuticals",
-        "sourceHost": "zawya.com",
-        "region": "Middle East",
-        "country": "Bahrain",
-        "publishedAt": "2026-05-10T12:06:00.000Z",
-        "publishedLabel": "May 10, 2026",
+        "id": "2026-05-10-trucks-go-digital-first-as-software-reshapes-the-road-radhakrishnan-koda",
+        "title": "‘Trucks go digital-first as software reshapes the road’: Radhakrishnan Kodakkal, MD & CEO, Daimler Truck Innovation Centre India",
+        "summary": "Daimler Truck Innovation Centre India (DTICI) CEO Radhakrishnan Kodakkal discusses the company’s pivot from mechanical dominance to digital intelligence.",
+        "source": "Financial Express Healthcare",
+        "sourceHost": "financialexpress.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-05-10T19:16:04.000Z",
+        "publishedLabel": "May 11, 2026",
         "category": "Industry Update",
-        "image": "https://static.zawya.com/view/acePublic/alias/contentid/89db7b8b-52c6-49e3-929d-afffeed06a59/0/irishmedicalcouncilassessorteam-right-ledbygrahamknowles-centre-inrcsibahrainboardroomwithseniormanagement-left-jpg.jpeg?f=3%3A2",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
-        "originalUrl": "https://www.zawya.com/en/press-release/companies-news/rcsi-medical-university-of-bahrains-undergraduate-medical-programme-receives-further-5-year-accreditation-prki430j",
-        "articlePath": "/article.html?issue=2026-05-10&article=2026-05-10-rcsi-medical-university-of-bahrain-s-undergraduate-medical-programme-rec"
+        "image": "https://images.financialexpressdigital.com/2026/05/kodakkka.jpg",
+        "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
+        "justIn": false,
+        "originalUrl": "https://www.financialexpress.com/business/news/trucks-go-digital-first-as-software-reshapes-the-road-radhakrishnan-kodakkal-md-amp-ceo-daimler-truck-innovation-centre-india/4237210/",
+        "articlePath": "/article.html?issue=2026-05-10&article=2026-05-10-trucks-go-digital-first-as-software-reshapes-the-road-radhakrishnan-koda"
       }
     ],
-    "providers": [
-      {
-        "id": "2026-05-10-merak-capital-leads-1-65mln-investment-in-hakeem-health-alongside-sanabi",
-        "title": "Merak Capital leads $1.65mln investment in Hakeem Health, alongside Sanabil 500",
-        "summary": "A healthcare technology company developing an AI-powered medical assistant that delivers real-time, evidence-based clinical insights at the point of care in multiple languages",
-        "source": "Zawya Pharmaceuticals",
-        "sourceHost": "zawya.com",
-        "region": "Middle East",
-        "country": "United Arab Emirates",
-        "publishedAt": "2026-05-10T11:41:30.000Z",
-        "publishedLabel": "May 10, 2026",
-        "category": "AI Care Delivery",
-        "image": "https://static.zawya.com/view/acePublic/alias/contentid/970d6f1f-4f7b-4d23-aeaf-4260ea03ab53/0/hakeemlogo-jpeg.jpeg?f=3%3A2",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://www.zawya.com/en/press-release/companies-news/merak-capital-leads-165mln-investment-in-hakeem-health-alongside-sanabil-500-e6xvl1gh",
-        "articlePath": "/article.html?issue=2026-05-10&article=2026-05-10-merak-capital-leads-1-65mln-investment-in-hakeem-health-alongside-sanabi"
-      },
-      {
-        "id": "2026-05-10-modon-launches-tara-park-on-reem-island-as-abu-dhabi-s-off-plan-pipeline",
-        "title": "Modon launches Tara Park on Reem Island as Abu Dhabi's off-plan pipeline expands",
-        "summary": "The project comprises two towers offering 494 one, two and three-bedroom apartments directly opposite Reem Mall",
-        "source": "Zawya Pharmaceuticals",
-        "sourceHost": "zawya.com",
-        "region": "Middle East",
-        "country": "United Arab Emirates",
-        "publishedAt": "2026-05-10T11:53:47.000Z",
-        "publishedLabel": "May 10, 2026",
-        "category": "Provider Update",
-        "image": "https://static.zawya.com/view/acePublic/alias/contentid/fbae2786-6e71-426a-8705-6f375c903393/0/modon_tara_park-jpg.jpeg?f=3%3A2",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://www.zawya.com/en/press-release/companies-news/modon-launches-tara-park-on-reem-island-as-abu-dhabis-off-plan-pipeline-expands-jg0xq8o0",
-        "articlePath": "/article.html?issue=2026-05-10&article=2026-05-10-modon-launches-tara-park-on-reem-island-as-abu-dhabi-s-off-plan-pipeline"
-      },
-      {
-        "id": "2026-05-10-almarai-silver-sponsor-of-the-graduation-ceremony-of-more-than-16-000-ki",
-        "title": "Almarai, silver sponsor of the graduation ceremony of more than 16,000 King Saud University graduates",
-        "summary": "As part of its ongoing support for educational and national occasions",
-        "source": "Zawya Pharmaceuticals",
-        "sourceHost": "zawya.com",
-        "region": "Middle East",
-        "country": "Saudi Arabia",
-        "publishedAt": "2026-05-10T14:03:18.000Z",
-        "publishedLabel": "May 10, 2026",
-        "category": "AI Care Delivery",
-        "image": "https://static.zawya.com/view/acePublic/alias/contentid/93616001-523c-44fa-b59e-2dc47f79cd72/0/kingsaud-jpg.jpeg?f=3%3A2",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://www.zawya.com/en/press-release/companies-news/almarai-silver-sponsor-of-the-graduation-ceremony-of-more-than-16-000-king-saud-university-graduates-c11singf",
-        "articlePath": "/article.html?issue=2026-05-10&article=2026-05-10-almarai-silver-sponsor-of-the-graduation-ceremony-of-more-than-16-000-ki"
-      }
-    ],
-    "diagnostics": [],
     "healthtech": []
   },
   "thbActions": [
@@ -305,6 +271,22 @@
       "segment": "pharma",
       "articleId": "2026-05-10-drugmakers-must-report-safety-data-from-launch-date-not-approval-date-cd",
       "title": "Drugmakers must report safety data from launch date, not approval date: CDSCO",
+      "source": "Economic Times Pharma",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "pharma",
+      "articleId": "2026-05-10-aiims-launches-low-cost-advanced-test-to-make-epilepsy-treatment-safer",
+      "title": "AIIMS Launches Low-Cost Advanced Test to Make Epilepsy Treatment Safer",
+      "source": "ET Healthworld",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "pharma",
+      "articleId": "2026-05-10-biocon-arm-gets-health-canada-nod-for-fungal-infection-treatment-injecti",
+      "title": "Biocon arm gets Health Canada nod for fungal infection treatment injection",
       "source": "Economic Times Pharma",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
@@ -326,44 +308,12 @@
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
     },
     {
-      "segment": "pharma",
-      "articleId": "2026-05-10-maternal-and-child-healthcare-is-not-only-a-healthcare-priority-but-also",
-      "title": "Maternal and child healthcare is not only a healthcare priority, but also an investment in future human capital",
-      "source": "Express Healthcare",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
-      "segment": "pharma",
-      "articleId": "2026-05-10-govt-releases-updated-list-of-approved-covid-19-vaccines-in-india-for-20",
-      "title": "Govt Releases Updated List of Approved COVID-19 Vaccines in India for 2026",
-      "source": "Medical Dialogues Pharma",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
-      "segment": "providers",
-      "articleId": "2026-05-10-merak-capital-leads-1-65mln-investment-in-hakeem-health-alongside-sanabi",
-      "title": "Merak Capital leads $1.65mln investment in Hakeem Health, alongside Sanabil 500",
-      "source": "Zawya Pharmaceuticals",
-      "solution": "THB Provider CRM",
-      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
-    },
-    {
-      "segment": "providers",
-      "articleId": "2026-05-10-modon-launches-tara-park-on-reem-island-as-abu-dhabi-s-off-plan-pipeline",
-      "title": "Modon launches Tara Park on Reem Island as Abu Dhabi's off-plan pipeline expands",
-      "source": "Zawya Pharmaceuticals",
-      "solution": "THB Provider CRM",
-      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
-    },
-    {
-      "segment": "providers",
-      "articleId": "2026-05-10-almarai-silver-sponsor-of-the-graduation-ceremony-of-more-than-16-000-ki",
-      "title": "Almarai, silver sponsor of the graduation ceremony of more than 16,000 King Saud University graduates",
-      "source": "Zawya Pharmaceuticals",
-      "solution": "THB Provider CRM",
-      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
+      "segment": "diagnostics",
+      "articleId": "2026-05-10-trucks-go-digital-first-as-software-reshapes-the-road-radhakrishnan-koda",
+      "title": "‘Trucks go digital-first as software reshapes the road’: Radhakrishnan Kodakkal, MD & CEO, Daimler Truck Innovation Centre India",
+      "source": "Financial Express Healthcare",
+      "solution": "THB Diagnostics CRM",
+      "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
     }
   ]
 }

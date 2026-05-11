@@ -5,16 +5,14 @@
   "startDate": "2026-04-25T18:30:00.000Z",
   "endDate": "2026-05-01T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-05-10T14:36:53.435Z",
+  "updatedAt": "2026-05-11T08:00:28.929Z",
   "coverage": {
-    "pharma": 9,
+    "pharma": 6,
     "providers": 9,
     "diagnostics": 2,
     "healthtech": 0
   },
   "sourcesUsed": [
-    "BioSpectrum Asia Middle East",
-    "ET Healthworld",
     "ET Healthworld Hospitals",
     "Economic Times Pharma",
     "Financial Express Healthcare",
@@ -23,23 +21,6 @@
   ],
   "segments": {
     "pharma": [
-      {
-        "id": "2026-04-26-drugs-at-your-door-signs-of-a-disruption-taking-shape-in-india",
-        "title": "Drugs at your door: Signs of a disruption taking shape in India",
-        "summary": "India Pharmacy Retail Quick Commerce: India's medicine delivery is seeing a change. Quick-commerce apps are making it easier to buy medicines regularly. While total sales are not growing much, people are buying more wellness products. Acute care medicines are...",
-        "source": "Economic Times Pharma",
-        "sourceHost": "economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-05-01T04:05:03.000Z",
-        "publishedLabel": "May 1, 2026",
-        "category": "Industry Update",
-        "image": "https://img.etimg.com/thumb/msid-130669810,width-1200,height-630,imgsize-160892,overlay-economictimes/articleshow.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/pharma-quick-commerce-india-medicine-sales-trends-impact-drugs-doorstep-zepto-tata-1-mg-e-pharmacy/articleshow/130626560.cms",
-        "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-drugs-at-your-door-signs-of-a-disruption-taking-shape-in-india"
-      },
       {
         "id": "2026-04-26-aurobindo-pharma-arm-curateq-gets-health-canada-nod-for-biosimilar",
         "title": "Aurobindo Pharma arm CuraTeQ gets Health Canada nod for biosimilar",
@@ -75,23 +56,6 @@
         "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-india-supplies-20-of-global-generic-medicines-its-ip-rules-wto-compliant"
       },
       {
-        "id": "2026-04-26-nmc-grants-recognition-to-pgdcc-cardiology-diploma-after-two-decade-wait",
-        "title": "NMC grants recognition to PGDCC cardiology diploma after two decade wait",
-        "summary": "NMC has recognised the Post Graduate Diploma in Clinical Cardiology (PGDCC) offered through Indira Gandhi National Open University, ending a 20-year regulatory and legal battle. Experts say the move could help address India’s shortage of cardiology...",
-        "source": "ET Healthworld",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-04-29T13:24:08.000Z",
-        "publishedLabel": "April 29, 2026",
-        "category": "Industry Update",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-130608779,imgsize-200782,width-1200,height=627,overlay-ethealth,resizemode-75/policy/nmc-grants-recognition-to-pgdcc-cardiology-diploma-after-two-decade-wait.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/policy/nmc-grants-recognition-to-pgdcc-cardiology-diploma-after-two-decade-wait/130608779",
-        "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-nmc-grants-recognition-to-pgdcc-cardiology-diploma-after-two-decade-wait"
-      },
-      {
         "id": "2026-04-26-dr-reddy-s-gets-nod-for-generic-semaglutide-in-canada",
         "title": "Dr. Reddy’s gets nod for generic Semaglutide in Canada",
         "summary": "Dr. Reddy’s Laboratories (DRL) has secured Health Canada's first-ever generic Semaglutide approval, targeting the world's second-largest market for the diabetes drug.",
@@ -124,23 +88,6 @@
         "justIn": false,
         "originalUrl": "https://www.jnj.com/media-center/press-releases/fda-grants-priority-review-for-imaavy-nipocalimab-aahu-as-the-potential-first-approved-treatment-for-people-living-with-warm-autoimmune-hemolytic-anemia-waiha",
         "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-fda-grants-priority-review-for-imaavy-nipocalimab-aahu-as-the-potential-"
-      },
-      {
-        "id": "2026-04-26-south-korea-s-cell-and-gene-therapy-surge",
-        "title": "South Korea’s Cell and Gene Therapy Surge",
-        "summary": "South Korea’s Cell and Gene Therapy Surge",
-        "source": "BioSpectrum Asia Middle East",
-        "sourceHost": "biospectrumasia.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-04-30T18:30:00.000Z",
-        "publishedLabel": "May 1, 2026",
-        "category": "Industry Update",
-        "image": "https://www.biospectrumasia.com/uploads/articles/ruplekha_pic300dpi_1_-27571.png",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://www.biospectrumasia.com/opinion/29/27571/south-koreas-cell-and-gene-therapy-surge.html",
-        "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-south-korea-s-cell-and-gene-therapy-surge"
       },
       {
         "id": "2026-04-26-fda-approves-caplyta-lumateperone-snda-with-robust-new-data-supporting-r",
@@ -373,14 +320,6 @@
   "thbActions": [
     {
       "segment": "pharma",
-      "articleId": "2026-04-26-drugs-at-your-door-signs-of-a-disruption-taking-shape-in-india",
-      "title": "Drugs at your door: Signs of a disruption taking shape in India",
-      "source": "Economic Times Pharma",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
-      "segment": "pharma",
       "articleId": "2026-04-26-aurobindo-pharma-arm-curateq-gets-health-canada-nod-for-biosimilar",
       "title": "Aurobindo Pharma arm CuraTeQ gets Health Canada nod for biosimilar",
       "source": "Economic Times Pharma",
@@ -397,17 +336,25 @@
     },
     {
       "segment": "pharma",
-      "articleId": "2026-04-26-nmc-grants-recognition-to-pgdcc-cardiology-diploma-after-two-decade-wait",
-      "title": "NMC grants recognition to PGDCC cardiology diploma after two decade wait",
-      "source": "ET Healthworld",
+      "articleId": "2026-04-26-dr-reddy-s-gets-nod-for-generic-semaglutide-in-canada",
+      "title": "Dr. Reddy’s gets nod for generic Semaglutide in Canada",
+      "source": "Financial Express Healthcare",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
     },
     {
       "segment": "pharma",
-      "articleId": "2026-04-26-dr-reddy-s-gets-nod-for-generic-semaglutide-in-canada",
-      "title": "Dr. Reddy’s gets nod for generic Semaglutide in Canada",
-      "source": "Financial Express Healthcare",
+      "articleId": "2026-04-26-fda-grants-priority-review-for-imaavy-nipocalimab-aahu-as-the-potential-",
+      "title": "FDA grants Priority Review for IMAAVY® (nipocalimab-aahu) as the potential first approved treatment for people living with warm autoimmune hemolytic anemia (wAIHA)",
+      "source": "Janssen India Media",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "pharma",
+      "articleId": "2026-04-26-fda-approves-caplyta-lumateperone-snda-with-robust-new-data-supporting-r",
+      "title": "FDA approves CAPLYTA® (lumateperone) sNDA with robust new data supporting reduced risk of relapse in schizophrenia",
+      "source": "Janssen India Media",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
     },
