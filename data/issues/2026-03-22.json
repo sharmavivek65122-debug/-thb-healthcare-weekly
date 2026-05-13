@@ -5,10 +5,10 @@
   "startDate": "2026-03-21T18:30:00.000Z",
   "endDate": "2026-03-27T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-05-12T16:02:44.452Z",
+  "updatedAt": "2026-05-13T07:36:46.121Z",
   "coverage": {
     "pharma": 1,
-    "providers": 7,
+    "providers": 6,
     "diagnostics": 2,
     "healthtech": 0
   },
@@ -89,23 +89,6 @@
         "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/kims-hospitals-performs-nitrx-medial-pivot-knee-replacement/129747522",
         "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-kims-hospitals-performs-nitrx-medial-pivot-knee-replacement"
-      },
-      {
-        "id": "2026-03-22-360-one-to-finance-aims-founder-s-stake-buyback",
-        "title": "360 ONE to finance AIMS founder's stake buyback",
-        "summary": "The asset management firm is expected to lend about ₹600 crore to facilitate the repurchase of shares from British International Investment (BII) and OrbiMed, which hold the stakes in AIMS' parent entity, Blue Sapphire Healthcare. The deal with 360 ONE is...",
-        "source": "ET Healthworld Hospitals",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-03-23T06:11:09.000Z",
-        "publishedLabel": "March 23, 2026",
-        "category": "AI Care Delivery",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-129744378,imgsize-178368,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/360-one-to-finance-aims-founders-stake-buyback.jpg",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/360-one-to-finance-aims-founders-stake-buyback/129744378",
-        "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-360-one-to-finance-aims-founder-s-stake-buyback"
       },
       {
         "id": "2026-03-22-temasek-backed-hospital-chain-manipal-health-files-for-ipo",
@@ -232,17 +215,17 @@
     },
     {
       "segment": "providers",
-      "articleId": "2026-03-22-360-one-to-finance-aims-founder-s-stake-buyback",
-      "title": "360 ONE to finance AIMS founder's stake buyback",
+      "articleId": "2026-03-22-temasek-backed-hospital-chain-manipal-health-files-for-ipo",
+      "title": "Temasek-backed hospital chain Manipal Health files for IPO",
       "source": "ET Healthworld Hospitals",
       "solution": "THB Provider CRM",
       "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
     },
     {
       "segment": "providers",
-      "articleId": "2026-03-22-temasek-backed-hospital-chain-manipal-health-files-for-ipo",
-      "title": "Temasek-backed hospital chain Manipal Health files for IPO",
-      "source": "ET Healthworld Hospitals",
+      "articleId": "2026-03-22-curemeabroad-building-global-medical-tourism-platform",
+      "title": "CureMeAbroad building global medical tourism platform",
+      "source": "Financial Express Healthcare",
       "solution": "THB Provider CRM",
       "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
     },

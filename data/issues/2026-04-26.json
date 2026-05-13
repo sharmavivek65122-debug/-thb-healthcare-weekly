@@ -5,9 +5,9 @@
   "startDate": "2026-04-25T18:30:00.000Z",
   "endDate": "2026-05-01T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-05-12T16:02:44.452Z",
+  "updatedAt": "2026-05-13T07:36:46.121Z",
   "coverage": {
-    "pharma": 5,
+    "pharma": 6,
     "providers": 13,
     "diagnostics": 2,
     "healthtech": 0
@@ -15,6 +15,7 @@
   "sourcesUsed": [
     "Arabian Business Healthcare",
     "BioSpectrum Asia Middle East",
+    "ET Healthworld",
     "ET Healthworld Hospitals",
     "Financial Express Healthcare",
     "Janssen India Media",
@@ -22,6 +23,23 @@
   ],
   "segments": {
     "pharma": [
+      {
+        "id": "2026-04-26-nmc-grants-recognition-to-pgdcc-cardiology-diploma-after-two-decade-wait",
+        "title": "NMC grants recognition to PGDCC cardiology diploma after two decade wait",
+        "summary": "NMC has recognised the Post Graduate Diploma in Clinical Cardiology (PGDCC) offered through Indira Gandhi National Open University, ending a 20-year regulatory and legal battle. Experts say the move could help address India’s shortage of cardiology...",
+        "source": "ET Healthworld",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-04-29T13:24:08.000Z",
+        "publishedLabel": "April 29, 2026",
+        "category": "Industry Update",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-130608779,imgsize-200782,width-1200,height=627,overlay-ethealth,resizemode-75/policy/nmc-grants-recognition-to-pgdcc-cardiology-diploma-after-two-decade-wait.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": false,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/policy/nmc-grants-recognition-to-pgdcc-cardiology-diploma-after-two-decade-wait/130608779",
+        "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-nmc-grants-recognition-to-pgdcc-cardiology-diploma-after-two-decade-wait"
+      },
       {
         "id": "2026-04-26-dr-reddy-s-gets-nod-for-generic-semaglutide-in-canada",
         "title": "Dr. Reddy’s gets nod for generic Semaglutide in Canada",
@@ -372,6 +390,14 @@
   "thbActions": [
     {
       "segment": "pharma",
+      "articleId": "2026-04-26-nmc-grants-recognition-to-pgdcc-cardiology-diploma-after-two-decade-wait",
+      "title": "NMC grants recognition to PGDCC cardiology diploma after two decade wait",
+      "source": "ET Healthworld",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "pharma",
       "articleId": "2026-04-26-dr-reddy-s-gets-nod-for-generic-semaglutide-in-canada",
       "title": "Dr. Reddy’s gets nod for generic Semaglutide in Canada",
       "source": "Financial Express Healthcare",
@@ -399,14 +425,6 @@
       "articleId": "2026-04-26-fda-approves-caplyta-lumateperone-snda-with-robust-new-data-supporting-r",
       "title": "FDA approves CAPLYTA® (lumateperone) sNDA with robust new data supporting reduced risk of relapse in schizophrenia",
       "source": "Janssen India Media",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
-      "segment": "pharma",
-      "articleId": "2026-04-26-boehringer-s-dual-action-obesity-drug-survodutide-shows-strong-weight-lo",
-      "title": "Boehringer’s Dual-Action Obesity Drug Survodutide Shows Strong Weight Loss and Metabolic Benefits",
-      "source": "PharmaTutor News",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
     },
