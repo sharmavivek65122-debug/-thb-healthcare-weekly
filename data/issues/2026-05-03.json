@@ -5,9 +5,9 @@
   "startDate": "2026-05-02T18:30:00.000Z",
   "endDate": "2026-05-08T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-05-13T16:03:54.020Z",
+  "updatedAt": "2026-05-14T07:27:52.870Z",
   "coverage": {
-    "pharma": 30,
+    "pharma": 23,
     "providers": 2,
     "diagnostics": 2,
     "healthtech": 0
@@ -17,29 +17,13 @@
     "ET Healthworld Diagnostics",
     "ET Healthworld Hospitals",
     "Economic Times Pharma",
+    "Financial Express Healthcare",
     "Janssen India Media",
     "Lupin Updates",
     "PharmaTutor News"
   ],
   "segments": {
     "pharma": [
-      {
-        "id": "2026-05-03-the-alchemist-of-bengaluru-kiran-mazumdar-shaw-began-from-a-garage",
-        "title": "The alchemist of Bengaluru: Kiran Mazumdar-Shaw began from a garage",
-        "summary": "Kiran Mazumdar-Shaw has named her niece Claire Mazumdar as successor, setting up a gradual leadership transition at Biocon. A pioneer who built the company from a garage into a global biotech leader, Kiran is ensuring continuity by handing over to a...",
-        "source": "Economic Times Pharma",
-        "sourceHost": "economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-05-05T10:40:39.000Z",
-        "publishedLabel": "May 5, 2026",
-        "category": "Industry Update",
-        "image": "https://img.etimg.com/thumb/msid-130825537,width-1200,height-630,imgsize-1457769,overlay-economictimes/articleshow.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/kiran-mazumdar-shaw-biocon-succession-claire-mazumdar-the-alchemist-of-bengaluru-kiran-mazumdar-shaw-began-from-a-garage/articleshow/130824942.cms",
-        "articlePath": "/article.html?issue=2026-05-03&article=2026-05-03-the-alchemist-of-bengaluru-kiran-mazumdar-shaw-began-from-a-garage"
-      },
       {
         "id": "2026-05-03-venus-remedies-expands-latin-america-presence-with-argentina-nod-for-ant",
         "title": "Venus Remedies expands Latin America presence with Argentina nod for antibiotic",
@@ -58,40 +42,6 @@
         "articlePath": "/article.html?issue=2026-05-03&article=2026-05-03-venus-remedies-expands-latin-america-presence-with-argentina-nod-for-ant"
       },
       {
-        "id": "2026-05-03-overhaul-of-drug-regulator-begins-with-recruitment-plan-for-1-500-specia",
-        "title": "Overhaul of drug regulator begins with recruitment plan for 1,500 specialists",
-        "summary": "India's pharmaceutical landscape is on the verge of transformation! The countrys drug regulatory body is gearing up for an overhaul with the addition of over 1,500 scientists and tech specialists. This ambitious initiative aims to streamline drug approval...",
-        "source": "Economic Times Pharma",
-        "sourceHost": "economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-05-05T19:42:53.000Z",
-        "publishedLabel": "May 6, 2026",
-        "category": "Approval",
-        "image": "https://img.etimg.com/thumb/msid-130838567,width-1200,height-630,imgsize-78794,overlay-economictimes/articleshow.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/overhaul-of-drug-regulator-begins-with-recruitment-plan-for-1500-specialists/articleshow/130838554.cms",
-        "articlePath": "/article.html?issue=2026-05-03&article=2026-05-03-overhaul-of-drug-regulator-begins-with-recruitment-plan-for-1-500-specia"
-      },
-      {
-        "id": "2026-05-03-emcure-eyes-india-growth-global-deals-amid-strong-demand",
-        "title": "Emcure eyes India growth, global deals amid strong demand",
-        "summary": "Emcure Pharmaceuticals is boosting domestic expansion, R&D, and manufacturing. The company is also exploring acquisition opportunities in India and internationally. New products are expected to drive significant growth. Emcure's partnership with Novo Nordisk...",
-        "source": "Economic Times Pharma",
-        "sourceHost": "economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-05-05T17:29:27.000Z",
-        "publishedLabel": "May 5, 2026",
-        "category": "Manufacturing",
-        "image": "https://img.etimg.com/thumb/msid-130835345,width-1200,height-630,imgsize-186796,overlay-economictimes/articleshow.jpg",
-        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": false,
-        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/emcure-eyes-india-growth-global-deals-amid-strong-demand/articleshow/130835345.cms",
-        "articlePath": "/article.html?issue=2026-05-03&article=2026-05-03-emcure-eyes-india-growth-global-deals-amid-strong-demand"
-      },
-      {
         "id": "2026-05-03-semaglutide-race-torrent-grabs-38-market-share",
         "title": "Semaglutide race: Torrent grabs 38% market share",
         "summary": "Over a dozen Indian companies have launched generic versions of the GLP1 drug used for diabetes and weight management since the expiry of Novo Nordisk's patent for the innovator molecule in end-March. They generated about ₹44 crore in generic semaglutide...",
@@ -107,57 +57,6 @@
         "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/semaglutide-race-torrent-grabs-38-market-share/articleshow/130919758.cms",
         "articlePath": "/article.html?issue=2026-05-03&article=2026-05-03-semaglutide-race-torrent-grabs-38-market-share"
-      },
-      {
-        "id": "2026-05-03-sun-pharma-explores-funding-mix-for-12-billion-organon-deal",
-        "title": "Sun Pharma explores funding mix for $12 billion Organon deal",
-        "summary": "Global lenders are exploring various financing options for Sun Pharmaceutical Industries' proposed $12 billion acquisition of Organon & Co. The Indian drugmaker is considering swapping Organon bondholders into Sun Pharma debt and a potential euro-denominated...",
-        "source": "Economic Times Pharma",
-        "sourceHost": "economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-05-06T01:23:09.000Z",
-        "publishedLabel": "May 6, 2026",
-        "category": "Deal",
-        "image": "https://img.etimg.com/thumb/msid-130841914,width-1200,height-630,imgsize-155118,overlay-economictimes/articleshow.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/sun-pharma-explores-funding-mix-for-12-billion-organon-deal/articleshow/130841915.cms",
-        "articlePath": "/article.html?issue=2026-05-03&article=2026-05-03-sun-pharma-explores-funding-mix-for-12-billion-organon-deal"
-      },
-      {
-        "id": "2026-05-03-drug-applications-with-unanswered-queries-to-be-rejected-within-30-days",
-        "title": "Drug applications with unanswered queries to be rejected within 30 days",
-        "summary": "The message was conveyed through a public notice issued by The Central Drugs Standard Control Organisation (CDSCO) on May 4. It said applications have been pending at the applicant's end since 2016.",
-        "source": "Economic Times Pharma",
-        "sourceHost": "economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-05-05T19:39:44.000Z",
-        "publishedLabel": "May 6, 2026",
-        "category": "Industry Update",
-        "image": "https://img.etimg.com/thumb/msid-130838545,width-1200,height-630,imgsize-59452,overlay-economictimes/articleshow.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/drug-applications-with-unanswered-queries-to-be-rejected-within-30-days/articleshow/130838532.cms",
-        "articlePath": "/article.html?issue=2026-05-03&article=2026-05-03-drug-applications-with-unanswered-queries-to-be-rejected-within-30-days"
-      },
-      {
-        "id": "2026-05-03-pharma-exports-surpass-31-billion-in-fy26-despite-global-headwinds",
-        "title": "Pharma exports surpass $31 billion in FY26 despite global headwinds",
-        "summary": "Indian pharmaceutical exports reached over $31 billion in FY26. March saw a significant 23% drop, primarily due to a slowdown in the United States and China. However, other markets like Africa and Oceania showed strong growth. Vaccines emerged as the...",
-        "source": "Economic Times Pharma",
-        "sourceHost": "economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-05-04T19:13:55.000Z",
-        "publishedLabel": "May 5, 2026",
-        "category": "Market",
-        "image": "https://img.etimg.com/thumb/msid-130810578,width-1200,height-630,imgsize-105516,overlay-economictimes/articleshow.jpg",
-        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": false,
-        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/pharma-exports-surpass-31-billion-in-fy26-despite-global-headwinds/articleshow/130810563.cms",
-        "articlePath": "/article.html?issue=2026-05-03&article=2026-05-03-pharma-exports-surpass-31-billion-in-fy26-despite-global-headwinds"
       },
       {
         "id": "2026-05-03-drug-regulator-cracks-down-on-delayed-safety-reporting-by-pharma-compani",
@@ -192,23 +91,6 @@
         "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/biosimilar-immunotherapy-revolutionizes-cancer-treatment-in-india-yet-patient-awareness-trails/130855726",
         "articlePath": "/article.html?issue=2026-05-03&article=2026-05-03-india-emerging-as-major-market-for-biosimilar-immunotherapy-but-patient-"
-      },
-      {
-        "id": "2026-05-03-guardant-health-to-launch-blood-based-cancer-test-in-india-with-zydus-li",
-        "title": "Guardant Health to launch blood-based cancer test in India with Zydus Lifesciences",
-        "summary": "Guardant Health is set to introduce a groundbreaking blood test in India for early cancer detection. This multi-cancer test, co-marketed by Zydus Lifesciences in India, aims to identify various cancers like lung, breast, and prostate. The initiative targets...",
-        "source": "Economic Times Pharma",
-        "sourceHost": "economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-05-05T15:13:11.000Z",
-        "publishedLabel": "May 5, 2026",
-        "category": "Market",
-        "image": "https://img.etimg.com/thumb/msid-130832627,width-1200,height-630,imgsize-60824,overlay-economictimes/articleshow.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/guardant-health-to-launch-blood-based-cancer-test-in-india-with-zydus-lifesciences/articleshow/130832627.cms",
-        "articlePath": "/article.html?issue=2026-05-03&article=2026-05-03-guardant-health-to-launch-blood-based-cancer-test-in-india-with-zydus-li"
       },
       {
         "id": "2026-05-03-top-private-hospitals-may-drop-out-of-government-health-plans",
@@ -279,23 +161,6 @@
         "articlePath": "/article.html?issue=2026-05-03&article=2026-05-03-dr-reddy-s-and-nestle-health-science-strengthen-presence-in-diabetes-obe"
       },
       {
-        "id": "2026-05-03-zydus-biologics-ahmedabad-injectable-facility-gets-7-observations-in-usf",
-        "title": "Zydus Biologics’ Ahmedabad injectable facility gets 7 observations in USFDA inspection",
-        "summary": "Zydus Lifesciences has made headlines as its Zydus Biologics injectable plant in Ahmedabad underwent a USFDA inspection between April 27 and May 5, 2026. The inspection yielded seven observations, but significantly, there were no issues regarding data...",
-        "source": "Economic Times Pharma",
-        "sourceHost": "economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-05-06T07:55:52.000Z",
-        "publishedLabel": "May 6, 2026",
-        "category": "Industry Update",
-        "image": "https://img.etimg.com/thumb/msid-130848191,width-1200,height-630,imgsize-714071,overlay-economictimes/articleshow.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/zydus-biologics-ahmedabad-injectable-facility-gets-7-observations-in-usfda-inspection/articleshow/130848191.cms",
-        "articlePath": "/article.html?issue=2026-05-03&article=2026-05-03-zydus-biologics-ahmedabad-injectable-facility-gets-7-observations-in-usf"
-      },
-      {
         "id": "2026-05-03-msd-india-ropes-in-madhuri-dixit-for-cervical-cancer-awareness-drive",
         "title": "MSD India ropes in Madhuri Dixit for cervical cancer awareness drive",
         "summary": "US pharma major MSD has partnered with Bollywood actor Madhuri Dixit for a nationwide cervical cancer awareness program in India. The initiative aims to encourage conversations about women's preventive healthcare and prompt discussions with doctors regarding...",
@@ -311,6 +176,23 @@
         "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/msd-india-ropes-in-madhuri-dixit-for-cervical-cancer-awareness-drive/articleshow/130961527.cms",
         "articlePath": "/article.html?issue=2026-05-03&article=2026-05-03-msd-india-ropes-in-madhuri-dixit-for-cervical-cancer-awareness-drive"
+      },
+      {
+        "id": "2026-05-03-sales-of-weight-loss-drug-wegovy-soars-70-after-steep-price-cuts-in-apri",
+        "title": "Sales of weight-loss drug Wegovy soars 70% after steep price cuts in April",
+        "summary": "Danish pharma giant Novo Nordisk saw a 70% volume jump for Wegovy in April 2026 after slashing prices by up to 48% to counter a wave of domestic generics.",
+        "source": "Financial Express Healthcare",
+        "sourceHost": "financialexpress.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-05-08T17:12:37.000Z",
+        "publishedLabel": "May 8, 2026",
+        "category": "Industry Update",
+        "image": "https://images.financialexpressdigital.com/2026/05/weight-loss-pill_20260315124619_20260320180314_20260508170953.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": false,
+        "originalUrl": "https://www.financialexpress.com/business/healthcare/sales-of-weight-loss-drug-wegovy-soars-70-after-steep-price-cuts-in-april/4235786/",
+        "articlePath": "/article.html?issue=2026-05-03&article=2026-05-03-sales-of-weight-loss-drug-wegovy-soars-70-after-steep-price-cuts-in-apri"
       },
       {
         "id": "2026-05-03-garlic-derived-compound-shows-potential-to-improve-muscle-health-during-",
@@ -611,14 +493,6 @@
   "thbActions": [
     {
       "segment": "pharma",
-      "articleId": "2026-05-03-the-alchemist-of-bengaluru-kiran-mazumdar-shaw-began-from-a-garage",
-      "title": "The alchemist of Bengaluru: Kiran Mazumdar-Shaw began from a garage",
-      "source": "Economic Times Pharma",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
-      "segment": "pharma",
       "articleId": "2026-05-03-venus-remedies-expands-latin-america-presence-with-argentina-nod-for-ant",
       "title": "Venus Remedies expands Latin America presence with Argentina nod for antibiotic",
       "source": "Economic Times Pharma",
@@ -627,27 +501,35 @@
     },
     {
       "segment": "pharma",
-      "articleId": "2026-05-03-overhaul-of-drug-regulator-begins-with-recruitment-plan-for-1-500-specia",
-      "title": "Overhaul of drug regulator begins with recruitment plan for 1,500 specialists",
-      "source": "Economic Times Pharma",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
-      "segment": "pharma",
-      "articleId": "2026-05-03-emcure-eyes-india-growth-global-deals-amid-strong-demand",
-      "title": "Emcure eyes India growth, global deals amid strong demand",
-      "source": "Economic Times Pharma",
-      "solution": "THB Commercial Analytics",
-      "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
-    },
-    {
-      "segment": "pharma",
       "articleId": "2026-05-03-semaglutide-race-torrent-grabs-38-market-share",
       "title": "Semaglutide race: Torrent grabs 38% market share",
       "source": "Economic Times Pharma",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "pharma",
+      "articleId": "2026-05-03-drug-regulator-cracks-down-on-delayed-safety-reporting-by-pharma-compani",
+      "title": "Drug regulator cracks down on delayed safety reporting by pharma companies",
+      "source": "Economic Times Pharma",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "pharma",
+      "articleId": "2026-05-03-india-emerging-as-major-market-for-biosimilar-immunotherapy-but-patient-",
+      "title": "India Emerging as Major Market for Biosimilar Immunotherapy, But Patient Awareness Still Lags: Oncologists",
+      "source": "ET Healthworld",
+      "solution": "THB Commercial Analytics",
+      "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
+    },
+    {
+      "segment": "pharma",
+      "articleId": "2026-05-03-top-private-hospitals-may-drop-out-of-government-health-plans",
+      "title": "Top private hospitals may drop out of government health plans",
+      "source": "ET Healthworld",
+      "solution": "THB Commercial Analytics",
+      "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
     },
     {
       "segment": "providers",
