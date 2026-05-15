@@ -5,16 +5,17 @@
   "startDate": "2026-04-25T18:30:00.000Z",
   "endDate": "2026-05-01T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-05-15T07:41:05.684Z",
+  "updatedAt": "2026-05-15T15:37:29.283Z",
   "coverage": {
-    "pharma": 1,
+    "pharma": 3,
     "providers": 9,
     "diagnostics": 2,
     "healthtech": 0
   },
   "sourcesUsed": [
     "ET Healthworld Hospitals",
-    "Financial Express Healthcare"
+    "Financial Express Healthcare",
+    "Janssen India Media"
   ],
   "segments": {
     "pharma": [
@@ -34,6 +35,40 @@
         "justIn": false,
         "originalUrl": "https://www.financialexpress.com/business/healthcare/dr-redds-gets-nod-for-generic-semaglutide-in-canada/4222092/",
         "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-dr-reddy-s-gets-nod-for-generic-semaglutide-in-canada"
+      },
+      {
+        "id": "2026-04-26-fda-grants-priority-review-for-imaavy-nipocalimab-aahu-as-the-potential-",
+        "title": "FDA grants Priority Review for IMAAVY® (nipocalimab-aahu) as the potential first approved treatment for people living with warm autoimmune hemolytic anemia (wAIHA)",
+        "summary": "Priority Review is granted to medicines that may offer significant improvements in safety or effectiveness for serious conditions like warm autoimmune hemolytic anemia, a life-threatening disease in which pathogenic immunoglobulin G autoantibodies attach to...",
+        "source": "Janssen India Media",
+        "sourceHost": "janssen.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-04-27T06:48:35.114Z",
+        "publishedLabel": "April 27, 2026",
+        "category": "Industry Update",
+        "image": "https://jnj-content-lab2.brightspotcdn.com/ac/25/bd2078f54d5992dd486ed26140ce/johnson-johnson-logo.svg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": false,
+        "originalUrl": "https://www.jnj.com/media-center/press-releases/fda-grants-priority-review-for-imaavy-nipocalimab-aahu-as-the-potential-first-approved-treatment-for-people-living-with-warm-autoimmune-hemolytic-anemia-waiha",
+        "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-fda-grants-priority-review-for-imaavy-nipocalimab-aahu-as-the-potential-"
+      },
+      {
+        "id": "2026-04-26-fda-approves-caplyta-lumateperone-snda-with-robust-new-data-supporting-r",
+        "title": "FDA approves CAPLYTA® (lumateperone) sNDA with robust new data supporting reduced risk of relapse in schizophrenia",
+        "summary": "CAPLYTA® reduced relapse risk by 63 percent, with 84 percent of patients with schizophrenia relapse-free over six months Demonstrating long-term stability and a well-established safety profile consistent with previous CAPLYTA® studies",
+        "source": "Janssen India Media",
+        "sourceHost": "janssen.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-04-27T06:46:06.710Z",
+        "publishedLabel": "April 27, 2026",
+        "category": "Industry Update",
+        "image": "https://jnj-content-lab2.brightspotcdn.com/ac/25/bd2078f54d5992dd486ed26140ce/johnson-johnson-logo.svg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": false,
+        "originalUrl": "https://www.jnj.com/media-center/press-releases/fda-approves-caplyta-lumateperone-snda-with-robust-new-data-supporting-reduced-risk-of-relapse-in-schizophrenia",
+        "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-fda-approves-caplyta-lumateperone-snda-with-robust-new-data-supporting-r"
       }
     ],
     "providers": [
@@ -235,6 +270,22 @@
       "articleId": "2026-04-26-dr-reddy-s-gets-nod-for-generic-semaglutide-in-canada",
       "title": "Dr. Reddy’s gets nod for generic Semaglutide in Canada",
       "source": "Financial Express Healthcare",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "pharma",
+      "articleId": "2026-04-26-fda-grants-priority-review-for-imaavy-nipocalimab-aahu-as-the-potential-",
+      "title": "FDA grants Priority Review for IMAAVY® (nipocalimab-aahu) as the potential first approved treatment for people living with warm autoimmune hemolytic anemia (wAIHA)",
+      "source": "Janssen India Media",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "pharma",
+      "articleId": "2026-04-26-fda-approves-caplyta-lumateperone-snda-with-robust-new-data-supporting-r",
+      "title": "FDA approves CAPLYTA® (lumateperone) sNDA with robust new data supporting reduced risk of relapse in schizophrenia",
+      "source": "Janssen India Media",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
     },
