@@ -5,11 +5,11 @@
   "startDate": "2026-05-09T18:30:00.000Z",
   "endDate": "2026-05-15T18:30:00.000Z",
   "status": "live",
-  "updatedAt": "2026-05-14T15:41:38.191Z",
+  "updatedAt": "2026-05-15T07:41:05.684Z",
   "coverage": {
-    "pharma": 49,
-    "providers": 13,
-    "diagnostics": 7,
+    "pharma": 50,
+    "providers": 17,
+    "diagnostics": 5,
     "healthtech": 4
   },
   "sourcesUsed": [
@@ -21,7 +21,8 @@
     "Express Healthcare Posts",
     "Healthcare MEA",
     "Medical Dialogues Pharma",
-    "PharmaTutor News"
+    "PharmaTutor News",
+    "Zawya Pharmaceuticals"
   ],
   "segments": {
     "pharma": [
@@ -38,7 +39,7 @@
         "category": "Industry Update",
         "image": "https://img.etimg.com/thumb/msid-131009829,width-1200,height-630,imgsize-155646,overlay-economictimes/articleshow.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/novartis-expands-india-role-in-global-drug-development/articleshow/131009829.cms",
         "articlePath": "/article.html?issue=2026-05-10&article=2026-05-10-novartis-sharpening-india-strategy-as-a-pure-play-innovator"
       },
@@ -72,7 +73,7 @@
         "category": "Launch",
         "image": "https://img.etimg.com/thumb/msid-131087705,width-1200,height-630,imgsize-76350,overlay-economictimes/articleshow.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/roche-pharma-launches-indias-first-7-minute-injectable-immunotherapy-for-lung-cancer/articleshow/131087604.cms",
         "articlePath": "/article.html?issue=2026-05-10&article=2026-05-10-roche-pharma-launches-india-s-first-7-minute-injectable-immunotherapy-fo"
       },
@@ -106,7 +107,7 @@
         "category": "Launch",
         "image": "https://etimg.etb2bimg.com/thumb/msid-131089780,imgsize-7816,width-1200,height=627,overlay-ethealth,resizemode-75/industry/7-minute-lung-cancer-immunotherapy-launched-in-india-slashing-treatment-time-by-80.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/7-minute-lung-cancer-immunotherapy-launched-in-india-slashing-treatment-time-by-80/131089780",
         "articlePath": "/article.html?issue=2026-05-10&article=2026-05-10-7-minute-lung-cancer-immunotherapy-launched-in-india-slashing-treatment-"
       },
@@ -162,6 +163,23 @@
         "articlePath": "/article.html?issue=2026-05-10&article=2026-05-10-weight-loss-drug-semaglutide-set-to-get-cheaper-as-generic-wave-builds-i"
       },
       {
+        "id": "2026-05-10-anthropic-gates-foundation-launch-200-million-partnership-for-ai-in-heal",
+        "title": "Anthropic, Gates Foundation launch $200 million partnership for AI in health, education",
+        "summary": "Support from Anthropic's technical staff and usage credits for its Claude AI will account for its half of the financial commitment, while the Bill Gates co-founded Gates Foundation ‌will provide ⁠grant funding, ⁠program design and expertise",
+        "source": "ET Healthworld",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-05-15T02:06:25.000Z",
+        "publishedLabel": "May 15, 2026",
+        "category": "Partnership",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-131105667,imgsize-33674,width-1200,height=627,overlay-ethealth,resizemode-75/industry/anthropic-gates-foundation-launch-200-million-partnership-for-ai-in-health-education.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/anthropic-gates-foundation-launch-200-million-partnership-for-ai-in-health-education/131105667",
+        "articlePath": "/article.html?issue=2026-05-10&article=2026-05-10-anthropic-gates-foundation-launch-200-million-partnership-for-ai-in-heal"
+      },
+      {
         "id": "2026-05-10-drug-regulator-drafts-guidelines-on-high-risk-solvents-after-tainted-syr",
         "title": "Drug regulator drafts guidelines on high-risk solvents after tainted syrup deaths in kids",
         "summary": "India's drug regulator is creating new rules for dangerous solvents in children's medicines. This follows tragic deaths linked to contaminated cough syrups. Experts found these solvents can contain toxic impurities. The regulator is consulting with companies...",
@@ -208,9 +226,26 @@
         "category": "Approval",
         "image": "https://img.etimg.com/thumb/msid-131090881,width-1200,height-630,imgsize-95092,overlay-economictimes/articleshow.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/alembic-pharma-gets-usfda-tentative-nod-for-generic-prostate-cancer-drug/articleshow/131090733.cms",
         "articlePath": "/article.html?issue=2026-05-10&article=2026-05-10-alembic-pharma-gets-usfda-tentative-nod-for-generic-prostate-cancer-drug"
+      },
+      {
+        "id": "2026-05-10-open-to-4-5-acquisitions-but-at-sensible-valuations-ameera-shah-promoter",
+        "title": "Open to 4-5 acquisitions, but at sensible valuations: Ameera Shah, promoter and executive chairperson, Metro..",
+        "summary": "Metropolis Healthcare is set for its next growth phase. The diagnostic chain will focus on genomics and specialty diagnostics. Strategic acquisitions will also play a key role. The company aims to expand services beyond pathology. This strategy will drive...",
+        "source": "ET Healthworld",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-05-15T02:00:37.000Z",
+        "publishedLabel": "May 15, 2026",
+        "category": "Industry Update",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-131105660,imgsize-121882,width-1200,height=627,overlay-ethealth,resizemode-75/diagnostics/open-to-4-5-acquisitions-but-at-sensible-valuations-ameera-shah-promoter-and-executive-chairperson-metropolis-healthcare.jpg",
+        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
+        "justIn": true,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/diagnostics/open-to-4-5-acquisitions-but-at-sensible-valuations-ameera-shah-promoter-and-executive-chairperson-metropolis-healthcare/131105660",
+        "articlePath": "/article.html?issue=2026-05-10&article=2026-05-10-open-to-4-5-acquisitions-but-at-sensible-valuations-ameera-shah-promoter"
       },
       {
         "id": "2026-05-10-scientists-discover-hidden-molecular-switch-that-can-strengthen-bones",
@@ -228,23 +263,6 @@
         "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/scientists-discover-hidden-molecular-switch-that-can-strengthen-bones/131083334",
         "articlePath": "/article.html?issue=2026-05-10&article=2026-05-10-scientists-discover-hidden-molecular-switch-that-can-strengthen-bones"
-      },
-      {
-        "id": "2026-05-10-siemens-eyes-exit-from-cancer-care-chain-american-oncology-institute",
-        "title": "Siemens eyes exit from cancer care chain American Oncology Institute",
-        "summary": "Several private equity funds have been approached, and Healthcare Global Enterprises (HCG)-a KKR-backed listed cancer care chain-has also been sounded out as a potential bidder, said sources.",
-        "source": "ET Healthworld",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-05-14T02:02:43.000Z",
-        "publishedLabel": "May 14, 2026",
-        "category": "Industry Update",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-131080175,imgsize-153160,width-1200,height=627,overlay-ethealth,resizemode-75/medical-devices/siemens-eyes-exit-from-cancer-care-chain-american-oncology-institute.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/medical-devices/siemens-eyes-exit-from-cancer-care-chain-american-oncology-institute/131080175",
-        "articlePath": "/article.html?issue=2026-05-10&article=2026-05-10-siemens-eyes-exit-from-cancer-care-chain-american-oncology-institute"
       },
       {
         "id": "2026-05-10-eli-lilly-halts-india-obesity-awareness-campaign-after-regulatory-scruti",
@@ -276,7 +294,7 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-131091449,imgsize-576526,width-1200,height=627,overlay-ethealth,resizemode-75/industry/building-indias-healthcare-future-together.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/building-indias-healthcare-future-together/131091449",
         "articlePath": "/article.html?issue=2026-05-10&article=2026-05-10-building-india-s-healthcare-future-together"
       },
@@ -296,6 +314,23 @@
         "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/eli-lilly-brings-monthly-alzheimers-therapy-donanemab-to-india-at-91688-per-vial/articleshow/131076036.cms",
         "articlePath": "/article.html?issue=2026-05-10&article=2026-05-10-eli-lilly-brings-monthly-alzheimer-s-therapy-donanemab-to-india-at-91-68"
+      },
+      {
+        "id": "2026-05-10-roche-brings-7-minute-lung-cancer-shot-to-india",
+        "title": "Roche brings 7-minute lung cancer shot to India",
+        "summary": "Roche Pharma India introduces a new injectable immunotherapy for lung cancer. This treatment takes only seven minutes, a significant reduction from hours-long infusions. It offers a less burdensome option for thousands of patients. The medicine, subcutaneous...",
+        "source": "Economic Times Pharma",
+        "sourceHost": "economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-05-14T18:56:56.000Z",
+        "publishedLabel": "May 15, 2026",
+        "category": "Industry Update",
+        "image": "https://img.etimg.com/thumb/msid-131101910,width-1200,height-630,imgsize-18176,overlay-economictimes/articleshow.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/roche-introduces-revolutionary-7-minute-lung-cancer-immunotherapy-in-india/articleshow/131101946.cms",
+        "articlePath": "/article.html?issue=2026-05-10&article=2026-05-10-roche-brings-7-minute-lung-cancer-shot-to-india"
       },
       {
         "id": "2026-05-10-tata-group-s-impetis-out-licenses-arthritis-and-autoimmune-drugs-to-vyom",
@@ -400,6 +435,23 @@
         "articlePath": "/article.html?issue=2026-05-10&article=2026-05-10-zydus-lifesciences-close-to-buying-us-oncology-drug-maker-for-100-to-150"
       },
       {
+        "id": "2026-05-10-reimagining-access-in-asthma-care-for-the-next-decade",
+        "title": "Reimagining access in Asthma care for the next decade",
+        "summary": "India has made steady and commendable progress in addressing non-communicable diseases by improving screening for diabetes and hypertension, strengthening cardiovascular care, and expanding access to chronic treatments. Yet asthma, one […]",
+        "source": "Express Healthcare",
+        "sourceHost": "expresshealthcare.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-05-15T04:00:01.000Z",
+        "publishedLabel": "May 15, 2026",
+        "category": "Industry Update",
+        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/05/14170152/New-Project-3-2.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://www.expresshealthcare.in/news/reimagining-access-in-asthma-care-for-the-next-decade/453686/",
+        "articlePath": "/article.html?issue=2026-05-10&article=2026-05-10-reimagining-access-in-asthma-care-for-the-next-decade"
+      },
+      {
         "id": "2026-05-10-dcdc-kidney-care-opens-new-dialysis-facility-in-faridabad",
         "title": "DCDC Kidney Care opens new dialysis facility in Faridabad",
         "summary": "DCDC Kidney Care has announced the opening of its independent dialysis facility in Faridabad. The facility intends to meet the increasing need for superior dialysis services in the area. With […]",
@@ -451,23 +503,6 @@
         "articlePath": "/article.html?issue=2026-05-10&article=2026-05-10-how-dementia-and-alzheimer-s-care-is-becoming-a-growing-healthcare-secto"
       },
       {
-        "id": "2026-05-10-abbott-launches-triclip-system-in-india-for-treatment-of-tricuspid-regur",
-        "title": "Abbott launches TriClip system in India for treatment of tricuspid regurgitation",
-        "summary": "Device uses transcatheter edge-to-edge repair technology to treat leaky tricuspid valves without open-heart surgery",
-        "source": "Express Healthcare Posts",
-        "sourceHost": "expresshealthcare.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-05-12T05:53:32.000Z",
-        "publishedLabel": "May 12, 2026",
-        "category": "Launch",
-        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2019/10/04180855/GettyImages-1034035462-e1570192760668.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://www.expresshealthcare.in/news/abbott-launches-triclip-system-in-india-for-treatment-of-tricuspid-regurgitation/453626/",
-        "articlePath": "/article.html?issue=2026-05-10&article=2026-05-10-abbott-launches-triclip-system-in-india-for-treatment-of-tricuspid-regur"
-      },
-      {
         "id": "2026-05-10-borderplus-launches-b-r-i-d-g-e",
         "title": "BorderPlus launches B.R.I.D.G.E",
         "summary": "BorderPlus has announced the launch of B.R.I.D.G.E (BorderPlus International Deployment and Global Mobility Exam), the country’s first standardised national examination designed to assess and prepare Indian nurses for international placement, […]",
@@ -514,7 +549,7 @@
         "category": "Deal",
         "image": "https://medicaldialogues.in/h-upload/2024/02/06/231648-acquisition-50-2.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/zydus-to-acquire-us-oncology-pharma-firm-assertio-in-usd-166-million-deal-170682",
         "articlePath": "/article.html?issue=2026-05-10&article=2026-05-10-zydus-to-acquire-us-oncology-pharma-firm-assertio-in-usd-166-million-dea"
       },
@@ -531,7 +566,7 @@
         "category": "Approval",
         "image": "https://medicaldialogues.in/h-upload/2023/01/10/197274-alembic-pharma-4.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/alembic-pharma-gets-usfda-tentative-nod-for-nubeqa-generic-darolutamide-170680",
         "articlePath": "/article.html?issue=2026-05-10&article=2026-05-10-alembic-pharma-gets-usfda-tentative-nod-for-nubeqa-generic-darolutamide"
       },
@@ -548,7 +583,7 @@
         "category": "Industry Update",
         "image": "https://medicaldialogues.in/h-upload/2026/05/13/347267-norovirus-outbreak-over-100-passengers-and-crew-sick-in-caribbean-princess-cruise-ship-4.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/meta-backed-cellular-intelligence-acquires-novo-nordisks-parkinsons-cell-therapy-candidate-170676",
         "articlePath": "/article.html?issue=2026-05-10&article=2026-05-10-meta-backed-cellular-intelligence-acquires-novo-nordisk-s-parkinson-s-ce"
       },
@@ -565,7 +600,7 @@
         "category": "Approval",
         "image": "https://www.pharmatutor.org/sites/default/files/styles/webp/public/2026-05/fda-approves-beones-beqalzi-for-blood-cancer.jpg.webp?itok=jto0TG-w",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/fda-approves-beones-beqalzi-for-blood-cancer",
         "articlePath": "/article.html?issue=2026-05-10&article=2026-05-10-fda-approves-beone-s-beqalzi-for-blood-cancer"
       },
@@ -616,26 +651,9 @@
         "category": "Deal",
         "image": "https://medicaldialogues.in/h-upload/2023/01/10/197364-bristol-myers-squibb-3.jpg",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/bristol-myers-squibb-chinas-hengrui-sign-usd-152-billion-drug-collaboration-deal-170678",
         "articlePath": "/article.html?issue=2026-05-10&article=2026-05-10-bristol-myers-squibb-china-s-hengrui-sign-usd-15-2-billion-drug-collabor"
-      },
-      {
-        "id": "2026-05-10-france-pledges-support-as-kenya-biovax-targets-first-vaccine-batch-by-20",
-        "title": "France pledges support as Kenya BioVax targets first vaccine batch by 2027 | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
-        "summary": "The next phase will focus on installing and validating fill-and-finish equipment, strengthening quality control systems, building specialized workforce capacity, and preparing for compliant vaccin ...",
-        "source": "Healthcare MEA",
-        "sourceHost": "healthcaremea.com",
-        "region": "Middle East",
-        "country": "Middle East",
-        "publishedAt": "2026-05-14T09:00:58.000Z",
-        "publishedLabel": "May 14, 2026",
-        "category": "Manufacturing",
-        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/05/image-1600x900-2026-05-14T115454.130.png",
-        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
-        "originalUrl": "https://www.healthcaremea.com/2026/05/14/france-pledges-support-as-kenya-biovax-targets-first-vaccine-batch-by-2027/",
-        "articlePath": "/article.html?issue=2026-05-10&article=2026-05-10-france-pledges-support-as-kenya-biovax-targets-first-vaccine-batch-by-20"
       },
       {
         "id": "2026-05-10-dr-reddy-s-q4-profit-crashes-86-to-rs-221-crore-as-north-america-generic",
@@ -672,21 +690,21 @@
         "articlePath": "/article.html?issue=2026-05-10&article=2026-05-10-tripura-chemists-to-join-nationwide-may-20-strike-against-online-medicin"
       },
       {
-        "id": "2026-05-10-nppa-adds-silica-healthcare-iv-fluid-product-under-ceiling-price-framewo",
-        "title": "NPPA Adds Silica Healthcare IV Fluid Product Under Ceiling Price Framework",
-        "summary": "New Delhi: The National Pharmaceutical Pricing Authority (NPPA) has issued an addendum to include a new product by Silica Healthcare Pvt Ltd under the ceiling price framework for scheduled formulation...",
-        "source": "Medical Dialogues Pharma",
-        "sourceHost": "medicaldialogues.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-05-11T14:38:10.000Z",
-        "publishedLabel": "May 11, 2026",
-        "category": "Industry Update",
-        "image": "https://medicaldialogues.in/h-upload/2024/06/07/240440-nppa-5.jpg",
+        "id": "2026-05-10-kenya-signs-landmark-ivi-agreement-to-host-the-africa-vaccine-research-h",
+        "title": "Kenya signs landmark IVI agreement to host the Africa vaccine research hub in Nairobi",
+        "summary": "Under the partnership, IVI will collaborate closely with institutions such as the Kenya Medical Research Institute, the Kenya BioVax Institute, and the Pharmacy and Poisons Board to support vaccin ...",
+        "source": "Healthcare MEA",
+        "sourceHost": "healthcaremea.com",
+        "region": "Middle East",
+        "country": "Oman",
+        "publishedAt": "2026-05-15T07:15:00.000Z",
+        "publishedLabel": "May 15, 2026",
+        "category": "Partnership",
+        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/05/image-1600x900-2026-05-15T091511.129.png",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/nppa-adds-silica-healthcare-iv-fluid-product-under-ceiling-price-framework-170416",
-        "articlePath": "/article.html?issue=2026-05-10&article=2026-05-10-nppa-adds-silica-healthcare-iv-fluid-product-under-ceiling-price-framewo"
+        "justIn": true,
+        "originalUrl": "https://www.healthcaremea.com/2026/05/15/kenya-signs-landmark-ivi-agreement-to-host-the-africa-vaccine-research-hub-in-nairobi/",
+        "articlePath": "/article.html?issue=2026-05-10&article=2026-05-10-kenya-signs-landmark-ivi-agreement-to-host-the-africa-vaccine-research-h"
       },
       {
         "id": "2026-05-10-glp-1-obesity-drugs-may-reduce-fat-while-preserving-muscle-study-finds",
@@ -701,7 +719,7 @@
         "category": "Industry Update",
         "image": "https://www.pharmatutor.org/sites/default/files/styles/webp/public/2026-05/glp-1-obesity-drugs-may-reduce-fat-while-preserving-muscle-study-finds.jpg.webp?itok=z3AReVFH",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/glp-1-obesity-drugs-may-reduce-fat-while-preserving-muscle-study-finds",
         "articlePath": "/article.html?issue=2026-05-10&article=2026-05-10-glp-1-obesity-drugs-may-reduce-fat-while-preserving-muscle-study-finds"
       },
@@ -757,6 +775,23 @@
         "articlePath": "/article.html?issue=2026-05-10&article=2026-05-10-delhi-hc-bars-use-of-stand-up-mark-on-sexual-wellness-capsules-over-infr"
       },
       {
+        "id": "2026-05-10-delhi-hc-sets-aside-order-rejecting-south-korean-pharma-firm-s-patent-pl",
+        "title": "Delhi HC Sets Aside Order Rejecting South Korean Pharma Firm's Patent plea",
+        "summary": "New Delhi: The Delhi High Court has set aside an order passed by the Controller of Patents and Designs rejecting a patent application filed by Hanmi Pharm, holding that the Patent Office failed to...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-05-14T15:00:57.000Z",
+        "publishedLabel": "May 14, 2026",
+        "category": "Industry Update",
+        "image": "https://medicaldialogues.in/h-upload/2024/03/05/233643-delhi-high-court-50.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/delhi-hc-sets-aside-order-rejecting-south-korean-pharma-firms-patent-plea-170684",
+        "articlePath": "/article.html?issue=2026-05-10&article=2026-05-10-delhi-hc-sets-aside-order-rejecting-south-korean-pharma-firm-s-patent-pl"
+      },
+      {
         "id": "2026-05-10-egypt-expands-mental-health-services-in-universal-health-insurance-facil",
         "title": "Egypt expands mental health services in Universal Health Insurance facilities | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
         "summary": "Under the system, 2,100 cases were referred to Egypt’s psychological support hotline 16328, while 1,625 patients were directed to the national electronic mental health and addiction treatment plat ...",
@@ -769,7 +804,7 @@
         "category": "Manufacturing",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/05/image-1600x900-2026-05-14T112021.153.png",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/05/14/egypt-expands-mental-health-services-in-universal-health-insurance-facilities/",
         "articlePath": "/article.html?issue=2026-05-10&article=2026-05-10-egypt-expands-mental-health-services-in-universal-health-insurance-facil"
       },
@@ -820,7 +855,7 @@
         "category": "Industry Update",
         "image": "https://medicaldialogues.in/h-upload/2024/11/16/261049-usfda-50-2.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/alembic-pharma-receives-usfda-eir-for-karakhadi-injectable-facility-170683",
         "articlePath": "/article.html?issue=2026-05-10&article=2026-05-10-alembic-pharma-receives-usfda-eir-for-karakhadi-injectable-facility"
       },
@@ -840,23 +875,6 @@
         "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/biocon-arm-gets-health-canada-nod-for-micafungin-injection-to-treat-serious-fungal-infections-170571",
         "articlePath": "/article.html?issue=2026-05-10&article=2026-05-10-biocon-arm-gets-health-canada-nod-for-micafungin-injection-to-treat-seri"
-      },
-      {
-        "id": "2026-05-10-piramal-pharma-gets-3-usfda-observations-at-us-facility",
-        "title": "Piramal Pharma Gets 3 USFDA Observations at US Facility",
-        "summary": "New Delhi: Piramal Pharma Limited has informed stock exchanges that the United States Food and Drug Administration (US FDA) conducted a Good Manufacturing Practices (GMP) inspection at the company's...",
-        "source": "Medical Dialogues Pharma",
-        "sourceHost": "medicaldialogues.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-05-12T15:55:22.000Z",
-        "publishedLabel": "May 12, 2026",
-        "category": "Manufacturing",
-        "image": "https://medicaldialogues.in/h-upload/2022/10/14/187904-piramal-pharma-new.jpg",
-        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": false,
-        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/piramal-pharma-gets-3-usfda-observations-at-us-facility-170500",
-        "articlePath": "/article.html?issue=2026-05-10&article=2026-05-10-piramal-pharma-gets-3-usfda-observations-at-us-facility"
       }
     ],
     "providers": [
@@ -890,7 +908,7 @@
         "category": "Patient Care",
         "image": "https://etimg.etb2bimg.com/thumb/msid-131080206,imgsize-3195132,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/aiims-revives-rare-dual-organ-transplant-programme-after-18-years.jpg",
         "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/aiims-revives-rare-dual-organ-transplant-programme-after-18-years/131080206",
         "articlePath": "/article.html?issue=2026-05-10&article=2026-05-10-aiims-revives-rare-dual-organ-transplant-programme-after-18-years"
       },
@@ -966,7 +984,7 @@
         "id": "2026-05-10-new-building-standards-pave-way-for-taller-hospitals",
         "title": "New building standards pave way for taller hospitals",
         "summary": "As margins improve,will medical inflation and healthcare costs also reduce for patients and their families? Healthier margins should also mean healthier patients, right?",
-        "source": "Express Healthcare",
+        "source": "Express Healthcare Posts",
         "sourceHost": "expresshealthcare.in",
         "region": "India",
         "country": "India",
@@ -997,6 +1015,23 @@
         "articlePath": "/article.html?issue=2026-05-10&article=2026-05-10-even-hospital-partners-with-canara-surgicals-to-deploy-laser-based-surgi"
       },
       {
+        "id": "2026-05-10-aster-guardians-global-nursing-award-announces-top-10-finalists-for-2026",
+        "title": "Aster Guardians Global Nursing Award announces top 10 finalists for 2026",
+        "summary": "On International Nurses Day, Aster DM Healthcare announced the top 10 finalists for the fifth edition of the Aster Guardians Global Nursing Award 2026, selected from over 134,000 registrations across […]",
+        "source": "Express Healthcare",
+        "sourceHost": "expresshealthcare.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-05-15T06:00:15.000Z",
+        "publishedLabel": "May 15, 2026",
+        "category": "Provider Update",
+        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/05/14171356/New-Project-4-2.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": true,
+        "originalUrl": "https://www.expresshealthcare.in/news/aster-guardians-global-nursing-award-announces-top-10-finalists-for-2026/453691/",
+        "articlePath": "/article.html?issue=2026-05-10&article=2026-05-10-aster-guardians-global-nursing-award-announces-top-10-finalists-for-2026"
+      },
+      {
         "id": "2026-05-10-insurance-not-clinical-capability-is-the-real-barrier-to-surgical-access",
         "title": "Insurance, not clinical capability, is the real barrier to surgical access",
         "summary": "Consider a patient who arrives at a hospital with a diagnosis that warrants surgical intervention. The surgeon has assessed the case and determined that a robotic-assisted approach offers the best […]",
@@ -1009,26 +1044,9 @@
         "category": "Hospital",
         "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/05/14165329/New-Project-2-2.jpg",
         "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/news/insurance-not-clinical-capability-is-the-real-barrier-to-surgical-access/453683/",
         "articlePath": "/article.html?issue=2026-05-10&article=2026-05-10-insurance-not-clinical-capability-is-the-real-barrier-to-surgical-access"
-      },
-      {
-        "id": "2026-05-10-the-lamp-still-burns-a-note-to-india-s-young-nurses-on-nurses-day-2026",
-        "title": "The lamp still burns: A note to India’s young nurses on Nurses Day 2026",
-        "summary": "Dr Annu Kaushik reflects on the evolving role of nursing in India, the realities of care work, and the opportunities shaping the next generation of nurses on Nurses Day 2026",
-        "source": "Express Healthcare Posts",
-        "sourceHost": "expresshealthcare.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-05-12T05:50:05.000Z",
-        "publishedLabel": "May 12, 2026",
-        "category": "Provider Update",
-        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/05/12111958/EH_GB_Dr_Annu_Kaushik_750.jpg",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://www.expresshealthcare.in/news/the-lamp-still-burns-a-note-to-indias-young-nurses-on-nurses-day-2026/453621/",
-        "articlePath": "/article.html?issue=2026-05-10&article=2026-05-10-the-lamp-still-burns-a-note-to-india-s-young-nurses-on-nurses-day-2026"
       },
       {
         "id": "2026-05-10-post-antibiotic-era-are-common-infections-becoming-untreatable",
@@ -1043,7 +1061,7 @@
         "category": "AI Care Delivery",
         "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2024/12/27115937/AMR.jpg",
         "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/news/post-antibiotic-era-are-common-infections-becoming-untreatable/453681/",
         "articlePath": "/article.html?issue=2026-05-10&article=2026-05-10-post-antibiotic-era-are-common-infections-becoming-untreatable"
       },
@@ -1051,7 +1069,7 @@
         "id": "2026-05-10-laxmi-dental-launches-ai-connected-remote-dental-monitoring-platform-i-s",
         "title": "Laxmi Dental launches AI-connected remote dental monitoring platform i Scope360",
         "summary": "Platform integrates aligner tracking, oral health assessment and virtual consultations into a single dental care ecosystem",
-        "source": "Express Healthcare",
+        "source": "Express Healthcare Posts",
         "sourceHost": "expresshealthcare.in",
         "region": "India",
         "country": "India",
@@ -1063,6 +1081,23 @@
         "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/news/laxmi-dental-launches-ai-connected-remote-dental-monitoring-platform-i-scope360/453665/",
         "articlePath": "/article.html?issue=2026-05-10&article=2026-05-10-laxmi-dental-launches-ai-connected-remote-dental-monitoring-platform-i-s"
+      },
+      {
+        "id": "2026-05-10-itworx-education-collaborates-with-global-medical-city-to-implement-ai-p",
+        "title": "ITWORX Education collaborates with Global Medical City to implement AI-powered hospital management platform in Egypt",
+        "summary": "Under the partnership, ITWORX Education will implement Avicenna, its advanced Health Information System (HIS) and Enterprise Resource Planning (ERP) platform, across Global Medical City’s hospital ...",
+        "source": "Healthcare MEA",
+        "sourceHost": "healthcaremea.com",
+        "region": "Middle East",
+        "country": "Middle East",
+        "publishedAt": "2026-05-15T06:36:43.000Z",
+        "publishedLabel": "May 15, 2026",
+        "category": "Hospital",
+        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/05/image-1600x900-2026-05-13T091548.694.png",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": true,
+        "originalUrl": "https://www.healthcaremea.com/2026/05/15/itworx-education-collaborates-with-global-medical-city-to-implement-ai-powered-hospital-management-platform-in-egypt/",
+        "articlePath": "/article.html?issue=2026-05-10&article=2026-05-10-itworx-education-collaborates-with-global-medical-city-to-implement-ai-p"
       },
       {
         "id": "2026-05-10-thumbay-group-breaks-ground-on-region-s-first-integrated-private-psychia",
@@ -1077,9 +1112,60 @@
         "category": "Hospital",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/05/image-1600x900-2026-05-14T103807.720.png",
         "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/05/14/thumbay-group-breaks-ground-on-regions-first-integrated-private-psychiatric-hospital/",
         "articlePath": "/article.html?issue=2026-05-10&article=2026-05-10-thumbay-group-breaks-ground-on-region-s-first-integrated-private-psychia"
+      },
+      {
+        "id": "2026-05-10-shiseido-travel-retail-unveils-new-booth-concept-at-tfwa-asia-pacific-20",
+        "title": "Shiseido Travel Retail Unveils New Booth Concept at TFWA Asia Pacific 2026 Inspired by Japanese Heritage and Omotenashi",
+        "summary": "Shiseido Travel Retail Unveils New Booth Concept at TFWA Asia Pacific 2026 Inspired by Japanese Heritage and Omotenashi",
+        "source": "Zawya Pharmaceuticals",
+        "sourceHost": "zawya.com",
+        "region": "Middle East",
+        "country": "United Arab Emirates",
+        "publishedAt": "2026-05-15T07:21:52.000Z",
+        "publishedLabel": "May 15, 2026",
+        "category": "AI Care Delivery",
+        "image": "https://release.media-outreach.com/release.php/Images/764122/6.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": true,
+        "originalUrl": "https://www.zawya.com/en/economy/global/shiseido-travel-retail-unveils-new-booth-concept-at-tfwa-asia-pacific-2026-inspired-by-japanese-heritage-and-deieock5",
+        "articlePath": "/article.html?issue=2026-05-10&article=2026-05-10-shiseido-travel-retail-unveils-new-booth-concept-at-tfwa-asia-pacific-20"
+      },
+      {
+        "id": "2026-05-10-oman-occi-participates-in-kazan-economic-forum",
+        "title": "Oman: OCCI participates in Kazan economic forum",
+        "summary": "Oman: OCCI participates in Kazan economic forum",
+        "source": "Zawya Pharmaceuticals",
+        "sourceHost": "zawya.com",
+        "region": "Middle East",
+        "country": "Oman",
+        "publishedAt": "2026-05-15T07:27:24.000Z",
+        "publishedLabel": "May 15, 2026",
+        "category": "Provider Update",
+        "image": "https://static.zawya.com/view/acePublic/alias/contentid/6d2abbac-7883-4702-9cf9-d59f2fc838cb/88/1437013985.jpeg?f=3%3A2",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": true,
+        "originalUrl": "https://www.zawya.com/en/economy/gcc/oman-occi-participates-in-kazan-economic-forum-uflul64h",
+        "articlePath": "/article.html?issue=2026-05-10&article=2026-05-10-oman-occi-participates-in-kazan-economic-forum"
+      },
+      {
+        "id": "2026-05-10-uae-to-accelerate-oil-pipeline-project-to-expand-ability-to-bypass-hormu",
+        "title": "UAE to accelerate oil pipeline project to expand ability to bypass Hormuz",
+        "summary": "The project would vastly expand UAE's ability to bypass the largely ‌shuttered Strait of Hormuz",
+        "source": "Zawya Pharmaceuticals",
+        "sourceHost": "zawya.com",
+        "region": "Middle East",
+        "country": "United Arab Emirates",
+        "publishedAt": "2026-05-15T07:21:15.000Z",
+        "publishedLabel": "May 15, 2026",
+        "category": "AI Care Delivery",
+        "image": "https://static.zawya.com/view/acePublic/alias/contentid/2ac44021-2bda-4145-b58f-5e45843f777b/1/iran-crisis-emirates-ports.jpeg?f=3%3A2",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": true,
+        "originalUrl": "https://www.zawya.com/en/projects/oil-and-gas/uae-to-accelerate-oil-pipeline-project-to-expand-ability-to-bypass-hormuz-u1zummg1",
+        "articlePath": "/article.html?issue=2026-05-10&article=2026-05-10-uae-to-accelerate-oil-pipeline-project-to-expand-ability-to-bypass-hormu"
       }
     ],
     "diagnostics": [
@@ -1118,27 +1204,10 @@
         "articlePath": "/article.html?issue=2026-05-10&article=2026-05-10-redefining-clinical-and-operational-excellence-apollo-digismart-central-"
       },
       {
-        "id": "2026-05-10-medielaj-launches-ai-powered-healthcare-app-and-diagnostic-kiosk-platfor",
-        "title": "MediElaj launches AI-powered healthcare app and diagnostic kiosk platform in India",
-        "summary": "MedPredict platform combines AI diagnostics, mobile health services and smart kiosks to expand screening access across urban and rural regions",
-        "source": "Express Healthcare Posts",
-        "sourceHost": "expresshealthcare.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-05-12T06:05:08.000Z",
-        "publishedLabel": "May 12, 2026",
-        "category": "Screening",
-        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2019/11/14175754/GettyImages-1047824676-e1573734754447.jpg",
-        "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
-        "justIn": false,
-        "originalUrl": "https://www.expresshealthcare.in/news/medielaj-launches-ai-powered-healthcare-app-and-diagnostic-kiosk-platform-in-india/453628/",
-        "articlePath": "/article.html?issue=2026-05-10&article=2026-05-10-medielaj-launches-ai-powered-healthcare-app-and-diagnostic-kiosk-platfor"
-      },
-      {
         "id": "2026-05-10-drilling-down-can-india-s-dental-sector-scale-up",
         "title": "Drilling down: Can India’s dental sector scale up?",
         "summary": "Structural shifts driven by standardisation and digital adoption are reshaping dentistry in India,even as affordability,insurance gaps and access challenges persist",
-        "source": "Express Healthcare",
+        "source": "Express Healthcare Posts",
         "sourceHost": "expresshealthcare.in",
         "region": "India",
         "country": "India",
@@ -1169,23 +1238,6 @@
         "articlePath": "/article.html?issue=2026-05-10&article=2026-05-10-why-ai-s-overconfidence-in-healthcare-is-a-crisis-we-cannot-ignore"
       },
       {
-        "id": "2026-05-10-purelab-launches-home-collection-service-in-uae-to-increase-access-to-pr",
-        "title": "PureLab launches home collection service in UAE to increase access to preventive diagnostic tests",
-        "summary": "The initiative builds on PureLab’s expansive diagnostic footprint, which includes more than 145 laboratories, over 1,400 licensed clinical professionals, and more than 50 accreditations across its ...",
-        "source": "Healthcare MEA",
-        "sourceHost": "healthcaremea.com",
-        "region": "Middle East",
-        "country": "United Arab Emirates",
-        "publishedAt": "2026-05-13T09:07:00.000Z",
-        "publishedLabel": "May 13, 2026",
-        "category": "Diagnostics",
-        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/05/image-1600x900-2026-05-13T090952.832.png",
-        "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
-        "justIn": false,
-        "originalUrl": "https://www.healthcaremea.com/2026/05/13/purelab-launches-home-collection-service-in-uae-to-increase-access-to-preventive-diagnostic-tests/",
-        "articlePath": "/article.html?issue=2026-05-10&article=2026-05-10-purelab-launches-home-collection-service-in-uae-to-increase-access-to-pr"
-      },
-      {
         "id": "2026-05-10-sidra-medicine-receives-zeiss-labs-location-recognition-for-advanced-ima",
         "title": "Sidra Medicine receives ZEISS labs@location Recognition for advanced Imaging Excellence in Qatar",
         "summary": "Through this collaboration, ZEISS supports the development of innovative imaging applications, provides scientific training opportunities, enables expert demonstrations, and facilitates knowledge ...",
@@ -1198,7 +1250,7 @@
         "category": "Lab Network",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/05/image-1600x900-2026-05-14T112603.192.png",
         "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/05/14/sidra-medicine-receives-zeiss-labslocation-recognition-for-advanced-imaging-excellence-in-qatar/",
         "articlePath": "/article.html?issue=2026-05-10&article=2026-05-10-sidra-medicine-receives-zeiss-labs-location-recognition-for-advanced-ima"
       }
@@ -1256,8 +1308,8 @@
         "articlePath": "/article.html?issue=2026-05-10&article=2026-05-10-unsung-heroes-to-skilled-specialists-how-nursing-roles-are-evolving"
       },
       {
-        "id": "2026-05-10-p-m42-collaborates-with-diaverum-to-launch-ai-health-assistant-across-fi",
-        "title": "<p>M42 collaborates with Diaverum to launch AI Health Assistant across five international markets</p>",
+        "id": "2026-05-10-m42-partners-with-diaverum-to-launch-ai-powered-kidney-com-platform-to-b",
+        "title": "M42 partners with Diaverum to launch AI-powered kidney.com platform to boost kidney health awareness",
         "summary": "The platform debuted across the UAE, France, Germany, Portugal, and the UK, with additional international rollouts planned in the coming months.",
         "source": "Healthcare MEA",
         "sourceHost": "healthcaremea.com",
@@ -1269,8 +1321,8 @@
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/05/image-1600x900-2026-05-14T105356.624.png",
         "thbAction": "",
         "justIn": true,
-        "originalUrl": "https://www.healthcaremea.com/2026/05/14/m42-collaborates-with-diaverum-to-launch-ai-health-assistant-across-five-international-markets/",
-        "articlePath": "/article.html?issue=2026-05-10&article=2026-05-10-p-m42-collaborates-with-diaverum-to-launch-ai-health-assistant-across-fi"
+        "originalUrl": "https://www.healthcaremea.com/2026/05/14/m42-partners-with-diaverum-to-launch-ai-powered-kidney-com-platform-to-boost-kidney-health-awareness/",
+        "articlePath": "/article.html?issue=2026-05-10&article=2026-05-10-m42-partners-with-diaverum-to-launch-ai-powered-kidney-com-platform-to-b"
       }
     ]
   },
@@ -1373,17 +1425,9 @@
     },
     {
       "segment": "diagnostics",
-      "articleId": "2026-05-10-medielaj-launches-ai-powered-healthcare-app-and-diagnostic-kiosk-platfor",
-      "title": "MediElaj launches AI-powered healthcare app and diagnostic kiosk platform in India",
-      "source": "Express Healthcare Posts",
-      "solution": "THB Diagnostics CRM",
-      "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
-    },
-    {
-      "segment": "diagnostics",
       "articleId": "2026-05-10-drilling-down-can-india-s-dental-sector-scale-up",
       "title": "Drilling down: Can India’s dental sector scale up?",
-      "source": "Express Healthcare",
+      "source": "Express Healthcare Posts",
       "solution": "THB Diagnostics CRM",
       "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
     },
@@ -1392,6 +1436,14 @@
       "articleId": "2026-05-10-why-ai-s-overconfidence-in-healthcare-is-a-crisis-we-cannot-ignore",
       "title": "Why AI’s overconfidence in healthcare is a crisis we cannot ignore",
       "source": "Express Healthcare Posts",
+      "solution": "THB Diagnostics CRM",
+      "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
+    },
+    {
+      "segment": "diagnostics",
+      "articleId": "2026-05-10-sidra-medicine-receives-zeiss-labs-location-recognition-for-advanced-ima",
+      "title": "Sidra Medicine receives ZEISS labs@location Recognition for advanced Imaging Excellence in Qatar",
+      "source": "Healthcare MEA",
       "solution": "THB Diagnostics CRM",
       "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
     }
