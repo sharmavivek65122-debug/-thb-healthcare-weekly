@@ -5,14 +5,15 @@
   "startDate": "2026-05-02T18:30:00.000Z",
   "endDate": "2026-05-08T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-05-16T06:40:01.630Z",
+  "updatedAt": "2026-05-16T14:40:35.259Z",
   "coverage": {
-    "pharma": 14,
-    "providers": 3,
+    "pharma": 10,
+    "providers": 6,
     "diagnostics": 2,
     "healthtech": 0
   },
   "sourcesUsed": [
+    "Arabian Business Healthcare",
     "ET Healthworld",
     "ET Healthworld Diagnostics",
     "ET Healthworld Hospitals",
@@ -24,23 +25,6 @@
   ],
   "segments": {
     "pharma": [
-      {
-        "id": "2026-05-03-semaglutide-race-torrent-grabs-38-market-share",
-        "title": "Semaglutide race: Torrent grabs 38% market share",
-        "summary": "Over a dozen Indian companies have launched generic versions of the GLP1 drug used for diabetes and weight management since the expiry of Novo Nordisk's patent for the innovator molecule in end-March. They generated about ₹44 crore in generic semaglutide...",
-        "source": "Economic Times Pharma",
-        "sourceHost": "economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-05-07T19:26:52.000Z",
-        "publishedLabel": "May 8, 2026",
-        "category": "Market",
-        "image": "https://img.etimg.com/thumb/msid-130920395,width-1200,height-630,imgsize-45752,overlay-economictimes/articleshow.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/semaglutide-race-torrent-grabs-38-market-share/articleshow/130919758.cms",
-        "articlePath": "/article.html?issue=2026-05-03&article=2026-05-03-semaglutide-race-torrent-grabs-38-market-share"
-      },
       {
         "id": "2026-05-03-drug-regulator-cracks-down-on-delayed-safety-reporting-by-pharma-compani",
         "title": "Drug regulator cracks down on delayed safety reporting by pharma companies",
@@ -161,23 +145,6 @@
         "articlePath": "/article.html?issue=2026-05-03&article=2026-05-03-bizengri-receives-fda-national-priority-voucher-for-nrg1-cholangiocarcin"
       },
       {
-        "id": "2026-05-03-brown-fat-could-help-protect-against-cardiovascular-disease-in-obesity",
-        "title": "Brown fat could help protect against cardiovascular disease in obesity",
-        "summary": "People with obesity face a significantly increased risk of atherosclerosis, and consequently heart attack and stroke. This elevated risk is largely driven by chronic inflammation in the blood vessels, which is more common in severe obesity.",
-        "source": "PharmaTutor News",
-        "sourceHost": "pharmatutor.org",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-05-07T10:34:06.000Z",
-        "publishedLabel": "May 7, 2026",
-        "category": "Industry Update",
-        "image": "https://www.pharmatutor.org/sites/default/files/styles/webp/public/2026-05/brown-fat-could-help-protect-against-cardiovascular-disease-in-obesity.jpg.webp?itok=JdiIbRW8",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/brown-fat-could-help-protect-against-cardiovascular-disease-in-obesity",
-        "articlePath": "/article.html?issue=2026-05-03&article=2026-05-03-brown-fat-could-help-protect-against-cardiovascular-disease-in-obesity"
-      },
-      {
         "id": "2026-05-03-blocking-tgf-signaling-may-strengthen-efficacy-of-osteoporosis-therapy",
         "title": "Blocking TGF-β Signaling May Strengthen Efficacy of Osteoporosis Therapy",
         "summary": "A recent mouse model based study suggests that blocking TGF-β may improve osteoporosis treatment by helping quiescent osteoblasts in inactive bone surfaces return to an active state. Using spatial transcriptomics, single-cell analysis, and functional...",
@@ -212,23 +179,6 @@
         "articlePath": "/article.html?issue=2026-05-03&article=2026-05-03-nanoparticles-overcome-drug-resistant-cancer-via-sequential-drug-release"
       },
       {
-        "id": "2026-05-03-moderna-publishes-phase-3-data-for-experimental-flu-vaccine-mrna-1010",
-        "title": "Moderna Publishes Phase 3 Data for Experimental Flu Vaccine mRNA-1010",
-        "summary": "Moderna, Inc. announced a publication in the New England Journal of Medicine of the positive Phase 3 study results evaluating mRNA-1010, its vaccine candidate for seasonal influenza. The peer-reviewed article summarizes the safety and efficacy data from...",
-        "source": "PharmaTutor News",
-        "sourceHost": "pharmatutor.org",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-05-07T11:45:10.000Z",
-        "publishedLabel": "May 7, 2026",
-        "category": "Industry Update",
-        "image": "https://www.pharmatutor.org/sites/default/files/styles/webp/public/2026-05/moderna-publishes-phase-3-data-for-experimental-flu-vaccine-mrna-1010.jpg.webp?itok=Ehd8_xfV",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/moderna-publishes-phase-3-data-for-experimental-flu-vaccine-mrna-1010",
-        "articlePath": "/article.html?issue=2026-05-03&article=2026-05-03-moderna-publishes-phase-3-data-for-experimental-flu-vaccine-mrna-1010"
-      },
-      {
         "id": "2026-05-03-johnson-and-johnson-launches-generation-fine-a-new-movement-encouraging-",
         "title": "Johnson & Johnson launches Generation Fine, a New Movement Encouraging Patients to Expect More from Depression Treatment and Aim for Remission",
         "summary": "Generation Fine launches after global survey finds nearly 4 in 5 patients living with major depressive disorder don’t believe antidepressants will help them reach remission Campaign draws on expertise of Mental Health America and elevates the voices of...",
@@ -244,23 +194,6 @@
         "justIn": false,
         "originalUrl": "https://www.jnj.com/media-center/press-releases/johnson-johnson-launches-generation-fine-a-new-movement-encouraging-patients-to-expect-more-from-depression-treatment-and-aim-for-remission",
         "articlePath": "/article.html?issue=2026-05-03&article=2026-05-03-johnson-and-johnson-launches-generation-fine-a-new-movement-encouraging-"
-      },
-      {
-        "id": "2026-05-03-cipla-launches-ciposcillo-a-next-generation-oscillometer-device-for-resp",
-        "title": "Cipla launches Ciposcillo – A next-generation oscillometer device for respiratory diagnostics",
-        "summary": "Cipla announced the launch of Ciposcillo®, an advanced oscillometer designed for accurate and precise assessment of respiratory mechanics. The device enables early diagnosis of obstructive airway diseases such as Chronic Obstructive Pulmonary Disease (COPD)...",
-        "source": "PharmaTutor News",
-        "sourceHost": "pharmatutor.org",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-05-07T10:40:17.000Z",
-        "publishedLabel": "May 7, 2026",
-        "category": "Launch",
-        "image": "https://www.pharmatutor.org/sites/default/files/styles/webp/public/2026-05/cipla-launches-ciposcillo-a-next-generation-oscillometer-device-for-respiratory-diagnostics.jpg.webp?itok=FtZlEv70",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/cipla-launches-ciposcillo-a-next-generation-oscillometer-device-for-respiratory-diagnostics",
-        "articlePath": "/article.html?issue=2026-05-03&article=2026-05-03-cipla-launches-ciposcillo-a-next-generation-oscillometer-device-for-resp"
       }
     ],
     "providers": [
@@ -314,6 +247,57 @@
         "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/centre-eases-building-height-norms-to-allow-vertical-expansion-of-hospitals/130743964",
         "articlePath": "/article.html?issue=2026-05-03&article=2026-05-03-centre-eases-building-height-norms-to-allow-vertical-expansion-of-hospit"
+      },
+      {
+        "id": "2026-05-03-purehealth-local-procurement-spend-tops-1-7bn-arabian-business-latest-ne",
+        "title": "PureHealth local procurement spend tops $1.7bn - Arabian Business: Latest News on the Middle East, Real",
+        "summary": "The group said its ICV strategy is focused on strengthening local supply chains, supporting national industries and expanding the role of UAE-based suppliers in healthcare procurement",
+        "source": "Arabian Business Healthcare",
+        "sourceHost": "arabianbusiness.com",
+        "region": "Middle East",
+        "country": "United Arab Emirates",
+        "publishedAt": "2026-05-08T09:23:15.000Z",
+        "publishedLabel": "May 8, 2026",
+        "category": "AI Care Delivery",
+        "image": "https://www.arabianbusiness.com/cloud/2026/05/08/PureHealth-at-Make-it-in-the-Emirates-2026.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": false,
+        "originalUrl": "https://www.arabianbusiness.com/business/healthcare/purehealth-local-procurement-spend-tops-1-7bn",
+        "articlePath": "/article.html?issue=2026-05-03&article=2026-05-03-purehealth-local-procurement-spend-tops-1-7bn-arabian-business-latest-ne"
+      },
+      {
+        "id": "2026-05-03-burjeel-holdings-reports-robust-financial-performance-despite-backdrop-o",
+        "title": "Burjeel Holdings reports robust financial performance despite backdrop of regional unrest - Arabian",
+        "summary": "Dr. Shamsheer Vayalil, CEO of Burjeel Holdings, said the healthcare provider continued to invest and expand despite a challenging regional backdrop.",
+        "source": "Arabian Business Healthcare",
+        "sourceHost": "arabianbusiness.com",
+        "region": "Middle East",
+        "country": "United Arab Emirates",
+        "publishedAt": "2026-05-07T13:21:00.000Z",
+        "publishedLabel": "May 7, 2026",
+        "category": "AI Care Delivery",
+        "image": "https://www.arabianbusiness.com/cloud/2026/05/07/Burjeel-Holdings.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": false,
+        "originalUrl": "https://www.arabianbusiness.com/business/healthcare/burjeel-holdings-financial-performance",
+        "articlePath": "/article.html?issue=2026-05-03&article=2026-05-03-burjeel-holdings-reports-robust-financial-performance-despite-backdrop-o"
+      },
+      {
+        "id": "2026-05-03-mubadala-invests-75m-in-whoop-to-expand-ai-driven-preventative-healthcar",
+        "title": "Mubadala invests $75m in WHOOP to expand AI-driven preventative healthcare in the UAE - Arabian Business:",
+        "summary": "Mubadala will invest $75m in WHOOP as the performance technology company expands research, biomarker testing and digital health services in the UAE",
+        "source": "Arabian Business Healthcare",
+        "sourceHost": "arabianbusiness.com",
+        "region": "Middle East",
+        "country": "United Arab Emirates",
+        "publishedAt": "2026-05-08T00:18:25.000Z",
+        "publishedLabel": "May 8, 2026",
+        "category": "AI Care Delivery",
+        "image": "https://www.arabianbusiness.com/cloud/2026/05/08/WHOOP-Advanced-Labs.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": false,
+        "originalUrl": "https://www.arabianbusiness.com/business/healthcare/mubadala-invests-75m-in-whoop-to-expand-ai-driven-preventative-healthcare-in-the-uae",
+        "articlePath": "/article.html?issue=2026-05-03&article=2026-05-03-mubadala-invests-75m-in-whoop-to-expand-ai-driven-preventative-healthcar"
       }
     ],
     "diagnostics": [
@@ -357,14 +341,6 @@
   "thbActions": [
     {
       "segment": "pharma",
-      "articleId": "2026-05-03-semaglutide-race-torrent-grabs-38-market-share",
-      "title": "Semaglutide race: Torrent grabs 38% market share",
-      "source": "Economic Times Pharma",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
-      "segment": "pharma",
       "articleId": "2026-05-03-drug-regulator-cracks-down-on-delayed-safety-reporting-by-pharma-compani",
       "title": "Drug regulator cracks down on delayed safety reporting by pharma companies",
       "source": "Economic Times Pharma",
@@ -396,6 +372,14 @@
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
     },
     {
+      "segment": "pharma",
+      "articleId": "2026-05-03-garlic-derived-compound-shows-potential-to-improve-muscle-health-during-",
+      "title": "Garlic-Derived Compound Shows Potential to Improve Muscle Health During Aging",
+      "source": "PharmaTutor News",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
       "segment": "providers",
       "articleId": "2026-05-03-top-private-hospitals-may-drop-out-of-government-health-plans",
       "title": "Top private hospitals may drop out of government health plans",
@@ -416,6 +400,22 @@
       "articleId": "2026-05-03-centre-eases-building-height-norms-to-allow-vertical-expansion-of-hospit",
       "title": "Centre eases building height norms to allow vertical expansion of Hospitals",
       "source": "ET Healthworld Hospitals",
+      "solution": "THB Provider CRM",
+      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
+    },
+    {
+      "segment": "providers",
+      "articleId": "2026-05-03-purehealth-local-procurement-spend-tops-1-7bn-arabian-business-latest-ne",
+      "title": "PureHealth local procurement spend tops $1.7bn - Arabian Business: Latest News on the Middle East, Real",
+      "source": "Arabian Business Healthcare",
+      "solution": "THB Provider CRM",
+      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
+    },
+    {
+      "segment": "providers",
+      "articleId": "2026-05-03-burjeel-holdings-reports-robust-financial-performance-despite-backdrop-o",
+      "title": "Burjeel Holdings reports robust financial performance despite backdrop of regional unrest - Arabian",
+      "source": "Arabian Business Healthcare",
       "solution": "THB Provider CRM",
       "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
     },
