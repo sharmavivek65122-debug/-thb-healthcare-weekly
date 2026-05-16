@@ -5,16 +5,15 @@
   "startDate": "2026-03-21T18:30:00.000Z",
   "endDate": "2026-03-27T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-05-15T15:37:29.283Z",
+  "updatedAt": "2026-05-16T06:40:01.630Z",
   "coverage": {
     "pharma": 1,
-    "providers": 3,
+    "providers": 2,
     "diagnostics": 2,
     "healthtech": 0
   },
   "sourcesUsed": [
     "ET Healthworld Diagnostics",
-    "ET Healthworld Hospitals",
     "Financial Express Healthcare",
     "Lupin Updates"
   ],
@@ -39,23 +38,6 @@
       }
     ],
     "providers": [
-      {
-        "id": "2026-03-22-medanta-plans-400-bed-multi-specialty-facility-in-varanasi-with-rs-550-c",
-        "title": "Medanta plans 400-bed multi-specialty facility in Varanasi with Rs 550 cr investment",
-        "summary": "Under the agreement, the civil infrastructure of the hospital will be developed by Shripal Hospitality, while Medanta will invest around around Rs 550 crores in interior services, fit outs and medical equipment.",
-        "source": "ET Healthworld Hospitals",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-03-25T12:54:18.000Z",
-        "publishedLabel": "March 25, 2026",
-        "category": "Hospital",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-129802133,imgsize-109596,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/medanta-plans-400-bed-multi-specialty-facility-in-varanasi-with-rs-550-cr-investment.jpg",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/medanta-plans-400-bed-multi-specialty-facility-in-varanasi-with-rs-550-cr-investment/129802133",
-        "articlePath": "/article.html?issue=2026-03-22&article=2026-03-22-medanta-plans-400-bed-multi-specialty-facility-in-varanasi-with-rs-550-c"
-      },
       {
         "id": "2026-03-22-curemeabroad-building-global-medical-tourism-platform",
         "title": "CureMeAbroad building global medical tourism platform",
@@ -137,14 +119,6 @@
       "source": "Lupin Updates",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
-      "segment": "providers",
-      "articleId": "2026-03-22-medanta-plans-400-bed-multi-specialty-facility-in-varanasi-with-rs-550-c",
-      "title": "Medanta plans 400-bed multi-specialty facility in Varanasi with Rs 550 cr investment",
-      "source": "ET Healthworld Hospitals",
-      "solution": "THB Provider CRM",
-      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
     },
     {
       "segment": "providers",
