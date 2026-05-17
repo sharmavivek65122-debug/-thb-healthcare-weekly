@@ -1,12 +1,7 @@
 {
   "cadence": "Weekly issue refreshed daily with newly available articles from Sunday to Saturday. Full issue published every Saturday.",
-  "latestIssueKey": "2026-05-10",
+  "latestIssueKey": "2026-05-17",
   "issues": [
-    {
-      "key": "2026-03-22",
-      "label": "Issue #7 | Mar 22 - Mar 28, 2026",
-      "file": "/newsletter/issues/2026-03-22.md"
-    },
     {
       "key": "2026-03-29",
       "label": "Issue #8 | Mar 29 - Apr 4, 2026",
@@ -41,6 +36,11 @@
       "key": "2026-05-10",
       "label": "Issue #14 | May 10 - May 16, 2026",
       "file": "/newsletter/issues/2026-05-10.md"
+    },
+    {
+      "key": "2026-05-17",
+      "label": "Issue #15 | May 17 - May 23, 2026",
+      "file": "/newsletter/issues/2026-05-17.md"
     }
   ]
 }

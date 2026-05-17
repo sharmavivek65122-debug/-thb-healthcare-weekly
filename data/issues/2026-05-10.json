@@ -4,8 +4,8 @@
   "rangeLabel": "May 10 - May 16, 2026",
   "startDate": "2026-05-09T18:30:00.000Z",
   "endDate": "2026-05-15T18:30:00.000Z",
-  "status": "live",
-  "updatedAt": "2026-05-16T14:40:35.259Z",
+  "status": "published",
+  "updatedAt": "2026-05-17T07:21:55.986Z",
   "coverage": {
     "pharma": 50,
     "providers": 17,
@@ -13,7 +13,6 @@
     "healthtech": 3
   },
   "sourcesUsed": [
-    "Arabian Business Healthcare",
     "ET Healthworld",
     "ET Healthworld Diagnostics",
     "ET Healthworld Hospitals",
@@ -23,45 +22,10 @@
     "Healthcare MEA",
     "Janssen India Media",
     "Medical Dialogues Pharma",
-    "PharmaTutor News",
-    "Reuters Healthcare & Pharma"
+    "PharmaTutor News"
   ],
   "segments": {
     "pharma": [
-      {
-        "id": "2026-05-10-west-pharma-says-operations-recovering-after-cyberattack",
-        "title": "West Pharma says operations recovering after cyberattack",
-        "summary": "West Pharmaceutical Services said on Friday its operations were steadily recovering after a cyberattack ​earlier this month disrupted manufacturing and logistics ‌globally.",
-        "source": "Reuters Healthcare & Pharma",
-        "sourceHost": "reuters.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-05-15T18:18:00.372Z",
-        "publishedLabel": "May 15, 2026",
-        "category": "Manufacturing",
-        "image": "https://www.reuters.com/resizer/v2/466BJJQ7PVGY5O53NZ3KL65MHM.png?auth=b9c3bf166c40a6778eb5672993fde7c30a15f48329026674eff92afd8da1d0ca&height=1005&width=1920&quality=80&smart=true",
-        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
-        "originalUrl": "https://www.reuters.com/business/healthcare-pharmaceuticals/west-pharma-says-operations-recovering-after-cyberattack-2026-05-15/",
-        "articlePath": "/article.html?issue=2026-05-10&article=2026-05-10-west-pharma-says-operations-recovering-after-cyberattack"
-      },
-      {
-        "id": "2026-05-10-india-s-alembic-pharma-quarterly-profit-rises-on-strong-u-s-generics-dem",
-        "title": "India's Alembic Pharma quarterly profit rises on strong U.S. generics demand",
-        "summary": "Indian drugmaker Alembic Pharmaceuticals posted a 29.2% rise in ​fourth-quarter profit on Friday, aided ‌by strong demand for its generic drugs and new launches in its ​key United States market.",
-        "source": "Reuters Healthcare & Pharma",
-        "sourceHost": "reuters.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-05-15T10:08:48.993Z",
-        "publishedLabel": "May 15, 2026",
-        "category": "Market",
-        "image": "https://www.reuters.com/resizer/v2/466BJJQ7PVGY5O53NZ3KL65MHM.png?auth=b9c3bf166c40a6778eb5672993fde7c30a15f48329026674eff92afd8da1d0ca&height=1005&width=1920&quality=80&smart=true",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
-        "originalUrl": "https://www.reuters.com/business/healthcare-pharmaceuticals/indias-alembic-pharma-quarterly-profit-rises-strong-us-generics-demand-2026-05-15/",
-        "articlePath": "/article.html?issue=2026-05-10&article=2026-05-10-india-s-alembic-pharma-quarterly-profit-rises-on-strong-u-s-generics-dem"
-      },
       {
         "id": "2026-05-10-novartis-sharpening-india-strategy-as-a-pure-play-innovator",
         "title": "Novartis sharpening India strategy as a pure-play innovator",
@@ -279,7 +243,7 @@
         "category": "Launch",
         "image": "https://img.etimg.com/thumb/msid-131132966,width-1200,height-630,imgsize-45602,overlay-economictimes/articleshow.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/dr-reddys-launches-generic-semaglutide-injection-popular-weight-loss-drug-in-canada/articleshow/131132941.cms",
         "articlePath": "/article.html?issue=2026-05-10&article=2026-05-10-dr-reddy-s-launches-generic-semaglutide-injection-popular-weight-loss-dr"
       },
@@ -624,6 +588,23 @@
         "articlePath": "/article.html?issue=2026-05-10&article=2026-05-10-bora-group-expands-us-biologics-footprint-with-us-127-5m-macrogenics-cdm"
       },
       {
+        "id": "2026-05-10-dr-reddy-s-labs-among-first-to-launch-generic-semaglutide-in-canada",
+        "title": "Dr Reddy's Labs Among First to Launch Generic Semaglutide in Canada",
+        "summary": "New Delhi: Drugmaker Dr. Reddy's Laboratories has announced the launch of its generic Semaglutide Injection in Canada following the receipt of a Notice of Compliance (NOC) from Health Canada on April...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-05-16T16:38:51.000Z",
+        "publishedLabel": "May 16, 2026",
+        "category": "Launch",
+        "image": "https://medicaldialogues.in/h-upload/2022/10/20/188658-dr-reddy-new.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": false,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/dr-reddys-labs-among-first-to-launch-generic-semaglutide-in-canada-170846",
+        "articlePath": "/article.html?issue=2026-05-10&article=2026-05-10-dr-reddy-s-labs-among-first-to-launch-generic-semaglutide-in-canada"
+      },
+      {
         "id": "2026-05-10-fda-launches-major-push-to-repurpose-existing-drugs-for-rare-and-chronic",
         "title": "FDA launches major push to repurpose existing drugs for rare and chronic diseases",
         "summary": "The U.S. Food and Drug Administration (FDA) has announced a new initiative aimed at accelerating the repurposing of already approved medicines to treat diseases with significant unmet medical needs, including rare disorders, neurodegenerative diseases,...",
@@ -755,7 +736,7 @@
         "category": "Manufacturing",
         "image": "https://www.pharmatutor.org/sites/default/files/styles/webp/public/2026-05/us-opens-door-for-pharma-companies-to-escape-100-percentage-tariffs-through-manufacturing-shift.jpg.webp?itok=7wG4T1xi",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/us-opens-door-for-pharma-companies-to-escape-100-percentage-tariffs-through-manufacturing-shift",
         "articlePath": "/article.html?issue=2026-05-10&article=2026-05-10-us-opens-door-for-pharma-companies-to-escape-100-tariffs-through-manufac"
       },
@@ -772,7 +753,7 @@
         "category": "Industry Update",
         "image": "https://www.pharmatutor.org/sites/default/files/styles/webp/public/2026-05/eisai-bets-big-on-alzheimers-drug-leqembi-as-sales-forecast-nears-1-billion-usd.jpg.webp?itok=IN9JOUT5",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/eisai-bets-big-on-alzheimers-drug-leqembi-as-sales-forecast-nears-1-billion-usd",
         "articlePath": "/article.html?issue=2026-05-10&article=2026-05-10-eisai-bets-big-on-alzheimer-s-drug-leqembi-as-sales-forecast-nears-1-bil"
       },
@@ -789,7 +770,7 @@
         "category": "Industry Update",
         "image": "https://www.pharmatutor.org/sites/default/files/styles/webp/public/2026-05/fda-approves-genentechs-tecentriq-for-precision-guided-bladder-cancer-treatment.jpg.webp?itok=NiN_xr2Z",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/fda-approves-genentechs-tecentriq-for-precision-guided-bladder-cancer-treatment",
         "articlePath": "/article.html?issue=2026-05-10&article=2026-05-10-fda-approves-genentech-s-tecentriq-for-precision-guided-bladder-cancer-t"
       },
@@ -845,21 +826,21 @@
         "articlePath": "/article.html?issue=2026-05-10&article=2026-05-10-dr-reddy-s-q4-profit-crashes-86-to-rs-221-crore-as-north-america-generic"
       },
       {
-        "id": "2026-05-10-tripura-chemists-to-join-nationwide-may-20-strike-against-online-medicin",
-        "title": "Tripura Chemists to Join Nationwide May 20 Strike Against Online Medicine Sales",
-        "summary": "New Delhi: Pharmacists and chemists across Tripura will participate in the nationwide strike on May 20 called by the All India Organisation of Chemists and Druggists (AIOCD) against online sale of...",
+        "id": "2026-05-10-japan-flags-20-deaths-liver-injury-risk-in-amgen-s-rare-disease-drug-tav",
+        "title": "Japan Flags 20 Deaths, Liver Injury Risk in Amgen's Rare Disease Drug Tavneos",
+        "summary": "Bengaluru: About 20 deaths linked to ​serious liver dysfunction have been ​reported in Japan in patients treated with Amgen's ​rare disease drug Tavneos, according to a safety notice issued by partner...",
         "source": "Medical Dialogues Pharma",
         "sourceHost": "medicaldialogues.in",
         "region": "India",
         "country": "India",
-        "publishedAt": "2026-05-12T15:48:48.000Z",
-        "publishedLabel": "May 12, 2026",
+        "publishedAt": "2026-05-16T16:22:47.000Z",
+        "publishedLabel": "May 16, 2026",
         "category": "Industry Update",
-        "image": "https://medicaldialogues.in/h-upload/2025/12/12/313999-strike-4.jpg",
+        "image": "https://medicaldialogues.in/h-upload/2024/01/22/230681-amgen-50.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
         "justIn": false,
-        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/tripura-chemists-to-join-nationwide-may-20-strike-against-online-medicine-sales-170499",
-        "articlePath": "/article.html?issue=2026-05-10&article=2026-05-10-tripura-chemists-to-join-nationwide-may-20-strike-against-online-medicin"
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/japan-flags-20-deaths-liver-injury-risk-in-amgens-rare-disease-drug-tavneos-170843",
+        "articlePath": "/article.html?issue=2026-05-10&article=2026-05-10-japan-flags-20-deaths-liver-injury-risk-in-amgen-s-rare-disease-drug-tav"
       },
       {
         "id": "2026-05-10-kenya-signs-landmark-ivi-agreement-to-host-the-africa-vaccine-research-h",
@@ -877,6 +858,23 @@
         "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/05/15/kenya-signs-landmark-ivi-agreement-to-host-the-africa-vaccine-research-hub-in-nairobi/",
         "articlePath": "/article.html?issue=2026-05-10&article=2026-05-10-kenya-signs-landmark-ivi-agreement-to-host-the-africa-vaccine-research-h"
+      },
+      {
+        "id": "2026-05-10-glp-1-obesity-drugs-may-reduce-fat-while-preserving-muscle-study-finds",
+        "title": "GLP-1 Obesity Drugs May Reduce Fat While Preserving Muscle, Study Finds",
+        "summary": "A new real-world study presented at the European Congress on Obesity 2026 suggests that popular obesity medications such as semaglutide and tirzepatide may help patients lose mostly fat while preserving much of their muscle mass.",
+        "source": "PharmaTutor News",
+        "sourceHost": "pharmatutor.org",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-05-14T10:42:42.000Z",
+        "publishedLabel": "May 14, 2026",
+        "category": "Industry Update",
+        "image": "https://www.pharmatutor.org/sites/default/files/styles/webp/public/2026-05/glp-1-obesity-drugs-may-reduce-fat-while-preserving-muscle-study-finds.jpg.webp?itok=z3AReVFH",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": false,
+        "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/glp-1-obesity-drugs-may-reduce-fat-while-preserving-muscle-study-finds",
+        "articlePath": "/article.html?issue=2026-05-10&article=2026-05-10-glp-1-obesity-drugs-may-reduce-fat-while-preserving-muscle-study-finds"
       }
     ],
     "providers": [
@@ -896,6 +894,23 @@
         "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/manipal-health-acquires-land-hospital-in-mumbais-andheri-for-rs-495-crore/131037026",
         "articlePath": "/article.html?issue=2026-05-10&article=2026-05-10-manipal-health-acquires-land-hospital-in-mumbai-s-andheri-for-rs-495-cro"
+      },
+      {
+        "id": "2026-05-10-medanta-posts-1-195-crore-in-q4-fy26-net-profit-soars-40",
+        "title": "Medanta posts ₹1,195 crore in Q4 FY26, net profit soars 40%",
+        "summary": "For the full financial year, FY26, Medanta’s total income increased by 19.6 per cent YoY to Rs 4,508 crore and ebitda expanded 10.4 per cent to Rs 1,056 crore.",
+        "source": "ET Healthworld Hospitals",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-05-15T09:11:34.000Z",
+        "publishedLabel": "May 15, 2026",
+        "category": "Provider Update",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-131113164,imgsize-2135766,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/medanta-posts-1195-crore-in-q4-fy26-net-profit-soars-40.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": false,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/medanta-posts-1195-crore-in-q4-fy26-net-profit-soars-40/131113164",
+        "articlePath": "/article.html?issue=2026-05-10&article=2026-05-10-medanta-posts-1-195-crore-in-q4-fy26-net-profit-soars-40"
       },
       {
         "id": "2026-05-10-aiims-revives-rare-dual-organ-transplant-programme-after-18-years",
@@ -1136,38 +1151,21 @@
         "articlePath": "/article.html?issue=2026-05-10&article=2026-05-10-itworx-education-collaborates-with-global-medical-city-to-implement-ai-p"
       },
       {
-        "id": "2026-05-10-purehealth-named-top-uae-healthcare-brand-portfolio-as-value-rises-to-3b",
-        "title": "PureHealth named top UAE healthcare brand portfolio as value rises to $3bn - Arabian Business: Latest News",
-        "summary": "PureHealth retains position as UAE’s leading healthcare brand portfolio, with brand value rising 23 per cent to AED11bn ($3bn)",
-        "source": "Arabian Business Healthcare",
-        "sourceHost": "arabianbusiness.com",
-        "region": "Middle East",
-        "country": "United Arab Emirates",
-        "publishedAt": "2026-05-12T19:13:53.000Z",
-        "publishedLabel": "May 13, 2026",
-        "category": "AI Care Delivery",
-        "image": "https://www.arabianbusiness.com/cloud/2026/05/01/PureHealth.jpg",
+        "id": "2026-05-10-pharmacist-administers-anti-rabies-injection-to-chest-pain-patient-at-od",
+        "title": "Pharmacist Administers Anti-Rabies Injection to Chest Pain Patient at Odisha PHC",
+        "summary": "New Delhi: A case of alleged negligence has surfaced from Odisha's Kendrapara district where a pharmacist at a primary health centre mistakenly administered an anti-rabies injection to a patient who...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-05-16T16:33:39.000Z",
+        "publishedLabel": "May 16, 2026",
+        "category": "Patient Care",
+        "image": "https://medicaldialogues.in/h-upload/2026/01/05/319277-human-rabies.jpg",
         "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
-        "originalUrl": "https://www.arabianbusiness.com/business/healthcare/purehealth-named-top-uae-healthcare-brand-portfolio-as-value-rises-to-3bn",
-        "articlePath": "/article.html?issue=2026-05-10&article=2026-05-10-purehealth-named-top-uae-healthcare-brand-portfolio-as-value-rises-to-3b"
-      },
-      {
-        "id": "2026-05-10-uae-s-sheikh-mohammed-launches-initiative-to-eradicate-blindness-in-emir",
-        "title": "UAE's Sheikh Mohammed launches initiative to eradicate blindness in Emiratis",
-        "summary": "Programme design targets full eradication of river blindness by 2030 in supported locations",
-        "source": "Arabian Business Healthcare",
-        "sourceHost": "arabianbusiness.com",
-        "region": "Middle East",
-        "country": "United Arab Emirates",
-        "publishedAt": "2026-05-11T09:06:03.000Z",
-        "publishedLabel": "May 11, 2026",
-        "category": "Provider Update",
-        "image": "https://www.arabianbusiness.com/cloud/2026/05/11/j3m03mhe1ka17afpn-scaled.jpg",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
-        "originalUrl": "https://www.arabianbusiness.com/business/healthcare/uaes-sheikh-mohammed-launches-initiative-to-eradicate-blindness-in-emiratis",
-        "articlePath": "/article.html?issue=2026-05-10&article=2026-05-10-uae-s-sheikh-mohammed-launches-initiative-to-eradicate-blindness-in-emir"
+        "justIn": false,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/pharmacist-administers-anti-rabies-injection-to-chest-pain-patient-at-odisha-phc-170845",
+        "articlePath": "/article.html?issue=2026-05-10&article=2026-05-10-pharmacist-administers-anti-rabies-injection-to-chest-pain-patient-at-od"
       }
     ],
     "diagnostics": [
@@ -1297,22 +1295,6 @@
   "thbActions": [
     {
       "segment": "pharma",
-      "articleId": "2026-05-10-west-pharma-says-operations-recovering-after-cyberattack",
-      "title": "West Pharma says operations recovering after cyberattack",
-      "source": "Reuters Healthcare & Pharma",
-      "solution": "THB Commercial Analytics",
-      "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
-    },
-    {
-      "segment": "pharma",
-      "articleId": "2026-05-10-india-s-alembic-pharma-quarterly-profit-rises-on-strong-u-s-generics-dem",
-      "title": "India's Alembic Pharma quarterly profit rises on strong U.S. generics demand",
-      "source": "Reuters Healthcare & Pharma",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
-      "segment": "pharma",
       "articleId": "2026-05-10-novartis-sharpening-india-strategy-as-a-pure-play-innovator",
       "title": "Novartis sharpening India strategy as a pure-play innovator",
       "source": "Economic Times Pharma",
@@ -1336,9 +1318,33 @@
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
     },
     {
+      "segment": "pharma",
+      "articleId": "2026-05-10-from-oncology-to-obesity-pfizer-bets-big-on-india-for-its-next-growth-wa",
+      "title": "From oncology to obesity, Pfizer bets big on India for its next growth wave",
+      "source": "Economic Times Pharma",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "pharma",
+      "articleId": "2026-05-10-hantavirus-outbreak-tests-post-covid-health-communications-playbook",
+      "title": "Hantavirus outbreak tests post-COVID health communications playbook",
+      "source": "ET Healthworld",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
       "segment": "providers",
       "articleId": "2026-05-10-manipal-health-acquires-land-hospital-in-mumbai-s-andheri-for-rs-495-cro",
       "title": "Manipal Health acquires land, hospital in Mumbai’s Andheri for Rs 495 crore",
+      "source": "ET Healthworld Hospitals",
+      "solution": "THB Provider CRM",
+      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
+    },
+    {
+      "segment": "providers",
+      "articleId": "2026-05-10-medanta-posts-1-195-crore-in-q4-fy26-net-profit-soars-40",
+      "title": "Medanta posts ₹1,195 crore in Q4 FY26, net profit soars 40%",
       "source": "ET Healthworld Hospitals",
       "solution": "THB Provider CRM",
       "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
@@ -1363,14 +1369,6 @@
       "segment": "providers",
       "articleId": "2026-05-10-bihar-hospitals-await-ayushman-dues-for-months-financial-strain-mounts",
       "title": "Bihar hospitals await Ayushman dues for months, financial strain mounts",
-      "source": "ET Healthworld Hospitals",
-      "solution": "THB Provider CRM",
-      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
-    },
-    {
-      "segment": "providers",
-      "articleId": "2026-05-10-india-s-hospital-sector-enters-new-growth-cycle-as-ai-and-capacity-expan",
-      "title": "India's hospital sector enters new growth cycle as AI and capacity expansion reshape care: Report",
       "source": "ET Healthworld Hospitals",
       "solution": "THB Provider CRM",
       "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
