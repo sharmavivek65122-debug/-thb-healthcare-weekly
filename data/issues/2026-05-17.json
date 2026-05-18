@@ -5,38 +5,39 @@
   "startDate": "2026-05-16T18:30:00.000Z",
   "endDate": "2026-05-22T18:30:00.000Z",
   "status": "live",
-  "updatedAt": "2026-05-18T08:30:14.915Z",
+  "updatedAt": "2026-05-18T16:39:11.479Z",
   "coverage": {
-    "pharma": 13,
-    "providers": 0,
-    "diagnostics": 1,
+    "pharma": 19,
+    "providers": 1,
+    "diagnostics": 2,
     "healthtech": 0
   },
   "sourcesUsed": [
     "ET Healthworld",
+    "Economic Times Pharma",
     "Express Healthcare",
-    "Financial Express Healthcare",
     "Healthcare MEA",
-    "Medical Dialogues Pharma"
+    "Medical Dialogues Pharma",
+    "PharmaTutor News"
   ],
   "segments": {
     "pharma": [
       {
-        "id": "2026-05-17-alzheimer-s-lormalzi-therapy-offers-hope-doctors-for-early-diagnosis-clo",
-        "title": "Alzheimer's Lormalzi therapy offers hope; doctors for early diagnosis, close monitoring",
-        "summary": "Unlike conventional Alzheimer's drugs that largely manage memory loss and behavioural symptoms, donanemab targets amyloid-beta plaques ' abnormal protein deposits linked to the disease.",
-        "source": "ET Healthworld",
-        "sourceHost": "health.economictimes.indiatimes.com",
+        "id": "2026-05-17-pharmacy-associations-to-skip-strike-major-medicine-disruption-unlikely",
+        "title": "Pharmacy associations to skip strike, major medicine disruption unlikely",
+        "summary": "India's drug regulator is actively reviewing concerns from retail chemists about e-pharmacies. The All India Organisation of Chemists and Druggists had called for a strike. However, many pharmacy associations have stepped back, citing public interest and...",
+        "source": "Economic Times Pharma",
+        "sourceHost": "economictimes.indiatimes.com",
         "region": "India",
         "country": "India",
-        "publishedAt": "2026-05-17T04:13:20.000Z",
-        "publishedLabel": "May 17, 2026",
+        "publishedAt": "2026-05-18T14:21:05.000Z",
+        "publishedLabel": "May 18, 2026",
         "category": "Industry Update",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-131130149,imgsize-163298,width-1200,height=627,overlay-ethealth,resizemode-75/industry/alzheimers-lormalzi-therapy-offers-hope-doctors-for-early-diagnosis-close-monitoring.jpg",
+        "image": "https://img.etimg.com/thumb/msid-131179304,width-1200,height-630,imgsize-112102,overlay-economictimes/articleshow.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/alzheimers-lormalzi-therapy-offers-hope-doctors-for-early-diagnosis-close-monitoring/131130149",
-        "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-alzheimer-s-lormalzi-therapy-offers-hope-doctors-for-early-diagnosis-clo"
+        "justIn": true,
+        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/pharmacy-associations-skip-strike-major-medicine-disruption-unlikely/articleshow/131179265.cms",
+        "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-pharmacy-associations-to-skip-strike-major-medicine-disruption-unlikely"
       },
       {
         "id": "2026-05-17-athena-behavioral-health-opens-northeast-s-largest-integrated-psychiatri",
@@ -54,6 +55,23 @@
         "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/athena-behavioral-health-opens-northeasts-largest-integrated-psychiatric-hospital-in-guwahati/131149460",
         "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-athena-behavioral-health-opens-northeast-s-largest-integrated-psychiatri"
+      },
+      {
+        "id": "2026-05-17-gautam-adani-launches-rs-150-crore-vision-care-initiative-in-bihar-commi",
+        "title": "Gautam Adani launches Rs 150 crore vision care initiative in Bihar; commits Rs 500 crore for expansion",
+        "summary": "The initiative seeks to strengthen affordable eye treatment, rural outreach and vision care-skilling while bringing dignity, hope and the gift of sight to underserved communities across the Hindi heartland.",
+        "source": "ET Healthworld",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-05-18T11:13:50.000Z",
+        "publishedLabel": "May 18, 2026",
+        "category": "Launch",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-131174615,imgsize-94822,width-1200,height=627,overlay-ethealth,resizemode-75/industry/gautam-adani-launches-rs-150-crore-vision-care-initiative-in-bihar-commits-rs-500-crore-for-expansion.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/gautam-adani-launches-rs-150-crore-vision-care-initiative-in-bihar-commits-rs-500-crore-for-expansion/131174615",
+        "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-gautam-adani-launches-rs-150-crore-vision-care-initiative-in-bihar-commi"
       },
       {
         "id": "2026-05-17-kerala-s-amma-manasu-emerges-as-model-for-maternal-mental-healthcare-wef",
@@ -85,9 +103,26 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-131164056,imgsize-130186,width-1200,height=627,overlay-ethealth,resizemode-75/industry/ai-turning-vital-to-healthcare-need-to-prepare-doctors-to-use-it-responsibly-nmc-chairperson.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/ai-turning-vital-to-healthcare-need-to-prepare-doctors-to-use-it-responsibly-nmc-chairperson/131164056",
         "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-ai-turning-vital-to-healthcare-need-to-prepare-doctors-to-use-it-respons"
+      },
+      {
+        "id": "2026-05-17-measles-kills-450-kids-in-bangladesh-probe-sought-into-yunus-vax-policy",
+        "title": "Measles kills 450 kids in Bangladesh; probe sought into Yunus’ vax policy",
+        "summary": "Though measles is highly preventable with two doses of vaccine — administered from age of nine months — Bangladesh allegedly had a severe shortage of vaccines between 2024 and 2025, when Yunus was chief of the interim govt.",
+        "source": "ET Healthworld",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-05-18T11:32:48.000Z",
+        "publishedLabel": "May 18, 2026",
+        "category": "Industry Update",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-131175064,imgsize-53616,width-1200,height=627,overlay-ethealth,resizemode-75/industry/measles-kills-450-kids-in-bangladesh-probe-sought-into-yunus-vax-policy.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/measles-kills-450-kids-in-bangladesh-probe-sought-into-yunus-vax-policy/131175064",
+        "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-measles-kills-450-kids-in-bangladesh-probe-sought-into-yunus-vax-policy"
       },
       {
         "id": "2026-05-17-no-fresh-ebola-case-in-india-since-2014-govt",
@@ -102,26 +137,9 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-131164110,imgsize-63780,width-1200,height=627,overlay-ethealth,resizemode-75/policy/no-fresh-ebola-case-in-india-since-2014-govt.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/policy/no-fresh-ebola-case-in-india-since-2014-govt/131164110",
         "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-no-fresh-ebola-case-in-india-since-2014-govt"
-      },
-      {
-        "id": "2026-05-17-india-set-to-lead-global-ai-economy-says-shah",
-        "title": "India set to lead global AI economy, says Shah",
-        "summary": "Union Home Minister Amit Shah inaugurated the first phase of Million Minds Tech City (MMTC) in Ahmedabad, Gujarat's first IGBC Platinum-rated SEZ IT Park.",
-        "source": "Financial Express Healthcare",
-        "sourceHost": "financialexpress.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-05-17T19:22:41.000Z",
-        "publishedLabel": "May 18, 2026",
-        "category": "Industry Update",
-        "image": "https://images.financialexpressdigital.com/2026/05/def-2025-12-09T140851.378_20260517191903.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
-        "originalUrl": "https://www.financialexpress.com/business/news/india-set-to-lead-global-ai-economy-says-shah/4243549/",
-        "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-india-set-to-lead-global-ai-economy-says-shah"
       },
       {
         "id": "2026-05-17-uae-approves-miebo-eye-drop-for-evaporative-dry-eye-disease-healthcare-m",
@@ -136,7 +154,7 @@
         "category": "Manufacturing",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/05/image-1600x900-55.png",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/05/18/uae-approves-miebo-eye-drop-for-evaporative-dry-eye-disease/",
         "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-uae-approves-miebo-eye-drop-for-evaporative-dry-eye-disease-healthcare-m"
       },
@@ -153,9 +171,43 @@
         "category": "Manufacturing",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/05/image-1600x900-52.png",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/05/18/organabio-acquires-excellos-assets-to-form-bicoastal-cell-therapy-cdmo/",
         "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-organabio-acquires-excellos-assets-to-form-bicoastal-cell-therapy-cdmo-h"
+      },
+      {
+        "id": "2026-05-17-alembic-pharmaceuticals-reports-29-jump-in-q4-profit-enters-us-branded-p",
+        "title": "Alembic Pharmaceuticals Reports 29% Jump in Q4 Profit, Enters US Branded Pharma Market with Pivya Launch",
+        "summary": "Indian drug maker Alembic Pharmaceuticals has reported a strong financial performance for the fourth quarter of FY26, driven by steady growth in domestic formulations, robust US business expansion, and its strategic entry into the branded pharmaceuticals...",
+        "source": "PharmaTutor News",
+        "sourceHost": "pharmatutor.org",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-05-18T10:11:19.000Z",
+        "publishedLabel": "May 18, 2026",
+        "category": "Market",
+        "image": "https://www.pharmatutor.org/sites/default/files/styles/webp/public/2026-05/alembic-pharmaceuticals-reports-jump-in-q4-profit.jpg.webp?itok=dyv73Rt7",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/alembic-pharmaceuticals-reports-jump-in-q4-profit-enters-us-branded-pharma-market-with-pivya-launch",
+        "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-alembic-pharmaceuticals-reports-29-jump-in-q4-profit-enters-us-branded-p"
+      },
+      {
+        "id": "2026-05-17-dr-reddy-s-laboratories-launches-generic-semaglutide-injection-in-canada",
+        "title": "Dr. Reddy's Laboratories Launches Generic Semaglutide Injection in Canada, Marks Major Global Milestone",
+        "summary": "India-based pharmaceutical giant Dr. Reddy's Laboratories has announced the launch of its generic Semaglutide Injection in Canada, becoming one of the first companies to introduce the product in the Canadian market following approval from Health Canada.",
+        "source": "PharmaTutor News",
+        "sourceHost": "pharmatutor.org",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-05-18T10:02:14.000Z",
+        "publishedLabel": "May 18, 2026",
+        "category": "Approval",
+        "image": "https://www.pharmatutor.org/sites/default/files/styles/webp/public/2026-05/dr-reddys-laboratories-launches-generic-semaglutide-injection-in-canada-marks-major-global-milestone.jpg.webp?itok=ubAriD0b",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/dr-reddys-laboratories-launches-generic-semaglutide-injection-in-canada-marks-major-global-milestone",
+        "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-dr-reddy-s-laboratories-launches-generic-semaglutide-injection-in-canada"
       },
       {
         "id": "2026-05-17-isomorphic-labs-secures-us-2-1b-funding-to-scale-ai-drug-discovery-healt",
@@ -175,6 +227,23 @@
         "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-isomorphic-labs-secures-us-2-1b-funding-to-scale-ai-drug-discovery-healt"
       },
       {
+        "id": "2026-05-17-who-declares-ebola-global-health-emergency-in-drc-uganda-healthcare-midd",
+        "title": "WHO declares Ebola global health emergency in DRC, Uganda | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
+        "summary": "Health authorities in DRC and Uganda have already activated emergency response mechanisms, including contact tracing, case isolation, infection prevention measures, and enhanced treatment services.",
+        "source": "Healthcare MEA",
+        "sourceHost": "healthcaremea.com",
+        "region": "Middle East",
+        "country": "Middle East",
+        "publishedAt": "2026-05-18T10:16:07.000Z",
+        "publishedLabel": "May 18, 2026",
+        "category": "Manufacturing",
+        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/05/image-1600x900-57.png",
+        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
+        "justIn": true,
+        "originalUrl": "https://www.healthcaremea.com/2026/05/18/who-declares-ebola-global-health-emergency-in-drc-uganda/",
+        "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-who-declares-ebola-global-health-emergency-in-drc-uganda-healthcare-midd"
+      },
+      {
         "id": "2026-05-17-cdsco-flags-toxic-solvents-in-children-s-syrups-begins-industry-consulta",
         "title": "CDSCO Flags Toxic Solvents in Children's Syrups, Begins Industry Consultations",
         "summary": "New Delhi: In a significant regulatory intervention, the Central Drugs Standard Control Organisation (CDSCO) has begun consultations with the pharmaceutical industry over the continued use of...",
@@ -187,7 +256,7 @@
         "category": "Industry Update",
         "image": "https://medicaldialogues.in/h-upload/2025/12/02/312152-202512023594082.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/cdsco/cdsco-flags-toxic-solvents-in-childrens-syrups-begins-industry-consultations-170871",
         "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-cdsco-flags-toxic-solvents-in-children-s-syrups-begins-industry-consulta"
       },
@@ -204,9 +273,26 @@
         "category": "Manufacturing",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/05/image-1600x900-48.png",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/05/17/lesotho-launches-parliamentary-tb-caucus-to-strengthen-fight-against-tuberculosis/",
         "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-lesotho-launches-parliamentary-tb-caucus-to-strengthen-fight-against-tub"
+      },
+      {
+        "id": "2026-05-17-alembic-pharmaceuticals-clears-brazil-anvisa-gmp-inspection-for-karakhad",
+        "title": "Alembic Pharmaceuticals Clears Brazil ANVISA GMP Inspection for Karakhadi API Facility",
+        "summary": "In a significant regulatory achievement, Alembic Pharmaceuticals has successfully cleared a Good Manufacturing Practices (GMP) inspection conducted by Brazil’s health regulatory authority, ANVISA, for its API-III manufacturing facility located at Karakhadi,...",
+        "source": "PharmaTutor News",
+        "sourceHost": "pharmatutor.org",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-05-18T10:07:47.000Z",
+        "publishedLabel": "May 18, 2026",
+        "category": "Manufacturing",
+        "image": "https://www.pharmatutor.org/sites/default/files/styles/webp/public/2026-05/alembic-pharmaceuticals-clears-brazil-anvisa-gmp-inspection-for-karakhadi-api-facility.jpg.webp?itok=I-1AGTWu",
+        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
+        "justIn": true,
+        "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/alembic-pharmaceuticals-clears-brazil-anvisa-gmp-inspection-for-karakhadi-api-facility",
+        "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-alembic-pharmaceuticals-clears-brazil-anvisa-gmp-inspection-for-karakhad"
       },
       {
         "id": "2026-05-17-cdsco-approves-aurobindo-curateq-s-bevacizumab-biosimilar-bevqolva-for-c",
@@ -221,9 +307,26 @@
         "category": "Market",
         "image": "https://medicaldialogues.in/h-upload/2023/01/10/197265-aurobindo-pharma-2.jpg",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/cdsco/cdsco-approves-aurobindo-curateqs-bevacizumab-biosimilar-bevqolva-for-cancer-treatment-170870",
         "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-cdsco-approves-aurobindo-curateq-s-bevacizumab-biosimilar-bevqolva-for-c"
+      },
+      {
+        "id": "2026-05-17-alzheimer-s-memory-loss-linked-to-dopamine-deficiency-scientists-discove",
+        "title": "Alzheimer’s Memory Loss Linked to Dopamine Deficiency, Scientists Discover",
+        "summary": "Researchers have uncovered a surprising new mechanism behind memory loss in Alzheimer’s disease, identifying dopamine deficiency as a major contributor to cognitive decline. The discovery could open the door to new treatment approaches aimed at restoring...",
+        "source": "PharmaTutor News",
+        "sourceHost": "pharmatutor.org",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-05-18T10:19:14.000Z",
+        "publishedLabel": "May 18, 2026",
+        "category": "Industry Update",
+        "image": "https://www.pharmatutor.org/sites/default/files/styles/webp/public/2026-05/alzheimers-memory-loss-linked-to-dopamine-deficiency-scientists-discover.jpg.webp?itok=jDR9olg1",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/alzheimers-memory-loss-linked-to-dopamine-deficiency-scientists-discover",
+        "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-alzheimer-s-memory-loss-linked-to-dopamine-deficiency-scientists-discove"
       },
       {
         "id": "2026-05-17-karnataka-launches-real-time-portal-to-freeze-nsq-drugs-track-ndps-medic",
@@ -238,13 +341,48 @@
         "category": "Launch",
         "image": "https://medicaldialogues.in/h-upload/2026/02/09/326373-medicine.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/karnataka-launches-real-time-portal-to-freeze-nsq-drugs-track-ndps-medicine-sales-170872",
         "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-karnataka-launches-real-time-portal-to-freeze-nsq-drugs-track-ndps-medic"
       }
     ],
-    "providers": [],
+    "providers": [
+      {
+        "id": "2026-05-17-health-security-as-economic-security-for-india",
+        "title": "Health security as economic security for India",
+        "summary": "Healthcare in India is undergoing a meaningful shift in how it is perceived and experienced not just in metropolitan centres, but equally across Tier 2 and Tier 3 cities, rural […]",
+        "source": "Express Healthcare",
+        "sourceHost": "expresshealthcare.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-05-18T09:42:20.000Z",
+        "publishedLabel": "May 18, 2026",
+        "category": "Provider Update",
+        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/05/18151116/New-Project-12.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": false,
+        "originalUrl": "https://www.expresshealthcare.in/news/health-security-as-economic-security-for-india/453703/",
+        "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-health-security-as-economic-security-for-india"
+      }
+    ],
     "diagnostics": [
+      {
+        "id": "2026-05-17-medgenome-join-hands-with-sdrc",
+        "title": "MedGenome join hands with SDRC",
+        "summary": "MedGenome has joined hands with Siddhi Diagnostics & Research Centre (SDRC). This marks a strategic step in strengthening MedGenome’s presence in the region, while expanding access to advanced, integrated diagnostics […]",
+        "source": "Express Healthcare",
+        "sourceHost": "expresshealthcare.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-05-18T09:59:01.000Z",
+        "publishedLabel": "May 18, 2026",
+        "category": "Diagnostics",
+        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2021/06/29113543/Partnership.jpg",
+        "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
+        "justIn": true,
+        "originalUrl": "https://www.expresshealthcare.in/news/medgenome-join-hands-with-sdrc/453706/",
+        "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-medgenome-join-hands-with-sdrc"
+      },
       {
         "id": "2026-05-17-how-interventional-radiology-is-changing-treatment-for-chronic-pain-and-",
         "title": "How interventional radiology is changing treatment for chronic pain and vascular conditions",
@@ -258,7 +396,7 @@
         "category": "Industry Update",
         "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/05/18115014/New-Project-6-1.jpg",
         "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/news/how-interventional-radiology-is-changing-treatment-for-chronic-pain-and-vascular-conditions/453699/",
         "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-how-interventional-radiology-is-changing-treatment-for-chronic-pain-and-"
       }
@@ -268,9 +406,9 @@
   "thbActions": [
     {
       "segment": "pharma",
-      "articleId": "2026-05-17-alzheimer-s-lormalzi-therapy-offers-hope-doctors-for-early-diagnosis-clo",
-      "title": "Alzheimer's Lormalzi therapy offers hope; doctors for early diagnosis, close monitoring",
-      "source": "ET Healthworld",
+      "articleId": "2026-05-17-pharmacy-associations-to-skip-strike-major-medicine-disruption-unlikely",
+      "title": "Pharmacy associations to skip strike, major medicine disruption unlikely",
+      "source": "Economic Times Pharma",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
     },
@@ -278,6 +416,14 @@
       "segment": "pharma",
       "articleId": "2026-05-17-athena-behavioral-health-opens-northeast-s-largest-integrated-psychiatri",
       "title": "Athena Behavioral Health opens Northeast’s largest integrated psychiatric hospital in Guwahati",
+      "source": "ET Healthworld",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "pharma",
+      "articleId": "2026-05-17-gautam-adani-launches-rs-150-crore-vision-care-initiative-in-bihar-commi",
+      "title": "Gautam Adani launches Rs 150 crore vision care initiative in Bihar; commits Rs 500 crore for expansion",
       "source": "ET Healthworld",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
@@ -299,12 +445,20 @@
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
     },
     {
-      "segment": "pharma",
-      "articleId": "2026-05-17-no-fresh-ebola-case-in-india-since-2014-govt",
-      "title": "No fresh Ebola case in India since 2014: Govt",
-      "source": "ET Healthworld",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+      "segment": "providers",
+      "articleId": "2026-05-17-health-security-as-economic-security-for-india",
+      "title": "Health security as economic security for India",
+      "source": "Express Healthcare",
+      "solution": "THB Provider CRM",
+      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
+    },
+    {
+      "segment": "diagnostics",
+      "articleId": "2026-05-17-medgenome-join-hands-with-sdrc",
+      "title": "MedGenome join hands with SDRC",
+      "source": "Express Healthcare",
+      "solution": "THB Diagnostics CRM",
+      "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
     },
     {
       "segment": "diagnostics",
