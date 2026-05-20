@@ -5,9 +5,9 @@
   "startDate": "2026-05-16T18:30:00.000Z",
   "endDate": "2026-05-22T18:30:00.000Z",
   "status": "live",
-  "updatedAt": "2026-05-20T08:01:17.424Z",
+  "updatedAt": "2026-05-20T16:36:03.259Z",
   "coverage": {
-    "pharma": 43,
+    "pharma": 45,
     "providers": 3,
     "diagnostics": 4,
     "healthtech": 0
@@ -19,28 +19,10 @@
     "Express Healthcare",
     "Healthcare MEA",
     "Medical Dialogues Pharma",
-    "PharmaTutor News",
-    "Reuters Healthcare & Pharma"
+    "PharmaTutor News"
   ],
   "segments": {
     "pharma": [
-      {
-        "id": "2026-05-17-biopharmaceutical-firm-parabilis-medicines-files-for-us-ipo",
-        "title": "Biopharmaceutical firm Parabilis Medicines files for US IPO",
-        "summary": "Parabilis Medicines on Tuesday filed for an initial public offering in the United ​States, according to a regulatory filing, and said ‌it intends to use part of the proceeds to support the development of its drug pipeline.",
-        "source": "Reuters Healthcare & Pharma",
-        "sourceHost": "reuters.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-05-19T22:10:28.724Z",
-        "publishedLabel": "May 20, 2026",
-        "category": "Industry Update",
-        "image": "https://www.reuters.com/resizer/v2/466BJJQ7PVGY5O53NZ3KL65MHM.png?auth=b9c3bf166c40a6778eb5672993fde7c30a15f48329026674eff92afd8da1d0ca&height=1005&width=1920&quality=80&smart=true",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
-        "originalUrl": "https://www.reuters.com/legal/litigation/biopharmaceutical-firm-parabilis-medicines-files-us-ipo-2026-05-19/",
-        "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-biopharmaceutical-firm-parabilis-medicines-files-for-us-ipo"
-      },
       {
         "id": "2026-05-17-race-to-find-vaccines-treatments-for-ebola-strain-behind-outbreak",
         "title": "Race to find vaccines, treatments for Ebola strain behind outbreak",
@@ -54,9 +36,26 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-131213229,imgsize-48662,width-1200,height=627,overlay-ethealth,resizemode-75/industry/race-to-find-vaccines-treatments-for-ebola-strain-behind-outbreak.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/race-to-find-vaccines-treatments-for-ebola-strain-behind-outbreak/131213229",
         "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-race-to-find-vaccines-treatments-for-ebola-strain-behind-outbreak"
+      },
+      {
+        "id": "2026-05-17-dr-reddy-s-launches-oral-semaglutide-in-india",
+        "title": "Dr Reddy’s launches oral semaglutide in India",
+        "summary": "Dr Reddys Laboratories has launched its oral semaglutide biosimilar for type 2 diabetes in India. The drug, Obeda, is available in three tablet strengths for daily use. This launch expands access to advanced diabetes care. Dr Reddys is the second Indian...",
+        "source": "Economic Times Pharma",
+        "sourceHost": "economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-05-20T14:36:15.000Z",
+        "publishedLabel": "May 20, 2026",
+        "category": "Launch",
+        "image": "https://img.etimg.com/thumb/msid-131229268,width-1200,height-630,imgsize-52090,overlay-economictimes/articleshow.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/dr-reddys-launches-oral-semaglutide-in-india/articleshow/131229277.cms",
+        "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-dr-reddy-s-launches-oral-semaglutide-in-india"
       },
       {
         "id": "2026-05-17-rising-input-costs-export-slump-take-a-toll-on-drug-companies-health",
@@ -88,7 +87,7 @@
         "category": "Industry Update",
         "image": "https://img.etimg.com/thumb/msid-131210806,width-1200,height-630,imgsize-58794,overlay-economictimes/articleshow.jpg",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/mankind-pharma-profit-jumps-30-on-chronic-therapy-demand-in-q4/articleshow/131210663.cms",
         "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-mankind-pharma-profit-jumps-30-on-chronic-therapy-demand-in-q4"
       },
@@ -105,7 +104,7 @@
         "category": "Industry Update",
         "image": "https://img.etimg.com/thumb/msid-131208314,width-1200,height-630,imgsize-45818,overlay-economictimes/articleshow.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/nclat-allows-lyka-labs-appeal-asks-modi-lifecare-to-pay-rs-63-lakh-or-face-insolvency-proceedings/articleshow/131207404.cms",
         "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-nclat-allows-lyka-labs-appeal-asks-modi-lifecare-to-pay-rs-63-lakh-or-fa"
       },
@@ -139,7 +138,7 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-131218209,imgsize-103374,width-1200,height=627,overlay-ethealth,resizemode-75/policy/ayushman-bharat-digital-mission-strengthening-indias-national-digital-health-ecosystem-jp-nadda.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/policy/ayushman-bharat-digital-mission-strengthening-indias-national-digital-health-ecosystem-jp-nadda/131218209",
         "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-ayushman-bharat-digital-mission-strengthening-india-s-national-digital-h"
       },
@@ -178,6 +177,23 @@
         "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-ebola-deaths-in-eastern-congo-rise-to-131-as-outbreak-spreads"
       },
       {
+        "id": "2026-05-17-dr-reddy-s-launches-oral-semaglutide-biosimilar-obeda-in-india",
+        "title": "Dr Reddy's launches oral semaglutide biosimilar Obeda in India",
+        "summary": "Dr. Reddy's Laboratories proudly presents Obeda, a groundbreaking oral semaglutide biosimilar for managing Type 2 diabetes in India. This innovative treatment offers patients the ease of a once-daily oral dosage, available in various strengths to effectively...",
+        "source": "Economic Times Pharma",
+        "sourceHost": "economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-05-20T12:58:54.000Z",
+        "publishedLabel": "May 20, 2026",
+        "category": "Launch",
+        "image": "https://img.etimg.com/thumb/msid-131227686,width-1200,height-630,imgsize-1239191,overlay-economictimes/articleshow.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/dr-reddys-launches-oral-semaglutide-biosimilar-obeda-in-india/articleshow/131227677.cms",
+        "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-dr-reddy-s-launches-oral-semaglutide-biosimilar-obeda-in-india"
+      },
+      {
         "id": "2026-05-17-us-to-screen-for-ebola-at-airports-one-american-in-dr-congo-infected",
         "title": "US to screen for Ebola at airports, one American in DR Congo infected",
         "summary": "The measures shared by the US Centers for Disease Control and Prevention (CDC) come as the World Health Organization has declared the deadly Ebola outbreak in the Democratic Republic of Congo (DRC) an international health emergency.",
@@ -190,7 +206,7 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-131213241,imgsize-1418651,width-1200,height=627,overlay-ethealth,resizemode-75/industry/us-to-screen-for-ebola-at-airports-one-american-in-dr-congo-infected.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/us-to-screen-for-ebola-at-airports-one-american-in-dr-congo-infected/131213241",
         "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-us-to-screen-for-ebola-at-airports-one-american-in-dr-congo-infected"
       },
@@ -207,7 +223,7 @@
         "category": "Launch",
         "image": "https://etimg.etb2bimg.com/thumb/msid-131213261,imgsize-113296,width-1200,height=627,overlay-ethealth,resizemode-75/policy/ayush-anudan-portal-launched-to-ensure-transparency-in-grant-management.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/policy/ayush-anudan-portal-launched-to-ensure-transparency-in-grant-management/131213261",
         "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-ayush-anudan-portal-launched-to-ensure-transparency-in-grant-management"
       },
@@ -224,7 +240,7 @@
         "category": "Market",
         "image": "https://img.etimg.com/thumb/msid-131209999,width-1200,height-630,imgsize-25162,overlay-economictimes/articleshow.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/bayer-bets-big-on-self-care-market-to-deepen-india-play/articleshow/131210006.cms",
         "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-bayer-bets-big-on-self-care-market-to-deepen-india-play"
       },
@@ -258,26 +274,9 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-131213239,imgsize-160818,width-1200,height=627,overlay-ethealth,resizemode-75/education/karnataka-gets-1122-additional-govt-medical-seats-minister-sharan-prakash-patil.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/education/karnataka-gets-1122-additional-govt-medical-seats-minister-sharan-prakash-patil/131213239",
         "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-karnataka-gets-1-122-additional-govt-medical-seats-minister-sharan-praka"
-      },
-      {
-        "id": "2026-05-17-six-in-10-patients-drop-off-after-consultation-due-to-financing-delays-s",
-        "title": "Six in 10 patients drop-off after consultation due to financing delays: Survey",
-        "summary": "The survey highlights that over 52 per cent of clinics experience more than 20 per cent patient drop-offs post consultation when financing is unavailable, while 16 per cent report drop-offs exceeding 40 per cent.",
-        "source": "ET Healthworld",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-05-19T08:07:32.000Z",
-        "publishedLabel": "May 19, 2026",
-        "category": "Industry Update",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-131194683,imgsize-153673,width-1200,height=627,overlay-ethealth,resizemode-75/industry/survey-reveals-financial-hurdles-preventing-60-of-patients-from-receiving-elective-healthcare-in-india.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/survey-reveals-financial-hurdles-preventing-60-of-patients-from-receiving-elective-healthcare-in-india/131194683",
-        "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-six-in-10-patients-drop-off-after-consultation-due-to-financing-delays-s"
       },
       {
         "id": "2026-05-17-ims-study-offers-guidelines-to-improve-gallbladder-cancer-treatment",
@@ -292,7 +291,7 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-131213248,imgsize-66642,width-1200,height=627,overlay-ethealth,resizemode-75/industry/ims-study-offers-guidelines-to-improve-gallbladder-cancer-treatment.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/ims-study-offers-guidelines-to-improve-gallbladder-cancer-treatment/131213248",
         "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-ims-study-offers-guidelines-to-improve-gallbladder-cancer-treatment"
       },
@@ -326,26 +325,26 @@
         "category": "Manufacturing",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/05/image-1600x900-2026-05-20T103648.499.png",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/05/20/uk-secures-japanese-antiviral-favipiravir-amid-hantavirus-preparedness/",
         "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-uk-secures-japanese-antiviral-favipiravir-amid-hantavirus-preparedness-h"
       },
       {
-        "id": "2026-05-17-kyowa-kirin-expands-fda-approved-use-of-crysvita-for-adults-with-xlh-hea",
-        "title": "Kyowa Kirin expands FDA-approved use of Crysvita for adults with XLH | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
-        "summary": "The treatment is approved in the United States for adults and pediatric patients aged six months and older, making it one of the few targeted therapies available for this condition.",
-        "source": "Healthcare MEA",
-        "sourceHost": "healthcaremea.com",
-        "region": "Middle East",
-        "country": "Middle East",
-        "publishedAt": "2026-05-19T08:34:06.000Z",
-        "publishedLabel": "May 19, 2026",
-        "category": "Manufacturing",
-        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/05/image-1600x900-58.png",
-        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": false,
-        "originalUrl": "https://www.healthcaremea.com/2026/05/19/kyowa-kirin-expands-fda-approved-use-of-crysvita-for-adults-with-xlh/",
-        "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-kyowa-kirin-expands-fda-approved-use-of-crysvita-for-adults-with-xlh-hea"
+        "id": "2026-05-17-india-rejects-abbvie-s-hepatitis-c-patent-bid-amid-growing-push-for-affo",
+        "title": "India Rejects AbbVie’s Hepatitis C Patent Bid Amid Growing Push for Affordable Medicines",
+        "summary": "India has once again delivered a setback to global pharmaceutical major AbbVie after the company lost its attempt to secure patent protection for its Hepatitis C therapy in the country, a move that could strengthen access to affordable generic medicines.",
+        "source": "PharmaTutor News",
+        "sourceHost": "pharmatutor.org",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-05-20T11:37:46.000Z",
+        "publishedLabel": "May 20, 2026",
+        "category": "Industry Update",
+        "image": "https://www.pharmatutor.org/sites/default/files/styles/webp/public/2026-05/india-rejects-abbvies-hepatitis-c-patent-bid-amid-growing-push-for-affordable-medicines.jpg.webp?itok=5JNOr1H6",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/india-rejects-abbvies-hepatitis-c-patent-bid-amid-growing-push-for-affordable-medicines",
+        "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-india-rejects-abbvie-s-hepatitis-c-patent-bid-amid-growing-push-for-affo"
       },
       {
         "id": "2026-05-17-non-scheduled-drug-prices-likely-to-increase-by-up-to-10-from-july",
@@ -399,21 +398,21 @@
         "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-dr-reddy-s-laboratories-launches-generic-semaglutide-injection-in-canada"
       },
       {
-        "id": "2026-05-17-japan-s-mhlw-approves-boehringer-s-jascayd-as-first-pde4b-inhibitor-for-",
-        "title": "Japan's MHLW approves Boehringer's Jascayd as first PDE4B inhibitor for lung fibrosis | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
-        "summary": "Jascayd acts as the first phosphodiesterase 4B (PDE4B) inhibitor approved for these indications, offering both antifibrotic and immunomodulatory activity.",
-        "source": "Healthcare MEA",
-        "sourceHost": "healthcaremea.com",
-        "region": "Middle East",
-        "country": "Middle East",
-        "publishedAt": "2026-05-19T09:09:48.000Z",
-        "publishedLabel": "May 19, 2026",
-        "category": "Manufacturing",
-        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/05/image-1600x900-59.png",
-        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": false,
-        "originalUrl": "https://www.healthcaremea.com/2026/05/19/japans-mhlw-approves-boehringers-jascayd-as-first-pde4b-inhibitor-for-lung-fibrosis/",
-        "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-japan-s-mhlw-approves-boehringer-s-jascayd-as-first-pde4b-inhibitor-for-"
+        "id": "2026-05-17-roche-and-mpp-partner-to-expand-access-to-influenza-drug-in-129-countrie",
+        "title": "Roche and MPP Partner to Expand Access to Influenza Drug in 129 Countries",
+        "summary": "In a major step toward improving global pandemic preparedness, Swiss pharmaceutical giant Roche and the Medicines Patent Pool (MPP) have signed a voluntary licensing agreement to expand access to the influenza antiviral drug Xofluza (baloxavir marboxil)...",
+        "source": "PharmaTutor News",
+        "sourceHost": "pharmatutor.org",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-05-20T11:29:47.000Z",
+        "publishedLabel": "May 20, 2026",
+        "category": "Industry Update",
+        "image": "https://www.pharmatutor.org/sites/default/files/styles/webp/public/2026-05/roche-and-mpp-partner-to-expand-access-to-influenza-drug-in-129-countries.jpg.webp?itok=KDtPXAYM",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/roche-and-mpp-partner-to-expand-access-to-influenza-drug-in-129-countries",
+        "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-roche-and-mpp-partner-to-expand-access-to-influenza-drug-in-129-countrie"
       },
       {
         "id": "2026-05-17-emcure-ahmedabad-unit-under-usfda-scanner-gets-7-procedural-observations",
@@ -433,23 +432,6 @@
         "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-emcure-ahmedabad-unit-under-usfda-scanner-gets-7-procedural-observations"
       },
       {
-        "id": "2026-05-17-who-declares-ebola-global-health-emergency-in-drc-uganda-healthcare-midd",
-        "title": "WHO declares Ebola global health emergency in DRC, Uganda | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
-        "summary": "Health authorities in DRC and Uganda have already activated emergency response mechanisms, including contact tracing, case isolation, infection prevention measures, and enhanced treatment services.",
-        "source": "Healthcare MEA",
-        "sourceHost": "healthcaremea.com",
-        "region": "Middle East",
-        "country": "Middle East",
-        "publishedAt": "2026-05-18T10:16:07.000Z",
-        "publishedLabel": "May 18, 2026",
-        "category": "Manufacturing",
-        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/05/image-1600x900-57.png",
-        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": false,
-        "originalUrl": "https://www.healthcaremea.com/2026/05/18/who-declares-ebola-global-health-emergency-in-drc-uganda/",
-        "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-who-declares-ebola-global-health-emergency-in-drc-uganda-healthcare-midd"
-      },
-      {
         "id": "2026-05-17-cdsco-flags-toxic-solvents-in-children-s-syrups-begins-industry-consulta",
         "title": "CDSCO Flags Toxic Solvents in Children's Syrups, Begins Industry Consultations",
         "summary": "New Delhi: In a significant regulatory intervention, the Central Drugs Standard Control Organisation (CDSCO) has begun consultations with the pharmaceutical industry over the continued use of...",
@@ -465,6 +447,40 @@
         "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/cdsco/cdsco-flags-toxic-solvents-in-childrens-syrups-begins-industry-consultations-170871",
         "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-cdsco-flags-toxic-solvents-in-children-s-syrups-begins-industry-consulta"
+      },
+      {
+        "id": "2026-05-17-roche-signs-landmark-mpp-agreement-to-increase-xofluza-access-in-129-cou",
+        "title": "Roche signs landmark MPP agreement to increase Xofluza access in 129 countries | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
+        "summary": "Under the licensing arrangement, the Medicines Patent Pool (MPP) has invited qualified generic drug manufacturers to submit applications to produce generic versions of Xofluza.",
+        "source": "Healthcare MEA",
+        "sourceHost": "healthcaremea.com",
+        "region": "Middle East",
+        "country": "Middle East",
+        "publishedAt": "2026-05-20T09:55:00.000Z",
+        "publishedLabel": "May 20, 2026",
+        "category": "Manufacturing",
+        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/05/image-1600x900-2026-05-20T105148.648.png",
+        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
+        "justIn": true,
+        "originalUrl": "https://www.healthcaremea.com/2026/05/20/roche-signs-landmark-medicines-patent-pool-agreement-to-increase-xofluza-access-in-129-countries/",
+        "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-roche-signs-landmark-mpp-agreement-to-increase-xofluza-access-in-129-cou"
+      },
+      {
+        "id": "2026-05-17-boston-scientific-expands-structural-heart-push-with-us-1-5b-mirus-tavr-",
+        "title": "Boston Scientific expands structural heart push with US$1.5B MiRus TAVR investment | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
+        "summary": "This agreement also grants Boston Scientific an exclusive option to acquire the TAVR programme, subject to additional payments and to clinical and regulatory milestones.",
+        "source": "Healthcare MEA",
+        "sourceHost": "healthcaremea.com",
+        "region": "Middle East",
+        "country": "Middle East",
+        "publishedAt": "2026-05-20T08:09:17.000Z",
+        "publishedLabel": "May 20, 2026",
+        "category": "Manufacturing",
+        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/05/image-1600x900-2026-05-20T111337.781.png",
+        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
+        "justIn": true,
+        "originalUrl": "https://www.healthcaremea.com/2026/05/20/boston-scientific-expands-structural-heart-push-with-us1-5b-mirus-tavr-investment/",
+        "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-boston-scientific-expands-structural-heart-push-with-us-1-5b-mirus-tavr-"
       },
       {
         "id": "2026-05-17-usfda-approves-astrazeneca-s-baxfendy-for-uncontrolled-hypertension",
@@ -496,7 +512,7 @@
         "category": "Industry Update",
         "image": "https://medicaldialogues.in/h-upload/2025/03/24/279944-glp-1-drug.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/no-cosmetic-product-permitted-for-injection-or-treatment-use-cdsco-170991",
         "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-no-cosmetic-product-permitted-for-injection-or-treatment-use-cdsco"
       },
@@ -535,6 +551,23 @@
         "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-benue-state-rolls-out-injectable-hiv-prep-lenacapavir-in-nigeria-healthc"
       },
       {
+        "id": "2026-05-17-takeda-faces-major-legal-setback-as-us-jury-rules-in-amitiza-antitrust-c",
+        "title": "Takeda Faces Major Legal Setback as US Jury Rules in Amitiza Antitrust Case",
+        "summary": "Japanese drugmaker Takeda Pharmaceutical Company is facing a major financial and legal challenge after a U.S. federal jury found the company liable in a high-profile antitrust lawsuit involving its constipation drug Amitiza (lubiprostone).",
+        "source": "PharmaTutor News",
+        "sourceHost": "pharmatutor.org",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-05-20T11:33:46.000Z",
+        "publishedLabel": "May 20, 2026",
+        "category": "Industry Update",
+        "image": "https://www.pharmatutor.org/sites/default/files/styles/webp/public/2026-05/takeda-faces-major-legal-setback-as-us-jury-rules-in-amitiza-antitrust-case.jpg.webp?itok=hB3hmiZc",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/takeda-faces-major-legal-setback-as-us-jury-rules-in-amitiza-antitrust-case",
+        "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-takeda-faces-major-legal-setback-as-us-jury-rules-in-amitiza-antitrust-c"
+      },
+      {
         "id": "2026-05-17-freelance-chemist-among-3-arrested-in-hyderabad-illegal-alprazolam-manuf",
         "title": "Freelance Chemist Among 3 Arrested in Hyderabad Illegal Alprazolam Manufacturing Case",
         "summary": "Hyderabad: The Hyderabad unit of the Narcotics Control Bureau (NCB) arrested three individuals, including a freelance chemist, for allegedly manufacturing and trafficking a large quantity of...",
@@ -547,26 +580,9 @@
         "category": "Manufacturing",
         "image": "https://medicaldialogues.in/h-upload/2026/05/13/347297-booked.jpg",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/freelance-chemist-among-3-arrested-in-hyderabad-illegal-alprazolam-manufacturing-case-170989",
         "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-freelance-chemist-among-3-arrested-in-hyderabad-illegal-alprazolam-manuf"
-      },
-      {
-        "id": "2026-05-17-guinea-bissau-closes-2021-variant-poliovirus-outbreak-after-gpei-review-",
-        "title": "Guinea-Bissau closes 2021 variant poliovirus outbreak after GPEI review | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
-        "summary": "The development marks another milestone for the West African nation, which was certified free of wild poliovirus in 2019 by the Africa Regional Commission for the Certification of Poliomyelitis Er ...",
-        "source": "Healthcare MEA",
-        "sourceHost": "healthcaremea.com",
-        "region": "Middle East",
-        "country": "Middle East",
-        "publishedAt": "2026-05-19T08:35:01.000Z",
-        "publishedLabel": "May 19, 2026",
-        "category": "Manufacturing",
-        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/05/image-1600x900-51.png",
-        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": false,
-        "originalUrl": "https://www.healthcaremea.com/2026/05/19/guinea-bissau-closes-2021-variant-poliovirus-outbreak-after-gpei-review/",
-        "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-guinea-bissau-closes-2021-variant-poliovirus-outbreak-after-gpei-review-"
       },
       {
         "id": "2026-05-17-cdsco-orders-strict-action-against-illegal-sale-promotion-of-glp-1-weigh",
@@ -620,6 +636,23 @@
         "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-cdsco-approves-aurobindo-curateq-s-bevacizumab-biosimilar-bevqolva-for-c"
       },
       {
+        "id": "2026-05-17-medlab-opens-advanced-surgical-training-facility-at-dubai-science-park-h",
+        "title": "MedLab opens advanced surgical training facility at Dubai Science Park | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
+        "summary": "The facility is built to accommodate approximately 1,000 to 1,500 healthcare professionals each year, including consultants, specialists, and early-career doctors.",
+        "source": "Healthcare MEA",
+        "sourceHost": "healthcaremea.com",
+        "region": "Middle East",
+        "country": "United Arab Emirates",
+        "publishedAt": "2026-05-20T08:03:19.000Z",
+        "publishedLabel": "May 20, 2026",
+        "category": "Manufacturing",
+        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/05/image-1600x900-2026-05-20T110014.406.png",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://www.healthcaremea.com/2026/05/20/medlab-opens-advanced-surgical-training-facility-at-dubai-science-park/",
+        "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-medlab-opens-advanced-surgical-training-facility-at-dubai-science-park-h"
+      },
+      {
         "id": "2026-05-17-may-20-chemist-strike-loses-state-support-as-cdsco-reviews-e-pharmacy-co",
         "title": "May 20 Chemist Strike Loses State Support As CDSCO Reviews E-Pharmacy Concerns",
         "summary": "New Delhi: The Central Drugs Standard Control Organisation (CDSCO) is reviewing concerns raised by retail chemists over the operation of e-pharmacies, even as several state-level pharmacy associations...",
@@ -632,7 +665,7 @@
         "category": "Industry Update",
         "image": "https://medicaldialogues.in/h-upload/2025/03/10/277896-medicine-8.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/may-20-chemist-strike-loses-state-support-as-cdsco-reviews-e-pharmacy-concerns-170988",
         "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-may-20-chemist-strike-loses-state-support-as-cdsco-reviews-e-pharmacy-co"
       },
@@ -823,7 +856,7 @@
         "category": "Diagnostics",
         "image": "https://etimg.etb2bimg.com/thumb/msid-131193694,imgsize-217343,width-1200,height=627,overlay-ethealth,resizemode-75/diagnostics/medgenome-acquires-majority-stake-in-sdrc-to-expand-integrated-diagnostics-footprint.jpg",
         "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/diagnostics/medgenome-acquires-majority-stake-in-sdrc-to-expand-integrated-diagnostics-footprint/131193694",
         "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-medgenome-acquires-majority-stake-in-sdrc-to-expand-integrated-diagnosti"
       },
@@ -884,17 +917,17 @@
   "thbActions": [
     {
       "segment": "pharma",
-      "articleId": "2026-05-17-biopharmaceutical-firm-parabilis-medicines-files-for-us-ipo",
-      "title": "Biopharmaceutical firm Parabilis Medicines files for US IPO",
-      "source": "Reuters Healthcare & Pharma",
+      "articleId": "2026-05-17-race-to-find-vaccines-treatments-for-ebola-strain-behind-outbreak",
+      "title": "Race to find vaccines, treatments for Ebola strain behind outbreak",
+      "source": "ET Healthworld",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
     },
     {
       "segment": "pharma",
-      "articleId": "2026-05-17-race-to-find-vaccines-treatments-for-ebola-strain-behind-outbreak",
-      "title": "Race to find vaccines, treatments for Ebola strain behind outbreak",
-      "source": "ET Healthworld",
+      "articleId": "2026-05-17-dr-reddy-s-launches-oral-semaglutide-in-india",
+      "title": "Dr Reddy’s launches oral semaglutide in India",
+      "source": "Economic Times Pharma",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
     },
