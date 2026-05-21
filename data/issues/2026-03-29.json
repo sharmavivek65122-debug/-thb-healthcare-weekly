@@ -5,16 +5,15 @@
   "startDate": "2026-03-28T18:30:00.000Z",
   "endDate": "2026-04-03T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-05-20T16:36:03.259Z",
+  "updatedAt": "2026-05-21T08:07:46.973Z",
   "coverage": {
     "pharma": 3,
-    "providers": 3,
+    "providers": 0,
     "diagnostics": 1,
     "healthtech": 0
   },
   "sourcesUsed": [
     "ET Healthworld Diagnostics",
-    "ET Healthworld Hospitals",
     "Financial Express Healthcare",
     "Lupin Updates"
   ],
@@ -72,59 +71,7 @@
         "articlePath": "/article.html?issue=2026-03-29&article=2026-03-29-stocks-in-news-indigo-sammaan-capital-bharti-airtel-grse-coforge"
       }
     ],
-    "providers": [
-      {
-        "id": "2026-03-29-delhi-doctors-remove-denture-stuck-in-man-s-food-pipe-using-laser-cutter",
-        "title": "Delhi doctors remove denture stuck in man's food pipe using laser cutter",
-        "summary": "Doctors at Sir Ganga Ram Hospital successfully removed a denture lodged deep in a man's food pipe using an advanced endoscopic laser procedure. The patient, experiencing severe respiratory distress and throat pain, avoided major surgery as the laser...",
-        "source": "ET Healthworld Hospitals",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-04-04T07:44:29.000Z",
-        "publishedLabel": "April 4, 2026",
-        "category": "Hospital",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-130015280,imgsize-61384,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/innovative-laser-procedure-saves-man-from-denture-lodged-in-food-pipe.jpg",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/innovative-laser-procedure-saves-man-from-denture-lodged-in-food-pipe/130015280",
-        "articlePath": "/article.html?issue=2026-03-29&article=2026-03-29-delhi-doctors-remove-denture-stuck-in-man-s-food-pipe-using-laser-cutter"
-      },
-      {
-        "id": "2026-03-29-final-deadline-for-cghs-hospitals-comply-by-april-30-or-lose-empanelment",
-        "title": "Final deadline for CGHS hospitals: Comply by April 30 or lose empanelment",
-        "summary": "While the transition is aimed at improving transparency, it has slowed submissions. At the same time, the government has drawn a hard line: hospitals failing to comply by April 30 will be de-empanelled from May 1, making them ineligible to treat CGHS patients...",
-        "source": "ET Healthworld Hospitals",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-04-02T02:32:18.000Z",
-        "publishedLabel": "April 2, 2026",
-        "category": "Hospital",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-129965230,imgsize-108414,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/final-deadline-for-cghs-hospitals-comply-by-april-30-or-lose-empanelment.jpg",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/final-deadline-for-cghs-hospitals-comply-by-april-30-or-lose-empanelment/129965230",
-        "articlePath": "/article.html?issue=2026-03-29&article=2026-03-29-final-deadline-for-cghs-hospitals-comply-by-april-30-or-lose-empanelment"
-      },
-      {
-        "id": "2026-03-29-aiims-mangalagiri-to-inaugurate-advanced-blood-screening-systems",
-        "title": "AIIMS Mangalagiri to inaugurate advanced blood screening systems",
-        "summary": "The introduction of the NATS system marks a critical upgrade in diagnostic capability. This technology enables early detection of viral genetic material (RNA/DNA), significantly reducing the window period, the time between infection and its detectability...",
-        "source": "ET Healthworld Hospitals",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-04-03T18:44:31.000Z",
-        "publishedLabel": "April 4, 2026",
-        "category": "AI Care Delivery",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-130008058,imgsize-234704,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/aiims-mangalagiri-to-inaugurate-advanced-blood-screening-systems.jpg",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/aiims-mangalagiri-to-inaugurate-advanced-blood-screening-systems/130008058",
-        "articlePath": "/article.html?issue=2026-03-29&article=2026-03-29-aiims-mangalagiri-to-inaugurate-advanced-blood-screening-systems"
-      }
-    ],
+    "providers": [],
     "diagnostics": [
       {
         "id": "2026-03-29-molbio-diagnostics-digital-radiology-arm-secures-eu-mdr-certification-fo",
@@ -170,30 +117,6 @@
       "source": "Lupin Updates",
       "solution": "THB Commercial Analytics",
       "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
-    },
-    {
-      "segment": "providers",
-      "articleId": "2026-03-29-delhi-doctors-remove-denture-stuck-in-man-s-food-pipe-using-laser-cutter",
-      "title": "Delhi doctors remove denture stuck in man's food pipe using laser cutter",
-      "source": "ET Healthworld Hospitals",
-      "solution": "THB Provider CRM",
-      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
-    },
-    {
-      "segment": "providers",
-      "articleId": "2026-03-29-final-deadline-for-cghs-hospitals-comply-by-april-30-or-lose-empanelment",
-      "title": "Final deadline for CGHS hospitals: Comply by April 30 or lose empanelment",
-      "source": "ET Healthworld Hospitals",
-      "solution": "THB Provider CRM",
-      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
-    },
-    {
-      "segment": "providers",
-      "articleId": "2026-03-29-aiims-mangalagiri-to-inaugurate-advanced-blood-screening-systems",
-      "title": "AIIMS Mangalagiri to inaugurate advanced blood screening systems",
-      "source": "ET Healthworld Hospitals",
-      "solution": "THB Provider CRM",
-      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
     },
     {
       "segment": "diagnostics",

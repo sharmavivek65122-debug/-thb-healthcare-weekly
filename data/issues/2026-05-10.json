@@ -5,22 +5,20 @@
   "startDate": "2026-05-09T18:30:00.000Z",
   "endDate": "2026-05-15T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-05-20T16:36:03.259Z",
+  "updatedAt": "2026-05-21T08:07:46.973Z",
   "coverage": {
-    "pharma": 25,
-    "providers": 16,
-    "diagnostics": 2,
-    "healthtech": 1
+    "pharma": 19,
+    "providers": 12,
+    "diagnostics": 1,
+    "healthtech": 0
   },
   "sourcesUsed": [
     "ET Healthworld",
     "ET Healthworld Diagnostics",
     "ET Healthworld Hospitals",
     "Economic Times Pharma",
-    "Express Healthcare",
     "Express Healthcare Posts",
     "Janssen India Media",
-    "Medical Dialogues Pharma",
     "PharmaTutor News"
   ],
   "segments": {
@@ -233,7 +231,7 @@
         "id": "2026-05-10-reimagining-access-in-asthma-care-for-the-next-decade",
         "title": "Reimagining access in Asthma care for the next decade",
         "summary": "India has made steady and commendable progress in addressing non-communicable diseases by improving screening for diabetes and hypertension, strengthening cardiovascular care, and expanding access to chronic treatments. Yet asthma, one […]",
-        "source": "Express Healthcare",
+        "source": "Express Healthcare Posts",
         "sourceHost": "expresshealthcare.in",
         "region": "India",
         "country": "India",
@@ -245,40 +243,6 @@
         "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/news/reimagining-access-in-asthma-care-for-the-next-decade/453686/",
         "articlePath": "/article.html?issue=2026-05-10&article=2026-05-10-reimagining-access-in-asthma-care-for-the-next-decade"
-      },
-      {
-        "id": "2026-05-10-dcdc-kidney-care-opens-new-dialysis-facility-in-faridabad",
-        "title": "DCDC Kidney Care opens new dialysis facility in Faridabad",
-        "summary": "DCDC Kidney Care has announced the opening of its independent dialysis facility in Faridabad. The facility intends to meet the increasing need for superior dialysis services in the area. With […]",
-        "source": "Express Healthcare Posts",
-        "sourceHost": "expresshealthcare.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-05-14T05:34:14.000Z",
-        "publishedLabel": "May 14, 2026",
-        "category": "Industry Update",
-        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/05/14110349/New-Project-9.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://www.expresshealthcare.in/news/dcdc-kidney-care-opens-new-dialysis-facility-in-faridabad/453674/",
-        "articlePath": "/article.html?issue=2026-05-10&article=2026-05-10-dcdc-kidney-care-opens-new-dialysis-facility-in-faridabad"
-      },
-      {
-        "id": "2026-05-10-make-in-india-therapies-drive-structural-heart-care-access",
-        "title": "Make in India therapies drive structural heart care access",
-        "summary": "India is emerging as a global hub for advanced structural heart interventions with ‘Make in India’ revolutionary therapy, cost-effective access, skilled specialists, and growing awareness, according to experts. Four leading […]",
-        "source": "Express Healthcare Posts",
-        "sourceHost": "expresshealthcare.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-05-13T09:22:39.000Z",
-        "publishedLabel": "May 13, 2026",
-        "category": "Industry Update",
-        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/05/13145232/New-Project-8.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://www.expresshealthcare.in/news/make-in-india-therapies-drive-structural-heart-care-access/453668/",
-        "articlePath": "/article.html?issue=2026-05-10&article=2026-05-10-make-in-india-therapies-drive-structural-heart-care-access"
       },
       {
         "id": "2026-05-10-how-dementia-and-alzheimer-s-care-is-becoming-a-growing-healthcare-secto",
@@ -296,40 +260,6 @@
         "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/news/how-dementia-and-alzheimers-care-is-becoming-a-growing-healthcare-sector-in-india/453677/",
         "articlePath": "/article.html?issue=2026-05-10&article=2026-05-10-how-dementia-and-alzheimer-s-care-is-becoming-a-growing-healthcare-secto"
-      },
-      {
-        "id": "2026-05-10-borderplus-launches-b-r-i-d-g-e",
-        "title": "BorderPlus launches B.R.I.D.G.E",
-        "summary": "BorderPlus has announced the launch of B.R.I.D.G.E (BorderPlus International Deployment and Global Mobility Exam), the country’s first standardised national examination designed to assess and prepare Indian nurses for international placement, […]",
-        "source": "Express Healthcare Posts",
-        "sourceHost": "expresshealthcare.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-05-13T10:51:18.000Z",
-        "publishedLabel": "May 13, 2026",
-        "category": "Launch",
-        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2021/05/18164423/Medical-education.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://www.expresshealthcare.in/news/borderplus-launches-b-r-i-d-g-e/453672/",
-        "articlePath": "/article.html?issue=2026-05-10&article=2026-05-10-borderplus-launches-b-r-i-d-g-e"
-      },
-      {
-        "id": "2026-05-10-dr-reddy-s-labs-among-first-to-launch-generic-semaglutide-in-canada",
-        "title": "Dr Reddy's Labs Among First to Launch Generic Semaglutide in Canada",
-        "summary": "New Delhi: Drugmaker Dr. Reddy's Laboratories has announced the launch of its generic Semaglutide Injection in Canada following the receipt of a Notice of Compliance (NOC) from Health Canada on April...",
-        "source": "Medical Dialogues Pharma",
-        "sourceHost": "medicaldialogues.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-05-16T16:38:51.000Z",
-        "publishedLabel": "May 16, 2026",
-        "category": "Launch",
-        "image": "https://medicaldialogues.in/h-upload/2022/10/20/188658-dr-reddy-new.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/dr-reddys-labs-among-first-to-launch-generic-semaglutide-in-canada-170846",
-        "articlePath": "/article.html?issue=2026-05-10&article=2026-05-10-dr-reddy-s-labs-among-first-to-launch-generic-semaglutide-in-canada"
       },
       {
         "id": "2026-05-10-fda-launches-major-push-to-repurpose-existing-drugs-for-rare-and-chronic",
@@ -400,23 +330,6 @@
         "articlePath": "/article.html?issue=2026-05-10&article=2026-05-10-fda-approves-genentech-s-tecentriq-for-precision-guided-bladder-cancer-t"
       },
       {
-        "id": "2026-05-10-japan-flags-20-deaths-liver-injury-risk-in-amgen-s-rare-disease-drug-tav",
-        "title": "Japan Flags 20 Deaths, Liver Injury Risk in Amgen's Rare Disease Drug Tavneos",
-        "summary": "Bengaluru: About 20 deaths linked to ​serious liver dysfunction have been ​reported in Japan in patients treated with Amgen's ​rare disease drug Tavneos, according to a safety notice issued by partner...",
-        "source": "Medical Dialogues Pharma",
-        "sourceHost": "medicaldialogues.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-05-16T16:22:47.000Z",
-        "publishedLabel": "May 16, 2026",
-        "category": "Industry Update",
-        "image": "https://medicaldialogues.in/h-upload/2024/01/22/230681-amgen-50.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/japan-flags-20-deaths-liver-injury-risk-in-amgens-rare-disease-drug-tavneos-170843",
-        "articlePath": "/article.html?issue=2026-05-10&article=2026-05-10-japan-flags-20-deaths-liver-injury-risk-in-amgen-s-rare-disease-drug-tav"
-      },
-      {
         "id": "2026-05-10-groundbreaking-global-survey-captures-the-significant-patient-burden-exp",
         "title": "Groundbreaking global survey captures the significant patient burden experienced with current standard-of-care bladder cancer treatments, underscoring urgency for continued innovation",
         "summary": "• More than 90% of patients surveyed who underwent bladder removal or received BCG report negative impact on most aspects of their lives • Among patients treated with BCG, three-quarters describe managing the treatment-related physical symptoms as humiliating...",
@@ -432,23 +345,6 @@
         "justIn": false,
         "originalUrl": "https://www.jnj.com/media-center/press-releases/groundbreaking-global-survey-captures-the-significant-patient-burden-experienced-with-current-standard-of-care-bladder-cancer-treatments-underscoring-urgency-for-continued-innovation",
         "articlePath": "/article.html?issue=2026-05-10&article=2026-05-10-groundbreaking-global-survey-captures-the-significant-patient-burden-exp"
-      },
-      {
-        "id": "2026-05-10-nppa-slaps-natco-pharma-with-rs-4-92-crore-demand-notice-over-alleged-dr",
-        "title": "NPPA Slaps Natco Pharma with Rs 4.92 Crore Demand Notice Over Alleged Drug Overcharging",
-        "summary": "New Delhi: Natco Pharma Limited has received a demand notice of over Rs 4.92 crore from the National Pharmaceutical Pricing Authority (NPPA) over alleged overcharging of two drugs during the period...",
-        "source": "Medical Dialogues Pharma",
-        "sourceHost": "medicaldialogues.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-05-16T16:48:58.000Z",
-        "publishedLabel": "May 16, 2026",
-        "category": "Industry Update",
-        "image": "https://medicaldialogues.in/h-upload/2023/01/11/197490-natco-pharma-1.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/nppa-slaps-natco-pharma-with-rs-492-crore-demand-notice-over-alleged-drug-overcharging-170847",
-        "articlePath": "/article.html?issue=2026-05-10&article=2026-05-10-nppa-slaps-natco-pharma-with-rs-4-92-crore-demand-notice-over-alleged-dr"
       }
     ],
     "providers": [
@@ -538,23 +434,6 @@
         "articlePath": "/article.html?issue=2026-05-10&article=2026-05-10-hospitals-warn-central-government-health-scheme-reimbursement-cap-may-hu"
       },
       {
-        "id": "2026-05-10-surya-hospitals-adds-55-beds-in-santacruz-facility-to-open-one-hospital-",
-        "title": "Surya Hospitals adds 55 beds in Santacruz facility; to open one hospital in Kandivali in FY27",
-        "summary": "Surya Hospitals added 55 beds, the Amber Wing, taking the total strength of the facility to over 250 beds dedicated to women and child-centric healthcare infrastructure at Santacruz.",
-        "source": "ET Healthworld Hospitals",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-05-16T01:18:50.000Z",
-        "publishedLabel": "May 16, 2026",
-        "category": "Hospital",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-131130154,imgsize-177082,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/surya-hospitals-adds-55-beds-in-santacruz-facility-to-open-one-hospital-in-kandivali-in-fy27.jpg",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/surya-hospitals-adds-55-beds-in-santacruz-facility-to-open-one-hospital-in-kandivali-in-fy27/131130154",
-        "articlePath": "/article.html?issue=2026-05-10&article=2026-05-10-surya-hospitals-adds-55-beds-in-santacruz-facility-to-open-one-hospital-"
-      },
-      {
         "id": "2026-05-10-bihar-hospitals-await-ayushman-dues-for-months-financial-strain-mounts",
         "title": "Bihar hospitals await Ayushman dues for months, financial strain mounts",
         "summary": "Several hospitals said delayed reimbursements were making it difficult to manage staff salaries, medicines, equipment purchases and other operational expenses.",
@@ -606,27 +485,10 @@
         "articlePath": "/article.html?issue=2026-05-10&article=2026-05-10-aiims-launches-low-cost-advanced-test-to-make-epilepsy-treatment-safer"
       },
       {
-        "id": "2026-05-10-new-building-standards-pave-way-for-taller-hospitals",
-        "title": "New building standards pave way for taller hospitals",
-        "summary": "As margins improve,will medical inflation and healthcare costs also reduce for patients and their families? Healthier margins should also mean healthier patients, right?",
-        "source": "Express Healthcare Posts",
-        "sourceHost": "expresshealthcare.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-05-13T05:03:28.000Z",
-        "publishedLabel": "May 13, 2026",
-        "category": "Hospital",
-        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/05/13103115/EH_EditorsBlog_May_2026_750.jpg",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://www.expresshealthcare.in/news/new-building-standards-pave-way-for-taller-hospitals/453654/",
-        "articlePath": "/article.html?issue=2026-05-10&article=2026-05-10-new-building-standards-pave-way-for-taller-hospitals"
-      },
-      {
         "id": "2026-05-10-aster-guardians-global-nursing-award-announces-top-10-finalists-for-2026",
         "title": "Aster Guardians Global Nursing Award announces top 10 finalists for 2026",
         "summary": "On International Nurses Day, Aster DM Healthcare announced the top 10 finalists for the fifth edition of the Aster Guardians Global Nursing Award 2026, selected from over 134,000 registrations across […]",
-        "source": "Express Healthcare",
+        "source": "Express Healthcare Posts",
         "sourceHost": "expresshealthcare.in",
         "region": "India",
         "country": "India",
@@ -660,7 +522,7 @@
         "id": "2026-05-10-the-rise-of-hybrid-opds-connecting-metro-specialists-with-tier-2-patient",
         "title": "The rise of hybrid OPDs: Connecting metro specialists with tier-2 patients",
         "summary": "Healthcare in India is slowly changing, and one shift that’s clearly visible is the rise of hybrid OPDs. For years, people in smaller cities had to travel to metros for […]",
-        "source": "Express Healthcare",
+        "source": "Express Healthcare Posts",
         "sourceHost": "expresshealthcare.in",
         "region": "India",
         "country": "India",
@@ -689,40 +551,6 @@
         "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/news/post-antibiotic-era-are-common-infections-becoming-untreatable/453681/",
         "articlePath": "/article.html?issue=2026-05-10&article=2026-05-10-post-antibiotic-era-are-common-infections-becoming-untreatable"
-      },
-      {
-        "id": "2026-05-10-laxmi-dental-launches-ai-connected-remote-dental-monitoring-platform-i-s",
-        "title": "Laxmi Dental launches AI-connected remote dental monitoring platform i Scope360",
-        "summary": "Platform integrates aligner tracking, oral health assessment and virtual consultations into a single dental care ecosystem",
-        "source": "Express Healthcare Posts",
-        "sourceHost": "expresshealthcare.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-05-13T07:30:52.000Z",
-        "publishedLabel": "May 13, 2026",
-        "category": "AI Care Delivery",
-        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2020/03/31121040/GettyImages-1165067633-scaled-e1585637014232.jpg",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://www.expresshealthcare.in/news/laxmi-dental-launches-ai-connected-remote-dental-monitoring-platform-i-scope360/453665/",
-        "articlePath": "/article.html?issue=2026-05-10&article=2026-05-10-laxmi-dental-launches-ai-connected-remote-dental-monitoring-platform-i-s"
-      },
-      {
-        "id": "2026-05-10-pharmacist-administers-anti-rabies-injection-to-chest-pain-patient-at-od",
-        "title": "Pharmacist Administers Anti-Rabies Injection to Chest Pain Patient at Odisha PHC",
-        "summary": "New Delhi: A case of alleged negligence has surfaced from Odisha's Kendrapara district where a pharmacist at a primary health centre mistakenly administered an anti-rabies injection to a patient who...",
-        "source": "Medical Dialogues Pharma",
-        "sourceHost": "medicaldialogues.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-05-16T16:33:39.000Z",
-        "publishedLabel": "May 16, 2026",
-        "category": "Patient Care",
-        "image": "https://medicaldialogues.in/h-upload/2026/01/05/319277-human-rabies.jpg",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/pharmacist-administers-anti-rabies-injection-to-chest-pain-patient-at-odisha-phc-170845",
-        "articlePath": "/article.html?issue=2026-05-10&article=2026-05-10-pharmacist-administers-anti-rabies-injection-to-chest-pain-patient-at-od"
       }
     ],
     "diagnostics": [
@@ -742,44 +570,9 @@
         "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/diagnostics/iit-patna-develops-ai-powered-wearable-device-to-detect-early-signs-of-dementia/131007048",
         "articlePath": "/article.html?issue=2026-05-10&article=2026-05-10-iit-patna-develops-ai-powered-wearable-device-to-detect-early-signs-of-d"
-      },
-      {
-        "id": "2026-05-10-drilling-down-can-india-s-dental-sector-scale-up",
-        "title": "Drilling down: Can India’s dental sector scale up?",
-        "summary": "Structural shifts driven by standardisation and digital adoption are reshaping dentistry in India,even as affordability,insurance gaps and access challenges persist",
-        "source": "Express Healthcare Posts",
-        "sourceHost": "expresshealthcare.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-05-13T06:30:45.000Z",
-        "publishedLabel": "May 13, 2026",
-        "category": "Industry Update",
-        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/05/13110506/EH_DigitalIssue_CS_May_2026_Ft_Image_750.jpg",
-        "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
-        "justIn": false,
-        "originalUrl": "https://www.expresshealthcare.in/news/drilling-down-can-indias-dental-sector-scale-up/453657/",
-        "articlePath": "/article.html?issue=2026-05-10&article=2026-05-10-drilling-down-can-india-s-dental-sector-scale-up"
       }
     ],
-    "healthtech": [
-      {
-        "id": "2026-05-10-technology-can-expand-reach-while-strengthening-quality-and-confidence-i",
-        "title": "Technology can expand reach while strengthening quality and confidence in healthcare delivery",
-        "summary": "From shaping national health policy to guiding digital healthcare, C.K. Mishra, now Independent Director at Practo,reflects on governance,technology,and patient-centric care in an exclusive interview with Neha Aathavale",
-        "source": "Express Healthcare Posts",
-        "sourceHost": "expresshealthcare.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-05-13T08:30:18.000Z",
-        "publishedLabel": "May 13, 2026",
-        "category": "Digital Health",
-        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/03/11115111/EP_CK_Mishra_750.jpg",
-        "thbAction": "",
-        "justIn": false,
-        "originalUrl": "https://www.expresshealthcare.in/news/technology-can-expand-reach-while-strengthening-quality-and-confidence-in-healthcare-delivery/453663/",
-        "articlePath": "/article.html?issue=2026-05-10&article=2026-05-10-technology-can-expand-reach-while-strengthening-quality-and-confidence-i"
-      }
-    ]
+    "healthtech": []
   },
   "thbActions": [
     {
@@ -867,14 +660,6 @@
       "articleId": "2026-05-10-iit-patna-develops-ai-powered-wearable-device-to-detect-early-signs-of-d",
       "title": "IIT-Patna develops AI-powered wearable device to detect early signs of dementia",
       "source": "ET Healthworld Diagnostics",
-      "solution": "THB Diagnostics CRM",
-      "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
-    },
-    {
-      "segment": "diagnostics",
-      "articleId": "2026-05-10-drilling-down-can-india-s-dental-sector-scale-up",
-      "title": "Drilling down: Can India’s dental sector scale up?",
-      "source": "Express Healthcare Posts",
       "solution": "THB Diagnostics CRM",
       "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
     }
