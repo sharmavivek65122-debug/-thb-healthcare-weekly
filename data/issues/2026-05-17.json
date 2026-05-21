@@ -5,9 +5,9 @@
   "startDate": "2026-05-16T18:30:00.000Z",
   "endDate": "2026-05-22T18:30:00.000Z",
   "status": "live",
-  "updatedAt": "2026-05-21T08:07:46.973Z",
+  "updatedAt": "2026-05-21T16:25:00.922Z",
   "coverage": {
-    "pharma": 49,
+    "pharma": 50,
     "providers": 10,
     "diagnostics": 5,
     "healthtech": 0
@@ -21,45 +21,10 @@
     "Express Healthcare Posts",
     "Healthcare MEA",
     "Medical Dialogues Pharma",
-    "PharmaTutor News",
-    "Reuters Healthcare & Pharma"
+    "PharmaTutor News"
   ],
   "segments": {
     "pharma": [
-      {
-        "id": "2026-05-17-biomarin-s-drug-shows-significant-growth-gains-in-children-in-late-stage",
-        "title": "BioMarin's drug shows significant growth gains in children in late-stage trial",
-        "summary": "BioMarin Pharmaceutical said on Wednesday its treatment for a ​rare condition that leads to short stature helped ‌boost growth in children, meeting the main goal of a late-stage study and sending its shares up nearly 5% ​in extended trading.",
-        "source": "Reuters Healthcare & Pharma",
-        "sourceHost": "reuters.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-05-20T22:23:24.588Z",
-        "publishedLabel": "May 21, 2026",
-        "category": "Industry Update",
-        "image": "https://www.reuters.com/resizer/v2/466BJJQ7PVGY5O53NZ3KL65MHM.png?auth=b9c3bf166c40a6778eb5672993fde7c30a15f48329026674eff92afd8da1d0ca&height=1005&width=1920&quality=80&smart=true",
-        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
-        "originalUrl": "https://www.reuters.com/business/healthcare-pharmaceuticals/biomarins-drug-shows-significant-growth-gains-children-late-stage-trial-2026-05-20/",
-        "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-biomarin-s-drug-shows-significant-growth-gains-in-children-in-late-stage"
-      },
-      {
-        "id": "2026-05-17-medtronic-plans-to-buy-spr-therapeutics-for-650-million-to-expand-pain-t",
-        "title": "Medtronic plans to buy SPR Therapeutics for $650 million to expand pain treatment options",
-        "summary": "Medical device maker Medtronic said on Wednesday ​it plans to ‌acquire privately held SPR Therapeutics for about $650 million in cash, expanding ​its portfolio of ​treatments for chronic pain.",
-        "source": "Reuters Healthcare & Pharma",
-        "sourceHost": "reuters.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-05-20T14:52:06.804Z",
-        "publishedLabel": "May 20, 2026",
-        "category": "Industry Update",
-        "image": "https://www.reuters.com/resizer/v2/P4KBF7NRIFL65DE5GA3HOLTHR4.jpg?auth=09752b7e517da1209667861671e9d9bf780ee2a9632262448e8ea9dd63094b05&height=1005&width=1920&quality=80&smart=true",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
-        "originalUrl": "https://www.reuters.com/legal/litigation/medtronic-plans-buy-spr-therapeutics-650-million-expand-pain-treatment-options-2026-05-20/",
-        "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-medtronic-plans-to-buy-spr-therapeutics-for-650-million-to-expand-pain-t"
-      },
       {
         "id": "2026-05-17-dr-reddy-s-launches-oral-semaglutide-in-india",
         "title": "Dr Reddy’s launches oral semaglutide in India",
@@ -158,7 +123,7 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-131237762,imgsize-278424,width-1200,height=627,overlay-ethealth,resizemode-75/industry/amu-researchers-detect-new-multidrug-resistant-bacterial-genome-in-aligarh-drain.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/amu-researchers-detect-new-multidrug-resistant-bacterial-genome-in-aligarh-drain/131237762",
         "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-amu-researchers-detect-new-multidrug-resistant-bacterial-genome-in-aliga"
       },
@@ -178,6 +143,23 @@
         "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/zydus-lifesciences-to-pursue-acquisitions-in-specialty-rare-diseases/articleshow/131205005.cms",
         "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-zydus-lifesciences-to-pursue-acquisitions-in-specialty-rare-diseases"
+      },
+      {
+        "id": "2026-05-17-apollo-hospitals-post-6-605-cr-in-q4-fy26-net-profit-climbs-36",
+        "title": "Apollo Hospitals post ₹6,605 cr in Q4 FY26, net profit climbs 36%",
+        "summary": "For the full financial year FY26, consolidated revenue grew 16 per cent YoY to Rs 25,229 crore with a net profit of Rs 1,942 crore.",
+        "source": "ET Healthworld",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-05-21T08:04:19.000Z",
+        "publishedLabel": "May 21, 2026",
+        "category": "Industry Update",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-131242770,imgsize-215992,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/apollo-hospitals-post-6605-cr-in-q4-fy26-net-profit-climbs-36.jpg",
+        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
+        "justIn": true,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/apollo-hospitals-post-6605-cr-in-q4-fy26-net-profit-climbs-36/131242770",
+        "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-apollo-hospitals-post-6-605-cr-in-q4-fy26-net-profit-climbs-36"
       },
       {
         "id": "2026-05-17-dr-reddy-s-launches-oral-semaglutide-biosimilar-obeda-in-india",
@@ -243,7 +225,7 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-131237793,imgsize-51688,width-1200,height=627,overlay-ethealth,resizemode-75/industry/ebola-likely-circulating-in-congo-for-two-months-outbreak-to-grow-who-says.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/ebola-likely-circulating-in-congo-for-two-months-outbreak-to-grow-who-says/131237793",
         "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-ebola-likely-circulating-in-congo-for-two-months-outbreak-to-grow-who-sa"
       },
@@ -260,7 +242,7 @@
         "category": "Launch",
         "image": "https://etimg.etb2bimg.com/thumb/msid-131237786,imgsize-2624105,width-1200,height=627,overlay-ethealth,resizemode-75/policy/health-survey-factsheets-ready-for-a-year-but-not-made-public.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/policy/health-survey-factsheets-ready-for-a-year-but-not-made-public/131237786",
         "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-health-survey-factsheets-ready-for-a-year-but-not-made-public"
       },
@@ -277,9 +259,26 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-131237767,imgsize-87114,width-1200,height=627,overlay-ethealth,resizemode-75/policy/nmc-icmr-plan-to-make-clinical-research-part-of-medical-training.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/policy/nmc-icmr-plan-to-make-clinical-research-part-of-medical-training/131237767",
         "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-nmc-icmr-plan-to-make-clinical-research-part-of-medical-training"
+      },
+      {
+        "id": "2026-05-17-drinking-more-water-alone-may-not-prevent-repeat-kidney-stones-lancet-st",
+        "title": "Drinking more water alone may not prevent repeat kidney stones: Lancet Study",
+        "summary": "Researchers found that even with regular reminders, counselling and incentives to encourage higher water intake, kidney stones continued to recur at similar rates.",
+        "source": "ET Healthworld",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-05-21T12:18:16.000Z",
+        "publishedLabel": "May 21, 2026",
+        "category": "Industry Update",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-131246760,imgsize-43718,width-1200,height=627,overlay-ethealth,resizemode-75/industry/drinking-more-water-alone-may-not-prevent-repeat-kidney-stones-lancet-study.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/drinking-more-water-alone-may-not-prevent-repeat-kidney-stones-lancet-study/131246760",
+        "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-drinking-more-water-alone-may-not-prevent-repeat-kidney-stones-lancet-st"
       },
       {
         "id": "2026-05-17-paras-health-unveils-umeed-ke-sitare-initiative-for-cancer-survivors",
@@ -294,7 +293,7 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-131242331,imgsize-91434,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/paras-health-unveils-umeed-ke-sitare-initiative-for-cancer-survivors.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/paras-health-unveils-umeed-ke-sitare-initiative-for-cancer-survivors/131242331",
         "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-paras-health-unveils-umeed-ke-sitare-initiative-for-cancer-survivors"
       },
@@ -311,9 +310,26 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-131240389,imgsize-124560,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/cloudnine-to-acquire-apollos-maternity-chain-cradle.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/cloudnine-to-acquire-apollos-maternity-chain-cradle/131240389",
         "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-cloudnine-to-acquire-apollo-s-maternity-chain-cradle"
+      },
+      {
+        "id": "2026-05-17-medtronic-plans-to-buy-spr-therapeutics-for-650-million-to-expand-pain-t",
+        "title": "Medtronic plans to buy SPR Therapeutics for $650 million to expand pain treatment options",
+        "summary": "The ​deal gives Medtronic access to SPR's SPRINT ​system, a 60-day ⁠therapy designed ‌to provide ​pain ​relief withoutrequiring a permanent ⁠implant.",
+        "source": "ET Healthworld",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-05-21T01:15:28.000Z",
+        "publishedLabel": "May 21, 2026",
+        "category": "Deal",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-131237798,imgsize-78176,width-1200,height=627,overlay-ethealth,resizemode-75/medical-devices/medtronic-plans-to-buy-spr-therapeutics-for-650-million-to-expand-pain-treatment-options.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": false,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/medical-devices/medtronic-plans-to-buy-spr-therapeutics-for-650-million-to-expand-pain-treatment-options/131237798",
+        "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-medtronic-plans-to-buy-spr-therapeutics-for-650-million-to-expand-pain-t"
       },
       {
         "id": "2026-05-17-gsk-s-calpol-a-well-known-trademark-high-court",
@@ -345,9 +361,26 @@
         "category": "Industry Update",
         "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/05/20232015/New-Project-4-3.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/news/the-new-normal-how-high-tech-limbs-are-changing-lives-in-india/453730/",
         "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-the-new-normal-how-high-tech-limbs-are-changing-lives-in-india"
+      },
+      {
+        "id": "2026-05-17-gilead-sciences-expands-api-supply-partnership-with-yuhan-in-us-140m-dea",
+        "title": "Gilead Sciences expands API supply partnership with Yuhan in US$140M deal through 2027 | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
+        "summary": "Yuhan operates two API manufacturing facilities in South Korea and has reported steady international growth, with overseas sales increasing 21% in the first quarter.",
+        "source": "Healthcare MEA",
+        "sourceHost": "healthcaremea.com",
+        "region": "Middle East",
+        "country": "Middle East",
+        "publishedAt": "2026-05-21T09:38:00.000Z",
+        "publishedLabel": "May 21, 2026",
+        "category": "Manufacturing",
+        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/05/image-1600x900-2026-05-21T094030.385.png",
+        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
+        "justIn": true,
+        "originalUrl": "https://www.healthcaremea.com/2026/05/21/gilead-sciences-expands-api-supply-partnership-with-yuhan-in-us140m-deal-through-2027/",
+        "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-gilead-sciences-expands-api-supply-partnership-with-yuhan-in-us-140m-dea"
       },
       {
         "id": "2026-05-17-india-rejects-abbvie-s-hepatitis-c-patent-bid-amid-growing-push-for-affo",
@@ -430,7 +463,7 @@
         "category": "Manufacturing",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/05/image-1600x900-2026-05-21T102322.462.png",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/05/21/embecta-expands-drug-delivery-portfolio-with-us172-6m-owen-mumford-acquisition/",
         "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-embecta-expands-drug-delivery-portfolio-with-us-172-6m-owen-mumford-acqu"
       },
@@ -469,6 +502,40 @@
         "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-emcure-ahmedabad-unit-under-usfda-scanner-gets-7-procedural-observations"
       },
       {
+        "id": "2026-05-17-eli-lilly-s-retatrutide-helps-patients-lose-up-to-28-3-body-weight",
+        "title": "Eli Lilly’s Retatrutide Helps Patients Lose Up to 28.3% Body Weight",
+        "summary": "Eli Lilly has announced encouraging results from its late-stage Phase 3 clinical trial of retatrutide, an investigational next-generation obesity treatment that delivered dramatic weight reduction in adults living with obesity or overweight conditions.",
+        "source": "PharmaTutor News",
+        "sourceHost": "pharmatutor.org",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-05-21T11:06:42.000Z",
+        "publishedLabel": "May 21, 2026",
+        "category": "Clinical Trial",
+        "image": "https://www.pharmatutor.org/sites/default/files/styles/webp/public/2026-05/eli-lillys-retatrutide-helps-patients-lose-body-weight.jpg.webp?itok=32TR4tTj",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/eli-lillys-retatrutide-helps-patients-lose-body-weight",
+        "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-eli-lilly-s-retatrutide-helps-patients-lose-up-to-28-3-body-weight"
+      },
+      {
+        "id": "2026-05-17-targeted-therapy-helps-children-with-rare-bone-disease-regain-mobility",
+        "title": "Targeted Therapy Helps Children With Rare Bone Disease Regain Mobility",
+        "summary": "A promising targeted therapy may offer new hope to children and adults living with fibrous dysplasia, a rare bone disorder that weakens bones and severely affects mobility. Researchers have reported that the drug burosumab significantly improved phosphate...",
+        "source": "PharmaTutor News",
+        "sourceHost": "pharmatutor.org",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-05-21T10:43:07.000Z",
+        "publishedLabel": "May 21, 2026",
+        "category": "Industry Update",
+        "image": "https://www.pharmatutor.org/sites/default/files/styles/webp/public/2026-05/targeted-therapy-helps-children-with-rare-bone-disease-regain-mobility.jpg.webp?itok=I2gc4P72",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/targeted-therapy-helps-children-with-rare-bone-disease-regain-mobility",
+        "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-targeted-therapy-helps-children-with-rare-bone-disease-regain-mobility"
+      },
+      {
         "id": "2026-05-17-calpol-a-well-known-trademark-delhi-hc-bars-walpol-use-awards-rs-2-lakh-",
         "title": "CALPOL a Well-Known Trademark: Delhi HC Bars WALPOL Use, Awards Rs 2 Lakh Damages to GSK",
         "summary": "New Delhi: The Delhi High Court has declared CALPOL, the widely used medicinal brand owned by GlaxoSmithKline Pharmaceuticals Limited, (GSK) as a \"well-known trademark\" under the Trade Marks Act,...",
@@ -481,7 +548,7 @@
         "category": "Industry Update",
         "image": "https://medicaldialogues.in/h-upload/2026/05/20/348779-202605203795447.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/calpol-a-well-known-trademark-delhi-hc-bars-walpol-use-awards-rs-2-lakh-damages-to-gsk-171045",
         "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-calpol-a-well-known-trademark-delhi-hc-bars-walpol-use-awards-rs-2-lakh-"
       },
@@ -501,23 +568,6 @@
         "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/05/20/roche-signs-landmark-medicines-patent-pool-agreement-to-increase-xofluza-access-in-129-countries/",
         "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-roche-signs-landmark-mpp-agreement-to-increase-xofluza-access-in-129-cou"
-      },
-      {
-        "id": "2026-05-17-boston-scientific-expands-structural-heart-push-with-us-1-5b-mirus-tavr-",
-        "title": "Boston Scientific expands structural heart push with US$1.5B MiRus TAVR investment | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
-        "summary": "This agreement also grants Boston Scientific an exclusive option to acquire the TAVR programme, subject to additional payments and to clinical and regulatory milestones.",
-        "source": "Healthcare MEA",
-        "sourceHost": "healthcaremea.com",
-        "region": "Middle East",
-        "country": "Middle East",
-        "publishedAt": "2026-05-20T08:09:17.000Z",
-        "publishedLabel": "May 20, 2026",
-        "category": "Manufacturing",
-        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/05/image-1600x900-2026-05-20T111337.781.png",
-        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": false,
-        "originalUrl": "https://www.healthcaremea.com/2026/05/20/boston-scientific-expands-structural-heart-push-with-us1-5b-mirus-tavr-investment/",
-        "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-boston-scientific-expands-structural-heart-push-with-us-1-5b-mirus-tavr-"
       },
       {
         "id": "2026-05-17-usfda-approves-astrazeneca-s-baxfendy-for-uncontrolled-hypertension",
@@ -571,6 +621,23 @@
         "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-merck-s-experimental-cancer-drug-shows-survival-benefit-in-landmark-endo"
       },
       {
+        "id": "2026-05-17-philips-unveils-smartiq-ai-coronary-imaging-platform-for-azurion-at-euro",
+        "title": "Philips unveils SmartIQ AI coronary imaging platform for Azurion at EuroPCR 2026 | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
+        "summary": "SmartIQ was developed in collaboration with leading cardiovascular centers to tackle one of the most persistent challenges in coronary imaging: balancing high-quality images with lower radiation e ...",
+        "source": "Healthcare MEA",
+        "sourceHost": "healthcaremea.com",
+        "region": "Middle East",
+        "country": "Middle East",
+        "publishedAt": "2026-05-21T08:14:00.000Z",
+        "publishedLabel": "May 21, 2026",
+        "category": "Manufacturing",
+        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/05/image-1600x900-2026-05-21T091919.130.png",
+        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
+        "justIn": true,
+        "originalUrl": "https://www.healthcaremea.com/2026/05/21/philips-unveils-smartiq-ai-coronary-imaging-platform-for-azurion-at-europcr-2026/",
+        "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-philips-unveils-smartiq-ai-coronary-imaging-platform-for-azurion-at-euro"
+      },
+      {
         "id": "2026-05-17-novo-nordisk-to-present-new-semaglutide-mash-data-from-essence-trial-at-",
         "title": "Novo Nordisk to present new Semaglutide MASH data from ESSENCE trial at EASL 2026 | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
         "summary": "The company’s presentations at EASL 2026 build on results from the Phase 3 ESSENCE programme, where semaglutide 2.4 mg previously demonstrated significant reductions in liver inflammation and fibr ...",
@@ -583,7 +650,7 @@
         "category": "Manufacturing",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/05/image-1600x900-2026-05-21T100109.383.png",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/05/21/novo-nordisk-to-present-new-semaglutide-mash-data-from-essence-trial-at-easl-2026/",
         "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-novo-nordisk-to-present-new-semaglutide-mash-data-from-essence-trial-at-"
       },
@@ -600,7 +667,7 @@
         "category": "Industry Update",
         "image": "https://medicaldialogues.in/h-upload/2024/02/24/232985-abbvie-50.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/abbvies-patent-plea-for-hepatitis-c-therapy-mavyret-rejected-in-india-171041",
         "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-abbvie-s-patent-plea-for-hepatitis-c-therapy-mavyret-rejected-in-india"
       },
@@ -673,6 +740,23 @@
         "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-alembic-pharmaceuticals-clears-brazil-anvisa-gmp-inspection-for-karakhad"
       },
       {
+        "id": "2026-05-17-sanofi-s-rare-lung-disease-drug-outperforms-standard-therapy-in-head-to-",
+        "title": "Sanofi's Rare Lung Disease Drug Outperforms Standard Therapy in Head-to-Head Trial",
+        "summary": "London: French drugmaker Sanofi said on Monday a trial showed its rare disease therapy was better than standard care in raising levels of a ‌key protein in patients ⁠with ⁠a genetic form of lung...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-05-21T08:21:28.000Z",
+        "publishedLabel": "May 21, 2026",
+        "category": "Industry Update",
+        "image": "https://medicaldialogues.in/h-upload/2023/01/10/197328-sanofi-3.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": false,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/sanofis-rare-lung-disease-drug-outperforms-standard-therapy-in-head-to-head-trial-170986",
+        "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-sanofi-s-rare-lung-disease-drug-outperforms-standard-therapy-in-head-to-"
+      },
+      {
         "id": "2026-05-17-siemens-healthineers-debuts-integrated-ct-guided-pci-workflow-system-at-",
         "title": "Siemens Healthineers debuts integrated CT-Guided PCI workflow system at EuroPCR 2026 | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
         "summary": "The solution integrates Syngo.CT Coronary Cockpit on the Syngo.via platform with Syngo PCI Connect running on Artis angiography systems.",
@@ -685,43 +769,9 @@
         "category": "Manufacturing",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/05/image-1600x900-2026-05-21T092814.799.png",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/05/21/siemens-healthineers-debuts-integrated-ct-guided-pci-workflow-system-at-europcr-2026/",
         "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-siemens-healthineers-debuts-integrated-ct-guided-pci-workflow-system-at-"
-      },
-      {
-        "id": "2026-05-17-sanofi-s-rare-lung-disease-drug-outperforms-standard-therapy-in-head-to-",
-        "title": "Sanofi's Rare Lung Disease Drug Outperforms Standard Therapy in Head-to-Head Trial",
-        "summary": "London: French drugmaker Sanofi said on Monday a trial showed its rare disease therapy was better than standard care in raising levels of a ‌key protein in patients ⁠with ⁠a genetic form of lung...",
-        "source": "Medical Dialogues Pharma",
-        "sourceHost": "medicaldialogues.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-05-21T05:40:58.000Z",
-        "publishedLabel": "May 21, 2026",
-        "category": "Industry Update",
-        "image": "https://medicaldialogues.in/h-upload/2023/01/10/197328-sanofi-3.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/sanofis-rare-lung-disease-drug-outperforms-standard-therapy-in-head-to-head-trial-170986",
-        "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-sanofi-s-rare-lung-disease-drug-outperforms-standard-therapy-in-head-to-"
-      },
-      {
-        "id": "2026-05-17-medlab-opens-advanced-surgical-training-facility-at-dubai-science-park-h",
-        "title": "MedLab opens advanced surgical training facility at Dubai Science Park | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
-        "summary": "The facility is built to accommodate approximately 1,000 to 1,500 healthcare professionals each year, including consultants, specialists, and early-career doctors.",
-        "source": "Healthcare MEA",
-        "sourceHost": "healthcaremea.com",
-        "region": "Middle East",
-        "country": "United Arab Emirates",
-        "publishedAt": "2026-05-20T08:03:19.000Z",
-        "publishedLabel": "May 20, 2026",
-        "category": "Manufacturing",
-        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/05/image-1600x900-2026-05-20T110014.406.png",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://www.healthcaremea.com/2026/05/20/medlab-opens-advanced-surgical-training-facility-at-dubai-science-park/",
-        "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-medlab-opens-advanced-surgical-training-facility-at-dubai-science-park-h"
       },
       {
         "id": "2026-05-17-may-20-chemist-strike-loses-state-support-as-cdsco-reviews-e-pharmacy-co",
@@ -821,43 +871,9 @@
         "category": "Industry Update",
         "image": "https://medicaldialogues.in/h-upload/2024/01/22/230672-pfizer-50.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/pfizers-experimental-pneumococcal-vaccine-shows-stronger-immune-response-than-prevnar-20-171040",
         "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-pfizer-s-experimental-pneumococcal-vaccine-shows-stronger-immune-respons"
-      },
-      {
-        "id": "2026-05-17-telangana-hc-dismisses-aurobindo-promoters-plea-in-rs-6-53-crore-insider",
-        "title": "Telangana HC Dismisses Aurobindo Promoters' Plea in Rs 6.53 Crore Insider Trading Case",
-        "summary": "New Delhi: Aurobindo Pharma has informed stock exchanges that the Telangana High Court has dismissed a writ petition filed by certain promoter and promoter group members of the company in connection...",
-        "source": "Medical Dialogues Pharma",
-        "sourceHost": "medicaldialogues.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-05-18T18:10:09.000Z",
-        "publishedLabel": "May 18, 2026",
-        "category": "Industry Update",
-        "image": "https://medicaldialogues.in/h-upload/2023/01/10/197263-aurobindo-pharma-1.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/telangana-hc-dismisses-aurobindo-promoters-plea-in-rs-653-crore-insider-trading-case-170932",
-        "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-telangana-hc-dismisses-aurobindo-promoters-plea-in-rs-6-53-crore-insider"
-      },
-      {
-        "id": "2026-05-17-telangana-dca-finds-violations-in-144-pharmacies-during-statewide-inspec",
-        "title": "Telangana DCA Finds Violations in 144 Pharmacies During Statewide Inspection Drive",
-        "summary": "Hyderabad: The Drug Control Administration (DCA) Telangana has reportedly identified violations in 144 pharmacies across the state during a large-scale inspection drive conducted to monitor compliance...",
-        "source": "Medical Dialogues Pharma",
-        "sourceHost": "medicaldialogues.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-05-20T18:22:41.000Z",
-        "publishedLabel": "May 20, 2026",
-        "category": "Industry Update",
-        "image": "https://medicaldialogues.in/h-upload/2021/03/30/150722-124706-violation-1.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
-        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/telangana-dca-finds-violations-in-144-pharmacies-during-statewide-inspection-drive-171042",
-        "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-telangana-dca-finds-violations-in-144-pharmacies-during-statewide-inspec"
       }
     ],
     "providers": [
@@ -874,7 +890,7 @@
         "category": "Hospital",
         "image": "https://etimg.etb2bimg.com/thumb/msid-131213171,imgsize-154654,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/hcg-opens-new-bengaluru-facility-with-rs-129-crore-investment.jpg",
         "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/hcg-opens-new-bengaluru-facility-with-rs-129-crore-investment/131213171",
         "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-hcg-opens-new-bengaluru-facility-with-rs-129-crore-investment"
       },
@@ -891,7 +907,7 @@
         "category": "AI Care Delivery",
         "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/01/20155303/EH_Lalit_Mistry_750-1.jpg",
         "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/news/can-indias-healthcare-system-keep-pace-with-ai-ambitions/453741/",
         "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-can-india-s-healthcare-system-keep-pace-with-ai-ambitions"
       },
@@ -908,7 +924,7 @@
         "category": "Hospital",
         "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/05/20234354/New-Project-6-2.jpg",
         "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/news/esbee-dynamed-opens-esbee-hive-in-mumbai/453736/",
         "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-esbee-dynamed-opens-esbee-hive-in-mumbai"
       },
@@ -925,7 +941,7 @@
         "category": "Hospital",
         "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/05/20230725/New-Project-2-3.jpg",
         "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/uncategorized/hcg-launches-cancer-hospital-in-north-bengaluru/453723/",
         "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-hcg-launches-cancer-hospital-in-north-bengaluru"
       },
@@ -976,7 +992,7 @@
         "category": "Provider Update",
         "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/04/15172333/New-Project-13.jpg",
         "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/ma/apollo-cradle-and-fertility-cloudnine-to-merge/453739/",
         "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-apollo-cradle-and-fertility-cloudnine-to-merge"
       },
@@ -993,7 +1009,7 @@
         "category": "Patient Care",
         "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/05/20231428/New-Project-3-3.jpg",
         "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/news/egs-health-medicas-launches-mc3-to-expand-access-to-cancer-care-across-india/453727/",
         "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-egs-health-medicas-launches-mc3-to-expand-access-to-cancer-care-across-i"
       },
@@ -1027,7 +1043,7 @@
         "category": "Hospital",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/05/image-1600x900-2026-05-21T085626.278.png",
         "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/05/21/yobe-specialist-hospital-performs-landmark-jaw-reconstruction-surgery-in-north-east-nigeria/",
         "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-yobe-specialist-hospital-performs-landmark-jaw-reconstruction-surgery-in"
       }
@@ -1080,7 +1096,7 @@
         "category": "Diagnostics",
         "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/05/20233310/New-Project-5-2.jpg",
         "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/news/curelo-appoints-dr-amit-arora-as-co-founder-and-coo/453733/",
         "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-curelo-appoints-dr-amit-arora-as-co-founder-and-coo"
       },
@@ -1124,22 +1140,6 @@
   "thbActions": [
     {
       "segment": "pharma",
-      "articleId": "2026-05-17-biomarin-s-drug-shows-significant-growth-gains-in-children-in-late-stage",
-      "title": "BioMarin's drug shows significant growth gains in children in late-stage trial",
-      "source": "Reuters Healthcare & Pharma",
-      "solution": "THB Commercial Analytics",
-      "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
-    },
-    {
-      "segment": "pharma",
-      "articleId": "2026-05-17-medtronic-plans-to-buy-spr-therapeutics-for-650-million-to-expand-pain-t",
-      "title": "Medtronic plans to buy SPR Therapeutics for $650 million to expand pain treatment options",
-      "source": "Reuters Healthcare & Pharma",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
-      "segment": "pharma",
       "articleId": "2026-05-17-dr-reddy-s-launches-oral-semaglutide-in-india",
       "title": "Dr Reddy’s launches oral semaglutide in India",
       "source": "Economic Times Pharma",
@@ -1161,6 +1161,22 @@
       "source": "Economic Times Pharma",
       "solution": "THB Commercial Analytics",
       "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
+    },
+    {
+      "segment": "pharma",
+      "articleId": "2026-05-17-nclat-allows-lyka-labs-appeal-asks-modi-lifecare-to-pay-rs-63-lakh-or-fa",
+      "title": "NCLAT allows Lyka Labs appeal; asks Modi Lifecare to pay Rs 63 lakh or face insolvency proceedings",
+      "source": "Economic Times Pharma",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "pharma",
+      "articleId": "2026-05-17-abbvie-loses-patent-plea-for-hep-c-drug",
+      "title": "AbbVie loses patent plea for Hep C drug",
+      "source": "Economic Times Pharma",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
     },
     {
       "segment": "providers",
