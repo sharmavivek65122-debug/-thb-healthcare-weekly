@@ -5,12 +5,12 @@
   "startDate": "2026-05-16T18:30:00.000Z",
   "endDate": "2026-05-22T18:30:00.000Z",
   "status": "live",
-  "updatedAt": "2026-05-22T07:58:23.645Z",
+  "updatedAt": "2026-05-22T16:02:17.525Z",
   "coverage": {
     "pharma": 50,
-    "providers": 12,
-    "diagnostics": 7,
-    "healthtech": 1
+    "providers": 16,
+    "diagnostics": 6,
+    "healthtech": 0
   },
   "sourcesUsed": [
     "ET Healthworld",
@@ -20,6 +20,7 @@
     "Express Healthcare",
     "Express Healthcare Posts",
     "Healthcare MEA",
+    "Lupin Updates",
     "Medical Dialogues Pharma",
     "PharmaTutor News",
     "Zawya Pharmaceuticals"
@@ -124,7 +125,7 @@
         "category": "Approval",
         "image": "https://img.etimg.com/thumb/msid-131251008,width-1200,height-630,imgsize-7622,overlay-economictimes/articleshow.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/icmr-replaces-old-system-with-single-window-approval-for-medical-studies/articleshow/131250996.cms",
         "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-icmr-replaces-old-system-with-single-window-approval-for-medical-studies"
       },
@@ -141,7 +142,7 @@
         "category": "Industry Update",
         "image": "https://img.etimg.com/thumb/msid-131249611,width-1200,height-630,imgsize-72454,overlay-economictimes/articleshow.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/eli-lillys-obesity-drug-shows-up-to-30-weight-loss-in-trial/articleshow/131249598.cms",
         "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-eli-lilly-s-obesity-drug-shows-up-to-30-weight-loss-in-trial"
       },
@@ -175,7 +176,7 @@
         "category": "Approval",
         "image": "https://img.etimg.com/thumb/msid-131258601,width-1200,height-630,imgsize-95092,overlay-economictimes/articleshow.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/alembic-gets-usfda-nod-for-generic-levothyroxine-sodium-tablets/articleshow/131258579.cms",
         "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-alembic-gets-usfda-nod-for-generic-levothyroxine-sodium-tablets"
       },
@@ -192,7 +193,7 @@
         "category": "Industry Update",
         "image": "https://img.etimg.com/thumb/msid-131258316,width-1200,height-630,imgsize-17444,overlay-economictimes/articleshow.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/pregabalin-moved-to-schedule-h1-as-centre-cracks-down-on-drug-misuse/articleshow/131258316.cms",
         "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-pregabalin-moved-to-schedule-h1-as-centre-cracks-down-on-drug-misuse"
       },
@@ -209,7 +210,7 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-131254574,imgsize-3405870,width-1200,height=627,overlay-ethealth,resizemode-75/industry/delhis-rml-hospital-admits-seasons-first-heat-stroke-patient-24-year-old-youth-critical.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/delhis-rml-hospital-admits-seasons-first-heat-stroke-patient-24-year-old-youth-critical/131254574",
         "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-delhi-s-rml-hospital-admits-season-s-first-heat-stroke-patient-24-year-o"
       },
@@ -277,7 +278,7 @@
         "category": "Approval",
         "image": "https://etimg.etb2bimg.com/thumb/msid-131188683,imgsize-83008,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/up-govt-approves-construction-of-1010-bed-hospital-in-lucknow-medical-college.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/up-govt-approves-construction-of-1010-bed-hospital-in-lucknow-medical-college/131188683",
         "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-up-govt-approves-construction-of-1010-bed-hospital-in-lucknow-medical-co"
       },
@@ -297,6 +298,23 @@
         "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/pharmacy-associations-skip-strike-major-medicine-disruption-unlikely/articleshow/131179265.cms",
         "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-pharmacy-associations-to-skip-strike-major-medicine-disruption-unlikely"
+      },
+      {
+        "id": "2026-05-17-government-plans-childhood-cancer-registry-as-india-battles-75-000-new-c",
+        "title": "Government plans childhood cancer registry as India battles 75,000 new cases a year",
+        "summary": "“One of the key priorities in childhood cancer care is early detection. Setting up a registry for childhood cancer and declaring it a notifiable disease is an issue. We are still working with ICMR on this. The aim is not to miss any patient,” said Leimapokpam...",
+        "source": "ET Healthworld",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-05-22T10:21:55.000Z",
+        "publishedLabel": "May 22, 2026",
+        "category": "Industry Update",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-131261630,imgsize-48462,width-1200,height=627,overlay-ethealth,resizemode-75/policy/government-plans-childhood-cancer-registry-as-india-battles-75000-new-cases-a-year.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/policy/government-plans-childhood-cancer-registry-as-india-battles-75000-new-cases-a-year/131261630",
+        "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-government-plans-childhood-cancer-registry-as-india-battles-75-000-new-c"
       },
       {
         "id": "2026-05-17-drinking-more-water-alone-may-not-prevent-repeat-kidney-stones-lancet-st",
@@ -333,23 +351,6 @@
         "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-paras-health-unveils-umeed-ke-sitare-initiative-for-cancer-survivors"
       },
       {
-        "id": "2026-05-17-cloudnine-to-acquire-apollo-s-maternity-chain-cradle",
-        "title": "Cloudnine to acquire Apollo’s maternity chain Cradle",
-        "summary": "Cloudnine has signed an exclusivity agreement to acquire Apollo Cradle and the proposed transaction is expected to value the business at around ₹1,500 crore. Earlier in June last year, ET first reported that Apollo Hospitals Enterprises Ltd (AHEL) had...",
-        "source": "ET Healthworld",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-05-21T05:32:46.000Z",
-        "publishedLabel": "May 21, 2026",
-        "category": "Industry Update",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-131240389,imgsize-124560,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/cloudnine-to-acquire-apollos-maternity-chain-cradle.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/cloudnine-to-acquire-apollos-maternity-chain-cradle/131240389",
-        "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-cloudnine-to-acquire-apollo-s-maternity-chain-cradle"
-      },
-      {
         "id": "2026-05-17-gsk-s-calpol-a-well-known-trademark-high-court",
         "title": "GSK's Calpol a well-known trademark: High Court",
         "summary": "The Delhi High Court has recognized GlaxoSmithKline Pharmaceuticals' pain and fever medicine, Calpol, as a well-known trademark. This designation acknowledges Calpol's extensive recognition in India since 1991. The court found that consumers associate the...",
@@ -384,6 +385,23 @@
         "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-the-new-normal-how-high-tech-limbs-are-changing-lives-in-india"
       },
       {
+        "id": "2026-05-17-serb-pharmaceuticals-acquires-rights-to-idefirix-in-us-133-6m-deal-with-",
+        "title": "SERB Pharmaceuticals acquires rights to Idefirix in US$133.6M deal with Hansa Biopharma",
+        "summary": "Idefirix is a first-in-class treatment designed to help highly sensitised adult kidney transplant patients who face difficulties finding compatible donors.",
+        "source": "Healthcare MEA",
+        "sourceHost": "healthcaremea.com",
+        "region": "Middle East",
+        "country": "Middle East",
+        "publishedAt": "2026-05-22T09:25:25.000Z",
+        "publishedLabel": "May 22, 2026",
+        "category": "Deal",
+        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/05/image-1600x900-2026-05-22T122025.502.png",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://www.healthcaremea.com/2026/05/22/serb-pharmaceuticals-acquires-rights-to-idefirix-in-us133-6m-deal-with-hansa-biopharma/",
+        "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-serb-pharmaceuticals-acquires-rights-to-idefirix-in-us-133-6m-deal-with-"
+      },
+      {
         "id": "2026-05-17-gilead-sciences-expands-api-supply-partnership-with-yuhan-in-us-140m-dea",
         "title": "Gilead Sciences expands API supply partnership with Yuhan in US$140M deal through 2027 | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
         "summary": "Yuhan operates two API manufacturing facilities in South Korea and has reported steady international growth, with overseas sales increasing 21% in the first quarter.",
@@ -401,6 +419,23 @@
         "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-gilead-sciences-expands-api-supply-partnership-with-yuhan-in-us-140m-dea"
       },
       {
+        "id": "2026-05-17-venus-remedies-secures-first-ever-global-approval-for-plerixafor-in-saud",
+        "title": "Venus Remedies Secures First-Ever Global Approval for Plerixafor in Saudi Arabia",
+        "summary": "Venus Remedies has achieved a major milestone after receiving Marketing Authorization from the Saudi Food and Drug Authority for its specialty oncology therapy Plerixafor. The approval marks the company’s first-ever global authorization for the drug and...",
+        "source": "PharmaTutor News",
+        "sourceHost": "pharmatutor.org",
+        "region": "Middle East",
+        "country": "Saudi Arabia",
+        "publishedAt": "2026-05-22T11:00:34.000Z",
+        "publishedLabel": "May 22, 2026",
+        "category": "Approval",
+        "image": "https://www.pharmatutor.org/sites/default/files/styles/webp/public/2026-05/venus-remedies-secures-first-ever-global-approval-for-plerixafor-in-saudi-arabia.jpg.webp?itok=kZkQiKoS",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/venus-remedies-secures-first-ever-global-approval-for-plerixafor-in-saudi-arabia",
+        "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-venus-remedies-secures-first-ever-global-approval-for-plerixafor-in-saud"
+      },
+      {
         "id": "2026-05-17-paracetamol-azithromycin-among-300-essential-drugs-likely-to-see-tempora",
         "title": "Paracetamol, Azithromycin Among 300 Essential Drugs Likely to See Temporary Price Rise",
         "summary": "New Delhi: The Centre is considering an emergency, one-time increase in the prices of nearly 300 essential medicines, including commonly used drugs such as paracetamol, amoxicillin, azithromycin,...",
@@ -413,7 +448,7 @@
         "category": "Industry Update",
         "image": "https://medicaldialogues.in/h-upload/2026/02/09/326373-medicine.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/govt-discussing-one-time-price-revision-for-300-essential-drugs-amid-cost-surge-171123",
         "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-paracetamol-azithromycin-among-300-essential-drugs-likely-to-see-tempora"
       },
@@ -469,40 +504,6 @@
         "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-alembic-pharmaceuticals-reports-29-jump-in-q4-profit-enters-us-branded-p"
       },
       {
-        "id": "2026-05-17-dr-reddy-s-laboratories-launches-generic-semaglutide-injection-in-canada",
-        "title": "Dr. Reddy's Laboratories Launches Generic Semaglutide Injection in Canada, Marks Major Global Milestone",
-        "summary": "India-based pharmaceutical giant Dr. Reddy's Laboratories has announced the launch of its generic Semaglutide Injection in Canada, becoming one of the first companies to introduce the product in the Canadian market following approval from Health Canada.",
-        "source": "PharmaTutor News",
-        "sourceHost": "pharmatutor.org",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-05-18T10:02:14.000Z",
-        "publishedLabel": "May 18, 2026",
-        "category": "Approval",
-        "image": "https://www.pharmatutor.org/sites/default/files/styles/webp/public/2026-05/dr-reddys-laboratories-launches-generic-semaglutide-injection-in-canada-marks-major-global-milestone.jpg.webp?itok=ubAriD0b",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/dr-reddys-laboratories-launches-generic-semaglutide-injection-in-canada-marks-major-global-milestone",
-        "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-dr-reddy-s-laboratories-launches-generic-semaglutide-injection-in-canada"
-      },
-      {
-        "id": "2026-05-17-embecta-expands-drug-delivery-portfolio-with-us-172-6m-owen-mumford-acqu",
-        "title": "Embecta expands drug delivery portfolio with US$172.6M Owen Mumford acquisition | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
-        "summary": "Owen Mumford brings established expertise in device design, precision moulding, and medical device assembly, which will now be integrated with Embecta’s commercial infrastructure and large-scale m ...",
-        "source": "Healthcare MEA",
-        "sourceHost": "healthcaremea.com",
-        "region": "Middle East",
-        "country": "Middle East",
-        "publishedAt": "2026-05-21T07:48:40.000Z",
-        "publishedLabel": "May 21, 2026",
-        "category": "Manufacturing",
-        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/05/image-1600x900-2026-05-21T102322.462.png",
-        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": false,
-        "originalUrl": "https://www.healthcaremea.com/2026/05/21/embecta-expands-drug-delivery-portfolio-with-us172-6m-owen-mumford-acquisition/",
-        "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-embecta-expands-drug-delivery-portfolio-with-us-172-6m-owen-mumford-acqu"
-      },
-      {
         "id": "2026-05-17-roche-and-mpp-partner-to-expand-access-to-influenza-drug-in-129-countrie",
         "title": "Roche and MPP Partner to Expand Access to Influenza Drug in 129 Countries",
         "summary": "In a major step toward improving global pandemic preparedness, Swiss pharmaceutical giant Roche and the Medicines Patent Pool (MPP) have signed a voluntary licensing agreement to expand access to the influenza antiviral drug Xofluza (baloxavir marboxil)...",
@@ -535,6 +536,40 @@
         "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/emcure-ahmedabad-unit-under-usfda-scanner-gets-7-procedural-observations-170933",
         "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-emcure-ahmedabad-unit-under-usfda-scanner-gets-7-procedural-observations"
+      },
+      {
+        "id": "2026-05-17-kenya-demands-global-equity-in-ebola-response-funding-at-wha79-healthcar",
+        "title": "Kenya demands Global Equity in Ebola response funding at WHA79 | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
+        "summary": "Kenya aligned its position with the African regional statement presented by Zimbabwe on behalf of the WHO African Region, reinforcing a continent-wide call for equity at the heart of global health ...",
+        "source": "Healthcare MEA",
+        "sourceHost": "healthcaremea.com",
+        "region": "Middle East",
+        "country": "Middle East",
+        "publishedAt": "2026-05-22T10:15:51.000Z",
+        "publishedLabel": "May 22, 2026",
+        "category": "Manufacturing",
+        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/05/image-1600x900-2026-05-22T131136.765.png",
+        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
+        "justIn": true,
+        "originalUrl": "https://www.healthcaremea.com/2026/05/22/kenya-demands-global-equity-in-ebola-response-funding-at-wha79/",
+        "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-kenya-demands-global-equity-in-ebola-response-funding-at-wha79-healthcar"
+      },
+      {
+        "id": "2026-05-17-bernstein-initiates-coverage-on-6-pharma-stocks-cites-3-major-tailwinds-",
+        "title": "Bernstein initiates coverage on 6 pharma stocks, cites 3 major tailwinds for healthcare sector",
+        "summary": "Bernstein has initiated coverage on six Indian pharma stocks, with Zydus Lifesciences as its top choice. The brokerage sees strong future growth for the Indian healthcare sector. Key drivers include AI-led innovation, incremental advancements in niche areas,...",
+        "source": "Lupin Updates",
+        "sourceHost": "economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-05-22T08:41:00.000Z",
+        "publishedLabel": "May 22, 2026",
+        "category": "Industry Update",
+        "image": "https://img.etimg.com/thumb/msid-131260210,width-1200,height-630,imgsize-14992,overlay-etmarkets/articleshow.jpg",
+        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
+        "justIn": true,
+        "originalUrl": "https://economictimes.indiatimes.com/markets/stocks/news/bernstein-initiates-coverage-on-6-pharma-stocks-cites-3-major-tailwinds-for-healthcare-sector/articleshow/131260196.cms",
+        "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-bernstein-initiates-coverage-on-6-pharma-stocks-cites-3-major-tailwinds-"
       },
       {
         "id": "2026-05-17-eli-lilly-s-retatrutide-helps-patients-lose-up-to-28-3-body-weight",
@@ -583,7 +618,7 @@
         "category": "Industry Update",
         "image": "https://medicaldialogues.in/h-upload/2024/02/01/231343-mankind-pharma-50.jpg",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/mankind-pharma-q4-pat-jumps-30-fy26-revenue-crosses-rs-14000-crore-mark-171124",
         "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-mankind-pharma-q4-pat-jumps-30-fy26-revenue-crosses-rs-14-000-crore-mark"
       },
@@ -603,23 +638,6 @@
         "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/calpol-a-well-known-trademark-delhi-hc-bars-walpol-use-awards-rs-2-lakh-damages-to-gsk-171045",
         "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-calpol-a-well-known-trademark-delhi-hc-bars-walpol-use-awards-rs-2-lakh-"
-      },
-      {
-        "id": "2026-05-17-roche-signs-landmark-mpp-agreement-to-increase-xofluza-access-in-129-cou",
-        "title": "Roche signs landmark MPP agreement to increase Xofluza access in 129 countries | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
-        "summary": "Under the licensing arrangement, the Medicines Patent Pool (MPP) has invited qualified generic drug manufacturers to submit applications to produce generic versions of Xofluza.",
-        "source": "Healthcare MEA",
-        "sourceHost": "healthcaremea.com",
-        "region": "Middle East",
-        "country": "Middle East",
-        "publishedAt": "2026-05-20T09:55:00.000Z",
-        "publishedLabel": "May 20, 2026",
-        "category": "Manufacturing",
-        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/05/image-1600x900-2026-05-20T105148.648.png",
-        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": false,
-        "originalUrl": "https://www.healthcaremea.com/2026/05/20/roche-signs-landmark-medicines-patent-pool-agreement-to-increase-xofluza-access-in-129-countries/",
-        "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-roche-signs-landmark-mpp-agreement-to-increase-xofluza-access-in-129-cou"
       },
       {
         "id": "2026-05-17-usfda-approves-astrazeneca-s-baxfendy-for-uncontrolled-hypertension",
@@ -690,23 +708,6 @@
         "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-philips-unveils-smartiq-ai-coronary-imaging-platform-for-azurion-at-euro"
       },
       {
-        "id": "2026-05-17-novo-nordisk-to-present-new-semaglutide-mash-data-from-essence-trial-at-",
-        "title": "Novo Nordisk to present new Semaglutide MASH data from ESSENCE trial at EASL 2026 | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
-        "summary": "The company’s presentations at EASL 2026 build on results from the Phase 3 ESSENCE programme, where semaglutide 2.4 mg previously demonstrated significant reductions in liver inflammation and fibr ...",
-        "source": "Healthcare MEA",
-        "sourceHost": "healthcaremea.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-05-21T07:04:47.000Z",
-        "publishedLabel": "May 21, 2026",
-        "category": "Manufacturing",
-        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/05/image-1600x900-2026-05-21T100109.383.png",
-        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": false,
-        "originalUrl": "https://www.healthcaremea.com/2026/05/21/novo-nordisk-to-present-new-semaglutide-mash-data-from-essence-trial-at-easl-2026/",
-        "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-novo-nordisk-to-present-new-semaglutide-mash-data-from-essence-trial-at-"
-      },
-      {
         "id": "2026-05-17-strides-pharma-bengaluru-facility-receives-form-483-with-5-usfda-observa",
         "title": "Strides Pharma Bengaluru Facility Receives Form 483 with 5 USFDA Observations",
         "summary": "New Delhi: Strides Pharma Science has informed the stock exchanges that the United States Food and Drug Administration (USFDA) has issued a Form 483 with five observations following an inspection at...",
@@ -719,7 +720,7 @@
         "category": "Industry Update",
         "image": "https://medicaldialogues.in/h-upload/2022/11/14/190765-strides-new.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/strides-pharma-bengaluru-facility-receives-form-483-with-5-usfda-observations-171127",
         "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-strides-pharma-bengaluru-facility-receives-form-483-with-5-usfda-observa"
       },
@@ -736,7 +737,7 @@
         "category": "Industry Update",
         "image": "https://medicaldialogues.in/h-upload/2023/03/20/205521-e-pharmacy-new-1.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/delhi-chemist-strike-disrupts-medicine-supply-amid-protest-against-e-pharmacies-171126",
         "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-delhi-chemist-strike-disrupts-medicine-supply-amid-protest-against-e-pha"
       },
@@ -809,21 +810,55 @@
         "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-cdsco-orders-strict-action-against-illegal-sale-promotion-of-glp-1-weigh"
       },
       {
-        "id": "2026-05-17-alembic-pharmaceuticals-clears-brazil-anvisa-gmp-inspection-for-karakhad",
-        "title": "Alembic Pharmaceuticals Clears Brazil ANVISA GMP Inspection for Karakhadi API Facility",
-        "summary": "In a significant regulatory achievement, Alembic Pharmaceuticals has successfully cleared a Good Manufacturing Practices (GMP) inspection conducted by Brazil’s health regulatory authority, ANVISA, for its API-III manufacturing facility located at Karakhadi,...",
+        "id": "2026-05-17-kenya-receives-who-certification-for-eliminating-sleeping-sickness-in-ge",
+        "title": "Kenya receives WHO certification for eliminating sleeping sickness in Geneva | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
+        "summary": "WHO validated the elimination in June 2025, and Kenya made a national announcement in August 2025 before formally receiving the certification in Geneva.",
+        "source": "Healthcare MEA",
+        "sourceHost": "healthcaremea.com",
+        "region": "Middle East",
+        "country": "Middle East",
+        "publishedAt": "2026-05-22T09:43:36.000Z",
+        "publishedLabel": "May 22, 2026",
+        "category": "Manufacturing",
+        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/05/image-1600x900-2026-05-22T123940.232.png",
+        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
+        "justIn": true,
+        "originalUrl": "https://www.healthcaremea.com/2026/05/22/kenya-receives-who-certification-for-eliminating-sleeping-sickness-in-geneva/",
+        "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-kenya-receives-who-certification-for-eliminating-sleeping-sickness-in-ge"
+      },
+      {
+        "id": "2026-05-17-pci-makes-aebas-mandatory-for-pharmacy-colleges-institutions-told-to-com",
+        "title": "PCI Makes AEBAS Mandatory for Pharmacy Colleges; Institutions Told to Complete Compliance",
+        "summary": "The Pharmacy Council of India has intensified the implementation of the Aadhaar Enabled Biometric Attendance System (AEBAS) across all PCI-approved pharmacy institutions in India.",
         "source": "PharmaTutor News",
         "sourceHost": "pharmatutor.org",
         "region": "India",
         "country": "India",
-        "publishedAt": "2026-05-18T10:07:47.000Z",
-        "publishedLabel": "May 18, 2026",
-        "category": "Manufacturing",
-        "image": "https://www.pharmatutor.org/sites/default/files/styles/webp/public/2026-05/alembic-pharmaceuticals-clears-brazil-anvisa-gmp-inspection-for-karakhadi-api-facility.jpg.webp?itok=I-1AGTWu",
-        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": false,
-        "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/alembic-pharmaceuticals-clears-brazil-anvisa-gmp-inspection-for-karakhadi-api-facility",
-        "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-alembic-pharmaceuticals-clears-brazil-anvisa-gmp-inspection-for-karakhad"
+        "publishedAt": "2026-05-22T05:57:19.000Z",
+        "publishedLabel": "May 22, 2026",
+        "category": "Industry Update",
+        "image": "https://www.pharmatutor.org/sites/default/files/styles/webp/public/2026-05/pci-makes-aebas-mandatory-for-pharmacy-colleges-institutions-told-to-complete-compliance.jpg.webp?itok=X-fHdemA",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/pci-makes-aebas-mandatory-for-pharmacy-colleges-institutions-told-to-complete-compliance",
+        "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-pci-makes-aebas-mandatory-for-pharmacy-colleges-institutions-told-to-com"
+      },
+      {
+        "id": "2026-05-17-dr-reddy-s-launches-oral-semaglutide-in-india-expands-glp-1-diabetes-por",
+        "title": "Dr. Reddy’s Launches Oral semaglutide in India, Expands GLP-1 Diabetes Portfolio",
+        "summary": "Dr. Reddy’s Laboratories has announced the launch of Obeda® tablets, an oral semaglutide therapy for patients with diabetes in India. The launch marks another major step in the company’s expansion of its GLP-1 portfolio after recently introducing semaglutide...",
+        "source": "PharmaTutor News",
+        "sourceHost": "pharmatutor.org",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-05-22T05:55:31.000Z",
+        "publishedLabel": "May 22, 2026",
+        "category": "Launch",
+        "image": "https://www.pharmatutor.org/sites/default/files/styles/webp/public/2026-05/dr-reddys-launches-oral-semaglutide-in-india-expands-glp-1-diabetes-portfolio.jpg.webp?itok=DQ8kLIgB",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/dr-reddys-launches-oral-semaglutide-in-india-expands-glp-1-diabetes-portfolio",
+        "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-dr-reddy-s-launches-oral-semaglutide-in-india-expands-glp-1-diabetes-por"
       },
       {
         "id": "2026-05-17-sanofi-s-rare-lung-disease-drug-outperforms-standard-therapy-in-head-to-",
@@ -841,43 +876,26 @@
         "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/sanofis-rare-lung-disease-drug-outperforms-standard-therapy-in-head-to-head-trial-170986",
         "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-sanofi-s-rare-lung-disease-drug-outperforms-standard-therapy-in-head-to-"
-      },
-      {
-        "id": "2026-05-17-siemens-healthineers-debuts-integrated-ct-guided-pci-workflow-system-at-",
-        "title": "Siemens Healthineers debuts integrated CT-Guided PCI workflow system at EuroPCR 2026 | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
-        "summary": "The solution integrates Syngo.CT Coronary Cockpit on the Syngo.via platform with Syngo PCI Connect running on Artis angiography systems.",
-        "source": "Healthcare MEA",
-        "sourceHost": "healthcaremea.com",
-        "region": "Middle East",
-        "country": "Middle East",
-        "publishedAt": "2026-05-21T07:32:00.000Z",
-        "publishedLabel": "May 21, 2026",
-        "category": "Manufacturing",
-        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/05/image-1600x900-2026-05-21T092814.799.png",
-        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": false,
-        "originalUrl": "https://www.healthcaremea.com/2026/05/21/siemens-healthineers-debuts-integrated-ct-guided-pci-workflow-system-at-europcr-2026/",
-        "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-siemens-healthineers-debuts-integrated-ct-guided-pci-workflow-system-at-"
-      },
-      {
-        "id": "2026-05-17-may-20-chemist-strike-loses-state-support-as-cdsco-reviews-e-pharmacy-co",
-        "title": "May 20 Chemist Strike Loses State Support As CDSCO Reviews E-Pharmacy Concerns",
-        "summary": "New Delhi: The Central Drugs Standard Control Organisation (CDSCO) is reviewing concerns raised by retail chemists over the operation of e-pharmacies, even as several state-level pharmacy associations...",
-        "source": "Medical Dialogues Pharma",
-        "sourceHost": "medicaldialogues.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-05-19T16:47:53.000Z",
-        "publishedLabel": "May 19, 2026",
-        "category": "Industry Update",
-        "image": "https://medicaldialogues.in/h-upload/2025/03/10/277896-medicine-8.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/may-20-chemist-strike-loses-state-support-as-cdsco-reviews-e-pharmacy-concerns-170988",
-        "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-may-20-chemist-strike-loses-state-support-as-cdsco-reviews-e-pharmacy-co"
       }
     ],
     "providers": [
+      {
+        "id": "2026-05-17-cloudnine-to-acquire-apollo-s-maternity-chain-cradle",
+        "title": "Cloudnine to acquire Apollo’s maternity chain Cradle",
+        "summary": "Cloudnine has signed an exclusivity agreement to acquire Apollo Cradle and the proposed transaction is expected to value the business at around ₹1,500 crore. Earlier in June last year, ET first reported that Apollo Hospitals Enterprises Ltd (AHEL) had...",
+        "source": "ET Healthworld Hospitals",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-05-21T05:32:46.000Z",
+        "publishedLabel": "May 21, 2026",
+        "category": "Hospital",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-131240389,imgsize-124560,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/cloudnine-to-acquire-apollos-maternity-chain-cradle.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": true,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/cloudnine-to-acquire-apollos-maternity-chain-cradle/131240389",
+        "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-cloudnine-to-acquire-apollo-s-maternity-chain-cradle"
+      },
       {
         "id": "2026-05-17-hcg-opens-new-bengaluru-facility-with-rs-129-crore-investment",
         "title": "HCG opens new Bengaluru facility with Rs 129 crore investment",
@@ -925,7 +943,7 @@
         "category": "Hospital",
         "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/05/21215119/New-Project-14.jpg",
         "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/news/aakash-healthcare-and-socrates-school-of-health-organise-workshop-on-clinic-practice-guidelines/453744/",
         "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-aakash-healthcare-and-socrates-school-of-health-organise-workshop-on-cli"
       },
@@ -1049,6 +1067,23 @@
         "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-health-security-as-economic-security-for-india"
       },
       {
+        "id": "2026-05-17-johnson-and-johnson-medtech-collaborates-with-doh-abu-dhabi-to-launch-ai",
+        "title": "Johnson & Johnson MedTech collaborates with DoH Abu Dhabi to launch AI-powered surgical intelligence network",
+        "summary": "The initiative integrates Johnson & Johnson’s Polyphonic™ open digital ecosystem with DOH Abu Dhabi and leading technology partners, including Amazon Web Services (AWS) and NVIDIA.",
+        "source": "Healthcare MEA",
+        "sourceHost": "healthcaremea.com",
+        "region": "Middle East",
+        "country": "United Arab Emirates",
+        "publishedAt": "2026-05-22T10:25:44.000Z",
+        "publishedLabel": "May 22, 2026",
+        "category": "AI Care Delivery",
+        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/05/image-1600x900-2026-05-22T131948.306.png",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": true,
+        "originalUrl": "https://www.healthcaremea.com/2026/05/22/johnson-johnson-medtech-collaborates-with-doh-abu-dhabi-to-launch-ai-powered-surgical-intelligence-network/",
+        "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-johnson-and-johnson-medtech-collaborates-with-doh-abu-dhabi-to-launch-ai"
+      },
+      {
         "id": "2026-05-17-yobe-specialist-hospital-performs-landmark-jaw-reconstruction-surgery-in",
         "title": "Yobe Specialist Hospital performs landmark jaw reconstruction surgery in north-east Nigeria",
         "summary": "The procedure, carried out in Damaturu, represents the first time such an advanced maxillofacial surgery has been conducted in a state-owned hospital in the region.",
@@ -1066,21 +1101,55 @@
         "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-yobe-specialist-hospital-performs-landmark-jaw-reconstruction-surgery-in"
       },
       {
-        "id": "2026-05-17-oman-oil-price-declines-by-3-01",
-        "title": "Oman oil price declines by $3.01",
-        "summary": "Today’sprice reflects a decrease of USD 3.01 compared to yesterday’s (Wednesday)closing price of USD 105.96",
+        "id": "2026-05-17-wall-st-futures-edge-higher-as-investors-monitor-us-iran-peace-talks",
+        "title": "Wall St futures edge higher as investors monitor US-Iran peace talks",
+        "summary": "At 06:52 a.m. ET, Dow E-minis were up 106 points, or 0.21%, S&P 500 E-minis were up 7.75 points, or 0.1% and Nasdaq 100 E-minis were up 20.25 points, or 0.07%",
+        "source": "Zawya Pharmaceuticals",
+        "sourceHost": "zawya.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-05-22T13:57:22.000Z",
+        "publishedLabel": "May 22, 2026",
+        "category": "Provider Update",
+        "image": "https://static.zawya.com/view/acePublic/alias/contentid/553aaf58-0a09-4e82-ab35-e74b0c44ad40/1/usa-stocks.jpeg?f=3%3A2",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": true,
+        "originalUrl": "https://www.zawya.com/en/capital-markets/equities/wall-st-futures-edge-higher-as-investors-monitor-us-iran-peace-talks-flx05px1",
+        "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-wall-st-futures-edge-higher-as-investors-monitor-us-iran-peace-talks"
+      },
+      {
+        "id": "2026-05-17-mideast-stocks-uae-equities-gain-as-oil-rallies-on-us-iran-uncertainty",
+        "title": "Mideast Stocks: UAE equities gain as oil rallies on US-Iran uncertainty",
+        "summary": "Dubai's main market rose 0.6%, led by gains in real ⁠estate and industrial sector stocks",
+        "source": "Zawya Pharmaceuticals",
+        "sourceHost": "zawya.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-05-22T14:00:10.000Z",
+        "publishedLabel": "May 22, 2026",
+        "category": "AI Care Delivery",
+        "image": "https://static.zawya.com/view/acePublic/alias/contentid/5c80dad8-446a-46b7-b7e6-2c5ebb3f108e/2/yemen-security-emirates.jpeg?f=3%3A2",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": true,
+        "originalUrl": "https://www.zawya.com/en/capital-markets/equities/mideast-stocks-uae-equities-gain-as-oil-rallies-on-us-iran-uncertainty-jj3ajy51",
+        "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-mideast-stocks-uae-equities-gain-as-oil-rallies-on-us-iran-uncertainty"
+      },
+      {
+        "id": "2026-05-17-naffco-group-signs-strategic-aviation-safety-mou-with-fujairah-internati",
+        "title": "NAFFCO Group signs strategic aviation safety MoU with Fujairah International Airport",
+        "summary": "Reinforcing its commitment to advancing aviation safety and emergency response infrastructure in the UAE",
         "source": "Zawya Pharmaceuticals",
         "sourceHost": "zawya.com",
         "region": "Middle East",
-        "country": "Oman",
-        "publishedAt": "2026-05-22T07:19:05.000Z",
+        "country": "United Arab Emirates",
+        "publishedAt": "2026-05-22T11:48:24.000Z",
         "publishedLabel": "May 22, 2026",
-        "category": "Provider Update",
-        "image": "https://static.zawya.com/view/acePublic/alias/contentid/e1c12c1c-94bb-4430-b5e7-50320d723a86/21/1135953004.jpeg?f=3%3A2",
+        "category": "AI Care Delivery",
+        "image": "https://static.zawya.com/view/acePublic/alias/contentid/74f066b8-91f7-4fd1-90c3-cf237dceb8fb/0/naffcogroupsignsstrategicaviationsafetymouwithfujairahinternationalairport-departmentofcivilaviation-governmento-jpg.jpeg?f=3%3A2",
         "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
         "justIn": true,
-        "originalUrl": "https://www.zawya.com/en/economy/gcc/oman-oil-price-declines-by-301-nu65j6nj",
-        "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-oman-oil-price-declines-by-3-01"
+        "originalUrl": "https://www.zawya.com/en/press-release/companies-news/naffco-group-signs-strategic-aviation-safety-mou-with-fujairah-international-airport-xbh983lm",
+        "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-naffco-group-signs-strategic-aviation-safety-mou-with-fujairah-internati"
       }
     ],
     "diagnostics": [
@@ -1182,47 +1251,12 @@
         "category": "Industry Update",
         "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2025/11/25113800/New-Project-27-1.jpg",
         "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/news/zenmd-launches-in-india/453747/",
         "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-zenmd-launches-in-india"
-      },
-      {
-        "id": "2026-05-17-dell-technologies-reimagines-the-modern-data-center-for-the-ai-era",
-        "title": "Dell Technologies reimagines the modern data center for the AI era",
-        "summary": "New storage, compute, cyber resilience and automation innovations deliver a foundation built for modern and traditional workloads",
-        "source": "Zawya Pharmaceuticals",
-        "sourceHost": "zawya.com",
-        "region": "Middle East",
-        "country": "United Arab Emirates",
-        "publishedAt": "2026-05-22T07:33:26.000Z",
-        "publishedLabel": "May 22, 2026",
-        "category": "Industry Update",
-        "image": "https://static.zawya.com/view/acePublic/alias/contentid/ca61dc01-8cdf-43dc-9874-dbe69e67719f/0/dellpowerprotectone-jpg.jpeg?f=3%3A2",
-        "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
-        "justIn": true,
-        "originalUrl": "https://www.zawya.com/en/press-release/companies-news/dell-technologies-reimagines-the-modern-data-center-for-the-ai-era-kz9xsqgz",
-        "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-dell-technologies-reimagines-the-modern-data-center-for-the-ai-era"
       }
     ],
-    "healthtech": [
-      {
-        "id": "2026-05-17-glide-concludes-its-participation-at-the-79th-world-health-assembly-in-g",
-        "title": "GLIDE concludes its participation at the 79th World Health Assembly in Geneva",
-        "summary": "GLIDE partnered with \"Devex\" in launching a session aimed at addressing a number of challenges facing the public health sector",
-        "source": "Zawya Pharmaceuticals",
-        "sourceHost": "zawya.com",
-        "region": "Middle East",
-        "country": "United Arab Emirates",
-        "publishedAt": "2026-05-22T07:32:03.000Z",
-        "publishedLabel": "May 22, 2026",
-        "category": "AI",
-        "image": "https://static.zawya.com/view/acePublic/alias/contentid/5ca2202f-ac7b-424e-a503-dbb1ca2d0cf8/0/image1-jpg.jpeg?f=3%3A2",
-        "thbAction": "",
-        "justIn": false,
-        "originalUrl": "https://www.zawya.com/en/press-release/events-and-conferences/glide-concludes-its-participation-at-the-79th-world-health-assembly-in-geneva-r3fg4kty",
-        "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-glide-concludes-its-participation-at-the-79th-world-health-assembly-in-g"
-      }
-    ]
+    "healthtech": []
   },
   "thbActions": [
     {
@@ -1267,6 +1301,14 @@
     },
     {
       "segment": "providers",
+      "articleId": "2026-05-17-cloudnine-to-acquire-apollo-s-maternity-chain-cradle",
+      "title": "Cloudnine to acquire Apollo’s maternity chain Cradle",
+      "source": "ET Healthworld Hospitals",
+      "solution": "THB Provider CRM",
+      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
+    },
+    {
+      "segment": "providers",
       "articleId": "2026-05-17-hcg-opens-new-bengaluru-facility-with-rs-129-crore-investment",
       "title": "HCG opens new Bengaluru facility with Rs 129 crore investment",
       "source": "ET Healthworld Hospitals",
@@ -1293,14 +1335,6 @@
       "segment": "providers",
       "articleId": "2026-05-17-esbee-dynamed-opens-esbee-hive-in-mumbai",
       "title": "Esbee Dynamed opens Esbee Hive in Mumbai",
-      "source": "Express Healthcare",
-      "solution": "THB Provider CRM",
-      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
-    },
-    {
-      "segment": "providers",
-      "articleId": "2026-05-17-hcg-launches-cancer-hospital-in-north-bengaluru",
-      "title": "HCG launches cancer hospital in North Bengaluru",
       "source": "Express Healthcare",
       "solution": "THB Provider CRM",
       "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
