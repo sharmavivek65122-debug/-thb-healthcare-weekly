@@ -5,15 +5,14 @@
   "startDate": "2026-04-25T18:30:00.000Z",
   "endDate": "2026-05-01T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-05-24T07:36:24.407Z",
+  "updatedAt": "2026-05-24T14:49:33.372Z",
   "coverage": {
-    "pharma": 3,
+    "pharma": 2,
     "providers": 9,
     "diagnostics": 2,
     "healthtech": 0
   },
   "sourcesUsed": [
-    "BioSpectrum Asia Middle East",
     "ET Healthworld Hospitals",
     "Financial Express Healthcare",
     "Janssen India Media"
@@ -36,23 +35,6 @@
         "justIn": false,
         "originalUrl": "https://www.financialexpress.com/business/healthcare/dr-redds-gets-nod-for-generic-semaglutide-in-canada/4222092/",
         "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-dr-reddy-s-gets-nod-for-generic-semaglutide-in-canada"
-      },
-      {
-        "id": "2026-04-26-south-korea-s-cell-and-gene-therapy-surge",
-        "title": "South Korea’s Cell and Gene Therapy Surge",
-        "summary": "South Korea’s Cell and Gene Therapy Surge",
-        "source": "BioSpectrum Asia Middle East",
-        "sourceHost": "biospectrumasia.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-04-30T18:30:00.000Z",
-        "publishedLabel": "May 1, 2026",
-        "category": "Industry Update",
-        "image": "https://www.biospectrumasia.com/uploads/articles/ruplekha_pic300dpi_1_-27571.png",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://www.biospectrumasia.com/opinion/29/27571/south-koreas-cell-and-gene-therapy-surge.html",
-        "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-south-korea-s-cell-and-gene-therapy-surge"
       },
       {
         "id": "2026-04-26-fda-approves-caplyta-lumateperone-snda-with-robust-new-data-supporting-r",
@@ -271,14 +253,6 @@
       "articleId": "2026-04-26-dr-reddy-s-gets-nod-for-generic-semaglutide-in-canada",
       "title": "Dr. Reddy’s gets nod for generic Semaglutide in Canada",
       "source": "Financial Express Healthcare",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
-      "segment": "pharma",
-      "articleId": "2026-04-26-south-korea-s-cell-and-gene-therapy-surge",
-      "title": "South Korea’s Cell and Gene Therapy Surge",
-      "source": "BioSpectrum Asia Middle East",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
     },
