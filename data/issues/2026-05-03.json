@@ -5,14 +5,15 @@
   "startDate": "2026-05-02T18:30:00.000Z",
   "endDate": "2026-05-08T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-05-25T08:45:01.527Z",
+  "updatedAt": "2026-05-25T16:07:23.718Z",
   "coverage": {
     "pharma": 4,
-    "providers": 3,
+    "providers": 6,
     "diagnostics": 2,
     "healthtech": 0
   },
   "sourcesUsed": [
+    "Arabian Business Healthcare",
     "ET Healthworld Diagnostics",
     "ET Healthworld Hospitals",
     "Financial Express Healthcare",
@@ -141,6 +142,57 @@
         "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/centre-eases-building-height-norms-to-allow-vertical-expansion-of-hospitals/130743964",
         "articlePath": "/article.html?issue=2026-05-03&article=2026-05-03-centre-eases-building-height-norms-to-allow-vertical-expansion-of-hospit"
+      },
+      {
+        "id": "2026-05-03-purehealth-local-procurement-spend-tops-1-7bn-arabian-business-latest-ne",
+        "title": "PureHealth local procurement spend tops $1.7bn - Arabian Business: Latest News on the Middle East, Real",
+        "summary": "The group said its ICV strategy is focused on strengthening local supply chains, supporting national industries and expanding the role of UAE-based suppliers in healthcare procurement",
+        "source": "Arabian Business Healthcare",
+        "sourceHost": "arabianbusiness.com",
+        "region": "Middle East",
+        "country": "United Arab Emirates",
+        "publishedAt": "2026-05-08T09:23:15.000Z",
+        "publishedLabel": "May 8, 2026",
+        "category": "AI Care Delivery",
+        "image": "https://www.arabianbusiness.com/cloud/2026/05/08/PureHealth-at-Make-it-in-the-Emirates-2026.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": false,
+        "originalUrl": "https://www.arabianbusiness.com/business/healthcare/purehealth-local-procurement-spend-tops-1-7bn",
+        "articlePath": "/article.html?issue=2026-05-03&article=2026-05-03-purehealth-local-procurement-spend-tops-1-7bn-arabian-business-latest-ne"
+      },
+      {
+        "id": "2026-05-03-burjeel-holdings-reports-robust-financial-performance-despite-backdrop-o",
+        "title": "Burjeel Holdings reports robust financial performance despite backdrop of regional unrest - Arabian",
+        "summary": "Dr. Shamsheer Vayalil, CEO of Burjeel Holdings, said the healthcare provider continued to invest and expand despite a challenging regional backdrop.",
+        "source": "Arabian Business Healthcare",
+        "sourceHost": "arabianbusiness.com",
+        "region": "Middle East",
+        "country": "United Arab Emirates",
+        "publishedAt": "2026-05-07T13:21:00.000Z",
+        "publishedLabel": "May 7, 2026",
+        "category": "AI Care Delivery",
+        "image": "https://www.arabianbusiness.com/cloud/2026/05/07/Burjeel-Holdings.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": false,
+        "originalUrl": "https://www.arabianbusiness.com/business/healthcare/burjeel-holdings-financial-performance",
+        "articlePath": "/article.html?issue=2026-05-03&article=2026-05-03-burjeel-holdings-reports-robust-financial-performance-despite-backdrop-o"
+      },
+      {
+        "id": "2026-05-03-mubadala-invests-75m-in-whoop-to-expand-ai-driven-preventative-healthcar",
+        "title": "Mubadala invests $75m in WHOOP to expand AI-driven preventative healthcare in the UAE - Arabian Business:",
+        "summary": "Mubadala will invest $75m in WHOOP as the performance technology company expands research, biomarker testing and digital health services in the UAE",
+        "source": "Arabian Business Healthcare",
+        "sourceHost": "arabianbusiness.com",
+        "region": "Middle East",
+        "country": "United Arab Emirates",
+        "publishedAt": "2026-05-08T00:18:25.000Z",
+        "publishedLabel": "May 8, 2026",
+        "category": "AI Care Delivery",
+        "image": "https://www.arabianbusiness.com/cloud/2026/05/08/WHOOP-Advanced-Labs.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": false,
+        "originalUrl": "https://www.arabianbusiness.com/business/healthcare/mubadala-invests-75m-in-whoop-to-expand-ai-driven-preventative-healthcare-in-the-uae",
+        "articlePath": "/article.html?issue=2026-05-03&article=2026-05-03-mubadala-invests-75m-in-whoop-to-expand-ai-driven-preventative-healthcar"
       }
     ],
     "diagnostics": [
@@ -235,6 +287,22 @@
       "articleId": "2026-05-03-centre-eases-building-height-norms-to-allow-vertical-expansion-of-hospit",
       "title": "Centre eases building height norms to allow vertical expansion of Hospitals",
       "source": "ET Healthworld Hospitals",
+      "solution": "THB Provider CRM",
+      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
+    },
+    {
+      "segment": "providers",
+      "articleId": "2026-05-03-purehealth-local-procurement-spend-tops-1-7bn-arabian-business-latest-ne",
+      "title": "PureHealth local procurement spend tops $1.7bn - Arabian Business: Latest News on the Middle East, Real",
+      "source": "Arabian Business Healthcare",
+      "solution": "THB Provider CRM",
+      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
+    },
+    {
+      "segment": "providers",
+      "articleId": "2026-05-03-burjeel-holdings-reports-robust-financial-performance-despite-backdrop-o",
+      "title": "Burjeel Holdings reports robust financial performance despite backdrop of regional unrest - Arabian",
+      "source": "Arabian Business Healthcare",
       "solution": "THB Provider CRM",
       "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
     },
