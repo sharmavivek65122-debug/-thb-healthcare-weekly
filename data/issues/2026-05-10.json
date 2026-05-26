@@ -5,9 +5,9 @@
   "startDate": "2026-05-09T18:30:00.000Z",
   "endDate": "2026-05-15T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-05-26T08:06:02.713Z",
+  "updatedAt": "2026-05-26T16:56:26.616Z",
   "coverage": {
-    "pharma": 6,
+    "pharma": 5,
     "providers": 9,
     "diagnostics": 1,
     "healthtech": 0
@@ -21,23 +21,6 @@
   ],
   "segments": {
     "pharma": [
-      {
-        "id": "2026-05-10-roche-pharma-launches-india-s-first-7-minute-injectable-immunotherapy-fo",
-        "title": "Roche Pharma launches India’s first 7-minute injectable immunotherapy for lung cancer",
-        "summary": "Roche Pharma has introduced Tecentriq, India's first under-the-skin immunotherapy for lung cancer. This new injection takes about seven minutes, a significant improvement over lengthy intravenous treatments. This advancement prioritizes patient experience and...",
-        "source": "Economic Times Pharma",
-        "sourceHost": "economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-05-14T08:39:16.000Z",
-        "publishedLabel": "May 14, 2026",
-        "category": "Launch",
-        "image": "https://img.etimg.com/thumb/msid-131087705,width-1200,height-630,imgsize-76350,overlay-economictimes/articleshow.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/roche-pharma-launches-indias-first-7-minute-injectable-immunotherapy-for-lung-cancer/articleshow/131087604.cms",
-        "articlePath": "/article.html?issue=2026-05-10&article=2026-05-10-roche-pharma-launches-india-s-first-7-minute-injectable-immunotherapy-fo"
-      },
       {
         "id": "2026-05-10-roche-brings-7-minute-lung-cancer-shot-to-india",
         "title": "Roche brings 7-minute lung cancer shot to India",
@@ -303,14 +286,6 @@
   "thbActions": [
     {
       "segment": "pharma",
-      "articleId": "2026-05-10-roche-pharma-launches-india-s-first-7-minute-injectable-immunotherapy-fo",
-      "title": "Roche Pharma launches India’s first 7-minute injectable immunotherapy for lung cancer",
-      "source": "Economic Times Pharma",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
-      "segment": "pharma",
       "articleId": "2026-05-10-roche-brings-7-minute-lung-cancer-shot-to-india",
       "title": "Roche brings 7-minute lung cancer shot to India",
       "source": "Economic Times Pharma",
@@ -338,6 +313,14 @@
       "articleId": "2026-05-10-apollo-hospitals-launches-super-speciality-centre-in-dadar-to-expand-adv",
       "title": "Apollo Hospitals launches super speciality centre in Dadar to expand advanced care access in Mumbai",
       "source": "ET Healthworld",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "pharma",
+      "articleId": "2026-05-10-groundbreaking-global-survey-captures-the-significant-patient-burden-exp",
+      "title": "Groundbreaking global survey captures the significant patient burden experienced with current standard-of-care bladder cancer treatments, underscoring urgency for continued innovation",
+      "source": "Janssen India Media",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
     },

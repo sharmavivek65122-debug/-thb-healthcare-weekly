@@ -5,23 +5,60 @@
   "startDate": "2026-05-23T18:30:00.000Z",
   "endDate": "2026-05-29T18:30:00.000Z",
   "status": "live",
-  "updatedAt": "2026-05-26T08:06:02.713Z",
+  "updatedAt": "2026-05-26T16:56:26.616Z",
   "coverage": {
-    "pharma": 29,
+    "pharma": 37,
     "providers": 2,
-    "diagnostics": 0,
-    "healthtech": 0
+    "diagnostics": 3,
+    "healthtech": 1
   },
   "sourcesUsed": [
     "ET Healthworld",
     "ET Healthworld Hospitals",
+    "Economic Times Pharma",
     "Express Healthcare",
     "Healthcare MEA",
+    "Lupin Updates",
     "Medical Dialogues Pharma",
-    "PharmaTutor News"
+    "PharmaTutor News",
+    "Reuters Healthcare & Pharma"
   ],
   "segments": {
     "pharma": [
+      {
+        "id": "2026-05-24-dexcom-warns-patients-as-stolen-glucose-sensors-hit-the-market",
+        "title": "Dexcom warns patients as stolen glucose sensors hit the market",
+        "summary": "Medical device maker Dexcom said on Tuesday some of its glucose sensors ​slated for destruction were instead stolen and ‌sold, prompting the company to warn users not to use products from two affected lots.",
+        "source": "Reuters Healthcare & Pharma",
+        "sourceHost": "reuters.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-05-26T14:47:44.509Z",
+        "publishedLabel": "May 26, 2026",
+        "category": "Market",
+        "image": "https://www.reuters.com/resizer/v2/466BJJQ7PVGY5O53NZ3KL65MHM.png?auth=b9c3bf166c40a6778eb5672993fde7c30a15f48329026674eff92afd8da1d0ca&height=1005&width=1920&quality=80&smart=true",
+        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
+        "justIn": true,
+        "originalUrl": "https://www.reuters.com/legal/litigation/dexcom-warns-patients-stolen-glucose-sensors-hit-market-2026-05-26/",
+        "articlePath": "/article.html?issue=2026-05-24&article=2026-05-24-dexcom-warns-patients-as-stolen-glucose-sensors-hit-the-market"
+      },
+      {
+        "id": "2026-05-24-government-okays-skymap-pharmaceuticals-rs-121-cr-bid-to-buy-impcl",
+        "title": "Government okays Skymap Pharmaceuticals' Rs 121-cr bid to buy IMPCL",
+        "summary": "The government has approved the sale of Indian Medicines Pharmaceutical Corporation Ltd. Skymap Pharmaceuticals Pvt Ltd will acquire the company for over Rs 121 crore. This strategic sale involves 100 percent stake and management control. IMPCL manufactures...",
+        "source": "Economic Times Pharma",
+        "sourceHost": "economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-05-26T14:27:10.000Z",
+        "publishedLabel": "May 26, 2026",
+        "category": "Industry Update",
+        "image": "https://img.etimg.com/thumb/msid-131331571,width-1200,height-630,imgsize-69230,overlay-economictimes/articleshow.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/government-okays-skymap-pharmaceuticals-rs-121-cr-bid-to-buy-impcl/articleshow/131331559.cms",
+        "articlePath": "/article.html?issue=2026-05-24&article=2026-05-24-government-okays-skymap-pharmaceuticals-rs-121-cr-bid-to-buy-impcl"
+      },
       {
         "id": "2026-05-24-stanford-scientists-cured-type-1-diabetes-in-a-breakthrough-experiment",
         "title": "Stanford scientists cured Type 1 diabetes in a breakthrough experiment",
@@ -40,40 +77,6 @@
         "articlePath": "/article.html?issue=2026-05-24&article=2026-05-24-stanford-scientists-cured-type-1-diabetes-in-a-breakthrough-experiment"
       },
       {
-        "id": "2026-05-24-world-bank-says-responding-to-ebola-outbreak-plans-to-increase-funding",
-        "title": "World Bank says responding to Ebola outbreak, plans to increase funding",
-        "summary": "Monique Vledder, who heads the World Bank's global health department, told Reuters that the bank was ‌also very concerned about neighboring ⁠states ⁠South Sudan and Burundi, which have weak response systems. Uganda, which has reported two Ebola cases, has a...",
-        "source": "ET Healthworld",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-05-25T11:01:42.000Z",
-        "publishedLabel": "May 25, 2026",
-        "category": "Industry Update",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-131307709,imgsize-84476,width-1200,height=627,overlay-ethealth,resizemode-75/industry/world-bank-says-responding-to-ebola-outbreak-plans-to-increase-funding.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/world-bank-says-responding-to-ebola-outbreak-plans-to-increase-funding/131307709",
-        "articlePath": "/article.html?issue=2026-05-24&article=2026-05-24-world-bank-says-responding-to-ebola-outbreak-plans-to-increase-funding"
-      },
-      {
-        "id": "2026-05-24-30-doctors-took-bribe-but-government-sends-only-27-names-for-action",
-        "title": "30 doctors took bribe, but government sends only 27 names for action",
-        "summary": "When TOI asked NMC ch-airperson Dr Abhijat Sheth what steps had been taken against the 30 doctors, he said the commission got 27 names in Sept 2025. These were forwarded to the nine state medical councils where the docto-rs were registered “for inquiry and...",
-        "source": "ET Healthworld",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-05-25T08:18:59.000Z",
-        "publishedLabel": "May 25, 2026",
-        "category": "Industry Update",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-131305041,imgsize-78586,width-1200,height=627,overlay-ethealth,resizemode-75/industry/30-doctors-took-bribe-but-government-sends-only-27-names-for-action.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/30-doctors-took-bribe-but-government-sends-only-27-names-for-action/131305041",
-        "articlePath": "/article.html?issue=2026-05-24&article=2026-05-24-30-doctors-took-bribe-but-government-sends-only-27-names-for-action"
-      },
-      {
         "id": "2026-05-24-odisha-lacks-in-fungal-disease-diagnosis-study",
         "title": "Odisha lacks in fungal disease diagnosis: Study",
         "summary": "According to the study, published in Indian Journal of Medical Microbiology on May 15, 90.5% of medical colleges in Odisha has independent mycology sections, but none had full-time dedicated staff. Only 57.1% relied on part-time personnel, indicating a...",
@@ -86,9 +89,26 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-131320094,imgsize-53326,width-1200,height=627,overlay-ethealth,resizemode-75/industry/odisha-lacks-in-fungal-disease-diagnosis-study.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/odisha-lacks-in-fungal-disease-diagnosis-study/131320094",
         "articlePath": "/article.html?issue=2026-05-24&article=2026-05-24-odisha-lacks-in-fungal-disease-diagnosis-study"
+      },
+      {
+        "id": "2026-05-24-india-uk-healthcare-scholarships-open-for-2026-27-intake",
+        "title": "India-UK healthcare scholarships open for 2026-27 intake",
+        "summary": "Hinduja Foundation, the philanthropic arm of the Hinduja Group conglomerate, had struck its partnership with one of the UK's leading universities two years ago with a vision to improve healthcare outcomes in both countries.",
+        "source": "ET Healthworld",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-05-26T10:39:27.000Z",
+        "publishedLabel": "May 26, 2026",
+        "category": "Partnership",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-131326591,imgsize-71964,width-1200,height=627,overlay-ethealth,resizemode-75/industry/india-uk-healthcare-scholarships-open-for-2026-27-intake.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/india-uk-healthcare-scholarships-open-for-2026-27-intake/131326591",
+        "articlePath": "/article.html?issue=2026-05-24&article=2026-05-24-india-uk-healthcare-scholarships-open-for-2026-27-intake"
       },
       {
         "id": "2026-05-24-delhi-govt-signs-mou-to-boost-ayush-skills-employment-opportunities",
@@ -103,7 +123,7 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-131319944,imgsize-337692,width-1200,height=627,overlay-ethealth,resizemode-75/policy/delhi-govt-signs-mou-to-boost-ayush-skills-employment-opportunities.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/policy/delhi-govt-signs-mou-to-boost-ayush-skills-employment-opportunities/131319944",
         "articlePath": "/article.html?issue=2026-05-24&article=2026-05-24-delhi-govt-signs-mou-to-boost-ayush-skills-employment-opportunities"
       },
@@ -120,26 +140,26 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-131319917,imgsize-144696,width-1200,height=627,overlay-ethealth,resizemode-75/policy/no-ebola-case-reported-in-india-so-far-says-health-minister-nadda-reviews-preparedness.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/policy/no-ebola-case-reported-in-india-so-far-says-health-minister-nadda-reviews-preparedness/131319917",
         "articlePath": "/article.html?issue=2026-05-24&article=2026-05-24-no-ebola-case-reported-in-india-so-far-says-health-minister-nadda-review"
       },
       {
-        "id": "2026-05-24-suspected-ebola-cases-top-900-in-dr-congo-who-chief",
-        "title": "Suspected Ebola cases top 900 in DR Congo: WHO chief",
-        "summary": "\"As surveillance efforts have been scaled up in the #DRC #Ebola response, more than 900 suspected cases have been identified so far, including 101 confirmed cases,\" WHO Director-General Tedros Adhanom Ghebreyesus said in a Sunday social media post that gave...",
-        "source": "ET Healthworld",
-        "sourceHost": "health.economictimes.indiatimes.com",
+        "id": "2026-05-24-glaucoma-in-india-early-diagnosis-modern-care-transform-landscape",
+        "title": "Glaucoma in India: Early Diagnosis, Modern Care Transform Landscape",
+        "summary": "Dr Shibal Bhartiya explains how early diagnosis, digital screening, and treatment advances are changing glaucoma care in India",
+        "source": "Express Healthcare",
+        "sourceHost": "expresshealthcare.in",
         "region": "India",
         "country": "India",
-        "publishedAt": "2026-05-25T11:05:08.000Z",
-        "publishedLabel": "May 25, 2026",
+        "publishedAt": "2026-05-26T09:44:39.000Z",
+        "publishedLabel": "May 26, 2026",
         "category": "Industry Update",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-131307922,imgsize-1597138,width-1200,height=627,overlay-ethealth,resizemode-75/industry/suspected-ebola-cases-top-900-in-dr-congo-who-chief.jpg",
+        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/05/26151415/EH_GB_Dr_Bhartiya_750.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/suspected-ebola-cases-top-900-in-dr-congo-who-chief/131307922",
-        "articlePath": "/article.html?issue=2026-05-24&article=2026-05-24-suspected-ebola-cases-top-900-in-dr-congo-who-chief"
+        "justIn": true,
+        "originalUrl": "https://www.expresshealthcare.in/news/glaucoma-in-india-early-diagnosis-modern-care-transform-landscape/453764/",
+        "articlePath": "/article.html?issue=2026-05-24&article=2026-05-24-glaucoma-in-india-early-diagnosis-modern-care-transform-landscape"
       },
       {
         "id": "2026-05-24-align-technology-plans-rs-1800-crore-manufacturing-facility-in-hyderabad",
@@ -193,6 +213,40 @@
         "articlePath": "/article.html?issue=2026-05-24&article=2026-05-24-the-first-hour-changes-everything"
       },
       {
+        "id": "2026-05-24-gujarat-themis-biosyn-to-acquire-japanese-biotech-firm-microbiopharm-for",
+        "title": "Gujarat Themis Biosyn to Acquire Japanese Biotech Firm MicroBiopharm for Rs 1,300 Crore",
+        "summary": "New Delhi: Gujarat Themis Biosyn Limited (GTBL) has announced the acquisition of 100 per cent equity shareholding in Japan-based MicroBiopharm Japan Co., Ltd. (MBJ) as part of its strategy to...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-05-26T12:43:01.000Z",
+        "publishedLabel": "May 26, 2026",
+        "category": "Industry Update",
+        "image": "https://medicaldialogues.in/h-upload/2021/12/28/166888-deal.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/gujarat-themis-biosyn-to-acquire-japanese-biotech-firm-microbiopharm-for-rs-1300-crore-171402",
+        "articlePath": "/article.html?issue=2026-05-24&article=2026-05-24-gujarat-themis-biosyn-to-acquire-japanese-biotech-firm-microbiopharm-for"
+      },
+      {
+        "id": "2026-05-24-torrent-pharma-eyes-india-launch-of-mash-drug-resmetirom-after-semagluti",
+        "title": "Torrent Pharma Eyes India Launch of MASH Drug Resmetirom After Semaglutide Success",
+        "summary": "New Delhi: Torrent Pharmaceuticals is planning to introduce resmetirom, a new liver disease drug approved in the United States, in the Indian market as the company looks to strengthen its presence in...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-05-26T12:36:34.000Z",
+        "publishedLabel": "May 26, 2026",
+        "category": "Market",
+        "image": "https://medicaldialogues.in/h-upload/2023/01/11/197476-torrent-pharma.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/torrent-pharma-eyes-india-launch-of-mash-drug-resmetirom-after-semaglutide-success-171401",
+        "articlePath": "/article.html?issue=2026-05-24&article=2026-05-24-torrent-pharma-eyes-india-launch-of-mash-drug-resmetirom-after-semagluti"
+      },
+      {
         "id": "2026-05-24-lupin-secures-first-china-nmpa-approval-with-oseltamivir-launch-healthca",
         "title": "Lupin secures first China NMPA approval with Oseltamivir launch | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
         "summary": "The product will be manufactured and commercialized to support treatment and prevention needs during influenza seasons, with an emphasis on improving availability for younger patients across China.",
@@ -205,26 +259,9 @@
         "category": "Approval",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/05/image-1600x900-2026-05-26T091722.474.png",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/05/26/lupin-secures-first-china-nmpa-approval-with-oseltamivir-launch/",
         "articlePath": "/article.html?issue=2026-05-24&article=2026-05-24-lupin-secures-first-china-nmpa-approval-with-oseltamivir-launch-healthca"
-      },
-      {
-        "id": "2026-05-24-fujifilm-cellular-dynamics-opens-us-200m-wisconsin-ipsc-manufacturing-hu",
-        "title": "Fujifilm Cellular Dynamics opens US$200M Wisconsin iPSC manufacturing hub to scale cell therapy production",
-        "summary": "Fujifilm Cellular Dynamics will use the expanded site to produce its iCell product portfolio, which plays a key role in new approach methods (NAMs) used in modern drug discovery and toxicity testing.",
-        "source": "Healthcare MEA",
-        "sourceHost": "healthcaremea.com",
-        "region": "Middle East",
-        "country": "Oman",
-        "publishedAt": "2026-05-25T08:17:02.000Z",
-        "publishedLabel": "May 25, 2026",
-        "category": "Manufacturing",
-        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/05/image-1600x900-2026-05-25T111041.167.png",
-        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": false,
-        "originalUrl": "https://www.healthcaremea.com/2026/05/25/fujifilm-cellular-dynamics-opens-us200m-wisconsin-ipsc-manufacturing-hub-to-scale-cell-therapy-production/",
-        "articlePath": "/article.html?issue=2026-05-24&article=2026-05-24-fujifilm-cellular-dynamics-opens-us-200m-wisconsin-ipsc-manufacturing-hu"
       },
       {
         "id": "2026-05-24-us-mapp-biopharma-collaborate-on-experimental-ebola-therapy-as-congo-cas",
@@ -239,7 +276,7 @@
         "category": "Industry Update",
         "image": "https://medicaldialogues.in/h-upload/2020/04/11/127053-ebola.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/us-mapp-biopharma-collaborate-on-experimental-ebola-therapy-as-congo-cases-rise-171326",
         "articlePath": "/article.html?issue=2026-05-24&article=2026-05-24-us-mapp-biopharma-collaborate-on-experimental-ebola-therapy-as-congo-cas"
       },
@@ -256,7 +293,7 @@
         "category": "Manufacturing",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/05/image-1600x900-2026-05-26T101215.203.png",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/05/26/liminatus-pharma-to-acquire-innocsai-in-us320m-share-based-car-t-oncology-deal/",
         "articlePath": "/article.html?issue=2026-05-24&article=2026-05-24-liminatus-pharma-to-acquire-innocsai-in-us-320m-share-based-car-t-oncolo"
       },
@@ -273,7 +310,7 @@
         "category": "Approval",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/05/image-1600x900-2026-05-26T095744.774.png",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/05/26/abbvie-seeks-eu-approval-to-expand-maviret-use-for-acute-hepatitis-c-treatment/",
         "articlePath": "/article.html?issue=2026-05-24&article=2026-05-24-abbvie-seeks-eu-approval-to-expand-maviret-use-for-acute-hepatitis-c-tre"
       },
@@ -307,7 +344,7 @@
         "category": "Market",
         "image": "https://medicaldialogues.in/h-upload/2023/06/09/211499-zydus-lifesciences-2.jpg",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/sakar-healthcare-signs-oncology-supply-pact-with-zydus-for-gcc-emerging-markets-171330",
         "articlePath": "/article.html?issue=2026-05-24&article=2026-05-24-sakar-healthcare-signs-oncology-supply-pact-with-zydus-for-gcc-emerging-"
       },
@@ -324,7 +361,7 @@
         "category": "Market",
         "image": "https://medicaldialogues.in/h-upload/2022/10/17/188229-drug-alert-new.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/cdsco/state-drug-alert-cdsco-flags-78-nsq-spurious-misbranded-drug-samples-in-april-quality-checks-171331",
         "articlePath": "/article.html?issue=2026-05-24&article=2026-05-24-state-drug-alert-cdsco-flags-78-nsq-spurious-misbranded-drug-samples-in-"
       },
@@ -344,6 +381,23 @@
         "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/aurobindo-pharma-fy26-revenue-tops-rs-33600-cr-europe-sales-surge-30-171242",
         "articlePath": "/article.html?issue=2026-05-24&article=2026-05-24-aurobindo-pharma-fy26-revenue-tops-rs-33-600-cr-europe-sales-surge-30"
+      },
+      {
+        "id": "2026-05-24-aurobindo-s-eugia-unit-i-receives-oai-classification-after-4-usfda-obser",
+        "title": "Aurobindo's Eugia Unit-I Receives OAI Classification After 4 USFDA Observations",
+        "summary": "New Delhi: Aurobindo Pharma has informed the stock exchanges that the United States Food and Drug Administration (USFDA) has classified Unit-I of Eugia Pharma Specialities Limited, its wholly owned...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-05-26T12:53:52.000Z",
+        "publishedLabel": "May 26, 2026",
+        "category": "Industry Update",
+        "image": "https://medicaldialogues.in/h-upload/2023/01/10/197263-aurobindo-pharma-1.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/aurobindos-eugia-unit-i-receives-oai-classification-after-4-usfda-observations-171404",
+        "articlePath": "/article.html?issue=2026-05-24&article=2026-05-24-aurobindo-s-eugia-unit-i-receives-oai-classification-after-4-usfda-obser"
       },
       {
         "id": "2026-05-24-glenmark-pharma-s-us-arm-agrees-29-6-million-usd-settlement-in-generic-d",
@@ -397,6 +451,23 @@
         "articlePath": "/article.html?issue=2026-05-24&article=2026-05-24-sun-pharma-q4-profit-jumps-26-to-rs-2-714-cr-india-sales-drive-strong-fy"
       },
       {
+        "id": "2026-05-24-novo-nordisk-bets-on-ai-to-cut-drug-launch-timelines-by-two-thirds-benga",
+        "title": "Novo Nordisk Bets on AI to Cut Drug Launch Timelines by Two-Thirds, Bengaluru Hub Takes Lead Role",
+        "summary": "Bengaluru: Novo Nordisk is aiming to slash the time it takes to bring new drugs to market by up to two-thirds using AI, a top executive said, as the Danish drugmaker looks to regain momentum in the...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-05-26T12:21:57.000Z",
+        "publishedLabel": "May 26, 2026",
+        "category": "Market",
+        "image": "https://medicaldialogues.in/h-upload/2023/01/11/197406-novo-nordisk-3.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/novo-nordisk-bets-on-ai-to-cut-drug-launch-timelines-by-two-thirds-bengaluru-hub-takes-lead-role-171397",
+        "articlePath": "/article.html?issue=2026-05-24&article=2026-05-24-novo-nordisk-bets-on-ai-to-cut-drug-launch-timelines-by-two-thirds-benga"
+      },
+      {
         "id": "2026-05-24-african-leaders-mobilizes-regional-response-to-bundibugyo-ebola-outbreak",
         "title": "African leaders mobilizes regional response to Bundibugyo Ebola outbreak | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
         "summary": "The leaders also pledged to protect essential services such as education, routine healthcare, cholera control and measles response efforts as countries confront the growing public health threat.",
@@ -409,7 +480,7 @@
         "category": "Manufacturing",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/05/image-1600x900-2026-05-26T085907.232.png",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/05/26/african-leaders-mobilizes-regional-response-to-bundibugyo-ebola-outbreak/",
         "articlePath": "/article.html?issue=2026-05-24&article=2026-05-24-african-leaders-mobilizes-regional-response-to-bundibugyo-ebola-outbreak"
       },
@@ -460,7 +531,7 @@
         "category": "Approval",
         "image": "https://medicaldialogues.in/h-upload/2024/02/08/231808-gilead-sciences-50.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/usfda-approves-gileads-hepcludex-first-treatment-for-deadly-hepatitis-d-infection-171329",
         "articlePath": "/article.html?issue=2026-05-24&article=2026-05-24-usfda-approves-gilead-s-hepcludex-first-treatment-for-deadly-hepatitis-d"
       },
@@ -482,6 +553,57 @@
         "articlePath": "/article.html?issue=2026-05-24&article=2026-05-24-astrazeneca-gets-ema-panel-nod-for-camizestrant-breast-cancer-pill-after"
       },
       {
+        "id": "2026-05-24-moderna-merck-cancer-vaccine-combo-achieves-92-survival-rate-in-melanoma",
+        "title": "Moderna, Merck Cancer Vaccine Combo Achieves 92% Survival Rate in Melanoma Trial",
+        "summary": "Bengaluru: Moderna and Merck's combination therapy for skin cancer helped reduce risk of cancer spreading to another part of the body by 59% after five years of follow-up, data from a mid-stage trial...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-05-26T12:28:23.000Z",
+        "publishedLabel": "May 26, 2026",
+        "category": "Industry Update",
+        "image": "https://medicaldialogues.in/h-upload/2022/10/29/189269-merck-new.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/moderna-merck-cancer-vaccine-combo-achieves-92-survival-rate-in-melanoma-trial-171398",
+        "articlePath": "/article.html?issue=2026-05-24&article=2026-05-24-moderna-merck-cancer-vaccine-combo-achieves-92-survival-rate-in-melanoma"
+      },
+      {
+        "id": "2026-05-24-ntu-singapore-develops-seed-sized-5-in-1-surgical-robot-for-future-medic",
+        "title": "NTU Singapore Develops Seed-Sized “5-in-1” Surgical Robot for Future Medical Procedures",
+        "summary": "Scientists at Nanyang Technological University, Singapore have developed an ultra-small surgical robot capable of performing five different medical functions wirelessly inside the body, marking a major step toward more precise and minimally invasive...",
+        "source": "PharmaTutor News",
+        "sourceHost": "pharmatutor.org",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-05-26T11:08:45.000Z",
+        "publishedLabel": "May 26, 2026",
+        "category": "Industry Update",
+        "image": "https://www.pharmatutor.org/sites/default/files/styles/webp/public/2026-05/ntu-singapore-develops-seed-sized-5-in-1-surgical-robot-for-future-medical-procedures.jpg.webp?itok=sAXcAJg6",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/ntu-singapore-develops-seed-sized-5-in-1-surgical-robot-for-future-medical-procedures",
+        "articlePath": "/article.html?issue=2026-05-24&article=2026-05-24-ntu-singapore-develops-seed-sized-5-in-1-surgical-robot-for-future-medic"
+      },
+      {
+        "id": "2026-05-24-senolytic-drug-combination-delays-early-intervertebral-disc-degeneration",
+        "title": "Senolytic Drug Combination Delays Early Intervertebral Disc Degeneration in Mice",
+        "summary": "Intervertebral disc degeneration is a major cause of chronic back and neck pain, yet current treatments largely focus on symptom relief rather than preventing disease progression. A growing body of evidence suggests that cellular senescence, where cells lose...",
+        "source": "PharmaTutor News",
+        "sourceHost": "pharmatutor.org",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-05-26T06:39:41.000Z",
+        "publishedLabel": "May 26, 2026",
+        "category": "Industry Update",
+        "image": "https://www.pharmatutor.org/sites/default/files/styles/webp/public/2026-05/senolytic-drug-combination-delays-early-intervertebral-disc-degeneration-in-mice.jpg.webp?itok=i0F3-2kD",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://www.pharmatutor.org/content/may-2026/senolytic-drug-combination-delays-early-intervertebral-disc-degeneration-in-mice",
+        "articlePath": "/article.html?issue=2026-05-24&article=2026-05-24-senolytic-drug-combination-delays-early-intervertebral-disc-degeneration"
+      },
+      {
         "id": "2026-05-24-torrent-pharma-q4-profit-falls-27-to-rs-364-cr-despite-strong-india-us-g",
         "title": "Torrent Pharma Q4 Profit Falls 27% to Rs 364 Cr Despite Strong India, US Growth",
         "summary": "New Delhi: Torrent Pharmaceuticals Ltd on Friday reported a 27 per cent decline in profit after tax to Rs 364 crore in the fourth quarter ended March 31, 2026, impacted by exceptional items outgo.The...",
@@ -494,7 +616,7 @@
         "category": "Industry Update",
         "image": "https://medicaldialogues.in/h-upload/2023/01/11/197479-torrent-pharma-3.jpg",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/torrent-pharma-q4-profit-falls-27-to-rs-364-cr-despite-strong-india-us-growth-171328",
         "articlePath": "/article.html?issue=2026-05-24&article=2026-05-24-torrent-pharma-q4-profit-falls-27-to-rs-364-cr-despite-strong-india-us-g"
       },
@@ -511,9 +633,26 @@
         "category": "Approval",
         "image": "https://medicaldialogues.in/h-upload/2026/01/07/319772-weight-loss-drug.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/ema-backs-novo-nordisks-oral-wegovy-paving-way-for-europes-first-weight-loss-pill-171327",
         "articlePath": "/article.html?issue=2026-05-24&article=2026-05-24-ema-backs-novo-nordisk-s-oral-wegovy-paving-way-for-europe-s-first-weigh"
+      },
+      {
+        "id": "2026-05-24-capricorn-aquarius-pisces-horoscope-today-for-may-27-2026-avoid-office-p",
+        "title": "Capricorn, Aquarius, Pisces Horoscope Today for May 27, 2026: Avoid Office Politics, Financial Risks & Rel",
+        "summary": "Your Daily Horoscope Today emphasizes strategic planning, self-discipline, and mindful communication. Balancing immediate work obligations with financial prudence and emotional grounding will help you safely navigate high-pressure situations. Anand Sagar...",
+        "source": "Lupin Updates",
+        "sourceHost": "economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-05-26T18:30:00.000Z",
+        "publishedLabel": "May 27, 2026",
+        "category": "Industry Update",
+        "image": "https://img.etimg.com/thumb/msid-131332899,width-1200,height-630,imgsize-128292,overlay-economictimes/articleshow.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://economictimes.indiatimes.com/astrology/horoscope/capricorn-aquarius-pisces-horoscope-today-for-may-27-2026-avoid-office-politics-financial-risks-relationship-tension-today/articleshow/131332851.cms",
+        "articlePath": "/article.html?issue=2026-05-24&article=2026-05-24-capricorn-aquarius-pisces-horoscope-today-for-may-27-2026-avoid-office-p"
       }
     ],
     "providers": [
@@ -530,7 +669,7 @@
         "category": "Hospital",
         "image": "https://etimg.etb2bimg.com/thumb/msid-131303025,imgsize-111182,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/keralas-healthcare-gold-rush-how-private-equity-is-reshaping-hospitals-and-raising-fears-over-costs.jpg",
         "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/keralas-healthcare-gold-rush-how-private-equity-is-reshaping-hospitals-and-raising-fears-over-costs/131303025",
         "articlePath": "/article.html?issue=2026-05-24&article=2026-05-24-kerala-s-healthcare-gold-rush-how-private-equity-is-reshaping-hospitals-"
       },
@@ -552,30 +691,100 @@
         "articlePath": "/article.html?issue=2026-05-24&article=2026-05-24-park-medi-world-to-acquire-the-medicity-hospital-rudrapur-for-rs-177-cro"
       }
     ],
-    "diagnostics": [],
-    "healthtech": []
+    "diagnostics": [
+      {
+        "id": "2026-05-24-nit-rourkela-researchers-develop-ai-enabled-autofocusing-technology-for-",
+        "title": "NIT Rourkela researchers develop AI-enabled autofocusing technology for microscopic imaging",
+        "summary": "Patent-backed technology developed with Glowvista Instruments supports biomedical diagnostics, digital pathology and point-of-care applications",
+        "source": "Express Healthcare",
+        "sourceHost": "expresshealthcare.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-05-26T10:00:47.000Z",
+        "publishedLabel": "May 26, 2026",
+        "category": "Diagnostics",
+        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2020/03/31121040/GettyImages-1165067633-scaled-e1585637014232.jpg",
+        "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
+        "justIn": false,
+        "originalUrl": "https://www.expresshealthcare.in/news/nit-rourkela-researchers-develop-ai-enabled-autofocusing-technology-for-microscopic-imaging/453768/",
+        "articlePath": "/article.html?issue=2026-05-24&article=2026-05-24-nit-rourkela-researchers-develop-ai-enabled-autofocusing-technology-for-"
+      },
+      {
+        "id": "2026-05-24-building-india-s-emergency-care-ecosystem-the-next-healthcare-priority",
+        "title": "Building India’s emergency care ecosystem: The next healthcare priority",
+        "summary": "In the world of modern healthcare, the Emergency Department is often called the “front door of the hospital.” But it is far more than that. It is the first battlefield […]",
+        "source": "Express Healthcare",
+        "sourceHost": "expresshealthcare.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-05-26T11:52:08.000Z",
+        "publishedLabel": "May 26, 2026",
+        "category": "Industry Update",
+        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/05/26172200/New-Project-1-5.jpg",
+        "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
+        "justIn": false,
+        "originalUrl": "https://www.expresshealthcare.in/news/building-indias-emergency-care-ecosystem-the-next-healthcare-priority/453773/",
+        "articlePath": "/article.html?issue=2026-05-24&article=2026-05-24-building-india-s-emergency-care-ecosystem-the-next-healthcare-priority"
+      },
+      {
+        "id": "2026-05-24-metabolic-collaborates-with-roche-to-establish-early-alzheimer-s-screeni",
+        "title": "Metabolic collaborates with Roche to establish early Alzheimer’s screening research initiative in Dubai",
+        "summary": "Researchers aim to assess the reliability of p-Tau217 in identifying early Alzheimer’s pathology and evaluate its potential as a scalable tool for long-term monitoring.",
+        "source": "Healthcare MEA",
+        "sourceHost": "healthcaremea.com",
+        "region": "Middle East",
+        "country": "United Arab Emirates",
+        "publishedAt": "2026-05-26T09:20:00.000Z",
+        "publishedLabel": "May 26, 2026",
+        "category": "Screening",
+        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/05/image-1600x900-2026-05-26T092227.966.png",
+        "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
+        "justIn": false,
+        "originalUrl": "https://www.healthcaremea.com/2026/05/26/metabolic-collaborates-with-roche-to-establish-early-alzheimers-screening-research-initiative-in-dubai/",
+        "articlePath": "/article.html?issue=2026-05-24&article=2026-05-24-metabolic-collaborates-with-roche-to-establish-early-alzheimer-s-screeni"
+      }
+    ],
+    "healthtech": [
+      {
+        "id": "2026-05-24-how-ppps-and-telehealth-can-help-transform-india-s-public-healthcare-sys",
+        "title": "How PPPs and telehealth can help transform india’s public healthcare system",
+        "summary": "India’s healthcare system has come a long way over the past decade. There are more health centres, wider insurance coverage, and a growing push towards digital care. On paper, the […]",
+        "source": "Express Healthcare",
+        "sourceHost": "expresshealthcare.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-05-26T11:39:06.000Z",
+        "publishedLabel": "May 26, 2026",
+        "category": "Telehealth",
+        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/05/26170854/New-Project-15.jpg",
+        "thbAction": "",
+        "justIn": false,
+        "originalUrl": "https://www.expresshealthcare.in/news/how-ppps-and-telehealth-can-help-transform-indias-public-healthcare-system/453770/",
+        "articlePath": "/article.html?issue=2026-05-24&article=2026-05-24-how-ppps-and-telehealth-can-help-transform-india-s-public-healthcare-sys"
+      }
+    ]
   },
   "thbActions": [
     {
       "segment": "pharma",
+      "articleId": "2026-05-24-dexcom-warns-patients-as-stolen-glucose-sensors-hit-the-market",
+      "title": "Dexcom warns patients as stolen glucose sensors hit the market",
+      "source": "Reuters Healthcare & Pharma",
+      "solution": "THB Commercial Analytics",
+      "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
+    },
+    {
+      "segment": "pharma",
+      "articleId": "2026-05-24-government-okays-skymap-pharmaceuticals-rs-121-cr-bid-to-buy-impcl",
+      "title": "Government okays Skymap Pharmaceuticals' Rs 121-cr bid to buy IMPCL",
+      "source": "Economic Times Pharma",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "pharma",
       "articleId": "2026-05-24-stanford-scientists-cured-type-1-diabetes-in-a-breakthrough-experiment",
       "title": "Stanford scientists cured Type 1 diabetes in a breakthrough experiment",
-      "source": "ET Healthworld",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
-      "segment": "pharma",
-      "articleId": "2026-05-24-world-bank-says-responding-to-ebola-outbreak-plans-to-increase-funding",
-      "title": "World Bank says responding to Ebola outbreak, plans to increase funding",
-      "source": "ET Healthworld",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
-      "segment": "pharma",
-      "articleId": "2026-05-24-30-doctors-took-bribe-but-government-sends-only-27-names-for-action",
-      "title": "30 doctors took bribe, but government sends only 27 names for action",
       "source": "ET Healthworld",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
@@ -590,8 +799,8 @@
     },
     {
       "segment": "pharma",
-      "articleId": "2026-05-24-delhi-govt-signs-mou-to-boost-ayush-skills-employment-opportunities",
-      "title": "Delhi govt signs MoU to boost Ayush skills, employment opportunities",
+      "articleId": "2026-05-24-india-uk-healthcare-scholarships-open-for-2026-27-intake",
+      "title": "India-UK healthcare scholarships open for 2026-27 intake",
       "source": "ET Healthworld",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
@@ -611,6 +820,30 @@
       "source": "Express Healthcare",
       "solution": "THB Provider CRM",
       "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
+    },
+    {
+      "segment": "diagnostics",
+      "articleId": "2026-05-24-nit-rourkela-researchers-develop-ai-enabled-autofocusing-technology-for-",
+      "title": "NIT Rourkela researchers develop AI-enabled autofocusing technology for microscopic imaging",
+      "source": "Express Healthcare",
+      "solution": "THB Diagnostics CRM",
+      "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
+    },
+    {
+      "segment": "diagnostics",
+      "articleId": "2026-05-24-building-india-s-emergency-care-ecosystem-the-next-healthcare-priority",
+      "title": "Building India’s emergency care ecosystem: The next healthcare priority",
+      "source": "Express Healthcare",
+      "solution": "THB Diagnostics CRM",
+      "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
+    },
+    {
+      "segment": "diagnostics",
+      "articleId": "2026-05-24-metabolic-collaborates-with-roche-to-establish-early-alzheimer-s-screeni",
+      "title": "Metabolic collaborates with Roche to establish early Alzheimer’s screening research initiative in Dubai",
+      "source": "Healthcare MEA",
+      "solution": "THB Diagnostics CRM",
+      "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
     }
   ]
 }
