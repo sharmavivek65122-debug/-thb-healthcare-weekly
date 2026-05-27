@@ -5,9 +5,9 @@
   "startDate": "2026-05-09T18:30:00.000Z",
   "endDate": "2026-05-15T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-05-26T16:56:26.616Z",
+  "updatedAt": "2026-05-27T08:24:56.316Z",
   "coverage": {
-    "pharma": 5,
+    "pharma": 2,
     "providers": 9,
     "diagnostics": 1,
     "healthtech": 0
@@ -16,62 +16,10 @@
     "ET Healthworld",
     "ET Healthworld Diagnostics",
     "ET Healthworld Hospitals",
-    "Economic Times Pharma",
     "Janssen India Media"
   ],
   "segments": {
     "pharma": [
-      {
-        "id": "2026-05-10-roche-brings-7-minute-lung-cancer-shot-to-india",
-        "title": "Roche brings 7-minute lung cancer shot to India",
-        "summary": "Roche Pharma India introduces a new injectable immunotherapy for lung cancer. This treatment takes only seven minutes, a significant reduction from hours-long infusions. It offers a less burdensome option for thousands of patients. The medicine, subcutaneous...",
-        "source": "Economic Times Pharma",
-        "sourceHost": "economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-05-14T18:56:56.000Z",
-        "publishedLabel": "May 15, 2026",
-        "category": "Industry Update",
-        "image": "https://img.etimg.com/thumb/msid-131101910,width-1200,height-630,imgsize-18176,overlay-economictimes/articleshow.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/roche-introduces-revolutionary-7-minute-lung-cancer-immunotherapy-in-india/articleshow/131101946.cms",
-        "articlePath": "/article.html?issue=2026-05-10&article=2026-05-10-roche-brings-7-minute-lung-cancer-shot-to-india"
-      },
-      {
-        "id": "2026-05-10-alembic-pharma-gets-usfda-tentative-nod-for-generic-prostate-cancer-drug",
-        "title": "Alembic Pharma gets USFDA tentative nod for generic prostate cancer drug",
-        "summary": "Alembic Pharmaceuticals has secured tentative approval from the USFDA for its generic version of Darolutamide tablets, targeting prostate cancer treatment. The approval is for the 300 mg strength. The drug is a generic version of Nubeqa Tablets. The robust...",
-        "source": "Economic Times Pharma",
-        "sourceHost": "economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-05-14T11:02:44.000Z",
-        "publishedLabel": "May 14, 2026",
-        "category": "Approval",
-        "image": "https://img.etimg.com/thumb/msid-131090881,width-1200,height-630,imgsize-95092,overlay-economictimes/articleshow.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/alembic-pharma-gets-usfda-tentative-nod-for-generic-prostate-cancer-drug/articleshow/131090733.cms",
-        "articlePath": "/article.html?issue=2026-05-10&article=2026-05-10-alembic-pharma-gets-usfda-tentative-nod-for-generic-prostate-cancer-drug"
-      },
-      {
-        "id": "2026-05-10-dr-reddy-s-launches-generic-semaglutide-injection-popular-weight-loss-dr",
-        "title": "Dr Reddy’s launches generic Semaglutide injection, popular weight-loss drug, in Canada",
-        "summary": "Dr Reddy's Laboratories has launched its generic Semaglutide injection in Canada. This marks a significant step for the company in providing treatment for type 2 diabetes. Canada is the first G7 nation to approve this medication. The launch follows a recent...",
-        "source": "Economic Times Pharma",
-        "sourceHost": "economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-05-16T06:45:34.000Z",
-        "publishedLabel": "May 16, 2026",
-        "category": "Launch",
-        "image": "https://img.etimg.com/thumb/msid-131132966,width-1200,height-630,imgsize-45602,overlay-economictimes/articleshow.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/dr-reddys-launches-generic-semaglutide-injection-popular-weight-loss-drug-in-canada/articleshow/131132941.cms",
-        "articlePath": "/article.html?issue=2026-05-10&article=2026-05-10-dr-reddy-s-launches-generic-semaglutide-injection-popular-weight-loss-dr"
-      },
       {
         "id": "2026-05-10-apollo-hospitals-launches-super-speciality-centre-in-dadar-to-expand-adv",
         "title": "Apollo Hospitals launches super speciality centre in Dadar to expand advanced care access in Mumbai",
@@ -284,30 +232,6 @@
     "healthtech": []
   },
   "thbActions": [
-    {
-      "segment": "pharma",
-      "articleId": "2026-05-10-roche-brings-7-minute-lung-cancer-shot-to-india",
-      "title": "Roche brings 7-minute lung cancer shot to India",
-      "source": "Economic Times Pharma",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
-      "segment": "pharma",
-      "articleId": "2026-05-10-alembic-pharma-gets-usfda-tentative-nod-for-generic-prostate-cancer-drug",
-      "title": "Alembic Pharma gets USFDA tentative nod for generic prostate cancer drug",
-      "source": "Economic Times Pharma",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
-      "segment": "pharma",
-      "articleId": "2026-05-10-dr-reddy-s-launches-generic-semaglutide-injection-popular-weight-loss-dr",
-      "title": "Dr Reddy’s launches generic Semaglutide injection, popular weight-loss drug, in Canada",
-      "source": "Economic Times Pharma",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
     {
       "segment": "pharma",
       "articleId": "2026-05-10-apollo-hospitals-launches-super-speciality-centre-in-dadar-to-expand-adv",
