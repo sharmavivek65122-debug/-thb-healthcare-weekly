@@ -5,39 +5,20 @@
   "startDate": "2026-05-09T18:30:00.000Z",
   "endDate": "2026-05-15T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-05-27T16:49:09.406Z",
+  "updatedAt": "2026-05-28T08:26:41.192Z",
   "coverage": {
-    "pharma": 2,
-    "providers": 11,
+    "pharma": 1,
+    "providers": 10,
     "diagnostics": 1,
     "healthtech": 0
   },
   "sourcesUsed": [
-    "Arabian Business Healthcare",
-    "ET Healthworld",
     "ET Healthworld Diagnostics",
     "ET Healthworld Hospitals",
     "Janssen India Media"
   ],
   "segments": {
     "pharma": [
-      {
-        "id": "2026-05-10-apollo-hospitals-launches-super-speciality-centre-in-dadar-to-expand-adv",
-        "title": "Apollo Hospitals launches super speciality centre in Dadar to expand advanced care access in Mumbai",
-        "summary": "Centre to offer super-speciality services across cardiology, neurology, oncology, gastroenterology, orthopaedics, transplantation and pulmonology with diagnostics, robotics-enabled care and 24x7 clinical access",
-        "source": "ET Healthworld",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-05-11T09:48:03.000Z",
-        "publishedLabel": "May 11, 2026",
-        "category": "Launch",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-131010231,imgsize-172172,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/apollo-hospitals-launches-super-speciality-centre-in-dadar-to-expand-advanced-care-access-in-mumbai.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/apollo-hospitals-launches-super-speciality-centre-in-dadar-to-expand-advanced-care-access-in-mumbai/131010231",
-        "articlePath": "/article.html?issue=2026-05-10&article=2026-05-10-apollo-hospitals-launches-super-speciality-centre-in-dadar-to-expand-adv"
-      },
       {
         "id": "2026-05-10-groundbreaking-global-survey-captures-the-significant-patient-burden-exp",
         "title": "Groundbreaking global survey captures the significant patient burden experienced with current standard-of-care bladder cancer treatments, underscoring urgency for continued innovation",
@@ -143,6 +124,23 @@
         "articlePath": "/article.html?issue=2026-05-10&article=2026-05-10-hospitals-warn-central-government-health-scheme-reimbursement-cap-may-hu"
       },
       {
+        "id": "2026-05-10-apollo-hospitals-launches-super-speciality-centre-in-dadar-to-expand-adv",
+        "title": "Apollo Hospitals launches super speciality centre in Dadar to expand advanced care access in Mumbai",
+        "summary": "Centre to offer super-speciality services across cardiology, neurology, oncology, gastroenterology, orthopaedics, transplantation and pulmonology with diagnostics, robotics-enabled care and 24x7 clinical access",
+        "source": "ET Healthworld Hospitals",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-05-11T09:48:03.000Z",
+        "publishedLabel": "May 11, 2026",
+        "category": "Hospital",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-131010231,imgsize-172172,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/apollo-hospitals-launches-super-speciality-centre-in-dadar-to-expand-advanced-care-access-in-mumbai.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": false,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/apollo-hospitals-launches-super-speciality-centre-in-dadar-to-expand-advanced-care-access-in-mumbai/131010231",
+        "articlePath": "/article.html?issue=2026-05-10&article=2026-05-10-apollo-hospitals-launches-super-speciality-centre-in-dadar-to-expand-adv"
+      },
+      {
         "id": "2026-05-10-surya-hospitals-adds-55-beds-in-santacruz-facility-to-open-one-hospital-",
         "title": "Surya Hospitals adds 55 beds in Santacruz facility; to open one hospital in Kandivali in FY27",
         "summary": "Surya Hospitals added 55 beds, the Amber Wing, taking the total strength of the facility to over 250 beds dedicated to women and child-centric healthcare infrastructure at Santacruz.",
@@ -209,40 +207,6 @@
         "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/aiims-launches-low-cost-advanced-test-to-make-epilepsy-treatment-safer/131001233",
         "articlePath": "/article.html?issue=2026-05-10&article=2026-05-10-aiims-launches-low-cost-advanced-test-to-make-epilepsy-treatment-safer"
-      },
-      {
-        "id": "2026-05-10-purehealth-named-top-uae-healthcare-brand-portfolio-as-value-rises-to-3b",
-        "title": "PureHealth named top UAE healthcare brand portfolio as value rises to $3bn - Arabian Business: Latest News",
-        "summary": "PureHealth retains position as UAE’s leading healthcare brand portfolio, with brand value rising 23 per cent to AED11bn ($3bn)",
-        "source": "Arabian Business Healthcare",
-        "sourceHost": "arabianbusiness.com",
-        "region": "Middle East",
-        "country": "United Arab Emirates",
-        "publishedAt": "2026-05-12T19:13:53.000Z",
-        "publishedLabel": "May 13, 2026",
-        "category": "AI Care Delivery",
-        "image": "https://www.arabianbusiness.com/cloud/2026/05/01/PureHealth.jpg",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://www.arabianbusiness.com/business/healthcare/purehealth-named-top-uae-healthcare-brand-portfolio-as-value-rises-to-3bn",
-        "articlePath": "/article.html?issue=2026-05-10&article=2026-05-10-purehealth-named-top-uae-healthcare-brand-portfolio-as-value-rises-to-3b"
-      },
-      {
-        "id": "2026-05-10-uae-s-sheikh-mohammed-launches-initiative-to-eradicate-blindness-in-emir",
-        "title": "UAE's Sheikh Mohammed launches initiative to eradicate blindness in Emiratis",
-        "summary": "Programme design targets full eradication of river blindness by 2030 in supported locations",
-        "source": "Arabian Business Healthcare",
-        "sourceHost": "arabianbusiness.com",
-        "region": "Middle East",
-        "country": "United Arab Emirates",
-        "publishedAt": "2026-05-11T09:06:03.000Z",
-        "publishedLabel": "May 11, 2026",
-        "category": "Provider Update",
-        "image": "https://www.arabianbusiness.com/cloud/2026/05/11/j3m03mhe1ka17afpn-scaled.jpg",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://www.arabianbusiness.com/business/healthcare/uaes-sheikh-mohammed-launches-initiative-to-eradicate-blindness-in-emiratis",
-        "articlePath": "/article.html?issue=2026-05-10&article=2026-05-10-uae-s-sheikh-mohammed-launches-initiative-to-eradicate-blindness-in-emir"
       }
     ],
     "diagnostics": [
@@ -267,14 +231,6 @@
     "healthtech": []
   },
   "thbActions": [
-    {
-      "segment": "pharma",
-      "articleId": "2026-05-10-apollo-hospitals-launches-super-speciality-centre-in-dadar-to-expand-adv",
-      "title": "Apollo Hospitals launches super speciality centre in Dadar to expand advanced care access in Mumbai",
-      "source": "ET Healthworld",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
     {
       "segment": "pharma",
       "articleId": "2026-05-10-groundbreaking-global-survey-captures-the-significant-patient-burden-exp",
