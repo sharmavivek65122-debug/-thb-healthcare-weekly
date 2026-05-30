@@ -5,9 +5,9 @@
   "startDate": "2026-05-16T18:30:00.000Z",
   "endDate": "2026-05-22T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-05-29T16:57:23.717Z",
+  "updatedAt": "2026-05-30T07:25:40.119Z",
   "coverage": {
-    "pharma": 9,
+    "pharma": 7,
     "providers": 6,
     "diagnostics": 3,
     "healthtech": 0
@@ -38,23 +38,6 @@
         "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/venus-remedies-gets-saudi-fda-approval-for-speciality-oncology-therapy/articleshow/131273028.cms",
         "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-venus-remedies-gets-saudi-fda-approval-for-speciality-oncology-therapy"
-      },
-      {
-        "id": "2026-05-17-dr-reddy-s-launches-oral-semaglutide-in-india",
-        "title": "Dr Reddy’s launches oral semaglutide in India",
-        "summary": "Dr Reddys Laboratories has launched its oral semaglutide biosimilar for type 2 diabetes in India. The drug, Obeda, is available in three tablet strengths for daily use. This launch expands access to advanced diabetes care. Dr Reddys is the second Indian...",
-        "source": "Economic Times Pharma",
-        "sourceHost": "economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-05-20T14:36:15.000Z",
-        "publishedLabel": "May 20, 2026",
-        "category": "Launch",
-        "image": "https://img.etimg.com/thumb/msid-131229268,width-1200,height-630,imgsize-52090,overlay-economictimes/articleshow.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/dr-reddys-launches-oral-semaglutide-in-india/articleshow/131229277.cms",
-        "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-dr-reddy-s-launches-oral-semaglutide-in-india"
       },
       {
         "id": "2026-05-17-sun-pharma-sees-steady-fy27-growth-progresses-11-75-bn-organon-integrati",
@@ -89,23 +72,6 @@
         "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/icmr-replaces-old-system-with-single-window-approval-for-medical-studies/articleshow/131250996.cms",
         "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-icmr-replaces-old-system-with-single-window-approval-for-medical-studies"
-      },
-      {
-        "id": "2026-05-17-eli-lilly-s-obesity-drug-shows-up-to-30-weight-loss-in-trial",
-        "title": "Eli Lilly’s obesity drug shows up to 30% weight loss in trial",
-        "summary": "Eli Lilly's new obesity drug retatrutide shows remarkable results. In a major trial, patients lost up to 30% of their body weight. This once-weekly injection targets multiple hormone receptors. The drug also improved heart health markers. Experts believe...",
-        "source": "Economic Times Pharma",
-        "sourceHost": "economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-05-21T16:58:47.000Z",
-        "publishedLabel": "May 21, 2026",
-        "category": "Industry Update",
-        "image": "https://img.etimg.com/thumb/msid-131249611,width-1200,height-630,imgsize-72454,overlay-economictimes/articleshow.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/eli-lillys-obesity-drug-shows-up-to-30-weight-loss-in-trial/articleshow/131249598.cms",
-        "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-eli-lilly-s-obesity-drug-shows-up-to-30-weight-loss-in-trial"
       },
       {
         "id": "2026-05-17-alembic-gets-usfda-nod-for-generic-levothyroxine-sodium-tablets",
@@ -346,14 +312,6 @@
     },
     {
       "segment": "pharma",
-      "articleId": "2026-05-17-dr-reddy-s-launches-oral-semaglutide-in-india",
-      "title": "Dr Reddy’s launches oral semaglutide in India",
-      "source": "Economic Times Pharma",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
-      "segment": "pharma",
       "articleId": "2026-05-17-sun-pharma-sees-steady-fy27-growth-progresses-11-75-bn-organon-integrati",
       "title": "Sun Pharma sees steady FY27 growth, progresses $11.75 bn Organon integration deal",
       "source": "Economic Times Pharma",
@@ -370,8 +328,16 @@
     },
     {
       "segment": "pharma",
-      "articleId": "2026-05-17-eli-lilly-s-obesity-drug-shows-up-to-30-weight-loss-in-trial",
-      "title": "Eli Lilly’s obesity drug shows up to 30% weight loss in trial",
+      "articleId": "2026-05-17-alembic-gets-usfda-nod-for-generic-levothyroxine-sodium-tablets",
+      "title": "Alembic gets USFDA nod for generic levothyroxine sodium tablets",
+      "source": "Economic Times Pharma",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "pharma",
+      "articleId": "2026-05-17-pregabalin-moved-to-schedule-h1-as-centre-cracks-down-on-drug-misuse",
+      "title": "Pregabalin moved to Schedule H1 as centre cracks down on drug misuse",
       "source": "Economic Times Pharma",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
