@@ -5,19 +5,55 @@
   "startDate": "2026-05-30T18:30:00.000Z",
   "endDate": "2026-06-05T18:30:00.000Z",
   "status": "live",
-  "updatedAt": "2026-05-31T07:56:57.662Z",
+  "updatedAt": "2026-05-31T15:02:01.009Z",
   "coverage": {
-    "pharma": 3,
-    "providers": 0,
-    "diagnostics": 1,
+    "pharma": 8,
+    "providers": 1,
+    "diagnostics": 2,
     "healthtech": 0
   },
   "sourcesUsed": [
+    "Economic Times Pharma",
     "Healthcare MEA",
-    "Medical Dialogues Pharma"
+    "Medical Dialogues Pharma",
+    "Zawya Pharmaceuticals"
   ],
   "segments": {
     "pharma": [
+      {
+        "id": "2026-05-31-novartis-experimental-actinium-based-drug-shows-promise-in-prostate-canc",
+        "title": "Novartis experimental actinium-based drug shows promise in prostate cancer treatment: Study",
+        "summary": "Novartis' new experimental actinium-based drug shows promise against prostate cancer. Early data on Sunday revealed anti-tumour activity, even in patients who previously received Novartis' Pluvicto. Response rates were higher in patients without prior...",
+        "source": "Economic Times Pharma",
+        "sourceHost": "economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-05-31T11:30:14.000Z",
+        "publishedLabel": "May 31, 2026",
+        "category": "Industry Update",
+        "image": "https://img.etimg.com/thumb/msid-131422224,width-1200,height-630,imgsize-71098,overlay-economictimes/articleshow.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/novartis-experimental-actinium-based-drug-shows-promise-in-prostate-cancer-treatment-study/articleshow/131422192.cms",
+        "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-novartis-experimental-actinium-based-drug-shows-promise-in-prostate-canc"
+      },
+      {
+        "id": "2026-05-31-johnson-and-johnson-prostate-cancer-drug-reduces-risk-of-cancer-spread-a",
+        "title": "Johnson & ​Johnson prostate cancer drug reduces risk of cancer spread and death in late-stage study",
+        "summary": "The study, which followed patients for over five ‌years, found that those ⁠who received ⁠the regimen were nine times more likely to have little to no detectable cancer in the prostate at the time of surgery compared with those ​given testosterone-blocking...",
+        "source": "Economic Times Pharma",
+        "sourceHost": "economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-05-31T12:08:39.000Z",
+        "publishedLabel": "May 31, 2026",
+        "category": "Industry Update",
+        "image": "https://img.etimg.com/thumb/msid-131422818,width-1200,height-630,imgsize-59452,overlay-economictimes/articleshow.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/johnson-johnson-prostate-cancer-drug-reduces-risk-of-cancer-spread-and-death-in-late-stage-study/articleshow/131422780.cms",
+        "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-johnson-and-johnson-prostate-cancer-drug-reduces-risk-of-cancer-spread-a"
+      },
       {
         "id": "2026-05-31-who-backs-three-experimental-drugs-for-bundibugyo-ebola-outbreak-healthc",
         "title": "WHO backs three experimental drugs for Bundibugyo Ebola outbreak | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
@@ -26,7 +62,7 @@
         "sourceHost": "healthcaremea.com",
         "region": "India",
         "country": "India",
-        "publishedAt": "2026-05-31T06:57:47.000Z",
+        "publishedAt": "2026-05-31T08:57:00.000Z",
         "publishedLabel": "May 31, 2026",
         "category": "Manufacturing",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/05/image-1600x900-2026-05-31T095033.887.png",
@@ -34,6 +70,57 @@
         "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/05/31/who-backs-three-experimental-drugs-for-bundibugyo-ebola-outbreak/",
         "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-who-backs-three-experimental-drugs-for-bundibugyo-ebola-outbreak-healthc"
+      },
+      {
+        "id": "2026-05-31-apogee-therapeutics-secures-us-1-3b-blackstone-deal-for-phase-3-eczema-d",
+        "title": "Apogee Therapeutics secures US$1.3B Blackstone deal for phase 3 eczema drug | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
+        "summary": "Under the deal, Blackstone Life Sciences will provide up to US$800 million in exchange for low- to mid-single-digit tiered royalties on future zumilokibart sales for 15 years.",
+        "source": "Healthcare MEA",
+        "sourceHost": "healthcaremea.com",
+        "region": "Middle East",
+        "country": "Middle East",
+        "publishedAt": "2026-05-31T07:26:17.000Z",
+        "publishedLabel": "May 31, 2026",
+        "category": "Manufacturing",
+        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/05/image-1600x900-2026-05-31T102143.629.png",
+        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
+        "justIn": true,
+        "originalUrl": "https://www.healthcaremea.com/2026/05/31/apogee-therapeutics-secures-us1-3b-blackstone-deal-for-phase-3-eczema-drug/",
+        "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-apogee-therapeutics-secures-us-1-3b-blackstone-deal-for-phase-3-eczema-d"
+      },
+      {
+        "id": "2026-05-31-fda-clears-astrazeneca-s-imfinzi-bcg-combo-for-high-risk-bladder-cancer-",
+        "title": "FDA clears AstraZeneca's Imfinzi-BCG combo for high-risk bladder cancer | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
+        "summary": "The decision expands Imfinzi’s bladder cancer footprint beyond its earlier approval in muscle-invasive bladder cancer (MIBC), where it is used with chemotherapy agents’ gemcitabine and cisplatin b ...",
+        "source": "Healthcare MEA",
+        "sourceHost": "healthcaremea.com",
+        "region": "Middle East",
+        "country": "Middle East",
+        "publishedAt": "2026-05-31T08:10:00.000Z",
+        "publishedLabel": "May 31, 2026",
+        "category": "Approval",
+        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/05/image-1600x900-2026-05-31T103320.345.png",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://www.healthcaremea.com/2026/05/31/fda-clears-astrazenecas-imfinzi-bcg-combo-for-high-risk-bladder-cancer/",
+        "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-fda-clears-astrazeneca-s-imfinzi-bcg-combo-for-high-risk-bladder-cancer-"
+      },
+      {
+        "id": "2026-05-31-cdsco-announces-interim-import-approval-process-for-ba-be-export-studies",
+        "title": "CDSCO Announces Interim Import Approval Process for BA/BE Export Studies",
+        "summary": "New Delhi: The Central Drugs Standard Control Organisation (CDSCO) has issued a notice outlining the interim procedure for obtaining Form CT-16 applications through the National Single Window System...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-05-31T10:30:32.000Z",
+        "publishedLabel": "May 31, 2026",
+        "category": "Approval",
+        "image": "https://medicaldialogues.in/h-upload/2025/12/06/313075-202512073599136.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/cdsco/cdsco-announces-interim-import-approval-process-for-babe-export-studies-171703",
+        "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-cdsco-announces-interim-import-approval-process-for-ba-be-export-studies"
       },
       {
         "id": "2026-05-31-maharashtra-fda-cracks-down-on-misleading-drug-claims-seizes-medicines-w",
@@ -70,8 +157,43 @@
         "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-usfda-approves-mannkind-s-inhaled-insulin-afrezza-for-children-with-diab"
       }
     ],
-    "providers": [],
+    "providers": [
+      {
+        "id": "2026-05-31-united-arab-emirates-uae-expresses-solidarity-with-kenya-and-conveys-con",
+        "title": "United Arab Emirates (UAE) Expresses Solidarity with Kenya and Conveys Condolences over Victims of Girls’ School Dormitory Fire",
+        "summary": "United Arab Emirates (UAE) Expresses Solidarity with Kenya and Conveys Condolences over Victims of Girls’ School Dormitory Fire",
+        "source": "Zawya Pharmaceuticals",
+        "sourceHost": "zawya.com",
+        "region": "Middle East",
+        "country": "United Arab Emirates",
+        "publishedAt": "2026-05-31T08:27:10.000Z",
+        "publishedLabel": "May 31, 2026",
+        "category": "Provider Update",
+        "image": "https://www.africa-newsroom.com/files/large/d3ab8a56ab594ce",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": false,
+        "originalUrl": "https://www.zawya.com/en/press-release/africa-press-releases/united-arab-emirates-uae-expresses-solidarity-with-kenya-and-conveys-condolences-over-victims-of-girls-school-se5h4qjc",
+        "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-united-arab-emirates-uae-expresses-solidarity-with-kenya-and-conveys-con"
+      }
+    ],
     "diagnostics": [
+      {
+        "id": "2026-05-31-nmdc-dredging-and-marine-localises-offshore-structural-testing-ends-over",
+        "title": "NMDC Dredging & Marine localises offshore structural testing, ends overseas reliance",
+        "summary": "The new testing facility in Abu Dhabi is expected to reduce costs and accelerate delivery timelines for marine infrastructure projects across the region.",
+        "source": "Zawya Pharmaceuticals",
+        "sourceHost": "zawya.com",
+        "region": "Middle East",
+        "country": "United Arab Emirates",
+        "publishedAt": "2026-05-31T12:40:11.000Z",
+        "publishedLabel": "May 31, 2026",
+        "category": "Industry Update",
+        "image": "https://static.zawya.com/view/acePublic/alias/contentid/93a88e07-32b6-4223-9362-538f89872e45/0/nmdccoastal-hydrodynamiccenter2-jpg.jpeg?f=3%3A2",
+        "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
+        "justIn": true,
+        "originalUrl": "https://www.zawya.com/en/projects/construction/nmdc-dredging-and-marine-localises-offshore-structural-testing-ends-overseas-reliance-ohvqzhss",
+        "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-nmdc-dredging-and-marine-localises-offshore-structural-testing-ends-over"
+      },
       {
         "id": "2026-05-31-abbott-secures-ce-mark-for-world-s-first-glucose-ketone-wearable-healthc",
         "title": "Abbott secures CE mark for world's first glucose-ketone wearable | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
@@ -95,6 +217,22 @@
   "thbActions": [
     {
       "segment": "pharma",
+      "articleId": "2026-05-31-novartis-experimental-actinium-based-drug-shows-promise-in-prostate-canc",
+      "title": "Novartis experimental actinium-based drug shows promise in prostate cancer treatment: Study",
+      "source": "Economic Times Pharma",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "pharma",
+      "articleId": "2026-05-31-johnson-and-johnson-prostate-cancer-drug-reduces-risk-of-cancer-spread-a",
+      "title": "Johnson & ​Johnson prostate cancer drug reduces risk of cancer spread and death in late-stage study",
+      "source": "Economic Times Pharma",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "pharma",
       "articleId": "2026-05-31-who-backs-three-experimental-drugs-for-bundibugyo-ebola-outbreak-healthc",
       "title": "WHO backs three experimental drugs for Bundibugyo Ebola outbreak | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
       "source": "Healthcare MEA",
@@ -103,19 +241,35 @@
     },
     {
       "segment": "pharma",
-      "articleId": "2026-05-31-maharashtra-fda-cracks-down-on-misleading-drug-claims-seizes-medicines-w",
-      "title": "Maharashtra FDA Cracks Down on Misleading Drug Claims, Seizes Medicines Worth Rs 73 Lakh",
-      "source": "Medical Dialogues Pharma",
+      "articleId": "2026-05-31-apogee-therapeutics-secures-us-1-3b-blackstone-deal-for-phase-3-eczema-d",
+      "title": "Apogee Therapeutics secures US$1.3B Blackstone deal for phase 3 eczema drug | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
+      "source": "Healthcare MEA",
+      "solution": "THB Commercial Analytics",
+      "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
+    },
+    {
+      "segment": "pharma",
+      "articleId": "2026-05-31-fda-clears-astrazeneca-s-imfinzi-bcg-combo-for-high-risk-bladder-cancer-",
+      "title": "FDA clears AstraZeneca's Imfinzi-BCG combo for high-risk bladder cancer | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
+      "source": "Healthcare MEA",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
     },
     {
-      "segment": "pharma",
-      "articleId": "2026-05-31-usfda-approves-mannkind-s-inhaled-insulin-afrezza-for-children-with-diab",
-      "title": "USFDA Approves MannKind's Inhaled Insulin Afrezza for Children with Diabetes",
-      "source": "Medical Dialogues Pharma",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+      "segment": "providers",
+      "articleId": "2026-05-31-united-arab-emirates-uae-expresses-solidarity-with-kenya-and-conveys-con",
+      "title": "United Arab Emirates (UAE) Expresses Solidarity with Kenya and Conveys Condolences over Victims of Girls’ School Dormitory Fire",
+      "source": "Zawya Pharmaceuticals",
+      "solution": "THB Provider CRM",
+      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
+    },
+    {
+      "segment": "diagnostics",
+      "articleId": "2026-05-31-nmdc-dredging-and-marine-localises-offshore-structural-testing-ends-over",
+      "title": "NMDC Dredging & Marine localises offshore structural testing, ends overseas reliance",
+      "source": "Zawya Pharmaceuticals",
+      "solution": "THB Diagnostics CRM",
+      "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
     },
     {
       "segment": "diagnostics",

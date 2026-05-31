@@ -5,9 +5,9 @@
   "startDate": "2026-05-16T18:30:00.000Z",
   "endDate": "2026-05-22T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-05-31T07:56:57.662Z",
+  "updatedAt": "2026-05-31T15:02:01.009Z",
   "coverage": {
-    "pharma": 6,
+    "pharma": 4,
     "providers": 5,
     "diagnostics": 3,
     "healthtech": 0
@@ -56,23 +56,6 @@
         "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-sun-pharma-sees-steady-fy27-growth-progresses-11-75-bn-organon-integrati"
       },
       {
-        "id": "2026-05-17-icmr-replaces-old-system-with-single-window-approval-for-medical-studies",
-        "title": "ICMR replaces old system with single window approval for medical studies",
-        "summary": "The Indian Council of Medical Research has introduced a unified ethics approval process for multicentre medical studies, replacing the previous fragmented, site-by-site system. This significant reform aims to expedite research timelines, reduce costs, and...",
-        "source": "Economic Times Pharma",
-        "sourceHost": "economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-05-21T18:52:15.000Z",
-        "publishedLabel": "May 22, 2026",
-        "category": "Approval",
-        "image": "https://img.etimg.com/thumb/msid-131251008,width-1200,height-630,imgsize-7622,overlay-economictimes/articleshow.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/icmr-replaces-old-system-with-single-window-approval-for-medical-studies/articleshow/131250996.cms",
-        "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-icmr-replaces-old-system-with-single-window-approval-for-medical-studies"
-      },
-      {
         "id": "2026-05-17-alembic-gets-usfda-nod-for-generic-levothyroxine-sodium-tablets",
         "title": "Alembic gets USFDA nod for generic levothyroxine sodium tablets",
         "summary": "Alembic Pharmaceuticals has secured final approval from the US health regulator for its generic levothyroxine sodium tablets. This medication is used as a replacement therapy for hypothyroidism. The approval covers multiple strengths of the tablets. This...",
@@ -88,23 +71,6 @@
         "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/alembic-gets-usfda-nod-for-generic-levothyroxine-sodium-tablets/articleshow/131258579.cms",
         "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-alembic-gets-usfda-nod-for-generic-levothyroxine-sodium-tablets"
-      },
-      {
-        "id": "2026-05-17-pregabalin-moved-to-schedule-h1-as-centre-cracks-down-on-drug-misuse",
-        "title": "Pregabalin moved to Schedule H1 as centre cracks down on drug misuse",
-        "summary": "Pregabalin, a nerve pain medication, now faces stricter controls. The Union health ministry has moved it to Schedule H1. This change aims to curb its misuse, especially among youth. Previously available over-the-counter, it now requires strict prescriptions....",
-        "source": "Economic Times Pharma",
-        "sourceHost": "economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-05-22T06:37:09.000Z",
-        "publishedLabel": "May 22, 2026",
-        "category": "Industry Update",
-        "image": "https://img.etimg.com/thumb/msid-131258316,width-1200,height-630,imgsize-17444,overlay-economictimes/articleshow.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/pregabalin-moved-to-schedule-h1-as-centre-cracks-down-on-drug-misuse/articleshow/131258316.cms",
-        "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-pregabalin-moved-to-schedule-h1-as-centre-cracks-down-on-drug-misuse"
       },
       {
         "id": "2026-05-17-bernstein-initiates-coverage-on-6-pharma-stocks-cites-3-major-tailwinds-",
@@ -285,14 +251,6 @@
     },
     {
       "segment": "pharma",
-      "articleId": "2026-05-17-icmr-replaces-old-system-with-single-window-approval-for-medical-studies",
-      "title": "ICMR replaces old system with single window approval for medical studies",
-      "source": "Economic Times Pharma",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
-      "segment": "pharma",
       "articleId": "2026-05-17-alembic-gets-usfda-nod-for-generic-levothyroxine-sodium-tablets",
       "title": "Alembic gets USFDA nod for generic levothyroxine sodium tablets",
       "source": "Economic Times Pharma",
@@ -301,11 +259,11 @@
     },
     {
       "segment": "pharma",
-      "articleId": "2026-05-17-pregabalin-moved-to-schedule-h1-as-centre-cracks-down-on-drug-misuse",
-      "title": "Pregabalin moved to Schedule H1 as centre cracks down on drug misuse",
-      "source": "Economic Times Pharma",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+      "articleId": "2026-05-17-bernstein-initiates-coverage-on-6-pharma-stocks-cites-3-major-tailwinds-",
+      "title": "Bernstein initiates coverage on 6 pharma stocks, cites 3 major tailwinds for healthcare sector",
+      "source": "Lupin Updates",
+      "solution": "THB Commercial Analytics",
+      "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
     },
     {
       "segment": "providers",
