@@ -5,18 +5,17 @@
   "startDate": "2026-05-16T18:30:00.000Z",
   "endDate": "2026-05-22T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-05-31T15:02:01.009Z",
+  "updatedAt": "2026-06-01T09:40:17.408Z",
   "coverage": {
-    "pharma": 4,
+    "pharma": 3,
     "providers": 5,
-    "diagnostics": 3,
+    "diagnostics": 2,
     "healthtech": 0
   },
   "sourcesUsed": [
     "ET Healthworld Diagnostics",
     "ET Healthworld Hospitals",
     "Economic Times Pharma",
-    "Express Healthcare Posts",
     "Lupin Updates"
   ],
   "segments": {
@@ -54,23 +53,6 @@
         "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/sun-pharma-sees-steady-fy27-growth-progresses-11-75-bn-organon-integration-deal/articleshow/131267780.cms",
         "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-sun-pharma-sees-steady-fy27-growth-progresses-11-75-bn-organon-integrati"
-      },
-      {
-        "id": "2026-05-17-alembic-gets-usfda-nod-for-generic-levothyroxine-sodium-tablets",
-        "title": "Alembic gets USFDA nod for generic levothyroxine sodium tablets",
-        "summary": "Alembic Pharmaceuticals has secured final approval from the US health regulator for its generic levothyroxine sodium tablets. This medication is used as a replacement therapy for hypothyroidism. The approval covers multiple strengths of the tablets. This...",
-        "source": "Economic Times Pharma",
-        "sourceHost": "economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-05-22T06:53:07.000Z",
-        "publishedLabel": "May 22, 2026",
-        "category": "Approval",
-        "image": "https://img.etimg.com/thumb/msid-131258601,width-1200,height-630,imgsize-95092,overlay-economictimes/articleshow.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/alembic-gets-usfda-nod-for-generic-levothyroxine-sodium-tablets/articleshow/131258579.cms",
-        "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-alembic-gets-usfda-nod-for-generic-levothyroxine-sodium-tablets"
       },
       {
         "id": "2026-05-17-bernstein-initiates-coverage-on-6-pharma-stocks-cites-3-major-tailwinds-",
@@ -211,23 +193,6 @@
         "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/diagnostics/pgi-combines-ai-and-ultrasound-for-early-gallbladder-cancer-detection/131270754",
         "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-pgi-combines-ai-and-ultrasound-for-early-gallbladder-cancer-detection"
-      },
-      {
-        "id": "2026-05-17-zenmd-launches-in-india",
-        "title": "ZenMD launches in India",
-        "summary": "ZenMD, an India-focused clinical AI platform built for doctors and healthcare institutions has announced its official launch in India. Designed specifically for the realities of Indian clinical practice, ZenMD brings […]",
-        "source": "Express Healthcare Posts",
-        "sourceHost": "expresshealthcare.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-05-22T05:00:40.000Z",
-        "publishedLabel": "May 22, 2026",
-        "category": "Industry Update",
-        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2025/11/25113800/New-Project-27-1.jpg",
-        "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
-        "justIn": false,
-        "originalUrl": "https://www.expresshealthcare.in/news/zenmd-launches-in-india/453747/",
-        "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-zenmd-launches-in-india"
       }
     ],
     "healthtech": []
@@ -248,14 +213,6 @@
       "source": "Economic Times Pharma",
       "solution": "THB Commercial Analytics",
       "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
-    },
-    {
-      "segment": "pharma",
-      "articleId": "2026-05-17-alembic-gets-usfda-nod-for-generic-levothyroxine-sodium-tablets",
-      "title": "Alembic gets USFDA nod for generic levothyroxine sodium tablets",
-      "source": "Economic Times Pharma",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
     },
     {
       "segment": "pharma",
@@ -318,14 +275,6 @@
       "articleId": "2026-05-17-pgi-combines-ai-and-ultrasound-for-early-gallbladder-cancer-detection",
       "title": "PGI combines AI and ultrasound for early gallbladder cancer detection",
       "source": "ET Healthworld Diagnostics",
-      "solution": "THB Diagnostics CRM",
-      "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
-    },
-    {
-      "segment": "diagnostics",
-      "articleId": "2026-05-17-zenmd-launches-in-india",
-      "title": "ZenMD launches in India",
-      "source": "Express Healthcare Posts",
       "solution": "THB Diagnostics CRM",
       "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
     }

@@ -5,15 +5,17 @@
   "startDate": "2026-05-23T18:30:00.000Z",
   "endDate": "2026-05-29T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-05-31T15:02:01.009Z",
+  "updatedAt": "2026-06-01T09:40:17.408Z",
   "coverage": {
-    "pharma": 50,
+    "pharma": 49,
     "providers": 9,
-    "diagnostics": 6,
+    "diagnostics": 9,
     "healthtech": 1
   },
   "sourcesUsed": [
+    "BioSpectrum India Healthcare",
     "ET Healthworld",
+    "ET Healthworld Diagnostics",
     "ET Healthworld Hospitals",
     "Economic Times Pharma",
     "Express Healthcare",
@@ -180,18 +182,18 @@
       {
         "id": "2026-05-24-after-50-hearings-court-reserves-judgement-in-daiichi-fortis-case",
         "title": "After 50 hearings, court reserves judgement in Daiichi-Fortis case",
-        "summary": "The Delhi High Court has reserved its judgment in a significant arbitration case. Japanese drug maker Daiichi Sankyo is seeking to enforce a decade-old award of ₹5,200 crore against former Fortis promoters. The case involves allegations of fraud in the sale...",
-        "source": "Economic Times Pharma",
-        "sourceHost": "economictimes.indiatimes.com",
+        "summary": "Daiichi is seeking enforcement of an arbitration award in favour of it against former Fortis promoters Malvinder and Shivinder Mohan Singh for alleged fraud in the 2008 sale of their pharma company Ranbaxy Laboratories to the Japanese firm. Including...",
+        "source": "ET Healthworld",
+        "sourceHost": "health.economictimes.indiatimes.com",
         "region": "India",
         "country": "India",
-        "publishedAt": "2026-05-26T19:45:53.000Z",
+        "publishedAt": "2026-05-27T01:45:42.000Z",
         "publishedLabel": "May 27, 2026",
         "category": "Industry Update",
-        "image": "https://img.etimg.com/thumb/msid-131337093,width-1200,height-630,imgsize-71928,overlay-economictimes/articleshow.jpg",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-131339657,imgsize-1068799,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/after-50-hearings-court-reserves-judgement-in-daiichi-fortis-case.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
         "justIn": false,
-        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/after-50-hearings-court-reserves-judgement-in-daiichi-fortis-case/articleshow/131337090.cms",
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/after-50-hearings-court-reserves-judgement-in-daiichi-fortis-case/131339657",
         "articlePath": "/article.html?issue=2026-05-24&article=2026-05-24-after-50-hearings-court-reserves-judgement-in-daiichi-fortis-case"
       },
       {
@@ -229,23 +231,6 @@
         "articlePath": "/article.html?issue=2026-05-24&article=2026-05-24-stanford-scientists-cured-type-1-diabetes-in-a-breakthrough-experiment"
       },
       {
-        "id": "2026-05-24-pocket-sized-device-detects-liver-issues-in-under-three-minutes",
-        "title": "Pocket-sized device detects liver issues in under three minutes",
-        "summary": "The study, published in IEEE Transactions on Biomedical Engineering, focuses on a compact electrochemical sensor that measures bilirubin, a key marker used to assess liver function. Bilirubin is produced when red blood cells break down, and elevated levels...",
-        "source": "ET Healthworld",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-05-29T02:29:50.000Z",
-        "publishedLabel": "May 29, 2026",
-        "category": "Industry Update",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-131379992,imgsize-108560,width-1200,height=627,overlay-ethealth,resizemode-75/medical-devices/pocket-sized-device-detects-liver-issues-in-under-three-minutes.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/medical-devices/pocket-sized-device-detects-liver-issues-in-under-three-minutes/131379992",
-        "articlePath": "/article.html?issue=2026-05-24&article=2026-05-24-pocket-sized-device-detects-liver-issues-in-under-three-minutes"
-      },
-      {
         "id": "2026-05-24-zydus-therapeutics-saroglitazar-drug-granted-priority-review-by-us-fda",
         "title": "Zydus Therapeutics' saroglitazar drug granted priority review by US FDA",
         "summary": "Zydus Therapeutics' drug saroglitazar has received priority review from the US FDA. This drug treats primary biliary cholangitis, a liver disease. The company plans to launch saroglitazar in the US in the fourth quarter of fiscal year 2027.",
@@ -278,23 +263,6 @@
         "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/wockhardt-gets-cdsco-nod-for-zaynich-antibiotic/articleshow/131364330.cms",
         "articlePath": "/article.html?issue=2026-05-24&article=2026-05-24-wockhardt-gets-cdsco-nod-for-zaynich-antibiotic"
-      },
-      {
-        "id": "2026-05-24-kenyan-court-orders-suspension-of-us-plan-for-ebola-quarantine-facility",
-        "title": "Kenyan court orders suspension of US plan for Ebola quarantine facility",
-        "summary": "Senior U.S. officials said the 50-bed unit at an air force base in central Kenya would serve Americans who have been exposed to the virus but are still asymptomatic ‌and would become operational on ⁠Friday.",
-        "source": "ET Healthworld",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-05-30T02:28:48.000Z",
-        "publishedLabel": "May 30, 2026",
-        "category": "Industry Update",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-131402548,imgsize-149076,width-1200,height=627,overlay-ethealth,resizemode-75/industry/kenyan-court-orders-suspension-of-us-plan-for-ebola-quarantine-facility.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/kenyan-court-orders-suspension-of-us-plan-for-ebola-quarantine-facility/131402548",
-        "articlePath": "/article.html?issue=2026-05-24&article=2026-05-24-kenyan-court-orders-suspension-of-us-plan-for-ebola-quarantine-facility"
       },
       {
         "id": "2026-05-24-no-ebola-case-reported-in-india-so-far-says-health-minister-nadda-review",
@@ -550,23 +518,6 @@
         "justIn": false,
         "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/cdsco-approves-wockhardts-breakthrough-antibiotic-zaynich%C2%AE-for-complicated-urinary-tract-infections",
         "articlePath": "/article.html?issue=2026-05-24&article=2026-05-24-cdsco-approves-wockhardt-s-breakthrough-antibiotic-zaynich-for-complicat"
-      },
-      {
-        "id": "2026-05-24-sun-pharma-s-unloxcyt-shows-durable-50-response-in-advanced-skin-cancer-",
-        "title": "Sun Pharma's UNLOXCYT Shows Durable 50% Response in Advanced Skin Cancer Study",
-        "summary": "New Delhi: Sun Pharmaceutical Industries has announced that it will present updated long-term follow-up data from the pivotal CK-301-101 trial evaluating UNLOXCYT (cosibelimab-ipdl) in patients with...",
-        "source": "Medical Dialogues Pharma",
-        "sourceHost": "medicaldialogues.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-05-27T16:48:15.000Z",
-        "publishedLabel": "May 27, 2026",
-        "category": "Industry Update",
-        "image": "https://medicaldialogues.in/h-upload/2024/01/16/230297-sun-pharma-new-50.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/sun-pharmas-unloxcyt-shows-durable-50-response-in-advanced-skin-cancer-study-171505",
-        "articlePath": "/article.html?issue=2026-05-24&article=2026-05-24-sun-pharma-s-unloxcyt-shows-durable-50-response-in-advanced-skin-cancer-"
       },
       {
         "id": "2026-05-24-astrazeneca-s-breast-cancer-drug-camizestrant-faces-us-fda-delay-as-agen",
@@ -873,6 +824,40 @@
         "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/zydus-saroglitazar-gets-usfda-priority-review-for-rare-liver-disease-pbc-171657",
         "articlePath": "/article.html?issue=2026-05-24&article=2026-05-24-zydus-saroglitazar-gets-usfda-priority-review-for-rare-liver-disease-pbc"
+      },
+      {
+        "id": "2026-05-24-tax-setback-for-jubilant-generics-as-department-orders-rs-107-89-cr-adju",
+        "title": "Tax Setback for Jubilant Generics as Department Orders Rs 107.89 Cr Adjustment",
+        "summary": "New Delhi: Jubilant Pharmova has informed the stock exchanges that Jubilant Generics Limited (JGL), a wholly owned step-down Indian subsidiary of the company, has received an order from the Income Tax...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-05-29T05:15:03.000Z",
+        "publishedLabel": "May 29, 2026",
+        "category": "Industry Update",
+        "image": "https://medicaldialogues.in/h-upload/2023/01/12/197708-jubilant-pharmova-1.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": false,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/tax-setback-for-jubilant-generics-as-department-orders-rs-10789-cr-adjustment-171658",
+        "articlePath": "/article.html?issue=2026-05-24&article=2026-05-24-tax-setback-for-jubilant-generics-as-department-orders-rs-107-89-cr-adju"
+      },
+      {
+        "id": "2026-05-24-sandoz-files-anti-dumping-complaint-over-chinese-amoxicillin-imports",
+        "title": "Sandoz Files Anti-Dumping Complaint Over Chinese Amoxicillin Imports",
+        "summary": "Zurich: Swiss generic drugmaker Sandoz filed a draft anti-dumping complaint with the European Commission over Chinese imports of the antibiotic ingredient amoxicillin, part ‌of ⁠the penicillin...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-05-30T12:26:32.000Z",
+        "publishedLabel": "May 30, 2026",
+        "category": "Industry Update",
+        "image": "https://medicaldialogues.in/h-upload/2020/06/11/130219-sandoz.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": false,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/sandoz-files-anti-dumping-complaint-over-chinese-amoxicillin-imports-171713",
+        "articlePath": "/article.html?issue=2026-05-24&article=2026-05-24-sandoz-files-anti-dumping-complaint-over-chinese-amoxicillin-imports"
       }
     ],
     "providers": [
@@ -909,23 +894,6 @@
         "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/keralas-healthcare-gold-rush-how-private-equity-is-reshaping-hospitals-and-raising-fears-over-costs/131303025",
         "articlePath": "/article.html?issue=2026-05-24&article=2026-05-24-kerala-s-healthcare-gold-rush-how-private-equity-is-reshaping-hospitals-"
-      },
-      {
-        "id": "2026-05-24-after-50-hearings-court-reserves-judgement-in-daiichi-fortis-case",
-        "title": "After 50 hearings, court reserves judgement in Daiichi-Fortis case",
-        "summary": "Daiichi is seeking enforcement of an arbitration award in favour of it against former Fortis promoters Malvinder and Shivinder Mohan Singh for alleged fraud in the 2008 sale of their pharma company Ranbaxy Laboratories to the Japanese firm. Including...",
-        "source": "ET Healthworld Hospitals",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-05-27T01:45:42.000Z",
-        "publishedLabel": "May 27, 2026",
-        "category": "AI Care Delivery",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-131339657,imgsize-1068799,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/after-50-hearings-court-reserves-judgement-in-daiichi-fortis-case.jpg",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/after-50-hearings-court-reserves-judgement-in-daiichi-fortis-case/131339657",
-        "articlePath": "/article.html?issue=2026-05-24&article=2026-05-24-after-50-hearings-court-reserves-judgement-in-daiichi-fortis-case"
       },
       {
         "id": "2026-05-24-park-medi-world-to-acquire-medicity-hospital-in-rudrapur-enter-uttarakha",
@@ -1028,9 +996,43 @@
         "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/news/park-medi-world-to-acquire-the-medicity-hospital-rudrapur-for-rs-177-crore/453757/",
         "articlePath": "/article.html?issue=2026-05-24&article=2026-05-24-park-medi-world-to-acquire-the-medicity-hospital-rudrapur-for-rs-177-cro"
+      },
+      {
+        "id": "2026-05-24-hcg-unveils-cancer-hospital-in-north-bengaluru-introducing-karnataka-s-f",
+        "title": "HCG unveils cancer hospital in North Bengaluru introducing Karnataka’s first MR-Linac",
+        "summary": "HCG launches cancer hospital in North Bengaluru introducing Karnataka’s first MR-Linac",
+        "source": "BioSpectrum India Healthcare",
+        "sourceHost": "biospectrumindia.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-05-24T18:30:00.000Z",
+        "publishedLabel": "May 25, 2026",
+        "category": "Hospital",
+        "image": "https://www.biospectrumindia.com/uploads/articles/img_20260519_wa0007-27835.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": false,
+        "originalUrl": "https://www.biospectrumindia.com/news/16/27835/hcg-unveils-cancer-hospital-in-north-bengaluru-introducing-karnatakas-first-mr-linac.html",
+        "articlePath": "/article.html?issue=2026-05-24&article=2026-05-24-hcg-unveils-cancer-hospital-in-north-bengaluru-introducing-karnataka-s-f"
       }
     ],
     "diagnostics": [
+      {
+        "id": "2026-05-24-blood-test-could-help-detect-signs-of-alzheimer-s-disease-decades-before",
+        "title": "Blood test could help detect signs of Alzheimer's disease decades before symptoms: Study",
+        "summary": "The neurodegenerative condition steadily affects memory and thought processes, eventually interfering with daily functioning. The disease begins with the accumulation of amyloid-beta (Aβ) protein plaques and phosphorylated tau protein tangles in the brain.",
+        "source": "ET Healthworld Diagnostics",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-05-30T02:19:07.000Z",
+        "publishedLabel": "May 30, 2026",
+        "category": "Industry Update",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-131402539,imgsize-96174,width-1200,height=627,overlay-ethealth,resizemode-75/diagnostics/blood-test-could-help-detect-signs-of-alzheimers-disease-decades-before-symptoms-study.jpg",
+        "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
+        "justIn": false,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/diagnostics/blood-test-could-help-detect-signs-of-alzheimers-disease-decades-before-symptoms-study/131402539",
+        "articlePath": "/article.html?issue=2026-05-24&article=2026-05-24-blood-test-could-help-detect-signs-of-alzheimer-s-disease-decades-before"
+      },
       {
         "id": "2026-05-24-nit-rourkela-researchers-develop-ai-enabled-autofocusing-technology-for-",
         "title": "NIT Rourkela researchers develop AI-enabled autofocusing technology for microscopic imaging",
@@ -1132,6 +1134,40 @@
         "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/05/29/kenyan-court-suspends-us-backed-ebola-quarantine-facility-over-public-health-concerns/",
         "articlePath": "/article.html?issue=2026-05-24&article=2026-05-24-kenyan-high-court-suspends-us-backed-ebola-quarantine-facility-over-publ"
+      },
+      {
+        "id": "2026-05-24-illumina-multiomics-summit-india-highlights-potential-of-integrated-omic",
+        "title": "Illumina Multiomics Summit India highlights potential of integrated omics",
+        "summary": "Illumina Multiomics Summit India highlights potential of integrated omics",
+        "source": "BioSpectrum India Healthcare",
+        "sourceHost": "biospectrumindia.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-05-24T18:30:00.000Z",
+        "publishedLabel": "May 25, 2026",
+        "category": "Industry Update",
+        "image": "https://www.biospectrumindia.com/uploads/articles/illumina_multiomics_summit_2026___image-27848.JPG",
+        "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
+        "justIn": false,
+        "originalUrl": "https://www.biospectrumindia.com/news/16/27848/illumina-multiomics-summit-india-highlights-potential-of-integrated-omics-.html",
+        "articlePath": "/article.html?issue=2026-05-24&article=2026-05-24-illumina-multiomics-summit-india-highlights-potential-of-integrated-omic"
+      },
+      {
+        "id": "2026-05-24-nura-expands-south-india-presence-with-launch-of-preventive-health-scree",
+        "title": "NURA expands South India presence with launch of preventive health screening centre in Chennai",
+        "summary": "NURA expands South India presence with launch of preventive health screening centre in Chennai",
+        "source": "BioSpectrum India Healthcare",
+        "sourceHost": "biospectrumindia.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-05-26T18:30:00.000Z",
+        "publishedLabel": "May 27, 2026",
+        "category": "Screening",
+        "image": "https://www.biospectrumindia.com/uploads/articles/nura_chennai_inauguration-27860.jpg",
+        "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
+        "justIn": false,
+        "originalUrl": "https://www.biospectrumindia.com/news/16/27860/nura-expands-south-india-presence-with-launch-of-preventive-health-screening-centre-in-chennai.html",
+        "articlePath": "/article.html?issue=2026-05-24&article=2026-05-24-nura-expands-south-india-presence-with-launch-of-preventive-health-scree"
       }
     ],
     "healthtech": [
@@ -1213,14 +1249,6 @@
     },
     {
       "segment": "providers",
-      "articleId": "2026-05-24-after-50-hearings-court-reserves-judgement-in-daiichi-fortis-case",
-      "title": "After 50 hearings, court reserves judgement in Daiichi-Fortis case",
-      "source": "ET Healthworld Hospitals",
-      "solution": "THB Provider CRM",
-      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
-    },
-    {
-      "segment": "providers",
       "articleId": "2026-05-24-park-medi-world-to-acquire-medicity-hospital-in-rudrapur-enter-uttarakha",
       "title": "Park Medi World to acquire Medicity Hospital in Rudrapur, enter Uttarakhand",
       "source": "ET Healthworld Hospitals",
@@ -1234,6 +1262,22 @@
       "source": "Express Healthcare",
       "solution": "THB Provider CRM",
       "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
+    },
+    {
+      "segment": "providers",
+      "articleId": "2026-05-24-marengo-asia-hospitals-launches-specialised-multiple-sclerosis-clinic",
+      "title": "Marengo Asia Hospitals launches specialised multiple sclerosis clinic",
+      "source": "Express Healthcare",
+      "solution": "THB Provider CRM",
+      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
+    },
+    {
+      "segment": "diagnostics",
+      "articleId": "2026-05-24-blood-test-could-help-detect-signs-of-alzheimer-s-disease-decades-before",
+      "title": "Blood test could help detect signs of Alzheimer's disease decades before symptoms: Study",
+      "source": "ET Healthworld Diagnostics",
+      "solution": "THB Diagnostics CRM",
+      "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
     },
     {
       "segment": "diagnostics",
@@ -1263,14 +1307,6 @@
       "segment": "diagnostics",
       "articleId": "2026-05-24-nura-launches-preventive-health-screening-centre-in-chennai",
       "title": "NURA launches preventive health screening centre in Chennai",
-      "source": "Express Healthcare",
-      "solution": "THB Diagnostics CRM",
-      "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
-    },
-    {
-      "segment": "diagnostics",
-      "articleId": "2026-05-24-when-a-patient-has-already-asked-chatgpt",
-      "title": "When a patient has already asked ChatGPT",
       "source": "Express Healthcare",
       "solution": "THB Diagnostics CRM",
       "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."

@@ -5,21 +5,40 @@
   "startDate": "2026-05-30T18:30:00.000Z",
   "endDate": "2026-06-05T18:30:00.000Z",
   "status": "live",
-  "updatedAt": "2026-05-31T15:02:01.009Z",
+  "updatedAt": "2026-06-01T09:40:17.408Z",
   "coverage": {
-    "pharma": 8,
-    "providers": 1,
+    "pharma": 14,
+    "providers": 0,
     "diagnostics": 2,
     "healthtech": 0
   },
   "sourcesUsed": [
+    "ET Healthworld",
     "Economic Times Pharma",
+    "Express Healthcare",
     "Healthcare MEA",
     "Medical Dialogues Pharma",
     "Zawya Pharmaceuticals"
   ],
   "segments": {
     "pharma": [
+      {
+        "id": "2026-05-31-fda-approval-puts-wockhardt-s-zaynich-in-9-billion-antibiotics-market",
+        "title": "FDA approval puts Wockhardt’s Zaynich in $9 billion antibiotics market",
+        "summary": "Wockhardt's new antibiotic, Zaynich, has received US FDA approval. This drug uses a novel mechanism to fight drug-resistant bacteria. It targets superbugs that resist current treatments. Zaynich offers a powerful synergy to overcome resistance. The drug has a...",
+        "source": "Economic Times Pharma",
+        "sourceHost": "economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-05-31T23:31:00.000Z",
+        "publishedLabel": "June 1, 2026",
+        "category": "Approval",
+        "image": "https://img.etimg.com/thumb/msid-131429122,width-1200,height-630,imgsize-103592,overlay-economictimes/articleshow.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/fda-approval-puts-wockhardts-zaynich-in-9-billion-antibiotics-market/articleshow/131429108.cms",
+        "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-fda-approval-puts-wockhardt-s-zaynich-in-9-billion-antibiotics-market"
+      },
       {
         "id": "2026-05-31-novartis-experimental-actinium-based-drug-shows-promise-in-prostate-canc",
         "title": "Novartis experimental actinium-based drug shows promise in prostate cancer treatment: Study",
@@ -33,7 +52,7 @@
         "category": "Industry Update",
         "image": "https://img.etimg.com/thumb/msid-131422224,width-1200,height-630,imgsize-71098,overlay-economictimes/articleshow.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/novartis-experimental-actinium-based-drug-shows-promise-in-prostate-cancer-treatment-study/articleshow/131422192.cms",
         "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-novartis-experimental-actinium-based-drug-shows-promise-in-prostate-canc"
       },
@@ -50,9 +69,94 @@
         "category": "Industry Update",
         "image": "https://img.etimg.com/thumb/msid-131422818,width-1200,height-630,imgsize-59452,overlay-economictimes/articleshow.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/johnson-johnson-prostate-cancer-drug-reduces-risk-of-cancer-spread-and-death-in-late-stage-study/articleshow/131422780.cms",
         "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-johnson-and-johnson-prostate-cancer-drug-reduces-risk-of-cancer-spread-a"
+      },
+      {
+        "id": "2026-05-31-india-has-scientific-capability-to-emerge-as-global-leader-in-health-tec",
+        "title": "\"India has scientific capability to emerge as global leader in health technologies\": NITI Aayog's Gobardhan ..",
+        "summary": "The Indian Council of Medical Research (ICMR), under the Department of Health Research, Ministry of Health and Family Welfare, on Monday successfully organised \" Innovators-to-Industry (I2I) Connect\"--India's largest biomedical and technology transfer...",
+        "source": "ET Healthworld",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-06-01T01:49:41.000Z",
+        "publishedLabel": "June 1, 2026",
+        "category": "Industry Update",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-131431857,imgsize-54330,width-1200,height=627,overlay-ethealth,resizemode-75/policy/india-has-scientific-capability-to-emerge-as-global-leader-in-health-technologies-niti-aayogs-gobardhan-das.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/policy/india-has-scientific-capability-to-emerge-as-global-leader-in-health-technologies-niti-aayogs-gobardhan-das/131431857",
+        "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-india-has-scientific-capability-to-emerge-as-global-leader-in-health-tec"
+      },
+      {
+        "id": "2026-05-31-india-achieves-ai-breakthrough-in-cancer-care-with-mask-free-simulationl",
+        "title": "India achieves AI breakthrough in cancer care with mask-free, simulationless radiotherapy",
+        "summary": "Sir HN Reliance Foundation Hospital has achieved a significant medical milestone by successfully treating a head and neck cancer patient using a unique combination of Surface Guided Radiotherapy (SGRT) and adaptive radiotherapy for the first time in India.",
+        "source": "ET Healthworld",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-06-01T09:29:45.000Z",
+        "publishedLabel": "June 1, 2026",
+        "category": "Industry Update",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-131438531,imgsize-91496,width-1200,height=627,overlay-ethealth,resizemode-75/diagnostics/india-achieves-ai-breakthrough-in-cancer-care-with-mask-free-simulationless-radiotherapy.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/diagnostics/india-achieves-ai-breakthrough-in-cancer-care-with-mask-free-simulationless-radiotherapy/131438531",
+        "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-india-achieves-ai-breakthrough-in-cancer-care-with-mask-free-simulationl"
+      },
+      {
+        "id": "2026-05-31-vapes-nicotine-pouches-and-e-cigarettes-the-new-age-tobacco-habits-docto",
+        "title": "Vapes, nicotine pouches and e-cigarettes: The new-age tobacco habits doctors want young Indians to rethink",
+        "summary": "New age nicotine products like vapes and pouches are gaining popularity among youth, marketed as safer alternatives. However, experts warn of significant nicotine addiction risks, especially for developing brains. Concerns also exist regarding potential lung...",
+        "source": "ET Healthworld",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-06-01T09:07:55.000Z",
+        "publishedLabel": "June 1, 2026",
+        "category": "Market",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-131438435,imgsize-80452,width-1200,height=627,overlay-ethealth,resizemode-75/industry/vapes-nicotine-pouches-and-e-cigarettes-the-new-age-tobacco-habits-doctors-want-young-indians-to-rethink.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/vapes-nicotine-pouches-and-e-cigarettes-the-new-age-tobacco-habits-doctors-want-young-indians-to-rethink/131438435",
+        "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-vapes-nicotine-pouches-and-e-cigarettes-the-new-age-tobacco-habits-docto"
+      },
+      {
+        "id": "2026-05-31-full-vaccination-surges-from-83-8-pc-to-87-1-pc-as-malnutrition-recedes-",
+        "title": "Full vaccination surges from 83.8 pc to 87.1 pc as malnutrition recedes, reports NFHS-6",
+        "summary": "Full vaccination coverage among children aged 12-23 months increased from 83.8 per cent in 2019-21 to 87.1 per cent in 2023-24, while key child nutrition indicators such as stunting and severe wasting registered significant declines, according to the NFHS-6.",
+        "source": "ET Healthworld",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-06-01T01:59:57.000Z",
+        "publishedLabel": "June 1, 2026",
+        "category": "Industry Update",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-131431819,imgsize-172330,width-1200,height=627,overlay-ethealth,resizemode-75/policy/full-vaccination-surges-from-83-8-pc-to-87-1-pc-as-malnutrition-recedes-reports-nfhs-6.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/policy/full-vaccination-surges-from-83-8-pc-to-87-1-pc-as-malnutrition-recedes-reports-nfhs-6/131431819",
+        "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-full-vaccination-surges-from-83-8-pc-to-87-1-pc-as-malnutrition-recedes-"
+      },
+      {
+        "id": "2026-05-31-sanofi-launches-accelrare-to-reduce-india-s-rare-disease-diagnosis-chall",
+        "title": "Sanofi launches AccelRare to reduce India’s rare disease diagnosis challenge",
+        "summary": "In a country where a patient with a rare disease waits too long before receiving a correct diagnosis, Sanofi today announced the India launch of AccelRare, an AI-powered digital pre-diagnosis […]",
+        "source": "Express Healthcare",
+        "sourceHost": "expresshealthcare.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-06-01T06:35:12.000Z",
+        "publishedLabel": "June 1, 2026",
+        "category": "Launch",
+        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/06/01120447/EH_Sanofi.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://www.expresshealthcare.in/news/sanofi-launches-accelrare-to-reduce-indias-rare-disease-diagnosis-challenge/453810/",
+        "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-sanofi-launches-accelrare-to-reduce-india-s-rare-disease-diagnosis-chall"
       },
       {
         "id": "2026-05-31-who-backs-three-experimental-drugs-for-bundibugyo-ebola-outbreak-healthc",
@@ -84,7 +188,7 @@
         "category": "Manufacturing",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/05/image-1600x900-2026-05-31T102143.629.png",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/05/31/apogee-therapeutics-secures-us1-3b-blackstone-deal-for-phase-3-eczema-drug/",
         "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-apogee-therapeutics-secures-us-1-3b-blackstone-deal-for-phase-3-eczema-d"
       },
@@ -101,7 +205,7 @@
         "category": "Approval",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/05/image-1600x900-2026-05-31T103320.345.png",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/05/31/fda-clears-astrazenecas-imfinzi-bcg-combo-for-high-risk-bladder-cancer/",
         "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-fda-clears-astrazeneca-s-imfinzi-bcg-combo-for-high-risk-bladder-cancer-"
       },
@@ -118,7 +222,7 @@
         "category": "Approval",
         "image": "https://medicaldialogues.in/h-upload/2025/12/06/313075-202512073599136.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/cdsco/cdsco-announces-interim-import-approval-process-for-babe-export-studies-171703",
         "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-cdsco-announces-interim-import-approval-process-for-ba-be-export-studies"
       },
@@ -157,43 +261,8 @@
         "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-usfda-approves-mannkind-s-inhaled-insulin-afrezza-for-children-with-diab"
       }
     ],
-    "providers": [
-      {
-        "id": "2026-05-31-united-arab-emirates-uae-expresses-solidarity-with-kenya-and-conveys-con",
-        "title": "United Arab Emirates (UAE) Expresses Solidarity with Kenya and Conveys Condolences over Victims of Girls’ School Dormitory Fire",
-        "summary": "United Arab Emirates (UAE) Expresses Solidarity with Kenya and Conveys Condolences over Victims of Girls’ School Dormitory Fire",
-        "source": "Zawya Pharmaceuticals",
-        "sourceHost": "zawya.com",
-        "region": "Middle East",
-        "country": "United Arab Emirates",
-        "publishedAt": "2026-05-31T08:27:10.000Z",
-        "publishedLabel": "May 31, 2026",
-        "category": "Provider Update",
-        "image": "https://www.africa-newsroom.com/files/large/d3ab8a56ab594ce",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://www.zawya.com/en/press-release/africa-press-releases/united-arab-emirates-uae-expresses-solidarity-with-kenya-and-conveys-condolences-over-victims-of-girls-school-se5h4qjc",
-        "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-united-arab-emirates-uae-expresses-solidarity-with-kenya-and-conveys-con"
-      }
-    ],
+    "providers": [],
     "diagnostics": [
-      {
-        "id": "2026-05-31-nmdc-dredging-and-marine-localises-offshore-structural-testing-ends-over",
-        "title": "NMDC Dredging & Marine localises offshore structural testing, ends overseas reliance",
-        "summary": "The new testing facility in Abu Dhabi is expected to reduce costs and accelerate delivery timelines for marine infrastructure projects across the region.",
-        "source": "Zawya Pharmaceuticals",
-        "sourceHost": "zawya.com",
-        "region": "Middle East",
-        "country": "United Arab Emirates",
-        "publishedAt": "2026-05-31T12:40:11.000Z",
-        "publishedLabel": "May 31, 2026",
-        "category": "Industry Update",
-        "image": "https://static.zawya.com/view/acePublic/alias/contentid/93a88e07-32b6-4223-9362-538f89872e45/0/nmdccoastal-hydrodynamiccenter2-jpg.jpeg?f=3%3A2",
-        "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
-        "justIn": true,
-        "originalUrl": "https://www.zawya.com/en/projects/construction/nmdc-dredging-and-marine-localises-offshore-structural-testing-ends-overseas-reliance-ohvqzhss",
-        "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-nmdc-dredging-and-marine-localises-offshore-structural-testing-ends-over"
-      },
       {
         "id": "2026-05-31-abbott-secures-ce-mark-for-world-s-first-glucose-ketone-wearable-healthc",
         "title": "Abbott secures CE mark for world's first glucose-ketone wearable | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
@@ -210,11 +279,36 @@
         "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/05/31/abbott-secures-ce-mark-for-worlds-first-glucose-ketone-wearable/",
         "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-abbott-secures-ce-mark-for-world-s-first-glucose-ketone-wearable-healthc"
+      },
+      {
+        "id": "2026-05-31-al-ain-farms-group-commits-to-reduction-of-added-sugars-across-portfolio",
+        "title": "Al Ain Farms Group commits to reduction of added sugars across portfolios",
+        "summary": "In alignment with Abu Dhabi’s Healthy Living Strategy",
+        "source": "Zawya Pharmaceuticals",
+        "sourceHost": "zawya.com",
+        "region": "Middle East",
+        "country": "United Arab Emirates",
+        "publishedAt": "2026-06-01T09:20:56.000Z",
+        "publishedLabel": "June 1, 2026",
+        "category": "Industry Update",
+        "image": "https://static.zawya.com/view/acePublic/alias/contentid/7fbbc167-66d2-4502-bea2-7b15de242b2b/0/feb2026-aafg-healthyliving-1-jpg.jpeg?f=3%3A2",
+        "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
+        "justIn": true,
+        "originalUrl": "https://www.zawya.com/en/press-release/companies-news/al-ain-farms-group-commits-to-reduction-of-added-sugars-across-portfolios-vgnfhaex",
+        "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-al-ain-farms-group-commits-to-reduction-of-added-sugars-across-portfolio"
       }
     ],
     "healthtech": []
   },
   "thbActions": [
+    {
+      "segment": "pharma",
+      "articleId": "2026-05-31-fda-approval-puts-wockhardt-s-zaynich-in-9-billion-antibiotics-market",
+      "title": "FDA approval puts Wockhardt’s Zaynich in $9 billion antibiotics market",
+      "source": "Economic Times Pharma",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
     {
       "segment": "pharma",
       "articleId": "2026-05-31-novartis-experimental-actinium-based-drug-shows-promise-in-prostate-canc",
@@ -233,49 +327,33 @@
     },
     {
       "segment": "pharma",
-      "articleId": "2026-05-31-who-backs-three-experimental-drugs-for-bundibugyo-ebola-outbreak-healthc",
-      "title": "WHO backs three experimental drugs for Bundibugyo Ebola outbreak | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
-      "source": "Healthcare MEA",
-      "solution": "THB Commercial Analytics",
-      "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
-    },
-    {
-      "segment": "pharma",
-      "articleId": "2026-05-31-apogee-therapeutics-secures-us-1-3b-blackstone-deal-for-phase-3-eczema-d",
-      "title": "Apogee Therapeutics secures US$1.3B Blackstone deal for phase 3 eczema drug | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
-      "source": "Healthcare MEA",
-      "solution": "THB Commercial Analytics",
-      "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
-    },
-    {
-      "segment": "pharma",
-      "articleId": "2026-05-31-fda-clears-astrazeneca-s-imfinzi-bcg-combo-for-high-risk-bladder-cancer-",
-      "title": "FDA clears AstraZeneca's Imfinzi-BCG combo for high-risk bladder cancer | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
-      "source": "Healthcare MEA",
+      "articleId": "2026-05-31-india-has-scientific-capability-to-emerge-as-global-leader-in-health-tec",
+      "title": "\"India has scientific capability to emerge as global leader in health technologies\": NITI Aayog's Gobardhan ..",
+      "source": "ET Healthworld",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
     },
     {
-      "segment": "providers",
-      "articleId": "2026-05-31-united-arab-emirates-uae-expresses-solidarity-with-kenya-and-conveys-con",
-      "title": "United Arab Emirates (UAE) Expresses Solidarity with Kenya and Conveys Condolences over Victims of Girls’ School Dormitory Fire",
-      "source": "Zawya Pharmaceuticals",
-      "solution": "THB Provider CRM",
-      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
-    },
-    {
-      "segment": "diagnostics",
-      "articleId": "2026-05-31-nmdc-dredging-and-marine-localises-offshore-structural-testing-ends-over",
-      "title": "NMDC Dredging & Marine localises offshore structural testing, ends overseas reliance",
-      "source": "Zawya Pharmaceuticals",
-      "solution": "THB Diagnostics CRM",
-      "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
+      "segment": "pharma",
+      "articleId": "2026-05-31-india-achieves-ai-breakthrough-in-cancer-care-with-mask-free-simulationl",
+      "title": "India achieves AI breakthrough in cancer care with mask-free, simulationless radiotherapy",
+      "source": "ET Healthworld",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
     },
     {
       "segment": "diagnostics",
       "articleId": "2026-05-31-abbott-secures-ce-mark-for-world-s-first-glucose-ketone-wearable-healthc",
       "title": "Abbott secures CE mark for world's first glucose-ketone wearable | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
       "source": "Healthcare MEA",
+      "solution": "THB Diagnostics CRM",
+      "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
+    },
+    {
+      "segment": "diagnostics",
+      "articleId": "2026-05-31-al-ain-farms-group-commits-to-reduction-of-added-sugars-across-portfolio",
+      "title": "Al Ain Farms Group commits to reduction of added sugars across portfolios",
+      "source": "Zawya Pharmaceuticals",
       "solution": "THB Diagnostics CRM",
       "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
     }
