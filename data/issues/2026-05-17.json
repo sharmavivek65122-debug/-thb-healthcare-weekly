@@ -5,55 +5,20 @@
   "startDate": "2026-05-16T18:30:00.000Z",
   "endDate": "2026-05-22T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-06-01T09:40:17.408Z",
+  "updatedAt": "2026-06-01T19:09:23.354Z",
   "coverage": {
-    "pharma": 3,
-    "providers": 5,
+    "pharma": 1,
+    "providers": 6,
     "diagnostics": 2,
     "healthtech": 0
   },
   "sourcesUsed": [
     "ET Healthworld Diagnostics",
     "ET Healthworld Hospitals",
-    "Economic Times Pharma",
     "Lupin Updates"
   ],
   "segments": {
     "pharma": [
-      {
-        "id": "2026-05-17-venus-remedies-gets-saudi-fda-approval-for-speciality-oncology-therapy",
-        "title": "Venus Remedies gets Saudi FDA approval for speciality oncology therapy",
-        "summary": "Venus Remedies Limited has secured its first global marketing authorization for its specialty oncology therapy, Plerixafor, from the Saudi Food and Drug Authority (SFDA). This hematopoietic stem cell mobilizer is crucial for patients undergoing stem cell...",
-        "source": "Economic Times Pharma",
-        "sourceHost": "economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-05-23T06:06:45.000Z",
-        "publishedLabel": "May 23, 2026",
-        "category": "Approval",
-        "image": "https://img.etimg.com/thumb/msid-131273114,width-1200,height-630,imgsize-30772,overlay-economictimes/articleshow.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/venus-remedies-gets-saudi-fda-approval-for-speciality-oncology-therapy/articleshow/131273028.cms",
-        "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-venus-remedies-gets-saudi-fda-approval-for-speciality-oncology-therapy"
-      },
-      {
-        "id": "2026-05-17-sun-pharma-sees-steady-fy27-growth-progresses-11-75-bn-organon-integrati",
-        "title": "Sun Pharma sees steady FY27 growth, progresses $11.75 bn Organon integration deal",
-        "summary": "Sun Pharma anticipates strong growth in the coming years. The company expects a high single-digit increase in its overall sales by FY2027. Significant progress is being made on the acquisition of Organon, with completion targeted for the last quarter of...",
-        "source": "Economic Times Pharma",
-        "sourceHost": "economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-05-22T19:29:41.000Z",
-        "publishedLabel": "May 23, 2026",
-        "category": "Deal",
-        "image": "https://img.etimg.com/thumb/msid-131267800,width-1200,height-630,imgsize-62874,overlay-economictimes/articleshow.jpg",
-        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": false,
-        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/sun-pharma-sees-steady-fy27-growth-progresses-11-75-bn-organon-integration-deal/articleshow/131267780.cms",
-        "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-sun-pharma-sees-steady-fy27-growth-progresses-11-75-bn-organon-integrati"
-      },
       {
         "id": "2026-05-17-bernstein-initiates-coverage-on-6-pharma-stocks-cites-3-major-tailwinds-",
         "title": "Bernstein initiates coverage on 6 pharma stocks, cites 3 major tailwinds for healthcare sector",
@@ -157,6 +122,23 @@
         "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/hcg-opens-new-bengaluru-facility-with-rs-129-crore-investment/131213171",
         "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-hcg-opens-new-bengaluru-facility-with-rs-129-crore-investment"
+      },
+      {
+        "id": "2026-05-17-max-healthcare-to-set-up-712-bed-facility-in-lucknow-for-1-400-cr",
+        "title": "Max Healthcare to set up 712-bed facility in Lucknow for ₹1,400 cr",
+        "summary": "The planned project will be the company’s second hospital in the city and is expected to be commissioned in FY30.",
+        "source": "ET Healthworld Hospitals",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-05-22T06:28:50.000Z",
+        "publishedLabel": "May 22, 2026",
+        "category": "Hospital",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-131258271,imgsize-666702,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/max-healthcare-to-set-up-712-bed-facility-in-lucknow-for-1400-cr.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": false,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/max-healthcare-to-set-up-712-bed-facility-in-lucknow-for-1400-cr/131258271",
+        "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-max-healthcare-to-set-up-712-bed-facility-in-lucknow-for-1-400-cr"
       }
     ],
     "diagnostics": [
@@ -198,22 +180,6 @@
     "healthtech": []
   },
   "thbActions": [
-    {
-      "segment": "pharma",
-      "articleId": "2026-05-17-venus-remedies-gets-saudi-fda-approval-for-speciality-oncology-therapy",
-      "title": "Venus Remedies gets Saudi FDA approval for speciality oncology therapy",
-      "source": "Economic Times Pharma",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
-      "segment": "pharma",
-      "articleId": "2026-05-17-sun-pharma-sees-steady-fy27-growth-progresses-11-75-bn-organon-integrati",
-      "title": "Sun Pharma sees steady FY27 growth, progresses $11.75 bn Organon integration deal",
-      "source": "Economic Times Pharma",
-      "solution": "THB Commercial Analytics",
-      "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
-    },
     {
       "segment": "pharma",
       "articleId": "2026-05-17-bernstein-initiates-coverage-on-6-pharma-stocks-cites-3-major-tailwinds-",

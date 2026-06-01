@@ -5,11 +5,11 @@
   "startDate": "2026-05-30T18:30:00.000Z",
   "endDate": "2026-06-05T18:30:00.000Z",
   "status": "live",
-  "updatedAt": "2026-06-01T09:40:17.408Z",
+  "updatedAt": "2026-06-01T19:09:23.354Z",
   "coverage": {
-    "pharma": 14,
+    "pharma": 22,
     "providers": 0,
-    "diagnostics": 2,
+    "diagnostics": 1,
     "healthtech": 0
   },
   "sourcesUsed": [
@@ -18,7 +18,7 @@
     "Express Healthcare",
     "Healthcare MEA",
     "Medical Dialogues Pharma",
-    "Zawya Pharmaceuticals"
+    "PharmaTutor News"
   ],
   "segments": {
     "pharma": [
@@ -35,7 +35,7 @@
         "category": "Approval",
         "image": "https://img.etimg.com/thumb/msid-131429122,width-1200,height-630,imgsize-103592,overlay-economictimes/articleshow.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/fda-approval-puts-wockhardts-zaynich-in-9-billion-antibiotics-market/articleshow/131429108.cms",
         "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-fda-approval-puts-wockhardt-s-zaynich-in-9-billion-antibiotics-market"
       },
@@ -55,6 +55,40 @@
         "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/novartis-experimental-actinium-based-drug-shows-promise-in-prostate-cancer-treatment-study/articleshow/131422192.cms",
         "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-novartis-experimental-actinium-based-drug-shows-promise-in-prostate-canc"
+      },
+      {
+        "id": "2026-05-31-delhi-hc-allows-intas-to-sell-cancer-drug-bevatas-sets-aside-order-favou",
+        "title": "Delhi HC allows Intas to sell cancer drug Bevatas, sets aside order favouring Sun Pharma",
+        "summary": "The Delhi High Court division bench has ruled in favor of Intas Pharmaceuticals, allowing the company to introduce its anti-cancer medication, Bevatas, to the market. This decision overturns a previous block on the drug, affirming the court's view that...",
+        "source": "Economic Times Pharma",
+        "sourceHost": "economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-06-01T18:35:11.000Z",
+        "publishedLabel": "June 2, 2026",
+        "category": "Market",
+        "image": "https://img.etimg.com/thumb/msid-131449032,width-1200,height-630,imgsize-80942,overlay-economictimes/articleshow.jpg",
+        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
+        "justIn": true,
+        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/delhi-hc-allows-intas-to-sell-cancer-drug-bevatas-sets-aside-order-favouring-sun-pharma/articleshow/131449013.cms",
+        "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-delhi-hc-allows-intas-to-sell-cancer-drug-bevatas-sets-aside-order-favou"
+      },
+      {
+        "id": "2026-05-31-if-you-have-the-patience-you-can-achieve-innovation-milestones-says-wock",
+        "title": "If you have the patience, you can achieve innovation milestones, says Wockhardt chairman Habil Khorakiwala",
+        "summary": "Wockhardt Hospitals is set to launch its antibiotic Zaynich in the US. Zahabiya Khorakiwala will lead US operations. The drug is expected to generate $1.5-2 billion in peak annual sales within 4-6 years. Wockhardt aims for a 20% share of the AMR market. The...",
+        "source": "Economic Times Pharma",
+        "sourceHost": "economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-06-01T18:31:09.000Z",
+        "publishedLabel": "June 2, 2026",
+        "category": "Market",
+        "image": "https://img.etimg.com/thumb/msid-131448984,width-1200,height-630,imgsize-43372,overlay-economictimes/articleshow.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/if-you-have-the-patience-you-can-achieve-innovation-milestones-says-wockhardt-chairman-habil-khorakiwala/articleshow/131448955.cms",
+        "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-if-you-have-the-patience-you-can-achieve-innovation-milestones-says-wock"
       },
       {
         "id": "2026-05-31-johnson-and-johnson-prostate-cancer-drug-reduces-risk-of-cancer-spread-a",
@@ -86,7 +120,7 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-131431857,imgsize-54330,width-1200,height=627,overlay-ethealth,resizemode-75/policy/india-has-scientific-capability-to-emerge-as-global-leader-in-health-technologies-niti-aayogs-gobardhan-das.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/policy/india-has-scientific-capability-to-emerge-as-global-leader-in-health-technologies-niti-aayogs-gobardhan-das/131431857",
         "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-india-has-scientific-capability-to-emerge-as-global-leader-in-health-tec"
       },
@@ -103,7 +137,7 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-131438531,imgsize-91496,width-1200,height=627,overlay-ethealth,resizemode-75/diagnostics/india-achieves-ai-breakthrough-in-cancer-care-with-mask-free-simulationless-radiotherapy.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/diagnostics/india-achieves-ai-breakthrough-in-cancer-care-with-mask-free-simulationless-radiotherapy/131438531",
         "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-india-achieves-ai-breakthrough-in-cancer-care-with-mask-free-simulationl"
       },
@@ -120,7 +154,7 @@
         "category": "Market",
         "image": "https://etimg.etb2bimg.com/thumb/msid-131438435,imgsize-80452,width-1200,height=627,overlay-ethealth,resizemode-75/industry/vapes-nicotine-pouches-and-e-cigarettes-the-new-age-tobacco-habits-doctors-want-young-indians-to-rethink.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/vapes-nicotine-pouches-and-e-cigarettes-the-new-age-tobacco-habits-doctors-want-young-indians-to-rethink/131438435",
         "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-vapes-nicotine-pouches-and-e-cigarettes-the-new-age-tobacco-habits-docto"
       },
@@ -137,9 +171,26 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-131431819,imgsize-172330,width-1200,height=627,overlay-ethealth,resizemode-75/policy/full-vaccination-surges-from-83-8-pc-to-87-1-pc-as-malnutrition-recedes-reports-nfhs-6.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/policy/full-vaccination-surges-from-83-8-pc-to-87-1-pc-as-malnutrition-recedes-reports-nfhs-6/131431819",
         "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-full-vaccination-surges-from-83-8-pc-to-87-1-pc-as-malnutrition-recedes-"
+      },
+      {
+        "id": "2026-05-31-who-chief-visits-epicenter-of-the-ebola-outbreak-in-eastern-congo-as-cas",
+        "title": "WHO chief visits epicenter of the Ebola outbreak in eastern Congo as cases outpace response",
+        "summary": "\"The Democratic Republic of Congo has faced Ebola before, 16 times, and has ended every outbreak. This is the 17th. That history gives me real confidence,\" Tedros said during a news conference Saturday alongside Congo's health minister.",
+        "source": "ET Healthworld",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-06-01T01:42:10.000Z",
+        "publishedLabel": "June 1, 2026",
+        "category": "Industry Update",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-131431932,imgsize-203650,width-1200,height=627,overlay-ethealth,resizemode-75/industry/who-chief-visits-epicenter-of-the-ebola-outbreak-in-eastern-congo-as-cases-outpace-response.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/who-chief-visits-epicenter-of-the-ebola-outbreak-in-eastern-congo-as-cases-outpace-response/131431932",
+        "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-who-chief-visits-epicenter-of-the-ebola-outbreak-in-eastern-congo-as-cas"
       },
       {
         "id": "2026-05-31-sanofi-launches-accelrare-to-reduce-india-s-rare-disease-diagnosis-chall",
@@ -154,7 +205,7 @@
         "category": "Launch",
         "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/06/01120447/EH_Sanofi.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/news/sanofi-launches-accelrare-to-reduce-indias-rare-disease-diagnosis-challenge/453810/",
         "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-sanofi-launches-accelrare-to-reduce-india-s-rare-disease-diagnosis-chall"
       },
@@ -193,6 +244,57 @@
         "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-apogee-therapeutics-secures-us-1-3b-blackstone-deal-for-phase-3-eczema-d"
       },
       {
+        "id": "2026-05-31-nppa-caps-prices-of-30-formulations-including-empagliflozin-sitagliptin-",
+        "title": "NPPA Caps Prices of 30 Formulations Including Empagliflozin-Sitagliptin-Metformin,Vitamin D3 Products",
+        "summary": "New Delhi: The National Pharmaceutical Pricing Authority (NPPA), under the Ministry of Chemicals and Fertilizers, Government of India, has fixed the retail prices of 30 new drug formulations under the...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-06-01T18:32:30.000Z",
+        "publishedLabel": "June 2, 2026",
+        "category": "Industry Update",
+        "image": "https://medicaldialogues.in/h-upload/2024/06/07/240453-price-fixation-3.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/nppa-caps-prices-of-30-formulations-including-empagliflozin-sitagliptin-metformin-bilastine-montelukast-and-vitamin-d3-products-171821",
+        "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-nppa-caps-prices-of-30-formulations-including-empagliflozin-sitagliptin-"
+      },
+      {
+        "id": "2026-05-31-shilpa-medicare-s-bengaluru-unit-receives-5-usfda-observations-following",
+        "title": "Shilpa Medicare's Bengaluru Unit Receives 5 USFDA Observations Following PAI",
+        "summary": "Hyderabad: Shilpa Medicare Limited has announced that the United States Food and Drug Administration (USFDA) conducted a Pre-Approval Inspection (PAI) at its Unit VI facility. The inspection concluded...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-06-01T18:06:06.000Z",
+        "publishedLabel": "June 1, 2026",
+        "category": "Approval",
+        "image": "https://medicaldialogues.in/h-upload/2023/01/10/197259-shilpa-medicare-1.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/shilpa-medicares-bengaluru-unit-receives-5-usfda-observations-following-pai-171820",
+        "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-shilpa-medicare-s-bengaluru-unit-receives-5-usfda-observations-following"
+      },
+      {
+        "id": "2026-05-31-marksans-pharma-acquires-dutch-firm-qliniq-bv-expands-eu-footprint",
+        "title": "Marksans Pharma Acquires Dutch Firm QliniQ BV, Expands EU Footprint",
+        "summary": "Mumbai: Marksans Pharma Ltd has announced the acquisition of 100% share capital of Netherlands-based pharmaceutical company QliniQ B.V. in a strategic move aimed at strengthening its presence across...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-06-01T17:59:33.000Z",
+        "publishedLabel": "June 1, 2026",
+        "category": "Industry Update",
+        "image": "https://medicaldialogues.in/h-upload/2024/05/28/239475-marksans-pharma-50.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/marksans-pharma-acquires-dutch-firm-qliniq-bv-expands-eu-footprint-171819",
+        "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-marksans-pharma-acquires-dutch-firm-qliniq-bv-expands-eu-footprint"
+      },
+      {
         "id": "2026-05-31-fda-clears-astrazeneca-s-imfinzi-bcg-combo-for-high-risk-bladder-cancer-",
         "title": "FDA clears AstraZeneca's Imfinzi-BCG combo for high-risk bladder cancer | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
         "summary": "The decision expands Imfinzi’s bladder cancer footprint beyond its earlier approval in muscle-invasive bladder cancer (MIBC), where it is used with chemotherapy agents’ gemcitabine and cisplatin b ...",
@@ -227,6 +329,23 @@
         "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-cdsco-announces-interim-import-approval-process-for-ba-be-export-studies"
       },
       {
+        "id": "2026-05-31-johnson-and-johnson-reports-encouraging-late-stage-results-for-novel-hea",
+        "title": "Johnson & Johnson Reports Encouraging Late-Stage Results for Novel Head and Neck Cancer Therapy",
+        "summary": "OrigAMI-4 study shows strong tumor responses in patients with recurrent or metastatic head and neck cancer after standard treatments fail. Johnson & Johnson has announced promising clinical results for its investigational therapy RYBREVANT FASPRO (amivantamab...",
+        "source": "PharmaTutor News",
+        "sourceHost": "pharmatutor.org",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-06-01T11:05:20.000Z",
+        "publishedLabel": "June 1, 2026",
+        "category": "Industry Update",
+        "image": "https://www.pharmatutor.org/sites/default/files/styles/webp/public/2026-06/johnson-and-johnson-reports-encouraging-late-stage-results-for-novel-head-and-neck-cancer-therapy.jpg.webp?itok=rGBPsYoc",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/johnson-and-johnson-reports-encouraging-late-stage-results-for-novel-head-and-neck-cancer-therapy",
+        "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-johnson-and-johnson-reports-encouraging-late-stage-results-for-novel-hea"
+      },
+      {
         "id": "2026-05-31-maharashtra-fda-cracks-down-on-misleading-drug-claims-seizes-medicines-w",
         "title": "Maharashtra FDA Cracks Down on Misleading Drug Claims, Seizes Medicines Worth Rs 73 Lakh",
         "summary": "New Delhi: The Maharashtra Food and Drug Administration (FDA) has seized medicines worth around Rs 73 lakh during a statewide crackdown against misleading and objectionable pharmaceutical products...",
@@ -242,6 +361,23 @@
         "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/maharashtra-fda-cracks-down-on-misleading-drug-claims-seizes-medicines-worth-rs-73-lakh-171726",
         "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-maharashtra-fda-cracks-down-on-misleading-drug-claims-seizes-medicines-w"
+      },
+      {
+        "id": "2026-05-31-alembic-pharma-appoints-ex-cipla-sun-pharma-veteran-ramesh-juneja-as-evp",
+        "title": "Alembic Pharma Appoints Ex-Cipla, Sun Pharma Veteran Ramesh Juneja as EVP for India Business",
+        "summary": "New Delhi: Alembic Pharmaceuticals has recently announced the appointment of Ramesh Juneja as Executive Vice President, Human Health (Sales and Marketing), for its India business.Juneja brings over...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-06-01T17:35:29.000Z",
+        "publishedLabel": "June 1, 2026",
+        "category": "Market",
+        "image": "https://medicaldialogues.in/h-upload/2026/06/01/351261-alembic-pharma.jpg",
+        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
+        "justIn": true,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/alembic-pharma-appoints-ex-cipla-sun-pharma-veteran-ramesh-juneja-as-evp-for-india-business-171817",
+        "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-alembic-pharma-appoints-ex-cipla-sun-pharma-veteran-ramesh-juneja-as-evp"
       },
       {
         "id": "2026-05-31-usfda-approves-mannkind-s-inhaled-insulin-afrezza-for-children-with-diab",
@@ -279,23 +415,6 @@
         "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/05/31/abbott-secures-ce-mark-for-worlds-first-glucose-ketone-wearable/",
         "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-abbott-secures-ce-mark-for-world-s-first-glucose-ketone-wearable-healthc"
-      },
-      {
-        "id": "2026-05-31-al-ain-farms-group-commits-to-reduction-of-added-sugars-across-portfolio",
-        "title": "Al Ain Farms Group commits to reduction of added sugars across portfolios",
-        "summary": "In alignment with Abu Dhabi’s Healthy Living Strategy",
-        "source": "Zawya Pharmaceuticals",
-        "sourceHost": "zawya.com",
-        "region": "Middle East",
-        "country": "United Arab Emirates",
-        "publishedAt": "2026-06-01T09:20:56.000Z",
-        "publishedLabel": "June 1, 2026",
-        "category": "Industry Update",
-        "image": "https://static.zawya.com/view/acePublic/alias/contentid/7fbbc167-66d2-4502-bea2-7b15de242b2b/0/feb2026-aafg-healthyliving-1-jpg.jpeg?f=3%3A2",
-        "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
-        "justIn": true,
-        "originalUrl": "https://www.zawya.com/en/press-release/companies-news/al-ain-farms-group-commits-to-reduction-of-added-sugars-across-portfolios-vgnfhaex",
-        "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-al-ain-farms-group-commits-to-reduction-of-added-sugars-across-portfolio"
       }
     ],
     "healthtech": []
@@ -319,25 +438,25 @@
     },
     {
       "segment": "pharma",
-      "articleId": "2026-05-31-johnson-and-johnson-prostate-cancer-drug-reduces-risk-of-cancer-spread-a",
-      "title": "Johnson & ​Johnson prostate cancer drug reduces risk of cancer spread and death in late-stage study",
+      "articleId": "2026-05-31-delhi-hc-allows-intas-to-sell-cancer-drug-bevatas-sets-aside-order-favou",
+      "title": "Delhi HC allows Intas to sell cancer drug Bevatas, sets aside order favouring Sun Pharma",
+      "source": "Economic Times Pharma",
+      "solution": "THB Commercial Analytics",
+      "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
+    },
+    {
+      "segment": "pharma",
+      "articleId": "2026-05-31-if-you-have-the-patience-you-can-achieve-innovation-milestones-says-wock",
+      "title": "If you have the patience, you can achieve innovation milestones, says Wockhardt chairman Habil Khorakiwala",
       "source": "Economic Times Pharma",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
     },
     {
       "segment": "pharma",
-      "articleId": "2026-05-31-india-has-scientific-capability-to-emerge-as-global-leader-in-health-tec",
-      "title": "\"India has scientific capability to emerge as global leader in health technologies\": NITI Aayog's Gobardhan ..",
-      "source": "ET Healthworld",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
-      "segment": "pharma",
-      "articleId": "2026-05-31-india-achieves-ai-breakthrough-in-cancer-care-with-mask-free-simulationl",
-      "title": "India achieves AI breakthrough in cancer care with mask-free, simulationless radiotherapy",
-      "source": "ET Healthworld",
+      "articleId": "2026-05-31-johnson-and-johnson-prostate-cancer-drug-reduces-risk-of-cancer-spread-a",
+      "title": "Johnson & ​Johnson prostate cancer drug reduces risk of cancer spread and death in late-stage study",
+      "source": "Economic Times Pharma",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
     },
@@ -346,14 +465,6 @@
       "articleId": "2026-05-31-abbott-secures-ce-mark-for-world-s-first-glucose-ketone-wearable-healthc",
       "title": "Abbott secures CE mark for world's first glucose-ketone wearable | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
       "source": "Healthcare MEA",
-      "solution": "THB Diagnostics CRM",
-      "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
-    },
-    {
-      "segment": "diagnostics",
-      "articleId": "2026-05-31-al-ain-farms-group-commits-to-reduction-of-added-sugars-across-portfolio",
-      "title": "Al Ain Farms Group commits to reduction of added sugars across portfolios",
-      "source": "Zawya Pharmaceuticals",
       "solution": "THB Diagnostics CRM",
       "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
     }
