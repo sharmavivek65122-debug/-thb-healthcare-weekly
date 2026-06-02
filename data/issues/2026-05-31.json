@@ -5,14 +5,15 @@
   "startDate": "2026-05-30T18:30:00.000Z",
   "endDate": "2026-06-05T18:30:00.000Z",
   "status": "live",
-  "updatedAt": "2026-06-02T08:51:41.987Z",
+  "updatedAt": "2026-06-02T17:52:15.823Z",
   "coverage": {
-    "pharma": 22,
-    "providers": 3,
+    "pharma": 32,
+    "providers": 0,
     "diagnostics": 1,
-    "healthtech": 0
+    "healthtech": 1
   },
   "sourcesUsed": [
+    "BioSpectrum Asia Middle East",
     "ET Healthworld",
     "Economic Times Pharma",
     "Express Healthcare",
@@ -20,8 +21,7 @@
     "Healthcare MEA",
     "Janssen India Media",
     "Medical Dialogues Pharma",
-    "PharmaTutor News",
-    "Zawya Pharmaceuticals"
+    "PharmaTutor News"
   ],
   "segments": {
     "pharma": [
@@ -58,6 +58,23 @@
         "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/novartis-experimental-actinium-based-drug-shows-promise-in-prostate-cancer-treatment-study/articleshow/131422192.cms",
         "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-novartis-experimental-actinium-based-drug-shows-promise-in-prostate-canc"
+      },
+      {
+        "id": "2026-05-31-alkem-rolls-out-single-shot-semaglutide-syringes-at-rs-350-for-diabetes-",
+        "title": "Alkem rolls out single-shot semaglutide syringes at Rs 350 for diabetes, weight loss",
+        "summary": "Alkem Laboratories has launched semaglutide in single-shot pre-filled syringes in India. This makes treatment more accessible and affordable for diabetes and obesity management. The company is the first in India to offer this convenient format. This move...",
+        "source": "Economic Times Pharma",
+        "sourceHost": "economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-06-02T09:58:48.000Z",
+        "publishedLabel": "June 2, 2026",
+        "category": "Launch",
+        "image": "https://img.etimg.com/thumb/msid-131460893,width-1200,height-630,imgsize-44394,overlay-economictimes/articleshow.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/alkem-rolls-out-single-shot-semaglutide-syringes-at-rs-350-for-diabetes-weight-loss/articleshow/131460771.cms",
+        "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-alkem-rolls-out-single-shot-semaglutide-syringes-at-rs-350-for-diabetes-"
       },
       {
         "id": "2026-05-31-delhi-hc-allows-intas-to-sell-cancer-drug-bevatas-sets-aside-order-favou",
@@ -123,26 +140,26 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-131457824,imgsize-252678,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/kgmu-to-file-fir-against-4-employees-over-rs-2-5-crore-medicine-procurement-irregularities.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/kgmu-to-file-fir-against-4-employees-over-rs-2-5-crore-medicine-procurement-irregularities/131457824",
         "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-kgmu-to-file-fir-against-4-employees-over-rs-2-5-crore-medicine-procurem"
       },
       {
-        "id": "2026-05-31-india-achieves-ai-breakthrough-in-cancer-care-with-mask-free-simulationl",
-        "title": "India achieves AI breakthrough in cancer care with mask-free, simulationless radiotherapy",
-        "summary": "Sir HN Reliance Foundation Hospital has achieved a significant medical milestone by successfully treating a head and neck cancer patient using a unique combination of Surface Guided Radiotherapy (SGRT) and adaptive radiotherapy for the first time in India.",
-        "source": "ET Healthworld",
-        "sourceHost": "health.economictimes.indiatimes.com",
+        "id": "2026-05-31-build-trust-in-quality-and-reliability-into-healthcare-manufacturing-to-",
+        "title": "Build trust in quality and reliability into healthcare manufacturing to drive a societal transition to a circular economy",
+        "summary": "According to the WHO, an estimated 16 billion injections are administered worldwide each year, yet not all the needles and syringes are properly disposed of afterwards. In fact, like many […]",
+        "source": "Express Healthcare",
+        "sourceHost": "expresshealthcare.in",
         "region": "India",
         "country": "India",
-        "publishedAt": "2026-06-01T09:29:45.000Z",
-        "publishedLabel": "June 1, 2026",
-        "category": "Industry Update",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-131438531,imgsize-91496,width-1200,height=627,overlay-ethealth,resizemode-75/diagnostics/india-achieves-ai-breakthrough-in-cancer-care-with-mask-free-simulationless-radiotherapy.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/diagnostics/india-achieves-ai-breakthrough-in-cancer-care-with-mask-free-simulationless-radiotherapy/131438531",
-        "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-india-achieves-ai-breakthrough-in-cancer-care-with-mask-free-simulationl"
+        "publishedAt": "2026-06-02T09:02:08.000Z",
+        "publishedLabel": "June 2, 2026",
+        "category": "Manufacturing",
+        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/06/02143243/EP_Courtney_Soulsby_BSI_750.jpg",
+        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
+        "justIn": true,
+        "originalUrl": "https://www.expresshealthcare.in/news/build-trust-in-quality-and-reliability-into-healthcare-manufacturing-to-drive-a-societal-transition-to-a-circular-economy/453817/",
+        "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-build-trust-in-quality-and-reliability-into-healthcare-manufacturing-to-"
       },
       {
         "id": "2026-05-31-sanofi-launches-accelrare-to-reduce-india-s-rare-disease-diagnosis-chall",
@@ -174,7 +191,7 @@
         "category": "Market",
         "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/06/02133545/EH_Indranil.jpg",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/news/poly-medicure-appoints-indranil-mukherjee-as-ceo-asia-pacific-and-india/453814/",
         "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-poly-medicure-appoints-indranil-mukherjee-as-ceo-asia-pacific-and-india"
       },
@@ -191,7 +208,7 @@
         "category": "Industry Update",
         "image": "https://images.financialexpressdigital.com/2026/05/brityain-could-face-100-tariff-on-pharma_20260207120201_20260531124741.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.financialexpress.com/business/healthcare/nppa-imposes-price-caps-on-30-new-drugs/4255656/",
         "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-nppa-imposes-price-caps-on-30-new-drugs"
       },
@@ -213,6 +230,23 @@
         "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-who-backs-three-experimental-drugs-for-bundibugyo-ebola-outbreak-healthc"
       },
       {
+        "id": "2026-05-31-cdmos-and-atmp-growth-upswing-in-apac",
+        "title": "CDMOs & ATMP Growth Upswing in APAC",
+        "summary": "CDMOs & ATMP Growth Upswing in APAC",
+        "source": "BioSpectrum Asia Middle East",
+        "sourceHost": "biospectrumasia.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-06-01T18:30:00.000Z",
+        "publishedLabel": "June 2, 2026",
+        "category": "Industry Update",
+        "image": "https://www.biospectrumasia.com/uploads/articles/1-27704.jpg",
+        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
+        "justIn": true,
+        "originalUrl": "https://www.biospectrumasia.com/analysis/38/27704/cdmos-atmp-growth-upswing-in-apac.html",
+        "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-cdmos-and-atmp-growth-upswing-in-apac"
+      },
+      {
         "id": "2026-05-31-johnson-and-johnson-s-phase-3-prostate-cancer-study-shows-erleada-apalut",
         "title": "Johnson & Johnson’s Phase 3 prostate cancer study shows ERLEADA® (apalutamide) before and after surgery significantly reduces risk of metastasis or death, breaking a decades-long treatment paradigm",
         "summary": "• Patients were nine times more likely to have little to no cancer remaining in the prostate after surgery, with a 20% reduction in the risk of developing metastasis or death • Data selected to open the plenary presentation at ASCO 2026 and published in The...",
@@ -225,7 +259,7 @@
         "category": "Industry Update",
         "image": "https://jnj-content-lab2.brightspotcdn.com/ac/25/bd2078f54d5992dd486ed26140ce/johnson-johnson-logo.svg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.jnj.com/media-center/press-releases/johnson-johnson-phase-3-prostate-cancer-study-shows-erleada-apalutamide-before-and-after-surgery-significantly-reduces-risk-of-metastasis-or-death-breaking-a-decades-long-treatment-paradigm",
         "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-johnson-and-johnson-s-phase-3-prostate-cancer-study-shows-erleada-apalut"
       },
@@ -315,6 +349,23 @@
         "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-fda-clears-astrazeneca-s-imfinzi-bcg-combo-for-high-risk-bladder-cancer-"
       },
       {
+        "id": "2026-05-31-fda-approves-shionogi-s-xocova-as-first-oral-drug-to-prevent-covid-19-af",
+        "title": "FDA Approves Shionogi’s Xocova as First Oral Drug to Prevent COVID-19 After Exposure",
+        "summary": "The U.S. Food and Drug Administration (FDA) has approved Xocova (ensitrelvir), developed by Japanese pharmaceutical company Shionogi & Co., for the prevention of COVID-19 following exposure to an infected individual. The approval makes Xocova the first and...",
+        "source": "PharmaTutor News",
+        "sourceHost": "pharmatutor.org",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-06-02T11:26:26.000Z",
+        "publishedLabel": "June 2, 2026",
+        "category": "Approval",
+        "image": "https://www.pharmatutor.org/sites/default/files/styles/webp/public/2026-06/fda-approves-shionogis-xocova-as-first-oral-drug-to-prevent-covid-19-after-exposure.jpg.webp?itok=TNoAyyUe",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/fda-approves-shionogis-xocova-as-first-oral-drug-to-prevent-covid-19-after-exposure",
+        "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-fda-approves-shionogi-s-xocova-as-first-oral-drug-to-prevent-covid-19-af"
+      },
+      {
         "id": "2026-05-31-cdsco-announces-interim-import-approval-process-for-ba-be-export-studies",
         "title": "CDSCO Announces Interim Import Approval Process for BA/BE Export Studies",
         "summary": "New Delhi: The Central Drugs Standard Control Organisation (CDSCO) has issued a notice outlining the interim procedure for obtaining Form CT-16 applications through the National Single Window System...",
@@ -330,6 +381,40 @@
         "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/cdsco/cdsco-announces-interim-import-approval-process-for-babe-export-studies-171703",
         "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-cdsco-announces-interim-import-approval-process-for-ba-be-export-studies"
+      },
+      {
+        "id": "2026-05-31-how-space-medicine-is-rewriting-healthcare",
+        "title": "How Space Medicine Is Rewriting Healthcare",
+        "summary": "How Space Medicine Is Rewriting Healthcare",
+        "source": "BioSpectrum Asia Middle East",
+        "sourceHost": "biospectrumasia.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-06-01T18:30:00.000Z",
+        "publishedLabel": "June 2, 2026",
+        "category": "Industry Update",
+        "image": "https://www.biospectrumasia.com/uploads/articles/3-27705.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://www.biospectrumasia.com/analysis/29/27705/how-space-medicine-is-rewriting-healthcare.html",
+        "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-how-space-medicine-is-rewriting-healthcare"
+      },
+      {
+        "id": "2026-05-31-cbi-objects-court-clears-foreign-trip-for-accused-in-rs-1-600-cr-pharma-",
+        "title": "CBI Objects, Court Clears Foreign Trip for Accused in Rs 1,600-Cr Pharma Fraud Case",
+        "summary": "New Delhi: A special CBI court in Chandigarh has granted permission to Vineet Gupta, one of the accused in the alleged Rs 1,600-crore bank fraud case linked to Chandigarh-based pharmaceutical company...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-06-02T17:43:01.000Z",
+        "publishedLabel": "June 2, 2026",
+        "category": "Industry Update",
+        "image": "https://medicaldialogues.in/h-upload/2026/05/02/344971-fraud-4.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/cbi-objects-court-clears-foreign-trip-for-accused-in-rs-1600-cr-pharma-fraud-case-171911",
+        "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-cbi-objects-court-clears-foreign-trip-for-accused-in-rs-1-600-cr-pharma-"
       },
       {
         "id": "2026-05-31-johnson-and-johnson-reports-encouraging-late-stage-results-for-novel-hea",
@@ -366,6 +451,23 @@
         "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-maharashtra-fda-cracks-down-on-misleading-drug-claims-seizes-medicines-w"
       },
       {
+        "id": "2026-05-31-five-mrna-therapy-shows-potential-to-prevent-heart-failure-after-heart-a",
+        "title": "Five-mRNA Therapy Shows Potential to Prevent Heart Failure After Heart Attack",
+        "summary": "Researchers from The University of Osaka have developed an innovative mRNA-based treatment that could help protect the heart from long-term damage following a heart attack. In a new study, scientists found that delivering a combination of five therapeutic...",
+        "source": "PharmaTutor News",
+        "sourceHost": "pharmatutor.org",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-06-02T11:19:41.000Z",
+        "publishedLabel": "June 2, 2026",
+        "category": "Industry Update",
+        "image": "https://www.pharmatutor.org/sites/default/files/styles/webp/public/2026-06/five-mrna-therapy-shows-potential-to-prevent-heart-failure-after-heart-attack.jpg.webp?itok=VofuZYRL",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/five-mrna-therapy-shows-potential-to-prevent-heart-failure-after-heart-attack",
+        "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-five-mrna-therapy-shows-potential-to-prevent-heart-failure-after-heart-a"
+      },
+      {
         "id": "2026-05-31-alembic-pharma-appoints-ex-cipla-sun-pharma-veteran-ramesh-juneja-as-evp",
         "title": "Alembic Pharma Appoints Ex-Cipla, Sun Pharma Veteran Ramesh Juneja as EVP for India Business",
         "summary": "New Delhi: Alembic Pharmaceuticals has recently announced the appointment of Ramesh Juneja as Executive Vice President, Human Health (Sales and Marketing), for its India business.Juneja brings over...",
@@ -398,61 +500,77 @@
         "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/usfda-approves-mannkinds-inhaled-insulin-afrezza-for-children-with-diabetes-171721",
         "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-usfda-approves-mannkind-s-inhaled-insulin-afrezza-for-children-with-diab"
-      }
-    ],
-    "providers": [
-      {
-        "id": "2026-05-31-purehealth-launches-university-of-nicosia-campus-in-athens-greece",
-        "title": "PureHealth launches University of Nicosia campus in Athens, Greece",
-        "summary": "Introduces a next-generation model of healthcare education, embedding artificial intelligence, data analytics and digital health into core clinical training",
-        "source": "Zawya Pharmaceuticals",
-        "sourceHost": "zawya.com",
-        "region": "Middle East",
-        "country": "United Arab Emirates",
-        "publishedAt": "2026-06-02T08:43:50.000Z",
-        "publishedLabel": "June 2, 2026",
-        "category": "AI Care Delivery",
-        "image": "https://static.zawya.com/view/acePublic/alias/contentid/1481298a-83b1-4f03-a470-d03513f8d5ff/0/greece-1-png.jpeg?f=3%3A2",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://www.zawya.com/en/press-release/companies-news/purehealth-launches-university-of-nicosia-campus-in-athens-greece-t700mkp3",
-        "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-purehealth-launches-university-of-nicosia-campus-in-athens-greece"
       },
       {
-        "id": "2026-05-31-arabian-gulf-university-to-launch-a-bachelor-s-program-in-emergency-medi",
-        "title": "Arabian Gulf University to launch a Bachelor's program in Emergency Medical Services",
-        "summary": "A new specialized program designed to meet the needs of the Gulf healthcare sector",
-        "source": "Zawya Pharmaceuticals",
-        "sourceHost": "zawya.com",
-        "region": "Middle East",
-        "country": "Bahrain",
-        "publishedAt": "2026-06-02T08:48:36.000Z",
+        "id": "2026-05-31-merck-explores-repurposing-molnupiravir-for-rare-ebola-outbreak-as-congo",
+        "title": "Merck Explores Repurposing Molnupiravir for Rare Ebola Outbreak as Congo Cases Cross 1,100",
+        "summary": "Chicago: Merck is in discussions with various global health authorities about making its COVID antiviral pill molnupiravir available as an Ebola treatment to address the widening outbreak in the...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-06-02T12:58:02.000Z",
         "publishedLabel": "June 2, 2026",
-        "category": "Provider Update",
-        "image": "https://static.zawya.com/view/acePublic/alias/contentid/ed84e62c-c2e2-4fb8-b1c2-fdccd14ea01a/0/dr-mohammedmadnaeen-meddean-jpg.jpeg?f=3%3A2",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://www.zawya.com/en/press-release/companies-news/arabian-gulf-university-to-launch-a-bachelors-program-in-emergency-medical-services-tr09fuo4",
-        "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-arabian-gulf-university-to-launch-a-bachelor-s-program-in-emergency-medi"
+        "category": "Industry Update",
+        "image": "https://medicaldialogues.in/h-upload/2024/02/03/231498-merck-50.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/merck-explores-repurposing-molnupiravir-for-rare-ebola-outbreak-as-congo-cases-cross-1100-171904",
+        "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-merck-explores-repurposing-molnupiravir-for-rare-ebola-outbreak-as-congo"
       },
       {
-        "id": "2026-05-31-dwtc-free-zone-partners-with-dhl-express-uae-to-strengthen-smes-growth",
-        "title": "DWTC Free Zone partners with DHL Express UAE to strengthen SMEs growth",
-        "summary": "The partnership is designed to deliver practical, high-impact support to SMEs operating within the DWTC Free Zone",
-        "source": "Zawya Pharmaceuticals",
-        "sourceHost": "zawya.com",
-        "region": "Middle East",
-        "country": "United Arab Emirates",
-        "publishedAt": "2026-06-02T08:43:52.000Z",
+        "id": "2026-05-31-study-questions-routine-antibiotic-use-after-pediatric-appendicitis-surg",
+        "title": "Study Questions Routine Antibiotic Use After Pediatric Appendicitis Surgery",
+        "summary": "A new review suggests that routinely prescribing antibiotics after hospital discharge may provide little benefit for children recovering from complicated acute appendicitis (CAA). The findings add to growing concerns about unnecessary antibiotic exposure and...",
+        "source": "PharmaTutor News",
+        "sourceHost": "pharmatutor.org",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-06-02T11:23:27.000Z",
         "publishedLabel": "June 2, 2026",
-        "category": "Provider Update",
-        "image": "https://static.zawya.com/view/acePublic/alias/contentid/NjViNmI4ZTgtNWEyZC00/28/140124084617gxdk-jpg.webp?f=1%3A1&q=0.75&w=3840",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://www.zawya.com/en/business/transport-and-logistics/dwtc-free-zone-partners-with-dhl-express-uae-to-strengthen-smes-growth-jvmr56l0",
-        "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-dwtc-free-zone-partners-with-dhl-express-uae-to-strengthen-smes-growth"
+        "category": "Industry Update",
+        "image": "https://www.pharmatutor.org/sites/default/files/styles/webp/public/2026-06/study-questions-routine-antibiotic-use-after-pediatric-appendicitis-surgery.jpg.webp?itok=j8LcRfC6",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/study-questions-routine-antibiotic-use-after-pediatric-appendicitis-surgery",
+        "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-study-questions-routine-antibiotic-use-after-pediatric-appendicitis-surg"
+      },
+      {
+        "id": "2026-05-31-growing-misuse-of-pregabalin-in-india-raises-concerns-researchers-call-f",
+        "title": "Growing Misuse of Pregabalin in India Raises Concerns, Researchers Call for Stronger Controls",
+        "summary": "A commonly prescribed medicine used for neuropathic pain, epilepsy, and anxiety disorders is increasingly coming under scrutiny due to its growing misuse and dependence potential. A recent study published in the Indian Journal of Medical Research (IJMR) has...",
+        "source": "PharmaTutor News",
+        "sourceHost": "pharmatutor.org",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-06-02T11:14:20.000Z",
+        "publishedLabel": "June 2, 2026",
+        "category": "Industry Update",
+        "image": "https://www.pharmatutor.org/sites/default/files/styles/webp/public/2026-06/growing-misuse-of-pregabalin-in-india-raises-concerns-researchers-call-for-stronger-controls.jpg.webp?itok=4F-JdUcC",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/growing-misuse-of-pregabalin-in-india-raises-concerns-researchers-call-for-stronger-controls",
+        "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-growing-misuse-of-pregabalin-in-india-raises-concerns-researchers-call-f"
+      },
+      {
+        "id": "2026-05-31-usfda-approves-shionogi-s-xocova-for-post-exposure-prevention-of-symptom",
+        "title": "USFDA Approves Shionogi's Xocova for Post-Exposure Prevention of Symptomatic COVID-19",
+        "summary": "Tokyo: Japan's Shionogi & Co said on Monday the U.S. Food and Drug Administration (USFDA) has approved its oral antiviral Ensitrelvir, commercially ‌known as Xocova, ⁠for ⁠the preventive treatment of...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-06-02T13:41:38.000Z",
+        "publishedLabel": "June 2, 2026",
+        "category": "Industry Update",
+        "image": "https://medicaldialogues.in/h-upload/2024/10/28/258521-medicine-7.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/usfda-approves-shionogis-xocova-for-post-exposure-prevention-of-symptomatic-covid-19-171908",
+        "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-usfda-approves-shionogi-s-xocova-for-post-exposure-prevention-of-symptom"
       }
     ],
+    "providers": [],
     "diagnostics": [
       {
         "id": "2026-05-31-abbott-secures-ce-mark-for-world-s-first-glucose-ketone-wearable-healthc",
@@ -472,7 +590,25 @@
         "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-abbott-secures-ce-mark-for-world-s-first-glucose-ketone-wearable-healthc"
       }
     ],
-    "healthtech": []
+    "healthtech": [
+      {
+        "id": "2026-05-31-dr-rajendra-pratap-gupta-nominated-by-united-nations-secretary-general-t",
+        "title": "Dr Rajendra Pratap Gupta nominated by United Nations Secretary-General to serve on MAG of IGF",
+        "summary": "Dr Rajendra Pratap Gupta, a public policy leader, digital governance expert, AI researcher, and healthcare futurist, has been nominated by the Secretary-General of the United Nations to serve on the […]",
+        "source": "Express Healthcare",
+        "sourceHost": "expresshealthcare.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-06-02T09:48:09.000Z",
+        "publishedLabel": "June 2, 2026",
+        "category": "AI",
+        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/06/02151756/EH_Dr-Rajendra.jpg",
+        "thbAction": "",
+        "justIn": false,
+        "originalUrl": "https://www.expresshealthcare.in/news/dr-rajendra-pratap-gupta-nominated-by-united-nations-secretary-general-to-serve-on-mag-of-igf/453825/",
+        "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-dr-rajendra-pratap-gupta-nominated-by-united-nations-secretary-general-t"
+      }
+    ]
   },
   "thbActions": [
     {
@@ -493,6 +629,14 @@
     },
     {
       "segment": "pharma",
+      "articleId": "2026-05-31-alkem-rolls-out-single-shot-semaglutide-syringes-at-rs-350-for-diabetes-",
+      "title": "Alkem rolls out single-shot semaglutide syringes at Rs 350 for diabetes, weight loss",
+      "source": "Economic Times Pharma",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "pharma",
       "articleId": "2026-05-31-delhi-hc-allows-intas-to-sell-cancer-drug-bevatas-sets-aside-order-favou",
       "title": "Delhi HC allows Intas to sell cancer drug Bevatas, sets aside order favouring Sun Pharma",
       "source": "Economic Times Pharma",
@@ -506,38 +650,6 @@
       "source": "Economic Times Pharma",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
-      "segment": "pharma",
-      "articleId": "2026-05-31-johnson-and-johnson-prostate-cancer-drug-reduces-risk-of-cancer-spread-a",
-      "title": "Johnson & ​Johnson prostate cancer drug reduces risk of cancer spread and death in late-stage study",
-      "source": "Economic Times Pharma",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
-      "segment": "providers",
-      "articleId": "2026-05-31-purehealth-launches-university-of-nicosia-campus-in-athens-greece",
-      "title": "PureHealth launches University of Nicosia campus in Athens, Greece",
-      "source": "Zawya Pharmaceuticals",
-      "solution": "THB Provider CRM",
-      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
-    },
-    {
-      "segment": "providers",
-      "articleId": "2026-05-31-arabian-gulf-university-to-launch-a-bachelor-s-program-in-emergency-medi",
-      "title": "Arabian Gulf University to launch a Bachelor's program in Emergency Medical Services",
-      "source": "Zawya Pharmaceuticals",
-      "solution": "THB Provider CRM",
-      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
-    },
-    {
-      "segment": "providers",
-      "articleId": "2026-05-31-dwtc-free-zone-partners-with-dhl-express-uae-to-strengthen-smes-growth",
-      "title": "DWTC Free Zone partners with DHL Express UAE to strengthen SMEs growth",
-      "source": "Zawya Pharmaceuticals",
-      "solution": "THB Provider CRM",
-      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
     },
     {
       "segment": "diagnostics",
