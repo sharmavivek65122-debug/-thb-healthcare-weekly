@@ -5,10 +5,10 @@
   "startDate": "2026-05-30T18:30:00.000Z",
   "endDate": "2026-06-05T18:30:00.000Z",
   "status": "live",
-  "updatedAt": "2026-06-01T19:09:23.354Z",
+  "updatedAt": "2026-06-02T08:51:41.987Z",
   "coverage": {
     "pharma": 22,
-    "providers": 0,
+    "providers": 3,
     "diagnostics": 1,
     "healthtech": 0
   },
@@ -16,9 +16,12 @@
     "ET Healthworld",
     "Economic Times Pharma",
     "Express Healthcare",
+    "Financial Express Healthcare",
     "Healthcare MEA",
+    "Janssen India Media",
     "Medical Dialogues Pharma",
-    "PharmaTutor News"
+    "PharmaTutor News",
+    "Zawya Pharmaceuticals"
   ],
   "segments": {
     "pharma": [
@@ -69,7 +72,7 @@
         "category": "Market",
         "image": "https://img.etimg.com/thumb/msid-131449032,width-1200,height-630,imgsize-80942,overlay-economictimes/articleshow.jpg",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/delhi-hc-allows-intas-to-sell-cancer-drug-bevatas-sets-aside-order-favouring-sun-pharma/articleshow/131449013.cms",
         "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-delhi-hc-allows-intas-to-sell-cancer-drug-bevatas-sets-aside-order-favou"
       },
@@ -86,7 +89,7 @@
         "category": "Market",
         "image": "https://img.etimg.com/thumb/msid-131448984,width-1200,height-630,imgsize-43372,overlay-economictimes/articleshow.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/if-you-have-the-patience-you-can-achieve-innovation-milestones-says-wockhardt-chairman-habil-khorakiwala/articleshow/131448955.cms",
         "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-if-you-have-the-patience-you-can-achieve-innovation-milestones-says-wock"
       },
@@ -108,21 +111,21 @@
         "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-johnson-and-johnson-prostate-cancer-drug-reduces-risk-of-cancer-spread-a"
       },
       {
-        "id": "2026-05-31-india-has-scientific-capability-to-emerge-as-global-leader-in-health-tec",
-        "title": "\"India has scientific capability to emerge as global leader in health technologies\": NITI Aayog's Gobardhan ..",
-        "summary": "The Indian Council of Medical Research (ICMR), under the Department of Health Research, Ministry of Health and Family Welfare, on Monday successfully organised \" Innovators-to-Industry (I2I) Connect\"--India's largest biomedical and technology transfer...",
+        "id": "2026-05-31-kgmu-to-file-fir-against-4-employees-over-rs-2-5-crore-medicine-procurem",
+        "title": "KGMU to file FIR against 4 employees over Rs 2.5 crore medicine procurement irregularities",
+        "summary": "A five-member inquiry committee found irregularities in the urology department and recommended action against one regular pharmacist and three contractual employees.",
         "source": "ET Healthworld",
         "sourceHost": "health.economictimes.indiatimes.com",
         "region": "India",
         "country": "India",
-        "publishedAt": "2026-06-01T01:49:41.000Z",
-        "publishedLabel": "June 1, 2026",
+        "publishedAt": "2026-06-02T07:32:43.000Z",
+        "publishedLabel": "June 2, 2026",
         "category": "Industry Update",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-131431857,imgsize-54330,width-1200,height=627,overlay-ethealth,resizemode-75/policy/india-has-scientific-capability-to-emerge-as-global-leader-in-health-technologies-niti-aayogs-gobardhan-das.jpg",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-131457824,imgsize-252678,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/kgmu-to-file-fir-against-4-employees-over-rs-2-5-crore-medicine-procurement-irregularities.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/policy/india-has-scientific-capability-to-emerge-as-global-leader-in-health-technologies-niti-aayogs-gobardhan-das/131431857",
-        "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-india-has-scientific-capability-to-emerge-as-global-leader-in-health-tec"
+        "justIn": true,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/kgmu-to-file-fir-against-4-employees-over-rs-2-5-crore-medicine-procurement-irregularities/131457824",
+        "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-kgmu-to-file-fir-against-4-employees-over-rs-2-5-crore-medicine-procurem"
       },
       {
         "id": "2026-05-31-india-achieves-ai-breakthrough-in-cancer-care-with-mask-free-simulationl",
@@ -142,57 +145,6 @@
         "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-india-achieves-ai-breakthrough-in-cancer-care-with-mask-free-simulationl"
       },
       {
-        "id": "2026-05-31-vapes-nicotine-pouches-and-e-cigarettes-the-new-age-tobacco-habits-docto",
-        "title": "Vapes, nicotine pouches and e-cigarettes: The new-age tobacco habits doctors want young Indians to rethink",
-        "summary": "New age nicotine products like vapes and pouches are gaining popularity among youth, marketed as safer alternatives. However, experts warn of significant nicotine addiction risks, especially for developing brains. Concerns also exist regarding potential lung...",
-        "source": "ET Healthworld",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-06-01T09:07:55.000Z",
-        "publishedLabel": "June 1, 2026",
-        "category": "Market",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-131438435,imgsize-80452,width-1200,height=627,overlay-ethealth,resizemode-75/industry/vapes-nicotine-pouches-and-e-cigarettes-the-new-age-tobacco-habits-doctors-want-young-indians-to-rethink.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/vapes-nicotine-pouches-and-e-cigarettes-the-new-age-tobacco-habits-doctors-want-young-indians-to-rethink/131438435",
-        "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-vapes-nicotine-pouches-and-e-cigarettes-the-new-age-tobacco-habits-docto"
-      },
-      {
-        "id": "2026-05-31-full-vaccination-surges-from-83-8-pc-to-87-1-pc-as-malnutrition-recedes-",
-        "title": "Full vaccination surges from 83.8 pc to 87.1 pc as malnutrition recedes, reports NFHS-6",
-        "summary": "Full vaccination coverage among children aged 12-23 months increased from 83.8 per cent in 2019-21 to 87.1 per cent in 2023-24, while key child nutrition indicators such as stunting and severe wasting registered significant declines, according to the NFHS-6.",
-        "source": "ET Healthworld",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-06-01T01:59:57.000Z",
-        "publishedLabel": "June 1, 2026",
-        "category": "Industry Update",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-131431819,imgsize-172330,width-1200,height=627,overlay-ethealth,resizemode-75/policy/full-vaccination-surges-from-83-8-pc-to-87-1-pc-as-malnutrition-recedes-reports-nfhs-6.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/policy/full-vaccination-surges-from-83-8-pc-to-87-1-pc-as-malnutrition-recedes-reports-nfhs-6/131431819",
-        "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-full-vaccination-surges-from-83-8-pc-to-87-1-pc-as-malnutrition-recedes-"
-      },
-      {
-        "id": "2026-05-31-who-chief-visits-epicenter-of-the-ebola-outbreak-in-eastern-congo-as-cas",
-        "title": "WHO chief visits epicenter of the Ebola outbreak in eastern Congo as cases outpace response",
-        "summary": "\"The Democratic Republic of Congo has faced Ebola before, 16 times, and has ended every outbreak. This is the 17th. That history gives me real confidence,\" Tedros said during a news conference Saturday alongside Congo's health minister.",
-        "source": "ET Healthworld",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-06-01T01:42:10.000Z",
-        "publishedLabel": "June 1, 2026",
-        "category": "Industry Update",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-131431932,imgsize-203650,width-1200,height=627,overlay-ethealth,resizemode-75/industry/who-chief-visits-epicenter-of-the-ebola-outbreak-in-eastern-congo-as-cases-outpace-response.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/who-chief-visits-epicenter-of-the-ebola-outbreak-in-eastern-congo-as-cases-outpace-response/131431932",
-        "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-who-chief-visits-epicenter-of-the-ebola-outbreak-in-eastern-congo-as-cas"
-      },
-      {
         "id": "2026-05-31-sanofi-launches-accelrare-to-reduce-india-s-rare-disease-diagnosis-chall",
         "title": "Sanofi launches AccelRare to reduce India’s rare disease diagnosis challenge",
         "summary": "In a country where a patient with a rare disease waits too long before receiving a correct diagnosis, Sanofi today announced the India launch of AccelRare, an AI-powered digital pre-diagnosis […]",
@@ -210,6 +162,40 @@
         "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-sanofi-launches-accelrare-to-reduce-india-s-rare-disease-diagnosis-chall"
       },
       {
+        "id": "2026-05-31-poly-medicure-appoints-indranil-mukherjee-as-ceo-asia-pacific-and-india",
+        "title": "Poly Medicure appoints Indranil Mukherjee as CEO, Asia Pacific and India",
+        "summary": "Poly Medicure, India’s leading medical device company with a dominant position in the medical consumables market, today announced the appointment of Indranil Mukherjee as Chief Executive Officer, Asia Pacific and […]",
+        "source": "Express Healthcare",
+        "sourceHost": "expresshealthcare.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-06-02T08:06:19.000Z",
+        "publishedLabel": "June 2, 2026",
+        "category": "Market",
+        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/06/02133545/EH_Indranil.jpg",
+        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
+        "justIn": true,
+        "originalUrl": "https://www.expresshealthcare.in/news/poly-medicure-appoints-indranil-mukherjee-as-ceo-asia-pacific-and-india/453814/",
+        "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-poly-medicure-appoints-indranil-mukherjee-as-ceo-asia-pacific-and-india"
+      },
+      {
+        "id": "2026-05-31-nppa-imposes-price-caps-on-30-new-drugs",
+        "title": "NPPA imposes price caps on 30 new drugs",
+        "summary": "Medicines meant for treatment of diabetes, heart conditions set to get cheaper",
+        "source": "Financial Express Healthcare",
+        "sourceHost": "financialexpress.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-05-31T12:58:20.000Z",
+        "publishedLabel": "May 31, 2026",
+        "category": "Industry Update",
+        "image": "https://images.financialexpressdigital.com/2026/05/brityain-could-face-100-tariff-on-pharma_20260207120201_20260531124741.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://www.financialexpress.com/business/healthcare/nppa-imposes-price-caps-on-30-new-drugs/4255656/",
+        "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-nppa-imposes-price-caps-on-30-new-drugs"
+      },
+      {
         "id": "2026-05-31-who-backs-three-experimental-drugs-for-bundibugyo-ebola-outbreak-healthc",
         "title": "WHO backs three experimental drugs for Bundibugyo Ebola outbreak | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
         "summary": "The latest recommendations come as health authorities continue to battle a widening outbreak in eastern DRC, with additional confirmed cases reported in Uganda.",
@@ -225,6 +211,23 @@
         "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/05/31/who-backs-three-experimental-drugs-for-bundibugyo-ebola-outbreak/",
         "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-who-backs-three-experimental-drugs-for-bundibugyo-ebola-outbreak-healthc"
+      },
+      {
+        "id": "2026-05-31-johnson-and-johnson-s-phase-3-prostate-cancer-study-shows-erleada-apalut",
+        "title": "Johnson & Johnson’s Phase 3 prostate cancer study shows ERLEADA® (apalutamide) before and after surgery significantly reduces risk of metastasis or death, breaking a decades-long treatment paradigm",
+        "summary": "• Patients were nine times more likely to have little to no cancer remaining in the prostate after surgery, with a 20% reduction in the risk of developing metastasis or death • Data selected to open the plenary presentation at ASCO 2026 and published in The...",
+        "source": "Janssen India Media",
+        "sourceHost": "janssen.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-05-31T06:30:00.000Z",
+        "publishedLabel": "May 31, 2026",
+        "category": "Industry Update",
+        "image": "https://jnj-content-lab2.brightspotcdn.com/ac/25/bd2078f54d5992dd486ed26140ce/johnson-johnson-logo.svg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://www.jnj.com/media-center/press-releases/johnson-johnson-phase-3-prostate-cancer-study-shows-erleada-apalutamide-before-and-after-surgery-significantly-reduces-risk-of-metastasis-or-death-breaking-a-decades-long-treatment-paradigm",
+        "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-johnson-and-johnson-s-phase-3-prostate-cancer-study-shows-erleada-apalut"
       },
       {
         "id": "2026-05-31-apogee-therapeutics-secures-us-1-3b-blackstone-deal-for-phase-3-eczema-d",
@@ -256,7 +259,7 @@
         "category": "Industry Update",
         "image": "https://medicaldialogues.in/h-upload/2024/06/07/240453-price-fixation-3.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/nppa-caps-prices-of-30-formulations-including-empagliflozin-sitagliptin-metformin-bilastine-montelukast-and-vitamin-d3-products-171821",
         "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-nppa-caps-prices-of-30-formulations-including-empagliflozin-sitagliptin-"
       },
@@ -273,7 +276,7 @@
         "category": "Approval",
         "image": "https://medicaldialogues.in/h-upload/2023/01/10/197259-shilpa-medicare-1.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/shilpa-medicares-bengaluru-unit-receives-5-usfda-observations-following-pai-171820",
         "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-shilpa-medicare-s-bengaluru-unit-receives-5-usfda-observations-following"
       },
@@ -290,7 +293,7 @@
         "category": "Industry Update",
         "image": "https://medicaldialogues.in/h-upload/2024/05/28/239475-marksans-pharma-50.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/marksans-pharma-acquires-dutch-firm-qliniq-bv-expands-eu-footprint-171819",
         "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-marksans-pharma-acquires-dutch-firm-qliniq-bv-expands-eu-footprint"
       },
@@ -341,7 +344,7 @@
         "category": "Industry Update",
         "image": "https://www.pharmatutor.org/sites/default/files/styles/webp/public/2026-06/johnson-and-johnson-reports-encouraging-late-stage-results-for-novel-head-and-neck-cancer-therapy.jpg.webp?itok=rGBPsYoc",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/johnson-and-johnson-reports-encouraging-late-stage-results-for-novel-head-and-neck-cancer-therapy",
         "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-johnson-and-johnson-reports-encouraging-late-stage-results-for-novel-hea"
       },
@@ -375,7 +378,7 @@
         "category": "Market",
         "image": "https://medicaldialogues.in/h-upload/2026/06/01/351261-alembic-pharma.jpg",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/alembic-pharma-appoints-ex-cipla-sun-pharma-veteran-ramesh-juneja-as-evp-for-india-business-171817",
         "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-alembic-pharma-appoints-ex-cipla-sun-pharma-veteran-ramesh-juneja-as-evp"
       },
@@ -397,7 +400,59 @@
         "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-usfda-approves-mannkind-s-inhaled-insulin-afrezza-for-children-with-diab"
       }
     ],
-    "providers": [],
+    "providers": [
+      {
+        "id": "2026-05-31-purehealth-launches-university-of-nicosia-campus-in-athens-greece",
+        "title": "PureHealth launches University of Nicosia campus in Athens, Greece",
+        "summary": "Introduces a next-generation model of healthcare education, embedding artificial intelligence, data analytics and digital health into core clinical training",
+        "source": "Zawya Pharmaceuticals",
+        "sourceHost": "zawya.com",
+        "region": "Middle East",
+        "country": "United Arab Emirates",
+        "publishedAt": "2026-06-02T08:43:50.000Z",
+        "publishedLabel": "June 2, 2026",
+        "category": "AI Care Delivery",
+        "image": "https://static.zawya.com/view/acePublic/alias/contentid/1481298a-83b1-4f03-a470-d03513f8d5ff/0/greece-1-png.jpeg?f=3%3A2",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": false,
+        "originalUrl": "https://www.zawya.com/en/press-release/companies-news/purehealth-launches-university-of-nicosia-campus-in-athens-greece-t700mkp3",
+        "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-purehealth-launches-university-of-nicosia-campus-in-athens-greece"
+      },
+      {
+        "id": "2026-05-31-arabian-gulf-university-to-launch-a-bachelor-s-program-in-emergency-medi",
+        "title": "Arabian Gulf University to launch a Bachelor's program in Emergency Medical Services",
+        "summary": "A new specialized program designed to meet the needs of the Gulf healthcare sector",
+        "source": "Zawya Pharmaceuticals",
+        "sourceHost": "zawya.com",
+        "region": "Middle East",
+        "country": "Bahrain",
+        "publishedAt": "2026-06-02T08:48:36.000Z",
+        "publishedLabel": "June 2, 2026",
+        "category": "Provider Update",
+        "image": "https://static.zawya.com/view/acePublic/alias/contentid/ed84e62c-c2e2-4fb8-b1c2-fdccd14ea01a/0/dr-mohammedmadnaeen-meddean-jpg.jpeg?f=3%3A2",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": false,
+        "originalUrl": "https://www.zawya.com/en/press-release/companies-news/arabian-gulf-university-to-launch-a-bachelors-program-in-emergency-medical-services-tr09fuo4",
+        "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-arabian-gulf-university-to-launch-a-bachelor-s-program-in-emergency-medi"
+      },
+      {
+        "id": "2026-05-31-dwtc-free-zone-partners-with-dhl-express-uae-to-strengthen-smes-growth",
+        "title": "DWTC Free Zone partners with DHL Express UAE to strengthen SMEs growth",
+        "summary": "The partnership is designed to deliver practical, high-impact support to SMEs operating within the DWTC Free Zone",
+        "source": "Zawya Pharmaceuticals",
+        "sourceHost": "zawya.com",
+        "region": "Middle East",
+        "country": "United Arab Emirates",
+        "publishedAt": "2026-06-02T08:43:52.000Z",
+        "publishedLabel": "June 2, 2026",
+        "category": "Provider Update",
+        "image": "https://static.zawya.com/view/acePublic/alias/contentid/NjViNmI4ZTgtNWEyZC00/28/140124084617gxdk-jpg.webp?f=1%3A1&q=0.75&w=3840",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": false,
+        "originalUrl": "https://www.zawya.com/en/business/transport-and-logistics/dwtc-free-zone-partners-with-dhl-express-uae-to-strengthen-smes-growth-jvmr56l0",
+        "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-dwtc-free-zone-partners-with-dhl-express-uae-to-strengthen-smes-growth"
+      }
+    ],
     "diagnostics": [
       {
         "id": "2026-05-31-abbott-secures-ce-mark-for-world-s-first-glucose-ketone-wearable-healthc",
@@ -459,6 +514,30 @@
       "source": "Economic Times Pharma",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "providers",
+      "articleId": "2026-05-31-purehealth-launches-university-of-nicosia-campus-in-athens-greece",
+      "title": "PureHealth launches University of Nicosia campus in Athens, Greece",
+      "source": "Zawya Pharmaceuticals",
+      "solution": "THB Provider CRM",
+      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
+    },
+    {
+      "segment": "providers",
+      "articleId": "2026-05-31-arabian-gulf-university-to-launch-a-bachelor-s-program-in-emergency-medi",
+      "title": "Arabian Gulf University to launch a Bachelor's program in Emergency Medical Services",
+      "source": "Zawya Pharmaceuticals",
+      "solution": "THB Provider CRM",
+      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
+    },
+    {
+      "segment": "providers",
+      "articleId": "2026-05-31-dwtc-free-zone-partners-with-dhl-express-uae-to-strengthen-smes-growth",
+      "title": "DWTC Free Zone partners with DHL Express UAE to strengthen SMEs growth",
+      "source": "Zawya Pharmaceuticals",
+      "solution": "THB Provider CRM",
+      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
     },
     {
       "segment": "diagnostics",

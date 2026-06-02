@@ -5,15 +5,14 @@
   "startDate": "2026-05-23T18:30:00.000Z",
   "endDate": "2026-05-29T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-06-01T19:09:23.354Z",
+  "updatedAt": "2026-06-02T08:51:41.987Z",
   "coverage": {
     "pharma": 44,
-    "providers": 10,
-    "diagnostics": 9,
+    "providers": 9,
+    "diagnostics": 7,
     "healthtech": 1
   },
   "sourcesUsed": [
-    "BioSpectrum India Healthcare",
     "ET Healthworld",
     "ET Healthworld Diagnostics",
     "ET Healthworld Hospitals",
@@ -21,6 +20,7 @@
     "Express Healthcare",
     "Express Healthcare Posts",
     "Healthcare MEA",
+    "Janssen India Media",
     "Medical Dialogues Pharma",
     "PharmaTutor News"
   ],
@@ -350,23 +350,6 @@
         "articlePath": "/article.html?issue=2026-05-24&article=2026-05-24-our-model-shows-that-just-improving-timeliness-can-lead-to-about-5-8-per"
       },
       {
-        "id": "2026-05-24-align-technology-plans-rs-1800-crore-manufacturing-facility-in-hyderabad",
-        "title": "Align Technology plans Rs 1800 crore manufacturing facility in Hyderabad",
-        "summary": "Proposed India facility to create over 300 jobs and expand clear aligner production capacity",
-        "source": "Express Healthcare Posts",
-        "sourceHost": "expresshealthcare.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-05-25T05:43:22.000Z",
-        "publishedLabel": "May 25, 2026",
-        "category": "Manufacturing",
-        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/05/25111307/EH_Align-Technology_750.jpg",
-        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": false,
-        "originalUrl": "https://www.expresshealthcare.in/news/align-technology-plans-rs-1800-crore-manufacturing-facility-in-hyderabad/453750/",
-        "articlePath": "/article.html?issue=2026-05-24&article=2026-05-24-align-technology-plans-rs-1800-crore-manufacturing-facility-in-hyderabad"
-      },
-      {
         "id": "2026-05-24-yellow-fertility-partners-with-fertilite-ivf-to-expand-fertility-care-ne",
         "title": "Yellow Fertility partners with Fertilite IVF to expand fertility care network in South India",
         "summary": "Partnership expands Yellow Fertility network to 20 centres and supports IVF and ART access across Karnataka and neighbouring states",
@@ -639,6 +622,23 @@
         "articlePath": "/article.html?issue=2026-05-24&article=2026-05-24-sun-pharma-reports-strong-fy26-performance-announces-5-final-dividend"
       },
       {
+        "id": "2026-05-24-fda-approves-label-expansion-cementing-tremfya-as-the-only-il-23-inhibit",
+        "title": "FDA approves label expansion, cementing TREMFYA® as the only IL‑23 inhibitor proven to help stop further joint damage",
+        "summary": "TREMFYA® showed significant inhibition of structural joint damage in adults with active psoriatic arthritis",
+        "source": "Janssen India Media",
+        "sourceHost": "janssen.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-05-28T18:10:38.556Z",
+        "publishedLabel": "May 28, 2026",
+        "category": "Industry Update",
+        "image": "https://jnj-content-lab2.brightspotcdn.com/ac/25/bd2078f54d5992dd486ed26140ce/johnson-johnson-logo.svg",
+        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
+        "justIn": false,
+        "originalUrl": "https://www.jnj.com/media-center/press-releases/fda-approves-label-expansion-cementing-tremfya-as-the-only-il-23-inhibitor-proven-to-help-stop-further-joint-damage",
+        "articlePath": "/article.html?issue=2026-05-24&article=2026-05-24-fda-approves-label-expansion-cementing-tremfya-as-the-only-il-23-inhibit"
+      },
+      {
         "id": "2026-05-24-align-technology-to-set-up-us-200m-invisalign-plant-in-hyderabad-healthc",
         "title": "Align Technology to set up US$200M Invisalign plant in Hyderabad | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
         "summary": "The facility, which is expected to begin operations in 2027, will become Align Technology’s first manufacturing site in India and its fourth worldwide.",
@@ -899,7 +899,7 @@
         "id": "2026-05-24-maxivision-and-sightsavers-india-screen-26-826-people-under-community-ey",
         "title": "Maxivision and Sightsavers India screen 26,826 people under community eye care initiative",
         "summary": "Collaboration identifies cataract cases, conducts diabetic retinopathy screening, and provides spectacles across Ahmedabad, Chennai, Hyderabad, and Visakhapatnam",
-        "source": "Express Healthcare",
+        "source": "Express Healthcare Posts",
         "sourceHost": "expresshealthcare.in",
         "region": "India",
         "country": "India",
@@ -928,23 +928,6 @@
         "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/news/park-medi-world-to-acquire-the-medicity-hospital-rudrapur-for-rs-177-crore/453757/",
         "articlePath": "/article.html?issue=2026-05-24&article=2026-05-24-park-medi-world-to-acquire-the-medicity-hospital-rudrapur-for-rs-177-cro"
-      },
-      {
-        "id": "2026-05-24-hcg-unveils-cancer-hospital-in-north-bengaluru-introducing-karnataka-s-f",
-        "title": "HCG unveils cancer hospital in North Bengaluru introducing Karnataka’s first MR-Linac",
-        "summary": "HCG launches cancer hospital in North Bengaluru introducing Karnataka’s first MR-Linac",
-        "source": "BioSpectrum India Healthcare",
-        "sourceHost": "biospectrumindia.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-05-24T18:30:00.000Z",
-        "publishedLabel": "May 25, 2026",
-        "category": "Hospital",
-        "image": "https://www.biospectrumindia.com/uploads/articles/img_20260519_wa0007-27835.jpg",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://www.biospectrumindia.com/news/16/27835/hcg-unveils-cancer-hospital-in-north-bengaluru-introducing-karnatakas-first-mr-linac.html",
-        "articlePath": "/article.html?issue=2026-05-24&article=2026-05-24-hcg-unveils-cancer-hospital-in-north-bengaluru-introducing-karnataka-s-f"
       }
     ],
     "diagnostics": [
@@ -1066,40 +1049,6 @@
         "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/05/29/kenyan-court-suspends-us-backed-ebola-quarantine-facility-over-public-health-concerns/",
         "articlePath": "/article.html?issue=2026-05-24&article=2026-05-24-kenyan-high-court-suspends-us-backed-ebola-quarantine-facility-over-publ"
-      },
-      {
-        "id": "2026-05-24-illumina-multiomics-summit-india-highlights-potential-of-integrated-omic",
-        "title": "Illumina Multiomics Summit India highlights potential of integrated omics",
-        "summary": "Illumina Multiomics Summit India highlights potential of integrated omics",
-        "source": "BioSpectrum India Healthcare",
-        "sourceHost": "biospectrumindia.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-05-24T18:30:00.000Z",
-        "publishedLabel": "May 25, 2026",
-        "category": "Industry Update",
-        "image": "https://www.biospectrumindia.com/uploads/articles/illumina_multiomics_summit_2026___image-27848.JPG",
-        "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
-        "justIn": false,
-        "originalUrl": "https://www.biospectrumindia.com/news/16/27848/illumina-multiomics-summit-india-highlights-potential-of-integrated-omics-.html",
-        "articlePath": "/article.html?issue=2026-05-24&article=2026-05-24-illumina-multiomics-summit-india-highlights-potential-of-integrated-omic"
-      },
-      {
-        "id": "2026-05-24-nura-expands-south-india-presence-with-launch-of-preventive-health-scree",
-        "title": "NURA expands South India presence with launch of preventive health screening centre in Chennai",
-        "summary": "NURA expands South India presence with launch of preventive health screening centre in Chennai",
-        "source": "BioSpectrum India Healthcare",
-        "sourceHost": "biospectrumindia.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-05-26T18:30:00.000Z",
-        "publishedLabel": "May 27, 2026",
-        "category": "Screening",
-        "image": "https://www.biospectrumindia.com/uploads/articles/nura_chennai_inauguration-27860.jpg",
-        "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
-        "justIn": false,
-        "originalUrl": "https://www.biospectrumindia.com/news/16/27860/nura-expands-south-india-presence-with-launch-of-preventive-health-screening-centre-in-chennai.html",
-        "articlePath": "/article.html?issue=2026-05-24&article=2026-05-24-nura-expands-south-india-presence-with-launch-of-preventive-health-scree"
       }
     ],
     "healthtech": [
