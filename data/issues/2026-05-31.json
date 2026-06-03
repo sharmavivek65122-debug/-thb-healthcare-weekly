@@ -5,11 +5,11 @@
   "startDate": "2026-05-30T18:30:00.000Z",
   "endDate": "2026-06-05T18:30:00.000Z",
   "status": "live",
-  "updatedAt": "2026-06-02T17:52:15.823Z",
+  "updatedAt": "2026-06-03T09:13:44.586Z",
   "coverage": {
-    "pharma": 32,
+    "pharma": 36,
     "providers": 0,
-    "diagnostics": 1,
+    "diagnostics": 2,
     "healthtech": 1
   },
   "sourcesUsed": [
@@ -20,8 +20,10 @@
     "Financial Express Healthcare",
     "Healthcare MEA",
     "Janssen India Media",
+    "Lupin Updates",
     "Medical Dialogues Pharma",
-    "PharmaTutor News"
+    "PharmaTutor News",
+    "Zawya Pharmaceuticals"
   ],
   "segments": {
     "pharma": [
@@ -72,7 +74,7 @@
         "category": "Launch",
         "image": "https://img.etimg.com/thumb/msid-131460893,width-1200,height-630,imgsize-44394,overlay-economictimes/articleshow.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/alkem-rolls-out-single-shot-semaglutide-syringes-at-rs-350-for-diabetes-weight-loss/articleshow/131460771.cms",
         "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-alkem-rolls-out-single-shot-semaglutide-syringes-at-rs-350-for-diabetes-"
       },
@@ -92,6 +94,23 @@
         "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/delhi-hc-allows-intas-to-sell-cancer-drug-bevatas-sets-aside-order-favouring-sun-pharma/articleshow/131449013.cms",
         "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-delhi-hc-allows-intas-to-sell-cancer-drug-bevatas-sets-aside-order-favou"
+      },
+      {
+        "id": "2026-05-31-zydus-semaglutide-approval-delhi-hc-directs-cdsco-to-decide-on-patient-s",
+        "title": "Zydus Semaglutide approval: Delhi HC directs CDSCO to decide on patient safety concerns",
+        "summary": "The Delhi High Court has asked the Central Drugs Standard Control Organisation to review a petition challenging Zydus Lifesciences' approval for semaglutide injections. A diabetes patient raised concerns about the drug's delivery system, alleging it deviates...",
+        "source": "Economic Times Pharma",
+        "sourceHost": "economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-06-03T02:54:58.000Z",
+        "publishedLabel": "June 3, 2026",
+        "category": "Approval",
+        "image": "https://img.etimg.com/thumb/msid-131474679,width-1200,height-630,imgsize-60994,overlay-economictimes/articleshow.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/zydus-semaglutide-approval-delhi-hc-directs-cdsco-to-decide-on-patient-safety-concerns/articleshow/131474637.cms",
+        "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-zydus-semaglutide-approval-delhi-hc-directs-cdsco-to-decide-on-patient-s"
       },
       {
         "id": "2026-05-31-if-you-have-the-patience-you-can-achieve-innovation-milestones-says-wock",
@@ -145,6 +164,23 @@
         "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-kgmu-to-file-fir-against-4-employees-over-rs-2-5-crore-medicine-procurem"
       },
       {
+        "id": "2026-05-31-who-says-suspected-ebola-cases-drop-to-116-after-hundreds-ruled-out",
+        "title": "WHO says suspected Ebola cases drop to 116 after hundreds ruled out",
+        "summary": "The agency said on Tuesday there had been 48 deaths and six people have recovered in Congo. ‌The Congolese authorities ⁠first ⁠put out the new case numbers on Monday.",
+        "source": "ET Healthworld",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-06-03T02:04:52.000Z",
+        "publishedLabel": "June 3, 2026",
+        "category": "Industry Update",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-131473871,imgsize-4843348,width-1200,height=627,overlay-ethealth,resizemode-75/industry/who-says-suspected-ebola-cases-drop-to-116-after-hundreds-ruled-out.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/who-says-suspected-ebola-cases-drop-to-116-after-hundreds-ruled-out/131473871",
+        "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-who-says-suspected-ebola-cases-drop-to-116-after-hundreds-ruled-out"
+      },
+      {
         "id": "2026-05-31-build-trust-in-quality-and-reliability-into-healthcare-manufacturing-to-",
         "title": "Build trust in quality and reliability into healthcare manufacturing to drive a societal transition to a circular economy",
         "summary": "According to the WHO, an estimated 16 billion injections are administered worldwide each year, yet not all the needles and syringes are properly disposed of afterwards. In fact, like many […]",
@@ -157,7 +193,7 @@
         "category": "Manufacturing",
         "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/06/02143243/EP_Courtney_Soulsby_BSI_750.jpg",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/news/build-trust-in-quality-and-reliability-into-healthcare-manufacturing-to-drive-a-societal-transition-to-a-circular-economy/453817/",
         "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-build-trust-in-quality-and-reliability-into-healthcare-manufacturing-to-"
       },
@@ -242,7 +278,7 @@
         "category": "Industry Update",
         "image": "https://www.biospectrumasia.com/uploads/articles/1-27704.jpg",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.biospectrumasia.com/analysis/38/27704/cdmos-atmp-growth-upswing-in-apac.html",
         "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-cdmos-and-atmp-growth-upswing-in-apac"
       },
@@ -279,6 +315,23 @@
         "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/05/31/apogee-therapeutics-secures-us1-3b-blackstone-deal-for-phase-3-eczema-drug/",
         "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-apogee-therapeutics-secures-us-1-3b-blackstone-deal-for-phase-3-eczema-d"
+      },
+      {
+        "id": "2026-05-31-m42-arcera-partner-to-advance-biopharma-localisation-life-sciences-in-ab",
+        "title": "M42, Arcera partner to advance biopharma localisation, life sciences in Abu Dhabi",
+        "summary": "Under the collaboration, Arcera will work with M42 to leverage genomics data and query the genomics database to assess disease prevalence across specific genetic and rare diseases",
+        "source": "Zawya Pharmaceuticals",
+        "sourceHost": "zawya.com",
+        "region": "Middle East",
+        "country": "United Arab Emirates",
+        "publishedAt": "2026-06-03T08:39:14.000Z",
+        "publishedLabel": "June 3, 2026",
+        "category": "Industry Update",
+        "image": "https://static.zawya.com/view/acePublic/alias/contentid/ZGE2YjBmMzktZmE5YS00/13/643968578.jpeg?f=3%3A2",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://www.zawya.com/en/business/healthcare/m42-arcera-partner-to-advance-biopharma-localisation-life-sciences-in-abu-dhabi-q37mjrie",
+        "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-m42-arcera-partner-to-advance-biopharma-localisation-life-sciences-in-ab"
       },
       {
         "id": "2026-05-31-nppa-caps-prices-of-30-formulations-including-empagliflozin-sitagliptin-",
@@ -361,7 +414,7 @@
         "category": "Approval",
         "image": "https://www.pharmatutor.org/sites/default/files/styles/webp/public/2026-06/fda-approves-shionogis-xocova-as-first-oral-drug-to-prevent-covid-19-after-exposure.jpg.webp?itok=TNoAyyUe",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/fda-approves-shionogis-xocova-as-first-oral-drug-to-prevent-covid-19-after-exposure",
         "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-fda-approves-shionogi-s-xocova-as-first-oral-drug-to-prevent-covid-19-af"
       },
@@ -395,7 +448,7 @@
         "category": "Industry Update",
         "image": "https://www.biospectrumasia.com/uploads/articles/3-27705.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.biospectrumasia.com/analysis/29/27705/how-space-medicine-is-rewriting-healthcare.html",
         "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-how-space-medicine-is-rewriting-healthcare"
       },
@@ -412,7 +465,7 @@
         "category": "Industry Update",
         "image": "https://medicaldialogues.in/h-upload/2026/05/02/344971-fraud-4.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/cbi-objects-court-clears-foreign-trip-for-accused-in-rs-1600-cr-pharma-fraud-case-171911",
         "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-cbi-objects-court-clears-foreign-trip-for-accused-in-rs-1-600-cr-pharma-"
       },
@@ -463,7 +516,7 @@
         "category": "Industry Update",
         "image": "https://www.pharmatutor.org/sites/default/files/styles/webp/public/2026-06/five-mrna-therapy-shows-potential-to-prevent-heart-failure-after-heart-attack.jpg.webp?itok=VofuZYRL",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/five-mrna-therapy-shows-potential-to-prevent-heart-failure-after-heart-attack",
         "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-five-mrna-therapy-shows-potential-to-prevent-heart-failure-after-heart-a"
       },
@@ -502,6 +555,23 @@
         "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-usfda-approves-mannkind-s-inhaled-insulin-afrezza-for-children-with-diab"
       },
       {
+        "id": "2026-05-31-market-correction-nearing-its-end-bet-on-banking-pharma-rohit-srivastava",
+        "title": "Market correction nearing its end; bet on banking, pharma: Rohit Srivastava",
+        "summary": "Market correction may be nearing its end, with Nifty approaching a key support zone around 23,077. Banking, energy, and metals sectors show strength, while pharma is poised for a long-term breakout. Investors are advised patience as the market potentially...",
+        "source": "Lupin Updates",
+        "sourceHost": "economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-06-03T08:43:00.000Z",
+        "publishedLabel": "June 3, 2026",
+        "category": "Market",
+        "image": "https://img.etimg.com/thumb/msid-131480053,width-1200,height-630,imgsize-23932,overlay-etmarkets/articleshow.jpg",
+        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
+        "justIn": true,
+        "originalUrl": "https://economictimes.indiatimes.com/markets/expert-view/market-correction-nearing-its-end-bet-on-banking-pharma-rohit-srivastava/articleshow/131480037.cms",
+        "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-market-correction-nearing-its-end-bet-on-banking-pharma-rohit-srivastava"
+      },
+      {
         "id": "2026-05-31-merck-explores-repurposing-molnupiravir-for-rare-ebola-outbreak-as-congo",
         "title": "Merck Explores Repurposing Molnupiravir for Rare Ebola Outbreak as Congo Cases Cross 1,100",
         "summary": "Chicago: Merck is in discussions with various global health authorities about making its COVID antiviral pill molnupiravir available as an Ebola treatment to address the widening outbreak in the...",
@@ -514,7 +584,7 @@
         "category": "Industry Update",
         "image": "https://medicaldialogues.in/h-upload/2024/02/03/231498-merck-50.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/merck-explores-repurposing-molnupiravir-for-rare-ebola-outbreak-as-congo-cases-cross-1100-171904",
         "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-merck-explores-repurposing-molnupiravir-for-rare-ebola-outbreak-as-congo"
       },
@@ -531,7 +601,7 @@
         "category": "Industry Update",
         "image": "https://www.pharmatutor.org/sites/default/files/styles/webp/public/2026-06/study-questions-routine-antibiotic-use-after-pediatric-appendicitis-surgery.jpg.webp?itok=j8LcRfC6",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/study-questions-routine-antibiotic-use-after-pediatric-appendicitis-surgery",
         "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-study-questions-routine-antibiotic-use-after-pediatric-appendicitis-surg"
       },
@@ -548,7 +618,7 @@
         "category": "Industry Update",
         "image": "https://www.pharmatutor.org/sites/default/files/styles/webp/public/2026-06/growing-misuse-of-pregabalin-in-india-raises-concerns-researchers-call-for-stronger-controls.jpg.webp?itok=4F-JdUcC",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/growing-misuse-of-pregabalin-in-india-raises-concerns-researchers-call-for-stronger-controls",
         "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-growing-misuse-of-pregabalin-in-india-raises-concerns-researchers-call-f"
       },
@@ -565,13 +635,30 @@
         "category": "Industry Update",
         "image": "https://medicaldialogues.in/h-upload/2024/10/28/258521-medicine-7.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/usfda-approves-shionogis-xocova-for-post-exposure-prevention-of-symptomatic-covid-19-171908",
         "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-usfda-approves-shionogi-s-xocova-for-post-exposure-prevention-of-symptom"
       }
     ],
     "providers": [],
     "diagnostics": [
+      {
+        "id": "2026-05-31-drug-testing-costs-to-rise-annually-health-ministry-notifies-new-fee-str",
+        "title": "Drug Testing Costs to Rise Annually: Health Ministry Notifies New Fee Structure Under Drugs Rules",
+        "summary": "New Delhi: In a major regulatory update aimed at modernising and rationalising laboratory testing charges under the Drugs and Cosmetics framework, the Ministry of Health and Family Welfare (MoHFW) has...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-06-02T18:44:43.000Z",
+        "publishedLabel": "June 3, 2026",
+        "category": "Lab Network",
+        "image": "https://medicaldialogues.in/h-upload/2024/08/28/249837-water-testing.jpg",
+        "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
+        "justIn": true,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/drug-testing-costs-to-rise-annually-health-ministry-notifies-new-fee-structure-under-drugs-rules-171913",
+        "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-drug-testing-costs-to-rise-annually-health-ministry-notifies-new-fee-str"
+      },
       {
         "id": "2026-05-31-abbott-secures-ce-mark-for-world-s-first-glucose-ketone-wearable-healthc",
         "title": "Abbott secures CE mark for world's first glucose-ketone wearable | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
@@ -645,11 +732,19 @@
     },
     {
       "segment": "pharma",
-      "articleId": "2026-05-31-if-you-have-the-patience-you-can-achieve-innovation-milestones-says-wock",
-      "title": "If you have the patience, you can achieve innovation milestones, says Wockhardt chairman Habil Khorakiwala",
+      "articleId": "2026-05-31-zydus-semaglutide-approval-delhi-hc-directs-cdsco-to-decide-on-patient-s",
+      "title": "Zydus Semaglutide approval: Delhi HC directs CDSCO to decide on patient safety concerns",
       "source": "Economic Times Pharma",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "diagnostics",
+      "articleId": "2026-05-31-drug-testing-costs-to-rise-annually-health-ministry-notifies-new-fee-str",
+      "title": "Drug Testing Costs to Rise Annually: Health Ministry Notifies New Fee Structure Under Drugs Rules",
+      "source": "Medical Dialogues Pharma",
+      "solution": "THB Diagnostics CRM",
+      "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
     },
     {
       "segment": "diagnostics",
