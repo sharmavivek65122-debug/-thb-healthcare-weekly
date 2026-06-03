@@ -5,11 +5,11 @@
   "startDate": "2026-05-30T18:30:00.000Z",
   "endDate": "2026-06-05T18:30:00.000Z",
   "status": "live",
-  "updatedAt": "2026-06-03T09:13:44.586Z",
+  "updatedAt": "2026-06-03T18:08:43.922Z",
   "coverage": {
-    "pharma": 36,
-    "providers": 0,
-    "diagnostics": 2,
+    "pharma": 44,
+    "providers": 1,
+    "diagnostics": 3,
     "healthtech": 1
   },
   "sourcesUsed": [
@@ -20,10 +20,8 @@
     "Financial Express Healthcare",
     "Healthcare MEA",
     "Janssen India Media",
-    "Lupin Updates",
     "Medical Dialogues Pharma",
-    "PharmaTutor News",
-    "Zawya Pharmaceuticals"
+    "PharmaTutor News"
   ],
   "segments": {
     "pharma": [
@@ -60,6 +58,23 @@
         "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/novartis-experimental-actinium-based-drug-shows-promise-in-prostate-cancer-treatment-study/articleshow/131422192.cms",
         "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-novartis-experimental-actinium-based-drug-shows-promise-in-prostate-canc"
+      },
+      {
+        "id": "2026-05-31-aurobindo-pharma-enters-biologics-contract-manufacturing-with-rs-1-200-c",
+        "title": "Aurobindo Pharma enters biologics contract manufacturing with Rs 1,200-crore Telangana facility",
+        "summary": "Aurobindo Pharma has launched TheraNym, a major biologics manufacturing plant in Telangana. This facility will produce biologic medicines for global markets. US pharma giant MSD is the first major client. The plant signifies Aurobindo's expansion into the...",
+        "source": "Economic Times Pharma",
+        "sourceHost": "economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-06-03T14:47:15.000Z",
+        "publishedLabel": "June 3, 2026",
+        "category": "Manufacturing",
+        "image": "https://img.etimg.com/thumb/msid-131486757,width-1200,height-630,imgsize-636907,overlay-economictimes/articleshow.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/aurobindo-pharma-launches-rs-1200-crore-biologics-facility-in-telangana-with-msd-as-anchor-customer/articleshow/131486361.cms",
+        "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-aurobindo-pharma-enters-biologics-contract-manufacturing-with-rs-1-200-c"
       },
       {
         "id": "2026-05-31-alkem-rolls-out-single-shot-semaglutide-syringes-at-rs-350-for-diabetes-",
@@ -108,7 +123,7 @@
         "category": "Approval",
         "image": "https://img.etimg.com/thumb/msid-131474679,width-1200,height-630,imgsize-60994,overlay-economictimes/articleshow.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/zydus-semaglutide-approval-delhi-hc-directs-cdsco-to-decide-on-patient-safety-concerns/articleshow/131474637.cms",
         "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-zydus-semaglutide-approval-delhi-hc-directs-cdsco-to-decide-on-patient-s"
       },
@@ -147,23 +162,6 @@
         "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-johnson-and-johnson-prostate-cancer-drug-reduces-risk-of-cancer-spread-a"
       },
       {
-        "id": "2026-05-31-kgmu-to-file-fir-against-4-employees-over-rs-2-5-crore-medicine-procurem",
-        "title": "KGMU to file FIR against 4 employees over Rs 2.5 crore medicine procurement irregularities",
-        "summary": "A five-member inquiry committee found irregularities in the urology department and recommended action against one regular pharmacist and three contractual employees.",
-        "source": "ET Healthworld",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-06-02T07:32:43.000Z",
-        "publishedLabel": "June 2, 2026",
-        "category": "Industry Update",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-131457824,imgsize-252678,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/kgmu-to-file-fir-against-4-employees-over-rs-2-5-crore-medicine-procurement-irregularities.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/kgmu-to-file-fir-against-4-employees-over-rs-2-5-crore-medicine-procurement-irregularities/131457824",
-        "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-kgmu-to-file-fir-against-4-employees-over-rs-2-5-crore-medicine-procurem"
-      },
-      {
         "id": "2026-05-31-who-says-suspected-ebola-cases-drop-to-116-after-hundreds-ruled-out",
         "title": "WHO says suspected Ebola cases drop to 116 after hundreds ruled out",
         "summary": "The agency said on Tuesday there had been 48 deaths and six people have recovered in Congo. ‌The Congolese authorities ⁠first ⁠put out the new case numbers on Monday.",
@@ -176,9 +174,26 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-131473871,imgsize-4843348,width-1200,height=627,overlay-ethealth,resizemode-75/industry/who-says-suspected-ebola-cases-drop-to-116-after-hundreds-ruled-out.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/who-says-suspected-ebola-cases-drop-to-116-after-hundreds-ruled-out/131473871",
         "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-who-says-suspected-ebola-cases-drop-to-116-after-hundreds-ruled-out"
+      },
+      {
+        "id": "2026-05-31-india-achieves-ai-breakthrough-in-cancer-care-with-mask-free-simulationl",
+        "title": "India achieves AI breakthrough in cancer care with mask-free, simulationless radiotherapy",
+        "summary": "Sir HN Reliance Foundation Hospital has achieved a significant medical milestone by successfully treating a head and neck cancer patient using a unique combination of Surface Guided Radiotherapy (SGRT) and adaptive radiotherapy for the first time in India.",
+        "source": "ET Healthworld",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-06-01T09:29:45.000Z",
+        "publishedLabel": "June 1, 2026",
+        "category": "Industry Update",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-131438531,imgsize-91496,width-1200,height=627,overlay-ethealth,resizemode-75/diagnostics/india-achieves-ai-breakthrough-in-cancer-care-with-mask-free-simulationless-radiotherapy.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/diagnostics/india-achieves-ai-breakthrough-in-cancer-care-with-mask-free-simulationless-radiotherapy/131438531",
+        "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-india-achieves-ai-breakthrough-in-cancer-care-with-mask-free-simulationl"
       },
       {
         "id": "2026-05-31-build-trust-in-quality-and-reliability-into-healthcare-manufacturing-to-",
@@ -300,6 +315,40 @@
         "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-johnson-and-johnson-s-phase-3-prostate-cancer-study-shows-erleada-apalut"
       },
       {
+        "id": "2026-05-31-granules-gets-4-usfda-observations-for-us-facility",
+        "title": "Granules Gets 4 USFDA Observations for US Facility",
+        "summary": "New Delhi: Granules India Limited has announced that its wholly-owned subsidiary, Granules Pharmaceuticals, Inc. (GPI), located in Chantilly, Virginia, US, has received the Establishment Inspection...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-06-03T14:08:00.000Z",
+        "publishedLabel": "June 3, 2026",
+        "category": "Industry Update",
+        "image": "https://medicaldialogues.in/h-upload/2023/01/10/197293-granules-india-1.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/granules-gets-4-usfda-observations-for-us-facility-171994",
+        "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-granules-gets-4-usfda-observations-for-us-facility"
+      },
+      {
+        "id": "2026-05-31-natco-lupin-secure-usfda-nod-for-generic-cancer-drug-eribulin-mesylate-i",
+        "title": "Natco, Lupin Secure USFDA Nod for Generic Cancer Drug Eribulin Mesylate Injection",
+        "summary": "New Delhi: NATCO Pharma Limited and its alliance partner Lupin Limited has announced the approval from the United States Food and Drug Administration (USFDA) for NATCO's Abbreviated New Drug...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-06-03T13:44:13.000Z",
+        "publishedLabel": "June 3, 2026",
+        "category": "Approval",
+        "image": "https://medicaldialogues.in/h-upload/2024/01/19/230521-usfda-50.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/natco-lupin-secure-usfda-nod-for-generic-cancer-drug-eribulin-mesylate-injection-171993",
+        "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-natco-lupin-secure-usfda-nod-for-generic-cancer-drug-eribulin-mesylate-i"
+      },
+      {
         "id": "2026-05-31-apogee-therapeutics-secures-us-1-3b-blackstone-deal-for-phase-3-eczema-d",
         "title": "Apogee Therapeutics secures US$1.3B Blackstone deal for phase 3 eczema drug | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
         "summary": "Under the deal, Blackstone Life Sciences will provide up to US$800 million in exchange for low- to mid-single-digit tiered royalties on future zumilokibart sales for 15 years.",
@@ -317,21 +366,21 @@
         "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-apogee-therapeutics-secures-us-1-3b-blackstone-deal-for-phase-3-eczema-d"
       },
       {
-        "id": "2026-05-31-m42-arcera-partner-to-advance-biopharma-localisation-life-sciences-in-ab",
-        "title": "M42, Arcera partner to advance biopharma localisation, life sciences in Abu Dhabi",
-        "summary": "Under the collaboration, Arcera will work with M42 to leverage genomics data and query the genomics database to assess disease prevalence across specific genetic and rare diseases",
-        "source": "Zawya Pharmaceuticals",
-        "sourceHost": "zawya.com",
-        "region": "Middle East",
-        "country": "United Arab Emirates",
-        "publishedAt": "2026-06-03T08:39:14.000Z",
+        "id": "2026-05-31-servier-to-acquire-edgewise-s-muscular-dystrophy-drug-in-usd-2-65-billio",
+        "title": "Servier to Acquire Edgewise's Muscular Dystrophy Drug in USD 2.65 Billion Deal",
+        "summary": "London: Edgewise Therapeutics on Monday agreed to sell its muscular dystrophy drug and related business to Servier in a deal worth up ‌to USD 2.65 billion, marking an ⁠expansion ⁠for the French group...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-06-03T10:46:47.000Z",
         "publishedLabel": "June 3, 2026",
-        "category": "Industry Update",
-        "image": "https://static.zawya.com/view/acePublic/alias/contentid/ZGE2YjBmMzktZmE5YS00/13/643968578.jpeg?f=3%3A2",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "category": "Deal",
+        "image": "https://medicaldialogues.in/h-upload/2026/03/07/331538-servier.jpg",
+        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
         "justIn": true,
-        "originalUrl": "https://www.zawya.com/en/business/healthcare/m42-arcera-partner-to-advance-biopharma-localisation-life-sciences-in-abu-dhabi-q37mjrie",
-        "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-m42-arcera-partner-to-advance-biopharma-localisation-life-sciences-in-ab"
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/servier-to-acquire-edgewises-muscular-dystrophy-drug-in-usd-265-billion-deal-171970",
+        "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-servier-to-acquire-edgewise-s-muscular-dystrophy-drug-in-usd-2-65-billio"
       },
       {
         "id": "2026-05-31-nppa-caps-prices-of-30-formulations-including-empagliflozin-sitagliptin-",
@@ -402,6 +451,23 @@
         "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-fda-clears-astrazeneca-s-imfinzi-bcg-combo-for-high-risk-bladder-cancer-"
       },
       {
+        "id": "2026-05-31-new-technology-reveals-why-antibody-cancer-drugs-often-fail-in-solid-tum",
+        "title": "New Technology Reveals Why Antibody Cancer Drugs Often Fail in Solid Tumors",
+        "summary": "Researchers at Vanderbilt University Medical Center have developed a novel technology that may help explain why many antibody-based cancer therapies show limited effectiveness in patients with solid tumors such as head and neck cancer and pancreatic cancer....",
+        "source": "PharmaTutor News",
+        "sourceHost": "pharmatutor.org",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-06-03T10:44:38.000Z",
+        "publishedLabel": "June 3, 2026",
+        "category": "Industry Update",
+        "image": "https://www.pharmatutor.org/sites/default/files/styles/webp/public/2026-06/new-technology-reveals-why-antibody-cancer-drugs-often-fail-in-solid-tumors.jpg.webp?itok=Qdbg6x9T",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/new-technology-reveals-why-antibody-cancer-drugs-often-fail-in-solid-tumors",
+        "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-new-technology-reveals-why-antibody-cancer-drugs-often-fail-in-solid-tum"
+      },
+      {
         "id": "2026-05-31-fda-approves-shionogi-s-xocova-as-first-oral-drug-to-prevent-covid-19-af",
         "title": "FDA Approves Shionogi’s Xocova as First Oral Drug to Prevent COVID-19 After Exposure",
         "summary": "The U.S. Food and Drug Administration (FDA) has approved Xocova (ensitrelvir), developed by Japanese pharmaceutical company Shionogi & Co., for the prevention of COVID-19 following exposure to an infected individual. The approval makes Xocova the first and...",
@@ -451,6 +517,23 @@
         "justIn": false,
         "originalUrl": "https://www.biospectrumasia.com/analysis/29/27705/how-space-medicine-is-rewriting-healthcare.html",
         "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-how-space-medicine-is-rewriting-healthcare"
+      },
+      {
+        "id": "2026-05-31-serum-institute-to-manufacture-oxford-s-experimental-ebola-vaccine-after",
+        "title": "Serum Institute to Manufacture Oxford’s Experimental Ebola Vaccine After CEPI Commits 8.6 Million USD Funding",
+        "summary": "The Serum Institute of India (SII) has joined hands with the University of Oxford and the Coalition for Epidemic Preparedness Innovations (CEPI) to accelerate the development of an experimental vaccine targeting the Bundibugyo strain of Ebola virus, a deadly...",
+        "source": "PharmaTutor News",
+        "sourceHost": "pharmatutor.org",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-06-03T10:53:32.000Z",
+        "publishedLabel": "June 3, 2026",
+        "category": "Industry Update",
+        "image": "https://www.pharmatutor.org/sites/default/files/styles/webp/public/2026-06/serum-institute-to-manufacture-oxfords-experimental-ebola-vaccine-after-cepi-commits-8-million-usd-funding.jpg.webp?itok=OCtC73gQ",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/serum-institute-to-manufacture-oxfords-experimental-ebola-vaccine-after-cepi-commits-8-million-usd-funding",
+        "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-serum-institute-to-manufacture-oxford-s-experimental-ebola-vaccine-after"
       },
       {
         "id": "2026-05-31-cbi-objects-court-clears-foreign-trip-for-accused-in-rs-1-600-cr-pharma-",
@@ -504,6 +587,40 @@
         "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-maharashtra-fda-cracks-down-on-misleading-drug-claims-seizes-medicines-w"
       },
       {
+        "id": "2026-05-31-delhi-hc-grants-bail-to-pharma-trader-says-pre-trial-detention-cannot-be",
+        "title": "Delhi HC Grants Bail to Pharma Trader, Says Pre-Trial Detention Cannot Be Punitive",
+        "summary": "New Delhi: The Delhi High Court has granted bail to pharmaceutical trader Yusuf Aajam, observing that pre-trial detention should not assume a punitive character and that prolonged incarceration before...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-06-03T14:16:41.000Z",
+        "publishedLabel": "June 3, 2026",
+        "category": "Industry Update",
+        "image": "https://medicaldialogues.in/h-upload/2025/03/31/280945-bail-granted.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/delhi-hc-grants-bail-to-pharma-trader-says-pre-trial-detention-cannot-be-punitive-171995",
+        "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-delhi-hc-grants-bail-to-pharma-trader-says-pre-trial-detention-cannot-be"
+      },
+      {
+        "id": "2026-05-31-gilead-s-livdelzi-achieves-key-phase-3-success-in-liver-disease-trial-st",
+        "title": "Gilead’s Livdelzi Achieves Key Phase 3 Success in Liver Disease Trial, Strengthening Treatment Outlook for PBC Patients",
+        "summary": "Gilead Sciences has announced positive results from its Phase 3 IDEAL trial evaluating Livdelzi (seladelpar)in adults with primary biliary cholangitis (PBC), a rare chronic autoimmune liver disease. The study met its primary endpoint, demonstrating...",
+        "source": "PharmaTutor News",
+        "sourceHost": "pharmatutor.org",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-06-03T10:57:02.000Z",
+        "publishedLabel": "June 3, 2026",
+        "category": "Deal",
+        "image": "https://www.pharmatutor.org/sites/default/files/styles/webp/public/2026-06/gileads-livdelzi-achieves-key-phase-3-success-in-liver-disease-trial-strengthening-treatment-outlook-for-pbc-patients.jpg.webp?itok=Qs4QMvzt",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/gileads-livdelzi-achieves-key-phase-3-success-in-liver-disease-trial-strengthening-treatment-outlook-for-pbc-patients",
+        "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-gilead-s-livdelzi-achieves-key-phase-3-success-in-liver-disease-trial-st"
+      },
+      {
         "id": "2026-05-31-five-mrna-therapy-shows-potential-to-prevent-heart-failure-after-heart-a",
         "title": "Five-mRNA Therapy Shows Potential to Prevent Heart Failure After Heart Attack",
         "summary": "Researchers from The University of Osaka have developed an innovative mRNA-based treatment that could help protect the heart from long-term damage following a heart attack. In a new study, scientists found that delivering a combination of five therapeutic...",
@@ -555,21 +672,38 @@
         "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-usfda-approves-mannkind-s-inhaled-insulin-afrezza-for-children-with-diab"
       },
       {
-        "id": "2026-05-31-market-correction-nearing-its-end-bet-on-banking-pharma-rohit-srivastava",
-        "title": "Market correction nearing its end; bet on banking, pharma: Rohit Srivastava",
-        "summary": "Market correction may be nearing its end, with Nifty approaching a key support zone around 23,077. Banking, energy, and metals sectors show strength, while pharma is poised for a long-term breakout. Investors are advised patience as the market potentially...",
-        "source": "Lupin Updates",
-        "sourceHost": "economictimes.indiatimes.com",
+        "id": "2026-05-31-study-finds-antibiotics-for-routine-sore-throats-offer-little-protection",
+        "title": "Study Finds Antibiotics for Routine Sore Throats Offer Little Protection Against Severe Strep Infections",
+        "summary": "Prescribing antibiotics for common sore throats may have only a minimal impact on preventing serious streptococcal infections, according to new research from the University of Gothenburg. The findings challenge a widely debated rationale for antibiotic use...",
+        "source": "PharmaTutor News",
+        "sourceHost": "pharmatutor.org",
         "region": "India",
         "country": "India",
-        "publishedAt": "2026-06-03T08:43:00.000Z",
+        "publishedAt": "2026-06-03T10:49:34.000Z",
         "publishedLabel": "June 3, 2026",
-        "category": "Market",
-        "image": "https://img.etimg.com/thumb/msid-131480053,width-1200,height-630,imgsize-23932,overlay-etmarkets/articleshow.jpg",
-        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
+        "category": "Industry Update",
+        "image": "https://www.pharmatutor.org/sites/default/files/styles/webp/public/2026-06/study-finds-antibiotics-for-routine-sore-throats-offer-little-protection-against-severe-strep-infections.jpg.webp?itok=QeYH83Vj",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
         "justIn": true,
-        "originalUrl": "https://economictimes.indiatimes.com/markets/expert-view/market-correction-nearing-its-end-bet-on-banking-pharma-rohit-srivastava/articleshow/131480037.cms",
-        "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-market-correction-nearing-its-end-bet-on-banking-pharma-rohit-srivastava"
+        "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/study-finds-antibiotics-for-routine-sore-throats-offer-little-protection-against-severe-strep-infections",
+        "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-study-finds-antibiotics-for-routine-sore-throats-offer-little-protection"
+      },
+      {
+        "id": "2026-05-31-fulcrum-halts-sickle-cell-drug-development-after-usfda-raises-cancer-ris",
+        "title": "Fulcrum Halts Sickle Cell Drug Development After USFDA Raises Cancer-Risk Concerns",
+        "summary": "Bengaluru: Fulcrum Therapeutics said on Monday it would stop developing its experimental sickle-cell disease drug after the U.S. Food and Drug Administration (USFDA) raised cancer-risk concerns, which...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-06-03T10:18:07.000Z",
+        "publishedLabel": "June 3, 2026",
+        "category": "Industry Update",
+        "image": "https://medicaldialogues.in/h-upload/2026/02/09/326373-medicine.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/fulcrum-halts-sickle-cell-drug-development-after-usfda-raises-cancer-risk-concerns-171964",
+        "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-fulcrum-halts-sickle-cell-drug-development-after-usfda-raises-cancer-ris"
       },
       {
         "id": "2026-05-31-merck-explores-repurposing-molnupiravir-for-rare-ebola-outbreak-as-congo",
@@ -640,7 +774,25 @@
         "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-usfda-approves-shionogi-s-xocova-for-post-exposure-prevention-of-symptom"
       }
     ],
-    "providers": [],
+    "providers": [
+      {
+        "id": "2026-05-31-cashless-healthcare-in-india-bridging-operational-gap-between-hospitals-",
+        "title": "Cashless healthcare in India: Bridging operational gap between hospitals, TPAs, and insurers",
+        "summary": "Every day, across hospital admission counters in cities like Pune, Hyderabad, and Kolkata, a quiet crisis plays out. A family arrives with a medical emergency and an insurance card. What […]",
+        "source": "Express Healthcare",
+        "sourceHost": "expresshealthcare.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-06-03T13:52:37.000Z",
+        "publishedLabel": "June 3, 2026",
+        "category": "Hospital",
+        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/06/03192200/EH_Trupti.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": false,
+        "originalUrl": "https://www.expresshealthcare.in/blogs/guest-blogs-healthcare/cashless-healthcare-in-india-bridging-operational-gap-between-hospitals-tpas-and-insurers/453828/",
+        "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-cashless-healthcare-in-india-bridging-operational-gap-between-hospitals-"
+      }
+    ],
     "diagnostics": [
       {
         "id": "2026-05-31-drug-testing-costs-to-rise-annually-health-ministry-notifies-new-fee-str",
@@ -655,9 +807,26 @@
         "category": "Lab Network",
         "image": "https://medicaldialogues.in/h-upload/2024/08/28/249837-water-testing.jpg",
         "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/drug-testing-costs-to-rise-annually-health-ministry-notifies-new-fee-structure-under-drugs-rules-171913",
         "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-drug-testing-costs-to-rise-annually-health-ministry-notifies-new-fee-str"
+      },
+      {
+        "id": "2026-05-31-from-skincare-staple-to-cancer-fear-controversy-how-cerave-became-the-fa",
+        "title": "From Skincare Staple to Cancer-Fear Controversy: How CeraVe Became the Face of Benzene- Cancer Debate",
+        "summary": "New Delhi: What began as a laboratory warning about benzene contamination in consumer products has evolved into a global skincare controversy that continues to haunt one of the world's most...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-06-03T10:30:25.000Z",
+        "publishedLabel": "June 3, 2026",
+        "category": "Lab Network",
+        "image": "https://medicaldialogues.in/h-upload/2020/02/25/124733-controversy-1.jpg",
+        "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
+        "justIn": true,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/from-skincare-staple-to-cancer-fear-controversy-how-cerave-became-the-face-of-benzene-cancer-debate-171963",
+        "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-from-skincare-staple-to-cancer-fear-controversy-how-cerave-became-the-fa"
       },
       {
         "id": "2026-05-31-abbott-secures-ce-mark-for-world-s-first-glucose-ketone-wearable-healthc",
@@ -716,6 +885,14 @@
     },
     {
       "segment": "pharma",
+      "articleId": "2026-05-31-aurobindo-pharma-enters-biologics-contract-manufacturing-with-rs-1-200-c",
+      "title": "Aurobindo Pharma enters biologics contract manufacturing with Rs 1,200-crore Telangana facility",
+      "source": "Economic Times Pharma",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "pharma",
       "articleId": "2026-05-31-alkem-rolls-out-single-shot-semaglutide-syringes-at-rs-350-for-diabetes-",
       "title": "Alkem rolls out single-shot semaglutide syringes at Rs 350 for diabetes, weight loss",
       "source": "Economic Times Pharma",
@@ -731,17 +908,25 @@
       "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
     },
     {
-      "segment": "pharma",
-      "articleId": "2026-05-31-zydus-semaglutide-approval-delhi-hc-directs-cdsco-to-decide-on-patient-s",
-      "title": "Zydus Semaglutide approval: Delhi HC directs CDSCO to decide on patient safety concerns",
-      "source": "Economic Times Pharma",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+      "segment": "providers",
+      "articleId": "2026-05-31-cashless-healthcare-in-india-bridging-operational-gap-between-hospitals-",
+      "title": "Cashless healthcare in India: Bridging operational gap between hospitals, TPAs, and insurers",
+      "source": "Express Healthcare",
+      "solution": "THB Provider CRM",
+      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
     },
     {
       "segment": "diagnostics",
       "articleId": "2026-05-31-drug-testing-costs-to-rise-annually-health-ministry-notifies-new-fee-str",
       "title": "Drug Testing Costs to Rise Annually: Health Ministry Notifies New Fee Structure Under Drugs Rules",
+      "source": "Medical Dialogues Pharma",
+      "solution": "THB Diagnostics CRM",
+      "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
+    },
+    {
+      "segment": "diagnostics",
+      "articleId": "2026-05-31-from-skincare-staple-to-cancer-fear-controversy-how-cerave-became-the-fa",
+      "title": "From Skincare Staple to Cancer-Fear Controversy: How CeraVe Became the Face of Benzene- Cancer Debate",
       "source": "Medical Dialogues Pharma",
       "solution": "THB Diagnostics CRM",
       "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
