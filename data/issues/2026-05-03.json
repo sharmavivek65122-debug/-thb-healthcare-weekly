@@ -5,9 +5,9 @@
   "startDate": "2026-05-02T18:30:00.000Z",
   "endDate": "2026-05-08T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-06-04T08:38:08.321Z",
+  "updatedAt": "2026-06-04T16:33:06.917Z",
   "coverage": {
-    "pharma": 1,
+    "pharma": 2,
     "providers": 3,
     "diagnostics": 2,
     "healthtech": 0
@@ -15,7 +15,8 @@
   "sourcesUsed": [
     "ET Healthworld Diagnostics",
     "ET Healthworld Hospitals",
-    "Financial Express Healthcare"
+    "Financial Express Healthcare",
+    "Lupin Updates"
   ],
   "segments": {
     "pharma": [
@@ -35,6 +36,23 @@
         "justIn": false,
         "originalUrl": "https://www.financialexpress.com/business/healthcare/sales-of-weight-loss-drug-wegovy-soars-70-after-steep-price-cuts-in-april/4235786/",
         "articlePath": "/article.html?issue=2026-05-03&article=2026-05-03-sales-of-weight-loss-drug-wegovy-soars-70-after-steep-price-cuts-in-apri"
+      },
+      {
+        "id": "2026-05-03-pharma-q4-outlook-mixed-hospitals-steady-generics-face-revlimid-drag",
+        "title": "Pharma Q4 outlook mixed: Hospitals steady, generics face revlimid drag",
+        "summary": "Indian pharma and healthcare firms face a mixed March quarter. While hospitals anticipate steady growth, generic drugmakers grapple with lost Revlimid sales and pricing challenges. Lupin and Divi's are poised for strong performance, with Sun Pharma and...",
+        "source": "Lupin Updates",
+        "sourceHost": "economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-05-04T00:30:00.000Z",
+        "publishedLabel": "May 4, 2026",
+        "category": "Industry Update",
+        "image": "https://img.etimg.com/thumb/msid-130742041,width-1200,height-630,imgsize-124648,overlay-etmarkets/articleshow.jpg",
+        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
+        "justIn": false,
+        "originalUrl": "https://economictimes.indiatimes.com/markets/stocks/news/pharma-q4-outlook-mixed-hospitals-steady-generics-face-revlimid-drag/articleshow/130742088.cms",
+        "articlePath": "/article.html?issue=2026-05-03&article=2026-05-03-pharma-q4-outlook-mixed-hospitals-steady-generics-face-revlimid-drag"
       }
     ],
     "providers": [
@@ -136,6 +154,14 @@
       "source": "Financial Express Healthcare",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "pharma",
+      "articleId": "2026-05-03-pharma-q4-outlook-mixed-hospitals-steady-generics-face-revlimid-drag",
+      "title": "Pharma Q4 outlook mixed: Hospitals steady, generics face revlimid drag",
+      "source": "Lupin Updates",
+      "solution": "THB Commercial Analytics",
+      "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
     },
     {
       "segment": "providers",
