@@ -5,9 +5,9 @@
   "startDate": "2026-05-09T18:30:00.000Z",
   "endDate": "2026-05-15T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-06-03T18:08:43.922Z",
+  "updatedAt": "2026-06-04T08:38:08.321Z",
   "coverage": {
-    "pharma": 2,
+    "pharma": 1,
     "providers": 10,
     "diagnostics": 1,
     "healthtech": 0
@@ -15,8 +15,7 @@
   "sourcesUsed": [
     "ET Healthworld Diagnostics",
     "ET Healthworld Hospitals",
-    "Financial Express Healthcare",
-    "Janssen India Media"
+    "Financial Express Healthcare"
   ],
   "segments": {
     "pharma": [
@@ -36,23 +35,6 @@
         "justIn": false,
         "originalUrl": "https://www.financialexpress.com/business/healthcare/indias-first-ai-powered-dialysis-ecosystem-goes-live-in-ahmedabad/4240064/",
         "articlePath": "/article.html?issue=2026-05-10&article=2026-05-10-india-s-first-ai-powered-dialysis-ecosystem-goes-live-in-ahmedabad"
-      },
-      {
-        "id": "2026-05-10-groundbreaking-global-survey-captures-the-significant-patient-burden-exp",
-        "title": "Groundbreaking global survey captures the significant patient burden experienced with current standard-of-care bladder cancer treatments, underscoring urgency for continued innovation",
-        "summary": "• More than 90% of patients surveyed who underwent bladder removal or received BCG report negative impact on most aspects of their lives • Among patients treated with BCG, three-quarters describe managing the treatment-related physical symptoms as humiliating...",
-        "source": "Janssen India Media",
-        "sourceHost": "janssen.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-05-14T14:36:43.389Z",
-        "publishedLabel": "May 14, 2026",
-        "category": "Industry Update",
-        "image": "https://jnj-content-lab2.brightspotcdn.com/ac/25/bd2078f54d5992dd486ed26140ce/johnson-johnson-logo.svg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://www.jnj.com/media-center/press-releases/groundbreaking-global-survey-captures-the-significant-patient-burden-experienced-with-current-standard-of-care-bladder-cancer-treatments-underscoring-urgency-for-continued-innovation",
-        "articlePath": "/article.html?issue=2026-05-10&article=2026-05-10-groundbreaking-global-survey-captures-the-significant-patient-burden-exp"
       }
     ],
     "providers": [
@@ -254,14 +236,6 @@
       "articleId": "2026-05-10-india-s-first-ai-powered-dialysis-ecosystem-goes-live-in-ahmedabad",
       "title": "India’s first AI-powered dialysis ecosystem goes live in Ahmedabad",
       "source": "Financial Express Healthcare",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
-      "segment": "pharma",
-      "articleId": "2026-05-10-groundbreaking-global-survey-captures-the-significant-patient-burden-exp",
-      "title": "Groundbreaking global survey captures the significant patient burden experienced with current standard-of-care bladder cancer treatments, underscoring urgency for continued innovation",
-      "source": "Janssen India Media",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
     },

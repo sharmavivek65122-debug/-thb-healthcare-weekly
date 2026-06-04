@@ -5,38 +5,19 @@
   "startDate": "2026-05-16T18:30:00.000Z",
   "endDate": "2026-05-22T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-06-03T18:08:43.922Z",
+  "updatedAt": "2026-06-04T08:38:08.321Z",
   "coverage": {
-    "pharma": 1,
+    "pharma": 0,
     "providers": 6,
     "diagnostics": 2,
     "healthtech": 0
   },
   "sourcesUsed": [
     "ET Healthworld Diagnostics",
-    "ET Healthworld Hospitals",
-    "Lupin Updates"
+    "ET Healthworld Hospitals"
   ],
   "segments": {
-    "pharma": [
-      {
-        "id": "2026-05-17-bernstein-initiates-coverage-on-6-pharma-stocks-cites-3-major-tailwinds-",
-        "title": "Bernstein initiates coverage on 6 pharma stocks, cites 3 major tailwinds for healthcare sector",
-        "summary": "Bernstein has initiated coverage on six Indian pharma stocks, with Zydus Lifesciences as its top choice. The brokerage sees strong future growth for the Indian healthcare sector. Key drivers include AI-led innovation, incremental advancements in niche areas,...",
-        "source": "Lupin Updates",
-        "sourceHost": "economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-05-22T08:41:00.000Z",
-        "publishedLabel": "May 22, 2026",
-        "category": "Industry Update",
-        "image": "https://img.etimg.com/thumb/msid-131260210,width-1200,height-630,imgsize-14992,overlay-etmarkets/articleshow.jpg",
-        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": false,
-        "originalUrl": "https://economictimes.indiatimes.com/markets/stocks/news/bernstein-initiates-coverage-on-6-pharma-stocks-cites-3-major-tailwinds-for-healthcare-sector/articleshow/131260196.cms",
-        "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-bernstein-initiates-coverage-on-6-pharma-stocks-cites-3-major-tailwinds-"
-      }
-    ],
+    "pharma": [],
     "providers": [
       {
         "id": "2026-05-17-fortis-healthcare-q4-profit-jumps-44-as-hospital-business-drives-fy26-gr",
@@ -180,14 +161,6 @@
     "healthtech": []
   },
   "thbActions": [
-    {
-      "segment": "pharma",
-      "articleId": "2026-05-17-bernstein-initiates-coverage-on-6-pharma-stocks-cites-3-major-tailwinds-",
-      "title": "Bernstein initiates coverage on 6 pharma stocks, cites 3 major tailwinds for healthcare sector",
-      "source": "Lupin Updates",
-      "solution": "THB Commercial Analytics",
-      "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
-    },
     {
       "segment": "providers",
       "articleId": "2026-05-17-fortis-healthcare-q4-profit-jumps-44-as-hospital-business-drives-fy26-gr",

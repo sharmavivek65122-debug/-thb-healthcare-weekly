@@ -5,9 +5,9 @@
   "startDate": "2026-05-02T18:30:00.000Z",
   "endDate": "2026-05-08T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-06-03T18:08:43.922Z",
+  "updatedAt": "2026-06-04T08:38:08.321Z",
   "coverage": {
-    "pharma": 3,
+    "pharma": 1,
     "providers": 3,
     "diagnostics": 2,
     "healthtech": 0
@@ -15,9 +15,7 @@
   "sourcesUsed": [
     "ET Healthworld Diagnostics",
     "ET Healthworld Hospitals",
-    "Financial Express Healthcare",
-    "Janssen India Media",
-    "Lupin Updates"
+    "Financial Express Healthcare"
   ],
   "segments": {
     "pharma": [
@@ -37,40 +35,6 @@
         "justIn": false,
         "originalUrl": "https://www.financialexpress.com/business/healthcare/sales-of-weight-loss-drug-wegovy-soars-70-after-steep-price-cuts-in-april/4235786/",
         "articlePath": "/article.html?issue=2026-05-03&article=2026-05-03-sales-of-weight-loss-drug-wegovy-soars-70-after-steep-price-cuts-in-apri"
-      },
-      {
-        "id": "2026-05-03-caplyta-lumateperone-showed-greatest-improvement-across-key-efficacy-out",
-        "title": "CAPLYTA® (lumateperone) showed greatest improvement across key efficacy outcomes among adjunctive MDD treatments in new network meta-analysis",
-        "summary": "CAPLYTA® ranked highest among FDA-approved adjunctive therapies across four measures of efficacy, based on indirect comparisons from placebo plus antidepressant therapy-controlled trials Among the secondary endpoints for the adjunctive MDD therapies...",
-        "source": "Janssen India Media",
-        "sourceHost": "janssen.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-05-04T06:30:00.000Z",
-        "publishedLabel": "May 4, 2026",
-        "category": "Industry Update",
-        "image": "https://jnj-content-lab2.brightspotcdn.com/ac/25/bd2078f54d5992dd486ed26140ce/johnson-johnson-logo.svg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://www.jnj.com/media-center/press-releases/caplyta-lumateperone-showed-greatest-improvement-across-key-efficacy-outcomes-among-adjunctive-mdd-treatments-in-new-network-meta-analysis",
-        "articlePath": "/article.html?issue=2026-05-03&article=2026-05-03-caplyta-lumateperone-showed-greatest-improvement-across-key-efficacy-out"
-      },
-      {
-        "id": "2026-05-03-pharma-q4-outlook-mixed-hospitals-steady-generics-face-revlimid-drag",
-        "title": "Pharma Q4 outlook mixed: Hospitals steady, generics face revlimid drag",
-        "summary": "Indian pharma and healthcare firms face a mixed March quarter. While hospitals anticipate steady growth, generic drugmakers grapple with lost Revlimid sales and pricing challenges. Lupin and Divi's are poised for strong performance, with Sun Pharma and...",
-        "source": "Lupin Updates",
-        "sourceHost": "economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-05-04T00:30:00.000Z",
-        "publishedLabel": "May 4, 2026",
-        "category": "Industry Update",
-        "image": "https://img.etimg.com/thumb/msid-130742041,width-1200,height-630,imgsize-124648,overlay-etmarkets/articleshow.jpg",
-        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": false,
-        "originalUrl": "https://economictimes.indiatimes.com/markets/stocks/news/pharma-q4-outlook-mixed-hospitals-steady-generics-face-revlimid-drag/articleshow/130742088.cms",
-        "articlePath": "/article.html?issue=2026-05-03&article=2026-05-03-pharma-q4-outlook-mixed-hospitals-steady-generics-face-revlimid-drag"
       }
     ],
     "providers": [
@@ -172,22 +136,6 @@
       "source": "Financial Express Healthcare",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
-      "segment": "pharma",
-      "articleId": "2026-05-03-caplyta-lumateperone-showed-greatest-improvement-across-key-efficacy-out",
-      "title": "CAPLYTA® (lumateperone) showed greatest improvement across key efficacy outcomes among adjunctive MDD treatments in new network meta-analysis",
-      "source": "Janssen India Media",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
-      "segment": "pharma",
-      "articleId": "2026-05-03-pharma-q4-outlook-mixed-hospitals-steady-generics-face-revlimid-drag",
-      "title": "Pharma Q4 outlook mixed: Hospitals steady, generics face revlimid drag",
-      "source": "Lupin Updates",
-      "solution": "THB Commercial Analytics",
-      "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
     },
     {
       "segment": "providers",
