@@ -5,11 +5,11 @@
   "startDate": "2026-05-23T18:30:00.000Z",
   "endDate": "2026-05-29T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-06-04T16:33:06.917Z",
+  "updatedAt": "2026-06-05T08:29:40.538Z",
   "coverage": {
-    "pharma": 17,
+    "pharma": 15,
     "providers": 8,
-    "diagnostics": 6,
+    "diagnostics": 7,
     "healthtech": 1
   },
   "sourcesUsed": [
@@ -19,6 +19,7 @@
     "Economic Times Pharma",
     "Express Healthcare",
     "Express Healthcare Posts",
+    "Healthcare MEA",
     "Janssen India Media",
     "PharmaTutor News"
   ],
@@ -91,40 +92,6 @@
         "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/innovation-biosimilars-complex-generics-to-drive-ciplas-growth-achin-gupta-md-group-ceo/articleshow/131376681.cms",
         "articlePath": "/article.html?issue=2026-05-24&article=2026-05-24-innovation-biosimilars-complex-generics-to-drive-cipla-s-growth-achin-gu"
-      },
-      {
-        "id": "2026-05-24-true-north-buys-25-stake-in-pharma-co-embio",
-        "title": "True North buys 25% stake in pharma co Embio",
-        "summary": "Private equity firm True North is investing approximately $50 million in Embio Ltd. Embio manufactures Active Pharmaceutical Ingredients for regulated markets. This investment will support Embio's research and development and capacity expansion. It will also...",
-        "source": "Economic Times Pharma",
-        "sourceHost": "economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-05-27T11:29:51.000Z",
-        "publishedLabel": "May 27, 2026",
-        "category": "Market",
-        "image": "https://img.etimg.com/thumb/msid-131349375,width-1200,height-630,imgsize-80942,overlay-economictimes/articleshow.jpg",
-        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": false,
-        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/true-north-invests-50-million-for-25-stake-in-pharma-innovator-embio-ltd/articleshow/131348835.cms",
-        "articlePath": "/article.html?issue=2026-05-24&article=2026-05-24-true-north-buys-25-stake-in-pharma-co-embio"
-      },
-      {
-        "id": "2026-05-24-gene-therapy-for-cholesterol-initial-test-results-cheer",
-        "title": "Gene therapy for cholesterol: Initial test results cheer",
-        "summary": "A new gene editing medicine, VERVE-102, offers hope for millions with heart conditions. Eli Lilly's drug showed significant reductions in bad cholesterol. This one-time infusion could transform heart disease management. Larger trials are planned, with a Phase...",
-        "source": "Economic Times Pharma",
-        "sourceHost": "economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-05-27T00:00:00.000Z",
-        "publishedLabel": "May 27, 2026",
-        "category": "Industry Update",
-        "image": "https://img.etimg.com/thumb/msid-131337056,width-1200,height-630,imgsize-65716,overlay-economictimes/articleshow.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/gene-therapy-for-cholesterol-initial-test-results-cheer/articleshow/131337038.cms",
-        "articlePath": "/article.html?issue=2026-05-24&article=2026-05-24-gene-therapy-for-cholesterol-initial-test-results-cheer"
       },
       {
         "id": "2026-05-24-veracyte-genomic-test-identifies-breast-cancer-patients-who-can-skip-che",
@@ -229,27 +196,10 @@
         "articlePath": "/article.html?issue=2026-05-24&article=2026-05-24-lincoln-pharmaceuticals-posts-rs-11-63-crore-profit-for-q4"
       },
       {
-        "id": "2026-05-24-glaucoma-in-india-early-diagnosis-modern-care-transform-landscape",
-        "title": "Glaucoma in India: Early Diagnosis, Modern Care Transform Landscape",
-        "summary": "Dr Shibal Bhartiya explains how early diagnosis, digital screening, and treatment advances are changing glaucoma care in India",
-        "source": "Express Healthcare Posts",
-        "sourceHost": "expresshealthcare.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-05-26T09:44:39.000Z",
-        "publishedLabel": "May 26, 2026",
-        "category": "Industry Update",
-        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/05/26151415/EH_GB_Dr_Bhartiya_750.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://www.expresshealthcare.in/news/glaucoma-in-india-early-diagnosis-modern-care-transform-landscape/453764/",
-        "articlePath": "/article.html?issue=2026-05-24&article=2026-05-24-glaucoma-in-india-early-diagnosis-modern-care-transform-landscape"
-      },
-      {
         "id": "2026-05-24-our-model-shows-that-just-improving-timeliness-can-lead-to-about-5-8-per",
         "title": "Our model shows that just improving timeliness can lead to about 5–8 percentage point increase in treatment success",
         "summary": "A recent modelling study highlights that delays in delivering nutritional support to tuberculosis (TB) patients can significantly undermine treatment success, even when coverage appears high on paper. Dr Palak Goel, Assistant Professor, BML Munjal University,...",
-        "source": "Express Healthcare",
+        "source": "Express Healthcare Posts",
         "sourceHost": "expresshealthcare.in",
         "region": "India",
         "country": "India",
@@ -312,6 +262,23 @@
         "justIn": false,
         "originalUrl": "https://www.jnj.com/media-center/press-releases/fda-approves-label-expansion-cementing-tremfya-as-the-only-il-23-inhibitor-proven-to-help-stop-further-joint-damage",
         "articlePath": "/article.html?issue=2026-05-24&article=2026-05-24-fda-approves-label-expansion-cementing-tremfya-as-the-only-il-23-inhibit"
+      },
+      {
+        "id": "2026-05-24-align-technology-to-set-up-us-200m-invisalign-plant-in-hyderabad-healthc",
+        "title": "Align Technology to set up US$200M Invisalign plant in Hyderabad | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
+        "summary": "The facility, which is expected to begin operations in 2027, will become Align Technology’s first manufacturing site in India and its fourth worldwide.",
+        "source": "Healthcare MEA",
+        "sourceHost": "healthcaremea.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-05-29T12:38:39.000Z",
+        "publishedLabel": "May 29, 2026",
+        "category": "Manufacturing",
+        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/05/image-1600x900-2026-05-29T153255.754.png",
+        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
+        "justIn": false,
+        "originalUrl": "https://www.healthcaremea.com/2026/05/29/align-technology-to-set-up-us200m-invisalign-plant-in-hyderabad/",
+        "articlePath": "/article.html?issue=2026-05-24&article=2026-05-24-align-technology-to-set-up-us-200m-invisalign-plant-in-hyderabad-healthc"
       }
     ],
     "providers": [
@@ -491,11 +458,11 @@
         "id": "2026-05-24-the-automation-premium-when-ai-costs-more-than-the-clinician-it-replaces",
         "title": "The automation premium: When AI costs more than the clinician it replaces",
         "summary": "Vijay Martis analyses the growing “automation premium” in healthcare, where AI deployment can cost more than the clinicians it is intended to supplement.",
-        "source": "Express Healthcare",
+        "source": "Express Healthcare Posts",
         "sourceHost": "expresshealthcare.in",
         "region": "India",
         "country": "India",
-        "publishedAt": "2026-05-29T05:42:58.000Z",
+        "publishedAt": "2026-05-29T08:24:29.000Z",
         "publishedLabel": "May 29, 2026",
         "category": "Industry Update",
         "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/05/29135409/EH_Vijay_Martis_750-1.jpg",
@@ -554,6 +521,23 @@
         "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/news/when-a-patient-has-already-asked-chatgpt/453786/",
         "articlePath": "/article.html?issue=2026-05-24&article=2026-05-24-when-a-patient-has-already-asked-chatgpt"
+      },
+      {
+        "id": "2026-05-24-kenyan-high-court-suspends-us-backed-ebola-quarantine-facility-over-publ",
+        "title": "Kenyan high court suspends US-backed Ebola quarantine facility over public health concerns",
+        "summary": "The proposed 50-bed unit at the Laikipia Air Base quarantine facility, scheduled to become operational on May 29",
+        "source": "Healthcare MEA",
+        "sourceHost": "healthcaremea.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-05-29T09:58:47.000Z",
+        "publishedLabel": "May 29, 2026",
+        "category": "Industry Update",
+        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/05/image-1600x900-2026-05-29T124916.689.png",
+        "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
+        "justIn": false,
+        "originalUrl": "https://www.healthcaremea.com/2026/05/29/kenyan-court-suspends-us-backed-ebola-quarantine-facility-over-public-health-concerns/",
+        "articlePath": "/article.html?issue=2026-05-24&article=2026-05-24-kenyan-high-court-suspends-us-backed-ebola-quarantine-facility-over-publ"
       }
     ],
     "healthtech": [
@@ -611,11 +595,11 @@
     },
     {
       "segment": "pharma",
-      "articleId": "2026-05-24-true-north-buys-25-stake-in-pharma-co-embio",
-      "title": "True North buys 25% stake in pharma co Embio",
-      "source": "Economic Times Pharma",
-      "solution": "THB Commercial Analytics",
-      "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
+      "articleId": "2026-05-24-veracyte-genomic-test-identifies-breast-cancer-patients-who-can-skip-che",
+      "title": "Veracyte genomic test identifies breast cancer patients who can skip chemo",
+      "source": "ET Healthworld",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
     },
     {
       "segment": "providers",
@@ -677,7 +661,7 @@
       "segment": "diagnostics",
       "articleId": "2026-05-24-the-automation-premium-when-ai-costs-more-than-the-clinician-it-replaces",
       "title": "The automation premium: When AI costs more than the clinician it replaces",
-      "source": "Express Healthcare",
+      "source": "Express Healthcare Posts",
       "solution": "THB Diagnostics CRM",
       "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
     },

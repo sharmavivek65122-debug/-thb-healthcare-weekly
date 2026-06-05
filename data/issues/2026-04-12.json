@@ -5,10 +5,10 @@
   "startDate": "2026-04-11T18:30:00.000Z",
   "endDate": "2026-04-17T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-06-04T16:33:06.917Z",
+  "updatedAt": "2026-06-05T08:29:40.538Z",
   "coverage": {
     "pharma": 1,
-    "providers": 6,
+    "providers": 4,
     "diagnostics": 2,
     "healthtech": 0
   },
@@ -54,40 +54,6 @@
         "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/eye-on-aspirational-india-medical-tourism-max-healthcare-steps-up-bed-capacity-expansion/130300572",
         "articlePath": "/article.html?issue=2026-04-12&article=2026-04-12-eye-on-aspirational-india-medical-tourism-max-healthcare-steps-up-bed-ca"
-      },
-      {
-        "id": "2026-04-12-aster-dm-healthcare-invests-rs-96-crore-to-expand-whitefield-facility-ca",
-        "title": "Aster DM Healthcare invests Rs 96 crore to expand Whitefield facility; capacity to increase to 539 beds",
-        "summary": "The expanded facility was inaugurated by minister of health and family welfare Dinesh Gundu Rao and speaker of the state legislative assembly UT Khader.",
-        "source": "ET Healthworld Hospitals",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-04-13T11:41:29.000Z",
-        "publishedLabel": "April 13, 2026",
-        "category": "Provider Update",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-130235424,imgsize-39578,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/aster-dm-healthcare-invests-rs-96-crore-to-expand-whitefield-facility-capacity-to-increase-to-539-beds.jpg",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/aster-dm-healthcare-invests-rs-96-crore-to-expand-whitefield-facility-capacity-to-increase-to-539-beds/130235424",
-        "articlePath": "/article.html?issue=2026-04-12&article=2026-04-12-aster-dm-healthcare-invests-rs-96-crore-to-expand-whitefield-facility-ca"
-      },
-      {
-        "id": "2026-04-12-ima-rajasthan-announces-shutdown-of-private-healthcare-services-against-",
-        "title": "IMA Rajasthan announces shutdown of private healthcare services against hospital director's arrest",
-        "summary": "The Indian Medical Association (Rajasthan unit) has announced that outpatient (OPD) and inpatient (IPD) services in private hospitals will remain suspended from 8 am on April 14 to 8 am on April 15.",
-        "source": "ET Healthworld Hospitals",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-04-14T01:53:30.000Z",
-        "publishedLabel": "April 14, 2026",
-        "category": "Hospital",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-130249436,imgsize-87840,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/ima-rajasthan-announces-shutdown-of-private-healthcare-services-against-hospital-directors-arrest.jpg",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/ima-rajasthan-announces-shutdown-of-private-healthcare-services-against-hospital-directors-arrest/130249436",
-        "articlePath": "/article.html?issue=2026-04-12&article=2026-04-12-ima-rajasthan-announces-shutdown-of-private-healthcare-services-against-"
       },
       {
         "id": "2026-04-12-marengo-asia-hospitals-aims-to-raise-500-cr-via-10-stake-sale",
@@ -198,22 +164,6 @@
     },
     {
       "segment": "providers",
-      "articleId": "2026-04-12-aster-dm-healthcare-invests-rs-96-crore-to-expand-whitefield-facility-ca",
-      "title": "Aster DM Healthcare invests Rs 96 crore to expand Whitefield facility; capacity to increase to 539 beds",
-      "source": "ET Healthworld Hospitals",
-      "solution": "THB Provider CRM",
-      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
-    },
-    {
-      "segment": "providers",
-      "articleId": "2026-04-12-ima-rajasthan-announces-shutdown-of-private-healthcare-services-against-",
-      "title": "IMA Rajasthan announces shutdown of private healthcare services against hospital director's arrest",
-      "source": "ET Healthworld Hospitals",
-      "solution": "THB Provider CRM",
-      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
-    },
-    {
-      "segment": "providers",
       "articleId": "2026-04-12-marengo-asia-hospitals-aims-to-raise-500-cr-via-10-stake-sale",
       "title": "Marengo Asia Hospitals aims to raise ₹500 cr via 10% stake sale",
       "source": "ET Healthworld Hospitals",
@@ -224,6 +174,14 @@
       "segment": "providers",
       "articleId": "2026-04-12-nurses-on-strike-in-kerala-units-return-to-work-operations-in-full-capac",
       "title": "Nurses on strike in Kerala units return to work, operations in full capacity: Aster DM Healthcare",
+      "source": "ET Healthworld Hospitals",
+      "solution": "THB Provider CRM",
+      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
+    },
+    {
+      "segment": "providers",
+      "articleId": "2026-04-12-kkr-backed-baby-memorial-to-acquire-60-stake-in-star-hospitals-for-1-800",
+      "title": "KKR-backed Baby Memorial to acquire 60% stake in Star Hospitals for ₹1,800 crore",
       "source": "ET Healthworld Hospitals",
       "solution": "THB Provider CRM",
       "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
