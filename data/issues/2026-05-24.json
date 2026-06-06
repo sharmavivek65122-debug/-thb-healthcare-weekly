@@ -5,9 +5,9 @@
   "startDate": "2026-05-23T18:30:00.000Z",
   "endDate": "2026-05-29T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-06-05T16:13:30.560Z",
+  "updatedAt": "2026-06-06T07:32:09.933Z",
   "coverage": {
-    "pharma": 14,
+    "pharma": 13,
     "providers": 8,
     "diagnostics": 7,
     "healthtech": 1
@@ -25,23 +25,6 @@
   ],
   "segments": {
     "pharma": [
-      {
-        "id": "2026-05-24-tata-backed-medtherapy-claims-car-t-breakthrough-with-one-day-production",
-        "title": "Tata-backed MedTherapy claims CAR-T breakthrough with one-day production",
-        "summary": "Tata Sons-backed biotech startup MedTherapy said it has developed a next-generation CAR-T cell therapy manufacturing platform that can reduce production time from several weeks to just one day and cut costs by nearly 70%, potentially making advanced cancer...",
-        "source": "Economic Times Pharma",
-        "sourceHost": "economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-05-27T14:57:53.000Z",
-        "publishedLabel": "May 27, 2026",
-        "category": "Manufacturing",
-        "image": "https://img.etimg.com/thumb/msid-131353813,width-1200,height-630,imgsize-2998592,overlay-economictimes/articleshow.jpg",
-        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": false,
-        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/tata-backed-medtherapy-claims-car-t-breakthrough-with-one-day-production/articleshow/131353815.cms",
-        "articlePath": "/article.html?issue=2026-05-24&article=2026-05-24-tata-backed-medtherapy-claims-car-t-breakthrough-with-one-day-production"
-      },
       {
         "id": "2026-05-24-molecule-glue-drugs-shake-up-cancer-care-draw-big-money",
         "title": "Molecule glue drugs shake up cancer care, draw big money",
@@ -546,14 +529,6 @@
   "thbActions": [
     {
       "segment": "pharma",
-      "articleId": "2026-05-24-tata-backed-medtherapy-claims-car-t-breakthrough-with-one-day-production",
-      "title": "Tata-backed MedTherapy claims CAR-T breakthrough with one-day production",
-      "source": "Economic Times Pharma",
-      "solution": "THB Commercial Analytics",
-      "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
-    },
-    {
-      "segment": "pharma",
       "articleId": "2026-05-24-molecule-glue-drugs-shake-up-cancer-care-draw-big-money",
       "title": "Molecule glue drugs shake up cancer care, draw big money",
       "source": "Economic Times Pharma",
@@ -581,6 +556,14 @@
       "articleId": "2026-05-24-veracyte-genomic-test-identifies-breast-cancer-patients-who-can-skip-che",
       "title": "Veracyte genomic test identifies breast cancer patients who can skip chemo",
       "source": "ET Healthworld",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "pharma",
+      "articleId": "2026-05-24-wockhardt-secures-us-fda-approval-for-antibiotic-zaynich",
+      "title": "Wockhardt secures US FDA approval for antibiotic Zaynich",
+      "source": "Economic Times Pharma",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
     },

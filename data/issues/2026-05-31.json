@@ -5,27 +5,47 @@
   "startDate": "2026-05-30T18:30:00.000Z",
   "endDate": "2026-06-05T18:30:00.000Z",
   "status": "live",
-  "updatedAt": "2026-06-05T16:13:30.560Z",
+  "updatedAt": "2026-06-06T07:32:09.933Z",
   "coverage": {
     "pharma": 50,
-    "providers": 2,
-    "diagnostics": 4,
+    "providers": 3,
+    "diagnostics": 5,
     "healthtech": 1
   },
   "sourcesUsed": [
     "BioSpectrum Asia Middle East",
     "ET Healthworld",
     "ET Healthworld Diagnostics",
+    "ET Healthworld Hospitals",
+    "ET Healthworld Pharma",
     "Economic Times Pharma",
     "Express Healthcare",
     "Financial Express Healthcare",
     "Healthcare MEA",
     "Janssen India Media",
     "Medical Dialogues Pharma",
-    "PharmaTutor News"
+    "PharmaTutor News",
+    "Zawya Pharmaceuticals"
   ],
   "segments": {
     "pharma": [
+      {
+        "id": "2026-05-31-regulator-cos-discuss-price-hike-for-some-cancer-drugs",
+        "title": "Regulator, cos discuss price hike for some cancer drugs",
+        "summary": "India's drug pricing authority may soon approve a price hike for vital platinum-based cancer medicines. These drugs, including carboplatin and cisplatin, are crucial for treating various cancers. The National Pharmaceutical Pricing Authority met with drug...",
+        "source": "Economic Times Pharma",
+        "sourceHost": "economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-06-05T19:10:05.000Z",
+        "publishedLabel": "June 6, 2026",
+        "category": "Industry Update",
+        "image": "https://img.etimg.com/thumb/msid-131540151,width-1200,height-630,imgsize-171384,overlay-economictimes/articleshow.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/cancer-drug-prices-may-surge-as-raw-material-costs-skyrocket-amid-regulatory-discussions/articleshow/131540108.cms",
+        "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-regulator-cos-discuss-price-hike-for-some-cancer-drugs"
+      },
       {
         "id": "2026-05-31-fda-approval-puts-wockhardt-s-zaynich-in-9-billion-antibiotics-market",
         "title": "FDA approval puts Wockhardt’s Zaynich in $9 billion antibiotics market",
@@ -129,23 +149,6 @@
         "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-drug-companies-directed-to-step-up-vigil-on-adverse-reactions"
       },
       {
-        "id": "2026-05-31-maharashtra-fda-seizes-energy-drink-stock-worth-rs-56l-over-misbranding",
-        "title": "Maharashtra FDA seizes energy drink stock worth Rs 56L over misbranding",
-        "summary": "According to assistant commissioner with FDA, Chhatrapati Sambhajinagar, Dayanand Patil, the company violated regulations that prohibit the use of terms like “electrolyte” or “electrolyte drink” or similar descriptors for food products in the absence of a...",
-        "source": "ET Healthworld",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-06-04T10:44:36.000Z",
-        "publishedLabel": "June 4, 2026",
-        "category": "Industry Update",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-131501643,imgsize-148944,width-1200,height=627,overlay-ethealth,resizemode-75/industry/maharashtra-fda-seizes-energy-drink-stock-worth-rs-56l-over-misbranding.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/maharashtra-fda-seizes-energy-drink-stock-worth-rs-56l-over-misbranding/131501643",
-        "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-maharashtra-fda-seizes-energy-drink-stock-worth-rs-56l-over-misbranding"
-      },
-      {
         "id": "2026-05-31-pharma-exports-to-us-seen-muted-this-year",
         "title": "Pharma exports to US seen muted this year",
         "summary": "Indian pharma exports to the US face a subdued outlook this year. Policy uncertainties, falling generic prices, and regional conflicts are impacting shipments. US buyers are managing inventories more closely. A push for local manufacturing in the US also...",
@@ -200,7 +203,7 @@
         "id": "2026-05-31-chemo-drug-supply-crisis-hits-cancer-care",
         "title": "Chemo drug supply crisis hits cancer care",
         "summary": "Hospitals are reporting dwindling stocks, while patients and their families are being forced to hunt for pharmacies and distributors which have the drugs with them.",
-        "source": "ET Healthworld",
+        "source": "ET Healthworld Pharma",
         "sourceHost": "health.economictimes.indiatimes.com",
         "region": "India",
         "country": "India",
@@ -231,6 +234,23 @@
         "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-johnson-and-johnson-prostate-cancer-drug-reduces-risk-of-cancer-spread-a"
       },
       {
+        "id": "2026-05-31-us-adds-38-million-for-ebola-as-cdc-warns-outbreak-could-match-2014",
+        "title": "US adds $38 million for Ebola as CDC warns outbreak could match 2014",
+        "summary": "The department, which did not detail how the money would be spent, said it was working ​closely with the U.S. Centers for Disease Control and Prevention, as well as the DRC and Uganda to \"mount a rapid and comprehensive response\" to ​the outbreak.",
+        "source": "ET Healthworld",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-06-06T02:13:12.000Z",
+        "publishedLabel": "June 6, 2026",
+        "category": "Industry Update",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-131543075,imgsize-87230,width-1200,height=627,overlay-ethealth,resizemode-75/industry/us-adds-38-million-for-ebola-as-cdc-warns-outbreak-could-match-2014.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/us-adds-38-million-for-ebola-as-cdc-warns-outbreak-could-match-2014/131543075",
+        "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-us-adds-38-million-for-ebola-as-cdc-warns-outbreak-could-match-2014"
+      },
+      {
         "id": "2026-05-31-post-surgery-radiation-therapy-lowers-risk-of-bladder-cancer-recurrence-",
         "title": "Post-surgery radiation therapy lowers risk of bladder cancer recurrence, study suggests",
         "summary": "The phase 3 randomised controlled trial was conducted at four academic centres in India, involving 153 patients with nonmetastatic MIBC. Seventy one per cent of the participants were treated with pre-surgery chemotherapy and 20 per cent with post-surgery...",
@@ -243,26 +263,26 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-131532463,imgsize-109298,width-1200,height=627,overlay-ethealth,resizemode-75/industry/post-surgery-radiation-therapy-lowers-risk-of-bladder-cancer-recurrence-study-suggests.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/post-surgery-radiation-therapy-lowers-risk-of-bladder-cancer-recurrence-study-suggests/131532463",
         "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-post-surgery-radiation-therapy-lowers-risk-of-bladder-cancer-recurrence-"
       },
       {
-        "id": "2026-05-31-hexagon-nutrition-mobilises-rs-41-66-cr-from-anchor-investors-ipo-opens-",
-        "title": "Hexagon Nutrition mobilises Rs 41.66 cr from anchor investors; IPO opens on Jun 5",
-        "summary": "Bandhan Small Cap Fund emerged as the sole domestic mutual fund participant in the anchor book and was allotted 26.66 lakh shares worth Rs 12 crore, according to a circular uploaded on BSE's website.",
+        "id": "2026-05-31-who-announces-518-million-six-month-plan-to-fight-ebola",
+        "title": "WHO announces $518 million six-month plan to fight Ebola",
+        "summary": "\"It's time-bound plan covering June to November this year, and ... the cost ‌of the ⁠plan ⁠is at $518 million,\" said WHO Director-General Tedros Adhanom Ghebreyesus, announcing the strategy with ​Africa Centres for Disease Control and Prevention.",
         "source": "ET Healthworld",
         "sourceHost": "health.economictimes.indiatimes.com",
         "region": "India",
         "country": "India",
-        "publishedAt": "2026-06-05T02:16:17.000Z",
-        "publishedLabel": "June 5, 2026",
+        "publishedAt": "2026-06-05T20:37:58.000Z",
+        "publishedLabel": "June 6, 2026",
         "category": "Industry Update",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-131519536,imgsize-174756,width-1200,height=627,overlay-ethealth,resizemode-75/industry/hexagon-nutrition-mobilises-rs-41-66-cr-from-anchor-investors-ipo-opens-on-jun-5.jpg",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-131540554,imgsize-4843348,width-1200,height=627,overlay-ethealth,resizemode-75/industry/who-announces-518-million-six-month-plan-to-fight-ebola.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/hexagon-nutrition-mobilises-rs-41-66-cr-from-anchor-investors-ipo-opens-on-jun-5/131519536",
-        "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-hexagon-nutrition-mobilises-rs-41-66-cr-from-anchor-investors-ipo-opens-"
+        "justIn": true,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/who-announces-518-million-six-month-plan-to-fight-ebola/131540554",
+        "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-who-announces-518-million-six-month-plan-to-fight-ebola"
       },
       {
         "id": "2026-05-31-paras-healthcare-files-papers-with-sebi-for-rs-1-800-cr-ipo",
@@ -299,23 +319,6 @@
         "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-healthcare-isn-t-expensive-hospital-business-models-make-it-expensive-va"
       },
       {
-        "id": "2026-05-31-five-year-old-recovers-from-rare-gbs-after-90-day-treatment-in-udaipur",
-        "title": "Five-year-old recovers from rare GBS after 90-day treatment in Udaipur",
-        "summary": "The child was admitted with severe weakness in both legs and was later diagnosed with GBS, a condition in which the body's immune system attacks the nerves, leading to muscle weakness and, in severe cases, breathing difficulties. As her condition...",
-        "source": "ET Healthworld",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-06-03T23:31:18.000Z",
-        "publishedLabel": "June 4, 2026",
-        "category": "Industry Update",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-131480062,imgsize-89170,width-1200,height=627,overlay-ethealth,resizemode-75/industry/five-year-old-recovers-from-rare-gbs-after-90-day-treatment-in-udaipur.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/five-year-old-recovers-from-rare-gbs-after-90-day-treatment-in-udaipur/131480062",
-        "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-five-year-old-recovers-from-rare-gbs-after-90-day-treatment-in-udaipur"
-      },
-      {
         "id": "2026-05-31-india-achieves-ai-breakthrough-in-cancer-care-with-mask-free-simulationl",
         "title": "India achieves AI breakthrough in cancer care with mask-free, simulationless radiotherapy",
         "summary": "Sir HN Reliance Foundation Hospital has achieved a significant medical milestone by successfully treating a head and neck cancer patient using a unique combination of Surface Guided Radiotherapy (SGRT) and adaptive radiotherapy for the first time in India.",
@@ -333,23 +336,6 @@
         "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-india-achieves-ai-breakthrough-in-cancer-care-with-mask-free-simulationl"
       },
       {
-        "id": "2026-05-31-telangana-tops-nation-in-c-section-deliveries-private-hospitals-drive-nu",
-        "title": "Telangana tops nation in C-section deliveries, private hospitals drive numbers",
-        "summary": "The latest National Family Health Survey (NFHS‑6) reveals that while govt hospitals have largely kept rates below 50%, private facilities report some of the steepest figures nationwide, underscoring a widening gap between medical necessity and practice.",
-        "source": "ET Healthworld",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-06-03T23:29:11.000Z",
-        "publishedLabel": "June 4, 2026",
-        "category": "Industry Update",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-131494170,imgsize-97526,width-1200,height=627,overlay-ethealth,resizemode-75/industry/telangana-tops-nation-in-c-section-deliveries-private-hospitals-drive-numbers.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/telangana-tops-nation-in-c-section-deliveries-private-hospitals-drive-numbers/131494170",
-        "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-telangana-tops-nation-in-c-section-deliveries-private-hospitals-drive-nu"
-      },
-      {
         "id": "2026-05-31-explainer-why-zaynich-may-be-indian-pharma-s-watershed-moment",
         "title": "Explainer: Why Zaynich may be Indian pharma’s watershed moment",
         "summary": "Wockhardt's novel antibiotic Zaynich has secured landmark US FDA approval to combat drug-resistant superbugs, potentially shifting the Indian pharmaceutical industry from low-margin generics to global drug discovery.",
@@ -362,7 +348,7 @@
         "category": "Approval",
         "image": "https://images.financialexpressdigital.com/2026/06/wockhardt_a.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.financialexpress.com/business/healthcare/explainer-why-zaynich-may-be-indian-pharmas-watershed-moment/4259260/",
         "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-explainer-why-zaynich-may-be-indian-pharma-s-watershed-moment"
       },
@@ -413,7 +399,7 @@
         "category": "Approval",
         "image": "https://images.financialexpressdigital.com/2026/06/antibiotics_20260605154825.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.financialexpress.com/business/news/newspoint-khorakiwalas-antibiotic-bet/4260321/",
         "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-newspoint-khorakiwala-s-antibiotic-bet"
       },
@@ -469,6 +455,23 @@
         "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-nppa-imposes-price-caps-on-30-new-drugs"
       },
       {
+        "id": "2026-05-31-who-backs-three-experimental-drugs-for-bundibugyo-ebola-outbreak-healthc",
+        "title": "WHO backs three experimental drugs for Bundibugyo Ebola outbreak | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
+        "summary": "The latest recommendations come as health authorities continue to battle a widening outbreak in eastern DRC, with additional confirmed cases reported in Uganda.",
+        "source": "Healthcare MEA",
+        "sourceHost": "healthcaremea.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-05-31T08:57:00.000Z",
+        "publishedLabel": "May 31, 2026",
+        "category": "Manufacturing",
+        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/05/image-1600x900-2026-05-31T095033.887.png",
+        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
+        "justIn": true,
+        "originalUrl": "https://www.healthcaremea.com/2026/05/31/who-backs-three-experimental-drugs-for-bundibugyo-ebola-outbreak/",
+        "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-who-backs-three-experimental-drugs-for-bundibugyo-ebola-outbreak-healthc"
+      },
+      {
         "id": "2026-05-31-cdmos-and-atmp-growth-upswing-in-apac",
         "title": "CDMOs & ATMP Growth Upswing in APAC",
         "summary": "CDMOs & ATMP Growth Upswing in APAC",
@@ -481,7 +484,7 @@
         "category": "Industry Update",
         "image": "https://www.biospectrumasia.com/uploads/articles/1-27704.jpg",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.biospectrumasia.com/analysis/38/27704/cdmos-atmp-growth-upswing-in-apac.html",
         "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-cdmos-and-atmp-growth-upswing-in-apac"
       },
@@ -515,7 +518,7 @@
         "category": "Partnership",
         "image": "https://medicaldialogues.in/h-upload/2023/01/10/197260-shilpa-medicare-2.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/shilpa-medicare-unit-invests-euro-7-million-in-brain-cancer-drug-developer-gate2brain-172142",
         "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-shilpa-medicare-unit-invests-euro-7-million-in-brain-cancer-drug-develop"
       },
@@ -605,6 +608,23 @@
         "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-johnson-and-johnson-presents-new-data-further-reinforcing-the-role-of-ni"
       },
       {
+        "id": "2026-05-31-apogee-therapeutics-secures-us-1-3b-blackstone-deal-for-phase-3-eczema-d",
+        "title": "Apogee Therapeutics secures US$1.3B Blackstone deal for phase 3 eczema drug | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
+        "summary": "Under the deal, Blackstone Life Sciences will provide up to US$800 million in exchange for low- to mid-single-digit tiered royalties on future zumilokibart sales for 15 years.",
+        "source": "Healthcare MEA",
+        "sourceHost": "healthcaremea.com",
+        "region": "Middle East",
+        "country": "Middle East",
+        "publishedAt": "2026-05-31T07:26:17.000Z",
+        "publishedLabel": "May 31, 2026",
+        "category": "Manufacturing",
+        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/05/image-1600x900-2026-05-31T102143.629.png",
+        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
+        "justIn": true,
+        "originalUrl": "https://www.healthcaremea.com/2026/05/31/apogee-therapeutics-secures-us1-3b-blackstone-deal-for-phase-3-eczema-drug/",
+        "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-apogee-therapeutics-secures-us-1-3b-blackstone-deal-for-phase-3-eczema-d"
+      },
+      {
         "id": "2026-05-31-cdsco-directs-industry-to-strengthen-pharmacovigilance-systems-complianc",
         "title": "CDSCO Directs Industry to Strengthen Pharmacovigilance Systems ; Compliance May Be Checked During Inspections",
         "summary": "India’s drug regulator has issued a fresh reminder to pharmaceutical manufacturers and other stakeholders regarding the mandatory implementation of pharmacovigilance (PV) systems under the provisions of the Drugs and Cosmetics Act, 1940 and related rules.",
@@ -617,7 +637,7 @@
         "category": "Industry Update",
         "image": "https://www.pharmatutor.org/sites/default/files/styles/webp/public/2026-06/cdsco-directs-industry-to-strengthen-pharmacovigilance-systems-compliance-may-be-checked-during-inspections.jpg.webp?itok=QriTnH8A",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/cdsco-directs-industry-to-strengthen-pharmacovigilance-systems-compliance-may-be-checked-during-inspections",
         "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-cdsco-directs-industry-to-strengthen-pharmacovigilance-systems-complianc"
       },
@@ -639,6 +659,23 @@
         "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-servier-to-acquire-edgewise-s-muscular-dystrophy-drug-in-usd-2-65-billio"
       },
       {
+        "id": "2026-05-31-fda-clears-astrazeneca-s-imfinzi-bcg-combo-for-high-risk-bladder-cancer-",
+        "title": "FDA clears AstraZeneca's Imfinzi-BCG combo for high-risk bladder cancer | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
+        "summary": "The decision expands Imfinzi’s bladder cancer footprint beyond its earlier approval in muscle-invasive bladder cancer (MIBC), where it is used with chemotherapy agents’ gemcitabine and cisplatin b ...",
+        "source": "Healthcare MEA",
+        "sourceHost": "healthcaremea.com",
+        "region": "Middle East",
+        "country": "Middle East",
+        "publishedAt": "2026-05-31T08:10:00.000Z",
+        "publishedLabel": "May 31, 2026",
+        "category": "Approval",
+        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/05/image-1600x900-2026-05-31T103320.345.png",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://www.healthcaremea.com/2026/05/31/fda-clears-astrazenecas-imfinzi-bcg-combo-for-high-risk-bladder-cancer/",
+        "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-fda-clears-astrazeneca-s-imfinzi-bcg-combo-for-high-risk-bladder-cancer-"
+      },
+      {
         "id": "2026-05-31-usfda-clears-aurobindo-pharma-s-generic-xeljanz-tablets-for-arthritis-ul",
         "title": "USFDA Clears Aurobindo Pharma's Generic Xeljanz Tablets for Arthritis, Ulcerative Colitis",
         "summary": "New Delhi: Aurobindo Pharma Limited has announced that it has received a final approval from the US Food & Drug Administration (USFDA) to manufacture and market Tofacitinib Tablets, 5 mg and 10 mg.The...",
@@ -651,7 +688,7 @@
         "category": "Approval",
         "image": "https://medicaldialogues.in/h-upload/2023/06/30/213176-aurobindo-pharma.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/usfda-clears-aurobindo-pharmas-generic-xeljanz-tablets-for-arthritis-ulcerative-colitis-172157",
         "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-usfda-clears-aurobindo-pharma-s-generic-xeljanz-tablets-for-arthritis-ul"
       },
@@ -668,7 +705,7 @@
         "category": "Approval",
         "image": "https://medicaldialogues.in/h-upload/2022/10/19/188414-alembic-pharma-new.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/alembic-pharma-bags-usfda-approval-for-generic-haldol-tablets-targets-usd-27-million-market-172155",
         "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-alembic-pharma-bags-usfda-approval-for-generic-haldol-tablets-targets-us"
       },
@@ -719,7 +756,7 @@
         "category": "Industry Update",
         "image": "https://www.biospectrumasia.com/uploads/articles/3-27705.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.biospectrumasia.com/analysis/29/27705/how-space-medicine-is-rewriting-healthcare.html",
         "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-how-space-medicine-is-rewriting-healthcare"
       },
@@ -736,7 +773,7 @@
         "category": "Industry Update",
         "image": "https://medicaldialogues.in/h-upload/2025/11/08/307501-202511083569346.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/cdsco-directs-pharma-firms-to-maintain-mandatory-pharmacovigilance-adr-monitoring-systems-under-schedule-m-172161",
         "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-cdsco-directs-pharma-firms-to-maintain-mandatory-pharmacovigilance-adr-m"
       },
@@ -753,7 +790,7 @@
         "category": "Clinical Trial",
         "image": "https://www.pharmatutor.org/sites/default/files/styles/webp/public/2026-06/cdsco-seeks-more-data-before-clearing-bharat-biotech%E2%80%99s-phase-iii-trial-of-novel-tb-vaccine-mtbvac.jpg.webp?itok=7z-WiJo5",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/cdsco-seeks-more-data-before-clearing-bharat-biotechs-phase-iii-trial-of-novel-tb-vaccine-mtbvac",
         "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-cdsco-seeks-more-data-before-clearing-bharat-biotech-s-phase-iii-trial-o"
       },
@@ -841,43 +878,26 @@
         "justIn": false,
         "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/johnson-and-johnson-reports-encouraging-late-stage-results-for-novel-head-and-neck-cancer-therapy",
         "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-johnson-and-johnson-reports-encouraging-late-stage-results-for-novel-hea"
-      },
-      {
-        "id": "2026-05-31-pharma-capsule-maker-packaging-firm-allege-rs-3-crore-fraud-4-booked-by-",
-        "title": "Pharma Capsule Maker, Packaging Firm Allege Rs 3 Crore Fraud, 4 Booked by Ahmedabad DCB",
-        "summary": "Ahmedabad: The Detection of Crime Branch (DCB) has registered a case of cheating and criminal breach of trust against four individuals after two Ahmedabad-based firms alleged they were duped of over...",
-        "source": "Medical Dialogues Pharma",
-        "sourceHost": "medicaldialogues.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-06-05T12:16:09.000Z",
-        "publishedLabel": "June 5, 2026",
-        "category": "Industry Update",
-        "image": "https://medicaldialogues.in/h-upload/2021/07/17/157426-cheating.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
-        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/pharma-capsule-maker-packaging-firm-allege-rs-3-crore-fraud-4-booked-by-ahmedabad-dcb-172154",
-        "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-pharma-capsule-maker-packaging-firm-allege-rs-3-crore-fraud-4-booked-by-"
-      },
-      {
-        "id": "2026-05-31-glenmark-expands-u-s-injectable-portfolio-with-launch-of-generic-lacosam",
-        "title": "Glenmark Expands U.S. Injectable Portfolio with Launch of Generic Lacosamide Injection",
-        "summary": "Glenmark Pharmaceuticals Ltd. has announced that its U.S.-based subsidiary, Glenmark Pharmaceuticals Inc., USA, has launched Lacosamide Injection USP 200 mg/20 mL (10 mg/mL) Single-Dose Vials in the United States market. The product is the generic equivalent...",
-        "source": "PharmaTutor News",
-        "sourceHost": "pharmatutor.org",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-06-05T11:19:31.000Z",
-        "publishedLabel": "June 5, 2026",
-        "category": "Market",
-        "image": "https://www.pharmatutor.org/sites/default/files/styles/webp/public/2026-06/glenmark-expands-us-injectable-portfolio-with-launch-of-generic-lacosamide-injection.jpg.webp?itok=iwMgAJ5_",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
-        "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/glenmark-expands-us-injectable-portfolio-with-launch-of-generic-lacosamide-injection",
-        "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-glenmark-expands-u-s-injectable-portfolio-with-launch-of-generic-lacosam"
       }
     ],
     "providers": [
+      {
+        "id": "2026-05-31-warburg-kkr-tpg-among-pe-giants-vying-for-25-stake-in-cloudnine",
+        "title": "Warburg, KKR, TPG among PE giants vying for 25% stake in Cloudnine",
+        "summary": "Global private equity giants, including Warburg Pincus and KKR, are vying for a 25% stake in India's largest maternity and pediatric hospital chain, Cloudnine. The deal is expected to value the company at approximately $1 billion, with existing investor True...",
+        "source": "ET Healthworld Hospitals",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-06-04T05:27:04.000Z",
+        "publishedLabel": "June 4, 2026",
+        "category": "Hospital",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-131497301,imgsize-121882,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/warburg-kkr-tpg-among-pe-giants-vying-for-25-stake-in-cloudnine.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": true,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/warburg-kkr-tpg-among-pe-giants-vying-for-25-stake-in-cloudnine/131497301",
+        "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-warburg-kkr-tpg-among-pe-giants-vying-for-25-stake-in-cloudnine"
+      },
       {
         "id": "2026-05-31-bridging-the-gap-in-pain-awareness-and-treatment-accessibility",
         "title": "Bridging the gap in pain awareness and treatment accessibility",
@@ -949,6 +969,23 @@
         "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-drug-testing-costs-to-rise-annually-health-ministry-notifies-new-fee-str"
       },
       {
+        "id": "2026-05-31-dollar-firms-after-strong-us-jobs-data-pushes-yen-through-160-level",
+        "title": "Dollar firms after strong US jobs data, pushes yen through 160 level",
+        "summary": "Nonfarm payrolls increased by 172,000 jobs last month, the Labor Department's ‌Bureau of Labor Statistics said in its closely watched employment report on Friday",
+        "source": "Zawya Pharmaceuticals",
+        "sourceHost": "zawya.com",
+        "region": "Middle East",
+        "country": "Middle East",
+        "publishedAt": "2026-06-05T15:19:21.000Z",
+        "publishedLabel": "June 5, 2026",
+        "category": "Lab Network",
+        "image": "https://static.zawya.com/view/acePublic/alias/contentid/2bc0c820-64f4-4840-9b5b-24dc6a010839/0/fintech-crypto-turkey-pix.jpeg?f=3%3A2",
+        "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
+        "justIn": true,
+        "originalUrl": "https://www.zawya.com/en/business/currencies/dollar-firms-after-strong-us-jobs-data-pushes-yen-through-160-level-npy7n3b4",
+        "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-dollar-firms-after-strong-us-jobs-data-pushes-yen-through-160-level"
+      },
+      {
         "id": "2026-05-31-from-skincare-staple-to-cancer-fear-controversy-how-cerave-became-the-fa",
         "title": "From Skincare Staple to Cancer-Fear Controversy: How CeraVe Became the Face of Benzene- Cancer Debate",
         "summary": "New Delhi: What began as a laboratory warning about benzene contamination in consumer products has evolved into a global skincare controversy that continues to haunt one of the world's most...",
@@ -1006,6 +1043,14 @@
   "thbActions": [
     {
       "segment": "pharma",
+      "articleId": "2026-05-31-regulator-cos-discuss-price-hike-for-some-cancer-drugs",
+      "title": "Regulator, cos discuss price hike for some cancer drugs",
+      "source": "Economic Times Pharma",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "pharma",
       "articleId": "2026-05-31-fda-approval-puts-wockhardt-s-zaynich-in-9-billion-antibiotics-market",
       "title": "FDA approval puts Wockhardt’s Zaynich in $9 billion antibiotics market",
       "source": "Economic Times Pharma",
@@ -1037,12 +1082,12 @@
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
     },
     {
-      "segment": "pharma",
-      "articleId": "2026-05-31-delhi-hc-allows-intas-to-sell-cancer-drug-bevatas-sets-aside-order-favou",
-      "title": "Delhi HC allows Intas to sell cancer drug Bevatas, sets aside order favouring Sun Pharma",
-      "source": "Economic Times Pharma",
-      "solution": "THB Commercial Analytics",
-      "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
+      "segment": "providers",
+      "articleId": "2026-05-31-warburg-kkr-tpg-among-pe-giants-vying-for-25-stake-in-cloudnine",
+      "title": "Warburg, KKR, TPG among PE giants vying for 25% stake in Cloudnine",
+      "source": "ET Healthworld Hospitals",
+      "solution": "THB Provider CRM",
+      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
     },
     {
       "segment": "providers",
@@ -1073,6 +1118,14 @@
       "articleId": "2026-05-31-drug-testing-costs-to-rise-annually-health-ministry-notifies-new-fee-str",
       "title": "Drug Testing Costs to Rise Annually: Health Ministry Notifies New Fee Structure Under Drugs Rules",
       "source": "Medical Dialogues Pharma",
+      "solution": "THB Diagnostics CRM",
+      "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
+    },
+    {
+      "segment": "diagnostics",
+      "articleId": "2026-05-31-dollar-firms-after-strong-us-jobs-data-pushes-yen-through-160-level",
+      "title": "Dollar firms after strong US jobs data, pushes yen through 160 level",
+      "source": "Zawya Pharmaceuticals",
       "solution": "THB Diagnostics CRM",
       "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
     },
