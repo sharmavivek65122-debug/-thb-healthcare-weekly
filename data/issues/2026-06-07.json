@@ -5,16 +5,18 @@
   "startDate": "2026-06-06T18:30:00.000Z",
   "endDate": "2026-06-12T18:30:00.000Z",
   "status": "live",
-  "updatedAt": "2026-06-07T08:06:02.159Z",
+  "updatedAt": "2026-06-07T15:11:53.111Z",
   "coverage": {
-    "pharma": 2,
-    "providers": 0,
+    "pharma": 5,
+    "providers": 4,
     "diagnostics": 0,
     "healthtech": 0
   },
   "sourcesUsed": [
     "ET Healthworld",
-    "Economic Times Pharma"
+    "Economic Times Pharma",
+    "Medical Dialogues Pharma",
+    "Zawya Pharmaceuticals"
   ],
   "segments": {
     "pharma": [
@@ -51,9 +53,129 @@
         "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/osteoarthritis-increasingly-affecting-people-in-their-30s-personalised-treatment-is-the-key-study/131562848",
         "articlePath": "/article.html?issue=2026-06-07&article=2026-06-07-osteoarthritis-increasingly-affecting-people-in-their-30s-personalised-t"
+      },
+      {
+        "id": "2026-06-07-intas-gets-interim-relief-from-delhi-hc-in-sun-pharma-cancer-drug-tradem",
+        "title": "Intas Gets Interim Relief from Delhi HC in Sun Pharma Cancer Drug Trademark Row, Allows Sale of Existing...",
+        "summary": "New Delhi: The Delhi High Court has granted interim relief to Intas Pharmaceuticals Limited by allowing it to continue selling its existing stock of the cancer drug BEVATAS, even as it challenges a...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-06-07T09:00:03.000Z",
+        "publishedLabel": "June 7, 2026",
+        "category": "Industry Update",
+        "image": "https://medicaldialogues.in/h-upload/2024/03/05/233643-delhi-high-court-50.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/intas-gets-interim-relief-from-delhi-hc-in-sun-pharma-cancer-drug-trademark-row-allows-sale-of-existing-bevatas-stock-172266",
+        "articlePath": "/article.html?issue=2026-06-07&article=2026-06-07-intas-gets-interim-relief-from-delhi-hc-in-sun-pharma-cancer-drug-tradem"
+      },
+      {
+        "id": "2026-06-07-jamjoom-pharma-signs-mou-with-the-ministry-of-health-in-saudi-arabia-to-",
+        "title": "Jamjoom Pharma signs MOU with the Ministry of Health in Saudi Arabia to develop healthcare talents",
+        "summary": "Aiming to support the development of healthcare and pharmaceutical professionals through training programs and educational initiatives",
+        "source": "Zawya Pharmaceuticals",
+        "sourceHost": "zawya.com",
+        "region": "Middle East",
+        "country": "United Arab Emirates",
+        "publishedAt": "2026-06-07T09:14:33.000Z",
+        "publishedLabel": "June 7, 2026",
+        "category": "Industry Update",
+        "image": "https://static.zawya.com/view/acePublic/alias/contentid/869fa194-f92c-4e8e-b82a-b6aed4394bba/0/whatsappimage2026-06-07at9-46-26am-jpeg.jpeg?f=3%3A2",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://www.zawya.com/en/press-release/companies-news/jamjoom-pharma-signs-mou-with-the-ministry-of-health-in-saudi-arabia-to-develop-healthcare-talents-otedt1yg",
+        "articlePath": "/article.html?issue=2026-06-07&article=2026-06-07-jamjoom-pharma-signs-mou-with-the-ministry-of-health-in-saudi-arabia-to-"
+      },
+      {
+        "id": "2026-06-07-carnegie-mellon-qatar-celebrates-research-and-discovery-at-flagship-unde",
+        "title": "Carnegie Mellon Qatar celebrates research and discovery at flagship undergraduate symposium",
+        "summary": "This year’s event brought together 65 research projects across two presentation streams",
+        "source": "Zawya Pharmaceuticals",
+        "sourceHost": "zawya.com",
+        "region": "Middle East",
+        "country": "Qatar",
+        "publishedAt": "2026-06-07T11:46:54.000Z",
+        "publishedLabel": "June 7, 2026",
+        "category": "Industry Update",
+        "image": "https://static.zawya.com/view/acePublic/alias/contentid/63ead8b7-38e7-4b6a-98b9-65e592fc1b77/0/photo1-jpg.jpeg?f=3%3A2",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://www.zawya.com/en/press-release/companies-news/carnegie-mellon-qatar-celebrates-research-and-discovery-at-flagship-undergraduate-symposium-e68f65z0",
+        "articlePath": "/article.html?issue=2026-06-07&article=2026-06-07-carnegie-mellon-qatar-celebrates-research-and-discovery-at-flagship-unde"
       }
     ],
-    "providers": [],
+    "providers": [
+      {
+        "id": "2026-06-07-india-spent-over-rs-1-6-lakh-crore-on-medicines-in-2022-2023-reveals-nha",
+        "title": "India Spent Over Rs 1.6 Lakh Crore on Medicines in 2022-2023, Reveals NHA Report",
+        "summary": "New Delhi: Despite a significant increase in government spending on healthcare over the past decade, medicines remain among the largest contributors to India's healthcare expenditure, underscoring the...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-06-07T09:24:28.000Z",
+        "publishedLabel": "June 7, 2026",
+        "category": "AI Care Delivery",
+        "image": "https://medicaldialogues.in/h-upload/2022/10/08/187289-national-health-accounts.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": false,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/india-spent-over-rs-16-lakh-crore-on-medicines-in-2022-2023-reveals-nha-report-172268",
+        "articlePath": "/article.html?issue=2026-06-07&article=2026-06-07-india-spent-over-rs-1-6-lakh-crore-on-medicines-in-2022-2023-reveals-nha"
+      },
+      {
+        "id": "2026-06-07-al-qassimi-women-s-and-children-s-hospital-achieves-landmark-medical-mil",
+        "title": "Al Qassimi Women’s and Children’s Hospital achieves landmark medical milestone with a series of advanced paediatric robotic surgeries",
+        "summary": "The procedures performed are the first of their kind in the UAE",
+        "source": "Zawya Pharmaceuticals",
+        "sourceHost": "zawya.com",
+        "region": "Middle East",
+        "country": "United Arab Emirates",
+        "publishedAt": "2026-06-07T11:46:45.000Z",
+        "publishedLabel": "June 7, 2026",
+        "category": "Hospital",
+        "image": "https://static.zawya.com/view/acePublic/alias/contentid/e15a9c06-d1d4-405e-a5fd-93d9150967e5/0/image-48-jfif.jpeg?f=3%3A2",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": false,
+        "originalUrl": "https://www.zawya.com/en/press-release/companies-news/al-qassimi-womens-and-childrens-hospital-achieves-landmark-medical-milestone-with-a-series-of-advanced-paediatric-robotic-surgeries-ogddguha",
+        "articlePath": "/article.html?issue=2026-06-07&article=2026-06-07-al-qassimi-women-s-and-children-s-hospital-achieves-landmark-medical-mil"
+      },
+      {
+        "id": "2026-06-07-uae-president-issues-a-federal-decree-appointing-director-general-of-the",
+        "title": "UAE President issues a federal decree appointing Director General of the Federal Authority for Nuclear Regulation",
+        "summary": "His Excellency Hamad Ali Mohammed Al Kaabi appointed as Director General of the Federal Authority for Nuclear Regulation",
+        "source": "Zawya Pharmaceuticals",
+        "sourceHost": "zawya.com",
+        "region": "Middle East",
+        "country": "United Arab Emirates",
+        "publishedAt": "2026-06-07T12:24:07.000Z",
+        "publishedLabel": "June 7, 2026",
+        "category": "Provider Update",
+        "image": "https://static.zawya.com/view/acePublic/alias/contentid/6b2abca1-0f60-421a-af66-27368116565d/0/_hamad-alkaabi_taayyn-2026.jpeg?f=3%3A2",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": false,
+        "originalUrl": "https://www.zawya.com/en/press-release/government-news/uae-president-issues-a-federal-decree-appointing-director-general-of-the-federal-authority-for-nuclear-regulation-icjmnni9",
+        "articlePath": "/article.html?issue=2026-06-07&article=2026-06-07-uae-president-issues-a-federal-decree-appointing-director-general-of-the"
+      },
+      {
+        "id": "2026-06-07-cinet-signs-memorandum-of-understanding-with-the-kuwait-institute-of-ban",
+        "title": "CINET signs memorandum of understanding with the Kuwait Institute of Banking Studies",
+        "summary": "Aiming to enhance credit awareness and advancing professional standards",
+        "source": "Zawya Pharmaceuticals",
+        "sourceHost": "zawya.com",
+        "region": "Middle East",
+        "country": "Kuwait",
+        "publishedAt": "2026-06-07T09:01:07.000Z",
+        "publishedLabel": "June 7, 2026",
+        "category": "AI Care Delivery",
+        "image": "https://static.zawya.com/view/acePublic/alias/contentid/6b90fc1c-a9f3-4b4b-9eb1-ce109c9aff71/0/dsc02370-jpg.jpeg?f=3%3A2",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": false,
+        "originalUrl": "https://www.zawya.com/en/press-release/companies-news/cinet-signs-memorandum-of-understanding-with-the-kuwait-institute-of-banking-studies-tm8c95m5",
+        "articlePath": "/article.html?issue=2026-06-07&article=2026-06-07-cinet-signs-memorandum-of-understanding-with-the-kuwait-institute-of-ban"
+      }
+    ],
     "diagnostics": [],
     "healthtech": []
   },
@@ -73,6 +195,62 @@
       "source": "ET Healthworld",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "pharma",
+      "articleId": "2026-06-07-intas-gets-interim-relief-from-delhi-hc-in-sun-pharma-cancer-drug-tradem",
+      "title": "Intas Gets Interim Relief from Delhi HC in Sun Pharma Cancer Drug Trademark Row, Allows Sale of Existing...",
+      "source": "Medical Dialogues Pharma",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "pharma",
+      "articleId": "2026-06-07-jamjoom-pharma-signs-mou-with-the-ministry-of-health-in-saudi-arabia-to-",
+      "title": "Jamjoom Pharma signs MOU with the Ministry of Health in Saudi Arabia to develop healthcare talents",
+      "source": "Zawya Pharmaceuticals",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "pharma",
+      "articleId": "2026-06-07-carnegie-mellon-qatar-celebrates-research-and-discovery-at-flagship-unde",
+      "title": "Carnegie Mellon Qatar celebrates research and discovery at flagship undergraduate symposium",
+      "source": "Zawya Pharmaceuticals",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "providers",
+      "articleId": "2026-06-07-india-spent-over-rs-1-6-lakh-crore-on-medicines-in-2022-2023-reveals-nha",
+      "title": "India Spent Over Rs 1.6 Lakh Crore on Medicines in 2022-2023, Reveals NHA Report",
+      "source": "Medical Dialogues Pharma",
+      "solution": "THB Provider CRM",
+      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
+    },
+    {
+      "segment": "providers",
+      "articleId": "2026-06-07-al-qassimi-women-s-and-children-s-hospital-achieves-landmark-medical-mil",
+      "title": "Al Qassimi Women’s and Children’s Hospital achieves landmark medical milestone with a series of advanced paediatric robotic surgeries",
+      "source": "Zawya Pharmaceuticals",
+      "solution": "THB Provider CRM",
+      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
+    },
+    {
+      "segment": "providers",
+      "articleId": "2026-06-07-uae-president-issues-a-federal-decree-appointing-director-general-of-the",
+      "title": "UAE President issues a federal decree appointing Director General of the Federal Authority for Nuclear Regulation",
+      "source": "Zawya Pharmaceuticals",
+      "solution": "THB Provider CRM",
+      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
+    },
+    {
+      "segment": "providers",
+      "articleId": "2026-06-07-cinet-signs-memorandum-of-understanding-with-the-kuwait-institute-of-ban",
+      "title": "CINET signs memorandum of understanding with the Kuwait Institute of Banking Studies",
+      "source": "Zawya Pharmaceuticals",
+      "solution": "THB Provider CRM",
+      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
     }
   ]
 }

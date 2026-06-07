@@ -5,10 +5,10 @@
   "startDate": "2026-04-25T18:30:00.000Z",
   "endDate": "2026-05-01T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-06-07T08:06:02.159Z",
+  "updatedAt": "2026-06-07T15:11:53.111Z",
   "coverage": {
     "pharma": 1,
-    "providers": 8,
+    "providers": 9,
     "diagnostics": 2,
     "healthtech": 0
   },
@@ -70,6 +70,23 @@
         "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/indias-healthcare-expansion-faces-a-critical-talent-crunch-says-alisha-moopen/130708745",
         "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-india-s-healthcare-expansion-faces-a-critical-talent-crunch-says-alisha-"
+      },
+      {
+        "id": "2026-04-26-apollo-hospitals-launches-400-bed-smart-hospital-in-hyderabad-expands-na",
+        "title": "Apollo Hospitals launches 400-bed smart hospital in Hyderabad, expands national network to 76",
+        "summary": "Apollo Hospitals has launched a 400-bed next-generation smart hospital in Hyderabad, featuring AI-enabled systems, advanced diagnostics and smart ICU care, expanding its national network to 76 hospitals.",
+        "source": "ET Healthworld Hospitals",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-04-29T10:07:02.000Z",
+        "publishedLabel": "April 29, 2026",
+        "category": "Hospital",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-130603271,imgsize-187678,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/apollo-hospitals-launches-400-bed-smart-hospital-in-hyderabad-expands-national-network-to-76.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": false,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/apollo-hospitals-launches-400-bed-smart-hospital-in-hyderabad-expands-national-network-to-76/130603271",
+        "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-apollo-hospitals-launches-400-bed-smart-hospital-in-hyderabad-expands-na"
       },
       {
         "id": "2026-04-26-fortis-to-host-international-summit-to-discuss-future-of-cancer-care",
@@ -239,6 +256,14 @@
     },
     {
       "segment": "providers",
+      "articleId": "2026-04-26-apollo-hospitals-launches-400-bed-smart-hospital-in-hyderabad-expands-na",
+      "title": "Apollo Hospitals launches 400-bed smart hospital in Hyderabad, expands national network to 76",
+      "source": "ET Healthworld Hospitals",
+      "solution": "THB Provider CRM",
+      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
+    },
+    {
+      "segment": "providers",
       "articleId": "2026-04-26-fortis-to-host-international-summit-to-discuss-future-of-cancer-care",
       "title": "Fortis to host international summit to discuss future of cancer care",
       "source": "ET Healthworld Hospitals",
@@ -249,14 +274,6 @@
       "segment": "providers",
       "articleId": "2026-04-26-delhi-health-minister-inaugurates-advanced-3d-dental-imaging-facility-at",
       "title": "Delhi Health Minister inaugurates advanced 3D dental imaging facility at Maulana Azad Institute",
-      "source": "ET Healthworld Hospitals",
-      "solution": "THB Provider CRM",
-      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
-    },
-    {
-      "segment": "providers",
-      "articleId": "2026-04-26-medanta-takeover-80-bed-cancer-facility-in-indore-for-30-crore",
-      "title": "Medanta takeover 80-bed cancer facility in Indore for ₹30 crore",
       "source": "ET Healthworld Hospitals",
       "solution": "THB Provider CRM",
       "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
