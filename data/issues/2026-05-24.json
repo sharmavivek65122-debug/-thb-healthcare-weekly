@@ -5,11 +5,11 @@
   "startDate": "2026-05-23T18:30:00.000Z",
   "endDate": "2026-05-29T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-06-07T15:11:53.111Z",
+  "updatedAt": "2026-06-08T09:11:27.895Z",
   "coverage": {
-    "pharma": 12,
+    "pharma": 11,
     "providers": 8,
-    "diagnostics": 7,
+    "diagnostics": 5,
     "healthtech": 1
   },
   "sourcesUsed": [
@@ -20,7 +20,6 @@
     "Economic Times Pharma",
     "Express Healthcare",
     "Express Healthcare Posts",
-    "Healthcare MEA",
     "Janssen India Media"
   ],
   "segments": {
@@ -196,23 +195,6 @@
         "articlePath": "/article.html?issue=2026-05-24&article=2026-05-24-fda-approves-label-expansion-cementing-tremfya-as-the-only-il-23-inhibit"
       },
       {
-        "id": "2026-05-24-align-technology-to-set-up-us-200m-invisalign-plant-in-hyderabad-healthc",
-        "title": "Align Technology to set up US$200M Invisalign plant in Hyderabad | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
-        "summary": "The facility, which is expected to begin operations in 2027, will become Align Technology’s first manufacturing site in India and its fourth worldwide.",
-        "source": "Healthcare MEA",
-        "sourceHost": "healthcaremea.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-05-29T12:38:39.000Z",
-        "publishedLabel": "May 29, 2026",
-        "category": "Manufacturing",
-        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/05/image-1600x900-2026-05-29T153255.754.png",
-        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": false,
-        "originalUrl": "https://www.healthcaremea.com/2026/05/29/align-technology-to-set-up-us200m-invisalign-plant-in-hyderabad/",
-        "articlePath": "/article.html?issue=2026-05-24&article=2026-05-24-align-technology-to-set-up-us-200m-invisalign-plant-in-hyderabad-healthc"
-      },
-      {
         "id": "2026-05-24-gulf-medical-university-launches-region-s-largest-network-of-clinical-sk",
         "title": "Gulf Medical University launches region’s largest network of clinical skills and simulation centres",
         "summary": "Gulf Medical University launches region’s largest network of clinical skills and simulation centres",
@@ -317,6 +299,23 @@
         "articlePath": "/article.html?issue=2026-05-24&article=2026-05-24-closing-the-care-gap-the-case-for-integrated-emergency-response-in-india"
       },
       {
+        "id": "2026-05-24-world-no-tobacco-day-2026-combating-tobacco-s-impact-on-heart-lung-and-c",
+        "title": "World No Tobacco Day 2026: Combating tobacco’s impact on heart, lung, and cancer health in India",
+        "summary": "Experts from cardiology, oncology and pulmonology highlight the health and economic burden of tobacco use in India and call for screening, awareness and cessation measures",
+        "source": "Express Healthcare Posts",
+        "sourceHost": "expresshealthcare.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-05-30T14:03:01.000Z",
+        "publishedLabel": "May 30, 2026",
+        "category": "Provider Update",
+        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2021/07/01130827/Doctors-consultation.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": false,
+        "originalUrl": "https://www.expresshealthcare.in/news/world-no-tobacco-day-2026-combating-tobaccos-impact-on-heart-lung-and-cancer-health-in-india/453798/",
+        "articlePath": "/article.html?issue=2026-05-24&article=2026-05-24-world-no-tobacco-day-2026-combating-tobacco-s-impact-on-heart-lung-and-c"
+      },
+      {
         "id": "2026-05-24-marengo-asia-hospitals-launches-specialised-multiple-sclerosis-clinic",
         "title": "Marengo Asia Hospitals launches specialised multiple sclerosis clinic",
         "summary": "Marengo Asia Hospitals, Gurugram, has launched a dedicated “Multiple Sclerosis Clinic” on the occasion of World Multiple Sclerosis Day, observed on 30 May, to strengthen awareness, enable early diagnosis, and […]",
@@ -332,23 +331,6 @@
         "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/news/marengo-asia-hospitals-launches-specialised-multiple-sclerosis-clinic/453804/",
         "articlePath": "/article.html?issue=2026-05-24&article=2026-05-24-marengo-asia-hospitals-launches-specialised-multiple-sclerosis-clinic"
-      },
-      {
-        "id": "2026-05-24-world-no-tobacco-day-2026-combating-tobacco-s-impact-on-heart-lung-and-c",
-        "title": "World No Tobacco Day 2026: Combating tobacco’s impact on heart, lung, and cancer health in India",
-        "summary": "Experts from cardiology, oncology and pulmonology highlight the health and economic burden of tobacco use in India and call for screening, awareness and cessation measures",
-        "source": "Express Healthcare",
-        "sourceHost": "expresshealthcare.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-05-29T06:28:49.000Z",
-        "publishedLabel": "May 29, 2026",
-        "category": "Provider Update",
-        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2021/07/01130827/Doctors-consultation.jpg",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://www.expresshealthcare.in/news/world-no-tobacco-day-2026-combating-tobaccos-impact-on-heart-lung-and-cancer-health-in-india/453798/",
-        "articlePath": "/article.html?issue=2026-05-24&article=2026-05-24-world-no-tobacco-day-2026-combating-tobacco-s-impact-on-heart-lung-and-c"
       },
       {
         "id": "2026-05-24-maxivision-and-sightsavers-india-screen-26-826-people-under-community-ey",
@@ -385,23 +367,6 @@
         "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/diagnostics/blood-test-could-help-detect-signs-of-alzheimers-disease-decades-before-symptoms-study/131402539",
         "articlePath": "/article.html?issue=2026-05-24&article=2026-05-24-blood-test-could-help-detect-signs-of-alzheimer-s-disease-decades-before"
-      },
-      {
-        "id": "2026-05-24-nit-rourkela-researchers-develop-ai-enabled-autofocusing-technology-for-",
-        "title": "NIT Rourkela researchers develop AI-enabled autofocusing technology for microscopic imaging",
-        "summary": "Patent-backed technology developed with Glowvista Instruments supports biomedical diagnostics, digital pathology and point-of-care applications",
-        "source": "Express Healthcare Posts",
-        "sourceHost": "expresshealthcare.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-05-26T10:00:47.000Z",
-        "publishedLabel": "May 26, 2026",
-        "category": "Diagnostics",
-        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2020/03/31121040/GettyImages-1165067633-scaled-e1585637014232.jpg",
-        "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
-        "justIn": false,
-        "originalUrl": "https://www.expresshealthcare.in/news/nit-rourkela-researchers-develop-ai-enabled-autofocusing-technology-for-microscopic-imaging/453768/",
-        "articlePath": "/article.html?issue=2026-05-24&article=2026-05-24-nit-rourkela-researchers-develop-ai-enabled-autofocusing-technology-for-"
       },
       {
         "id": "2026-05-24-the-automation-premium-when-ai-costs-more-than-the-clinician-it-replaces",
@@ -470,23 +435,6 @@
         "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/news/when-a-patient-has-already-asked-chatgpt/453786/",
         "articlePath": "/article.html?issue=2026-05-24&article=2026-05-24-when-a-patient-has-already-asked-chatgpt"
-      },
-      {
-        "id": "2026-05-24-kenyan-high-court-suspends-us-backed-ebola-quarantine-facility-over-publ",
-        "title": "Kenyan high court suspends US-backed Ebola quarantine facility over public health concerns",
-        "summary": "The proposed 50-bed unit at the Laikipia Air Base quarantine facility, scheduled to become operational on May 29",
-        "source": "Healthcare MEA",
-        "sourceHost": "healthcaremea.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-05-29T09:58:47.000Z",
-        "publishedLabel": "May 29, 2026",
-        "category": "Industry Update",
-        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/05/image-1600x900-2026-05-29T124916.689.png",
-        "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
-        "justIn": false,
-        "originalUrl": "https://www.healthcaremea.com/2026/05/29/kenyan-court-suspends-us-backed-ebola-quarantine-facility-over-public-health-concerns/",
-        "articlePath": "/article.html?issue=2026-05-24&article=2026-05-24-kenyan-high-court-suspends-us-backed-ebola-quarantine-facility-over-publ"
       }
     ],
     "healthtech": [
@@ -600,14 +548,6 @@
     },
     {
       "segment": "diagnostics",
-      "articleId": "2026-05-24-nit-rourkela-researchers-develop-ai-enabled-autofocusing-technology-for-",
-      "title": "NIT Rourkela researchers develop AI-enabled autofocusing technology for microscopic imaging",
-      "source": "Express Healthcare Posts",
-      "solution": "THB Diagnostics CRM",
-      "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
-    },
-    {
-      "segment": "diagnostics",
       "articleId": "2026-05-24-the-automation-premium-when-ai-costs-more-than-the-clinician-it-replaces",
       "title": "The automation premium: When AI costs more than the clinician it replaces",
       "source": "Express Healthcare Posts",
@@ -626,6 +566,14 @@
       "segment": "diagnostics",
       "articleId": "2026-05-24-nura-launches-preventive-health-screening-centre-in-chennai",
       "title": "NURA launches preventive health screening centre in Chennai",
+      "source": "Express Healthcare Posts",
+      "solution": "THB Diagnostics CRM",
+      "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
+    },
+    {
+      "segment": "diagnostics",
+      "articleId": "2026-05-24-when-a-patient-has-already-asked-chatgpt",
+      "title": "When a patient has already asked ChatGPT",
       "source": "Express Healthcare Posts",
       "solution": "THB Diagnostics CRM",
       "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."

@@ -5,16 +5,18 @@
   "startDate": "2026-06-06T18:30:00.000Z",
   "endDate": "2026-06-12T18:30:00.000Z",
   "status": "live",
-  "updatedAt": "2026-06-07T15:11:53.111Z",
+  "updatedAt": "2026-06-08T09:11:27.895Z",
   "coverage": {
-    "pharma": 5,
-    "providers": 4,
-    "diagnostics": 0,
-    "healthtech": 0
+    "pharma": 8,
+    "providers": 3,
+    "diagnostics": 2,
+    "healthtech": 1
   },
   "sourcesUsed": [
     "ET Healthworld",
     "Economic Times Pharma",
+    "Express Healthcare",
+    "Healthcare MEA",
     "Medical Dialogues Pharma",
     "Zawya Pharmaceuticals"
   ],
@@ -38,6 +40,23 @@
         "articlePath": "/article.html?issue=2026-06-07&article=2026-06-07-uzbekistan-can-provide-more-incentives-to-indian-pharma-firms-aims-to-be"
       },
       {
+        "id": "2026-06-07-maharashtra-fda-detects-unsterilised-gloves-supplied-to-hosps",
+        "title": "Maharashtra FDA detects unsterilised gloves supplied to hosps",
+        "summary": "The stock was imported from Malaysia by Saachi Medic, which has units in Saki Naka and Bhiwandi, and sold to Mediearth Lifecare Pvt Ltd, which in turn sold them to govt hospitals at a time when its sterilization machine was malfunctioning.",
+        "source": "ET Healthworld",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-06-07T17:29:56.000Z",
+        "publishedLabel": "June 7, 2026",
+        "category": "Industry Update",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-131571071,imgsize-74876,width-1200,height=627,overlay-ethealth,resizemode-75/medical-devices/maharashtra-fda-detects-unsterilised-gloves-supplied-to-hosps.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/medical-devices/maharashtra-fda-detects-unsterilised-gloves-supplied-to-hosps/131571071",
+        "articlePath": "/article.html?issue=2026-06-07&article=2026-06-07-maharashtra-fda-detects-unsterilised-gloves-supplied-to-hosps"
+      },
+      {
         "id": "2026-06-07-osteoarthritis-increasingly-affecting-people-in-their-30s-personalised-t",
         "title": "Osteoarthritis increasingly affecting people in their 30s; personalised treatment is the key: study",
         "summary": "The findings suggest that the traditional \"one-size-fits-all\" approach to treatment often fails because patients present with different underlying disease drivers.",
@@ -55,6 +74,40 @@
         "articlePath": "/article.html?issue=2026-06-07&article=2026-06-07-osteoarthritis-increasingly-affecting-people-in-their-30s-personalised-t"
       },
       {
+        "id": "2026-06-07-longbio-pharma-debuts-on-hong-kong-stock-exchange-with-us-1-37b-valuatio",
+        "title": "LongBio Pharma debuts on Hong Kong Stock Exchange with US$1.37B valuation | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
+        "summary": "The company officially listed on the Hong Kong Stock Exchange on June 5, achieving a market valuation of approximately HK$10.7 billion (US$1.37 billion) following its debut.",
+        "source": "Healthcare MEA",
+        "sourceHost": "healthcaremea.com",
+        "region": "Middle East",
+        "country": "Middle East",
+        "publishedAt": "2026-06-08T08:22:01.000Z",
+        "publishedLabel": "June 8, 2026",
+        "category": "Manufacturing",
+        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/06/image-1600x900-2026-06-08T103153.311.png",
+        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
+        "justIn": true,
+        "originalUrl": "https://www.healthcaremea.com/2026/06/08/longbio-pharma-debuts-on-hong-kong-stock-exchange-with-us1-37b-valuation/",
+        "articlePath": "/article.html?issue=2026-06-07&article=2026-06-07-longbio-pharma-debuts-on-hong-kong-stock-exchange-with-us-1-37b-valuatio"
+      },
+      {
+        "id": "2026-06-07-pfizer-secures-us-10-5b-innovative-bio-alliance-to-scale-its-oncology-pi",
+        "title": "Pfizer secures US$10.5B Innovative Bio alliance to scale its oncology pipeline | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
+        "summary": "The agreement brings together Pfizer’s global expertise in clinical development, regulatory affairs, and commercialization with Innovent’s strengths in scientific discovery and early-stage oncolog ...",
+        "source": "Healthcare MEA",
+        "sourceHost": "healthcaremea.com",
+        "region": "Middle East",
+        "country": "Middle East",
+        "publishedAt": "2026-06-08T06:34:51.000Z",
+        "publishedLabel": "June 8, 2026",
+        "category": "Manufacturing",
+        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/06/image-1600x900-2026-06-08T092917.102.png",
+        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
+        "justIn": true,
+        "originalUrl": "https://www.healthcaremea.com/2026/06/08/pfizer-secures-us10-5b-innovative-bio-alliance-to-scale-its-oncology-pipeline/",
+        "articlePath": "/article.html?issue=2026-06-07&article=2026-06-07-pfizer-secures-us-10-5b-innovative-bio-alliance-to-scale-its-oncology-pi"
+      },
+      {
         "id": "2026-06-07-intas-gets-interim-relief-from-delhi-hc-in-sun-pharma-cancer-drug-tradem",
         "title": "Intas Gets Interim Relief from Delhi HC in Sun Pharma Cancer Drug Trademark Row, Allows Sale of Existing...",
         "summary": "New Delhi: The Delhi High Court has granted interim relief to Intas Pharmaceuticals Limited by allowing it to continue selling its existing stock of the cancer drug BEVATAS, even as it challenges a...",
@@ -67,43 +120,43 @@
         "category": "Industry Update",
         "image": "https://medicaldialogues.in/h-upload/2024/03/05/233643-delhi-high-court-50.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/intas-gets-interim-relief-from-delhi-hc-in-sun-pharma-cancer-drug-trademark-row-allows-sale-of-existing-bevatas-stock-172266",
         "articlePath": "/article.html?issue=2026-06-07&article=2026-06-07-intas-gets-interim-relief-from-delhi-hc-in-sun-pharma-cancer-drug-tradem"
       },
       {
-        "id": "2026-06-07-jamjoom-pharma-signs-mou-with-the-ministry-of-health-in-saudi-arabia-to-",
-        "title": "Jamjoom Pharma signs MOU with the Ministry of Health in Saudi Arabia to develop healthcare talents",
-        "summary": "Aiming to support the development of healthcare and pharmaceutical professionals through training programs and educational initiatives",
+        "id": "2026-06-07-egypt-plans-new-egx-listings-tax-and-customs-incentives-as-asset-reforms",
+        "title": "Egypt plans new EGX listings, tax and customs incentives as asset reforms advance",
+        "summary": "Speaking during his weekly press conference following the Cabinet meeting at the government headquarters in the New Capital",
+        "source": "Zawya Pharmaceuticals",
+        "sourceHost": "zawya.com",
+        "region": "Middle East",
+        "country": "Kuwait",
+        "publishedAt": "2026-06-08T08:42:39.000Z",
+        "publishedLabel": "June 8, 2026",
+        "category": "Industry Update",
+        "image": "https://static.zawya.com/view/acePublic/alias/contentid/0bc17bcd-1252-4422-8861-eed9fd0c0d64/187/2215697894.jpeg?f=3%3A2",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://www.zawya.com/en/economy/north-africa/egypt-plans-new-egx-listings-tax-and-customs-incentives-as-asset-reforms-advance-uwc11z2p",
+        "articlePath": "/article.html?issue=2026-06-07&article=2026-06-07-egypt-plans-new-egx-listings-tax-and-customs-incentives-as-asset-reforms"
+      },
+      {
+        "id": "2026-06-07-alec-holdings-sponsors-adopt-a-class-at-al-noor-training-centre-for-peop",
+        "title": "ALEC Holdings sponsors ‘Adopt a Class’ at Al Noor Training Centre for People of Determination",
+        "summary": "It will sponsor a classroom of 10 students of determination for one academic year. As part of the agreement",
         "source": "Zawya Pharmaceuticals",
         "sourceHost": "zawya.com",
         "region": "Middle East",
         "country": "United Arab Emirates",
-        "publishedAt": "2026-06-07T09:14:33.000Z",
-        "publishedLabel": "June 7, 2026",
+        "publishedAt": "2026-06-08T08:39:23.000Z",
+        "publishedLabel": "June 8, 2026",
         "category": "Industry Update",
-        "image": "https://static.zawya.com/view/acePublic/alias/contentid/869fa194-f92c-4e8e-b82a-b6aed4394bba/0/whatsappimage2026-06-07at9-46-26am-jpeg.jpeg?f=3%3A2",
+        "image": "https://static.zawya.com/view/acePublic/alias/contentid/cd1cee08-8a5a-438b-851a-d700a2d6aae1/0/alec-alnoorinitiative-jpg.jpeg?f=3%3A2",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
         "justIn": true,
-        "originalUrl": "https://www.zawya.com/en/press-release/companies-news/jamjoom-pharma-signs-mou-with-the-ministry-of-health-in-saudi-arabia-to-develop-healthcare-talents-otedt1yg",
-        "articlePath": "/article.html?issue=2026-06-07&article=2026-06-07-jamjoom-pharma-signs-mou-with-the-ministry-of-health-in-saudi-arabia-to-"
-      },
-      {
-        "id": "2026-06-07-carnegie-mellon-qatar-celebrates-research-and-discovery-at-flagship-unde",
-        "title": "Carnegie Mellon Qatar celebrates research and discovery at flagship undergraduate symposium",
-        "summary": "This year’s event brought together 65 research projects across two presentation streams",
-        "source": "Zawya Pharmaceuticals",
-        "sourceHost": "zawya.com",
-        "region": "Middle East",
-        "country": "Qatar",
-        "publishedAt": "2026-06-07T11:46:54.000Z",
-        "publishedLabel": "June 7, 2026",
-        "category": "Industry Update",
-        "image": "https://static.zawya.com/view/acePublic/alias/contentid/63ead8b7-38e7-4b6a-98b9-65e592fc1b77/0/photo1-jpg.jpeg?f=3%3A2",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
-        "originalUrl": "https://www.zawya.com/en/press-release/companies-news/carnegie-mellon-qatar-celebrates-research-and-discovery-at-flagship-undergraduate-symposium-e68f65z0",
-        "articlePath": "/article.html?issue=2026-06-07&article=2026-06-07-carnegie-mellon-qatar-celebrates-research-and-discovery-at-flagship-unde"
+        "originalUrl": "https://www.zawya.com/en/press-release/companies-news/alec-holdings-sponsors-adopt-a-class-at-al-noor-training-centre-for-people-of-determination-wllqowcc",
+        "articlePath": "/article.html?issue=2026-06-07&article=2026-06-07-alec-holdings-sponsors-adopt-a-class-at-al-noor-training-centre-for-peop"
       }
     ],
     "providers": [
@@ -125,59 +178,95 @@
         "articlePath": "/article.html?issue=2026-06-07&article=2026-06-07-india-spent-over-rs-1-6-lakh-crore-on-medicines-in-2022-2023-reveals-nha"
       },
       {
-        "id": "2026-06-07-al-qassimi-women-s-and-children-s-hospital-achieves-landmark-medical-mil",
-        "title": "Al Qassimi Women’s and Children’s Hospital achieves landmark medical milestone with a series of advanced paediatric robotic surgeries",
-        "summary": "The procedures performed are the first of their kind in the UAE",
+        "id": "2026-06-07-rakez-convenes-industry-leaders-to-simplify-esg-adoption-and-strengthen-",
+        "title": "RAKEZ convenes industry leaders to simplify ESG adoption and strengthen sustainable business practices",
+        "summary": "Aimed at helping companies better understand evolving environmental, social, and governance (ESG) requirements",
         "source": "Zawya Pharmaceuticals",
         "sourceHost": "zawya.com",
-        "region": "Middle East",
-        "country": "United Arab Emirates",
-        "publishedAt": "2026-06-07T11:46:45.000Z",
-        "publishedLabel": "June 7, 2026",
-        "category": "Hospital",
-        "image": "https://static.zawya.com/view/acePublic/alias/contentid/e15a9c06-d1d4-405e-a5fd-93d9150967e5/0/image-48-jfif.jpeg?f=3%3A2",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://www.zawya.com/en/press-release/companies-news/al-qassimi-womens-and-childrens-hospital-achieves-landmark-medical-milestone-with-a-series-of-advanced-paediatric-robotic-surgeries-ogddguha",
-        "articlePath": "/article.html?issue=2026-06-07&article=2026-06-07-al-qassimi-women-s-and-children-s-hospital-achieves-landmark-medical-mil"
-      },
-      {
-        "id": "2026-06-07-uae-president-issues-a-federal-decree-appointing-director-general-of-the",
-        "title": "UAE President issues a federal decree appointing Director General of the Federal Authority for Nuclear Regulation",
-        "summary": "His Excellency Hamad Ali Mohammed Al Kaabi appointed as Director General of the Federal Authority for Nuclear Regulation",
-        "source": "Zawya Pharmaceuticals",
-        "sourceHost": "zawya.com",
-        "region": "Middle East",
-        "country": "United Arab Emirates",
-        "publishedAt": "2026-06-07T12:24:07.000Z",
-        "publishedLabel": "June 7, 2026",
-        "category": "Provider Update",
-        "image": "https://static.zawya.com/view/acePublic/alias/contentid/6b2abca1-0f60-421a-af66-27368116565d/0/_hamad-alkaabi_taayyn-2026.jpeg?f=3%3A2",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://www.zawya.com/en/press-release/government-news/uae-president-issues-a-federal-decree-appointing-director-general-of-the-federal-authority-for-nuclear-regulation-icjmnni9",
-        "articlePath": "/article.html?issue=2026-06-07&article=2026-06-07-uae-president-issues-a-federal-decree-appointing-director-general-of-the"
-      },
-      {
-        "id": "2026-06-07-cinet-signs-memorandum-of-understanding-with-the-kuwait-institute-of-ban",
-        "title": "CINET signs memorandum of understanding with the Kuwait Institute of Banking Studies",
-        "summary": "Aiming to enhance credit awareness and advancing professional standards",
-        "source": "Zawya Pharmaceuticals",
-        "sourceHost": "zawya.com",
-        "region": "Middle East",
-        "country": "Kuwait",
-        "publishedAt": "2026-06-07T09:01:07.000Z",
-        "publishedLabel": "June 7, 2026",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-06-08T08:46:39.000Z",
+        "publishedLabel": "June 8, 2026",
         "category": "AI Care Delivery",
-        "image": "https://static.zawya.com/view/acePublic/alias/contentid/6b90fc1c-a9f3-4b4b-9eb1-ce109c9aff71/0/dsc02370-jpg.jpeg?f=3%3A2",
+        "image": "https://static.zawya.com/view/acePublic/alias/contentid/badcd68a-bea7-43e1-b9d5-ea64bf53d030/0/2-olivegaea-jpg.jpeg?f=3%3A2",
         "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://www.zawya.com/en/press-release/companies-news/cinet-signs-memorandum-of-understanding-with-the-kuwait-institute-of-banking-studies-tm8c95m5",
-        "articlePath": "/article.html?issue=2026-06-07&article=2026-06-07-cinet-signs-memorandum-of-understanding-with-the-kuwait-institute-of-ban"
+        "justIn": true,
+        "originalUrl": "https://www.zawya.com/en/press-release/companies-news/rakez-convenes-industry-leaders-to-simplify-esg-adoption-and-strengthen-sustainable-business-practices-rn2g9tvv",
+        "articlePath": "/article.html?issue=2026-06-07&article=2026-06-07-rakez-convenes-industry-leaders-to-simplify-esg-adoption-and-strengthen-"
+      },
+      {
+        "id": "2026-06-07-zain-ksa-and-dammam-airports-sign-mou-to-enhance-digital-infrastructure",
+        "title": "Zain KSA and Dammam Airports sign MoU to enhance digital infrastructure",
+        "summary": "Partnership to support travel sector’s digital transformation, elevate traveler experience",
+        "source": "Zawya Pharmaceuticals",
+        "sourceHost": "zawya.com",
+        "region": "Middle East",
+        "country": "Saudi Arabia",
+        "publishedAt": "2026-06-08T08:39:06.000Z",
+        "publishedLabel": "June 8, 2026",
+        "category": "AI Care Delivery",
+        "image": "https://static.zawya.com/view/acePublic/alias/contentid/47ef7bdc-6d30-413e-89d8-b5c4ac1287fa/0/tokyaa-mthkr-ltfhm.jpeg?f=3%3A2",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": true,
+        "originalUrl": "https://www.zawya.com/en/press-release/companies-news/zain-ksa-and-dammam-airports-sign-mou-to-enhance-digital-infrastructure-a7zjw0cr",
+        "articlePath": "/article.html?issue=2026-06-07&article=2026-06-07-zain-ksa-and-dammam-airports-sign-mou-to-enhance-digital-infrastructure"
       }
     ],
-    "diagnostics": [],
-    "healthtech": []
+    "diagnostics": [
+      {
+        "id": "2026-06-07-six-research-abstracts-from-m-o-c-cancer-care-and-research-centre-presen",
+        "title": "Six Research Abstracts from M|O|C Cancer Care & Research Centre Presented at ASCO 2026",
+        "summary": "M|O|C Cancer Care & Research Centre presented six research abstracts at the American Society of Clinical Oncology (ASCO) Annual Meeting 2026, held from May 29 to June 2, 2026. The […]",
+        "source": "Express Healthcare",
+        "sourceHost": "expresshealthcare.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-06-08T07:59:43.000Z",
+        "publishedLabel": "June 8, 2026",
+        "category": "Cancer Testing",
+        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/06/08132937/New-Project-1.jpg",
+        "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
+        "justIn": false,
+        "originalUrl": "https://www.expresshealthcare.in/news/six-research-abstracts-from-moc-cancer-care-research-centre-presented-at-asco-2026/453844/",
+        "articlePath": "/article.html?issue=2026-06-07&article=2026-06-07-six-research-abstracts-from-m-o-c-cancer-care-and-research-centre-presen"
+      },
+      {
+        "id": "2026-06-07-roche-accelerates-development-of-rapid-pcr-test-for-ebola-bundibugyo-vir",
+        "title": "Roche accelerates development of rapid PCR test for Ebola Bundibugyo virus | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
+        "summary": "The Bundibugyo strain remains particularly challenging because no approved vaccine or specific treatment is currently available.",
+        "source": "Healthcare MEA",
+        "sourceHost": "healthcaremea.com",
+        "region": "Middle East",
+        "country": "Middle East",
+        "publishedAt": "2026-06-08T07:21:00.000Z",
+        "publishedLabel": "June 8, 2026",
+        "category": "Lab Network",
+        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/06/image-1600x900-2026-06-08T100012.555.png",
+        "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
+        "justIn": false,
+        "originalUrl": "https://www.healthcaremea.com/2026/06/08/roche-accelerates-development-of-rapid-pcr-test-for-ebola-bundibugyo-virus/",
+        "articlePath": "/article.html?issue=2026-06-07&article=2026-06-07-roche-accelerates-development-of-rapid-pcr-test-for-ebola-bundibugyo-vir"
+      }
+    ],
+    "healthtech": [
+      {
+        "id": "2026-06-07-arab-therapy-collaborates-with-king-abdulaziz-university-to-expand-digit",
+        "title": "Arab Therapy collaborates with King Abdulaziz University to expand digital mental health services in Saudi Arabia",
+        "summary": "Under the agreement, students and university staff will gain access to confidential digital psychological support sessions delivered through the Arab Therapy platform.",
+        "source": "Healthcare MEA",
+        "sourceHost": "healthcaremea.com",
+        "region": "Middle East",
+        "country": "Saudi Arabia",
+        "publishedAt": "2026-06-08T08:13:00.000Z",
+        "publishedLabel": "June 8, 2026",
+        "category": "AI",
+        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/06/image-1600x900-2026-06-08T101720.911.png",
+        "thbAction": "",
+        "justIn": false,
+        "originalUrl": "https://www.healthcaremea.com/2026/06/08/arab-therapy-collaborates-with-king-abdulaziz-university-to-expand-digital-mental-health-services-in-saudi-arabia/",
+        "articlePath": "/article.html?issue=2026-06-07&article=2026-06-07-arab-therapy-collaborates-with-king-abdulaziz-university-to-expand-digit"
+      }
+    ]
   },
   "thbActions": [
     {
@@ -185,6 +274,14 @@
       "articleId": "2026-06-07-uzbekistan-can-provide-more-incentives-to-indian-pharma-firms-aims-to-be",
       "title": "Uzbekistan can provide more incentives to Indian pharma firms, aims to become regional hub for supply",
       "source": "Economic Times Pharma",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "pharma",
+      "articleId": "2026-06-07-maharashtra-fda-detects-unsterilised-gloves-supplied-to-hosps",
+      "title": "Maharashtra FDA detects unsterilised gloves supplied to hosps",
+      "source": "ET Healthworld",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
     },
@@ -198,27 +295,19 @@
     },
     {
       "segment": "pharma",
-      "articleId": "2026-06-07-intas-gets-interim-relief-from-delhi-hc-in-sun-pharma-cancer-drug-tradem",
-      "title": "Intas Gets Interim Relief from Delhi HC in Sun Pharma Cancer Drug Trademark Row, Allows Sale of Existing...",
-      "source": "Medical Dialogues Pharma",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+      "articleId": "2026-06-07-longbio-pharma-debuts-on-hong-kong-stock-exchange-with-us-1-37b-valuatio",
+      "title": "LongBio Pharma debuts on Hong Kong Stock Exchange with US$1.37B valuation | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
+      "source": "Healthcare MEA",
+      "solution": "THB Commercial Analytics",
+      "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
     },
     {
       "segment": "pharma",
-      "articleId": "2026-06-07-jamjoom-pharma-signs-mou-with-the-ministry-of-health-in-saudi-arabia-to-",
-      "title": "Jamjoom Pharma signs MOU with the Ministry of Health in Saudi Arabia to develop healthcare talents",
-      "source": "Zawya Pharmaceuticals",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
-      "segment": "pharma",
-      "articleId": "2026-06-07-carnegie-mellon-qatar-celebrates-research-and-discovery-at-flagship-unde",
-      "title": "Carnegie Mellon Qatar celebrates research and discovery at flagship undergraduate symposium",
-      "source": "Zawya Pharmaceuticals",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+      "articleId": "2026-06-07-pfizer-secures-us-10-5b-innovative-bio-alliance-to-scale-its-oncology-pi",
+      "title": "Pfizer secures US$10.5B Innovative Bio alliance to scale its oncology pipeline | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
+      "source": "Healthcare MEA",
+      "solution": "THB Commercial Analytics",
+      "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
     },
     {
       "segment": "providers",
@@ -230,27 +319,35 @@
     },
     {
       "segment": "providers",
-      "articleId": "2026-06-07-al-qassimi-women-s-and-children-s-hospital-achieves-landmark-medical-mil",
-      "title": "Al Qassimi Women’s and Children’s Hospital achieves landmark medical milestone with a series of advanced paediatric robotic surgeries",
+      "articleId": "2026-06-07-rakez-convenes-industry-leaders-to-simplify-esg-adoption-and-strengthen-",
+      "title": "RAKEZ convenes industry leaders to simplify ESG adoption and strengthen sustainable business practices",
       "source": "Zawya Pharmaceuticals",
       "solution": "THB Provider CRM",
       "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
     },
     {
       "segment": "providers",
-      "articleId": "2026-06-07-uae-president-issues-a-federal-decree-appointing-director-general-of-the",
-      "title": "UAE President issues a federal decree appointing Director General of the Federal Authority for Nuclear Regulation",
+      "articleId": "2026-06-07-zain-ksa-and-dammam-airports-sign-mou-to-enhance-digital-infrastructure",
+      "title": "Zain KSA and Dammam Airports sign MoU to enhance digital infrastructure",
       "source": "Zawya Pharmaceuticals",
       "solution": "THB Provider CRM",
       "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
     },
     {
-      "segment": "providers",
-      "articleId": "2026-06-07-cinet-signs-memorandum-of-understanding-with-the-kuwait-institute-of-ban",
-      "title": "CINET signs memorandum of understanding with the Kuwait Institute of Banking Studies",
-      "source": "Zawya Pharmaceuticals",
-      "solution": "THB Provider CRM",
-      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
+      "segment": "diagnostics",
+      "articleId": "2026-06-07-six-research-abstracts-from-m-o-c-cancer-care-and-research-centre-presen",
+      "title": "Six Research Abstracts from M|O|C Cancer Care & Research Centre Presented at ASCO 2026",
+      "source": "Express Healthcare",
+      "solution": "THB Diagnostics CRM",
+      "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
+    },
+    {
+      "segment": "diagnostics",
+      "articleId": "2026-06-07-roche-accelerates-development-of-rapid-pcr-test-for-ebola-bundibugyo-vir",
+      "title": "Roche accelerates development of rapid PCR test for Ebola Bundibugyo virus | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
+      "source": "Healthcare MEA",
+      "solution": "THB Diagnostics CRM",
+      "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
     }
   ]
 }

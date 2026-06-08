@@ -5,9 +5,9 @@
   "startDate": "2026-05-02T18:30:00.000Z",
   "endDate": "2026-05-08T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-06-07T15:11:53.111Z",
+  "updatedAt": "2026-06-08T09:11:27.895Z",
   "coverage": {
-    "pharma": 2,
+    "pharma": 1,
     "providers": 3,
     "diagnostics": 2,
     "healthtech": 0
@@ -15,28 +15,10 @@
   "sourcesUsed": [
     "ET Healthworld Diagnostics",
     "ET Healthworld Hospitals",
-    "Financial Express Healthcare",
     "Lupin Updates"
   ],
   "segments": {
     "pharma": [
-      {
-        "id": "2026-05-03-sales-of-weight-loss-drug-wegovy-soars-70-after-steep-price-cuts-in-apri",
-        "title": "Sales of weight-loss drug Wegovy soars 70% after steep price cuts in April",
-        "summary": "Danish pharma giant Novo Nordisk saw a 70% volume jump for Wegovy in April 2026 after slashing prices by up to 48% to counter a wave of domestic generics.",
-        "source": "Financial Express Healthcare",
-        "sourceHost": "financialexpress.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-05-08T17:12:37.000Z",
-        "publishedLabel": "May 8, 2026",
-        "category": "Industry Update",
-        "image": "https://images.financialexpressdigital.com/2026/05/weight-loss-pill_20260315124619_20260320180314_20260508170953.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://www.financialexpress.com/business/healthcare/sales-of-weight-loss-drug-wegovy-soars-70-after-steep-price-cuts-in-april/4235786/",
-        "articlePath": "/article.html?issue=2026-05-03&article=2026-05-03-sales-of-weight-loss-drug-wegovy-soars-70-after-steep-price-cuts-in-apri"
-      },
       {
         "id": "2026-05-03-pharma-q4-outlook-mixed-hospitals-steady-generics-face-revlimid-drag",
         "title": "Pharma Q4 outlook mixed: Hospitals steady, generics face revlimid drag",
@@ -147,14 +129,6 @@
     "healthtech": []
   },
   "thbActions": [
-    {
-      "segment": "pharma",
-      "articleId": "2026-05-03-sales-of-weight-loss-drug-wegovy-soars-70-after-steep-price-cuts-in-apri",
-      "title": "Sales of weight-loss drug Wegovy soars 70% after steep price cuts in April",
-      "source": "Financial Express Healthcare",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
     {
       "segment": "pharma",
       "articleId": "2026-05-03-pharma-q4-outlook-mixed-hospitals-steady-generics-face-revlimid-drag",

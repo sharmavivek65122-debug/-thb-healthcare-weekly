@@ -5,37 +5,18 @@
   "startDate": "2026-04-25T18:30:00.000Z",
   "endDate": "2026-05-01T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-06-07T15:11:53.111Z",
+  "updatedAt": "2026-06-08T09:11:27.895Z",
   "coverage": {
-    "pharma": 1,
+    "pharma": 0,
     "providers": 9,
-    "diagnostics": 2,
+    "diagnostics": 0,
     "healthtech": 0
   },
   "sourcesUsed": [
-    "ET Healthworld Hospitals",
-    "Financial Express Healthcare"
+    "ET Healthworld Hospitals"
   ],
   "segments": {
-    "pharma": [
-      {
-        "id": "2026-04-26-dr-reddy-s-gets-nod-for-generic-semaglutide-in-canada",
-        "title": "Dr. Reddy’s gets nod for generic Semaglutide in Canada",
-        "summary": "Dr. Reddy’s Laboratories (DRL) has secured Health Canada's first-ever generic Semaglutide approval, targeting the world's second-largest market for the diabetes drug.",
-        "source": "Financial Express Healthcare",
-        "sourceHost": "financialexpress.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-04-29T14:13:38.000Z",
-        "publishedLabel": "April 29, 2026",
-        "category": "Approval",
-        "image": "https://images.financialexpressdigital.com/2026/04/Untitled-design-2026-02-19T111811.957_20260429130501.png",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://www.financialexpress.com/business/healthcare/dr-redds-gets-nod-for-generic-semaglutide-in-canada/4222092/",
-        "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-dr-reddy-s-gets-nod-for-generic-semaglutide-in-canada"
-      }
-    ],
+    "pharma": [],
     "providers": [
       {
         "id": "2026-04-26-integrated-robotic-gynae-oncology-ecosystem-launched-to-address-gaps-in-",
@@ -191,53 +172,10 @@
         "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-ihh-healthcare-seeks-its-investor-mitsui-s-help-to-set-up-talks-with-dai"
       }
     ],
-    "diagnostics": [
-      {
-        "id": "2026-04-26-technology-can-reveal-risks-at-a-scale-no-human-system-can-match-sangita",
-        "title": "‘Technology can reveal risks at a scale no human system can match’: Sangita Reddy, Joint Managing Director, Apollo Hospitals",
-        "summary": "Apollo Hospitals’ Sangita Reddy outlines a pivot from episodic to continuous healthcare, leveraging AI and digital tools to detect early-onset prediabetes and fatty liver in a younger Indian population.",
-        "source": "Financial Express Healthcare",
-        "sourceHost": "financialexpress.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-05-01T19:30:45.000Z",
-        "publishedLabel": "May 2, 2026",
-        "category": "Industry Update",
-        "image": "https://images.financialexpressdigital.com/2026/05/sang_a.jpg",
-        "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
-        "justIn": false,
-        "originalUrl": "https://www.financialexpress.com/business/healthcare/technology-can-reveal-risks-at-a-scale-no-human-system-can-match-sangita-reddy-joint-managing-director-apollo-hospitals/4224760/",
-        "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-technology-can-reveal-risks-at-a-scale-no-human-system-can-match-sangita"
-      },
-      {
-        "id": "2026-04-26-india-s-lord-s-mark-secures-global-nod-for-hiv-self-test",
-        "title": "India’s Lord’s Mark secures global nod for HIV self-test",
-        "summary": "Lord’s Mark Industries has received Central Licensing Authority approval to manufacture the LordsMed HIV 1&2 Self Test.",
-        "source": "Financial Express Healthcare",
-        "sourceHost": "financialexpress.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-05-01T19:18:12.000Z",
-        "publishedLabel": "May 2, 2026",
-        "category": "Industry Update",
-        "image": "https://images.financialexpressdigital.com/2026/05/medicine.freepik_20251009132536_20251116161222_20260501191733.jpg",
-        "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
-        "justIn": false,
-        "originalUrl": "https://www.financialexpress.com/business/healthcare/indias-lords-mark-secures-global-nod-for-hiv-self-test/4224756/",
-        "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-india-s-lord-s-mark-secures-global-nod-for-hiv-self-test"
-      }
-    ],
+    "diagnostics": [],
     "healthtech": []
   },
   "thbActions": [
-    {
-      "segment": "pharma",
-      "articleId": "2026-04-26-dr-reddy-s-gets-nod-for-generic-semaglutide-in-canada",
-      "title": "Dr. Reddy’s gets nod for generic Semaglutide in Canada",
-      "source": "Financial Express Healthcare",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
     {
       "segment": "providers",
       "articleId": "2026-04-26-integrated-robotic-gynae-oncology-ecosystem-launched-to-address-gaps-in-",
@@ -277,22 +215,6 @@
       "source": "ET Healthworld Hospitals",
       "solution": "THB Provider CRM",
       "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
-    },
-    {
-      "segment": "diagnostics",
-      "articleId": "2026-04-26-technology-can-reveal-risks-at-a-scale-no-human-system-can-match-sangita",
-      "title": "‘Technology can reveal risks at a scale no human system can match’: Sangita Reddy, Joint Managing Director, Apollo Hospitals",
-      "source": "Financial Express Healthcare",
-      "solution": "THB Diagnostics CRM",
-      "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
-    },
-    {
-      "segment": "diagnostics",
-      "articleId": "2026-04-26-india-s-lord-s-mark-secures-global-nod-for-hiv-self-test",
-      "title": "India’s Lord’s Mark secures global nod for HIV self-test",
-      "source": "Financial Express Healthcare",
-      "solution": "THB Diagnostics CRM",
-      "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
     }
   ]
 }
