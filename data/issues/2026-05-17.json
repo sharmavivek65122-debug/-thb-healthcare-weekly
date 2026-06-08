@@ -5,15 +5,15 @@
   "startDate": "2026-05-16T18:30:00.000Z",
   "endDate": "2026-05-22T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-06-08T09:11:27.895Z",
+  "updatedAt": "2026-06-08T16:56:22.988Z",
   "coverage": {
-    "pharma": 1,
-    "providers": 8,
+    "pharma": 2,
+    "providers": 6,
     "diagnostics": 2,
     "healthtech": 0
   },
   "sourcesUsed": [
-    "Arabian Business Healthcare",
+    "BioSpectrum Asia Middle East",
     "ET Healthworld Diagnostics",
     "ET Healthworld Hospitals",
     "Lupin Updates"
@@ -36,6 +36,23 @@
         "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/markets/stocks/news/bernstein-initiates-coverage-on-6-pharma-stocks-cites-3-major-tailwinds-for-healthcare-sector/articleshow/131260196.cms",
         "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-bernstein-initiates-coverage-on-6-pharma-stocks-cites-3-major-tailwinds-"
+      },
+      {
+        "id": "2026-05-17-samsung-bioepis-launches-ustekinumab-biosimilar-in-japan",
+        "title": "Samsung Bioepis launches Ustekinumab biosimilar in Japan",
+        "summary": "Samsung Bioepis launches Ustekinumab biosimilar in Japan",
+        "source": "BioSpectrum Asia Middle East",
+        "sourceHost": "biospectrumasia.com",
+        "region": "Middle East",
+        "country": "Oman",
+        "publishedAt": "2026-05-19T18:30:00.000Z",
+        "publishedLabel": "May 20, 2026",
+        "category": "Launch",
+        "image": "https://www.biospectrumasia.com/uploads/articles/screenshot_20_5_2026_22456_www_bing_com-27665.jpeg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": false,
+        "originalUrl": "https://www.biospectrumasia.com/news/25/27665/samsung-bioepis-launches-ustekinumab-biosimilar-in-japan.html",
+        "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-samsung-bioepis-launches-ustekinumab-biosimilar-in-japan"
       }
     ],
     "providers": [
@@ -140,40 +157,6 @@
         "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/max-healthcare-to-set-up-712-bed-facility-in-lucknow-for-1400-cr/131258271",
         "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-max-healthcare-to-set-up-712-bed-facility-in-lucknow-for-1-400-cr"
-      },
-      {
-        "id": "2026-05-17-gcc-countries-hit-100-vaccine-coverage-as-gulf-states-invest-842-7m-in-h",
-        "title": "GCC countries hit 100% vaccine coverage as Gulf states invest $842.7m in health research - Arabian Business:",
-        "summary": "GCC countries achieved 100 per cent essential vaccine coverage in 2024, compared with a global average of around 84 per cent",
-        "source": "Arabian Business Healthcare",
-        "sourceHost": "arabianbusiness.com",
-        "region": "Middle East",
-        "country": "United Arab Emirates",
-        "publishedAt": "2026-05-17T23:24:03.000Z",
-        "publishedLabel": "May 18, 2026",
-        "category": "Provider Update",
-        "image": "https://www.arabianbusiness.com/cloud/2026/05/14/gcc-countries.jpg",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://www.arabianbusiness.com/business/healthcare/gcc-countries-hit-100-vaccine-coverage-as-gulf-states-invest-842-7m-in-health-research",
-        "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-gcc-countries-hit-100-vaccine-coverage-as-gulf-states-invest-842-7m-in-h"
-      },
-      {
-        "id": "2026-05-17-ozempic-rival-poised-to-shake-up-dubai-weight-loss-drug-market-exclusive",
-        "title": "Ozempic rival poised to shake up Dubai weight-loss drug market – EXCLUSIVE - Arabian Business: Latest News",
-        "summary": "Experts call for patience as approved peptide-based drugs could be 'next big breakthrough'",
-        "source": "Arabian Business Healthcare",
-        "sourceHost": "arabianbusiness.com",
-        "region": "Middle East",
-        "country": "United Arab Emirates",
-        "publishedAt": "2026-05-20T08:55:09.000Z",
-        "publishedLabel": "May 20, 2026",
-        "category": "AI Care Delivery",
-        "image": "https://www.arabianbusiness.com/cloud/2026/05/20/lab.jpg",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://www.arabianbusiness.com/abnews/ozempic-rival-dubai-weight-loss-drug-market",
-        "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-ozempic-rival-poised-to-shake-up-dubai-weight-loss-drug-market-exclusive"
       }
     ],
     "diagnostics": [
@@ -222,6 +205,14 @@
       "source": "Lupin Updates",
       "solution": "THB Commercial Analytics",
       "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
+    },
+    {
+      "segment": "pharma",
+      "articleId": "2026-05-17-samsung-bioepis-launches-ustekinumab-biosimilar-in-japan",
+      "title": "Samsung Bioepis launches Ustekinumab biosimilar in Japan",
+      "source": "BioSpectrum Asia Middle East",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
     },
     {
       "segment": "providers",
