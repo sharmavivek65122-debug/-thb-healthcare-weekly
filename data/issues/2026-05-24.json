@@ -5,20 +5,20 @@
   "startDate": "2026-05-23T18:30:00.000Z",
   "endDate": "2026-05-29T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-06-08T16:56:22.988Z",
+  "updatedAt": "2026-06-09T08:06:56.627Z",
   "coverage": {
-    "pharma": 8,
-    "providers": 8,
-    "diagnostics": 7,
+    "pharma": 7,
+    "providers": 9,
+    "diagnostics": 8,
     "healthtech": 0
   },
   "sourcesUsed": [
     "BioSpectrum Asia Middle East",
+    "BioSpectrum India Healthcare",
     "ET Healthworld",
     "ET Healthworld Diagnostics",
     "ET Healthworld Hospitals",
     "Economic Times Pharma",
-    "Express Healthcare",
     "Express Healthcare Posts"
   ],
   "segments": {
@@ -107,23 +107,6 @@
         "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/wockhardt-secures-us-fda-approval-for-its-antibiotic-zaynich/articleshow/131403794.cms",
         "articlePath": "/article.html?issue=2026-05-24&article=2026-05-24-wockhardt-secures-us-fda-approval-for-antibiotic-zaynich"
-      },
-      {
-        "id": "2026-05-24-zydus-therapeutics-saroglitazar-drug-granted-priority-review-by-us-fda",
-        "title": "Zydus Therapeutics' saroglitazar drug granted priority review by US FDA",
-        "summary": "Zydus Therapeutics' drug saroglitazar has received priority review from the US FDA. This drug treats primary biliary cholangitis, a liver disease. The company plans to launch saroglitazar in the US in the fourth quarter of fiscal year 2027.",
-        "source": "Economic Times Pharma",
-        "sourceHost": "economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-05-28T16:21:13.000Z",
-        "publishedLabel": "May 28, 2026",
-        "category": "Launch",
-        "image": "https://img.etimg.com/thumb/msid-131374090,width-1200,height-630,imgsize-58640,overlay-economictimes/articleshow.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/zydus-therapeutics-saroglitazar-drug-granted-priority-review-by-us-fda/articleshow/131373992.cms",
-        "articlePath": "/article.html?issue=2026-05-24&article=2026-05-24-zydus-therapeutics-saroglitazar-drug-granted-priority-review-by-us-fda"
       },
       {
         "id": "2026-05-24-lincoln-pharmaceuticals-posts-rs-11-63-crore-profit-for-q4",
@@ -267,7 +250,7 @@
         "id": "2026-05-24-marengo-asia-hospitals-launches-specialised-multiple-sclerosis-clinic",
         "title": "Marengo Asia Hospitals launches specialised multiple sclerosis clinic",
         "summary": "Marengo Asia Hospitals, Gurugram, has launched a dedicated “Multiple Sclerosis Clinic” on the occasion of World Multiple Sclerosis Day, observed on 30 May, to strengthen awareness, enable early diagnosis, and […]",
-        "source": "Express Healthcare",
+        "source": "Express Healthcare Posts",
         "sourceHost": "expresshealthcare.in",
         "region": "India",
         "country": "India",
@@ -296,6 +279,23 @@
         "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/news/maxivision-and-sightsavers-india-screen-26826-people-under-community-eye-care-initiative/453778/",
         "articlePath": "/article.html?issue=2026-05-24&article=2026-05-24-maxivision-and-sightsavers-india-screen-26-826-people-under-community-ey"
+      },
+      {
+        "id": "2026-05-24-hcg-unveils-cancer-hospital-in-north-bengaluru-introducing-karnataka-s-f",
+        "title": "HCG unveils cancer hospital in North Bengaluru introducing Karnataka’s first MR-Linac",
+        "summary": "HCG launches cancer hospital in North Bengaluru introducing Karnataka’s first MR-Linac",
+        "source": "BioSpectrum India Healthcare",
+        "sourceHost": "biospectrumindia.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-05-24T18:30:00.000Z",
+        "publishedLabel": "May 25, 2026",
+        "category": "Hospital",
+        "image": "https://www.biospectrumindia.com/uploads/articles/img_20260519_wa0007-27835.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": false,
+        "originalUrl": "https://www.biospectrumindia.com/news/16/27835/hcg-unveils-cancer-hospital-in-north-bengaluru-introducing-karnatakas-first-mr-linac.html",
+        "articlePath": "/article.html?issue=2026-05-24&article=2026-05-24-hcg-unveils-cancer-hospital-in-north-bengaluru-introducing-karnataka-s-f"
       }
     ],
     "diagnostics": [
@@ -417,6 +417,23 @@
         "justIn": false,
         "originalUrl": "https://www.biospectrumasia.com/news/27/27686/gulf-medical-university-launches-regions-largest-network-of-clinical-skills-and-simulation-centres.html",
         "articlePath": "/article.html?issue=2026-05-24&article=2026-05-24-gulf-medical-university-launches-region-s-largest-network-of-clinical-sk"
+      },
+      {
+        "id": "2026-05-24-illumina-multiomics-summit-india-highlights-potential-of-integrated-omic",
+        "title": "Illumina Multiomics Summit India highlights potential of integrated omics",
+        "summary": "Illumina Multiomics Summit India highlights potential of integrated omics",
+        "source": "BioSpectrum India Healthcare",
+        "sourceHost": "biospectrumindia.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-05-24T18:30:00.000Z",
+        "publishedLabel": "May 25, 2026",
+        "category": "Industry Update",
+        "image": "https://www.biospectrumindia.com/uploads/articles/illumina_multiomics_summit_2026___image-27848.JPG",
+        "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
+        "justIn": false,
+        "originalUrl": "https://www.biospectrumindia.com/news/16/27848/illumina-multiomics-summit-india-highlights-potential-of-integrated-omics-.html",
+        "articlePath": "/article.html?issue=2026-05-24&article=2026-05-24-illumina-multiomics-summit-india-highlights-potential-of-integrated-omic"
       }
     ],
     "healthtech": []
