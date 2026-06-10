@@ -5,109 +5,22 @@
   "startDate": "2026-05-23T18:30:00.000Z",
   "endDate": "2026-05-29T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-06-09T16:21:48.837Z",
+  "updatedAt": "2026-06-10T08:31:10.432Z",
   "coverage": {
-    "pharma": 5,
-    "providers": 6,
-    "diagnostics": 4,
+    "pharma": 0,
+    "providers": 7,
+    "diagnostics": 5,
     "healthtech": 0
   },
   "sourcesUsed": [
     "BioSpectrum Asia Middle East",
-    "ET Healthworld",
+    "BioSpectrum India Healthcare",
     "ET Healthworld Diagnostics",
     "ET Healthworld Hospitals",
-    "Economic Times Pharma",
     "Express Healthcare Posts"
   ],
   "segments": {
-    "pharma": [
-      {
-        "id": "2026-05-24-molecule-glue-drugs-shake-up-cancer-care-draw-big-money",
-        "title": "Molecule glue drugs shake up cancer care, draw big money",
-        "summary": "Harvard-born idea doubles survival in trials, triggers pharma frenzy as cos race to target 'undruggable' proteins with next-gen glue therapies.",
-        "source": "Economic Times Pharma",
-        "sourceHost": "economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-05-29T19:22:11.000Z",
-        "publishedLabel": "May 30, 2026",
-        "category": "Industry Update",
-        "image": "https://img.etimg.com/thumb/msid-131398144,width-1200,height-630,imgsize-39266,overlay-economictimes/articleshow.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/molecule-glue-drugs-shake-up-cancer-care-draw-big-money/articleshow/131398091.cms",
-        "articlePath": "/article.html?issue=2026-05-24&article=2026-05-24-molecule-glue-drugs-shake-up-cancer-care-draw-big-money"
-      },
-      {
-        "id": "2026-05-24-veracyte-genomic-test-identifies-breast-cancer-patients-who-can-skip-che",
-        "title": "Veracyte genomic test identifies breast cancer patients who can skip chemo",
-        "summary": "In a randomized trial with more than 4,400 patients with early breast cancer that was particularly aggressive or prone to spread or recur, more than two-thirds of those whose care was guided by Veracyte's Prosigna genomic test safely avoided chemo.",
-        "source": "ET Healthworld",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-05-28T02:37:33.000Z",
-        "publishedLabel": "May 28, 2026",
-        "category": "Industry Update",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-131361623,imgsize-56746,width-1200,height=627,overlay-ethealth,resizemode-75/diagnostics/veracyte-genomic-test-identifies-breast-cancer-patients-who-can-skip-chemo.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/diagnostics/veracyte-genomic-test-identifies-breast-cancer-patients-who-can-skip-chemo/131361623",
-        "articlePath": "/article.html?issue=2026-05-24&article=2026-05-24-veracyte-genomic-test-identifies-breast-cancer-patients-who-can-skip-che"
-      },
-      {
-        "id": "2026-05-24-wockhardt-secures-us-fda-approval-for-antibiotic-zaynich",
-        "title": "Wockhardt secures US FDA approval for antibiotic Zaynich",
-        "summary": "Wockhardt's novel antibiotic, Zaynich (cefepime and zidebactam), has received US FDA approval for complicated urinary tract infections. This breakthrough drug targets superbugs resistant to existing treatments. Zaynich also secured marketing authorization in...",
-        "source": "Economic Times Pharma",
-        "sourceHost": "economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-05-30T04:23:18.000Z",
-        "publishedLabel": "May 30, 2026",
-        "category": "Approval",
-        "image": "https://img.etimg.com/thumb/msid-131403790,width-1200,height-630,imgsize-38058,overlay-economictimes/articleshow.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/wockhardt-secures-us-fda-approval-for-its-antibiotic-zaynich/articleshow/131403794.cms",
-        "articlePath": "/article.html?issue=2026-05-24&article=2026-05-24-wockhardt-secures-us-fda-approval-for-antibiotic-zaynich"
-      },
-      {
-        "id": "2026-05-24-lincoln-pharmaceuticals-posts-rs-11-63-crore-profit-for-q4",
-        "title": "Lincoln Pharmaceuticals posts Rs 11.63 crore profit for Q4",
-        "summary": "Lincoln Pharmaceuticals announced a slight profit rise for the fourth quarter ending March 31, 2026. Full fiscal year 2025-26 saw over 6 percent growth in consolidated net profit. Revenue from operations also increased year-on-year. The company's board...",
-        "source": "Economic Times Pharma",
-        "sourceHost": "economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-05-29T03:44:35.000Z",
-        "publishedLabel": "May 29, 2026",
-        "category": "Industry Update",
-        "image": "https://img.etimg.com/thumb/msid-131381375,width-1200,height-630,imgsize-636907,overlay-economictimes/articleshow.jpg",
-        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": false,
-        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/lincoln-pharmaceuticals-posts-rs-11-63-crore-profit-for-q4/articleshow/131381351.cms",
-        "articlePath": "/article.html?issue=2026-05-24&article=2026-05-24-lincoln-pharmaceuticals-posts-rs-11-63-crore-profit-for-q4"
-      },
-      {
-        "id": "2026-05-24-our-model-shows-that-just-improving-timeliness-can-lead-to-about-5-8-per",
-        "title": "Our model shows that just improving timeliness can lead to about 5–8 percentage point increase in treatment success",
-        "summary": "A recent modelling study highlights that delays in delivering nutritional support to tuberculosis (TB) patients can significantly undermine treatment success, even when coverage appears high on paper. Dr Palak Goel, Assistant Professor, BML Munjal University,...",
-        "source": "Express Healthcare Posts",
-        "sourceHost": "expresshealthcare.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-05-28T10:22:33.000Z",
-        "publishedLabel": "May 28, 2026",
-        "category": "Industry Update",
-        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/05/28155129/EH_Palak_Goel_750.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://www.expresshealthcare.in/news/our-model-shows-that-just-improving-timeliness-can-lead-to-about-5-8-percentage-point-increase-in-treatment-success/453789/",
-        "articlePath": "/article.html?issue=2026-05-24&article=2026-05-24-our-model-shows-that-just-improving-timeliness-can-lead-to-about-5-8-per"
-      }
-    ],
+    "pharma": [],
     "providers": [
       {
         "id": "2026-05-24-lnjp-first-2-000-bedded-govt-hospital-to-receive-naqs-certification",
@@ -210,6 +123,23 @@
         "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/news/marengo-asia-hospitals-launches-specialised-multiple-sclerosis-clinic/453804/",
         "articlePath": "/article.html?issue=2026-05-24&article=2026-05-24-marengo-asia-hospitals-launches-specialised-multiple-sclerosis-clinic"
+      },
+      {
+        "id": "2026-05-24-hcg-unveils-cancer-hospital-in-north-bengaluru-introducing-karnataka-s-f",
+        "title": "HCG unveils cancer hospital in North Bengaluru introducing Karnataka’s first MR-Linac",
+        "summary": "HCG launches cancer hospital in North Bengaluru introducing Karnataka’s first MR-Linac",
+        "source": "BioSpectrum India Healthcare",
+        "sourceHost": "biospectrumindia.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-05-24T18:30:00.000Z",
+        "publishedLabel": "May 25, 2026",
+        "category": "Hospital",
+        "image": "https://www.biospectrumindia.com/uploads/articles/img_20260519_wa0007-27835.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": false,
+        "originalUrl": "https://www.biospectrumindia.com/news/16/27835/hcg-unveils-cancer-hospital-in-north-bengaluru-introducing-karnatakas-first-mr-linac.html",
+        "articlePath": "/article.html?issue=2026-05-24&article=2026-05-24-hcg-unveils-cancer-hospital-in-north-bengaluru-introducing-karnataka-s-f"
       }
     ],
     "diagnostics": [
@@ -229,23 +159,6 @@
         "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/diagnostics/blood-test-could-help-detect-signs-of-alzheimers-disease-decades-before-symptoms-study/131402539",
         "articlePath": "/article.html?issue=2026-05-24&article=2026-05-24-blood-test-could-help-detect-signs-of-alzheimer-s-disease-decades-before"
-      },
-      {
-        "id": "2026-05-24-the-automation-premium-when-ai-costs-more-than-the-clinician-it-replaces",
-        "title": "The automation premium: When AI costs more than the clinician it replaces",
-        "summary": "Vijay Martis analyses the growing “automation premium” in healthcare, where AI deployment can cost more than the clinicians it is intended to supplement.",
-        "source": "Express Healthcare Posts",
-        "sourceHost": "expresshealthcare.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-05-29T08:24:29.000Z",
-        "publishedLabel": "May 29, 2026",
-        "category": "Industry Update",
-        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/05/29135409/EH_Vijay_Martis_750-1.jpg",
-        "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
-        "justIn": false,
-        "originalUrl": "https://www.expresshealthcare.in/blogs/guest-blogs-healthcare/the-automation-premium-when-ai-costs-more-than-the-clinician-it-replaces/453795/",
-        "articlePath": "/article.html?issue=2026-05-24&article=2026-05-24-the-automation-premium-when-ai-costs-more-than-the-clinician-it-replaces"
       },
       {
         "id": "2026-05-24-asian-society-of-cardiovascular-imaging-inks-mou-with-philips",
@@ -280,51 +193,45 @@
         "justIn": false,
         "originalUrl": "https://www.biospectrumasia.com/news/27/27686/gulf-medical-university-launches-regions-largest-network-of-clinical-skills-and-simulation-centres.html",
         "articlePath": "/article.html?issue=2026-05-24&article=2026-05-24-gulf-medical-university-launches-region-s-largest-network-of-clinical-sk"
+      },
+      {
+        "id": "2026-05-24-illumina-multiomics-summit-india-highlights-potential-of-integrated-omic",
+        "title": "Illumina Multiomics Summit India highlights potential of integrated omics",
+        "summary": "Illumina Multiomics Summit India highlights potential of integrated omics",
+        "source": "BioSpectrum India Healthcare",
+        "sourceHost": "biospectrumindia.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-05-24T18:30:00.000Z",
+        "publishedLabel": "May 25, 2026",
+        "category": "Industry Update",
+        "image": "https://www.biospectrumindia.com/uploads/articles/illumina_multiomics_summit_2026___image-27848.JPG",
+        "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
+        "justIn": false,
+        "originalUrl": "https://www.biospectrumindia.com/news/16/27848/illumina-multiomics-summit-india-highlights-potential-of-integrated-omics-.html",
+        "articlePath": "/article.html?issue=2026-05-24&article=2026-05-24-illumina-multiomics-summit-india-highlights-potential-of-integrated-omic"
+      },
+      {
+        "id": "2026-05-24-nura-expands-south-india-presence-with-launch-of-preventive-health-scree",
+        "title": "NURA expands South India presence with launch of preventive health screening centre in Chennai",
+        "summary": "NURA expands South India presence with launch of preventive health screening centre in Chennai",
+        "source": "BioSpectrum India Healthcare",
+        "sourceHost": "biospectrumindia.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-05-26T18:30:00.000Z",
+        "publishedLabel": "May 27, 2026",
+        "category": "Screening",
+        "image": "https://www.biospectrumindia.com/uploads/articles/nura_chennai_inauguration-27860.jpg",
+        "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
+        "justIn": false,
+        "originalUrl": "https://www.biospectrumindia.com/news/16/27860/nura-expands-south-india-presence-with-launch-of-preventive-health-screening-centre-in-chennai.html",
+        "articlePath": "/article.html?issue=2026-05-24&article=2026-05-24-nura-expands-south-india-presence-with-launch-of-preventive-health-scree"
       }
     ],
     "healthtech": []
   },
   "thbActions": [
-    {
-      "segment": "pharma",
-      "articleId": "2026-05-24-molecule-glue-drugs-shake-up-cancer-care-draw-big-money",
-      "title": "Molecule glue drugs shake up cancer care, draw big money",
-      "source": "Economic Times Pharma",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
-      "segment": "pharma",
-      "articleId": "2026-05-24-veracyte-genomic-test-identifies-breast-cancer-patients-who-can-skip-che",
-      "title": "Veracyte genomic test identifies breast cancer patients who can skip chemo",
-      "source": "ET Healthworld",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
-      "segment": "pharma",
-      "articleId": "2026-05-24-wockhardt-secures-us-fda-approval-for-antibiotic-zaynich",
-      "title": "Wockhardt secures US FDA approval for antibiotic Zaynich",
-      "source": "Economic Times Pharma",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
-      "segment": "pharma",
-      "articleId": "2026-05-24-lincoln-pharmaceuticals-posts-rs-11-63-crore-profit-for-q4",
-      "title": "Lincoln Pharmaceuticals posts Rs 11.63 crore profit for Q4",
-      "source": "Economic Times Pharma",
-      "solution": "THB Commercial Analytics",
-      "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
-    },
-    {
-      "segment": "pharma",
-      "articleId": "2026-05-24-our-model-shows-that-just-improving-timeliness-can-lead-to-about-5-8-per",
-      "title": "Our model shows that just improving timeliness can lead to about 5–8 percentage point increase in treatment success",
-      "source": "Express Healthcare Posts",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
     {
       "segment": "providers",
       "articleId": "2026-05-24-lnjp-first-2-000-bedded-govt-hospital-to-receive-naqs-certification",
@@ -375,14 +282,6 @@
     },
     {
       "segment": "diagnostics",
-      "articleId": "2026-05-24-the-automation-premium-when-ai-costs-more-than-the-clinician-it-replaces",
-      "title": "The automation premium: When AI costs more than the clinician it replaces",
-      "source": "Express Healthcare Posts",
-      "solution": "THB Diagnostics CRM",
-      "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
-    },
-    {
-      "segment": "diagnostics",
       "articleId": "2026-05-24-asian-society-of-cardiovascular-imaging-inks-mou-with-philips",
       "title": "Asian Society of Cardiovascular Imaging inks MoU with Philips",
       "source": "BioSpectrum Asia Middle East",
@@ -396,6 +295,22 @@
       "source": "BioSpectrum Asia Middle East",
       "solution": "THB Network Growth",
       "action": "Use this signal to position THB for diagnostics network expansion, channel partner onboarding, and visibility across spoke sites, franchises, and enterprise accounts."
+    },
+    {
+      "segment": "diagnostics",
+      "articleId": "2026-05-24-illumina-multiomics-summit-india-highlights-potential-of-integrated-omic",
+      "title": "Illumina Multiomics Summit India highlights potential of integrated omics",
+      "source": "BioSpectrum India Healthcare",
+      "solution": "THB Diagnostics CRM",
+      "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
+    },
+    {
+      "segment": "diagnostics",
+      "articleId": "2026-05-24-nura-expands-south-india-presence-with-launch-of-preventive-health-scree",
+      "title": "NURA expands South India presence with launch of preventive health screening centre in Chennai",
+      "source": "BioSpectrum India Healthcare",
+      "solution": "THB Diagnostics CRM",
+      "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
     }
   ]
 }
