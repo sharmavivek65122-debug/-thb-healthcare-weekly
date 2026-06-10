@@ -5,12 +5,12 @@
   "startDate": "2026-05-30T18:30:00.000Z",
   "endDate": "2026-06-05T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-06-10T08:31:10.432Z",
+  "updatedAt": "2026-06-10T16:47:15.385Z",
   "coverage": {
-    "pharma": 40,
-    "providers": 7,
+    "pharma": 31,
+    "providers": 5,
     "diagnostics": 3,
-    "healthtech": 1
+    "healthtech": 0
   },
   "sourcesUsed": [
     "BioSpectrum Asia Middle East",
@@ -21,7 +21,6 @@
     "Economic Times Pharma",
     "Express Healthcare Posts",
     "Janssen India Media",
-    "Medical Dialogues Pharma",
     "PharmaTutor News"
   ],
   "segments": {
@@ -59,23 +58,6 @@
         "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/fda-approval-puts-wockhardts-zaynich-in-9-billion-antibiotics-market/articleshow/131429108.cms",
         "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-fda-approval-puts-wockhardt-s-zaynich-in-9-billion-antibiotics-market"
-      },
-      {
-        "id": "2026-05-31-novartis-experimental-actinium-based-drug-shows-promise-in-prostate-canc",
-        "title": "Novartis experimental actinium-based drug shows promise in prostate cancer treatment: Study",
-        "summary": "Novartis' new experimental actinium-based drug shows promise against prostate cancer. Early data on Sunday revealed anti-tumour activity, even in patients who previously received Novartis' Pluvicto. Response rates were higher in patients without prior...",
-        "source": "Economic Times Pharma",
-        "sourceHost": "economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-05-31T11:30:14.000Z",
-        "publishedLabel": "May 31, 2026",
-        "category": "Industry Update",
-        "image": "https://img.etimg.com/thumb/msid-131422224,width-1200,height-630,imgsize-71098,overlay-economictimes/articleshow.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/novartis-experimental-actinium-based-drug-shows-promise-in-prostate-cancer-treatment-study/articleshow/131422192.cms",
-        "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-novartis-experimental-actinium-based-drug-shows-promise-in-prostate-canc"
       },
       {
         "id": "2026-05-31-aurobindo-pharma-enters-biologics-contract-manufacturing-with-rs-1-200-c",
@@ -231,6 +213,23 @@
         "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-johnson-and-johnson-prostate-cancer-drug-reduces-risk-of-cancer-spread-a"
       },
       {
+        "id": "2026-05-31-paras-healthcare-files-papers-with-sebi-for-rs-1-800-cr-ipo",
+        "title": "Paras Healthcare files papers with Sebi for Rs 1,800-cr IPO",
+        "summary": "The proposed IPO comprises a fresh issue of equity shares aggregating up to Rs 500 crore and an Offer-For-Sale (OFS) of equity shares worth up to Rs 1,300 crore by the selling shareholder, according to the draft red herring prospectus (DRHP) filed on Thursday.",
+        "source": "ET Healthworld",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-06-05T08:24:16.000Z",
+        "publishedLabel": "June 5, 2026",
+        "category": "Industry Update",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-131526156,imgsize-242026,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/paras-healthcare-files-papers-with-sebi-for-rs-1800-cr-ipo.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": false,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/paras-healthcare-files-papers-with-sebi-for-rs-1800-cr-ipo/131526156",
+        "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-paras-healthcare-files-papers-with-sebi-for-rs-1-800-cr-ipo"
+      },
+      {
         "id": "2026-05-31-healthcare-isn-t-expensive-hospital-business-models-make-it-expensive-va",
         "title": "\"Healthcare Isn’t Expensive, Hospital Business Models Make It Expensive\": Varun Dubey",
         "summary": "​​India’s corporate hospital system has expanded access to high-quality care over the past three decades, but questions around opaque pricing, long waiting times and incentive-driven treatment models continue to trouble patients. Varun Dubey, Founder and CEO,...",
@@ -282,57 +281,6 @@
         "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-india-achieves-ai-breakthrough-in-cancer-care-with-mask-free-simulationl"
       },
       {
-        "id": "2026-05-31-build-trust-in-quality-and-reliability-into-healthcare-manufacturing-to-",
-        "title": "Build trust in quality and reliability into healthcare manufacturing to drive a societal transition to a circular economy",
-        "summary": "According to the WHO, an estimated 16 billion injections are administered worldwide each year, yet not all the needles and syringes are properly disposed of afterwards. In fact, like many […]",
-        "source": "Express Healthcare Posts",
-        "sourceHost": "expresshealthcare.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-06-02T09:02:54.000Z",
-        "publishedLabel": "June 2, 2026",
-        "category": "Manufacturing",
-        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/06/02143243/EP_Courtney_Soulsby_BSI_750.jpg",
-        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": false,
-        "originalUrl": "https://www.expresshealthcare.in/news/build-trust-in-quality-and-reliability-into-healthcare-manufacturing-to-drive-a-societal-transition-to-a-circular-economy/453817/",
-        "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-build-trust-in-quality-and-reliability-into-healthcare-manufacturing-to-"
-      },
-      {
-        "id": "2026-05-31-sanofi-launches-accelrare-to-reduce-india-s-rare-disease-diagnosis-chall",
-        "title": "Sanofi launches AccelRare to reduce India’s rare disease diagnosis challenge",
-        "summary": "In a country where a patient with a rare disease waits too long before receiving a correct diagnosis, Sanofi today announced the India launch of AccelRare, an AI-powered digital pre-diagnosis […]",
-        "source": "Express Healthcare Posts",
-        "sourceHost": "expresshealthcare.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-06-01T06:35:12.000Z",
-        "publishedLabel": "June 1, 2026",
-        "category": "Launch",
-        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/06/01120447/EH_Sanofi.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://www.expresshealthcare.in/news/sanofi-launches-accelrare-to-reduce-indias-rare-disease-diagnosis-challenge/453810/",
-        "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-sanofi-launches-accelrare-to-reduce-india-s-rare-disease-diagnosis-chall"
-      },
-      {
-        "id": "2026-05-31-poly-medicure-appoints-indranil-mukherjee-as-ceo-asia-pacific-and-india",
-        "title": "Poly Medicure appoints Indranil Mukherjee as CEO, Asia Pacific and India",
-        "summary": "Poly Medicure, India’s leading medical device company with a dominant position in the medical consumables market, today announced the appointment of Indranil Mukherjee as Chief Executive Officer, Asia Pacific and […]",
-        "source": "Express Healthcare Posts",
-        "sourceHost": "expresshealthcare.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-06-02T08:06:19.000Z",
-        "publishedLabel": "June 2, 2026",
-        "category": "Market",
-        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/06/02133545/EH_Indranil.jpg",
-        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": false,
-        "originalUrl": "https://www.expresshealthcare.in/news/poly-medicure-appoints-indranil-mukherjee-as-ceo-asia-pacific-and-india/453814/",
-        "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-poly-medicure-appoints-indranil-mukherjee-as-ceo-asia-pacific-and-india"
-      },
-      {
         "id": "2026-05-31-cdmos-and-atmp-growth-upswing-in-apac",
         "title": "CDMOs & ATMP Growth Upswing in APAC",
         "summary": "CDMOs & ATMP Growth Upswing in APAC",
@@ -348,23 +296,6 @@
         "justIn": false,
         "originalUrl": "https://www.biospectrumasia.com/analysis/38/27704/cdmos-atmp-growth-upswing-in-apac.html",
         "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-cdmos-and-atmp-growth-upswing-in-apac"
-      },
-      {
-        "id": "2026-05-31-aurobindo-bets-big-on-biologics-inaugurates-theranym-manufacturing-hub-i",
-        "title": "Aurobindo Bets Big on Biologics, Inaugurates TheraNym Manufacturing Hub in Telangana",
-        "summary": "New Delhi: Aurobindo Pharma has inaugurated TheraNym, one of India's largest dedicated biologics contract manufacturing organisations (CMOs), marking a significant expansion of its presence in the...",
-        "source": "Medical Dialogues Pharma",
-        "sourceHost": "medicaldialogues.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-06-06T18:06:38.000Z",
-        "publishedLabel": "June 6, 2026",
-        "category": "Manufacturing",
-        "image": "https://medicaldialogues.in/h-upload/2023/01/10/197263-aurobindo-pharma-1.jpg",
-        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": false,
-        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/aurobindo-bets-big-on-biologics-inaugurates-theranym-manufacturing-hub-in-telangana-172254",
-        "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-aurobindo-bets-big-on-biologics-inaugurates-theranym-manufacturing-hub-i"
       },
       {
         "id": "2026-05-31-johnson-and-johnson-s-phase-3-prostate-cancer-study-shows-erleada-apalut",
@@ -503,40 +434,6 @@
         "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-cdsco-seeks-more-data-before-clearing-bharat-biotech-s-phase-iii-trial-o"
       },
       {
-        "id": "2026-05-31-alkem-expands-semaglutide-portfolio-with-india-s-first-single-shot-pre-f",
-        "title": "Alkem Expands Semaglutide Portfolio with India’s First Single-Shot Pre-Filled Syringe, Starting at ₹350",
-        "summary": "In a move aimed at improving access to diabetes and obesity treatment, Alkem Laboratories has launched India's first semaglutide single-shot pre-filled syringes, with prices starting at just ₹350.The launch marks another milestone in the rapidly evolving...",
-        "source": "PharmaTutor News",
-        "sourceHost": "pharmatutor.org",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-06-04T10:31:21.000Z",
-        "publishedLabel": "June 4, 2026",
-        "category": "Launch",
-        "image": "https://www.pharmatutor.org/sites/default/files/styles/webp/public/2026-06/alkem-expands-semaglutide-portfolio-with-indias-first-single-shot-pre-filled-syringe-starting-at-350.jpg.webp?itok=roQoVsOJ",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/alkem-expands-semaglutide-portfolio-with-indias-first-single-shot-pre-filled-syringe-starting-at-350",
-        "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-alkem-expands-semaglutide-portfolio-with-india-s-first-single-shot-pre-f"
-      },
-      {
-        "id": "2026-05-31-serum-institute-to-manufacture-oxford-s-experimental-ebola-vaccine-after",
-        "title": "Serum Institute to Manufacture Oxford’s Experimental Ebola Vaccine After CEPI Commits 8.6 Million USD Funding",
-        "summary": "The Serum Institute of India (SII) has joined hands with the University of Oxford and the Coalition for Epidemic Preparedness Innovations (CEPI) to accelerate the development of an experimental vaccine targeting the Bundibugyo strain of Ebola virus, a deadly...",
-        "source": "PharmaTutor News",
-        "sourceHost": "pharmatutor.org",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-06-03T10:53:32.000Z",
-        "publishedLabel": "June 3, 2026",
-        "category": "Industry Update",
-        "image": "https://www.pharmatutor.org/sites/default/files/styles/webp/public/2026-06/serum-institute-to-manufacture-oxfords-experimental-ebola-vaccine-after-cepi-commits-8-million-usd-funding.jpg.webp?itok=OCtC73gQ",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/serum-institute-to-manufacture-oxfords-experimental-ebola-vaccine-after-cepi-commits-8-million-usd-funding",
-        "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-serum-institute-to-manufacture-oxford-s-experimental-ebola-vaccine-after"
-      },
-      {
         "id": "2026-05-31-glenmark-expands-u-s-injectable-portfolio-with-launch-of-generic-lacosam",
         "title": "Glenmark Expands U.S. Injectable Portfolio with Launch of Generic Lacosamide Injection",
         "summary": "Glenmark Pharmaceuticals Ltd. has announced that its U.S.-based subsidiary, Glenmark Pharmaceuticals Inc., USA, has launched Lacosamide Injection USP 200 mg/20 mL (10 mg/mL) Single-Dose Vials in the United States market. The product is the generic equivalent...",
@@ -569,57 +466,6 @@
         "justIn": false,
         "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/scientists-develop-lung-inspired-nanoparticles-to-improve-pulmonary-fibrosis-treatment",
         "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-scientists-develop-lung-inspired-nanoparticles-to-improve-pulmonary-fibr"
-      },
-      {
-        "id": "2026-05-31-gilead-s-livdelzi-achieves-key-phase-3-success-in-liver-disease-trial-st",
-        "title": "Gilead’s Livdelzi Achieves Key Phase 3 Success in Liver Disease Trial, Strengthening Treatment Outlook for PBC Patients",
-        "summary": "Gilead Sciences has announced positive results from its Phase 3 IDEAL trial evaluating Livdelzi (seladelpar)in adults with primary biliary cholangitis (PBC), a rare chronic autoimmune liver disease. The study met its primary endpoint, demonstrating...",
-        "source": "PharmaTutor News",
-        "sourceHost": "pharmatutor.org",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-06-03T10:57:02.000Z",
-        "publishedLabel": "June 3, 2026",
-        "category": "Deal",
-        "image": "https://www.pharmatutor.org/sites/default/files/styles/webp/public/2026-06/gileads-livdelzi-achieves-key-phase-3-success-in-liver-disease-trial-strengthening-treatment-outlook-for-pbc-patients.jpg.webp?itok=Qs4QMvzt",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/gileads-livdelzi-achieves-key-phase-3-success-in-liver-disease-trial-strengthening-treatment-outlook-for-pbc-patients",
-        "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-gilead-s-livdelzi-achieves-key-phase-3-success-in-liver-disease-trial-st"
-      },
-      {
-        "id": "2026-05-31-ipc-warns-of-potential-hyponatraemia-risk-with-blood-pressure-drug-cloni",
-        "title": "IPC Warns of Potential Hyponatraemia Risk with Blood Pressure Drug Clonidine",
-        "summary": "New Delhi: The Indian Pharmacopoeia Commission (IPC), in its latest Drug Safety Alert, has flagged a potential safety signal indicating that the antihypertensive drug Clonidine may be associated with...",
-        "source": "Medical Dialogues Pharma",
-        "sourceHost": "medicaldialogues.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-06-06T18:21:14.000Z",
-        "publishedLabel": "June 6, 2026",
-        "category": "Industry Update",
-        "image": "https://medicaldialogues.in/h-upload/2024/06/20/241667-drug-safety-alert-new-50.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/ipc-warns-of-potential-hyponatraemia-risk-with-blood-pressure-drug-clonidine-172256",
-        "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-ipc-warns-of-potential-hyponatraemia-risk-with-blood-pressure-drug-cloni"
-      },
-      {
-        "id": "2026-05-31-fraudsters-used-fake-documents-to-sell-sms-pharma-shares-worth-rs-3-31-c",
-        "title": "Fraudsters Used Fake Documents to Sell SMS Pharma Shares Worth Rs 3.31 Crore, Probe On",
-        "summary": "New Delhi: Hyderabad-based SMS Pharmaceuticals Limited has approached the Central Crime Station (CCS), alleging that a group of individuals fraudulently siphoned off shares worth more than Rs 3.3...",
-        "source": "Medical Dialogues Pharma",
-        "sourceHost": "medicaldialogues.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-06-06T18:14:56.000Z",
-        "publishedLabel": "June 6, 2026",
-        "category": "Industry Update",
-        "image": "https://medicaldialogues.in/h-upload/2025/11/19/309433-fraud-2.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/fraudsters-used-fake-documents-to-sell-sms-pharma-shares-worth-rs-331-crore-probe-on-172255",
-        "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-fraudsters-used-fake-documents-to-sell-sms-pharma-shares-worth-rs-3-31-c"
       },
       {
         "id": "2026-05-31-stopping-gout-therapy-may-increase-flare-risk-new-eular-study-finds",
@@ -743,23 +589,6 @@
         "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-pm-modi-virtually-inaugurates-esic-s-220-bedded-hospital-in-surat"
       },
       {
-        "id": "2026-05-31-paras-healthcare-files-papers-with-sebi-for-rs-1-800-cr-ipo",
-        "title": "Paras Healthcare files papers with Sebi for Rs 1,800-cr IPO",
-        "summary": "The proposed IPO comprises a fresh issue of equity shares aggregating up to Rs 500 crore and an Offer-For-Sale (OFS) of equity shares worth up to Rs 1,300 crore by the selling shareholder, according to the draft red herring prospectus (DRHP) filed on Thursday.",
-        "source": "ET Healthworld Hospitals",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-06-05T08:24:16.000Z",
-        "publishedLabel": "June 5, 2026",
-        "category": "Provider Update",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-131526156,imgsize-242026,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/paras-healthcare-files-papers-with-sebi-for-rs-1800-cr-ipo.jpg",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/paras-healthcare-files-papers-with-sebi-for-rs-1800-cr-ipo/131526156",
-        "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-paras-healthcare-files-papers-with-sebi-for-rs-1-800-cr-ipo"
-      },
-      {
         "id": "2026-05-31-warburg-kkr-tpg-among-pe-giants-vying-for-25-stake-in-cloudnine",
         "title": "Warburg, KKR, TPG among PE giants vying for 25% stake in Cloudnine",
         "summary": "Global private equity giants, including Warburg Pincus and KKR, are vying for a 25% stake in India's largest maternity and pediatric hospital chain, Cloudnine. The deal is expected to value the company at approximately $1 billion, with existing investor True...",
@@ -792,23 +621,6 @@
         "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/news/bridging-the-gap-in-pain-awareness-and-treatment-accessibility/453831/",
         "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-bridging-the-gap-in-pain-awareness-and-treatment-accessibility"
-      },
-      {
-        "id": "2026-05-31-cashless-healthcare-in-india-bridging-operational-gap-between-hospitals-",
-        "title": "Cashless healthcare in India: Bridging operational gap between hospitals, TPAs, and insurers",
-        "summary": "Every day, across hospital admission counters in cities like Pune, Hyderabad, and Kolkata, a quiet crisis plays out. A family arrives with a medical emergency and an insurance card. What […]",
-        "source": "Express Healthcare Posts",
-        "sourceHost": "expresshealthcare.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-06-03T13:52:37.000Z",
-        "publishedLabel": "June 3, 2026",
-        "category": "Hospital",
-        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/06/03192200/EH_Trupti.jpg",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://www.expresshealthcare.in/blogs/guest-blogs-healthcare/cashless-healthcare-in-india-bridging-operational-gap-between-hospitals-tpas-and-insurers/453828/",
-        "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-cashless-healthcare-in-india-bridging-operational-gap-between-hospitals-"
       },
       {
         "id": "2026-05-31-aussie-budget-2026-big-wins-and-tough-questions-for-life-sciences",
@@ -881,25 +693,7 @@
         "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-israel-s-healthcare-financing-model-efficiency-tested-by-structural-pres"
       }
     ],
-    "healthtech": [
-      {
-        "id": "2026-05-31-dr-rajendra-pratap-gupta-nominated-by-united-nations-secretary-general-t",
-        "title": "Dr Rajendra Pratap Gupta nominated by United Nations Secretary-General to serve on MAG of IGF",
-        "summary": "Dr Rajendra Pratap Gupta, a public policy leader, digital governance expert, AI researcher, and healthcare futurist, has been nominated by the Secretary-General of the United Nations to serve on the […]",
-        "source": "Express Healthcare Posts",
-        "sourceHost": "expresshealthcare.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-06-02T09:48:09.000Z",
-        "publishedLabel": "June 2, 2026",
-        "category": "AI",
-        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/06/02151756/EH_Dr-Rajendra.jpg",
-        "thbAction": "",
-        "justIn": false,
-        "originalUrl": "https://www.expresshealthcare.in/news/dr-rajendra-pratap-gupta-nominated-by-united-nations-secretary-general-to-serve-on-mag-of-igf/453825/",
-        "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-dr-rajendra-pratap-gupta-nominated-by-united-nations-secretary-general-t"
-      }
-    ]
+    "healthtech": []
   },
   "thbActions": [
     {
@@ -914,14 +708,6 @@
       "segment": "pharma",
       "articleId": "2026-05-31-fda-approval-puts-wockhardt-s-zaynich-in-9-billion-antibiotics-market",
       "title": "FDA approval puts Wockhardt’s Zaynich in $9 billion antibiotics market",
-      "source": "Economic Times Pharma",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
-      "segment": "pharma",
-      "articleId": "2026-05-31-novartis-experimental-actinium-based-drug-shows-promise-in-prostate-canc",
-      "title": "Novartis experimental actinium-based drug shows promise in prostate cancer treatment: Study",
       "source": "Economic Times Pharma",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
@@ -943,6 +729,14 @@
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
     },
     {
+      "segment": "pharma",
+      "articleId": "2026-05-31-delhi-hc-allows-intas-to-sell-cancer-drug-bevatas-sets-aside-order-favou",
+      "title": "Delhi HC allows Intas to sell cancer drug Bevatas, sets aside order favouring Sun Pharma",
+      "source": "Economic Times Pharma",
+      "solution": "THB Commercial Analytics",
+      "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
+    },
+    {
       "segment": "providers",
       "articleId": "2026-05-31-manipal-health-takes-bengaluru-hospital-building-on-long-term-lease",
       "title": "Manipal Health takes Bengaluru hospital building on long-term lease",
@@ -960,14 +754,6 @@
     },
     {
       "segment": "providers",
-      "articleId": "2026-05-31-paras-healthcare-files-papers-with-sebi-for-rs-1-800-cr-ipo",
-      "title": "Paras Healthcare files papers with Sebi for Rs 1,800-cr IPO",
-      "source": "ET Healthworld Hospitals",
-      "solution": "THB Provider CRM",
-      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
-    },
-    {
-      "segment": "providers",
       "articleId": "2026-05-31-warburg-kkr-tpg-among-pe-giants-vying-for-25-stake-in-cloudnine",
       "title": "Warburg, KKR, TPG among PE giants vying for 25% stake in Cloudnine",
       "source": "ET Healthworld Hospitals",
@@ -979,6 +765,14 @@
       "articleId": "2026-05-31-bridging-the-gap-in-pain-awareness-and-treatment-accessibility",
       "title": "Bridging the gap in pain awareness and treatment accessibility",
       "source": "Express Healthcare Posts",
+      "solution": "THB Provider CRM",
+      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
+    },
+    {
+      "segment": "providers",
+      "articleId": "2026-05-31-aussie-budget-2026-big-wins-and-tough-questions-for-life-sciences",
+      "title": "Aussie Budget 2026: Big Wins and Tough Questions for Life Sciences",
+      "source": "BioSpectrum Asia Middle East",
       "solution": "THB Provider CRM",
       "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
     },
