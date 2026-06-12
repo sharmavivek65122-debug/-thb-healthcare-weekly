@@ -5,16 +5,15 @@
   "startDate": "2026-05-23T18:30:00.000Z",
   "endDate": "2026-05-29T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-06-12T08:46:14.529Z",
+  "updatedAt": "2026-06-12T16:31:49.075Z",
   "coverage": {
     "pharma": 0,
     "providers": 4,
-    "diagnostics": 5,
+    "diagnostics": 3,
     "healthtech": 0
   },
   "sourcesUsed": [
     "BioSpectrum Asia Middle East",
-    "BioSpectrum India Healthcare",
     "ET Healthworld Diagnostics",
     "ET Healthworld Hospitals"
   ],
@@ -141,40 +140,6 @@
         "justIn": false,
         "originalUrl": "https://www.biospectrumasia.com/news/27/27686/gulf-medical-university-launches-regions-largest-network-of-clinical-skills-and-simulation-centres.html",
         "articlePath": "/article.html?issue=2026-05-24&article=2026-05-24-gulf-medical-university-launches-region-s-largest-network-of-clinical-sk"
-      },
-      {
-        "id": "2026-05-24-illumina-multiomics-summit-india-highlights-potential-of-integrated-omic",
-        "title": "Illumina Multiomics Summit India highlights potential of integrated omics",
-        "summary": "Illumina Multiomics Summit India highlights potential of integrated omics",
-        "source": "BioSpectrum India Healthcare",
-        "sourceHost": "biospectrumindia.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-05-24T18:30:00.000Z",
-        "publishedLabel": "May 25, 2026",
-        "category": "Industry Update",
-        "image": "https://www.biospectrumindia.com/uploads/articles/illumina_multiomics_summit_2026___image-27848.JPG",
-        "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
-        "justIn": false,
-        "originalUrl": "https://www.biospectrumindia.com/news/16/27848/illumina-multiomics-summit-india-highlights-potential-of-integrated-omics-.html",
-        "articlePath": "/article.html?issue=2026-05-24&article=2026-05-24-illumina-multiomics-summit-india-highlights-potential-of-integrated-omic"
-      },
-      {
-        "id": "2026-05-24-nura-expands-south-india-presence-with-launch-of-preventive-health-scree",
-        "title": "NURA expands South India presence with launch of preventive health screening centre in Chennai",
-        "summary": "NURA expands South India presence with launch of preventive health screening centre in Chennai",
-        "source": "BioSpectrum India Healthcare",
-        "sourceHost": "biospectrumindia.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-05-26T18:30:00.000Z",
-        "publishedLabel": "May 27, 2026",
-        "category": "Screening",
-        "image": "https://www.biospectrumindia.com/uploads/articles/nura_chennai_inauguration-27860.jpg",
-        "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
-        "justIn": false,
-        "originalUrl": "https://www.biospectrumindia.com/news/16/27860/nura-expands-south-india-presence-with-launch-of-preventive-health-screening-centre-in-chennai.html",
-        "articlePath": "/article.html?issue=2026-05-24&article=2026-05-24-nura-expands-south-india-presence-with-launch-of-preventive-health-scree"
       }
     ],
     "healthtech": []
@@ -235,22 +200,6 @@
       "source": "BioSpectrum Asia Middle East",
       "solution": "THB Network Growth",
       "action": "Use this signal to position THB for diagnostics network expansion, channel partner onboarding, and visibility across spoke sites, franchises, and enterprise accounts."
-    },
-    {
-      "segment": "diagnostics",
-      "articleId": "2026-05-24-illumina-multiomics-summit-india-highlights-potential-of-integrated-omic",
-      "title": "Illumina Multiomics Summit India highlights potential of integrated omics",
-      "source": "BioSpectrum India Healthcare",
-      "solution": "THB Diagnostics CRM",
-      "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
-    },
-    {
-      "segment": "diagnostics",
-      "articleId": "2026-05-24-nura-expands-south-india-presence-with-launch-of-preventive-health-scree",
-      "title": "NURA expands South India presence with launch of preventive health screening centre in Chennai",
-      "source": "BioSpectrum India Healthcare",
-      "solution": "THB Diagnostics CRM",
-      "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
     }
   ]
 }
