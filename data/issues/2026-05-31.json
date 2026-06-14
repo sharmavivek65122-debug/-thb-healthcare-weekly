@@ -5,9 +5,9 @@
   "startDate": "2026-05-30T18:30:00.000Z",
   "endDate": "2026-06-05T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-06-14T08:30:25.751Z",
+  "updatedAt": "2026-06-14T15:26:23.750Z",
   "coverage": {
-    "pharma": 13,
+    "pharma": 14,
     "providers": 5,
     "diagnostics": 3,
     "healthtech": 0
@@ -74,6 +74,23 @@
         "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/transforming-healthcare-understanding-costs-and-hospital-models-with-varun-dubey/131499717",
         "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-healthcare-isn-t-expensive-hospital-business-models-make-it-expensive-va"
+      },
+      {
+        "id": "2026-05-31-five-year-old-recovers-from-rare-gbs-after-90-day-treatment-in-udaipur",
+        "title": "Five-year-old recovers from rare GBS after 90-day treatment in Udaipur",
+        "summary": "The child was admitted with severe weakness in both legs and was later diagnosed with GBS, a condition in which the body's immune system attacks the nerves, leading to muscle weakness and, in severe cases, breathing difficulties. As her condition...",
+        "source": "ET Healthworld",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-06-03T23:31:18.000Z",
+        "publishedLabel": "June 4, 2026",
+        "category": "Industry Update",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-131480062,imgsize-89170,width-1200,height=627,overlay-ethealth,resizemode-75/industry/five-year-old-recovers-from-rare-gbs-after-90-day-treatment-in-udaipur.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": false,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/five-year-old-recovers-from-rare-gbs-after-90-day-treatment-in-udaipur/131480062",
+        "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-five-year-old-recovers-from-rare-gbs-after-90-day-treatment-in-udaipur"
       },
       {
         "id": "2026-05-31-cdmos-and-atmp-growth-upswing-in-apac",
@@ -415,19 +432,19 @@
     },
     {
       "segment": "pharma",
+      "articleId": "2026-05-31-five-year-old-recovers-from-rare-gbs-after-90-day-treatment-in-udaipur",
+      "title": "Five-year-old recovers from rare GBS after 90-day treatment in Udaipur",
+      "source": "ET Healthworld",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "pharma",
       "articleId": "2026-05-31-cdmos-and-atmp-growth-upswing-in-apac",
       "title": "CDMOs & ATMP Growth Upswing in APAC",
       "source": "BioSpectrum Asia Middle East",
       "solution": "THB Commercial Analytics",
       "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
-    },
-    {
-      "segment": "pharma",
-      "articleId": "2026-05-31-johnson-and-johnson-presents-new-data-further-reinforcing-the-role-of-ni",
-      "title": "Johnson & Johnson presents new data further reinforcing the role of nipocalimab in lowering the autoantibodies driving Sjögren’s disease",
-      "source": "Janssen India Media",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
     },
     {
       "segment": "providers",
