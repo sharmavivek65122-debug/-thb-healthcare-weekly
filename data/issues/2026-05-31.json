@@ -5,9 +5,9 @@
   "startDate": "2026-05-30T18:30:00.000Z",
   "endDate": "2026-06-05T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-06-13T15:18:07.872Z",
+  "updatedAt": "2026-06-14T08:30:25.751Z",
   "coverage": {
-    "pharma": 14,
+    "pharma": 13,
     "providers": 5,
     "diagnostics": 3,
     "healthtech": 0
@@ -40,23 +40,6 @@
         "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/cancer-drug-prices-may-surge-as-raw-material-costs-skyrocket-amid-regulatory-discussions/articleshow/131540108.cms",
         "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-regulator-cos-discuss-price-hike-for-some-cancer-drugs"
-      },
-      {
-        "id": "2026-05-31-drug-companies-directed-to-step-up-vigil-on-adverse-reactions",
-        "title": "Drug companies directed to step up vigil on adverse reactions",
-        "summary": "India's drug regulator, CDSCO, has mandated all drug companies to establish systems for tracking adverse drug reactions. This move comes amid global scrutiny of India's drug safety monitoring. Companies must now designate officers, maintain records, and...",
-        "source": "Economic Times Pharma",
-        "sourceHost": "economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-06-04T19:06:16.000Z",
-        "publishedLabel": "June 5, 2026",
-        "category": "Industry Update",
-        "image": "https://img.etimg.com/thumb/msid-131515937,width-1200,height-630,imgsize-20202,overlay-economictimes/articleshow.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/drug-companies-directed-to-step-up-vigil-on-adverse-reactions/articleshow/131515925.cms",
-        "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-drug-companies-directed-to-step-up-vigil-on-adverse-reactions"
       },
       {
         "id": "2026-05-31-chemo-drug-supply-crisis-hits-cancer-care",
@@ -416,14 +399,6 @@
     },
     {
       "segment": "pharma",
-      "articleId": "2026-05-31-drug-companies-directed-to-step-up-vigil-on-adverse-reactions",
-      "title": "Drug companies directed to step up vigil on adverse reactions",
-      "source": "Economic Times Pharma",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
-      "segment": "pharma",
       "articleId": "2026-05-31-chemo-drug-supply-crisis-hits-cancer-care",
       "title": "Chemo drug supply crisis hits cancer care",
       "source": "ET Healthworld Pharma",
@@ -445,6 +420,14 @@
       "source": "BioSpectrum Asia Middle East",
       "solution": "THB Commercial Analytics",
       "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
+    },
+    {
+      "segment": "pharma",
+      "articleId": "2026-05-31-johnson-and-johnson-presents-new-data-further-reinforcing-the-role-of-ni",
+      "title": "Johnson & Johnson presents new data further reinforcing the role of nipocalimab in lowering the autoantibodies driving Sjögren’s disease",
+      "source": "Janssen India Media",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
     },
     {
       "segment": "providers",
