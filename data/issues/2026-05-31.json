@@ -5,9 +5,9 @@
   "startDate": "2026-05-30T18:30:00.000Z",
   "endDate": "2026-06-05T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-06-14T15:26:23.750Z",
+  "updatedAt": "2026-06-15T10:43:24.111Z",
   "coverage": {
-    "pharma": 14,
+    "pharma": 12,
     "providers": 5,
     "diagnostics": 3,
     "healthtech": 0
@@ -18,29 +18,11 @@
     "ET Healthworld Diagnostics",
     "ET Healthworld Hospitals",
     "ET Healthworld Pharma",
-    "Economic Times Pharma",
     "Janssen India Media",
     "PharmaTutor News"
   ],
   "segments": {
     "pharma": [
-      {
-        "id": "2026-05-31-regulator-cos-discuss-price-hike-for-some-cancer-drugs",
-        "title": "Regulator, cos discuss price hike for some cancer drugs",
-        "summary": "India's drug pricing authority may soon approve a price hike for vital platinum-based cancer medicines. These drugs, including carboplatin and cisplatin, are crucial for treating various cancers. The National Pharmaceutical Pricing Authority met with drug...",
-        "source": "Economic Times Pharma",
-        "sourceHost": "economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-06-05T19:10:05.000Z",
-        "publishedLabel": "June 6, 2026",
-        "category": "Industry Update",
-        "image": "https://img.etimg.com/thumb/msid-131540151,width-1200,height-630,imgsize-171384,overlay-economictimes/articleshow.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/cancer-drug-prices-may-surge-as-raw-material-costs-skyrocket-amid-regulatory-discussions/articleshow/131540108.cms",
-        "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-regulator-cos-discuss-price-hike-for-some-cancer-drugs"
-      },
       {
         "id": "2026-05-31-chemo-drug-supply-crisis-hits-cancer-care",
         "title": "Chemo drug supply crisis hits cancer care",
@@ -74,23 +56,6 @@
         "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/transforming-healthcare-understanding-costs-and-hospital-models-with-varun-dubey/131499717",
         "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-healthcare-isn-t-expensive-hospital-business-models-make-it-expensive-va"
-      },
-      {
-        "id": "2026-05-31-five-year-old-recovers-from-rare-gbs-after-90-day-treatment-in-udaipur",
-        "title": "Five-year-old recovers from rare GBS after 90-day treatment in Udaipur",
-        "summary": "The child was admitted with severe weakness in both legs and was later diagnosed with GBS, a condition in which the body's immune system attacks the nerves, leading to muscle weakness and, in severe cases, breathing difficulties. As her condition...",
-        "source": "ET Healthworld",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-06-03T23:31:18.000Z",
-        "publishedLabel": "June 4, 2026",
-        "category": "Industry Update",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-131480062,imgsize-89170,width-1200,height=627,overlay-ethealth,resizemode-75/industry/five-year-old-recovers-from-rare-gbs-after-90-day-treatment-in-udaipur.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/five-year-old-recovers-from-rare-gbs-after-90-day-treatment-in-udaipur/131480062",
-        "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-five-year-old-recovers-from-rare-gbs-after-90-day-treatment-in-udaipur"
       },
       {
         "id": "2026-05-31-cdmos-and-atmp-growth-upswing-in-apac",
@@ -408,14 +373,6 @@
   "thbActions": [
     {
       "segment": "pharma",
-      "articleId": "2026-05-31-regulator-cos-discuss-price-hike-for-some-cancer-drugs",
-      "title": "Regulator, cos discuss price hike for some cancer drugs",
-      "source": "Economic Times Pharma",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
-      "segment": "pharma",
       "articleId": "2026-05-31-chemo-drug-supply-crisis-hits-cancer-care",
       "title": "Chemo drug supply crisis hits cancer care",
       "source": "ET Healthworld Pharma",
@@ -432,16 +389,24 @@
     },
     {
       "segment": "pharma",
-      "articleId": "2026-05-31-five-year-old-recovers-from-rare-gbs-after-90-day-treatment-in-udaipur",
-      "title": "Five-year-old recovers from rare GBS after 90-day treatment in Udaipur",
-      "source": "ET Healthworld",
+      "articleId": "2026-05-31-cdmos-and-atmp-growth-upswing-in-apac",
+      "title": "CDMOs & ATMP Growth Upswing in APAC",
+      "source": "BioSpectrum Asia Middle East",
+      "solution": "THB Commercial Analytics",
+      "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
+    },
+    {
+      "segment": "pharma",
+      "articleId": "2026-05-31-johnson-and-johnson-presents-new-data-further-reinforcing-the-role-of-ni",
+      "title": "Johnson & Johnson presents new data further reinforcing the role of nipocalimab in lowering the autoantibodies driving Sjögren’s disease",
+      "source": "Janssen India Media",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
     },
     {
       "segment": "pharma",
-      "articleId": "2026-05-31-cdmos-and-atmp-growth-upswing-in-apac",
-      "title": "CDMOs & ATMP Growth Upswing in APAC",
+      "articleId": "2026-05-31-scalable-manufacturing-for-high-volume-sirna-programmes-remains-underdev",
+      "title": "“Scalable manufacturing for high-volume siRNA programmes remains underdeveloped”",
       "source": "BioSpectrum Asia Middle East",
       "solution": "THB Commercial Analytics",
       "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
