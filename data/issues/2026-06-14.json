@@ -5,12 +5,12 @@
   "startDate": "2026-06-13T18:30:00.000Z",
   "endDate": "2026-06-19T18:30:00.000Z",
   "status": "live",
-  "updatedAt": "2026-06-15T10:43:24.111Z",
+  "updatedAt": "2026-06-15T18:09:13.494Z",
   "coverage": {
-    "pharma": 12,
-    "providers": 2,
-    "diagnostics": 2,
-    "healthtech": 0
+    "pharma": 21,
+    "providers": 1,
+    "diagnostics": 4,
+    "healthtech": 1
   },
   "sourcesUsed": [
     "ET Healthworld",
@@ -18,7 +18,7 @@
     "Express Healthcare",
     "Healthcare MEA",
     "Medical Dialogues Pharma",
-    "Zawya Pharmaceuticals"
+    "PharmaTutor News"
   ],
   "segments": {
     "pharma": [
@@ -40,6 +40,23 @@
         "articlePath": "/article.html?issue=2026-06-14&article=2026-06-14-maharashtra-fda-bars-hospitals-from-forcing-patients-to-buy-medicines-in"
       },
       {
+        "id": "2026-06-14-apollo-hospitals-taps-shobana-kamineni-to-chair-soon-to-be-listed-health",
+        "title": "Apollo Hospitals taps Shobana Kamineni to chair soon-to-be listed Healthtech unit",
+        "summary": "During its May earnings call, Apollo Hospitals said it expects the demerger and listing of Apollo Healthtech to be completed by late FY27, subject to regulatory and shareholder approvals. The company is targeting annualised revenue of around Rs 25,000 crore...",
+        "source": "ET Healthworld",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-06-15T12:56:57.000Z",
+        "publishedLabel": "June 15, 2026",
+        "category": "Approval",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-131745887,imgsize-130614,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/apollo-hospitals-taps-shobana-kamineni-to-chair-soon-to-be-listed-healthtech-unit.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/apollo-hospitals-taps-shobana-kamineni-to-chair-soon-to-be-listed-healthtech-unit/131745887",
+        "articlePath": "/article.html?issue=2026-06-14&article=2026-06-14-apollo-hospitals-taps-shobana-kamineni-to-chair-soon-to-be-listed-health"
+      },
+      {
         "id": "2026-06-14-aiims-bhopal-to-roll-out-digital-decision-partner-for-doctors-at-bedside",
         "title": "AIIMS Bhopal to roll out ‘digital decision partner’ for doctors at bedside",
         "summary": "For patients visiting AIIMS Bhopal, the new system is expected to make care more uniform, safer and more up‑to‑date, even though the technology will largely remain behind the scenes. Clinicians will be able to instantly cross‑check diagnoses, drug doses and...",
@@ -52,9 +69,26 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-131739520,imgsize-2550581,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/aiims-bhopal-to-roll-out-digital-decision-partner-for-doctors-at-bedside.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/aiims-bhopal-to-roll-out-digital-decision-partner-for-doctors-at-bedside/131739520",
         "articlePath": "/article.html?issue=2026-06-14&article=2026-06-14-aiims-bhopal-to-roll-out-digital-decision-partner-for-doctors-at-bedside"
+      },
+      {
+        "id": "2026-06-14-specialised-wound-care-centres-to-be-rolled-out-nationwide-amid-rising-d",
+        "title": "Specialised wound-care centres to be rolled out nationwide amid rising diabetes burden",
+        "summary": "The centres are being developed under the Wound Heal Plus initiative of IHLD MedTech, which has received an initial investment of $3 million from Singapore-listed UltraGreen. ai, with the potential for additional investments that could take the total amount...",
+        "source": "ET Healthworld",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-06-15T12:34:11.000Z",
+        "publishedLabel": "June 15, 2026",
+        "category": "Industry Update",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-131745208,imgsize-75934,width-1200,height=627,overlay-ethealth,resizemode-75/industry/specialised-wound-care-centres-to-be-rolled-out-nationwide-amid-rising-diabetes-burden.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/specialised-wound-care-centres-to-be-rolled-out-nationwide-amid-rising-diabetes-burden/131745208",
+        "articlePath": "/article.html?issue=2026-06-14&article=2026-06-14-specialised-wound-care-centres-to-be-rolled-out-nationwide-amid-rising-d"
       },
       {
         "id": "2026-06-14-fssai-issues-notices-to-8-food-companies-for-misleading-healthy-claims-o",
@@ -69,7 +103,7 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-131735347,imgsize-137610,width-1200,height=627,overlay-ethealth,resizemode-75/policy/fssai-issues-notices-to-8-food-companies-for-misleading-healthy-claims-on-packaging-labels.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/policy/fssai-issues-notices-to-8-food-companies-for-misleading-healthy-claims-on-packaging-labels/131735347",
         "articlePath": "/article.html?issue=2026-06-14&article=2026-06-14-fssai-issues-notices-to-8-food-companies-for-misleading-healthy-claims-o"
       },
@@ -86,7 +120,7 @@
         "category": "Launch",
         "image": "https://etimg.etb2bimg.com/thumb/msid-131726348,imgsize-93624,width-1200,height=627,overlay-ethealth,resizemode-75/industry/uk-launches-one-off-menb-vaccination-programme-in-wake-of-largest-outbreak.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/uk-launches-one-off-menb-vaccination-programme-in-wake-of-largest-outbreak/131726348",
         "articlePath": "/article.html?issue=2026-06-14&article=2026-06-14-uk-launches-one-off-menb-vaccination-programme-in-wake-of-largest-outbre"
       },
@@ -103,9 +137,26 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-131726342,imgsize-69390,width-1200,height=627,overlay-ethealth,resizemode-75/medical-devices/fda-clears-first-over-the-counter-glucose-monitor-for-children.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/medical-devices/fda-clears-first-over-the-counter-glucose-monitor-for-children/131726342",
         "articlePath": "/article.html?issue=2026-06-14&article=2026-06-14-fda-clears-first-over-the-counter-glucose-monitor-for-children"
+      },
+      {
+        "id": "2026-06-14-kims-hospitals-brainlab-launch-south-asia-s-first-functional-neurosurger",
+        "title": "KIMS Hospitals, Brainlab launch South Asia’s first Functional Neurosurgery Reference Centre in Bengaluru",
+        "summary": "KIMS Hospitals has partnered with German healthtech company Brainlab to establish South Asia’s first functional neurosurgery reference centre and Centre of Excellence in Bengaluru. The facility will integrate advanced imaging, surgical navigation, and mixed...",
+        "source": "ET Healthworld",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-06-15T11:43:24.000Z",
+        "publishedLabel": "June 15, 2026",
+        "category": "Launch",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-131743605,imgsize-194300,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/kims-hospitals-brainlab-launch-south-asias-first-functional-neurosurgery-reference-centre-in-bengaluru.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/kims-hospitals-brainlab-launch-south-asias-first-functional-neurosurgery-reference-centre-in-bengaluru/131743605",
+        "articlePath": "/article.html?issue=2026-06-14&article=2026-06-14-kims-hospitals-brainlab-launch-south-asia-s-first-functional-neurosurger"
       },
       {
         "id": "2026-06-14-novartis-india-launches-pluvicto-for-prostate-cancer-treatment",
@@ -120,9 +171,26 @@
         "category": "Launch",
         "image": "https://img.etimg.com/thumb/msid-131740063,width-1200,height-630,imgsize-30614,overlay-economictimes/articleshow.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/novartis-india-launches-pluvicto-for-prostate-cancer-treatment/articleshow/131740049.cms",
         "articlePath": "/article.html?issue=2026-06-14&article=2026-06-14-novartis-india-launches-pluvicto-for-prostate-cancer-treatment"
+      },
+      {
+        "id": "2026-06-14-autovrse-raises-2-4m-from-singularity-amc-and-lumikai-to-scale-ai-transf",
+        "title": "AutoVRse raises $2.4M from Singularity AMC and Lumikai to scale AI transformation for global Pharma and MedTech",
+        "summary": "AutoVRse, India’s fastest-growing industrial AI transformation platform, today announced a $2.4 million funding round, co-led by Singularity AMC’s Large Value Fund III and Early Opportunities Fund, and existing investor Lumikai, […]",
+        "source": "Express Healthcare",
+        "sourceHost": "expresshealthcare.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-06-15T12:41:46.000Z",
+        "publishedLabel": "June 15, 2026",
+        "category": "Industry Update",
+        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/06/15181128/EH_Autovrse.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://www.expresshealthcare.in/news/autovrse-raises-2-4m-from-singularity-amc-and-lumikai-to-scale-ai-transformation-for-global-pharma-and-medtech/453956/",
+        "articlePath": "/article.html?issue=2026-06-14&article=2026-06-14-autovrse-raises-2-4m-from-singularity-amc-and-lumikai-to-scale-ai-transf"
       },
       {
         "id": "2026-06-14-gsk-strikes-us-10-6b-nuvalent-deal-to-strengthen-lung-cancer-pipeline-he",
@@ -137,7 +205,7 @@
         "category": "Manufacturing",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/06/dl-gsk-plc-gsk-health-care-healthcare-pharmaceuticals-and-biotechnology-pharmaceuticals-ftse-100-premium-glaxosmithkline-glaxo-smith-kline-20230328-1827-1-1.jpg",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/06/15/gsk-strikes-us10-6b-nuvalent-deal-to-strengthen-lung-cancer-pipeline/",
         "articlePath": "/article.html?issue=2026-06-14&article=2026-06-14-gsk-strikes-us-10-6b-nuvalent-deal-to-strengthen-lung-cancer-pipeline-he"
       },
@@ -159,6 +227,23 @@
         "articlePath": "/article.html?issue=2026-06-14&article=2026-06-14-concord-biotech-secures-usfda-approval-for-tofacitinib-tablets-targets-u"
       },
       {
+        "id": "2026-06-14-jazz-pharma-s-lung-cancer-drug-zepzelca-fails-late-stage-trial-faces-reg",
+        "title": "Jazz Pharma's Lung Cancer Drug Zepzelca Fails Late-Stage Trial, Faces Regulatory Uncertainty",
+        "summary": "Bengaluru: Jazz Pharmaceuticals said on Friday its lung cancer drug Zepzelca failed to meet the main goal of improving overall survival in a late-stage study, potentially risking its current...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-06-15T17:45:35.000Z",
+        "publishedLabel": "June 15, 2026",
+        "category": "Industry Update",
+        "image": "https://medicaldialogues.in/h-upload/2026/06/15/353949-jazz-pharma.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/jazz-pharmas-lung-cancer-drug-zepzelca-fails-late-stage-trial-faces-regulatory-uncertainty-172896",
+        "articlePath": "/article.html?issue=2026-06-14&article=2026-06-14-jazz-pharma-s-lung-cancer-drug-zepzelca-fails-late-stage-trial-faces-reg"
+      },
+      {
         "id": "2026-06-14-ede-signs-landmark-mou-with-novo-nordisk-to-boost-uae-pharmaceutical-man",
         "title": "EDE signs landmark MoU with Novo Nordisk to boost UAE pharmaceutical manufacturing | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
         "summary": "Under the new agreement, EDE and Novo Nordisk will work together to enhance pharmaceutical supply chain security by increasing in-country value creation and expanding strategic partnerships that h ...",
@@ -171,7 +256,7 @@
         "category": "Manufacturing",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/06/%D8%AE%D9%84%D8%A7%D9%84-%D8%AA%D9%88%D9%82%D9%8A%D8%B9-%D8%A7%D9%84%D8%A7%D8%AA%D9%81%D8%A7%D9%82%D9%8A%D8%A9-1.png",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/06/15/ede-signs-landmark-mou-with-novo-nordisk-to-boost-uae-pharmaceutical-manufacturing/",
         "articlePath": "/article.html?issue=2026-06-14&article=2026-06-14-ede-signs-landmark-mou-with-novo-nordisk-to-boost-uae-pharmaceutical-man"
       },
@@ -193,6 +278,40 @@
         "articlePath": "/article.html?issue=2026-06-14&article=2026-06-14-centre-may-extend-customs-duty-relief-on-pharma-raw-materials-amid-west-"
       },
       {
+        "id": "2026-06-14-india-switzerland-discuss-expanding-pharma-life-sciences-collaboration",
+        "title": "India, Switzerland Discuss Expanding Pharma, Life Sciences Collaboration",
+        "summary": "New Delhi: India and Switzerland on Friday discussed new investment opportunities for Swiss pharma companies in the country's rapidly growing healthcare and life sciences sector.Commerce and Industry...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-06-15T17:17:23.000Z",
+        "publishedLabel": "June 15, 2026",
+        "category": "Industry Update",
+        "image": "https://medicaldialogues.in/h-upload/2026/06/15/353955-swiss-pharma.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/india-switzerland-discuss-expanding-pharma-life-sciences-collaboration-172895",
+        "articlePath": "/article.html?issue=2026-06-14&article=2026-06-14-india-switzerland-discuss-expanding-pharma-life-sciences-collaboration"
+      },
+      {
+        "id": "2026-06-14-lundbeck-s-experimental-antibody-shows-early-promise-in-cushing-s-diseas",
+        "title": "Lundbeck’s Experimental Antibody Shows Early Promise in Cushing’s Disease Trial",
+        "summary": "Lundbeck has unveiled promising early-stage clinical data for its investigational therapy asedebart, highlighting a potential new treatment approach for patients living with Cushing’s disease, a rare endocrine disorder driven by excessive cortisol production....",
+        "source": "PharmaTutor News",
+        "sourceHost": "pharmatutor.org",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-06-15T11:11:01.000Z",
+        "publishedLabel": "June 15, 2026",
+        "category": "Industry Update",
+        "image": "https://www.pharmatutor.org/sites/default/files/styles/webp/public/2026-06/lundbecks-experimental-antibody-shows-early-promise-in-cushings-disease-trial.png.webp?itok=4BT8RsPb",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/lundbecks-experimental-antibody-shows-early-promise-in-cushings-disease-trial",
+        "articlePath": "/article.html?issue=2026-06-14&article=2026-06-14-lundbeck-s-experimental-antibody-shows-early-promise-in-cushing-s-diseas"
+      },
+      {
         "id": "2026-06-14-thumbay-group-launches-new-international-research-centre-in-ajman-health",
         "title": "Thumbay Group launches new International Research Centre in Ajman | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
         "summary": "The facility will occupy approximately 3,000 square metres and will comprise a ground floor, five upper levels, and a rooftop, reaching a height of 27.75 metres.",
@@ -205,7 +324,7 @@
         "category": "Manufacturing",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/06/Thumbay-Reasearch-Center-1-1.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/06/15/thumbay-group-launches-new-international-research-centre-in-ajman/",
         "articlePath": "/article.html?issue=2026-06-14&article=2026-06-14-thumbay-group-launches-new-international-research-centre-in-ajman-health"
       },
@@ -225,6 +344,40 @@
         "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/06/14/ssmc-launches-pillsense-capsules-in-abu-dhabi-to-improve-internal-bleeding-detection/",
         "articlePath": "/article.html?issue=2026-06-14&article=2026-06-14-ssmc-launches-pillsense-capsules-in-abu-dhabi-to-improve-internal-bleedi"
+      },
+      {
+        "id": "2026-06-14-lilly-s-jaypirca-combination-extends-disease-control-in-relapsed-cll-sll",
+        "title": "Lilly’s Jaypirca Combination Extends Disease Control in Relapsed CLL/SLL Patients",
+        "summary": "Eli Lilly has announced positive Phase 3 results showing that its BTK inhibitor Jaypirca (pirtobrutinib) significantly improved outcomes for patients with previously treated chronic lymphocytic leukemia (CLL) or small lymphocytic lymphoma (SLL) when combined...",
+        "source": "PharmaTutor News",
+        "sourceHost": "pharmatutor.org",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-06-15T11:14:33.000Z",
+        "publishedLabel": "June 15, 2026",
+        "category": "Industry Update",
+        "image": "https://www.pharmatutor.org/sites/default/files/styles/webp/public/2026-06/lillys-jaypirca-combination-extends-disease-control-in-relapsed-cll-sll-patients.jpg.webp?itok=4PREe5O7",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/lillys-jaypirca-combination-extends-disease-control-in-relapsed-cll-sll-patients",
+        "articlePath": "/article.html?issue=2026-06-14&article=2026-06-14-lilly-s-jaypirca-combination-extends-disease-control-in-relapsed-cll-sll"
+      },
+      {
+        "id": "2026-06-14-j-and-j-s-talvey-darzalex-combination-delivers-strong-survival-gains-in-",
+        "title": "J&J’s TALVEY-DARZALEX Combination Delivers Strong Survival Gains in Relapsed Multiple Myeloma",
+        "summary": "Johnson & Johnson has reported encouraging Phase 3 results for a combination therapy featuring TALVEY (talquetamab-tgvs) and DARZALEX FASPRO (daratumumab and hyaluronidase-fihj), highlighting the growing potential of bispecific antibody-based treatment...",
+        "source": "PharmaTutor News",
+        "sourceHost": "pharmatutor.org",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-06-15T11:06:42.000Z",
+        "publishedLabel": "June 15, 2026",
+        "category": "Industry Update",
+        "image": "https://www.pharmatutor.org/sites/default/files/styles/webp/public/2026-06/jj-talvey-darzalex-combination-delivers-strong-survival-gains-in-relapsed-multiple-myeloma.jpg.webp?itok=nGqr-Akc",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://www.pharmatutor.org/content/june-2026/jj-talvey-darzalex-combination-delivers-strong-survival-gains-in-relapsed-multiple-myeloma",
+        "articlePath": "/article.html?issue=2026-06-14&article=2026-06-14-j-and-j-s-talvey-darzalex-combination-delivers-strong-survival-gains-in-"
       }
     ],
     "providers": [
@@ -244,26 +397,43 @@
         "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/bystander-medical-representative-suffers-gunshot-injuries-in-road-rage-firing-5-held-2-minors-detained-172778",
         "articlePath": "/article.html?issue=2026-06-14&article=2026-06-14-bystander-medical-representative-suffers-gunshot-injuries-in-road-rage-f"
-      },
-      {
-        "id": "2026-06-14-merck-foundation-highlights-14-years-of-empowering-women-supporting-infe",
-        "title": "Merck Foundation Highlights 14 Years of Empowering Women, Supporting Infertile Women and Advancing Girl Education",
-        "summary": "Merck Foundation Highlights 14 Years of Empowering Women, Supporting Infertile Women and Advancing Girl Education",
-        "source": "Zawya Pharmaceuticals",
-        "sourceHost": "zawya.com",
-        "region": "Middle East",
-        "country": "Oman",
-        "publishedAt": "2026-06-15T10:00:13.000Z",
-        "publishedLabel": "June 15, 2026",
-        "category": "Provider Update",
-        "image": "https://www.africa-newsroom.com/files/thumb/79385e9f58d0641/600/418",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
-        "originalUrl": "https://www.zawya.com/en/press-release/africa-press-releases/merck-foundation-highlights-14-years-of-empowering-women-supporting-infertile-women-and-advancing-girl-lry5b06k",
-        "articlePath": "/article.html?issue=2026-06-14&article=2026-06-14-merck-foundation-highlights-14-years-of-empowering-women-supporting-infe"
       }
     ],
     "diagnostics": [
+      {
+        "id": "2026-06-14-redcliffe-labs-strengthens-its-footprint-in-rajasthan-with-strategic-acq",
+        "title": "Redcliffe Labs strengthens its footprint in Rajasthan with strategic acquisition of renowned diagnostic centre",
+        "summary": "Redcliffe Labs, India’s fastest-growing diagnostics network, has further strengthened its leadership position in Rajasthan and North India through the strategic acquisition of a leading diagnostic centre in Ajmer. As part […]",
+        "source": "Express Healthcare",
+        "sourceHost": "expresshealthcare.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-06-15T12:37:11.000Z",
+        "publishedLabel": "June 15, 2026",
+        "category": "Diagnostics",
+        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/06/15180702/EH_Redcliffe.jpg",
+        "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
+        "justIn": true,
+        "originalUrl": "https://www.expresshealthcare.in/news/redcliffe-labs-strengthens-its-footprint-in-rajasthan-with-strategic-acquisition-of-renowned-diagnostic-centre/453953/",
+        "articlePath": "/article.html?issue=2026-06-14&article=2026-06-14-redcliffe-labs-strengthens-its-footprint-in-rajasthan-with-strategic-acq"
+      },
+      {
+        "id": "2026-06-14-siemens-healthineers-expands-make-in-india-portfolio-with-local-manufact",
+        "title": "Siemens Healthineers expands ‘Make in India’ portfolio with local manufacturing at Vadodara factory",
+        "summary": "In an effort to elevate healthcare in India, Siemens Healthineers has begun local manufacturing of Atellica chemistry reagents at its Vadodara facility, a milestone for the Make in India initiative […]",
+        "source": "Express Healthcare",
+        "sourceHost": "expresshealthcare.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-06-15T12:28:19.000Z",
+        "publishedLabel": "June 15, 2026",
+        "category": "Industry Update",
+        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/06/15175752/EH_Siemens.jpg",
+        "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
+        "justIn": true,
+        "originalUrl": "https://www.expresshealthcare.in/news/siemens-healthineers-expands-make-in-india-portfolio-with-local-manufacturing-at-vadodara-factory/453947/",
+        "articlePath": "/article.html?issue=2026-06-14&article=2026-06-14-siemens-healthineers-expands-make-in-india-portfolio-with-local-manufact"
+      },
       {
         "id": "2026-06-14-brainlab-kims-hospitals-bengaluru-partners-to-establish-first-functional",
         "title": "Brainlab, KIMS Hospitals, Bengaluru partners to establish First Functional Neurosurgery Reference Centre and Center of Excellence",
@@ -277,7 +447,7 @@
         "category": "Lab Network",
         "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/06/15154711/EH_Brainlab.jpg",
         "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/news/brainlab-kims-hospitals-bengaluru-partners-to-establish-first-functional-neurosurgery-reference-centre-and-center-of-excellence/453944/",
         "articlePath": "/article.html?issue=2026-06-14&article=2026-06-14-brainlab-kims-hospitals-bengaluru-partners-to-establish-first-functional"
       },
@@ -299,7 +469,25 @@
         "articlePath": "/article.html?issue=2026-06-14&article=2026-06-14-germany-backs-eac-disease-surveillance-with-us-8m-injection-for-mobile-d"
       }
     ],
-    "healthtech": []
+    "healthtech": [
+      {
+        "id": "2026-06-14-ihld-medtech-raises-us-3-million-from-ultragreen-ai-in-strategic-investm",
+        "title": "IHLD MedTech raises US$3 million from UltraGreen.ai in strategic investment",
+        "summary": "IHLD MedTech has closed a strategic investment from UltraGreen.ai (SGX: ULG), a Singapore Exchange-listed global leader in fluorescence-guided surgery and digital health solutions operating across 54 countries and valued at […]",
+        "source": "Express Healthcare",
+        "sourceHost": "expresshealthcare.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-06-15T12:33:05.000Z",
+        "publishedLabel": "June 15, 2026",
+        "category": "AI",
+        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/06/15180239/EH_iLive.jpg",
+        "thbAction": "",
+        "justIn": false,
+        "originalUrl": "https://www.expresshealthcare.in/news/ihld-medtech-raises-us3-million-from-ultragreen-ai-in-strategic-investment/453950/",
+        "articlePath": "/article.html?issue=2026-06-14&article=2026-06-14-ihld-medtech-raises-us-3-million-from-ultragreen-ai-in-strategic-investm"
+      }
+    ]
   },
   "thbActions": [
     {
@@ -307,6 +495,14 @@
       "articleId": "2026-06-14-maharashtra-fda-bars-hospitals-from-forcing-patients-to-buy-medicines-in",
       "title": "Maharashtra FDA bars hospitals from forcing patients to buy medicines in-house",
       "source": "Economic Times Pharma",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "pharma",
+      "articleId": "2026-06-14-apollo-hospitals-taps-shobana-kamineni-to-chair-soon-to-be-listed-health",
+      "title": "Apollo Hospitals taps Shobana Kamineni to chair soon-to-be listed Healthtech unit",
+      "source": "ET Healthworld",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
     },
@@ -320,24 +516,16 @@
     },
     {
       "segment": "pharma",
+      "articleId": "2026-06-14-specialised-wound-care-centres-to-be-rolled-out-nationwide-amid-rising-d",
+      "title": "Specialised wound-care centres to be rolled out nationwide amid rising diabetes burden",
+      "source": "ET Healthworld",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "pharma",
       "articleId": "2026-06-14-fssai-issues-notices-to-8-food-companies-for-misleading-healthy-claims-o",
       "title": "FSSAI issues notices to 8 food companies for misleading 'healthy' claims on packaging, labels",
-      "source": "ET Healthworld",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
-      "segment": "pharma",
-      "articleId": "2026-06-14-uk-launches-one-off-menb-vaccination-programme-in-wake-of-largest-outbre",
-      "title": "UK launches one-off MenB vaccination programme in wake of largest outbreak",
-      "source": "ET Healthworld",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
-      "segment": "pharma",
-      "articleId": "2026-06-14-fda-clears-first-over-the-counter-glucose-monitor-for-children",
-      "title": "FDA clears first over-the-counter glucose monitor for children",
       "source": "ET Healthworld",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
@@ -351,12 +539,20 @@
       "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
     },
     {
-      "segment": "providers",
-      "articleId": "2026-06-14-merck-foundation-highlights-14-years-of-empowering-women-supporting-infe",
-      "title": "Merck Foundation Highlights 14 Years of Empowering Women, Supporting Infertile Women and Advancing Girl Education",
-      "source": "Zawya Pharmaceuticals",
-      "solution": "THB Provider CRM",
-      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
+      "segment": "diagnostics",
+      "articleId": "2026-06-14-redcliffe-labs-strengthens-its-footprint-in-rajasthan-with-strategic-acq",
+      "title": "Redcliffe Labs strengthens its footprint in Rajasthan with strategic acquisition of renowned diagnostic centre",
+      "source": "Express Healthcare",
+      "solution": "THB Diagnostics CRM",
+      "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
+    },
+    {
+      "segment": "diagnostics",
+      "articleId": "2026-06-14-siemens-healthineers-expands-make-in-india-portfolio-with-local-manufact",
+      "title": "Siemens Healthineers expands ‘Make in India’ portfolio with local manufacturing at Vadodara factory",
+      "source": "Express Healthcare",
+      "solution": "THB Diagnostics CRM",
+      "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
     },
     {
       "segment": "diagnostics",
