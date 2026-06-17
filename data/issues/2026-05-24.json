@@ -5,14 +5,15 @@
   "startDate": "2026-05-23T18:30:00.000Z",
   "endDate": "2026-05-29T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-06-16T18:18:06.397Z",
+  "updatedAt": "2026-06-17T09:17:58.014Z",
   "coverage": {
     "pharma": 0,
     "providers": 4,
-    "diagnostics": 1,
+    "diagnostics": 3,
     "healthtech": 0
   },
   "sourcesUsed": [
+    "BioSpectrum Asia Middle East",
     "ET Healthworld Diagnostics",
     "ET Healthworld Hospitals"
   ],
@@ -105,6 +106,40 @@
         "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/diagnostics/blood-test-could-help-detect-signs-of-alzheimers-disease-decades-before-symptoms-study/131402539",
         "articlePath": "/article.html?issue=2026-05-24&article=2026-05-24-blood-test-could-help-detect-signs-of-alzheimer-s-disease-decades-before"
+      },
+      {
+        "id": "2026-05-24-asian-society-of-cardiovascular-imaging-inks-mou-with-philips",
+        "title": "Asian Society of Cardiovascular Imaging inks MoU with Philips",
+        "summary": "Asian Society of Cardiovascular Imaging inks MoU with Philips",
+        "source": "BioSpectrum Asia Middle East",
+        "sourceHost": "biospectrumasia.com",
+        "region": "Middle East",
+        "country": "Oman",
+        "publishedAt": "2026-05-28T18:30:00.000Z",
+        "publishedLabel": "May 29, 2026",
+        "category": "Imaging",
+        "image": "https://www.biospectrumasia.com/uploads/articles/screenshot_29_5_2026_17152_en_prnasia_com-27701.jpeg",
+        "thbAction": "Use this signal to position THB for diagnostics network expansion, channel partner onboarding, and visibility across spoke sites, franchises, and enterprise accounts.",
+        "justIn": false,
+        "originalUrl": "https://www.biospectrumasia.com/news/27/27701/asian-society-of-cardiovascular-imaging-inks-mou-with-philips.html",
+        "articlePath": "/article.html?issue=2026-05-24&article=2026-05-24-asian-society-of-cardiovascular-imaging-inks-mou-with-philips"
+      },
+      {
+        "id": "2026-05-24-gulf-medical-university-launches-region-s-largest-network-of-clinical-sk",
+        "title": "Gulf Medical University launches region’s largest network of clinical skills and simulation centres",
+        "summary": "Gulf Medical University launches region’s largest network of clinical skills and simulation centres",
+        "source": "BioSpectrum Asia Middle East",
+        "sourceHost": "biospectrumasia.com",
+        "region": "Middle East",
+        "country": "United Arab Emirates",
+        "publishedAt": "2026-05-25T18:30:00.000Z",
+        "publishedLabel": "May 26, 2026",
+        "category": "Industry Update",
+        "image": "https://www.biospectrumasia.com/uploads/articles/screenshot_26_5_2026_12219_www_zawya_com-27686.jpeg",
+        "thbAction": "Use this signal to position THB for diagnostics network expansion, channel partner onboarding, and visibility across spoke sites, franchises, and enterprise accounts.",
+        "justIn": false,
+        "originalUrl": "https://www.biospectrumasia.com/news/27/27686/gulf-medical-university-launches-regions-largest-network-of-clinical-skills-and-simulation-centres.html",
+        "articlePath": "/article.html?issue=2026-05-24&article=2026-05-24-gulf-medical-university-launches-region-s-largest-network-of-clinical-sk"
       }
     ],
     "healthtech": []
@@ -149,6 +184,22 @@
       "source": "ET Healthworld Diagnostics",
       "solution": "THB Diagnostics CRM",
       "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
+    },
+    {
+      "segment": "diagnostics",
+      "articleId": "2026-05-24-asian-society-of-cardiovascular-imaging-inks-mou-with-philips",
+      "title": "Asian Society of Cardiovascular Imaging inks MoU with Philips",
+      "source": "BioSpectrum Asia Middle East",
+      "solution": "THB Network Growth",
+      "action": "Use this signal to position THB for diagnostics network expansion, channel partner onboarding, and visibility across spoke sites, franchises, and enterprise accounts."
+    },
+    {
+      "segment": "diagnostics",
+      "articleId": "2026-05-24-gulf-medical-university-launches-region-s-largest-network-of-clinical-sk",
+      "title": "Gulf Medical University launches region’s largest network of clinical skills and simulation centres",
+      "source": "BioSpectrum Asia Middle East",
+      "solution": "THB Network Growth",
+      "action": "Use this signal to position THB for diagnostics network expansion, channel partner onboarding, and visibility across spoke sites, franchises, and enterprise accounts."
     }
   ]
 }
