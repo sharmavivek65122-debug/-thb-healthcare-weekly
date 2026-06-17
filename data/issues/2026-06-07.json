@@ -5,20 +5,18 @@
   "startDate": "2026-06-06T18:30:00.000Z",
   "endDate": "2026-06-12T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-06-17T09:17:58.014Z",
+  "updatedAt": "2026-06-17T16:46:26.072Z",
   "coverage": {
-    "pharma": 27,
+    "pharma": 20,
     "providers": 3,
     "diagnostics": 3,
     "healthtech": 0
   },
   "sourcesUsed": [
-    "ET Healthworld",
     "ET Healthworld Diagnostics",
     "ET Healthworld Hospitals",
     "Economic Times Pharma",
     "Janssen India Media",
-    "Medical Dialogues Pharma",
     "PharmaTutor News"
   ],
   "segments": {
@@ -73,6 +71,23 @@
         "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/government-may-lift-price-cap-cancer-drugs-making-them-costlier-by-up-to-50/articleshow/131642041.cms",
         "articlePath": "/article.html?issue=2026-06-07&article=2026-06-07-government-may-lift-price-cap-on-cancer-drugs-making-them-costlier-by-up"
+      },
+      {
+        "id": "2026-06-07-india-raises-price-cap-on-cancer-drugs-to-tackle-shortage",
+        "title": "India raises price cap on cancer drugs to tackle shortage",
+        "summary": "India's drug price regulator has increased the ceiling prices of cancer drugs cisplatin and carboplatin by 50% to tackle shortages caused by a sharp rise in platinum costs. The National Pharmaceutical Pricing Authority (NPPA) approved the one-time hike in...",
+        "source": "Economic Times Pharma",
+        "sourceHost": "economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-06-12T05:29:22.000Z",
+        "publishedLabel": "June 12, 2026",
+        "category": "Industry Update",
+        "image": "https://img.etimg.com/thumb/msid-131675064,width-1200,height-630,imgsize-169334,overlay-economictimes/articleshow.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": false,
+        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/india-raises-price-cap-on-cancer-drugs-to-tackle-shortage/articleshow/131675045.cms",
+        "articlePath": "/article.html?issue=2026-06-07&article=2026-06-07-india-raises-price-cap-on-cancer-drugs-to-tackle-shortage"
       },
       {
         "id": "2026-06-07-uk-approves-novo-weight-loss-pill-to-edge-open-european-market",
@@ -177,23 +192,6 @@
         "articlePath": "/article.html?issue=2026-06-07&article=2026-06-07-us-drug-regulator-issues-import-alert-for-drugs-made-at-a-dabur-india-pl"
       },
       {
-        "id": "2026-06-07-osteoarthritis-increasingly-affecting-people-in-their-30s-personalised-t",
-        "title": "Osteoarthritis increasingly affecting people in their 30s; personalised treatment is the key: study",
-        "summary": "The findings suggest that the traditional \"one-size-fits-all\" approach to treatment often fails because patients present with different underlying disease drivers.",
-        "source": "ET Healthworld",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-06-07T06:36:29.000Z",
-        "publishedLabel": "June 7, 2026",
-        "category": "Industry Update",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-131562848,imgsize-62806,width-1200,height=627,overlay-ethealth,resizemode-75/industry/osteoarthritis-increasingly-affecting-people-in-their-30s-personalised-treatment-is-the-key-study.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/osteoarthritis-increasingly-affecting-people-in-their-30s-personalised-treatment-is-the-key-study/131562848",
-        "articlePath": "/article.html?issue=2026-06-07&article=2026-06-07-osteoarthritis-increasingly-affecting-people-in-their-30s-personalised-t"
-      },
-      {
         "id": "2026-06-07-regulators-tighten-gmp-oversight-of-pharma-plants",
         "title": "Regulators tighten GMP oversight of pharma plants",
         "summary": "Several states have constituted dedicated multi-member teams to ensure no facility slips through the cracks before a GMP Certificate is issued, people in the know told ET. The inspections will now be applicable to all manufacturing units without exception...",
@@ -228,40 +226,6 @@
         "articlePath": "/article.html?issue=2026-06-07&article=2026-06-07-duty-relief-may-be-extended-for-petrochemical-inputs-for-pharma"
       },
       {
-        "id": "2026-06-07-ipca-labs-partners-brl-to-develop-next-generation-subcutaneous-biologics",
-        "title": "Ipca Labs Partners BRL to Develop Next-Generation Subcutaneous Biologics for Cancer, Autoimmune Diseases",
-        "summary": "Mumbai: Ipca Laboratories Ltd. has entered into a definitive global licensing agreement with Bhami Research Laboratory Pvt. Ltd. (BRL), gaining access to the latter's proprietary high-concentration...",
-        "source": "Medical Dialogues Pharma",
-        "sourceHost": "medicaldialogues.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-06-13T05:30:49.000Z",
-        "publishedLabel": "June 13, 2026",
-        "category": "Industry Update",
-        "image": "https://medicaldialogues.in/h-upload/2020/08/17/133175-ipca.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/ipca-labs-partners-brl-to-develop-next-generation-subcutaneous-biologics-for-cancer-autoimmune-diseases-172749",
-        "articlePath": "/article.html?issue=2026-06-07&article=2026-06-07-ipca-labs-partners-brl-to-develop-next-generation-subcutaneous-biologics"
-      },
-      {
-        "id": "2026-06-07-nppa-grants-50-ceiling-price-hike-for-anti-tetanus-immunoglobulin-inject",
-        "title": "NPPA Grants 50% Ceiling Price Hike for Anti-Tetanus Immunoglobulin Injections",
-        "summary": "New Delhi: Through a recent notification, the National Pharmaceutical Pricing Authority (NPPA) has revised the ceiling prices of Anti-Tetanus Immunoglobulin 250 IU and 500 IU injections under the...",
-        "source": "Medical Dialogues Pharma",
-        "sourceHost": "medicaldialogues.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-06-13T08:00:32.000Z",
-        "publishedLabel": "June 13, 2026",
-        "category": "Industry Update",
-        "image": "https://medicaldialogues.in/h-upload/2024/06/07/240438-nppa-3.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/nppa-grants-50-ceiling-price-hike-for-anti-tetanus-immunoglobulin-injections-172751",
-        "articlePath": "/article.html?issue=2026-06-07&article=2026-06-07-nppa-grants-50-ceiling-price-hike-for-anti-tetanus-immunoglobulin-inject"
-      },
-      {
         "id": "2026-06-07-new-talvey-talquetamab-tgvs-plus-darzalex-faspro-daratumumab-and-hyaluro",
         "title": "New TALVEY® (talquetamab-tgvs) plus DARZALEX FASPRO® (daratumumab and hyaluronidase-fihj) data demonstrate the strength of a bispecific combination in earlier-line relapsed or refractory multiple myeloma",
         "summary": "· TALVEY® plus DARZALEX FASPRO® with or without pomalidomide showed progression-free survival of up to 81% and overall survival of up to 89% at 24 months",
@@ -294,40 +258,6 @@
         "justIn": false,
         "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/india-targets-usd-50-billion-pharmaceutical-exports-by-2030-through-quality-innovation-and-global-collaboration",
         "articlePath": "/article.html?issue=2026-06-07&article=2026-06-07-india-targets-usd-50-billion-pharmaceutical-exports-by-2030-through-qual"
-      },
-      {
-        "id": "2026-06-07-dr-reddy-s-launches-first-generic-bosulif-in-us-secures-180-day-exclusiv",
-        "title": "Dr Reddy's Launches First Generic Bosulif in US, Secures 180-Day Exclusivity for Bosutinib 400mg",
-        "summary": "Hyderabad: Dr. Reddy's Laboratories Ltd. has announced the first-to-market launch of Bosutinib Tablets 400mg, a generic equivalent of Bosulif, in the United States, expanding its oncology portfolio...",
-        "source": "Medical Dialogues Pharma",
-        "sourceHost": "medicaldialogues.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-06-13T06:00:00.000Z",
-        "publishedLabel": "June 13, 2026",
-        "category": "Market",
-        "image": "https://medicaldialogues.in/h-upload/2023/01/11/197517-dr-reddy-labs-1.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/dr-reddys-launches-first-generic-bosulif-in-us-secures-180-day-exclusivity-for-bosutinib-400mg-172750",
-        "articlePath": "/article.html?issue=2026-06-07&article=2026-06-07-dr-reddy-s-launches-first-generic-bosulif-in-us-secures-180-day-exclusiv"
-      },
-      {
-        "id": "2026-06-07-first-ever-gene-therapy-delivered-directly-to-infant-s-brain-offers-hope",
-        "title": "First-Ever Gene Therapy Delivered Directly to Infant’s Brain Offers Hope for Rare Genetic Epilepsy",
-        "summary": "In a groundbreaking advancement for precision medicine, doctors in Israel have successfully administered the world's first gene replacement therapy directly into the brain of an infant suffering from a rare and devastating genetic epilepsy disorder. The...",
-        "source": "PharmaTutor News",
-        "sourceHost": "pharmatutor.org",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-06-09T11:15:19.000Z",
-        "publishedLabel": "June 9, 2026",
-        "category": "Industry Update",
-        "image": "https://www.pharmatutor.org/sites/default/files/styles/webp/public/2026-06/first-ever-gene-therapy-delivered-directly-to-infants-brain-offers-hope-for-rare-genetic-epilepsy.png.webp?itok=M56xb8S7",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/first-ever-gene-therapy-delivered-directly-to-infants-brain-offers-hope-for-rare-genetic-epilepsy",
-        "articlePath": "/article.html?issue=2026-06-07&article=2026-06-07-first-ever-gene-therapy-delivered-directly-to-infant-s-brain-offers-hope"
       },
       {
         "id": "2026-06-07-j-and-j-s-imaavy-shows-rapid-durable-benefit-in-rare-blood-disorder-with",
@@ -381,23 +311,6 @@
         "articlePath": "/article.html?issue=2026-06-07&article=2026-06-07-johnson-and-johnson-to-acquire-firefly-bio-inc-to-expand-oncology-pipeli"
       },
       {
-        "id": "2026-06-07-usfda-expands-sanofi-s-tzield-use-to-newly-diagnosed-type-1-diabetes-pat",
-        "title": "USFDA Expands Sanofi's Tzield Use to Newly Diagnosed Type 1 Diabetes Patients Aged 8-17",
-        "summary": "Bengaluru: The U.S. Food and Drug Administration said on Friday it has approved the expanded use of Sanofi's type 1 diabetes injection in children aged 8 to 17 years who were recently diagnosed with...",
-        "source": "Medical Dialogues Pharma",
-        "sourceHost": "medicaldialogues.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-06-13T05:15:49.000Z",
-        "publishedLabel": "June 13, 2026",
-        "category": "Industry Update",
-        "image": "https://medicaldialogues.in/h-upload/2024/01/21/230667-sanofi-50.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/usfda-expands-sanofis-tzield-use-to-newly-diagnosed-type-1-diabetes-patients-aged-8-17-172748",
-        "articlePath": "/article.html?issue=2026-06-07&article=2026-06-07-usfda-expands-sanofi-s-tzield-use-to-newly-diagnosed-type-1-diabetes-pat"
-      },
-      {
         "id": "2026-06-07-japanese-scientists-uncover-immune-cell-feedback-loop-driving-sj-gren-s-",
         "title": "Japanese Scientists Uncover Immune Cell Feedback Loop Driving Sjögren’s Disease",
         "summary": "Researchers from Keio University School of Medicine in Japan have identified a previously unknown immune mechanism that may be responsible for sustaining the chronic autoimmune response seen in Sjögren’s disease. The discovery sheds new light on how the...",
@@ -413,40 +326,6 @@
         "justIn": false,
         "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/japanese-scientists-uncover-immune-cell-feedback-loop-driving-sj%C3%B6gren%E2%80%99s-disease",
         "articlePath": "/article.html?issue=2026-06-07&article=2026-06-07-japanese-scientists-uncover-immune-cell-feedback-loop-driving-sj-gren-s-"
-      },
-      {
-        "id": "2026-06-07-biomarker-guided-immunosuppression-found-safe-in-kidney-transplant-patie",
-        "title": "Biomarker-Guided Immunosuppression Found Safe in Kidney Transplant Patients, Major European Study Shows",
-        "summary": "A groundbreaking European clinical trial has shown that using a common, harmless virus as a biomarker to guide immunosuppressive treatment after kidney transplantation is both safe and effective, paving the way for more personalized transplant care.",
-        "source": "PharmaTutor News",
-        "sourceHost": "pharmatutor.org",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-06-10T10:58:16.000Z",
-        "publishedLabel": "June 10, 2026",
-        "category": "Clinical Trial",
-        "image": "https://www.pharmatutor.org/sites/default/files/styles/webp/public/2026-06/biomarker-guided-immunosuppression-found-safe-in-kidney-transplant-patients.png.webp?itok=LAhKZTHp",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/biomarker-guided-immunosuppression-found-safe-in-kidney-transplant-patients-major-european-study-shows",
-        "articlePath": "/article.html?issue=2026-06-07&article=2026-06-07-biomarker-guided-immunosuppression-found-safe-in-kidney-transplant-patie"
-      },
-      {
-        "id": "2026-06-07-takeda-faces-financial-hit-as-amitiza-antitrust-case-impacts-earnings",
-        "title": "Takeda Faces Financial Hit as Amitiza Antitrust Case Impacts Earnings",
-        "summary": "Takeda Pharmaceutical has revised its financial results for fiscal year 2025 following a significant legal development in the United States involving its constipation drug, Amitiza, lubiprostone",
-        "source": "PharmaTutor News",
-        "sourceHost": "pharmatutor.org",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-06-08T13:37:41.000Z",
-        "publishedLabel": "June 8, 2026",
-        "category": "Industry Update",
-        "image": "https://www.pharmatutor.org/sites/default/files/styles/webp/public/2026-06/takeda-faces-financial-hit-as-amitiza-antitrust-case-impacts-earnings.png.webp?itok=D-Ef2ryU",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/takeda-faces-financial-hit-as-amitiza-antitrust-case-impacts-earnings",
-        "articlePath": "/article.html?issue=2026-06-07&article=2026-06-07-takeda-faces-financial-hit-as-amitiza-antitrust-case-impacts-earnings"
       },
       {
         "id": "2026-06-07-weekly-hiv-pill-moves-closer-to-reality-as-gilead-and-merck-report-posit",
@@ -618,19 +497,19 @@
     },
     {
       "segment": "pharma",
+      "articleId": "2026-06-07-india-raises-price-cap-on-cancer-drugs-to-tackle-shortage",
+      "title": "India raises price cap on cancer drugs to tackle shortage",
+      "source": "Economic Times Pharma",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "pharma",
       "articleId": "2026-06-07-uk-approves-novo-weight-loss-pill-to-edge-open-european-market",
       "title": "UK approves Novo weight-loss pill to edge open European market",
       "source": "Economic Times Pharma",
       "solution": "THB Commercial Analytics",
       "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
-    },
-    {
-      "segment": "pharma",
-      "articleId": "2026-06-07-astrazeneca-s-enhertu-gets-regulatory-approval-in-india-for-first-line-h",
-      "title": "AstraZeneca's Enhertu gets regulatory approval in India for first-line HER2-positive breast cancer",
-      "source": "Economic Times Pharma",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
     },
     {
       "segment": "providers",

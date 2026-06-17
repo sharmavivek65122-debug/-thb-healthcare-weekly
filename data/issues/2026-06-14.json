@@ -5,12 +5,12 @@
   "startDate": "2026-06-13T18:30:00.000Z",
   "endDate": "2026-06-19T18:30:00.000Z",
   "status": "live",
-  "updatedAt": "2026-06-17T09:17:58.014Z",
+  "updatedAt": "2026-06-17T16:46:26.072Z",
   "coverage": {
-    "pharma": 35,
-    "providers": 5,
-    "diagnostics": 5,
-    "healthtech": 1
+    "pharma": 40,
+    "providers": 3,
+    "diagnostics": 4,
+    "healthtech": 0
   },
   "sourcesUsed": [
     "ET Healthworld",
@@ -19,6 +19,7 @@
     "Express Healthcare",
     "Financial Express Healthcare",
     "Healthcare MEA",
+    "Lupin Updates",
     "Medical Dialogues Pharma",
     "PharmaTutor News"
   ],
@@ -54,7 +55,7 @@
         "category": "Industry Update",
         "image": "https://img.etimg.com/thumb/msid-131781058,width-1200,height-630,imgsize-59452,overlay-economictimes/articleshow.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/api-prices-fall-as-west-asia-tensions-ease-boosting-indian-pharma-sector/articleshow/131781040.cms",
         "articlePath": "/article.html?issue=2026-06-14&article=2026-06-14-api-prices-fall-as-west-asia-tensions-ease-boosting-indian-pharma-sector"
       },
@@ -71,7 +72,7 @@
         "category": "Market",
         "image": "https://img.etimg.com/thumb/msid-131789660,width-1200,height-630,imgsize-57316,overlay-economictimes/articleshow.jpg",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/indian-pharmaceutical-market-set-for-continued-double-digit-growth-equirus-report-highlights-strong-performance-in-chronic-and-acute-therapies/articleshow/131788694.cms",
         "articlePath": "/article.html?issue=2026-06-14&article=2026-06-14-indian-pharma-market-s-double-digit-growth-momentum-is-likely-to-continu"
       },
@@ -93,23 +94,6 @@
         "articlePath": "/article.html?issue=2026-06-14&article=2026-06-14-maharashtra-fda-bars-hospitals-from-forcing-patients-to-buy-medicines-in"
       },
       {
-        "id": "2026-06-14-reinforcing-body-clock-rhythms-may-help-brain-recover-from-stroke-study-",
-        "title": "Reinforcing body clock rhythms may help brain recover from stroke, study suggests",
-        "summary": "Strokes are considered to follow predictable time-of-day patterns, with their likelihood of occurring being higher in the morning. They can also be often more severe near the end of the sleep period.",
-        "source": "ET Healthworld",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-06-16T12:55:48.000Z",
-        "publishedLabel": "June 16, 2026",
-        "category": "Industry Update",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-131772641,imgsize-55994,width-1200,height=627,overlay-ethealth,resizemode-75/industry/reinforcing-body-clock-rhythms-may-help-brain-recover-from-stroke-study-suggests.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/reinforcing-body-clock-rhythms-may-help-brain-recover-from-stroke-study-suggests/131772641",
-        "articlePath": "/article.html?issue=2026-06-14&article=2026-06-14-reinforcing-body-clock-rhythms-may-help-brain-recover-from-stroke-study-"
-      },
-      {
         "id": "2026-06-14-congo-ebola-outbreak-may-be-worst-ever-africa-cdc-says",
         "title": "Congo Ebola outbreak may be worst ever, Africa CDC says",
         "summary": "Over 800 cases of the rare Bundibugyo strain, for which there is no proven treatment or vaccine, have been reported in Congo, 192 of them fatal. The disease, transmitted through body fluids even after death, is spreading ‌fast across three ⁠provinces,...",
@@ -122,9 +106,26 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-131783963,imgsize-189576,width-1200,height=627,overlay-ethealth,resizemode-75/industry/congo-ebola-outbreak-may-be-worst-ever-africa-cdc-says.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/congo-ebola-outbreak-may-be-worst-ever-africa-cdc-says/131783963",
         "articlePath": "/article.html?issue=2026-06-14&article=2026-06-14-congo-ebola-outbreak-may-be-worst-ever-africa-cdc-says"
+      },
+      {
+        "id": "2026-06-14-fssai-issues-notices-to-8-food-companies-for-misleading-healthy-claims-o",
+        "title": "FSSAI issues notices to 8 food companies for misleading 'healthy' claims on packaging, labels",
+        "summary": "FSSAI has issued notices to eight food companies, including Emami Healthy & Tasty, Neuherbs, Troovy and Plan B, for allegedly using misleading brand names, trade names and product claims that may violate food safety regulations.",
+        "source": "ET Healthworld",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-06-15T06:20:14.000Z",
+        "publishedLabel": "June 15, 2026",
+        "category": "Industry Update",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-131735347,imgsize-137610,width-1200,height=627,overlay-ethealth,resizemode-75/policy/fssai-issues-notices-to-8-food-companies-for-misleading-healthy-claims-on-packaging-labels.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/policy/fssai-issues-notices-to-8-food-companies-for-misleading-healthy-claims-on-packaging-labels/131735347",
+        "articlePath": "/article.html?issue=2026-06-14&article=2026-06-14-fssai-issues-notices-to-8-food-companies-for-misleading-healthy-claims-o"
       },
       {
         "id": "2026-06-14-ima-seeks-consultation-on-clinical-establishments-act-review-of-registra",
@@ -139,26 +140,9 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-131784012,imgsize-75376,width-1200,height=627,overlay-ethealth,resizemode-75/industry/ima-seeks-consultation-on-clinical-establishments-act-review-of-registration-norms.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/ima-seeks-consultation-on-clinical-establishments-act-review-of-registration-norms/131784012",
         "articlePath": "/article.html?issue=2026-06-14&article=2026-06-14-ima-seeks-consultation-on-clinical-establishments-act-review-of-registra"
-      },
-      {
-        "id": "2026-06-14-bihs-to-deploy-philips-data-integration-platform-for-connected-patient-c",
-        "title": "BIHS to deploy Philips’ data integration platform for connected patient care network",
-        "summary": "Bajaj Integrated Health System (BIHS) will deploy Philips’ IntelliBridge Enterprise (IBE) platform to integrate medical devices and hospital information systems, improving continuity of care and enabling clinicians to access patient information across...",
-        "source": "ET Healthworld",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-06-17T01:43:16.000Z",
-        "publishedLabel": "June 17, 2026",
-        "category": "Industry Update",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-131784083,imgsize-166418,width-1200,height=627,overlay-ethealth,resizemode-75/health-it/bihs-to-deploy-philips-data-integration-platform-for-connected-patient-care-network.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/health-it/bihs-to-deploy-philips-data-integration-platform-for-connected-patient-care-network/131784083",
-        "articlePath": "/article.html?issue=2026-06-14&article=2026-06-14-bihs-to-deploy-philips-data-integration-platform-for-connected-patient-c"
       },
       {
         "id": "2026-06-14-zydus-lifesciences-completes-acquisition-of-assertio",
@@ -195,21 +179,21 @@
         "articlePath": "/article.html?issue=2026-06-14&article=2026-06-14-novartis-india-launches-pluvicto-for-prostate-cancer-treatment"
       },
       {
-        "id": "2026-06-14-autovrse-raises-2-4m-from-singularity-amc-and-lumikai-to-scale-ai-transf",
-        "title": "AutoVRse raises $2.4M from Singularity AMC and Lumikai to scale AI transformation for global Pharma and MedTech",
-        "summary": "AutoVRse, India’s fastest-growing industrial AI transformation platform, today announced a $2.4 million funding round, co-led by Singularity AMC's Large Value Fund III and Early Opportunities Fund, and existing investor Lumikai, India's leading inter",
-        "source": "Express Healthcare",
-        "sourceHost": "expresshealthcare.in",
+        "id": "2026-06-14-eu-supports-ebola-response-with-493-million-in-vaccines-treatment-and-he",
+        "title": "EU supports ebola response with €493 million in vaccines, treatment and health aid",
+        "summary": "The ⁠amount ⁠comprises frontline medical support for the immediate ​outbreak response, humanitarian assistance in the Great Lakes ​region and Uganda, vaccine and treatment research for filoviruses as well ​as longer-term work ⁠to improve preparedness ‌and...",
+        "source": "ET Healthworld",
+        "sourceHost": "health.economictimes.indiatimes.com",
         "region": "India",
         "country": "India",
-        "publishedAt": "2026-06-15T12:41:46.000Z",
-        "publishedLabel": "June 15, 2026",
+        "publishedAt": "2026-06-17T10:36:03.000Z",
+        "publishedLabel": "June 17, 2026",
         "category": "Industry Update",
-        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/06/15181128/EH_Autovrse.jpg",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-131795834,imgsize-78310,width-1200,height=627,overlay-ethealth,resizemode-75/industry/eu-supports-ebola-response-with-493-million-in-vaccines-treatment-and-health-aid.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://www.expresshealthcare.in/news/autovrse-raises-2-4m-from-singularity-amc-and-lumikai-to-scale-ai-transformation-for-global-pharma-and-medtech/453956/",
-        "articlePath": "/article.html?issue=2026-06-14&article=2026-06-14-autovrse-raises-2-4m-from-singularity-amc-and-lumikai-to-scale-ai-transf"
+        "justIn": true,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/eu-supports-ebola-response-with-493-million-in-vaccines-treatment-and-health-aid/131795834",
+        "articlePath": "/article.html?issue=2026-06-14&article=2026-06-14-eu-supports-ebola-response-with-493-million-in-vaccines-treatment-and-he"
       },
       {
         "id": "2026-06-14-fssai-cracks-down-on-misleading-healthy-claims-issues-notices-to-8-major",
@@ -229,23 +213,6 @@
         "articlePath": "/article.html?issue=2026-06-14&article=2026-06-14-fssai-cracks-down-on-misleading-healthy-claims-issues-notices-to-8-major"
       },
       {
-        "id": "2026-06-14-cryoviva-life-sciences-brings-prepacyte-cb-technology-to-india-to-advanc",
-        "title": "Cryoviva Life Sciences brings PrepaCyte-CB technology to India to advance the future of stem cell preservation",
-        "summary": "In a significant step towards strengthening India’s regenerative healthcare ecosystem, Cryoviva Life Sciences has introduced PrepaCyte-CB technology in India through an exclusive partnership, aiming to redefine the standards of cord blood stem cell p",
-        "source": "Express Healthcare",
-        "sourceHost": "expresshealthcare.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-06-17T08:09:06.000Z",
-        "publishedLabel": "June 17, 2026",
-        "category": "Partnership",
-        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/06/17133826/EH_Cryoviva.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
-        "originalUrl": "https://www.expresshealthcare.in/news/cryoviva-life-sciences-brings-prepacyte-cb-technology-to-india-to-advance-the-future-of-stem-cell-preservation/453981/",
-        "articlePath": "/article.html?issue=2026-06-14&article=2026-06-14-cryoviva-life-sciences-brings-prepacyte-cb-technology-to-india-to-advanc"
-      },
-      {
         "id": "2026-06-14-eli-lilly-signs-us-1b-alzheimer-s-deal-with-alzecure-pharma-for-acd680-h",
         "title": "Eli Lilly signs US$1B Alzheimer's deal with AlzeCure Pharma for ACD680 | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
         "summary": "The partnership grants Lilly global rights to AlzeCure’s preclinical small-molecule candidate, ACD680, which targets the biology of Alzheimer’s disease.",
@@ -258,7 +225,7 @@
         "category": "Manufacturing",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/05/Eli-Lilly-1-2.webp",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/06/17/eli-lilly-signs-us1b-alzheimers-deal-with-alzecure-pharma-for-acd680/",
         "articlePath": "/article.html?issue=2026-06-14&article=2026-06-14-eli-lilly-signs-us-1b-alzheimer-s-deal-with-alzecure-pharma-for-acd680-h"
       },
@@ -275,9 +242,26 @@
         "category": "Manufacturing",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/06/fda-approves-first-nas.jpg",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/06/17/uks-mhra-approves-pediatric-eurneffy-nasal-spray-for-anaphylaxis/",
         "articlePath": "/article.html?issue=2026-06-14&article=2026-06-14-uk-s-mhra-approves-pediatric-eurneffy-nasal-spray-for-anaphylaxis-health"
+      },
+      {
+        "id": "2026-06-14-biocon-aims-to-become-world-s-largest-insulin-supplier-says-kiran-mazumd",
+        "title": "Biocon Aims to Become World's Largest Insulin Supplier, Says Kiran Mazumdar Shaw",
+        "summary": "New Delhi: Drugmaker Biocon is aiming to become the world's top supplier of insulin in the coming years, its co-founder Kiran Mazumdar-Shaw said, by capturing growing demand for the critical drug...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-06-17T16:14:36.000Z",
+        "publishedLabel": "June 17, 2026",
+        "category": "Industry Update",
+        "image": "https://medicaldialogues.in/h-upload/2024/01/25/230927-kiran-mazumdar-shaw-50.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/biocon-aims-to-become-worlds-largest-insulin-supplier-says-kiran-mazumdar-shaw-173051",
+        "articlePath": "/article.html?issue=2026-06-14&article=2026-06-14-biocon-aims-to-become-world-s-largest-insulin-supplier-says-kiran-mazumd"
       },
       {
         "id": "2026-06-14-adial-pharmaceuticals-acquires-azora-therapeutics-in-us-64m-ibd-pipeline",
@@ -292,7 +276,7 @@
         "category": "Manufacturing",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/06/908a5d9cca8c6e495e6e78de98f583e0-1.jpg",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/06/17/adial-pharmaceuticals-acquires-azora-therapeutics-in-us64m-ibd-pipeline-pivot/",
         "articlePath": "/article.html?issue=2026-06-14&article=2026-06-14-adial-pharmaceuticals-acquires-azora-therapeutics-in-us-64m-ibd-pipeline"
       },
@@ -377,7 +361,7 @@
         "category": "Industry Update",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/06/a80b900f-dsc07571-scaled-1.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/06/17/sidra-medicine-reports-successful-use-of-setmelanotide-in-rare-childhood-hypothalamic-obesity-cases/",
         "articlePath": "/article.html?issue=2026-06-14&article=2026-06-14-sidra-medicine-reports-successful-use-of-setmelanotide-in-rare-childhood"
       },
@@ -433,6 +417,23 @@
         "articlePath": "/article.html?issue=2026-06-14&article=2026-06-14-centre-may-extend-customs-duty-relief-on-pharma-raw-materials-amid-west-"
       },
       {
+        "id": "2026-06-14-eisai-bets-on-uk-growth-with-new-cold-chain-manufacturing-expansion",
+        "title": "Eisai Bets on UK Growth with New Cold-Chain Manufacturing Expansion",
+        "summary": "Eisai has announced a significant investment in its manufacturing facility in Hatfield, United Kingdom, aimed at expanding its capabilities for medicines that require specialized cold-chain storage and transportation. The project is being supported by the UK...",
+        "source": "PharmaTutor News",
+        "sourceHost": "pharmatutor.org",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-06-17T12:10:59.000Z",
+        "publishedLabel": "June 17, 2026",
+        "category": "Manufacturing",
+        "image": "https://www.pharmatutor.org/sites/default/files/styles/webp/public/2026-06/eisai-bets-on-uk-growth-with-new-cold-chain-manufacturing-expansion.png.webp?itok=mvV0BSB7",
+        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
+        "justIn": true,
+        "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/eisai-bets-on-uk-growth-with-new-cold-chain-manufacturing-expansion",
+        "articlePath": "/article.html?issue=2026-06-14&article=2026-06-14-eisai-bets-on-uk-growth-with-new-cold-chain-manufacturing-expansion"
+      },
+      {
         "id": "2026-06-14-purehealth-launches-sakina-for-children-mental-health-network-in-abu-dha",
         "title": "PureHealth launches SAKINA for Children Mental Health Network in Abu Dhabi | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
         "summary": "The care model integrates internationally recognised diagnostic frameworks such as ADOS for autism assessment, WISC for cognitive evaluation, and Conners Rating Scales for ADHD screening.",
@@ -445,7 +446,7 @@
         "category": "Manufacturing",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/06/PureHealth-launches-SAKINA-for-Children-1-1.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/06/17/purehealth-launches-sakina-for-children-mental-health-network-in-abu-dhabi/",
         "articlePath": "/article.html?issue=2026-06-14&article=2026-06-14-purehealth-launches-sakina-for-children-mental-health-network-in-abu-dha"
       },
@@ -496,7 +497,7 @@
         "category": "Manufacturing",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/06/7d1ff8c6364bc1fb9546ec5bb0a79e763ac5b90f-5616x3744-1.jpg",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/06/17/johnson-johnson-invests-us1b-to-expand-vision-care-manufacturing-in-florida/",
         "articlePath": "/article.html?issue=2026-06-14&article=2026-06-14-johnson-and-johnson-invests-us-1b-to-expand-vision-care-manufacturing-in"
       },
@@ -513,9 +514,26 @@
         "category": "Industry Update",
         "image": "https://medicaldialogues.in/h-upload/2025/10/16/304719-202510163542879.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/aiocd-welcomes-government-decision-to-bring-cough-syrups-under-stricter-control-172971",
         "articlePath": "/article.html?issue=2026-06-14&article=2026-06-14-aiocd-welcomes-government-decision-to-bring-cough-syrups-under-stricter-"
+      },
+      {
+        "id": "2026-06-14-mhra-fda-launch-landmark-liaison-programme-to-accelerate-healthcare-inno",
+        "title": "MHRA-FDA Launch Landmark Liaison Programme to Accelerate Healthcare Innovation",
+        "summary": "In a major step toward strengthening international regulatory cooperation, the UK's Medicines and Healthcare products Regulatory Agency (MHRA) and the US Food and Drug Administration (FDA) have announced a new liaison programme designed to deepen...",
+        "source": "PharmaTutor News",
+        "sourceHost": "pharmatutor.org",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-06-17T11:47:44.000Z",
+        "publishedLabel": "June 17, 2026",
+        "category": "Launch",
+        "image": "https://www.pharmatutor.org/sites/default/files/styles/webp/public/2026-06/mhra-fda-launch-landmark-liaison-programme-to-accelerate-healthcare-innovation.png.webp?itok=Abme_aRT",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/mhra-fda-launch-landmark-liaison-programme-to-accelerate-healthcare-innovation",
+        "articlePath": "/article.html?issue=2026-06-14&article=2026-06-14-mhra-fda-launch-landmark-liaison-programme-to-accelerate-healthcare-inno"
       },
       {
         "id": "2026-06-14-new-blood-test-may-help-predict-recurrence-and-survival-in-head-and-neck",
@@ -618,6 +636,74 @@
         "justIn": false,
         "originalUrl": "https://www.pharmatutor.org/content/june-2026/jj-talvey-darzalex-combination-delivers-strong-survival-gains-in-relapsed-multiple-myeloma",
         "articlePath": "/article.html?issue=2026-06-14&article=2026-06-14-j-and-j-s-talvey-darzalex-combination-delivers-strong-survival-gains-in-"
+      },
+      {
+        "id": "2026-06-14-india-launches-one-of-the-largest-childhood-cancer-survivor-cohorts-repo",
+        "title": "India Launches One of the Largest Childhood Cancer Survivor Cohorts, Reports Remarkable Long-Term Survival Rates",
+        "summary": "In a significant milestone for pediatric oncology research, Indian researchers have established one of the country's largest childhood cancer survivorship cohorts, providing new insights into the long-term outcomes of children who have successfully completed...",
+        "source": "PharmaTutor News",
+        "sourceHost": "pharmatutor.org",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-06-17T12:15:17.000Z",
+        "publishedLabel": "June 17, 2026",
+        "category": "Launch",
+        "image": "https://www.pharmatutor.org/sites/default/files/styles/webp/public/2026-06/india-launches-one-of-the-largest-childhood-cancer-survivor-cohorts-reports-remarkable-long-term-survival-rates.png.webp?itok=hde8LQsI",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/india-launches-one-of-the-largest-childhood-cancer-survivor-cohorts-reports-remarkable-long-term-survival-rates",
+        "articlePath": "/article.html?issue=2026-06-14&article=2026-06-14-india-launches-one-of-the-largest-childhood-cancer-survivor-cohorts-repo"
+      },
+      {
+        "id": "2026-06-14-ai-startup-pramaana-labs-raises-27-million-in-seed-funding-led-by-khosla",
+        "title": "AI startup Pramaana Labs raises $27 million in seed funding led by Khosla Ventures",
+        "summary": "Pramaana Labs, an AI startup, has secured $27 million in seed funding. The company develops technology to ensure AI answers are mathematically verifiable. The startup will use the new funding to train Pramaana's formalisation and proof-checking models, expand...",
+        "source": "Lupin Updates",
+        "sourceHost": "economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-06-17T15:58:58.000Z",
+        "publishedLabel": "June 17, 2026",
+        "category": "Industry Update",
+        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-132658,resizemode-75,msid-131805503/tech/funding/ai-startup-pramaana-labs-raises-27-million-in-seed-funding-led-by-khosla-ventures.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://economictimes.indiatimes.com/tech/funding/ai-startup-pramaana-labs-raises-27-million-in-seed-funding-led-by-khosla-ventures/articleshow/131805503.cms",
+        "articlePath": "/article.html?issue=2026-06-14&article=2026-06-14-ai-startup-pramaana-labs-raises-27-million-in-seed-funding-led-by-khosla"
+      },
+      {
+        "id": "2026-06-14-zydus-completes-usd-166-4-million-acquisition-of-us-based-assertio-holdi",
+        "title": "Zydus Completes USD 166.4 Million Acquisition of US-Based Assertio Holdings",
+        "summary": "New Delhi: Zydus Lifesciences on Tuesday said it has completed the USD 166.4 million acquisition of US-based pharma company Assertio Holdings Inc.The company has successfully completed the cash tender...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-06-17T16:06:28.000Z",
+        "publishedLabel": "June 17, 2026",
+        "category": "Industry Update",
+        "image": "https://medicaldialogues.in/h-upload/2023/06/09/211499-zydus-lifesciences-2.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/zydus-completes-usd-1664-million-acquisition-of-us-based-assertio-holdings-173050",
+        "articlePath": "/article.html?issue=2026-06-14&article=2026-06-14-zydus-completes-usd-166-4-million-acquisition-of-us-based-assertio-holdi"
+      },
+      {
+        "id": "2026-06-14-cipla-taps-shivam-puri-to-drive-growth-of-one-india-business",
+        "title": "Cipla Taps Shivam Puri to Drive Growth of One India Business",
+        "summary": "New Delhi: Homegrown pharma major Cipla Ltd on Tuesday announced the appointment of Shivam Puri as the CEO of its 'One India Business' with effect from July 1, 2026.Puri, currently Managing Director...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-06-17T15:36:11.000Z",
+        "publishedLabel": "June 17, 2026",
+        "category": "Industry Update",
+        "image": "https://medicaldialogues.in/h-upload/2026/06/17/354471-shivam-puri.jpg",
+        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
+        "justIn": true,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/cipla-taps-shivam-puri-to-drive-growth-of-one-india-business-173049",
+        "articlePath": "/article.html?issue=2026-06-14&article=2026-06-14-cipla-taps-shivam-puri-to-drive-growth-of-one-india-business"
       }
     ],
     "providers": [
@@ -639,55 +725,21 @@
         "articlePath": "/article.html?issue=2026-06-14&article=2026-06-14-kims-hospitals-brainlab-launch-south-asia-s-first-functional-neurosurger"
       },
       {
-        "id": "2026-06-14-philips-and-bihs-collaborate-to-redefine-connected-healthcare-delivery-a",
-        "title": "Philips and BIHS collaborate to redefine connected healthcare delivery across India",
-        "summary": "Philips, a global leader in health technology, and Bajaj Integrated Health System (BIHS), the healthcare venture of the Bajaj Group, announced a strategic collaboration to build a digitally connected care network across India. Together, both organisa",
+        "id": "2026-06-14-india-emerges-as-one-of-apac-s-most-ai-ready-healthcare-markets-bain-and",
+        "title": "India emerges as one of APAC's most AI-ready healthcare markets: Bain & Company",
+        "summary": "Asia-Pacific healthcare systems are facing growing strain as rising patient expectations collide with a stretched clinical workforce, accelerating the shift toward new care models and AI-enabled support, according to Bain & Company’s 2026 Asia-Pa",
         "source": "Express Healthcare",
         "sourceHost": "expresshealthcare.in",
         "region": "India",
         "country": "India",
-        "publishedAt": "2026-06-17T05:25:05.000Z",
+        "publishedAt": "2026-06-17T12:16:43.000Z",
         "publishedLabel": "June 17, 2026",
-        "category": "Provider Update",
-        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/06/17105424/EH_Philips.jpg",
+        "category": "Patient Care",
+        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2020/01/16142402/digital-health.jpg",
         "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
         "justIn": true,
-        "originalUrl": "https://www.expresshealthcare.in/news/philips-and-bihs-collaborate-to-redefine-connected-healthcare-delivery-across-india/453978/",
-        "articlePath": "/article.html?issue=2026-06-14&article=2026-06-14-philips-and-bihs-collaborate-to-redefine-connected-healthcare-delivery-a"
-      },
-      {
-        "id": "2026-06-14-trust-is-not-separate-from-economics-in-healthcare-trust-is-the-economic",
-        "title": "Trust is not separate from economics in healthcare. Trust is the economics",
-        "summary": "There is growing concern about over-prescription of surgeries and unnecessary procedures in private healthcare, often linked to incentive-based hospital models. In your view, how deeply entrenched is this problem in India's private healthcare ecosyst",
-        "source": "Express Healthcare",
-        "sourceHost": "expresshealthcare.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-06-16T11:34:00.000Z",
-        "publishedLabel": "June 16, 2026",
-        "category": "Hospital",
-        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/06/16170310/New-Project-2-2-1.jpg",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://www.expresshealthcare.in/news/trust-is-not-separate-from-economics-in-healthcare-trust-is-the-economics/453966/",
-        "articlePath": "/article.html?issue=2026-06-14&article=2026-06-14-trust-is-not-separate-from-economics-in-healthcare-trust-is-the-economic"
-      },
-      {
-        "id": "2026-06-14-ima-nebs-joins-hands-with-zynova-shalby-hospital-to-lead-organ-donation-",
-        "title": "IMA-NEBS joins hands with Zynova Shalby Hospital to lead organ donation awareness drive",
-        "summary": "The Indian Medical Association-North East Bombay Suburban (IMA-NEBS), in association with Zynova Shalby Hospital, organised an organ donation awareness programme aimed at educating citizens about the importance of organ donation and encouraging infor",
-        "source": "Express Healthcare",
-        "sourceHost": "expresshealthcare.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-06-16T10:33:21.000Z",
-        "publishedLabel": "June 16, 2026",
-        "category": "Hospital",
-        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/06/16160312/New-Project-4.jpg",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://www.expresshealthcare.in/news/ima-nebs-joins-hands-with-zynova-shalby-hospital-to-lead-organ-donation-awareness-drive/453960/",
-        "articlePath": "/article.html?issue=2026-06-14&article=2026-06-14-ima-nebs-joins-hands-with-zynova-shalby-hospital-to-lead-organ-donation-"
+        "originalUrl": "https://www.expresshealthcare.in/news/india-emerges-as-one-of-apacs-most-ai-ready-healthcare-markets-bain-company/453994/",
+        "articlePath": "/article.html?issue=2026-06-14&article=2026-06-14-india-emerges-as-one-of-apac-s-most-ai-ready-healthcare-markets-bain-and"
       },
       {
         "id": "2026-06-14-bystander-medical-representative-suffers-gunshot-injuries-in-road-rage-f",
@@ -709,21 +761,21 @@
     ],
     "diagnostics": [
       {
-        "id": "2026-06-14-redcliffe-labs-strengthens-its-footprint-in-rajasthan-with-strategic-acq",
-        "title": "Redcliffe Labs strengthens its footprint in Rajasthan with strategic acquisition of renowned diagnostic centre",
-        "summary": "Redcliffe Labs, India's fastest-growing diagnostics network, has further strengthened its leadership position in Rajasthan and North India through the strategic acquisition of a leading diagnostic centre in Ajmer. As part of its inorganic roll-up str",
+        "id": "2026-06-14-inside-india-s-medtech-mission",
+        "title": "Inside India's MedTech Mission",
+        "summary": "India's healthcare sector has long operated on a structural paradox. The country built world-class clinical capability, scaled tertiary care infrastructure, and trained an exceptional medical workforce yet remained heavily reliant on imported equipme",
         "source": "Express Healthcare",
         "sourceHost": "expresshealthcare.in",
         "region": "India",
         "country": "India",
-        "publishedAt": "2026-06-15T12:37:11.000Z",
-        "publishedLabel": "June 15, 2026",
-        "category": "Diagnostics",
-        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/06/15180702/EH_Redcliffe.jpg",
+        "publishedAt": "2026-06-17T10:14:13.000Z",
+        "publishedLabel": "June 17, 2026",
+        "category": "Industry Update",
+        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/06/17154134/EH_DigitalIssue_CS_June_2026_Ft_Image_750.jpg",
         "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
-        "justIn": false,
-        "originalUrl": "https://www.expresshealthcare.in/news/redcliffe-labs-strengthens-its-footprint-in-rajasthan-with-strategic-acquisition-of-renowned-diagnostic-centre/453953/",
-        "articlePath": "/article.html?issue=2026-06-14&article=2026-06-14-redcliffe-labs-strengthens-its-footprint-in-rajasthan-with-strategic-acq"
+        "justIn": true,
+        "originalUrl": "https://www.expresshealthcare.in/news/inside-indias-medtech-mission/453984/",
+        "articlePath": "/article.html?issue=2026-06-14&article=2026-06-14-inside-india-s-medtech-mission"
       },
       {
         "id": "2026-06-14-future-proofing-india-s-healthcare-sector-through-specialised-allied-hea",
@@ -743,23 +795,6 @@
         "articlePath": "/article.html?issue=2026-06-14&article=2026-06-14-future-proofing-india-s-healthcare-sector-through-specialised-allied-hea"
       },
       {
-        "id": "2026-06-14-siemens-healthineers-expands-make-in-india-portfolio-with-local-manufact",
-        "title": "Siemens Healthineers expands ‘Make in India’ portfolio with local manufacturing at Vadodara factory",
-        "summary": "In an effort to elevate healthcare in India, Siemens Healthineers has begun local manufacturing of Atellica chemistry reagents at its Vadodara facility, a milestone for the Make in India initiative that will benefit patients and healthcare profession",
-        "source": "Express Healthcare",
-        "sourceHost": "expresshealthcare.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-06-15T12:28:19.000Z",
-        "publishedLabel": "June 15, 2026",
-        "category": "Industry Update",
-        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/06/15175752/EH_Siemens.jpg",
-        "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
-        "justIn": false,
-        "originalUrl": "https://www.expresshealthcare.in/news/siemens-healthineers-expands-make-in-india-portfolio-with-local-manufacturing-at-vadodara-factory/453947/",
-        "articlePath": "/article.html?issue=2026-06-14&article=2026-06-14-siemens-healthineers-expands-make-in-india-portfolio-with-local-manufact"
-      },
-      {
         "id": "2026-06-14-abu-dhabi-lab-earns-who-accreditation-for-measles-and-rubella-healthcare",
         "title": "Abu Dhabi Lab earns WHO accreditation for measles & rubella | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
         "summary": "The designation highlights Abu Dhabi’s expanding role in global health security, particularly in strengthening systems that detect, track, and respond to infectious disease threats.",
@@ -772,7 +807,7 @@
         "category": "Lab Network",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/06/Abu_Dhabi_Lab-1.webp",
         "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/06/17/abu-dhabi-lab-earns-who-accreditation-for-measles-rubella/",
         "articlePath": "/article.html?issue=2026-06-14&article=2026-06-14-abu-dhabi-lab-earns-who-accreditation-for-measles-and-rubella-healthcare"
       },
@@ -789,30 +824,12 @@
         "category": "Industry Update",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/06/96950099-67571715-1.jpg",
         "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/06/17/senegals-institut-pasteur-de-dakar-sequences-first-40-human-genomes/",
         "articlePath": "/article.html?issue=2026-06-14&article=2026-06-14-senegal-s-institut-pasteur-de-dakar-sequences-first-40-human-genomes-hea"
       }
     ],
-    "healthtech": [
-      {
-        "id": "2026-06-14-ihld-medtech-raises-us-3-million-from-ultragreen-ai-in-strategic-investm",
-        "title": "IHLD MedTech raises US$3 million from UltraGreen.ai in strategic investment",
-        "summary": "IHLD MedTech has closed a strategic investment from UltraGreen.ai (SGX: ULG), a Singapore Exchange-listed global leader in fluorescence-guided surgery and digital health solutions operating across 54 countries and valued at approximately US$1.3 billi",
-        "source": "Express Healthcare",
-        "sourceHost": "expresshealthcare.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-06-15T12:33:05.000Z",
-        "publishedLabel": "June 15, 2026",
-        "category": "AI",
-        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/06/15180239/EH_iLive.jpg",
-        "thbAction": "",
-        "justIn": false,
-        "originalUrl": "https://www.expresshealthcare.in/news/ihld-medtech-raises-us3-million-from-ultragreen-ai-in-strategic-investment/453950/",
-        "articlePath": "/article.html?issue=2026-06-14&article=2026-06-14-ihld-medtech-raises-us-3-million-from-ultragreen-ai-in-strategic-investm"
-      }
-    ]
+    "healthtech": []
   },
   "thbActions": [
     {
@@ -849,8 +866,8 @@
     },
     {
       "segment": "pharma",
-      "articleId": "2026-06-14-reinforcing-body-clock-rhythms-may-help-brain-recover-from-stroke-study-",
-      "title": "Reinforcing body clock rhythms may help brain recover from stroke, study suggests",
+      "articleId": "2026-06-14-congo-ebola-outbreak-may-be-worst-ever-africa-cdc-says",
+      "title": "Congo Ebola outbreak may be worst ever, Africa CDC says",
       "source": "ET Healthworld",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
@@ -865,24 +882,8 @@
     },
     {
       "segment": "providers",
-      "articleId": "2026-06-14-philips-and-bihs-collaborate-to-redefine-connected-healthcare-delivery-a",
-      "title": "Philips and BIHS collaborate to redefine connected healthcare delivery across India",
-      "source": "Express Healthcare",
-      "solution": "THB Provider CRM",
-      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
-    },
-    {
-      "segment": "providers",
-      "articleId": "2026-06-14-trust-is-not-separate-from-economics-in-healthcare-trust-is-the-economic",
-      "title": "Trust is not separate from economics in healthcare. Trust is the economics",
-      "source": "Express Healthcare",
-      "solution": "THB Provider CRM",
-      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
-    },
-    {
-      "segment": "providers",
-      "articleId": "2026-06-14-ima-nebs-joins-hands-with-zynova-shalby-hospital-to-lead-organ-donation-",
-      "title": "IMA-NEBS joins hands with Zynova Shalby Hospital to lead organ donation awareness drive",
+      "articleId": "2026-06-14-india-emerges-as-one-of-apac-s-most-ai-ready-healthcare-markets-bain-and",
+      "title": "India emerges as one of APAC's most AI-ready healthcare markets: Bain & Company",
       "source": "Express Healthcare",
       "solution": "THB Provider CRM",
       "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
@@ -897,8 +898,8 @@
     },
     {
       "segment": "diagnostics",
-      "articleId": "2026-06-14-redcliffe-labs-strengthens-its-footprint-in-rajasthan-with-strategic-acq",
-      "title": "Redcliffe Labs strengthens its footprint in Rajasthan with strategic acquisition of renowned diagnostic centre",
+      "articleId": "2026-06-14-inside-india-s-medtech-mission",
+      "title": "Inside India's MedTech Mission",
       "source": "Express Healthcare",
       "solution": "THB Diagnostics CRM",
       "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
@@ -907,14 +908,6 @@
       "segment": "diagnostics",
       "articleId": "2026-06-14-future-proofing-india-s-healthcare-sector-through-specialised-allied-hea",
       "title": "Future-proofing India’s healthcare sector through specialised allied health care professionals education",
-      "source": "Express Healthcare",
-      "solution": "THB Diagnostics CRM",
-      "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
-    },
-    {
-      "segment": "diagnostics",
-      "articleId": "2026-06-14-siemens-healthineers-expands-make-in-india-portfolio-with-local-manufact",
-      "title": "Siemens Healthineers expands ‘Make in India’ portfolio with local manufacturing at Vadodara factory",
       "source": "Express Healthcare",
       "solution": "THB Diagnostics CRM",
       "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
