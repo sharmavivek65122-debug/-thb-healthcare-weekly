@@ -5,15 +5,14 @@
   "startDate": "2026-05-23T18:30:00.000Z",
   "endDate": "2026-05-29T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-06-17T16:46:26.072Z",
+  "updatedAt": "2026-06-18T09:00:29.976Z",
   "coverage": {
     "pharma": 0,
-    "providers": 5,
-    "diagnostics": 3,
+    "providers": 4,
+    "diagnostics": 1,
     "healthtech": 0
   },
   "sourcesUsed": [
-    "BioSpectrum India Healthcare",
     "ET Healthworld Diagnostics",
     "ET Healthworld Hospitals"
   ],
@@ -87,23 +86,6 @@
         "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/park-medi-world-to-acquire-medicity-hospital-in-rudrapur-enter-uttarakhand/131320128",
         "articlePath": "/article.html?issue=2026-05-24&article=2026-05-24-park-medi-world-to-acquire-medicity-hospital-in-rudrapur-enter-uttarakha"
-      },
-      {
-        "id": "2026-05-24-hcg-unveils-cancer-hospital-in-north-bengaluru-introducing-karnataka-s-f",
-        "title": "HCG unveils cancer hospital in North Bengaluru introducing Karnataka’s first MR-Linac",
-        "summary": "HCG launches cancer hospital in North Bengaluru introducing Karnataka’s first MR-Linac",
-        "source": "BioSpectrum India Healthcare",
-        "sourceHost": "biospectrumindia.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-05-24T18:30:00.000Z",
-        "publishedLabel": "May 25, 2026",
-        "category": "Hospital",
-        "image": "https://www.biospectrumindia.com/uploads/articles/img_20260519_wa0007-27835.jpg",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://www.biospectrumindia.com/news/16/27835/hcg-unveils-cancer-hospital-in-north-bengaluru-introducing-karnatakas-first-mr-linac.html",
-        "articlePath": "/article.html?issue=2026-05-24&article=2026-05-24-hcg-unveils-cancer-hospital-in-north-bengaluru-introducing-karnataka-s-f"
       }
     ],
     "diagnostics": [
@@ -123,40 +105,6 @@
         "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/diagnostics/blood-test-could-help-detect-signs-of-alzheimers-disease-decades-before-symptoms-study/131402539",
         "articlePath": "/article.html?issue=2026-05-24&article=2026-05-24-blood-test-could-help-detect-signs-of-alzheimer-s-disease-decades-before"
-      },
-      {
-        "id": "2026-05-24-illumina-multiomics-summit-india-highlights-potential-of-integrated-omic",
-        "title": "Illumina Multiomics Summit India highlights potential of integrated omics",
-        "summary": "Illumina Multiomics Summit India highlights potential of integrated omics",
-        "source": "BioSpectrum India Healthcare",
-        "sourceHost": "biospectrumindia.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-05-24T18:30:00.000Z",
-        "publishedLabel": "May 25, 2026",
-        "category": "Industry Update",
-        "image": "https://www.biospectrumindia.com/uploads/articles/illumina_multiomics_summit_2026___image-27848.JPG",
-        "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
-        "justIn": false,
-        "originalUrl": "https://www.biospectrumindia.com/news/16/27848/illumina-multiomics-summit-india-highlights-potential-of-integrated-omics-.html",
-        "articlePath": "/article.html?issue=2026-05-24&article=2026-05-24-illumina-multiomics-summit-india-highlights-potential-of-integrated-omic"
-      },
-      {
-        "id": "2026-05-24-nura-expands-south-india-presence-with-launch-of-preventive-health-scree",
-        "title": "NURA expands South India presence with launch of preventive health screening centre in Chennai",
-        "summary": "NURA expands South India presence with launch of preventive health screening centre in Chennai",
-        "source": "BioSpectrum India Healthcare",
-        "sourceHost": "biospectrumindia.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-05-26T18:30:00.000Z",
-        "publishedLabel": "May 27, 2026",
-        "category": "Screening",
-        "image": "https://www.biospectrumindia.com/uploads/articles/nura_chennai_inauguration-27860.jpg",
-        "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
-        "justIn": false,
-        "originalUrl": "https://www.biospectrumindia.com/news/16/27860/nura-expands-south-india-presence-with-launch-of-preventive-health-screening-centre-in-chennai.html",
-        "articlePath": "/article.html?issue=2026-05-24&article=2026-05-24-nura-expands-south-india-presence-with-launch-of-preventive-health-scree"
       }
     ],
     "healthtech": []
@@ -195,34 +143,10 @@
       "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
     },
     {
-      "segment": "providers",
-      "articleId": "2026-05-24-hcg-unveils-cancer-hospital-in-north-bengaluru-introducing-karnataka-s-f",
-      "title": "HCG unveils cancer hospital in North Bengaluru introducing Karnataka’s first MR-Linac",
-      "source": "BioSpectrum India Healthcare",
-      "solution": "THB Provider CRM",
-      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
-    },
-    {
       "segment": "diagnostics",
       "articleId": "2026-05-24-blood-test-could-help-detect-signs-of-alzheimer-s-disease-decades-before",
       "title": "Blood test could help detect signs of Alzheimer's disease decades before symptoms: Study",
       "source": "ET Healthworld Diagnostics",
-      "solution": "THB Diagnostics CRM",
-      "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
-    },
-    {
-      "segment": "diagnostics",
-      "articleId": "2026-05-24-illumina-multiomics-summit-india-highlights-potential-of-integrated-omic",
-      "title": "Illumina Multiomics Summit India highlights potential of integrated omics",
-      "source": "BioSpectrum India Healthcare",
-      "solution": "THB Diagnostics CRM",
-      "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
-    },
-    {
-      "segment": "diagnostics",
-      "articleId": "2026-05-24-nura-expands-south-india-presence-with-launch-of-preventive-health-scree",
-      "title": "NURA expands South India presence with launch of preventive health screening centre in Chennai",
-      "source": "BioSpectrum India Healthcare",
       "solution": "THB Diagnostics CRM",
       "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
     }
