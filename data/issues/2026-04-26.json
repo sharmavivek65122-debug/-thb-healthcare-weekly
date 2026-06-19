@@ -5,10 +5,10 @@
   "startDate": "2026-04-25T18:30:00.000Z",
   "endDate": "2026-05-01T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-06-19T09:18:44.205Z",
+  "updatedAt": "2026-06-19T16:18:42.944Z",
   "coverage": {
     "pharma": 0,
-    "providers": 9,
+    "providers": 8,
     "diagnostics": 0,
     "healthtech": 0
   },
@@ -18,23 +18,6 @@
   "segments": {
     "pharma": [],
     "providers": [
-      {
-        "id": "2026-04-26-integrated-robotic-gynae-oncology-ecosystem-launched-to-address-gaps-in-",
-        "title": "Integrated robotic gynae-oncology ecosystem launched to address gaps in women’s cancer care",
-        "summary": "Apollo Athenaa has launched an integrated gynae-oncology and robotic surgery ecosystem aimed at addressing fragmented care in women’s cancers. The initiative brings together early detection, precision diagnostics and minimally invasive surgery within a single...",
-        "source": "ET Healthworld Hospitals",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-04-27T08:20:42.000Z",
-        "publishedLabel": "April 27, 2026",
-        "category": "AI Care Delivery",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-130548540,imgsize-1074979,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/integrated-robotic-gynae-oncology-ecosystem-launched-to-address-gaps-in-womens-cancer-care.jpg",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/integrated-robotic-gynae-oncology-ecosystem-launched-to-address-gaps-in-womens-cancer-care/130548540",
-        "articlePath": "/article.html?issue=2026-04-26&article=2026-04-26-integrated-robotic-gynae-oncology-ecosystem-launched-to-address-gaps-in-"
-      },
       {
         "id": "2026-04-26-india-s-healthcare-expansion-faces-a-critical-talent-crunch-says-alisha-",
         "title": "India's healthcare expansion faces a critical talent crunch, says Alisha Moopen",
@@ -178,14 +161,6 @@
   "thbActions": [
     {
       "segment": "providers",
-      "articleId": "2026-04-26-integrated-robotic-gynae-oncology-ecosystem-launched-to-address-gaps-in-",
-      "title": "Integrated robotic gynae-oncology ecosystem launched to address gaps in women’s cancer care",
-      "source": "ET Healthworld Hospitals",
-      "solution": "THB Provider CRM",
-      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
-    },
-    {
-      "segment": "providers",
       "articleId": "2026-04-26-india-s-healthcare-expansion-faces-a-critical-talent-crunch-says-alisha-",
       "title": "India's healthcare expansion faces a critical talent crunch, says Alisha Moopen",
       "source": "ET Healthworld Hospitals",
@@ -212,6 +187,14 @@
       "segment": "providers",
       "articleId": "2026-04-26-delhi-health-minister-inaugurates-advanced-3d-dental-imaging-facility-at",
       "title": "Delhi Health Minister inaugurates advanced 3D dental imaging facility at Maulana Azad Institute",
+      "source": "ET Healthworld Hospitals",
+      "solution": "THB Provider CRM",
+      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
+    },
+    {
+      "segment": "providers",
+      "articleId": "2026-04-26-medanta-takeover-80-bed-cancer-facility-in-indore-for-30-crore",
+      "title": "Medanta takeover 80-bed cancer facility in Indore for ₹30 crore",
       "source": "ET Healthworld Hospitals",
       "solution": "THB Provider CRM",
       "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
