@@ -5,9 +5,9 @@
   "startDate": "2026-05-30T18:30:00.000Z",
   "endDate": "2026-06-05T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-06-19T16:18:42.944Z",
+  "updatedAt": "2026-06-20T08:02:03.296Z",
   "coverage": {
-    "pharma": 5,
+    "pharma": 6,
     "providers": 5,
     "diagnostics": 3,
     "healthtech": 0
@@ -16,7 +16,8 @@
     "BioSpectrum Asia Middle East",
     "ET Healthworld Diagnostics",
     "ET Healthworld Hospitals",
-    "ET Healthworld Pharma"
+    "ET Healthworld Pharma",
+    "Janssen India Media"
   ],
   "segments": {
     "pharma": [
@@ -53,6 +54,23 @@
         "justIn": false,
         "originalUrl": "https://www.biospectrumasia.com/analysis/38/27704/cdmos-atmp-growth-upswing-in-apac.html",
         "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-cdmos-and-atmp-growth-upswing-in-apac"
+      },
+      {
+        "id": "2026-05-31-johnson-and-johnson-presents-new-data-further-reinforcing-the-role-of-ni",
+        "title": "Johnson & Johnson presents new data further reinforcing the role of nipocalimab in lowering the autoantibodies driving Sjögren’s disease",
+        "summary": "· Nipocalimab, an immunoselective neonatal Fc receptor (FcRn) blocker, is designed to target and reduce pathogenic immunoglobulin G (IgG) autoantibodies associated with Sjögren’s disease while preserving immune function · New exploratory analysis of Phase 2...",
+        "source": "Janssen India Media",
+        "sourceHost": "janssen.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-06-03T06:16:36.596Z",
+        "publishedLabel": "June 3, 2026",
+        "category": "Industry Update",
+        "image": "https://jnj-content-lab2.brightspotcdn.com/ac/25/bd2078f54d5992dd486ed26140ce/johnson-johnson-logo.svg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": false,
+        "originalUrl": "https://www.jnj.com/media-center/press-releases/johnson-johnson-presents-new-data-further-reinforcing-the-role-of-nipocalimab-in-lowering-the-autoantibodies-driving-sjogrens-disease",
+        "articlePath": "/article.html?issue=2026-05-31&article=2026-05-31-johnson-and-johnson-presents-new-data-further-reinforcing-the-role-of-ni"
       },
       {
         "id": "2026-05-31-scalable-manufacturing-for-high-volume-sirna-programmes-remains-underdev",
@@ -267,6 +285,14 @@
     },
     {
       "segment": "pharma",
+      "articleId": "2026-05-31-johnson-and-johnson-presents-new-data-further-reinforcing-the-role-of-ni",
+      "title": "Johnson & Johnson presents new data further reinforcing the role of nipocalimab in lowering the autoantibodies driving Sjögren’s disease",
+      "source": "Janssen India Media",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "pharma",
       "articleId": "2026-05-31-scalable-manufacturing-for-high-volume-sirna-programmes-remains-underdev",
       "title": "“Scalable manufacturing for high-volume siRNA programmes remains underdeveloped”",
       "source": "BioSpectrum Asia Middle East",
@@ -280,14 +306,6 @@
       "source": "BioSpectrum Asia Middle East",
       "solution": "THB Commercial Analytics",
       "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
-    },
-    {
-      "segment": "pharma",
-      "articleId": "2026-05-31-how-space-medicine-is-rewriting-healthcare",
-      "title": "How Space Medicine Is Rewriting Healthcare",
-      "source": "BioSpectrum Asia Middle East",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
     },
     {
       "segment": "providers",
