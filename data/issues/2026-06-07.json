@@ -5,15 +5,14 @@
   "startDate": "2026-06-06T18:30:00.000Z",
   "endDate": "2026-06-12T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-06-20T08:02:03.296Z",
+  "updatedAt": "2026-06-20T15:22:10.766Z",
   "coverage": {
-    "pharma": 11,
+    "pharma": 9,
     "providers": 3,
     "diagnostics": 3,
     "healthtech": 0
   },
   "sourcesUsed": [
-    "ET Healthworld",
     "ET Healthworld Diagnostics",
     "ET Healthworld Hospitals",
     "Economic Times Pharma",
@@ -90,23 +89,6 @@
         "articlePath": "/article.html?issue=2026-06-07&article=2026-06-07-uk-approves-novo-weight-loss-pill-to-edge-open-european-market"
       },
       {
-        "id": "2026-06-07-astrazeneca-s-enhertu-gets-regulatory-approval-in-india-for-first-line-h",
-        "title": "AstraZeneca's Enhertu gets regulatory approval in India for first-line HER2-positive breast cancer",
-        "summary": "AstraZeneca Pharma India has secured approval from India's drug regulator for its smart chemotherapy drug Enhertu. This allows for its import, sale, and distribution for an additional use. The drug will now be available as a first-line treatment for certain...",
-        "source": "Economic Times Pharma",
-        "sourceHost": "economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-06-11T06:13:21.000Z",
-        "publishedLabel": "June 11, 2026",
-        "category": "Approval",
-        "image": "https://img.etimg.com/thumb/msid-131650934,width-1200,height-630,imgsize-57234,overlay-economictimes/articleshow.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/astrazenecas-enhertu-gets-regulatory-approval-in-india-for-first-line-her2-positive-breast-cancer/articleshow/131650857.cms",
-        "articlePath": "/article.html?issue=2026-06-07&article=2026-06-07-astrazeneca-s-enhertu-gets-regulatory-approval-in-india-for-first-line-h"
-      },
-      {
         "id": "2026-06-07-eli-lilly-s-alzheimer-s-drug-donanemab-approved-in-india-but-neurologist",
         "title": "Eli Lilly's Alzheimer's drug donanemab approved in India, but neurologists flag cost, access barriers",
         "summary": "A new drug for Alzheimer's, donanemab, has arrived in India. It aims to slow the disease's progression by clearing brain plaques. While offering potential benefits, experts highlight concerns about its high cost and the need for early diagnosis. The drug's...",
@@ -122,23 +104,6 @@
         "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/eli-lillys-alzheimers-drug-donanemab-approved-in-india-but-neurologists-flag-cost-access-barriers/articleshow/131710050.cms",
         "articlePath": "/article.html?issue=2026-06-07&article=2026-06-07-eli-lilly-s-alzheimer-s-drug-donanemab-approved-in-india-but-neurologist"
-      },
-      {
-        "id": "2026-06-07-glucosamine-used-for-joint-pain-linked-to-dementia-progression",
-        "title": "Glucosamine used for joint pain linked to dementia progression",
-        "summary": "In patients with only mild cognitive impairment, there was no such effect, suggesting the impact of glucosamine may be greater in patients with established dementia, the researchers said.",
-        "source": "ET Healthworld",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-06-13T02:01:13.000Z",
-        "publishedLabel": "June 13, 2026",
-        "category": "Industry Update",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-131696259,imgsize-65662,width-1200,height=627,overlay-ethealth,resizemode-75/industry/glucosamine-used-for-joint-pain-linked-to-dementia-progression.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/glucosamine-used-for-joint-pain-linked-to-dementia-progression/131696259",
-        "articlePath": "/article.html?issue=2026-06-07&article=2026-06-07-glucosamine-used-for-joint-pain-linked-to-dementia-progression"
       },
       {
         "id": "2026-06-07-us-drug-regulator-issues-import-alert-for-drugs-made-at-a-dabur-india-pl",
@@ -352,8 +317,8 @@
     },
     {
       "segment": "pharma",
-      "articleId": "2026-06-07-astrazeneca-s-enhertu-gets-regulatory-approval-in-india-for-first-line-h",
-      "title": "AstraZeneca's Enhertu gets regulatory approval in India for first-line HER2-positive breast cancer",
+      "articleId": "2026-06-07-eli-lilly-s-alzheimer-s-drug-donanemab-approved-in-india-but-neurologist",
+      "title": "Eli Lilly's Alzheimer's drug donanemab approved in India, but neurologists flag cost, access barriers",
       "source": "Economic Times Pharma",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
