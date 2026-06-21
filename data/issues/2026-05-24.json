@@ -5,15 +5,16 @@
   "startDate": "2026-05-23T18:30:00.000Z",
   "endDate": "2026-05-29T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-06-20T15:22:10.766Z",
+  "updatedAt": "2026-06-21T08:45:35.225Z",
   "coverage": {
     "pharma": 0,
-    "providers": 4,
+    "providers": 5,
     "diagnostics": 3,
     "healthtech": 0
   },
   "sourcesUsed": [
     "BioSpectrum Asia Middle East",
+    "BioSpectrum India Healthcare",
     "ET Healthworld Diagnostics",
     "ET Healthworld Hospitals"
   ],
@@ -87,6 +88,23 @@
         "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/park-medi-world-to-acquire-medicity-hospital-in-rudrapur-enter-uttarakhand/131320128",
         "articlePath": "/article.html?issue=2026-05-24&article=2026-05-24-park-medi-world-to-acquire-medicity-hospital-in-rudrapur-enter-uttarakha"
+      },
+      {
+        "id": "2026-05-24-hcg-unveils-cancer-hospital-in-north-bengaluru-introducing-karnataka-s-f",
+        "title": "HCG unveils cancer hospital in North Bengaluru introducing Karnataka’s first MR-Linac",
+        "summary": "HCG launches cancer hospital in North Bengaluru introducing Karnataka’s first MR-Linac",
+        "source": "BioSpectrum India Healthcare",
+        "sourceHost": "biospectrumindia.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-05-24T18:30:00.000Z",
+        "publishedLabel": "May 25, 2026",
+        "category": "Hospital",
+        "image": "https://www.biospectrumindia.com/uploads/articles/img_20260519_wa0007-27835.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": false,
+        "originalUrl": "https://www.biospectrumindia.com/news/16/27835/hcg-unveils-cancer-hospital-in-north-bengaluru-introducing-karnatakas-first-mr-linac.html",
+        "articlePath": "/article.html?issue=2026-05-24&article=2026-05-24-hcg-unveils-cancer-hospital-in-north-bengaluru-introducing-karnataka-s-f"
       }
     ],
     "diagnostics": [
@@ -174,6 +192,14 @@
       "articleId": "2026-05-24-park-medi-world-to-acquire-medicity-hospital-in-rudrapur-enter-uttarakha",
       "title": "Park Medi World to acquire Medicity Hospital in Rudrapur, enter Uttarakhand",
       "source": "ET Healthworld Hospitals",
+      "solution": "THB Provider CRM",
+      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
+    },
+    {
+      "segment": "providers",
+      "articleId": "2026-05-24-hcg-unveils-cancer-hospital-in-north-bengaluru-introducing-karnataka-s-f",
+      "title": "HCG unveils cancer hospital in North Bengaluru introducing Karnataka’s first MR-Linac",
+      "source": "BioSpectrum India Healthcare",
       "solution": "THB Provider CRM",
       "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
     },
