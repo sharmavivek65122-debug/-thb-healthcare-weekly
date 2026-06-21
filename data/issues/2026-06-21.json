@@ -5,18 +5,18 @@
   "startDate": "2026-06-20T18:30:00.000Z",
   "endDate": "2026-06-26T18:30:00.000Z",
   "status": "live",
-  "updatedAt": "2026-06-21T08:45:35.225Z",
+  "updatedAt": "2026-06-21T15:27:41.345Z",
   "coverage": {
-    "pharma": 7,
+    "pharma": 9,
     "providers": 1,
-    "diagnostics": 0,
+    "diagnostics": 1,
     "healthtech": 0
   },
   "sourcesUsed": [
     "ET Healthworld",
-    "Express Healthcare",
     "Healthcare MEA",
-    "Medical Dialogues Pharma"
+    "Medical Dialogues Pharma",
+    "Zawya Pharmaceuticals"
   ],
   "segments": {
     "pharma": [
@@ -36,6 +36,23 @@
         "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/diagnostics/scanning-cancer-up-close-personal-a-revolution-is-underway-in-cancer-diagnosis/131885778",
         "articlePath": "/article.html?issue=2026-06-21&article=2026-06-21-scanning-cancer-up-close-and-personal-a-revolution-is-underway-in-cancer"
+      },
+      {
+        "id": "2026-06-21-yoga-may-boost-cognition-reduce-depression-aid-gut-health-in-early-alzhe",
+        "title": "Yoga may boost cognition, reduce depression, aid gut health in early Alzheimer's: AIIMS study",
+        "summary": "The collaborative study by Departments of Anatomy and Neurology, published in the Journal of Alzheimer's Disease in June, found that a 12-week structured yoga programme was associated with significant improvements in cognitive performance and mood, alongside...",
+        "source": "ET Healthworld",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-06-21T10:36:39.000Z",
+        "publishedLabel": "June 21, 2026",
+        "category": "Industry Update",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-131889269,imgsize-161078,width-1200,height=627,overlay-ethealth,resizemode-75/industry/yoga-may-boost-cognition-reduce-depression-aid-gut-health-in-early-alzheimers-aiims-study.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/yoga-may-boost-cognition-reduce-depression-aid-gut-health-in-early-alzheimers-aiims-study/131889269",
+        "articlePath": "/article.html?issue=2026-06-21&article=2026-06-21-yoga-may-boost-cognition-reduce-depression-aid-gut-health-in-early-alzhe"
       },
       {
         "id": "2026-06-21-ede-approves-jascayd-for-treating-idiopathic-pulmonary-fibrosis-healthca",
@@ -106,6 +123,23 @@
         "articlePath": "/article.html?issue=2026-06-21&article=2026-06-21-pfizer-cfo-dave-denton-to-step-down-cecile-guegan-named-interim-finance-"
       },
       {
+        "id": "2026-06-21-pharma-firm-director-customs-broker-arrested-over-controlled-substance-e",
+        "title": "Pharma Firm Director, Customs Broker Arrested Over Controlled Substance Export",
+        "summary": "Mumbai: The Customs Special Intelligence and Investigation Branch (SIIB-Export), Mumbai Zone-III, has arrested the director of a pharmaceutical company and a customs broker director for allegedly...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-06-21T11:30:16.000Z",
+        "publishedLabel": "June 21, 2026",
+        "category": "Industry Update",
+        "image": "https://medicaldialogues.in/h-upload/2026/06/16/354144-arrest-4.jpg",
+        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
+        "justIn": true,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/pharma-firm-director-customs-broker-arrested-over-controlled-substance-export-173335",
+        "articlePath": "/article.html?issue=2026-06-21&article=2026-06-21-pharma-firm-director-customs-broker-arrested-over-controlled-substance-e"
+      },
+      {
         "id": "2026-06-21-novo-nordisk-launches-protein-production-at-bohumil-facility-in-czechia-",
         "title": "Novo Nordisk launches protein production at Bohumil facility in Czechia | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
         "summary": "Novo Nordisk invested 3.5 billion Czech koruna (US$168 million) in modernisation works following its US$200 million acquisition of the facility.",
@@ -142,24 +176,42 @@
     ],
     "providers": [
       {
-        "id": "2026-06-21-family-isn-t-an-option-it-s-a-necessity",
-        "title": "Family isn't an option, it's a necessity",
-        "summary": "Dr Ramakanta Panda, renowned heart surgeon and Chairman of Asian Heart Institute, Mumbai, built it into one of India's most respected cardiac care institutions. As the hospital enters its next phase, his children, Saswat Panda and Sonal Panda, are st",
-        "source": "Express Healthcare",
-        "sourceHost": "expresshealthcare.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-06-21T04:00:11.000Z",
+        "id": "2026-06-21-sinnad-achieves-pci-3d-secure-recertification",
+        "title": "SINNAD achieves PCI 3D Secure recertification",
+        "summary": "Reinforcing its commitment to secure digital payment experiences",
+        "source": "Zawya Pharmaceuticals",
+        "sourceHost": "zawya.com",
+        "region": "Middle East",
+        "country": "Bahrain",
+        "publishedAt": "2026-06-21T13:16:52.000Z",
         "publishedLabel": "June 21, 2026",
-        "category": "Hospital",
-        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/06/20235426/New-Project-2-2-2.jpg",
+        "category": "Provider Update",
+        "image": "https://static.zawya.com/view/acePublic/alias/contentid/861a20c4-bcc3-4d8f-ac97-e5745d418a20/0/mrs-ranaalmaeeli-ceofsinnad_02-jpg.jpeg?f=3%3A2",
         "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://www.expresshealthcare.in/news/family-isnt-an-option-its-a-necessity/454040/",
-        "articlePath": "/article.html?issue=2026-06-21&article=2026-06-21-family-isn-t-an-option-it-s-a-necessity"
+        "justIn": true,
+        "originalUrl": "https://www.zawya.com/en/press-release/companies-news/sinnad-achieves-pci-3d-secure-recertification-gr7tbyed",
+        "articlePath": "/article.html?issue=2026-06-21&article=2026-06-21-sinnad-achieves-pci-3d-secure-recertification"
       }
     ],
-    "diagnostics": [],
+    "diagnostics": [
+      {
+        "id": "2026-06-21-alstom-led-consortium-signs-792mln-egypt-rail-modernisation-contracts",
+        "title": "Alstom-led consortium signs $792mln Egypt rail modernisation contracts",
+        "summary": "Alstom-led consortium with Rowad Modern Engineering and Concrete Plus have signed 4 contracts to modernise key freight and logistics rail corridors linking dry ports, industrial zones and seaports.",
+        "source": "Zawya Pharmaceuticals",
+        "sourceHost": "zawya.com",
+        "region": "Middle East",
+        "country": "Middle East",
+        "publishedAt": "2026-06-21T13:52:53.000Z",
+        "publishedLabel": "June 21, 2026",
+        "category": "Industry Update",
+        "image": "https://static.zawya.com/view/acePublic/alias/contentid/6c4e9cb0-f14c-4ba0-95e0-5a01257e4e81/0/alstom-results.jpeg?f=3%3A2",
+        "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
+        "justIn": false,
+        "originalUrl": "https://www.zawya.com/en/projects/industry/alstom-led-consortium-signs-792mln-egypt-rail-modernisation-contracts-s213xhyl",
+        "articlePath": "/article.html?issue=2026-06-21&article=2026-06-21-alstom-led-consortium-signs-792mln-egypt-rail-modernisation-contracts"
+      }
+    ],
     "healthtech": []
   },
   "thbActions": [
@@ -167,6 +219,14 @@
       "segment": "pharma",
       "articleId": "2026-06-21-scanning-cancer-up-close-and-personal-a-revolution-is-underway-in-cancer",
       "title": "Scanning cancer, up close & personal: A revolution is underway in cancer diagnosis",
+      "source": "ET Healthworld",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "pharma",
+      "articleId": "2026-06-21-yoga-may-boost-cognition-reduce-depression-aid-gut-health-in-early-alzhe",
+      "title": "Yoga may boost cognition, reduce depression, aid gut health in early Alzheimer's: AIIMS study",
       "source": "ET Healthworld",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
@@ -196,20 +256,20 @@
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
     },
     {
-      "segment": "pharma",
-      "articleId": "2026-06-21-pfizer-cfo-dave-denton-to-step-down-cecile-guegan-named-interim-finance-",
-      "title": "Pfizer CFO Dave Denton to Step Down, Cecile Guegan Named Interim Finance Chief",
-      "source": "Medical Dialogues Pharma",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
       "segment": "providers",
-      "articleId": "2026-06-21-family-isn-t-an-option-it-s-a-necessity",
-      "title": "Family isn't an option, it's a necessity",
-      "source": "Express Healthcare",
+      "articleId": "2026-06-21-sinnad-achieves-pci-3d-secure-recertification",
+      "title": "SINNAD achieves PCI 3D Secure recertification",
+      "source": "Zawya Pharmaceuticals",
       "solution": "THB Provider CRM",
       "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
+    },
+    {
+      "segment": "diagnostics",
+      "articleId": "2026-06-21-alstom-led-consortium-signs-792mln-egypt-rail-modernisation-contracts",
+      "title": "Alstom-led consortium signs $792mln Egypt rail modernisation contracts",
+      "source": "Zawya Pharmaceuticals",
+      "solution": "THB Diagnostics CRM",
+      "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
     }
   ]
 }
