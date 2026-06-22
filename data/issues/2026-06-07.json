@@ -5,9 +5,9 @@
   "startDate": "2026-06-06T18:30:00.000Z",
   "endDate": "2026-06-12T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-06-22T10:21:02.313Z",
+  "updatedAt": "2026-06-22T18:04:36.266Z",
   "coverage": {
-    "pharma": 8,
+    "pharma": 7,
     "providers": 3,
     "diagnostics": 3,
     "healthtech": 0
@@ -36,23 +36,6 @@
         "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/india-needs-to-remain-attractive-for-innovation-led-investment-judith-love-novartis/articleshow/131667621.cms",
         "articlePath": "/article.html?issue=2026-06-07&article=2026-06-07-india-needs-to-remain-attractive-for-innovation-led-investment-judith-lo"
-      },
-      {
-        "id": "2026-06-07-cancer-drug-prices-raised-50-as-nppa-acts-on-shortage-concerns",
-        "title": "Cancer drug prices raised 50% as NPPA acts on shortage concerns",
-        "summary": "India's drug pricing authority has approved a 50% price hike for essential anti-cancer drugs carboplatin and cisplatin. This decision follows pleas from manufacturers citing soaring platinum costs. Anti-tetanus immunoglobulin drug prices also see an increase....",
-        "source": "Economic Times Pharma",
-        "sourceHost": "economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-06-11T16:01:13.000Z",
-        "publishedLabel": "June 11, 2026",
-        "category": "Industry Update",
-        "image": "https://img.etimg.com/thumb/msid-131663737,width-1200,height-630,imgsize-124024,overlay-economictimes/articleshow.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/cancer-drug-prices-raised-50-as-nppa-acts-on-shortage-concerns/articleshow/131663737.cms",
-        "articlePath": "/article.html?issue=2026-06-07&article=2026-06-07-cancer-drug-prices-raised-50-as-nppa-acts-on-shortage-concerns"
       },
       {
         "id": "2026-06-07-india-raises-price-cap-on-cancer-drugs-to-tackle-shortage",
@@ -276,14 +259,6 @@
     },
     {
       "segment": "pharma",
-      "articleId": "2026-06-07-cancer-drug-prices-raised-50-as-nppa-acts-on-shortage-concerns",
-      "title": "Cancer drug prices raised 50% as NPPA acts on shortage concerns",
-      "source": "Economic Times Pharma",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
-      "segment": "pharma",
       "articleId": "2026-06-07-india-raises-price-cap-on-cancer-drugs-to-tackle-shortage",
       "title": "India raises price cap on cancer drugs to tackle shortage",
       "source": "Economic Times Pharma",
@@ -305,6 +280,14 @@
       "source": "Economic Times Pharma",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "pharma",
+      "articleId": "2026-06-07-regulators-tighten-gmp-oversight-of-pharma-plants",
+      "title": "Regulators tighten GMP oversight of pharma plants",
+      "source": "Economic Times Pharma",
+      "solution": "THB Commercial Analytics",
+      "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
     },
     {
       "segment": "providers",
