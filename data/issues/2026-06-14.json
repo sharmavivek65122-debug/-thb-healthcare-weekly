@@ -5,12 +5,12 @@
   "startDate": "2026-06-13T18:30:00.000Z",
   "endDate": "2026-06-19T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-06-21T15:27:41.345Z",
+  "updatedAt": "2026-06-22T10:21:02.313Z",
   "coverage": {
-    "pharma": 50,
+    "pharma": 45,
     "providers": 5,
-    "diagnostics": 3,
-    "healthtech": 0
+    "diagnostics": 2,
+    "healthtech": 1
   },
   "sourcesUsed": [
     "ET Healthworld",
@@ -18,7 +18,6 @@
     "Economic Times Pharma",
     "Express Healthcare",
     "Financial Express Healthcare",
-    "Healthcare MEA",
     "Medical Dialogues Pharma",
     "PharmaTutor News"
   ],
@@ -178,23 +177,6 @@
         "articlePath": "/article.html?issue=2026-06-14&article=2026-06-14-maharashtra-fda-bars-hospitals-from-forcing-patients-to-buy-medicines-in"
       },
       {
-        "id": "2026-06-14-plan-in-the-works-to-let-hospitals-import-med-equipment-directly",
-        "title": "Plan in the works to let hospitals import med equipment directly",
-        "summary": "The proposed list has 80 items, including MRI machines, CT scanners, PET-CT systems, SPECT/SPECT-CT/Gamma cameras, mammography units and high-end X-ray equipment.",
-        "source": "ET Healthworld",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-06-20T01:10:08.000Z",
-        "publishedLabel": "June 20, 2026",
-        "category": "Industry Update",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-131869055,imgsize-81306,width-1200,height=627,overlay-ethealth,resizemode-75/medical-devices/plan-in-the-works-to-let-hospitals-import-med-equipment-directly.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/medical-devices/plan-in-the-works-to-let-hospitals-import-med-equipment-directly/131869055",
-        "articlePath": "/article.html?issue=2026-06-14&article=2026-06-14-plan-in-the-works-to-let-hospitals-import-med-equipment-directly"
-      },
-      {
         "id": "2026-06-14-iit-bombay-study-identifies-safer-pathway-to-tackle-cholesterol-fatty-li",
         "title": "IIT Bombay study identifies safer pathway to tackle cholesterol, fatty liver",
         "summary": "The mechanism can interrupt VLDL (very low-density lipoproteins) release from the liver by targeting the physical movement of lipid droplets instead of enzymes, receptors, or genes traditionally used for lowering lipids in the bloodstream, said the...",
@@ -227,40 +209,6 @@
         "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/us-ftc-imposes-divestment-condition-on-aurobindo-pharmas-250-mn-lannett-acquisition/articleshow/131837375.cms",
         "articlePath": "/article.html?issue=2026-06-14&article=2026-06-14-us-ftc-imposes-divestment-condition-on-aurobindo-pharma-s-250-mn-lannett"
-      },
-      {
-        "id": "2026-06-14-fssai-issues-notices-to-8-food-companies-for-misleading-healthy-claims-o",
-        "title": "FSSAI issues notices to 8 food companies for misleading 'healthy' claims on packaging, labels",
-        "summary": "FSSAI has issued notices to eight food companies, including Emami Healthy & Tasty, Neuherbs, Troovy and Plan B, for allegedly using misleading brand names, trade names and product claims that may violate food safety regulations.",
-        "source": "ET Healthworld",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-06-15T06:20:14.000Z",
-        "publishedLabel": "June 15, 2026",
-        "category": "Industry Update",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-131735347,imgsize-137610,width-1200,height=627,overlay-ethealth,resizemode-75/policy/fssai-issues-notices-to-8-food-companies-for-misleading-healthy-claims-on-packaging-labels.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/policy/fssai-issues-notices-to-8-food-companies-for-misleading-healthy-claims-on-packaging-labels/131735347",
-        "articlePath": "/article.html?issue=2026-06-14&article=2026-06-14-fssai-issues-notices-to-8-food-companies-for-misleading-healthy-claims-o"
-      },
-      {
-        "id": "2026-06-14-marengo-asia-hospitals-faridabad-launches-proctor-enabled-robotic-surger",
-        "title": "Marengo Asia Hospitals Faridabad launches proctor enabled robotic surgery program",
-        "summary": "Marengo Asia Hospitals, Faridabad has launched proctor enabled robotic surgery program to improve access to robotic knee replacement surgery in tier 2 and tier 3 cities.",
-        "source": "ET Healthworld",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-06-19T11:40:54.000Z",
-        "publishedLabel": "June 19, 2026",
-        "category": "Launch",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-131857896,imgsize-168220,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/marengo-asia-hospitals-faridabad-launches-proctor-enabled-robotic-surgery-program.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/marengo-asia-hospitals-faridabad-launches-proctor-enabled-robotic-surgery-program/131857896",
-        "articlePath": "/article.html?issue=2026-06-14&article=2026-06-14-marengo-asia-hospitals-faridabad-launches-proctor-enabled-robotic-surger"
       },
       {
         "id": "2026-06-14-kims-hospitals-brainlab-launch-south-asia-s-first-functional-neurosurger",
@@ -552,23 +500,6 @@
         "articlePath": "/article.html?issue=2026-06-14&article=2026-06-14-alembic-secures-usfda-tentative-approval-for-generic-cancer-drug-binimet"
       },
       {
-        "id": "2026-06-14-african-union-secures-us-910m-pledge-to-fight-bundibugyo-ebola-outbreak-",
-        "title": "African Union secures US$910M pledge to fight Bundibugyo Ebola outbreak | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
-        "summary": "The commitment was announced during a High-Level Emergency Meeting convened by H.E. Évariste Ndayishimiye, President of Burundi and Chairperson of the African Union.",
-        "source": "Healthcare MEA",
-        "sourceHost": "healthcaremea.com",
-        "region": "Middle East",
-        "country": "Middle East",
-        "publishedAt": "2026-06-19T08:59:54.000Z",
-        "publishedLabel": "June 19, 2026",
-        "category": "Manufacturing",
-        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/06/image-1600x900-2026-06-19T115343.606.png",
-        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": false,
-        "originalUrl": "https://www.healthcaremea.com/2026/06/19/african-union-secures-us910m-pledge-to-fight-bundibugyo-ebola-outbreak/",
-        "articlePath": "/article.html?issue=2026-06-14&article=2026-06-14-african-union-secures-us-910m-pledge-to-fight-bundibugyo-ebola-outbreak-"
-      },
-      {
         "id": "2026-06-14-cdsco-suspends-hcg-ethics-committee-for-2-years-debars-investigators-ove",
         "title": "CDSCO Suspends HCG Ethics Committee for 2 Years, Debars Investigators Over SAE Reporting Failures",
         "summary": "New Delhi: In a major regulatory crackdown on clinical trial oversight and conduct, the Central Drugs Standard Control Organization (CDSCO) has taken multiple actions against Bengaluru-based HCG...",
@@ -652,23 +583,6 @@
         "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/usfda-approves-gsks-utebzi-first-oral-carbapenem-for-complicated-urinary-tract-infections-173329",
         "articlePath": "/article.html?issue=2026-06-14&article=2026-06-14-usfda-approves-gsk-s-utebzi-first-oral-carbapenem-for-complicated-urinar"
-      },
-      {
-        "id": "2026-06-14-moscow-study-proves-ai-cannot-replace-human-emergency-radiologists-healt",
-        "title": "Moscow Study proves AI cannot replace human emergency radiologists | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
-        "summary": "The analysis showed that the best results were achieved when AI acted as a “second reader,” supporting physicians rather than replacing them.",
-        "source": "Healthcare MEA",
-        "sourceHost": "healthcaremea.com",
-        "region": "Middle East",
-        "country": "Middle East",
-        "publishedAt": "2026-06-19T07:50:44.000Z",
-        "publishedLabel": "June 19, 2026",
-        "category": "Manufacturing",
-        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/06/image-1600x900-2026-06-19T102714.088.png",
-        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": false,
-        "originalUrl": "https://www.healthcaremea.com/2026/06/19/moscow-study-proves-ai-cannot-replace-human-emergency-radiologists/",
-        "articlePath": "/article.html?issue=2026-06-14&article=2026-06-14-moscow-study-proves-ai-cannot-replace-human-emergency-radiologists-healt"
       },
       {
         "id": "2026-06-14-gpsc-invites-applications-for-senior-drug-inspector-posts-in-gujarat-hea",
@@ -877,6 +791,23 @@
     ],
     "providers": [
       {
+        "id": "2026-06-14-marengo-asia-hospitals-faridabad-launches-proctor-enabled-robotic-surger",
+        "title": "Marengo Asia Hospitals Faridabad launches proctor enabled robotic surgery program",
+        "summary": "Marengo Asia Hospitals, Faridabad has launched proctor enabled robotic surgery program to improve access to robotic knee replacement surgery in tier 2 and tier 3 cities.",
+        "source": "ET Healthworld Hospitals",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-06-19T11:40:54.000Z",
+        "publishedLabel": "June 19, 2026",
+        "category": "Hospital",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-131857896,imgsize-168220,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/marengo-asia-hospitals-faridabad-launches-proctor-enabled-robotic-surgery-program.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": false,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/marengo-asia-hospitals-faridabad-launches-proctor-enabled-robotic-surgery-program/131857896",
+        "articlePath": "/article.html?issue=2026-06-14&article=2026-06-14-marengo-asia-hospitals-faridabad-launches-proctor-enabled-robotic-surger"
+      },
+      {
         "id": "2026-06-14-cloudnine-s-25-stake-sale-attracts-top-global-pe-firms",
         "title": "Cloudnine's 25% stake sale attracts top global PE firms",
         "summary": "The proposed transaction is expected to value Cloudnine at about ₹11,000 crore (around $1.2 billion) and these investors are expected to begin due diligence shortly, with binding bids likely to be submitted by early August, the people said.",
@@ -943,26 +874,26 @@
         "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/manipal-hospitals-is-said-to-plan-1-billion-ipo-in-july/131830516",
         "articlePath": "/article.html?issue=2026-06-14&article=2026-06-14-manipal-hospitals-is-said-to-plan-1-billion-ipo-in-july"
-      },
+      }
+    ],
+    "diagnostics": [
       {
-        "id": "2026-06-14-dr-agarwals-eye-hospital-launches-new-advanced-eye-care-hospital-in-gudu",
-        "title": "Dr Agarwals Eye Hospital launches new advanced eye care hospital in Guduvanchery, Chennai",
-        "summary": "Dr Agarwals Eye Hospital, one of India’s largest and most trusted eye care chains, has inaugurated its new state-of-the-art eye hospital in Guduvanchery, the emerging suburb of Chennai, marking a significant milestone in strengthening access to advan",
+        "id": "2026-06-14-the-role-of-degree-apprenticeships-in-tier-ii-and-iii-cities",
+        "title": "The role of degree apprenticeships in tier II and III cities",
+        "summary": "India’s healthcare sector is entering a new phase of expansion. Healthcare delivery is no longer concentrated in metro cities alone. Hospital chains, diagnostic networks, telemedicine providers, and allied healthcare services are rapidly expanding in",
         "source": "Express Healthcare",
         "sourceHost": "expresshealthcare.in",
         "region": "India",
         "country": "India",
-        "publishedAt": "2026-06-18T10:20:46.000Z",
-        "publishedLabel": "June 18, 2026",
-        "category": "Hospital",
-        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/06/18155025/EH_Dr-Agarwals.jpg",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "publishedAt": "2026-06-20T10:30:19.000Z",
+        "publishedLabel": "June 20, 2026",
+        "category": "Diagnostics",
+        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/06/19171719/EH_Dr-Nipun.jpg",
+        "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
         "justIn": false,
-        "originalUrl": "https://www.expresshealthcare.in/news/dr-agarwals-eye-hospital-launches-new-advanced-eye-care-hospital-in-guduvanchery-chennai/454006/",
-        "articlePath": "/article.html?issue=2026-06-14&article=2026-06-14-dr-agarwals-eye-hospital-launches-new-advanced-eye-care-hospital-in-gudu"
-      }
-    ],
-    "diagnostics": [
+        "originalUrl": "https://www.expresshealthcare.in/news/the-role-of-degree-apprenticeships-in-tier-ii-and-iii-cities/454037/",
+        "articlePath": "/article.html?issue=2026-06-14&article=2026-06-14-the-role-of-degree-apprenticeships-in-tier-ii-and-iii-cities"
+      },
       {
         "id": "2026-06-14-ima-declares-june-21-as-vitamin-d-day-of-india-in-collaboration-with-abb",
         "title": "IMA declares June 21 as ‘Vitamin D Day of India’ in collaboration with Abbott",
@@ -979,43 +910,27 @@
         "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/news/ima-declares-june-21-as-vitamin-d-day-of-india-in-collaboration-with-abbott/454032/",
         "articlePath": "/article.html?issue=2026-06-14&article=2026-06-14-ima-declares-june-21-as-vitamin-d-day-of-india-in-collaboration-with-abb"
-      },
-      {
-        "id": "2026-06-14-dp-world-subsidiary-wins-top-dubai-neurotechnology-innovation-award-in-2",
-        "title": "DP World subsidiary wins top Dubai Neurotechnology Innovation Award in 2026 | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
-        "summary": "The award places the Centre among the leading innovators in healthcare, particularly in neurotechnology and personalised rehabilitation.",
-        "source": "Healthcare MEA",
-        "sourceHost": "healthcaremea.com",
-        "region": "Middle East",
-        "country": "United Arab Emirates",
-        "publishedAt": "2026-06-19T09:07:56.000Z",
-        "publishedLabel": "June 19, 2026",
-        "category": "Industry Update",
-        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/06/image-1600x900-2026-06-19T120259.729.png",
-        "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
-        "justIn": false,
-        "originalUrl": "https://www.healthcaremea.com/2026/06/19/dp-world-subsidiary-wins-top-dubai-neurotechnology-innovation-award-in-2026/",
-        "articlePath": "/article.html?issue=2026-06-14&article=2026-06-14-dp-world-subsidiary-wins-top-dubai-neurotechnology-innovation-award-in-2"
-      },
-      {
-        "id": "2026-06-14-purehealth-subsidiary-daman-leverages-preventive-screening-to-curb-long-",
-        "title": "PureHealth subsidiary Daman leverages preventive screening to curb long-term healthcare costs",
-        "summary": "The insurer is using claims data to better understand emerging health risks, with eye health now identified as one of the most significant and fast-growing areas of concern.",
-        "source": "Healthcare MEA",
-        "sourceHost": "healthcaremea.com",
-        "region": "Middle East",
-        "country": "United Arab Emirates",
-        "publishedAt": "2026-06-19T08:50:40.000Z",
-        "publishedLabel": "June 19, 2026",
-        "category": "Screening",
-        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/06/image-1600x900-2026-06-19T114528.695.png",
-        "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
-        "justIn": false,
-        "originalUrl": "https://www.healthcaremea.com/2026/06/19/purehealth-subsidiary-daman-leverages-preventive-screening-to-curb-long-term-healthcare-costs/",
-        "articlePath": "/article.html?issue=2026-06-14&article=2026-06-14-purehealth-subsidiary-daman-leverages-preventive-screening-to-curb-long-"
       }
     ],
-    "healthtech": []
+    "healthtech": [
+      {
+        "id": "2026-06-14-quadria-group-announces-first-close-commitments-for-fund-iii",
+        "title": "Quadria Group announces first close commitments for fund III",
+        "summary": "Quadria Group backed HealthQuad, India's leading early-growth healthcare investor - announced first close commitments of INR 550 crores for HealthQuad Fund III, at more than one-third of the target fund size of INR 1700 crores. The contributors inclu",
+        "source": "Express Healthcare",
+        "sourceHost": "expresshealthcare.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-06-19T08:24:19.000Z",
+        "publishedLabel": "June 19, 2026",
+        "category": "Industry Update",
+        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/06/19135400/EH_Sunil.jpg",
+        "thbAction": "",
+        "justIn": false,
+        "originalUrl": "https://www.expresshealthcare.in/news/quadria-group-announces-first-close-commitments-for-fund-iii/454028/",
+        "articlePath": "/article.html?issue=2026-06-14&article=2026-06-14-quadria-group-announces-first-close-commitments-for-fund-iii"
+      }
+    ]
   },
   "thbActions": [
     {
@@ -1060,6 +975,14 @@
     },
     {
       "segment": "providers",
+      "articleId": "2026-06-14-marengo-asia-hospitals-faridabad-launches-proctor-enabled-robotic-surger",
+      "title": "Marengo Asia Hospitals Faridabad launches proctor enabled robotic surgery program",
+      "source": "ET Healthworld Hospitals",
+      "solution": "THB Provider CRM",
+      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
+    },
+    {
+      "segment": "providers",
       "articleId": "2026-06-14-cloudnine-s-25-stake-sale-attracts-top-global-pe-firms",
       "title": "Cloudnine's 25% stake sale attracts top global PE firms",
       "source": "ET Healthworld Hospitals",
@@ -1091,34 +1014,18 @@
       "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
     },
     {
-      "segment": "providers",
-      "articleId": "2026-06-14-dr-agarwals-eye-hospital-launches-new-advanced-eye-care-hospital-in-gudu",
-      "title": "Dr Agarwals Eye Hospital launches new advanced eye care hospital in Guduvanchery, Chennai",
+      "segment": "diagnostics",
+      "articleId": "2026-06-14-the-role-of-degree-apprenticeships-in-tier-ii-and-iii-cities",
+      "title": "The role of degree apprenticeships in tier II and III cities",
       "source": "Express Healthcare",
-      "solution": "THB Provider CRM",
-      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
+      "solution": "THB Diagnostics CRM",
+      "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
     },
     {
       "segment": "diagnostics",
       "articleId": "2026-06-14-ima-declares-june-21-as-vitamin-d-day-of-india-in-collaboration-with-abb",
       "title": "IMA declares June 21 as ‘Vitamin D Day of India’ in collaboration with Abbott",
       "source": "Express Healthcare",
-      "solution": "THB Diagnostics CRM",
-      "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
-    },
-    {
-      "segment": "diagnostics",
-      "articleId": "2026-06-14-dp-world-subsidiary-wins-top-dubai-neurotechnology-innovation-award-in-2",
-      "title": "DP World subsidiary wins top Dubai Neurotechnology Innovation Award in 2026 | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
-      "source": "Healthcare MEA",
-      "solution": "THB Diagnostics CRM",
-      "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
-    },
-    {
-      "segment": "diagnostics",
-      "articleId": "2026-06-14-purehealth-subsidiary-daman-leverages-preventive-screening-to-curb-long-",
-      "title": "PureHealth subsidiary Daman leverages preventive screening to curb long-term healthcare costs",
-      "source": "Healthcare MEA",
       "solution": "THB Diagnostics CRM",
       "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
     }
