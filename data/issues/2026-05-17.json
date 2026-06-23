@@ -5,14 +5,15 @@
   "startDate": "2026-05-16T18:30:00.000Z",
   "endDate": "2026-05-22T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-06-23T08:03:14.545Z",
+  "updatedAt": "2026-06-23T16:11:06.044Z",
   "coverage": {
-    "pharma": 1,
+    "pharma": 2,
     "providers": 6,
     "diagnostics": 2,
     "healthtech": 0
   },
   "sourcesUsed": [
+    "BioSpectrum Asia Middle East",
     "ET Healthworld Diagnostics",
     "ET Healthworld Hospitals",
     "Lupin Updates"
@@ -35,6 +36,23 @@
         "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/markets/stocks/news/bernstein-initiates-coverage-on-6-pharma-stocks-cites-3-major-tailwinds-for-healthcare-sector/articleshow/131260196.cms",
         "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-bernstein-initiates-coverage-on-6-pharma-stocks-cites-3-major-tailwinds-"
+      },
+      {
+        "id": "2026-05-17-samsung-bioepis-launches-ustekinumab-biosimilar-in-japan",
+        "title": "Samsung Bioepis launches Ustekinumab biosimilar in Japan",
+        "summary": "Samsung Bioepis launches Ustekinumab biosimilar in Japan",
+        "source": "BioSpectrum Asia Middle East",
+        "sourceHost": "biospectrumasia.com",
+        "region": "Middle East",
+        "country": "Oman",
+        "publishedAt": "2026-05-19T18:30:00.000Z",
+        "publishedLabel": "May 20, 2026",
+        "category": "Launch",
+        "image": "https://www.biospectrumasia.com/uploads/articles/screenshot_20_5_2026_22456_www_bing_com-27665.jpeg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": false,
+        "originalUrl": "https://www.biospectrumasia.com/news/25/27665/samsung-bioepis-launches-ustekinumab-biosimilar-in-japan.html",
+        "articlePath": "/article.html?issue=2026-05-17&article=2026-05-17-samsung-bioepis-launches-ustekinumab-biosimilar-in-japan"
       }
     ],
     "providers": [
@@ -187,6 +205,14 @@
       "source": "Lupin Updates",
       "solution": "THB Commercial Analytics",
       "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
+    },
+    {
+      "segment": "pharma",
+      "articleId": "2026-05-17-samsung-bioepis-launches-ustekinumab-biosimilar-in-japan",
+      "title": "Samsung Bioepis launches Ustekinumab biosimilar in Japan",
+      "source": "BioSpectrum Asia Middle East",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
     },
     {
       "segment": "providers",

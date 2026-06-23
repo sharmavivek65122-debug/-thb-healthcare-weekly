@@ -5,11 +5,11 @@
   "startDate": "2026-06-20T18:30:00.000Z",
   "endDate": "2026-06-26T18:30:00.000Z",
   "status": "live",
-  "updatedAt": "2026-06-23T08:03:14.545Z",
+  "updatedAt": "2026-06-23T16:11:06.044Z",
   "coverage": {
-    "pharma": 24,
-    "providers": 6,
-    "diagnostics": 4,
+    "pharma": 29,
+    "providers": 5,
+    "diagnostics": 7,
     "healthtech": 1
   },
   "sourcesUsed": [
@@ -18,6 +18,7 @@
     "Economic Times Pharma",
     "Express Healthcare",
     "Healthcare MEA",
+    "Lupin Updates",
     "Medical Dialogues Pharma",
     "PharmaTutor News"
   ],
@@ -39,6 +40,40 @@
         "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/aurobindo-pharma-usa-gets-ftc-nod-for-250-million-acquisition-of-lannett-company/articleshow/131900251.cms",
         "articlePath": "/article.html?issue=2026-06-21&article=2026-06-21-aurobindo-pharma-us-gets-ftc-nod-for-250-million-acquisition-of-lannett-"
+      },
+      {
+        "id": "2026-06-21-india-s-pharma-supply-chain-remains-65-per-cent-dependent-on-china-for-c",
+        "title": "India's pharma supply chain remains 65 per cent dependent on China for critical inputs: NITI Aayog",
+        "summary": "India's pharmaceutical sector, despite being the pharmacy of the world, faces significant reliance on China for raw materials, with nearly 65% of APIs and intermediates sourced from there. NITI Aayog's report highlights supply chain vulnerabilities and calls...",
+        "source": "Economic Times Pharma",
+        "sourceHost": "economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-06-23T11:03:11.000Z",
+        "publishedLabel": "June 23, 2026",
+        "category": "Industry Update",
+        "image": "https://img.etimg.com/thumb/msid-131934860,width-1200,height-630,imgsize-66816,overlay-economictimes/articleshow.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/indias-pharma-supply-chain-remains-65-per-cent-dependent-on-china-for-critical-inputs-niti-aayog/articleshow/131934774.cms",
+        "articlePath": "/article.html?issue=2026-06-21&article=2026-06-21-india-s-pharma-supply-chain-remains-65-per-cent-dependent-on-china-for-c"
+      },
+      {
+        "id": "2026-06-21-healthium-medtech-ceo-anish-bafna-steps-down-moves-to-non-executive-chai",
+        "title": "Healthium Medtech CEO Anish Bafna steps down, moves to non-executive chairman role",
+        "summary": "The company is expected to appoint a new chief executive within the next month. Bafna will play an active role in the selection and onboarding of his successor as part of a planned leadership transition, the sources said.",
+        "source": "ET Healthworld",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-06-23T10:13:28.000Z",
+        "publishedLabel": "June 23, 2026",
+        "category": "Industry Update",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-131933448,imgsize-72560,width-1200,height=627,overlay-ethealth,resizemode-75/medical-devices/healthium-medtech-ceo-anish-bafna-steps-down-moves-to-non-executive-chairman-role.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/medical-devices/healthium-medtech-ceo-anish-bafna-steps-down-moves-to-non-executive-chairman-role/131933448",
+        "articlePath": "/article.html?issue=2026-06-21&article=2026-06-21-healthium-medtech-ceo-anish-bafna-steps-down-moves-to-non-executive-chai"
       },
       {
         "id": "2026-06-21-central-drugs-laboratories-find-46-drug-samples-not-of-standard-quality-",
@@ -70,9 +105,26 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-131927631,imgsize-1187438,width-1200,height=627,overlay-ethealth,resizemode-75/industry/hyd-student-develops-ai-model-for-early-lung-cancer-detection.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/hyd-student-develops-ai-model-for-early-lung-cancer-detection/131927631",
         "articlePath": "/article.html?issue=2026-06-21&article=2026-06-21-hyd-student-develops-ai-model-for-early-lung-cancer-detection"
+      },
+      {
+        "id": "2026-06-21-nmc-to-end-pg-diploma-courses-shift-seats-to-md-ms-programmes",
+        "title": "NMC to end PG diploma courses, shift seats to MD/MS programmes",
+        "summary": "NMC on Monday directed all medical colleges and institutions offering PG diploma courses to apply for conversion of these seats into corresponding MD/MS seats through the Medical Assessment and Rating Board (MARB).",
+        "source": "ET Healthworld",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-06-23T10:34:35.000Z",
+        "publishedLabel": "June 23, 2026",
+        "category": "Industry Update",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-131934033,imgsize-147052,width-1200,height=627,overlay-ethealth,resizemode-75/education/nmc-to-end-pg-diploma-courses-shift-seats-to-md/ms-programmes.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/education/nmc-to-end-pg-diploma-courses-shift-seats-to-md/ms-programmes/131934033",
+        "articlePath": "/article.html?issue=2026-06-21&article=2026-06-21-nmc-to-end-pg-diploma-courses-shift-seats-to-md-ms-programmes"
       },
       {
         "id": "2026-06-21-more-than-200-govt-doctors-on-long-unauthorised-absence-in-tamil-nadu",
@@ -87,7 +139,7 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-131927291,imgsize-47874,width-1200,height=627,overlay-ethealth,resizemode-75/industry/more-than-200-govt-doctors-on-long-unauthorised-absence-in-tamil-nadu.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/more-than-200-govt-doctors-on-long-unauthorised-absence-in-tamil-nadu/131927291",
         "articlePath": "/article.html?issue=2026-06-21&article=2026-06-21-more-than-200-govt-doctors-on-long-unauthorised-absence-in-tamil-nadu"
       },
@@ -104,7 +156,7 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-131922525,imgsize-74204,width-1200,height=627,overlay-ethealth,resizemode-75/industry/study-identifies-74-locations-in-human-genome-related-to-anxiety-symptoms.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/study-identifies-74-locations-in-human-genome-related-to-anxiety-symptoms/131922525",
         "articlePath": "/article.html?issue=2026-06-21&article=2026-06-21-study-identifies-74-locations-in-human-genome-related-to-anxiety-symptom"
       },
@@ -121,7 +173,7 @@
         "category": "Industry Update",
         "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/06/23114510/New-Project-1-6.jpg",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/news/speed-without-reliability-is-counterproductive-in-healthcare/454060/",
         "articlePath": "/article.html?issue=2026-06-21&article=2026-06-21-speed-without-reliability-is-counterproductive-in-healthcare"
       },
@@ -143,6 +195,23 @@
         "articlePath": "/article.html?issue=2026-06-21&article=2026-06-21-lubrizol-and-polyhose-inaugurate-advanced-medical-tubing-facility-in-che"
       },
       {
+        "id": "2026-06-21-abbvie-solidifies-immunology-dominance-with-us-10-9b-cash-acquisition-of",
+        "title": "AbbVie solidifies immunology dominance with US$10.9B cash acquisition of Apogee | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
+        "summary": "The acquisition ranks among AbbVie’s largest transactions in recent years and reflects the company’s strategy to expand its next-generation immunology medicines as competition intensifies across t ...",
+        "source": "Healthcare MEA",
+        "sourceHost": "healthcaremea.com",
+        "region": "Middle East",
+        "country": "Middle East",
+        "publishedAt": "2026-06-23T08:18:00.000Z",
+        "publishedLabel": "June 23, 2026",
+        "category": "Manufacturing",
+        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/06/image-1600x900-2026-06-23T091822.924.png",
+        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
+        "justIn": true,
+        "originalUrl": "https://www.healthcaremea.com/2026/06/23/abbvie-solidifies-immunology-dominance-with-us10-9b-cash-acquisition-of-apogee/",
+        "articlePath": "/article.html?issue=2026-06-21&article=2026-06-21-abbvie-solidifies-immunology-dominance-with-us-10-9b-cash-acquisition-of"
+      },
+      {
         "id": "2026-06-21-biogen-expands-immunology-footprint-with-us-1b-acquisition-of-raythera-h",
         "title": "Biogen expands immunology footprint with US$1B acquisition of RayThera | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
         "summary": "Under the agreement, Biogen will integrate RayThera’s portfolio of anti-inflammatory and immune-modulating candidates into its broader research and development engine.",
@@ -155,7 +224,7 @@
         "category": "Manufacturing",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/06/image-1600x900-2026-06-23T090503.188.png",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/06/23/biogen-expands-immunology-footprint-with-us1b-acquisition-of-raythera/",
         "articlePath": "/article.html?issue=2026-06-21&article=2026-06-21-biogen-expands-immunology-footprint-with-us-1b-acquisition-of-raythera-h"
       },
@@ -175,6 +244,40 @@
         "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/06/22/curegene-administers-first-patient-in-pivotal-us-trial-of-antiplatelet-evategrel/",
         "articlePath": "/article.html?issue=2026-06-21&article=2026-06-21-curegene-administers-first-patient-in-pivotal-us-trial-of-antiplatelet-e"
+      },
+      {
+        "id": "2026-06-21-sun-pharma-expands-domestic-footprint-with-us-28-7m-innovcare-lifescienc",
+        "title": "Sun Pharma expands domestic footprint with US$28.7M Innovcare Lifesciences acquisition | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
+        "summary": "Mumbai-based Innovcare Lifesciences operates across the Indian market and focuses on marketing, distributing, and selling pharmaceutical products, nutraceuticals, and cosmeceuticals.",
+        "source": "Healthcare MEA",
+        "sourceHost": "healthcaremea.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-06-23T08:10:00.000Z",
+        "publishedLabel": "June 23, 2026",
+        "category": "Manufacturing",
+        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/06/image-1600x900-2026-06-23T091216.439.png",
+        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
+        "justIn": true,
+        "originalUrl": "https://www.healthcaremea.com/2026/06/23/sun-pharma-expands-domestic-footprint-with-us28-7m-innovcare-lifesciences-acquisition/",
+        "articlePath": "/article.html?issue=2026-06-21&article=2026-06-21-sun-pharma-expands-domestic-footprint-with-us-28-7m-innovcare-lifescienc"
+      },
+      {
+        "id": "2026-06-21-kemwell-biopharma-gets-cdsco-panel-nod-for-clinical-study-of-dupilumab-b",
+        "title": "Kemwell Biopharma Gets CDSCO Panel Nod for Clinical Study of Dupilumab Biosimilar ASP100",
+        "summary": "In a significant development in the biosimilar segment, the Subject Expert Committee (SEC) on Dermatology & Allergy has recommended granting permission to M/s Kemwell Biopharma Private Limited to conduct a comparative pharmacokinetic clinical study for its...",
+        "source": "PharmaTutor News",
+        "sourceHost": "pharmatutor.org",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-06-23T10:52:04.000Z",
+        "publishedLabel": "June 23, 2026",
+        "category": "Industry Update",
+        "image": "https://www.pharmatutor.org/sites/default/files/styles/webp/public/2026-06/kemwell-biopharma-gets-cdsco-panel-nod-for-clinical-study-of-dupilumab-biosimilar-asp100.png.webp?itok=BebkPaE5",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/kemwell-biopharma-gets-cdsco-panel-nod-for-clinical-study-of-dupilumab-biosimilar-asp100",
+        "articlePath": "/article.html?issue=2026-06-21&article=2026-06-21-kemwell-biopharma-gets-cdsco-panel-nod-for-clinical-study-of-dupilumab-b"
       },
       {
         "id": "2026-06-21-sun-pharma-buys-mumbai-based-innovcare-lifesciences-in-rs-271-crore-deal",
@@ -226,40 +329,6 @@
         "justIn": false,
         "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/alembic-gains-strategic-edge-in-us-oncology-market-with-tentative-approval-for-binimetinib-45-mg-tablets",
         "articlePath": "/article.html?issue=2026-06-21&article=2026-06-21-alembic-gains-strategic-edge-in-us-oncology-market-with-tentative-approv"
-      },
-      {
-        "id": "2026-06-21-ftc-orders-aurobindo-to-divest-four-generic-drugs-to-complete-lannett-bu",
-        "title": "FTC orders Aurobindo to divest four generic drugs to complete Lannett buyout | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
-        "summary": "The Commission argued that without the divestitures, the merged company could gain the ability to exert unilateral control over pricing in these markets.",
-        "source": "Healthcare MEA",
-        "sourceHost": "healthcaremea.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-06-22T07:33:00.000Z",
-        "publishedLabel": "June 22, 2026",
-        "category": "Manufacturing",
-        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/06/image-1600x900-2026-06-22T094615.438.png",
-        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": false,
-        "originalUrl": "https://www.healthcaremea.com/2026/06/22/ftc-orders-aurobindo-to-divest-four-generic-drugs-to-complete-lannett-buyout/",
-        "articlePath": "/article.html?issue=2026-06-21&article=2026-06-21-ftc-orders-aurobindo-to-divest-four-generic-drugs-to-complete-lannett-bu"
-      },
-      {
-        "id": "2026-06-21-aviadobio-expands-king-s-college-london-license-for-vmix-gene-silencing-",
-        "title": "AviadoBio expands King's College London license for vMiX Gene Silencing Platform | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
-        "summary": "This broader licence gives AviadoBio the flexibility to explore new development pathways and external collaborations while continuing to advance its central nervous system pipeline.",
-        "source": "Healthcare MEA",
-        "sourceHost": "healthcaremea.com",
-        "region": "Middle East",
-        "country": "Middle East",
-        "publishedAt": "2026-06-22T07:13:30.000Z",
-        "publishedLabel": "June 22, 2026",
-        "category": "Manufacturing",
-        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/06/image-1600x900-2026-06-22T095739.399.png",
-        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": false,
-        "originalUrl": "https://www.healthcaremea.com/2026/06/22/aviadobio-expands-kings-college-london-license-for-vmix-gene-silencing-platform/",
-        "articlePath": "/article.html?issue=2026-06-21&article=2026-06-21-aviadobio-expands-king-s-college-london-license-for-vmix-gene-silencing-"
       },
       {
         "id": "2026-06-21-fda-advisory-panel-backs-moderna-s-mrna-flu-vaccine-for-adults-aged-50-a",
@@ -330,6 +399,23 @@
         "articlePath": "/article.html?issue=2026-06-21&article=2026-06-21-pfizer-cfo-dave-denton-to-step-down-cecile-guegan-named-interim-finance-"
       },
       {
+        "id": "2026-06-21-sun-pharma-expands-healthcare-portfolio-with-271-crore-acquisition-of-in",
+        "title": "Sun Pharma Expands Healthcare Portfolio with ₹271 Crore Acquisition of Innovcare Lifesciences",
+        "summary": "Sun Pharmaceutical Industries Ltd. has announced the acquisition of Innovcare Lifesciences Private Limited. The deal, valued at approximately ₹271.2 crore, will give Sun Pharma complete ownership of the Mumbai-based healthcare company.",
+        "source": "PharmaTutor News",
+        "sourceHost": "pharmatutor.org",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-06-23T11:09:58.000Z",
+        "publishedLabel": "June 23, 2026",
+        "category": "Deal",
+        "image": "https://www.pharmatutor.org/sites/default/files/styles/webp/public/2026-06/sun-pharma-expands-healthcare-portfolio-with-271-crore-acquisition-of-innovcare-lifesciences.png.webp?itok=XWcLMfsZ",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/sun-pharma-expands-healthcare-portfolio-with-271-crore-acquisition-of-innovcare-lifesciences",
+        "articlePath": "/article.html?issue=2026-06-21&article=2026-06-21-sun-pharma-expands-healthcare-portfolio-with-271-crore-acquisition-of-in"
+      },
+      {
         "id": "2026-06-21-pharma-firm-director-customs-broker-arrested-over-controlled-substance-e",
         "title": "Pharma Firm Director, Customs Broker Arrested Over Controlled Substance Export",
         "summary": "Mumbai: The Customs Special Intelligence and Investigation Branch (SIIB-Export), Mumbai Zone-III, has arrested the director of a pharmaceutical company and a customs broker director for allegedly...",
@@ -345,23 +431,6 @@
         "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/pharma-firm-director-customs-broker-arrested-over-controlled-substance-export-173335",
         "articlePath": "/article.html?issue=2026-06-21&article=2026-06-21-pharma-firm-director-customs-broker-arrested-over-controlled-substance-e"
-      },
-      {
-        "id": "2026-06-21-novo-nordisk-launches-protein-production-at-bohumil-facility-in-czechia-",
-        "title": "Novo Nordisk launches protein production at Bohumil facility in Czechia | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
-        "summary": "Novo Nordisk invested 3.5 billion Czech koruna (US$168 million) in modernisation works following its US$200 million acquisition of the facility.",
-        "source": "Healthcare MEA",
-        "sourceHost": "healthcaremea.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-06-21T07:37:13.000Z",
-        "publishedLabel": "June 21, 2026",
-        "category": "Manufacturing",
-        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/06/image-1600x900-2026-06-21T103054.676.png",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://www.healthcaremea.com/2026/06/21/novo-nordisk-launches-protein-production-at-bohumil-facility-in-czechia/",
-        "articlePath": "/article.html?issue=2026-06-21&article=2026-06-21-novo-nordisk-launches-protein-production-at-bohumil-facility-in-czechia-"
       },
       {
         "id": "2026-06-21-pharma-promoter-faces-cbi-probe-over-alleged-rs-57-crore-bank-loan-scam",
@@ -396,6 +465,23 @@
         "justIn": false,
         "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/mercks-tulisokibart-clears-key-phase-3-hurdle-raising-hopes-for-ulcerative-colitis-patients",
         "articlePath": "/article.html?issue=2026-06-21&article=2026-06-21-merck-s-tulisokibart-clears-key-phase-3-hurdle-raising-hopes-for-ulcerat"
+      },
+      {
+        "id": "2026-06-21-karnataka-proposes-defence-manufacturing-policy-consultations",
+        "title": "Karnataka proposes defence manufacturing policy consultations",
+        "summary": "Karnataka is spearheading efforts to bolster India's defence manufacturing capabilities with a proposed long-term policy, a dedicated single-window facilitation cell, and defence manufacturing clusters. These initiatives, discussed at a recent stakeholder...",
+        "source": "Lupin Updates",
+        "sourceHost": "economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-06-23T15:40:00.000Z",
+        "publishedLabel": "June 23, 2026",
+        "category": "Manufacturing",
+        "image": "https://img.etimg.com/thumb/msid-131942820,width-1200,height-630,imgsize-253262,overlay-etdefence/articleshow.jpg",
+        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
+        "justIn": true,
+        "originalUrl": "https://economictimes.indiatimes.com/news/defence/karnataka-proposes-defence-manufacturing-policy-consultations/articleshow/131942813.cms",
+        "articlePath": "/article.html?issue=2026-06-21&article=2026-06-21-karnataka-proposes-defence-manufacturing-policy-consultations"
       },
       {
         "id": "2026-06-21-india-prohibits-16-fixed-dose-drug-combinations-following-expert-safety-",
@@ -434,21 +520,21 @@
     ],
     "providers": [
       {
-        "id": "2026-06-21-family-isn-t-an-option-it-s-a-necessity",
-        "title": "Family isn't an option, it's a necessity",
-        "summary": "Dr Ramakanta Panda, renowned heart surgeon and Chairman of Asian Heart Institute, Mumbai, built it into one of India's most respected cardiac care institutions. As the hospital enters its next phase, his children, Saswat Panda and Sonal Panda, are st",
+        "id": "2026-06-21-fortis-hospital-mulund-strengthens-footprint-with-the-launch-of-fortis-m",
+        "title": "Fortis Hospital Mulund strengthens footprint with the Launch of Fortis Medical Centre at Ulhasnagar",
+        "summary": "Fortis Hospital Mulund inaugurated its new Fortis Medical Centre in Ulhasnagar, extending specialized outpatient care to residents of Ulhasnagar and the neighbouring areas. This extension is a step forward in the group's mission to bring quality heal",
         "source": "Express Healthcare",
         "sourceHost": "expresshealthcare.in",
         "region": "India",
         "country": "India",
-        "publishedAt": "2026-06-21T04:00:11.000Z",
-        "publishedLabel": "June 21, 2026",
+        "publishedAt": "2026-06-23T10:12:39.000Z",
+        "publishedLabel": "June 23, 2026",
         "category": "Hospital",
-        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/06/20235426/New-Project-2-2-2.jpg",
+        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/06/23154221/EH_Fortis-2.jpg",
         "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://www.expresshealthcare.in/news/family-isnt-an-option-its-a-necessity/454040/",
-        "articlePath": "/article.html?issue=2026-06-21&article=2026-06-21-family-isn-t-an-option-it-s-a-necessity"
+        "justIn": true,
+        "originalUrl": "https://www.expresshealthcare.in/news/fortis-hospital-mulund-strengthens-footprint-with-the-launch-of-fortis-medical-centre-at-ulhasnagar/454069/",
+        "articlePath": "/article.html?issue=2026-06-21&article=2026-06-21-fortis-hospital-mulund-strengthens-footprint-with-the-launch-of-fortis-m"
       },
       {
         "id": "2026-06-21-manappuram-foundation-spotlights-digital-dementia-calls-for-greater-awar",
@@ -463,7 +549,7 @@
         "category": "AI Care Delivery",
         "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/06/23111845/New-Project-6.jpg",
         "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/news/manappuram-foundation-spotlights-digital-dementia-calls-for-greater-awareness-on-technologys-cognitive-impact/454057/",
         "articlePath": "/article.html?issue=2026-06-21&article=2026-06-21-manappuram-foundation-spotlights-digital-dementia-calls-for-greater-awar"
       },
@@ -480,26 +566,26 @@
         "category": "Policy",
         "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/06/22165820/EH_PolicyBazaar.jpg",
         "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/news/policybazaar-unveils-health-claims-experience-index-in-second-edition-of-its-health-claims-report/454054/",
         "articlePath": "/article.html?issue=2026-06-21&article=2026-06-21-policybazaar-unveils-health-claims-experience-index-in-second-edition-of"
       },
       {
-        "id": "2026-06-21-smc-healthcare-consortium-wins-us-1b-contract-for-sabic-behavioural-hosp",
-        "title": "SMC Healthcare Consortium wins US$1B contract for SABIC Behavioural Hospital",
-        "summary": "The project forms part of the Kingdom’s broader efforts to strengthen mental health services while expanding private sector participation in healthcare delivery under the Health Sector Transformat ...",
+        "id": "2026-06-21-skmca-ajman-secures-level-4-psfhi-accreditation-in-uae-healthcare-middle",
+        "title": "SKMCA Ajman secures Level 4 PSFHI accreditation in UAE | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
+        "summary": "Evaluators examined how the hospital manages patient care across multiple departments, including safety protocols, infection control, medication handling, and continuous quality improvement processes.",
         "source": "Healthcare MEA",
         "sourceHost": "healthcaremea.com",
         "region": "Middle East",
-        "country": "Saudi Arabia",
-        "publishedAt": "2026-06-22T07:22:58.000Z",
-        "publishedLabel": "June 22, 2026",
+        "country": "United Arab Emirates",
+        "publishedAt": "2026-06-23T08:25:51.000Z",
+        "publishedLabel": "June 23, 2026",
         "category": "Hospital",
-        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/06/image-1600x900-2026-06-22T131712.247.png",
+        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/06/image-1600x900-2026-06-23T112047.041.png",
         "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://www.healthcaremea.com/2026/06/22/smc-healthcare-consortium-wins-us1b-contract-for-sabic-behavioural-hospital/",
-        "articlePath": "/article.html?issue=2026-06-21&article=2026-06-21-smc-healthcare-consortium-wins-us-1b-contract-for-sabic-behavioural-hosp"
+        "justIn": true,
+        "originalUrl": "https://www.healthcaremea.com/2026/06/23/skmca-ajman-secures-level-4-psfhi-accreditation-in-uae/",
+        "articlePath": "/article.html?issue=2026-06-21&article=2026-06-21-skmca-ajman-secures-level-4-psfhi-accreditation-in-uae-healthcare-middle"
       },
       {
         "id": "2026-06-21-sultan-bin-abdulaziz-humanitarian-city-earns-prestigious-himss-emram-sta",
@@ -517,23 +603,6 @@
         "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/06/22/sultan-bin-abdulaziz-humanitarian-city-earns-prestigious-himss-emram-stage-7-accreditation/",
         "articlePath": "/article.html?issue=2026-06-21&article=2026-06-21-sultan-bin-abdulaziz-humanitarian-city-earns-prestigious-himss-emram-sta"
-      },
-      {
-        "id": "2026-06-21-kenya-launches-ewene-acceleration-plan-2026-to-reduce-maternal-mortality",
-        "title": "Kenya launches EWENE Acceleration Plan 2026 to reduce maternal mortality | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
-        "summary": "Through a partnership between the Ministry of Health and the WHO, 108 electric obstetric beds and essential maternal health commodities valued at KSh43 million (US$333,000) are being distributed t ...",
-        "source": "Healthcare MEA",
-        "sourceHost": "healthcaremea.com",
-        "region": "Middle East",
-        "country": "Oman",
-        "publishedAt": "2026-06-22T07:48:40.000Z",
-        "publishedLabel": "June 22, 2026",
-        "category": "Provider Update",
-        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/06/image-1600x900-2026-06-22T104420.495.png",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://www.healthcaremea.com/2026/06/22/kenya-launches-ewene-acceleration-plan-2026-to-reduce-maternal-mortality/",
-        "articlePath": "/article.html?issue=2026-06-21&article=2026-06-21-kenya-launches-ewene-acceleration-plan-2026-to-reduce-maternal-mortality"
       }
     ],
     "diagnostics": [
@@ -572,6 +641,23 @@
         "articlePath": "/article.html?issue=2026-06-21&article=2026-06-21-researchers-explore-dna-based-approach-to-improve-prostate-cancer-detect"
       },
       {
+        "id": "2026-06-21-building-scalable-digital-infrastructure-for-tier-2-and-tier-3-hospitals",
+        "title": "Building scalable digital infrastructure for tier 2 and tier 3 hospitals",
+        "summary": "India’s healthcare transformation is no longer confined to metropolitan cities. The next decade of healthcare growth will largely be shaped by Tier 2, Tier 3, and rural India, where rising patient demand, increasing health awareness, and improving di",
+        "source": "Express Healthcare",
+        "sourceHost": "expresshealthcare.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-06-23T09:30:54.000Z",
+        "publishedLabel": "June 23, 2026",
+        "category": "Lab Network",
+        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/06/23145340/New-Project-7.jpg",
+        "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
+        "justIn": true,
+        "originalUrl": "https://www.expresshealthcare.in/news/building-scalable-digital-infrastructure-for-tier-2-and-tier-3-hospitals/454066/",
+        "articlePath": "/article.html?issue=2026-06-21&article=2026-06-21-building-scalable-digital-infrastructure-for-tier-2-and-tier-3-hospitals"
+      },
+      {
         "id": "2026-06-21-technology-though-complimentary-in-diagnostic-processes-can-never-fully-",
         "title": "Technology though complimentary in diagnostic processes, can never fully replace the holistic approach of a clinician",
         "summary": "As S.L. Raheja Hospital marks 45 years, the advanced histopathology department's launch signals a forward-looking approach. How does this reflect a broader strategic shift towards integrated, technology-led care delivery? Dr Kunal Punamiya: The hospi",
@@ -589,6 +675,40 @@
         "articlePath": "/article.html?issue=2026-06-21&article=2026-06-21-technology-though-complimentary-in-diagnostic-processes-can-never-fully-"
       },
       {
+        "id": "2026-06-21-real-measure-of-country-s-progress-is-embedded-in-health-and-well-being-",
+        "title": "Real measure of country’s progress is embedded in health and well-being of its women",
+        "summary": "Has India’s efforts towards fostering a higher standard of healthcare for women started to yield results? The answer to that question is a definitive ‘yes’. Can we do better? That’s a definitive ‘yes’ too. It is significant to note that women’s healt",
+        "source": "Express Healthcare",
+        "sourceHost": "expresshealthcare.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-06-23T12:00:09.000Z",
+        "publishedLabel": "June 23, 2026",
+        "category": "Industry Update",
+        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/06/23172440/New-Project-8.jpg",
+        "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
+        "justIn": true,
+        "originalUrl": "https://www.expresshealthcare.in/news/real-measure-of-countrys-progress-is-embedded-in-health-and-well-being-of-its-women/454072/",
+        "articlePath": "/article.html?issue=2026-06-21&article=2026-06-21-real-measure-of-country-s-progress-is-embedded-in-health-and-well-being-"
+      },
+      {
+        "id": "2026-06-21-thumbay-labs-obtains-iso-15189-2022-to-comply-with-current-uae-cap-statu",
+        "title": "Thumbay Labs obtains ISO 15189:2022 to comply with current UAE CAP status | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
+        "summary": "The ISO standard evaluates the entire diagnostic process, from sample collection to reporting, ensuring laboratories consistently produce reliable results.",
+        "source": "Healthcare MEA",
+        "sourceHost": "healthcaremea.com",
+        "region": "Middle East",
+        "country": "United Arab Emirates",
+        "publishedAt": "2026-06-23T09:03:00.000Z",
+        "publishedLabel": "June 23, 2026",
+        "category": "Diagnostics",
+        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/06/image-1600x900-2026-06-23T100855.415.png",
+        "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
+        "justIn": true,
+        "originalUrl": "https://www.healthcaremea.com/2026/06/23/thumbay-labs-obtains-iso-151892022-to-comply-with-current-uae-cap-status/",
+        "articlePath": "/article.html?issue=2026-06-21&article=2026-06-21-thumbay-labs-obtains-iso-15189-2022-to-comply-with-current-uae-cap-statu"
+      },
+      {
         "id": "2026-06-21-health-ministry-centralises-testing-of-42-veterinary-vaccines-under-nati",
         "title": "Health Ministry Centralises Testing of 42 Veterinary Vaccines Under National Institute",
         "summary": "New Delhi: In a move aimed at strengthening quality control and streamlining regulatory oversight of veterinary vaccines in India, the Ministry of Health and Family Welfare (MoHFW) has notified an...",
@@ -601,7 +721,7 @@
         "category": "Industry Update",
         "image": "https://medicaldialogues.in/h-upload/2025/02/10/273543-medicine-bottle-50.jpg",
         "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/health-ministry-centralises-testing-of-42-veterinary-vaccines-under-national-institute-173469",
         "articlePath": "/article.html?issue=2026-06-21&article=2026-06-21-health-ministry-centralises-testing-of-42-veterinary-vaccines-under-nati"
       }
@@ -637,6 +757,22 @@
     },
     {
       "segment": "pharma",
+      "articleId": "2026-06-21-india-s-pharma-supply-chain-remains-65-per-cent-dependent-on-china-for-c",
+      "title": "India's pharma supply chain remains 65 per cent dependent on China for critical inputs: NITI Aayog",
+      "source": "Economic Times Pharma",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "pharma",
+      "articleId": "2026-06-21-healthium-medtech-ceo-anish-bafna-steps-down-moves-to-non-executive-chai",
+      "title": "Healthium Medtech CEO Anish Bafna steps down, moves to non-executive chairman role",
+      "source": "ET Healthworld",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "pharma",
       "articleId": "2026-06-21-central-drugs-laboratories-find-46-drug-samples-not-of-standard-quality-",
       "title": "Central Drugs Laboratories find 46 drug samples not of standard quality for May",
       "source": "Economic Times Pharma",
@@ -652,25 +788,9 @@
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
     },
     {
-      "segment": "pharma",
-      "articleId": "2026-06-21-more-than-200-govt-doctors-on-long-unauthorised-absence-in-tamil-nadu",
-      "title": "More than 200 govt doctors on long unauthorised absence in Tamil Nadu",
-      "source": "ET Healthworld",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
-      "segment": "pharma",
-      "articleId": "2026-06-21-study-identifies-74-locations-in-human-genome-related-to-anxiety-symptom",
-      "title": "Study identifies 74 locations in human genome related to anxiety symptoms",
-      "source": "ET Healthworld",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
       "segment": "providers",
-      "articleId": "2026-06-21-family-isn-t-an-option-it-s-a-necessity",
-      "title": "Family isn't an option, it's a necessity",
+      "articleId": "2026-06-21-fortis-hospital-mulund-strengthens-footprint-with-the-launch-of-fortis-m",
+      "title": "Fortis Hospital Mulund strengthens footprint with the Launch of Fortis Medical Centre at Ulhasnagar",
       "source": "Express Healthcare",
       "solution": "THB Provider CRM",
       "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
@@ -693,8 +813,8 @@
     },
     {
       "segment": "providers",
-      "articleId": "2026-06-21-smc-healthcare-consortium-wins-us-1b-contract-for-sabic-behavioural-hosp",
-      "title": "SMC Healthcare Consortium wins US$1B contract for SABIC Behavioural Hospital",
+      "articleId": "2026-06-21-skmca-ajman-secures-level-4-psfhi-accreditation-in-uae-healthcare-middle",
+      "title": "SKMCA Ajman secures Level 4 PSFHI accreditation in UAE | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
       "source": "Healthcare MEA",
       "solution": "THB Provider CRM",
       "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
@@ -725,6 +845,14 @@
     },
     {
       "segment": "diagnostics",
+      "articleId": "2026-06-21-building-scalable-digital-infrastructure-for-tier-2-and-tier-3-hospitals",
+      "title": "Building scalable digital infrastructure for tier 2 and tier 3 hospitals",
+      "source": "Express Healthcare",
+      "solution": "THB Diagnostics CRM",
+      "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
+    },
+    {
+      "segment": "diagnostics",
       "articleId": "2026-06-21-technology-though-complimentary-in-diagnostic-processes-can-never-fully-",
       "title": "Technology though complimentary in diagnostic processes, can never fully replace the holistic approach of a clinician",
       "source": "Express Healthcare",
@@ -733,9 +861,9 @@
     },
     {
       "segment": "diagnostics",
-      "articleId": "2026-06-21-health-ministry-centralises-testing-of-42-veterinary-vaccines-under-nati",
-      "title": "Health Ministry Centralises Testing of 42 Veterinary Vaccines Under National Institute",
-      "source": "Medical Dialogues Pharma",
+      "articleId": "2026-06-21-real-measure-of-country-s-progress-is-embedded-in-health-and-well-being-",
+      "title": "Real measure of country’s progress is embedded in health and well-being of its women",
+      "source": "Express Healthcare",
       "solution": "THB Diagnostics CRM",
       "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
     }
