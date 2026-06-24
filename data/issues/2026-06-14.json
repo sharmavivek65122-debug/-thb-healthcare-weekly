@@ -5,19 +5,19 @@
   "startDate": "2026-06-13T18:30:00.000Z",
   "endDate": "2026-06-19T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-06-24T07:58:24.326Z",
+  "updatedAt": "2026-06-24T15:52:26.948Z",
   "coverage": {
-    "pharma": 26,
-    "providers": 5,
-    "diagnostics": 0,
+    "pharma": 22,
+    "providers": 6,
+    "diagnostics": 1,
     "healthtech": 0
   },
   "sourcesUsed": [
     "ET Healthworld",
     "ET Healthworld Hospitals",
     "Economic Times Pharma",
+    "Express Healthcare Posts",
     "Financial Express Healthcare",
-    "Medical Dialogues Pharma",
     "PharmaTutor News"
   ],
   "segments": {
@@ -210,23 +210,6 @@
         "articlePath": "/article.html?issue=2026-06-14&article=2026-06-14-us-ftc-imposes-divestment-condition-on-aurobindo-pharma-s-250-mn-lannett"
       },
       {
-        "id": "2026-06-14-kims-hospitals-brainlab-launch-south-asia-s-first-functional-neurosurger",
-        "title": "KIMS Hospitals, Brainlab launch South Asia’s first Functional Neurosurgery Reference Centre in Bengaluru",
-        "summary": "KIMS Hospitals has partnered with German healthtech company Brainlab to establish South Asia’s first functional neurosurgery reference centre and Centre of Excellence in Bengaluru. The facility will integrate advanced imaging, surgical navigation, and mixed...",
-        "source": "ET Healthworld",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-06-15T11:43:24.000Z",
-        "publishedLabel": "June 15, 2026",
-        "category": "Launch",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-131743605,imgsize-194300,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/kims-hospitals-brainlab-launch-south-asias-first-functional-neurosurgery-reference-centre-in-bengaluru.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/kims-hospitals-brainlab-launch-south-asias-first-functional-neurosurgery-reference-centre-in-bengaluru/131743605",
-        "articlePath": "/article.html?issue=2026-06-14&article=2026-06-14-kims-hospitals-brainlab-launch-south-asia-s-first-functional-neurosurger"
-      },
-      {
         "id": "2026-06-14-vitamin-d-deficiency-and-fragility-fractures-why-experts-stress-the-impo",
         "title": "Vitamin D Deficiency and Fragility Fractures: Why Experts Stress the Importance of Mega Dose Therapy",
         "summary": "Brand Connect Initiative",
@@ -276,6 +259,23 @@
         "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/novartis-india-launches-pluvicto-for-prostate-cancer-treatment/articleshow/131740049.cms",
         "articlePath": "/article.html?issue=2026-06-14&article=2026-06-14-novartis-india-launches-pluvicto-for-prostate-cancer-treatment"
+      },
+      {
+        "id": "2026-06-14-we-have-identified-five-potential-clusters-in-kerala-and-there-is-still-",
+        "title": "We have identified five potential clusters in Kerala, and there is still work to be done on them",
+        "summary": "Kerala is increasingly positioning itself as an emerging medtech hub. What are the key ecosystem gaps KMTC is working to address in order to strengthen the state’s appeal for medical […]",
+        "source": "Express Healthcare Posts",
+        "sourceHost": "expresshealthcare.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-06-20T04:30:45.000Z",
+        "publishedLabel": "June 20, 2026",
+        "category": "Industry Update",
+        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/06/19165117/EH_Padmakumar.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": false,
+        "originalUrl": "https://www.expresshealthcare.in/news/we-have-identified-five-potential-clusters-in-kerala-and-there-is-still-work-to-be-done-on-them/454034/",
+        "articlePath": "/article.html?issue=2026-06-14&article=2026-06-14-we-have-identified-five-potential-clusters-in-kerala-and-there-is-still-"
       },
       {
         "id": "2026-06-14-fssai-cracks-down-on-misleading-healthy-claims-issues-notices-to-8-major",
@@ -363,23 +363,6 @@
         "articlePath": "/article.html?issue=2026-06-14&article=2026-06-14-fda-clears-first-generic-single-dose-flu-medicine-ahead-of-2026-27-influ"
       },
       {
-        "id": "2026-06-14-aurobindo-s-eugia-steriles-gets-5-usfda-observations-after-pre-approval-",
-        "title": "Aurobindo's Eugia Steriles Gets 5 USFDA Observations After Pre-Approval Inspection",
-        "summary": "Hyderabad: Aurobindo Pharma Limited has informed the stock exchanges that the United States Food and Drug Administration (USFDA) has completed a Pre-Approval Inspection (PAI) at Eugia Steriles Private...",
-        "source": "Medical Dialogues Pharma",
-        "sourceHost": "medicaldialogues.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-06-20T16:09:24.000Z",
-        "publishedLabel": "June 20, 2026",
-        "category": "Approval",
-        "image": "https://medicaldialogues.in/h-upload/2023/01/10/197265-aurobindo-pharma-2.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/aurobindos-eugia-steriles-gets-5-usfda-observations-after-pre-approval-inspection-173332",
-        "articlePath": "/article.html?issue=2026-06-14&article=2026-06-14-aurobindo-s-eugia-steriles-gets-5-usfda-observations-after-pre-approval-"
-      },
-      {
         "id": "2026-06-14-fda-approves-groundbreaking-oral-carbapenem-antibiotic-for-complicated-u",
         "title": "FDA Approves Groundbreaking Oral Carbapenem Antibiotic for Complicated Urinary Tract Infections",
         "summary": "In a major advancement in the fight against antibiotic-resistant infections, the U.S. Food and Drug Administration (FDA) has approved Utebzi (tebipenem pivoxil hydrobromide), the first oral carbapenem antibiotic for the treatment of complicated urinary tract...",
@@ -395,57 +378,6 @@
         "justIn": false,
         "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/fda-approves-groundbreaking-oral-carbapenem-antibiotic-for-complicated-urinary-tract-infections",
         "articlePath": "/article.html?issue=2026-06-14&article=2026-06-14-fda-approves-groundbreaking-oral-carbapenem-antibiotic-for-complicated-u"
-      },
-      {
-        "id": "2026-06-14-eisai-bets-on-uk-growth-with-new-cold-chain-manufacturing-expansion",
-        "title": "Eisai Bets on UK Growth with New Cold-Chain Manufacturing Expansion",
-        "summary": "Eisai has announced a significant investment in its manufacturing facility in Hatfield, United Kingdom, aimed at expanding its capabilities for medicines that require specialized cold-chain storage and transportation. The project is being supported by the UK...",
-        "source": "PharmaTutor News",
-        "sourceHost": "pharmatutor.org",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-06-17T12:10:59.000Z",
-        "publishedLabel": "June 17, 2026",
-        "category": "Manufacturing",
-        "image": "https://www.pharmatutor.org/sites/default/files/styles/webp/public/2026-06/eisai-bets-on-uk-growth-with-new-cold-chain-manufacturing-expansion.png.webp?itok=mvV0BSB7",
-        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": false,
-        "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/eisai-bets-on-uk-growth-with-new-cold-chain-manufacturing-expansion",
-        "articlePath": "/article.html?issue=2026-06-14&article=2026-06-14-eisai-bets-on-uk-growth-with-new-cold-chain-manufacturing-expansion"
-      },
-      {
-        "id": "2026-06-14-sun-pharma-clarifies-no-operational-impact-from-arrest-of-independent-di",
-        "title": "Sun Pharma Clarifies No Operational Impact from Arrest of Independent Director Gautam Doshi",
-        "summary": "Mumbai: Sun Pharmaceutical Industries Limited has informed stock exchanges about the arrest of its Independent Director, Gautam Doshi, while clarifying that the development is unrelated to the...",
-        "source": "Medical Dialogues Pharma",
-        "sourceHost": "medicaldialogues.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-06-20T16:03:56.000Z",
-        "publishedLabel": "June 20, 2026",
-        "category": "Industry Update",
-        "image": "https://medicaldialogues.in/h-upload/2024/01/16/230297-sun-pharma-new-50.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/sun-pharma-clarifies-no-operational-impact-from-arrest-of-independent-director-gautam-doshi-173331",
-        "articlePath": "/article.html?issue=2026-06-14&article=2026-06-14-sun-pharma-clarifies-no-operational-impact-from-arrest-of-independent-di"
-      },
-      {
-        "id": "2026-06-14-aiims-invites-applications-for-60-pharmacist-vacancies-through-cre-5-exa",
-        "title": "AIIMS Invites Applications for 60+ Pharmacist Vacancies Through CRE-5 Examination",
-        "summary": "New Delhi: The All India Institute of Medical Sciences (AIIMS), New Delhi, has commenced the application process for the Common Recruitment Examination-5 (CRE-5) for pharmacist posts across various...",
-        "source": "Medical Dialogues Pharma",
-        "sourceHost": "medicaldialogues.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-06-20T15:22:10.000Z",
-        "publishedLabel": "June 20, 2026",
-        "category": "Industry Update",
-        "image": "https://medicaldialogues.in/h-upload/2026/03/18/333612-vacancy.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/aiims-invites-applications-for-60-pharmacist-vacancies-through-cre-5-examination-173330",
-        "articlePath": "/article.html?issue=2026-06-14&article=2026-06-14-aiims-invites-applications-for-60-pharmacist-vacancies-through-cre-5-exa"
       },
       {
         "id": "2026-06-14-india-launches-one-of-the-largest-childhood-cancer-survivor-cohorts-repo",
@@ -482,6 +414,23 @@
         "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/marengo-asia-hospitals-faridabad-launches-proctor-enabled-robotic-surgery-program/131857896",
         "articlePath": "/article.html?issue=2026-06-14&article=2026-06-14-marengo-asia-hospitals-faridabad-launches-proctor-enabled-robotic-surger"
+      },
+      {
+        "id": "2026-06-14-kims-hospitals-brainlab-launch-south-asia-s-first-functional-neurosurger",
+        "title": "KIMS Hospitals, Brainlab launch South Asia’s first Functional Neurosurgery Reference Centre in Bengaluru",
+        "summary": "KIMS Hospitals has partnered with German healthtech company Brainlab to establish South Asia’s first functional neurosurgery reference centre and Centre of Excellence in Bengaluru. The facility will integrate advanced imaging, surgical navigation, and mixed...",
+        "source": "ET Healthworld Hospitals",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-06-15T11:43:24.000Z",
+        "publishedLabel": "June 15, 2026",
+        "category": "Hospital",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-131743605,imgsize-194300,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/kims-hospitals-brainlab-launch-south-asias-first-functional-neurosurgery-reference-centre-in-bengaluru.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": false,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/kims-hospitals-brainlab-launch-south-asias-first-functional-neurosurgery-reference-centre-in-bengaluru/131743605",
+        "articlePath": "/article.html?issue=2026-06-14&article=2026-06-14-kims-hospitals-brainlab-launch-south-asia-s-first-functional-neurosurger"
       },
       {
         "id": "2026-06-14-cloudnine-s-25-stake-sale-attracts-top-global-pe-firms",
@@ -552,7 +501,25 @@
         "articlePath": "/article.html?issue=2026-06-14&article=2026-06-14-manipal-hospitals-is-said-to-plan-1-billion-ipo-in-july"
       }
     ],
-    "diagnostics": [],
+    "diagnostics": [
+      {
+        "id": "2026-06-14-the-role-of-degree-apprenticeships-in-tier-ii-and-iii-cities",
+        "title": "The role of degree apprenticeships in tier II and III cities",
+        "summary": "India’s healthcare sector is entering a new phase of expansion. Healthcare delivery is no longer concentrated in metro cities alone. Hospital chains, diagnostic networks, telemedicine providers, and allied healthcare services […]",
+        "source": "Express Healthcare Posts",
+        "sourceHost": "expresshealthcare.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-06-20T10:30:19.000Z",
+        "publishedLabel": "June 20, 2026",
+        "category": "Diagnostics",
+        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/06/19171719/EH_Dr-Nipun.jpg",
+        "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
+        "justIn": false,
+        "originalUrl": "https://www.expresshealthcare.in/news/the-role-of-degree-apprenticeships-in-tier-ii-and-iii-cities/454037/",
+        "articlePath": "/article.html?issue=2026-06-14&article=2026-06-14-the-role-of-degree-apprenticeships-in-tier-ii-and-iii-cities"
+      }
+    ],
     "healthtech": []
   },
   "thbActions": [
@@ -606,6 +573,14 @@
     },
     {
       "segment": "providers",
+      "articleId": "2026-06-14-kims-hospitals-brainlab-launch-south-asia-s-first-functional-neurosurger",
+      "title": "KIMS Hospitals, Brainlab launch South Asia’s first Functional Neurosurgery Reference Centre in Bengaluru",
+      "source": "ET Healthworld Hospitals",
+      "solution": "THB Provider CRM",
+      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
+    },
+    {
+      "segment": "providers",
       "articleId": "2026-06-14-cloudnine-s-25-stake-sale-attracts-top-global-pe-firms",
       "title": "Cloudnine's 25% stake sale attracts top global PE firms",
       "source": "ET Healthworld Hospitals",
@@ -629,12 +604,12 @@
       "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
     },
     {
-      "segment": "providers",
-      "articleId": "2026-06-14-manipal-hospitals-is-said-to-plan-1-billion-ipo-in-july",
-      "title": "Manipal Hospitals is said to plan $1 billion IPO in July",
-      "source": "ET Healthworld Hospitals",
-      "solution": "THB Provider CRM",
-      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
+      "segment": "diagnostics",
+      "articleId": "2026-06-14-the-role-of-degree-apprenticeships-in-tier-ii-and-iii-cities",
+      "title": "The role of degree apprenticeships in tier II and III cities",
+      "source": "Express Healthcare Posts",
+      "solution": "THB Diagnostics CRM",
+      "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
     }
   ]
 }
