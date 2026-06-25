@@ -5,18 +5,17 @@
   "startDate": "2026-06-13T18:30:00.000Z",
   "endDate": "2026-06-19T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-06-24T15:52:26.948Z",
+  "updatedAt": "2026-06-25T07:59:49.357Z",
   "coverage": {
-    "pharma": 22,
+    "pharma": 21,
     "providers": 6,
-    "diagnostics": 1,
+    "diagnostics": 0,
     "healthtech": 0
   },
   "sourcesUsed": [
     "ET Healthworld",
     "ET Healthworld Hospitals",
     "Economic Times Pharma",
-    "Express Healthcare Posts",
     "Financial Express Healthcare",
     "PharmaTutor News"
   ],
@@ -261,23 +260,6 @@
         "articlePath": "/article.html?issue=2026-06-14&article=2026-06-14-novartis-india-launches-pluvicto-for-prostate-cancer-treatment"
       },
       {
-        "id": "2026-06-14-we-have-identified-five-potential-clusters-in-kerala-and-there-is-still-",
-        "title": "We have identified five potential clusters in Kerala, and there is still work to be done on them",
-        "summary": "Kerala is increasingly positioning itself as an emerging medtech hub. What are the key ecosystem gaps KMTC is working to address in order to strengthen the state’s appeal for medical […]",
-        "source": "Express Healthcare Posts",
-        "sourceHost": "expresshealthcare.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-06-20T04:30:45.000Z",
-        "publishedLabel": "June 20, 2026",
-        "category": "Industry Update",
-        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/06/19165117/EH_Padmakumar.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://www.expresshealthcare.in/news/we-have-identified-five-potential-clusters-in-kerala-and-there-is-still-work-to-be-done-on-them/454034/",
-        "articlePath": "/article.html?issue=2026-06-14&article=2026-06-14-we-have-identified-five-potential-clusters-in-kerala-and-there-is-still-"
-      },
-      {
         "id": "2026-06-14-fssai-cracks-down-on-misleading-healthy-claims-issues-notices-to-8-major",
         "title": "FSSAI cracks down on misleading ‘healthy’ claims, issues notices to 8 major food brands",
         "summary": "The companies that have received notices include Emami Healthy & Tasty, Health Aid, Troovy, The Healthy Factory, Healthy Master, Healthy Choice, Plan B and Neuherbs.",
@@ -501,25 +483,7 @@
         "articlePath": "/article.html?issue=2026-06-14&article=2026-06-14-manipal-hospitals-is-said-to-plan-1-billion-ipo-in-july"
       }
     ],
-    "diagnostics": [
-      {
-        "id": "2026-06-14-the-role-of-degree-apprenticeships-in-tier-ii-and-iii-cities",
-        "title": "The role of degree apprenticeships in tier II and III cities",
-        "summary": "India’s healthcare sector is entering a new phase of expansion. Healthcare delivery is no longer concentrated in metro cities alone. Hospital chains, diagnostic networks, telemedicine providers, and allied healthcare services […]",
-        "source": "Express Healthcare Posts",
-        "sourceHost": "expresshealthcare.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-06-20T10:30:19.000Z",
-        "publishedLabel": "June 20, 2026",
-        "category": "Diagnostics",
-        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/06/19171719/EH_Dr-Nipun.jpg",
-        "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
-        "justIn": false,
-        "originalUrl": "https://www.expresshealthcare.in/news/the-role-of-degree-apprenticeships-in-tier-ii-and-iii-cities/454037/",
-        "articlePath": "/article.html?issue=2026-06-14&article=2026-06-14-the-role-of-degree-apprenticeships-in-tier-ii-and-iii-cities"
-      }
-    ],
+    "diagnostics": [],
     "healthtech": []
   },
   "thbActions": [
@@ -602,14 +566,6 @@
       "source": "ET Healthworld Hospitals",
       "solution": "THB Provider CRM",
       "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
-    },
-    {
-      "segment": "diagnostics",
-      "articleId": "2026-06-14-the-role-of-degree-apprenticeships-in-tier-ii-and-iii-cities",
-      "title": "The role of degree apprenticeships in tier II and III cities",
-      "source": "Express Healthcare Posts",
-      "solution": "THB Diagnostics CRM",
-      "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
     }
   ]
 }
