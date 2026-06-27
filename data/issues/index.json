@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-27T07:34:54.580Z",
+  "updatedAt": "2026-06-27T15:02:26.262Z",
   "latestIssueKey": "2026-06-21",
   "issues": [
     {
@@ -46,7 +46,7 @@
       "coverage": {
         "pharma": 0,
         "providers": 4,
-        "diagnostics": 4,
+        "diagnostics": 3,
         "healthtech": 0
       }
     },
@@ -93,8 +93,8 @@
       "status": "live",
       "coverage": {
         "pharma": 50,
-        "providers": 9,
-        "diagnostics": 9,
+        "providers": 11,
+        "diagnostics": 10,
         "healthtech": 0
       }
     }
