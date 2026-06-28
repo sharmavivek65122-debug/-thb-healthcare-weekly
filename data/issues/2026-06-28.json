@@ -5,19 +5,38 @@
   "startDate": "2026-06-27T18:30:00.000Z",
   "endDate": "2026-07-03T18:30:00.000Z",
   "status": "live",
-  "updatedAt": "2026-06-28T08:02:24.990Z",
+  "updatedAt": "2026-06-28T15:04:45.567Z",
   "coverage": {
-    "pharma": 4,
-    "providers": 2,
-    "diagnostics": 0,
+    "pharma": 9,
+    "providers": 0,
+    "diagnostics": 1,
     "healthtech": 0
   },
   "sourcesUsed": [
+    "Economic Times Pharma",
+    "Healthcare MEA",
     "Medical Dialogues Pharma",
-    "Zawya Pharmaceuticals"
+    "PharmaTutor News"
   ],
   "segments": {
     "pharma": [
+      {
+        "id": "2026-06-28-health-ministry-proposes-faster-approvals-for-medical-device-manufacturi",
+        "title": "Health ministry proposes faster approvals for medical device manufacturing licences",
+        "summary": "The Union health ministry is proposing to significantly cut down the time taken to issue manufacturing licenses for medical devices. Aimed at boosting ease of doing business and ensuring quicker access to quality products, the amendments will reduce timelines...",
+        "source": "Economic Times Pharma",
+        "sourceHost": "economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-06-28T07:57:26.000Z",
+        "publishedLabel": "June 28, 2026",
+        "category": "Approval",
+        "image": "https://img.etimg.com/thumb/msid-132047413,width-1200,height-630,imgsize-24428,overlay-economictimes/articleshow.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/health-ministry-proposes-faster-approvals-for-medical-device-manufacturing-licences/articleshow/132047413.cms",
+        "articlePath": "/article.html?issue=2026-06-28&article=2026-06-28-health-ministry-proposes-faster-approvals-for-medical-device-manufacturi"
+      },
       {
         "id": "2026-06-28-modified-release-drug-intermediates-need-central-approval-others-can-see",
         "title": "Modified-Release Drug Intermediates Need Central Approval, Others Can Seek State Licence, Clarifies CDSCO",
@@ -53,6 +72,40 @@
         "articlePath": "/article.html?issue=2026-06-28&article=2026-06-28-ipca-labs-to-merge-krebs-biochemicals-to-strengthen-fermentation-api-bus"
       },
       {
+        "id": "2026-06-28-sanner-rebrands-springboard-as-sanner-uk-in-global-cdmo-consolidation-he",
+        "title": "Sanner rebrands Springboard as Sanner UK in global CDMO consolidation | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
+        "summary": "The move follows Sanner’s acquisition of Springboard in January 2024 and reflects the company’s goal of building a seamless, end-to-end CDMO platform spanning medical technology, pharmaceuticals, ...",
+        "source": "Healthcare MEA",
+        "sourceHost": "healthcaremea.com",
+        "region": "Middle East",
+        "country": "Middle East",
+        "publishedAt": "2026-06-28T11:35:05.000Z",
+        "publishedLabel": "June 28, 2026",
+        "category": "Manufacturing",
+        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/06/image-1600x900-82.png",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://www.healthcaremea.com/2026/06/28/sanner-rebrands-springboard-as-sanner-uk-in-global-cdmo-consolidation/",
+        "articlePath": "/article.html?issue=2026-06-28&article=2026-06-28-sanner-rebrands-springboard-as-sanner-uk-in-global-cdmo-consolidation-he"
+      },
+      {
+        "id": "2026-06-28-health-ministry-proposes-acknowledgement-based-import-system-for-drug-te",
+        "title": "Health Ministry Proposes Acknowledgement-Based Import System for Drug Testing Samples",
+        "summary": "the Ministry of Health and Family Welfare has proposed amendments to the Drugs Rules, 1945 to simplify the import procedure for drugs intended for examination, testing and analysis.",
+        "source": "PharmaTutor News",
+        "sourceHost": "pharmatutor.org",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-06-28T11:20:45.000Z",
+        "publishedLabel": "June 28, 2026",
+        "category": "Industry Update",
+        "image": "https://www.pharmatutor.org/sites/default/files/styles/webp/public/2026-06/health-ministry-proposes-acknowledgement-based-import-system-for-drug-testing-samples.png.webp?itok=SH-7cdbk",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/health-ministry-proposes-acknowledgement-based-import-system-for-drug-testing-samples",
+        "articlePath": "/article.html?issue=2026-06-28&article=2026-06-28-health-ministry-proposes-acknowledgement-based-import-system-for-drug-te"
+      },
+      {
         "id": "2026-06-28-alembic-pharma-receives-usfda-approval-for-generic-influenza-drug-tamifl",
         "title": "Alembic Pharma Receives USFDA Approval for Generic Influenza Drug Tamiflu",
         "summary": "New Delhi: Alembic Pharmaceuticals Limited has received final approval from the US Food and Drug Administration (USFDA) for its Abbreviated New Drug Application (ANDA) for Oseltamivir Phosphate for...",
@@ -85,48 +138,73 @@
         "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/health-investments/zydus-lifesciences-to-invest-up-to-rs-43-crore-in-sri-lanka-pharma-joint-venture-173796",
         "articlePath": "/article.html?issue=2026-06-28&article=2026-06-28-zydus-lifesciences-to-invest-up-to-rs-43-crore-in-sri-lanka-pharma-joint"
-      }
-    ],
-    "providers": [
-      {
-        "id": "2026-06-28-seha-s-tawam-hospital-hosts-best-of-asco-2026-uae",
-        "title": "SEHA’s Tawam Hospital hosts “Best of ASCO 2026 UAE”",
-        "summary": "A two-day scientific programme brings together the UAE’s leading oncology experts to discuss the latest advancements from “ASCO 2026”",
-        "source": "Zawya Pharmaceuticals",
-        "sourceHost": "zawya.com",
-        "region": "Middle East",
-        "country": "United Arab Emirates",
-        "publishedAt": "2026-06-27T19:00:12.000Z",
-        "publishedLabel": "June 28, 2026",
-        "category": "Hospital",
-        "image": "https://static.zawya.com/view/acePublic/alias/contentid/7134c99e-91bc-43dc-b370-a441bcbba97c/0/image1-jpeg.jpeg?f=3%3A2",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://www.zawya.com/en/press-release/events-and-conferences/sehas-tawam-hospital-hosts-best-of-asco-2026-uae-d8epjj3a",
-        "articlePath": "/article.html?issue=2026-06-28&article=2026-06-28-seha-s-tawam-hospital-hosts-best-of-asco-2026-uae"
       },
       {
-        "id": "2026-06-28-atheel-kafd-hotel-to-open-with-majority-saudi-leadership-team",
-        "title": "Atheel KAFD Hotel to open with majority-Saudi leadership team",
-        "summary": "Riyadh property's Executive Committee is majority Saudi, framing its launch as a marker of how the Kingdom's hospitality expansion is reshaping its leadership pipeline",
-        "source": "Zawya Pharmaceuticals",
-        "sourceHost": "zawya.com",
+        "id": "2026-06-28-kenya-launches-health-products-and-technologies-local-manufacturing-stra",
+        "title": "Kenya launches Health Products and Technologies Local Manufacturing Strategy 2026–2030 | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
+        "summary": "The strategy aims to enhance national health security, create jobs, promote innovation, and improve access to quality and affordable healthcare commodities while reducing the country's relian ...",
+        "source": "Healthcare MEA",
+        "sourceHost": "healthcaremea.com",
+        "region": "Middle East",
+        "country": "Middle East",
+        "publishedAt": "2026-06-28T09:35:42.000Z",
+        "publishedLabel": "June 28, 2026",
+        "category": "Manufacturing",
+        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/06/image-1600x900-2026-06-26T085509.490-5.png",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://www.healthcaremea.com/2026/06/28/kenya-launches-health-products-and-technologies-local-manufacturing-strategy-2026-2030/",
+        "articlePath": "/article.html?issue=2026-06-28&article=2026-06-28-kenya-launches-health-products-and-technologies-local-manufacturing-stra"
+      },
+      {
+        "id": "2026-06-28-government-proposes-major-changes-to-medical-devices-rules-to-speed-up-l",
+        "title": "Government Proposes Major Changes to Medical Devices Rules to Speed Up Licensing",
+        "summary": "The Ministry of Health and Family Welfare has released draft amendments to the Medical Devices Rules, 2017, proposing significant changes to reduce the time required for granting manufacturing licences for medical devices in India.",
+        "source": "PharmaTutor News",
+        "sourceHost": "pharmatutor.org",
         "region": "India",
         "country": "India",
-        "publishedAt": "2026-06-28T07:07:09.000Z",
+        "publishedAt": "2026-06-28T11:02:58.000Z",
         "publishedLabel": "June 28, 2026",
-        "category": "Expansion",
-        "image": "https://static.zawya.com/view/acePublic/alias/contentid/636ca7ac-c48b-4294-bc21-135bde6c8968/0/whatsappimage2026-06-27at06-12-03-jpg.jpeg?f=3%3A2",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://www.zawya.com/en/press-release/companies-news/atheel-kafd-hotel-to-open-with-majority-saudi-leadership-team-hs0uppwd",
-        "articlePath": "/article.html?issue=2026-06-28&article=2026-06-28-atheel-kafd-hotel-to-open-with-majority-saudi-leadership-team"
+        "category": "Manufacturing",
+        "image": "https://www.pharmatutor.org/sites/default/files/styles/webp/public/2026-06/government-proposes-major-changes-to-medical-devices-rules-speed-up-licensing.png.webp?itok=kDowTybo",
+        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
+        "justIn": true,
+        "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/government-proposes-major-changes-to-medical-devices-rules-to-speed-up-licensing",
+        "articlePath": "/article.html?issue=2026-06-28&article=2026-06-28-government-proposes-major-changes-to-medical-devices-rules-to-speed-up-l"
       }
     ],
-    "diagnostics": [],
+    "providers": [],
+    "diagnostics": [
+      {
+        "id": "2026-06-28-merck-kgaa-to-acquire-bio-techne-for-us-11-3b-in-major-life-sciences-exp",
+        "title": "Merck KGaA to acquire Bio-Techne for US$11.3B in major life sciences expansion | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
+        "summary": "The acquisition is expected to strengthen Merck’s position in the rapidly growing life sciences sector, particularly in areas such as cell and gene therapy, precision diagnostics, multi-omics rese ...",
+        "source": "Healthcare MEA",
+        "sourceHost": "healthcaremea.com",
+        "region": "Middle East",
+        "country": "Middle East",
+        "publishedAt": "2026-06-28T12:11:53.000Z",
+        "publishedLabel": "June 28, 2026",
+        "category": "Diagnostics",
+        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/06/image-1600x900-85.png",
+        "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
+        "justIn": false,
+        "originalUrl": "https://www.healthcaremea.com/2026/06/28/merck-kgaa-to-acquire-bio-techne-for-us11-3b-in-major-life-sciences-expansion/",
+        "articlePath": "/article.html?issue=2026-06-28&article=2026-06-28-merck-kgaa-to-acquire-bio-techne-for-us-11-3b-in-major-life-sciences-exp"
+      }
+    ],
     "healthtech": []
   },
   "thbActions": [
+    {
+      "segment": "pharma",
+      "articleId": "2026-06-28-health-ministry-proposes-faster-approvals-for-medical-device-manufacturi",
+      "title": "Health ministry proposes faster approvals for medical device manufacturing licences",
+      "source": "Economic Times Pharma",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
     {
       "segment": "pharma",
       "articleId": "2026-06-28-modified-release-drug-intermediates-need-central-approval-others-can-see",
@@ -145,35 +223,27 @@
     },
     {
       "segment": "pharma",
-      "articleId": "2026-06-28-alembic-pharma-receives-usfda-approval-for-generic-influenza-drug-tamifl",
-      "title": "Alembic Pharma Receives USFDA Approval for Generic Influenza Drug Tamiflu",
-      "source": "Medical Dialogues Pharma",
+      "articleId": "2026-06-28-sanner-rebrands-springboard-as-sanner-uk-in-global-cdmo-consolidation-he",
+      "title": "Sanner rebrands Springboard as Sanner UK in global CDMO consolidation | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
+      "source": "Healthcare MEA",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
     },
     {
       "segment": "pharma",
-      "articleId": "2026-06-28-zydus-lifesciences-to-invest-up-to-rs-43-crore-in-sri-lanka-pharma-joint",
-      "title": "Zydus Lifesciences to Invest Up to Rs 43 Crore in Sri Lanka Pharma Joint Venture",
-      "source": "Medical Dialogues Pharma",
+      "articleId": "2026-06-28-health-ministry-proposes-acknowledgement-based-import-system-for-drug-te",
+      "title": "Health Ministry Proposes Acknowledgement-Based Import System for Drug Testing Samples",
+      "source": "PharmaTutor News",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
     },
     {
-      "segment": "providers",
-      "articleId": "2026-06-28-seha-s-tawam-hospital-hosts-best-of-asco-2026-uae",
-      "title": "SEHA’s Tawam Hospital hosts “Best of ASCO 2026 UAE”",
-      "source": "Zawya Pharmaceuticals",
-      "solution": "THB Provider CRM",
-      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
-    },
-    {
-      "segment": "providers",
-      "articleId": "2026-06-28-atheel-kafd-hotel-to-open-with-majority-saudi-leadership-team",
-      "title": "Atheel KAFD Hotel to open with majority-Saudi leadership team",
-      "source": "Zawya Pharmaceuticals",
-      "solution": "THB Provider CRM",
-      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
+      "segment": "diagnostics",
+      "articleId": "2026-06-28-merck-kgaa-to-acquire-bio-techne-for-us-11-3b-in-major-life-sciences-exp",
+      "title": "Merck KGaA to acquire Bio-Techne for US$11.3B in major life sciences expansion | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
+      "source": "Healthcare MEA",
+      "solution": "THB Diagnostics CRM",
+      "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
     }
   ]
 }

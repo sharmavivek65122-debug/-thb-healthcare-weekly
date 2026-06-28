@@ -5,9 +5,9 @@
   "startDate": "2026-06-13T18:30:00.000Z",
   "endDate": "2026-06-19T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-06-28T08:02:24.990Z",
+  "updatedAt": "2026-06-28T15:04:45.567Z",
   "coverage": {
-    "pharma": 6,
+    "pharma": 5,
     "providers": 6,
     "diagnostics": 0,
     "healthtech": 0
@@ -20,23 +20,6 @@
   ],
   "segments": {
     "pharma": [
-      {
-        "id": "2026-06-14-alembic-pharma-gets-tentative-nod-from-usfda-for-generic-cancer-drug",
-        "title": "Alembic Pharma gets tentative nod from USFDA for generic cancer drug",
-        "summary": "Alembic Pharmaceuticals has secured tentative approval from the USFDA for its generic Binimetinib tablets. This marks a significant step for the company in the cancer treatment drug market. The approval is for the 45mg strength, with potential for marketing...",
-        "source": "Economic Times Pharma",
-        "sourceHost": "economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-06-19T08:53:40.000Z",
-        "publishedLabel": "June 19, 2026",
-        "category": "Approval",
-        "image": "https://img.etimg.com/thumb/msid-131853810,width-1200,height-630,imgsize-90966,overlay-economictimes/articleshow.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/alembic-pharma-gets-tentative-nod-from-usfda-for-generic-cancer-drug/articleshow/131853719.cms",
-        "articlePath": "/article.html?issue=2026-06-14&article=2026-06-14-alembic-pharma-gets-tentative-nod-from-usfda-for-generic-cancer-drug"
-      },
       {
         "id": "2026-06-14-sun-pharma-adds-innovcare-to-its-fold-in-rs-271-2-crore-all-cash-transac",
         "title": "Sun Pharma adds Innovcare to its fold in Rs 271.2 crore all-cash transaction",
@@ -233,14 +216,6 @@
   "thbActions": [
     {
       "segment": "pharma",
-      "articleId": "2026-06-14-alembic-pharma-gets-tentative-nod-from-usfda-for-generic-cancer-drug",
-      "title": "Alembic Pharma gets tentative nod from USFDA for generic cancer drug",
-      "source": "Economic Times Pharma",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
-      "segment": "pharma",
       "articleId": "2026-06-14-sun-pharma-adds-innovcare-to-its-fold-in-rs-271-2-crore-all-cash-transac",
       "title": "Sun Pharma adds Innovcare to its fold in Rs 271.2 crore all-cash transaction",
       "source": "Economic Times Pharma",
@@ -268,6 +243,14 @@
       "articleId": "2026-06-14-vitamin-d-deficiency-and-fragility-fractures-why-experts-stress-the-impo",
       "title": "Vitamin D Deficiency and Fragility Fractures: Why Experts Stress the Importance of Mega Dose Therapy",
       "source": "ET Healthworld",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "pharma",
+      "articleId": "2026-06-14-fssai-cracks-down-on-misleading-healthy-claims-issues-notices-to-8-major",
+      "title": "FSSAI cracks down on misleading ‘healthy’ claims, issues notices to 8 major food brands",
+      "source": "Financial Express Healthcare",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
     },
