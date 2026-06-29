@@ -5,16 +5,17 @@
   "startDate": "2026-06-27T18:30:00.000Z",
   "endDate": "2026-07-03T18:30:00.000Z",
   "status": "live",
-  "updatedAt": "2026-06-28T15:04:45.567Z",
+  "updatedAt": "2026-06-29T09:14:31.888Z",
   "coverage": {
     "pharma": 9,
-    "providers": 0,
-    "diagnostics": 1,
+    "providers": 1,
+    "diagnostics": 0,
     "healthtech": 0
   },
   "sourcesUsed": [
+    "ET Healthworld",
     "Economic Times Pharma",
-    "Healthcare MEA",
+    "Express Healthcare",
     "Medical Dialogues Pharma",
     "PharmaTutor News"
   ],
@@ -23,19 +24,53 @@
       {
         "id": "2026-06-28-health-ministry-proposes-faster-approvals-for-medical-device-manufacturi",
         "title": "Health ministry proposes faster approvals for medical device manufacturing licences",
-        "summary": "The Union health ministry is proposing to significantly cut down the time taken to issue manufacturing licenses for medical devices. Aimed at boosting ease of doing business and ensuring quicker access to quality products, the amendments will reduce timelines...",
-        "source": "Economic Times Pharma",
-        "sourceHost": "economictimes.indiatimes.com",
+        "summary": "The draft notification, published in the official gazette, seeks to simplify and expedite the licensing process while ensuring continued compliance with quality, safety and performance requirements, the ministry said on Sunday",
+        "source": "ET Healthworld",
+        "sourceHost": "health.economictimes.indiatimes.com",
         "region": "India",
         "country": "India",
-        "publishedAt": "2026-06-28T07:57:26.000Z",
-        "publishedLabel": "June 28, 2026",
+        "publishedAt": "2026-06-29T01:02:16.000Z",
+        "publishedLabel": "June 29, 2026",
         "category": "Approval",
-        "image": "https://img.etimg.com/thumb/msid-132047413,width-1200,height-630,imgsize-24428,overlay-economictimes/articleshow.jpg",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-132060663,imgsize-81862,width-1200,height=627,overlay-ethealth,resizemode-75/medical-devices/health-ministry-proposes-faster-approvals-for-medical-device-manufacturing-licences.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": false,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/medical-devices/health-ministry-proposes-faster-approvals-for-medical-device-manufacturing-licences/132060663",
+        "articlePath": "/article.html?issue=2026-06-28&article=2026-06-28-health-ministry-proposes-faster-approvals-for-medical-device-manufacturi"
+      },
+      {
+        "id": "2026-06-28-government-widens-fight-on-anaemia-adds-low-birth-weight-babies",
+        "title": "Government widens fight on anaemia, adds low birth weight babies",
+        "summary": "Union health minister JP Nadda will release the operational guidelines for the revamped Anaemia Mukt Bharat Abhiyaan Monday during the 16th meeting of Central Council of Health and Family Welfare. The revised programme replaces the existing Anaemia Mukt...",
+        "source": "ET Healthworld",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-06-29T01:33:18.000Z",
+        "publishedLabel": "June 29, 2026",
+        "category": "Industry Update",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-132060819,imgsize-105550,width-1200,height=627,overlay-ethealth,resizemode-75/policy/government-widens-fight-on-anaemia-adds-low-birth-weight-babies.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
         "justIn": true,
-        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/health-ministry-proposes-faster-approvals-for-medical-device-manufacturing-licences/articleshow/132047413.cms",
-        "articlePath": "/article.html?issue=2026-06-28&article=2026-06-28-health-ministry-proposes-faster-approvals-for-medical-device-manufacturi"
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/policy/government-widens-fight-on-anaemia-adds-low-birth-weight-babies/132060819",
+        "articlePath": "/article.html?issue=2026-06-28&article=2026-06-28-government-widens-fight-on-anaemia-adds-low-birth-weight-babies"
+      },
+      {
+        "id": "2026-06-28-bengaluru-research-uses-ai-to-hunt-cervical-cancer-risk-years-before-dia",
+        "title": "Bengaluru research uses AI to hunt cervical cancer risk years before diagnosis",
+        "summary": "Lalasa Mukku, a researcher at Christ (Deemed-to-be-University), has developed a series of AI-based models aimed at identifying women at elevated risk of cervical cancer by analysing precancerous changes known as Cervical Intraepithelial Neoplasia (CIN).",
+        "source": "ET Healthworld",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-06-29T01:44:05.000Z",
+        "publishedLabel": "June 29, 2026",
+        "category": "Industry Update",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-132060934,imgsize-65446,width-1200,height=627,overlay-ethealth,resizemode-75/diagnostics/bengaluru-research-uses-ai-to-hunt-cervical-cancer-risk-years-before-diagnosis.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/diagnostics/bengaluru-research-uses-ai-to-hunt-cervical-cancer-risk-years-before-diagnosis/132060934",
+        "articlePath": "/article.html?issue=2026-06-28&article=2026-06-28-bengaluru-research-uses-ai-to-hunt-cervical-cancer-risk-years-before-dia"
       },
       {
         "id": "2026-06-28-modified-release-drug-intermediates-need-central-approval-others-can-see",
@@ -72,23 +107,6 @@
         "articlePath": "/article.html?issue=2026-06-28&article=2026-06-28-ipca-labs-to-merge-krebs-biochemicals-to-strengthen-fermentation-api-bus"
       },
       {
-        "id": "2026-06-28-sanner-rebrands-springboard-as-sanner-uk-in-global-cdmo-consolidation-he",
-        "title": "Sanner rebrands Springboard as Sanner UK in global CDMO consolidation | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
-        "summary": "The move follows Sanner’s acquisition of Springboard in January 2024 and reflects the company’s goal of building a seamless, end-to-end CDMO platform spanning medical technology, pharmaceuticals, ...",
-        "source": "Healthcare MEA",
-        "sourceHost": "healthcaremea.com",
-        "region": "Middle East",
-        "country": "Middle East",
-        "publishedAt": "2026-06-28T11:35:05.000Z",
-        "publishedLabel": "June 28, 2026",
-        "category": "Manufacturing",
-        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/06/image-1600x900-82.png",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
-        "originalUrl": "https://www.healthcaremea.com/2026/06/28/sanner-rebrands-springboard-as-sanner-uk-in-global-cdmo-consolidation/",
-        "articlePath": "/article.html?issue=2026-06-28&article=2026-06-28-sanner-rebrands-springboard-as-sanner-uk-in-global-cdmo-consolidation-he"
-      },
-      {
         "id": "2026-06-28-health-ministry-proposes-acknowledgement-based-import-system-for-drug-te",
         "title": "Health Ministry Proposes Acknowledgement-Based Import System for Drug Testing Samples",
         "summary": "the Ministry of Health and Family Welfare has proposed amendments to the Drugs Rules, 1945 to simplify the import procedure for drugs intended for examination, testing and analysis.",
@@ -101,7 +119,7 @@
         "category": "Industry Update",
         "image": "https://www.pharmatutor.org/sites/default/files/styles/webp/public/2026-06/health-ministry-proposes-acknowledgement-based-import-system-for-drug-testing-samples.png.webp?itok=SH-7cdbk",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/health-ministry-proposes-acknowledgement-based-import-system-for-drug-testing-samples",
         "articlePath": "/article.html?issue=2026-06-28&article=2026-06-28-health-ministry-proposes-acknowledgement-based-import-system-for-drug-te"
       },
@@ -140,23 +158,6 @@
         "articlePath": "/article.html?issue=2026-06-28&article=2026-06-28-zydus-lifesciences-to-invest-up-to-rs-43-crore-in-sri-lanka-pharma-joint"
       },
       {
-        "id": "2026-06-28-kenya-launches-health-products-and-technologies-local-manufacturing-stra",
-        "title": "Kenya launches Health Products and Technologies Local Manufacturing Strategy 2026–2030 | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
-        "summary": "The strategy aims to enhance national health security, create jobs, promote innovation, and improve access to quality and affordable healthcare commodities while reducing the country's relian ...",
-        "source": "Healthcare MEA",
-        "sourceHost": "healthcaremea.com",
-        "region": "Middle East",
-        "country": "Middle East",
-        "publishedAt": "2026-06-28T09:35:42.000Z",
-        "publishedLabel": "June 28, 2026",
-        "category": "Manufacturing",
-        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/06/image-1600x900-2026-06-26T085509.490-5.png",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
-        "originalUrl": "https://www.healthcaremea.com/2026/06/28/kenya-launches-health-products-and-technologies-local-manufacturing-strategy-2026-2030/",
-        "articlePath": "/article.html?issue=2026-06-28&article=2026-06-28-kenya-launches-health-products-and-technologies-local-manufacturing-stra"
-      },
-      {
         "id": "2026-06-28-government-proposes-major-changes-to-medical-devices-rules-to-speed-up-l",
         "title": "Government Proposes Major Changes to Medical Devices Rules to Speed Up Licensing",
         "summary": "The Ministry of Health and Family Welfare has released draft amendments to the Medical Devices Rules, 2017, proposing significant changes to reduce the time required for granting manufacturing licences for medical devices in India.",
@@ -169,31 +170,31 @@
         "category": "Manufacturing",
         "image": "https://www.pharmatutor.org/sites/default/files/styles/webp/public/2026-06/government-proposes-major-changes-to-medical-devices-rules-speed-up-licensing.png.webp?itok=kDowTybo",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/government-proposes-major-changes-to-medical-devices-rules-to-speed-up-licensing",
         "articlePath": "/article.html?issue=2026-06-28&article=2026-06-28-government-proposes-major-changes-to-medical-devices-rules-to-speed-up-l"
       }
     ],
-    "providers": [],
-    "diagnostics": [
+    "providers": [
       {
-        "id": "2026-06-28-merck-kgaa-to-acquire-bio-techne-for-us-11-3b-in-major-life-sciences-exp",
-        "title": "Merck KGaA to acquire Bio-Techne for US$11.3B in major life sciences expansion | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
-        "summary": "The acquisition is expected to strengthen Merck’s position in the rapidly growing life sciences sector, particularly in areas such as cell and gene therapy, precision diagnostics, multi-omics rese ...",
-        "source": "Healthcare MEA",
-        "sourceHost": "healthcaremea.com",
-        "region": "Middle East",
-        "country": "Middle East",
-        "publishedAt": "2026-06-28T12:11:53.000Z",
-        "publishedLabel": "June 28, 2026",
-        "category": "Diagnostics",
-        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/06/image-1600x900-85.png",
-        "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
+        "id": "2026-06-28-advancing-patient-care-in-india-through-standardised-nutritional-recover",
+        "title": "Advancing patient care in India through standardised nutritional recovery protocols",
+        "summary": "India’s healthcare system has made significant strides in diagnosis and care. Patients today are diagnosed earlier, treated more efficiently, and managed with greater clinical precision. However, as a medical community […]",
+        "source": "Express Healthcare",
+        "sourceHost": "expresshealthcare.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-06-29T08:22:48.000Z",
+        "publishedLabel": "June 29, 2026",
+        "category": "Patient Care",
+        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/06/29135224/EH_IPA.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
         "justIn": false,
-        "originalUrl": "https://www.healthcaremea.com/2026/06/28/merck-kgaa-to-acquire-bio-techne-for-us11-3b-in-major-life-sciences-expansion/",
-        "articlePath": "/article.html?issue=2026-06-28&article=2026-06-28-merck-kgaa-to-acquire-bio-techne-for-us-11-3b-in-major-life-sciences-exp"
+        "originalUrl": "https://www.expresshealthcare.in/news/advancing-patient-care-in-india-through-standardised-nutritional-recovery-protocols/454141/",
+        "articlePath": "/article.html?issue=2026-06-28&article=2026-06-28-advancing-patient-care-in-india-through-standardised-nutritional-recover"
       }
     ],
+    "diagnostics": [],
     "healthtech": []
   },
   "thbActions": [
@@ -201,7 +202,23 @@
       "segment": "pharma",
       "articleId": "2026-06-28-health-ministry-proposes-faster-approvals-for-medical-device-manufacturi",
       "title": "Health ministry proposes faster approvals for medical device manufacturing licences",
-      "source": "Economic Times Pharma",
+      "source": "ET Healthworld",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "pharma",
+      "articleId": "2026-06-28-government-widens-fight-on-anaemia-adds-low-birth-weight-babies",
+      "title": "Government widens fight on anaemia, adds low birth weight babies",
+      "source": "ET Healthworld",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "pharma",
+      "articleId": "2026-06-28-bengaluru-research-uses-ai-to-hunt-cervical-cancer-risk-years-before-dia",
+      "title": "Bengaluru research uses AI to hunt cervical cancer risk years before diagnosis",
+      "source": "ET Healthworld",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
     },
@@ -222,28 +239,12 @@
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
     },
     {
-      "segment": "pharma",
-      "articleId": "2026-06-28-sanner-rebrands-springboard-as-sanner-uk-in-global-cdmo-consolidation-he",
-      "title": "Sanner rebrands Springboard as Sanner UK in global CDMO consolidation | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
-      "source": "Healthcare MEA",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
-      "segment": "pharma",
-      "articleId": "2026-06-28-health-ministry-proposes-acknowledgement-based-import-system-for-drug-te",
-      "title": "Health Ministry Proposes Acknowledgement-Based Import System for Drug Testing Samples",
-      "source": "PharmaTutor News",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
-      "segment": "diagnostics",
-      "articleId": "2026-06-28-merck-kgaa-to-acquire-bio-techne-for-us-11-3b-in-major-life-sciences-exp",
-      "title": "Merck KGaA to acquire Bio-Techne for US$11.3B in major life sciences expansion | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
-      "source": "Healthcare MEA",
-      "solution": "THB Diagnostics CRM",
-      "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
+      "segment": "providers",
+      "articleId": "2026-06-28-advancing-patient-care-in-india-through-standardised-nutritional-recover",
+      "title": "Advancing patient care in India through standardised nutritional recovery protocols",
+      "source": "Express Healthcare",
+      "solution": "THB Provider CRM",
+      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
     }
   ]
 }
