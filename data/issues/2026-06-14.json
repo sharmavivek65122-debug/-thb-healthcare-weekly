@@ -5,9 +5,9 @@
   "startDate": "2026-06-13T18:30:00.000Z",
   "endDate": "2026-06-19T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-06-30T16:07:50.005Z",
+  "updatedAt": "2026-07-01T08:36:20.330Z",
   "coverage": {
-    "pharma": 3,
+    "pharma": 2,
     "providers": 6,
     "diagnostics": 0,
     "healthtech": 0
@@ -15,28 +15,10 @@
   "sourcesUsed": [
     "ET Healthworld",
     "ET Healthworld Hospitals",
-    "Economic Times Pharma",
     "Financial Express Healthcare"
   ],
   "segments": {
     "pharma": [
-      {
-        "id": "2026-06-14-sun-pharma-adds-innovcare-to-its-fold-in-rs-271-2-crore-all-cash-transac",
-        "title": "Sun Pharma adds Innovcare to its fold in Rs 271.2 crore all-cash transaction",
-        "summary": "India's largest drugmaker, Sun Pharma, is set to acquire Mumbai-based Innovcare Lifesciences for approximately $28.7 million in an all-cash deal. This strategic move aims to bolster Sun Pharma's product offerings. Innovcare, which markets pharmaceutical...",
-        "source": "Economic Times Pharma",
-        "sourceHost": "economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-06-20T12:26:17.000Z",
-        "publishedLabel": "June 20, 2026",
-        "category": "Deal",
-        "image": "https://img.etimg.com/thumb/msid-131876289,width-1200,height-630,imgsize-164896,overlay-economictimes/articleshow.jpg",
-        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": false,
-        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/sun-pharma-adds-innovcare-to-its-fold-in-rs-271-2-crore-all-cash-transaction/articleshow/131876286.cms",
-        "articlePath": "/article.html?issue=2026-06-14&article=2026-06-14-sun-pharma-adds-innovcare-to-its-fold-in-rs-271-2-crore-all-cash-transac"
-      },
       {
         "id": "2026-06-14-iit-bombay-study-identifies-safer-pathway-to-tackle-cholesterol-fatty-li",
         "title": "IIT Bombay study identifies safer pathway to tackle cholesterol, fatty liver",
@@ -180,14 +162,6 @@
     "healthtech": []
   },
   "thbActions": [
-    {
-      "segment": "pharma",
-      "articleId": "2026-06-14-sun-pharma-adds-innovcare-to-its-fold-in-rs-271-2-crore-all-cash-transac",
-      "title": "Sun Pharma adds Innovcare to its fold in Rs 271.2 crore all-cash transaction",
-      "source": "Economic Times Pharma",
-      "solution": "THB Commercial Analytics",
-      "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
-    },
     {
       "segment": "pharma",
       "articleId": "2026-06-14-iit-bombay-study-identifies-safer-pathway-to-tackle-cholesterol-fatty-li",
