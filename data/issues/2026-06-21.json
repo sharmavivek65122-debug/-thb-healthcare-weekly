@@ -5,11 +5,11 @@
   "startDate": "2026-06-20T18:30:00.000Z",
   "endDate": "2026-06-26T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-07-02T07:49:51.496Z",
+  "updatedAt": "2026-07-02T15:52:48.520Z",
   "coverage": {
-    "pharma": 18,
-    "providers": 2,
-    "diagnostics": 2,
+    "pharma": 17,
+    "providers": 4,
+    "diagnostics": 3,
     "healthtech": 0
   },
   "sourcesUsed": [
@@ -18,6 +18,7 @@
     "ET Healthworld Diagnostics",
     "ET Healthworld Hospitals",
     "Economic Times Pharma",
+    "Express Healthcare Posts",
     "Janssen India Media",
     "PharmaTutor News"
   ],
@@ -194,23 +195,6 @@
         "articlePath": "/article.html?issue=2026-06-21&article=2026-06-21-lupin-gets-usfda-tentative-approval-for-prostate-cancer-treatment-drug"
       },
       {
-        "id": "2026-06-21-eli-lilly-launches-cancer-drug-tanstrive-in-india",
-        "title": "Eli Lilly launches cancer drug Tanstrive in India",
-        "summary": "The launch follows marketing authorisation from the Central Drugs Standard Control Organisation (CDSCO) for patients with locally advanced or metastatic solid tumours with a rearranged during transfection (RET) gene, the company said in a statement.",
-        "source": "Economic Times Pharma",
-        "sourceHost": "economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-06-25T12:04:40.000Z",
-        "publishedLabel": "June 25, 2026",
-        "category": "Market",
-        "image": "https://img.etimg.com/thumb/msid-131993247,width-1200,height-630,imgsize-54844,overlay-economictimes/articleshow.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/eli-lilly-launches-cancer-drug-tanstrive-in-india/articleshow/131993229.cms",
-        "articlePath": "/article.html?issue=2026-06-21&article=2026-06-21-eli-lilly-launches-cancer-drug-tanstrive-in-india"
-      },
-      {
         "id": "2026-06-21-centre-decriminalises-minor-offences-for-healthcare-facilities-allows-ap",
         "title": "Centre decriminalises minor offences for Healthcare facilities, allows appeal against penalties",
         "summary": "Under the amended framework, companies will have an opportunity of hearing before the imposition of penalties, mechanisms for recovery of penalties, and an appeal framework for aggrieved parties.",
@@ -226,6 +210,40 @@
         "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/policy/centre-decriminalises-minor-offences-for-healthcare-facilities-allows-appeal-against-penalties/131993267",
         "articlePath": "/article.html?issue=2026-06-21&article=2026-06-21-centre-decriminalises-minor-offences-for-healthcare-facilities-allows-ap"
+      },
+      {
+        "id": "2026-06-21-aimed-applauds-haryana-pharmaceutical-and-medical-devices-manufacturing-",
+        "title": "AiMeD applauds Haryana Pharmaceutical and Medical Devices Manufacturing Policy 2026",
+        "summary": "The Association of Indian Medical Device Industry (AiMeD) warmly welcomes the Haryana Pharmaceutical and Medical Devices Manufacturing Policy 2026, calling it possibly the most incentivising and progressive framework announced by any state in India. This...",
+        "source": "Express Healthcare Posts",
+        "sourceHost": "expresshealthcare.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-06-25T06:55:36.000Z",
+        "publishedLabel": "June 25, 2026",
+        "category": "Manufacturing",
+        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/06/25122525/Medical-devices.jpg",
+        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
+        "justIn": false,
+        "originalUrl": "https://www.expresshealthcare.in/news/aimed-applauds-haryana-pharmaceutical-and-medical-devices-manufacturing-policy-2026/454107/",
+        "articlePath": "/article.html?issue=2026-06-21&article=2026-06-21-aimed-applauds-haryana-pharmaceutical-and-medical-devices-manufacturing-"
+      },
+      {
+        "id": "2026-06-21-the-silent-burnout-crisis-why-healthcare-professionals-need-mental-healt",
+        "title": "The silent burnout crisis: Why healthcare professionals need mental health support",
+        "summary": "India is facing a silent mental health emergency fueled by air pollution, academic pressure, professional workload, lifestyle disorders, social media addiction and emotional isolation. Concerns around emotional wellness, anxiety, depression and cognitive...",
+        "source": "Express Healthcare Posts",
+        "sourceHost": "expresshealthcare.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-06-26T10:33:25.000Z",
+        "publishedLabel": "June 26, 2026",
+        "category": "Industry Update",
+        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/06/26160310/New-Project-14.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": false,
+        "originalUrl": "https://www.expresshealthcare.in/news/the-silent-burnout-crisis-why-healthcare-professionals-need-mental-health-support/454133/",
+        "articlePath": "/article.html?issue=2026-06-21&article=2026-06-21-the-silent-burnout-crisis-why-healthcare-professionals-need-mental-healt"
       },
       {
         "id": "2026-06-21-johnson-and-johnson-presents-new-imaavy-nipocalimab-aahu-data-at-europea",
@@ -260,40 +278,6 @@
         "justIn": false,
         "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/eli-lilly-launches-tanstrive-in-india-expanding-precision-treatment-options-for-ret-altered-cancers",
         "articlePath": "/article.html?issue=2026-06-21&article=2026-06-21-eli-lilly-launches-tanstrive-in-india-expanding-precision-treatment-opti"
-      },
-      {
-        "id": "2026-06-21-scientists-develop-new-laboratory-model-to-decode-immune-cells-that-cont",
-        "title": "Scientists Develop New Laboratory Model to Decode Immune Cells That Control Antibody Production",
-        "summary": "Researchers from the University Hospital Bonn (UKB) and the University of Bonn have developed a new laboratory model that enables scientists to generate and study follicular regulatory T (Tfr) cells, a specialized group of immune cells responsible for...",
-        "source": "PharmaTutor News",
-        "sourceHost": "pharmatutor.org",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-06-26T11:38:08.000Z",
-        "publishedLabel": "June 26, 2026",
-        "category": "Industry Update",
-        "image": "https://www.pharmatutor.org/sites/default/files/styles/webp/public/2026-06/scientists-develop-new-laboratory-model-to-decode-immune-cells-that-control-antibody-production.png.webp?itok=DloojP5R",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/scientists-develop-new-laboratory-model-to-decode-immune-cells-that-control-antibody-production",
-        "articlePath": "/article.html?issue=2026-06-21&article=2026-06-21-scientists-develop-new-laboratory-model-to-decode-immune-cells-that-cont"
-      },
-      {
-        "id": "2026-06-21-gut-bacteria-found-to-directly-trigger-colorectal-cancer-through-dna-dam",
-        "title": "Gut Bacteria Found to Directly Trigger Colorectal Cancer Through DNA Damage and Immune Evasion, Review Reveals",
-        "summary": "A comprehensive scientific review has revealed that certain gut bacteria are not merely associated with colorectal cancer (CRC) but actively contribute to its development by damaging DNA, altering gene regulation, and suppressing the body's immune defenses.",
-        "source": "PharmaTutor News",
-        "sourceHost": "pharmatutor.org",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-06-26T11:33:14.000Z",
-        "publishedLabel": "June 26, 2026",
-        "category": "Industry Update",
-        "image": "https://www.pharmatutor.org/sites/default/files/styles/webp/public/2026-06/gut-bacteria-found-to-directly-trigger-colorectal-cancer-through-dna-damage-and-immune-evasion-review-reveals.png.webp?itok=cjQUEDiC",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/gut-bacteria-found-to-directly-trigger-colorectal-cancer-through-dna-damage-and-immune-evasion-review-reveals",
-        "articlePath": "/article.html?issue=2026-06-21&article=2026-06-21-gut-bacteria-found-to-directly-trigger-colorectal-cancer-through-dna-dam"
       },
       {
         "id": "2026-06-21-usfda-completes-pre-license-inspection-at-dr-reddy-s-bachupally-biologic",
@@ -364,6 +348,40 @@
         "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/aster-quality-care-india-to-invest-1661-cr-in-kerala-healthcare/131980218",
         "articlePath": "/article.html?issue=2026-06-21&article=2026-06-21-aster-quality-care-india-to-invest-1-661-cr-in-kerala-healthcare"
+      },
+      {
+        "id": "2026-06-21-fortis-escorts-faridabad-launches-dedicated-robotic-surgery-institute",
+        "title": "Fortis Escorts Faridabad launches dedicated robotic surgery institute",
+        "summary": "Fortis Escorts Hospital, Faridabad has launched the Fortis Institute of Robotic Surgery, a dedicated centre that brings together robotic-assisted surgical services across multiple specialties under a single programme. The institute integrates robotic surgical...",
+        "source": "Express Healthcare Posts",
+        "sourceHost": "expresshealthcare.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-06-26T06:02:00.000Z",
+        "publishedLabel": "June 26, 2026",
+        "category": "Hospital",
+        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/06/26113045/New-Project-12.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": false,
+        "originalUrl": "https://www.expresshealthcare.in/news/fortis-escorts-faridabad-launches-dedicated-robotic-surgery-institute/454124/",
+        "articlePath": "/article.html?issue=2026-06-21&article=2026-06-21-fortis-escorts-faridabad-launches-dedicated-robotic-surgery-institute"
+      },
+      {
+        "id": "2026-06-21-ck-birla-hospitals-cmri-launches-dedicated-foot-care-clinic",
+        "title": "CK Birla Hospitals, CMRI launches dedicated foot care clinic",
+        "summary": "CK Birla Hospitals, CMRI has launched a dedicated Foot Care Clinic focused on the management of diabetic foot complications. According to the hospital, it is the first such specialised clinic in Eastern India. The clinic will be led by Dr Anupam Golash,...",
+        "source": "Express Healthcare Posts",
+        "sourceHost": "expresshealthcare.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-06-26T10:00:03.000Z",
+        "publishedLabel": "June 26, 2026",
+        "category": "Hospital",
+        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/06/26152947/New-Project-13.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": false,
+        "originalUrl": "https://www.expresshealthcare.in/news/ck-birla-hospitals-cmri-launches-dedicated-foot-care-clinic/454130/",
+        "articlePath": "/article.html?issue=2026-06-21&article=2026-06-21-ck-birla-hospitals-cmri-launches-dedicated-foot-care-clinic"
       }
     ],
     "diagnostics": [
@@ -400,6 +418,23 @@
         "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/diagnostics/alzpath-signs-licensing-deal-with-abbott-to-develop-alzheimers-blood-test/131969381",
         "articlePath": "/article.html?issue=2026-06-21&article=2026-06-21-alzpath-signs-licensing-deal-with-abbott-to-develop-alzheimer-s-blood-te"
+      },
+      {
+        "id": "2026-06-21-roche-diagnostics-announces-india-leadership-transition",
+        "title": "Roche Diagnostics announces India leadership transition",
+        "summary": "Roche Diagnostics has announced a key leadership transition for its India and Neighboring Markets business. Effective August 1, 2026, Marco Valencia Sanchez will assume the role of General Manager, Roche Diagnostics India, succeeding Rishubh Gupta, who has...",
+        "source": "Express Healthcare Posts",
+        "sourceHost": "expresshealthcare.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-06-26T06:52:14.000Z",
+        "publishedLabel": "June 26, 2026",
+        "category": "Diagnostics",
+        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/06/26122035/New-Project-1-8.jpg",
+        "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
+        "justIn": false,
+        "originalUrl": "https://www.expresshealthcare.in/news/roche-diagnostics-announces-india-leadership-transition/454127/",
+        "articlePath": "/article.html?issue=2026-06-21&article=2026-06-21-roche-diagnostics-announces-india-leadership-transition"
       }
     ],
     "healthtech": []
@@ -462,6 +497,22 @@
       "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
     },
     {
+      "segment": "providers",
+      "articleId": "2026-06-21-fortis-escorts-faridabad-launches-dedicated-robotic-surgery-institute",
+      "title": "Fortis Escorts Faridabad launches dedicated robotic surgery institute",
+      "source": "Express Healthcare Posts",
+      "solution": "THB Provider CRM",
+      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
+    },
+    {
+      "segment": "providers",
+      "articleId": "2026-06-21-ck-birla-hospitals-cmri-launches-dedicated-foot-care-clinic",
+      "title": "CK Birla Hospitals, CMRI launches dedicated foot care clinic",
+      "source": "Express Healthcare Posts",
+      "solution": "THB Provider CRM",
+      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
+    },
+    {
       "segment": "diagnostics",
       "articleId": "2026-06-21-scanning-cancer-up-close-and-personal-a-revolution-is-underway-in-cancer",
       "title": "Scanning cancer, up close & personal: A revolution is underway in cancer diagnosis",
@@ -476,6 +527,14 @@
       "source": "ET Healthworld Diagnostics",
       "solution": "THB Network Growth",
       "action": "Use this signal to position THB for diagnostics network expansion, channel partner onboarding, and visibility across spoke sites, franchises, and enterprise accounts."
+    },
+    {
+      "segment": "diagnostics",
+      "articleId": "2026-06-21-roche-diagnostics-announces-india-leadership-transition",
+      "title": "Roche Diagnostics announces India leadership transition",
+      "source": "Express Healthcare Posts",
+      "solution": "THB Diagnostics CRM",
+      "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
     }
   ]
 }
