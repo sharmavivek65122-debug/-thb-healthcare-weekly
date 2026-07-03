@@ -5,21 +5,21 @@
   "startDate": "2026-06-20T18:30:00.000Z",
   "endDate": "2026-06-26T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-07-03T07:45:27.628Z",
+  "updatedAt": "2026-07-03T15:33:57.674Z",
   "coverage": {
-    "pharma": 14,
+    "pharma": 12,
     "providers": 3,
-    "diagnostics": 3,
+    "diagnostics": 2,
     "healthtech": 0
   },
   "sourcesUsed": [
+    "BioSpectrum India Healthcare",
     "ET Healthworld",
     "ET Healthworld Diagnostics",
     "ET Healthworld Hospitals",
     "Economic Times Pharma",
     "Express Healthcare Posts",
-    "Janssen India Media",
-    "PharmaTutor News"
+    "Janssen India Media"
   ],
   "segments": {
     "pharma": [
@@ -73,23 +73,6 @@
         "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/cdsco-asks-states-port-offices-to-step-up-screening-to-curb-imports-of-illegal-drugs/articleshow/132007262.cms",
         "articlePath": "/article.html?issue=2026-06-21&article=2026-06-21-cdsco-asks-states-port-offices-to-step-up-screening-to-curb-imports-of-i"
-      },
-      {
-        "id": "2026-06-21-centre-set-to-tighten-oversight-of-pharma-packaging-materials",
-        "title": "Centre set to tighten oversight of pharma packaging materials",
-        "summary": "India is set to implement a mandatory registration for printed pharmaceutical packaging manufacturers to combat counterfeit drugs. This move follows seizures of fake weight-loss drugs and vaccines, revealing that genuine packaging materials were being...",
-        "source": "Economic Times Pharma",
-        "sourceHost": "economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-06-26T02:40:42.000Z",
-        "publishedLabel": "June 26, 2026",
-        "category": "Industry Update",
-        "image": "https://img.etimg.com/thumb/msid-132005962,width-1200,height-630,imgsize-121806,overlay-economictimes/articleshow.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/centre-set-to-tighten-oversight-of-pharma-packaging-materials/articleshow/132005851.cms",
-        "articlePath": "/article.html?issue=2026-06-21&article=2026-06-21-centre-set-to-tighten-oversight-of-pharma-packaging-materials"
       },
       {
         "id": "2026-06-21-shelf-life-norms-for-imported-drugs-may-be-relaxed-to-reduce-wastage",
@@ -228,38 +211,21 @@
         "articlePath": "/article.html?issue=2026-06-21&article=2026-06-21-johnson-and-johnson-presents-new-imaavy-nipocalimab-aahu-data-at-europea"
       },
       {
-        "id": "2026-06-21-eli-lilly-launches-tanstrive-in-india-expanding-precision-treatment-opti",
-        "title": "Eli Lilly Launches Tanstrive in India, Expanding Precision Treatment Options for RET-Altered Cancers",
-        "summary": "Eli Lilly and Company India has announced the launch of Tanstrive (selpercatinib) in India following marketing authorisation from the Central Drugs Standard Control Organisation (CDSCO). The targeted therapy is indicated for patients with locally advanced or...",
-        "source": "PharmaTutor News",
-        "sourceHost": "pharmatutor.org",
+        "id": "2026-06-21-quantoom-and-nucelion-therapeutics-to-expand-rna-capacity-in-india",
+        "title": "Quantoom and Nucelion Therapeutics to expand RNA capacity in India",
+        "summary": "Quantoom and Nucelion Therapeutics to expand RNA capacity in India",
+        "source": "BioSpectrum India Healthcare",
+        "sourceHost": "biospectrumindia.com",
         "region": "India",
         "country": "India",
-        "publishedAt": "2026-06-27T11:14:04.000Z",
-        "publishedLabel": "June 27, 2026",
-        "category": "Market",
-        "image": "https://www.pharmatutor.org/sites/default/files/styles/webp/public/2026-06/eli-lilly-launches-tanstrive-in-india-expanding-precision-treatment-options-for-ret-altered-cancers.png.webp?itok=M-w7ke5f",
+        "publishedAt": "2026-06-22T18:30:00.000Z",
+        "publishedLabel": "June 23, 2026",
+        "category": "Industry Update",
+        "image": "https://www.biospectrumindia.com/uploads/articles/screenshot_23_6_2026_162226_quantoom_com-28006.jpeg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
         "justIn": false,
-        "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/eli-lilly-launches-tanstrive-in-india-expanding-precision-treatment-options-for-ret-altered-cancers",
-        "articlePath": "/article.html?issue=2026-06-21&article=2026-06-21-eli-lilly-launches-tanstrive-in-india-expanding-precision-treatment-opti"
-      },
-      {
-        "id": "2026-06-21-usfda-completes-pre-license-inspection-at-dr-reddy-s-bachupally-biologic",
-        "title": "USFDA Completes Pre-License Inspection at Dr. Reddy's Bachupally Biologics Facility; Issues Form 483 with Seven Observations",
-        "summary": "Dr. Reddy's Laboratories Limited has informed the stock exchanges that the United States Food and Drug Administration (USFDA) has completed a Pre-License Inspection (PLI) at the company's biologics manufacturing facility located in Bachupally,...",
-        "source": "PharmaTutor News",
-        "sourceHost": "pharmatutor.org",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-06-27T11:07:49.000Z",
-        "publishedLabel": "June 27, 2026",
-        "category": "Manufacturing",
-        "image": "https://www.pharmatutor.org/sites/default/files/styles/webp/public/2026-06/usfda-completes-pre-license-inspection-at-dr-reddys-bachupally-biologics-facility-issues-form-483-with-seven-observations.png.webp?itok=eenRmu0V",
-        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": false,
-        "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/usfda-completes-pre-license-inspection-at-dr-reddys-bachupally-biologics-facility-issues-form-483-with-seven-observations",
-        "articlePath": "/article.html?issue=2026-06-21&article=2026-06-21-usfda-completes-pre-license-inspection-at-dr-reddy-s-bachupally-biologic"
+        "originalUrl": "https://www.biospectrumindia.com/news/16/28006/quantoom-and-nucelion-therapeutics-to-expand-rna-capacity-in-india.html",
+        "articlePath": "/article.html?issue=2026-06-21&article=2026-06-21-quantoom-and-nucelion-therapeutics-to-expand-rna-capacity-in-india"
       }
     ],
     "providers": [
@@ -349,23 +315,6 @@
         "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/diagnostics/alzpath-signs-licensing-deal-with-abbott-to-develop-alzheimers-blood-test/131969381",
         "articlePath": "/article.html?issue=2026-06-21&article=2026-06-21-alzpath-signs-licensing-deal-with-abbott-to-develop-alzheimer-s-blood-te"
-      },
-      {
-        "id": "2026-06-21-roche-diagnostics-announces-india-leadership-transition",
-        "title": "Roche Diagnostics announces India leadership transition",
-        "summary": "Roche Diagnostics has announced a key leadership transition for its India and Neighboring Markets business. Effective August 1, 2026, Marco Valencia Sanchez will assume the role of General Manager, Roche […]",
-        "source": "Express Healthcare Posts",
-        "sourceHost": "expresshealthcare.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-06-26T06:52:14.000Z",
-        "publishedLabel": "June 26, 2026",
-        "category": "Diagnostics",
-        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/06/26122035/New-Project-1-8.jpg",
-        "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
-        "justIn": false,
-        "originalUrl": "https://www.expresshealthcare.in/news/roche-diagnostics-announces-india-leadership-transition/454127/",
-        "articlePath": "/article.html?issue=2026-06-21&article=2026-06-21-roche-diagnostics-announces-india-leadership-transition"
       }
     ],
     "healthtech": []
@@ -397,19 +346,19 @@
     },
     {
       "segment": "pharma",
-      "articleId": "2026-06-21-centre-set-to-tighten-oversight-of-pharma-packaging-materials",
-      "title": "Centre set to tighten oversight of pharma packaging materials",
+      "articleId": "2026-06-21-shelf-life-norms-for-imported-drugs-may-be-relaxed-to-reduce-wastage",
+      "title": "Shelf-life norms for imported drugs may be relaxed to reduce wastage",
       "source": "Economic Times Pharma",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
     },
     {
       "segment": "pharma",
-      "articleId": "2026-06-21-shelf-life-norms-for-imported-drugs-may-be-relaxed-to-reduce-wastage",
-      "title": "Shelf-life norms for imported drugs may be relaxed to reduce wastage",
+      "articleId": "2026-06-21-zydus-sunshine-to-set-up-20-million-pharma-jv-in-sri-lanka",
+      "title": "Zydus, Sunshine to set up $20 million pharma JV in Sri Lanka",
       "source": "Economic Times Pharma",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+      "solution": "THB Commercial Analytics",
+      "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
     },
     {
       "segment": "providers",
@@ -450,14 +399,6 @@
       "source": "ET Healthworld Diagnostics",
       "solution": "THB Network Growth",
       "action": "Use this signal to position THB for diagnostics network expansion, channel partner onboarding, and visibility across spoke sites, franchises, and enterprise accounts."
-    },
-    {
-      "segment": "diagnostics",
-      "articleId": "2026-06-21-roche-diagnostics-announces-india-leadership-transition",
-      "title": "Roche Diagnostics announces India leadership transition",
-      "source": "Express Healthcare Posts",
-      "solution": "THB Diagnostics CRM",
-      "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
     }
   ]
 }

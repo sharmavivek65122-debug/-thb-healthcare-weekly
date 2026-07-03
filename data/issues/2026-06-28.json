@@ -5,11 +5,11 @@
   "startDate": "2026-06-27T18:30:00.000Z",
   "endDate": "2026-07-03T18:30:00.000Z",
   "status": "live",
-  "updatedAt": "2026-07-03T07:45:27.628Z",
+  "updatedAt": "2026-07-03T15:33:57.674Z",
   "coverage": {
     "pharma": 50,
-    "providers": 13,
-    "diagnostics": 8,
+    "providers": 16,
+    "diagnostics": 6,
     "healthtech": 4
   },
   "sourcesUsed": [
@@ -22,8 +22,7 @@
     "Healthcare MEA",
     "Lupin Updates",
     "Medical Dialogues Pharma",
-    "PharmaTutor News",
-    "Zawya Pharmaceuticals"
+    "PharmaTutor News"
   ],
   "segments": {
     "pharma": [
@@ -91,7 +90,7 @@
         "category": "Launch",
         "image": "https://etimg.etb2bimg.com/thumb/msid-132150517,imgsize-139926,width-1200,height=627,overlay-ethealth,resizemode-75/industry/researchers-launch-study-on-ebola-treatments-as-congo-outbreak-worsens.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/researchers-launch-study-on-ebola-treatments-as-congo-outbreak-worsens/132150517",
         "articlePath": "/article.html?issue=2026-06-28&article=2026-06-28-researchers-launch-study-on-ebola-treatments-as-congo-outbreak-worsens"
       },
@@ -108,7 +107,7 @@
         "category": "Approval",
         "image": "https://img.etimg.com/thumb/msid-132145019,width-1200,height-630,imgsize-174440,overlay-economictimes/articleshow.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/new-rules-simplify-drug-launches-reduce-manufacturer-liability-for-overcharging/articleshow/132145026.cms",
         "articlePath": "/article.html?issue=2026-06-28&article=2026-06-28-new-rules-simplify-drug-launches-reduce-manufacturer-liability-for-overc"
       },
@@ -159,7 +158,7 @@
         "category": "Manufacturing",
         "image": "https://etimg.etb2bimg.com/thumb/msid-132084750,imgsize-83586,width-1200,height=627,overlay-ethealth,resizemode-75/medical-devices/govt-invites-proposals-for-medical-device-manufacturing-offers-up-to-rs-10-crore-subsidy.jpg",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/medical-devices/govt-invites-proposals-for-medical-device-manufacturing-offers-up-to-rs-10-crore-subsidy/132084750",
         "articlePath": "/article.html?issue=2026-06-28&article=2026-06-28-govt-invites-proposals-for-medical-device-manufacturing-offers-up-to-rs-"
       },
@@ -181,38 +180,21 @@
         "articlePath": "/article.html?issue=2026-06-28&article=2026-06-28-telangana-bets-big-on-drug-discovery-hub"
       },
       {
-        "id": "2026-06-28-iisc-study-finds-ultrasound-can-selectively-destroy-oral-cancer-cells",
-        "title": "IISc study finds ultrasound can selectively destroy oral cancer cells",
-        "summary": "In the new study, IISc researchers, working with clinicians from MS Ramaiah Medical College and Hospitals, tested low-frequency ultrasound on oral tumour samples obtained directly from patients. Using patient-derived samples allowed the team to better capture...",
+        "id": "2026-06-28-more-than-400-dead-in-dr-congo-s-spreading-ebola-outbreak",
+        "title": "More than 400 dead in DR Congo's spreading Ebola outbreak",
+        "summary": "An Ebola outbreak in the DR Congo has killed more than 400 people and is still spreading, with a first case reported in the major city of Kisangani nearly 600 kilometres (370 miles) from its epicentre. A case has also recently been reported in Kisangani, a...",
         "source": "ET Healthworld",
         "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-07-02T09:52:59.000Z",
-        "publishedLabel": "July 2, 2026",
+        "region": "Middle East",
+        "country": "Oman",
+        "publishedAt": "2026-07-03T08:21:12.000Z",
+        "publishedLabel": "July 3, 2026",
         "category": "Industry Update",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-132135250,imgsize-43198,width-1200,height=627,overlay-ethealth,resizemode-75/industry/iisc-study-finds-ultrasound-can-selectively-destroy-oral-cancer-cells.jpg",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-132156344,imgsize-104660,width-1200,height=627,overlay-ethealth,resizemode-75/industry/more-than-400-dead-in-dr-congos-spreading-ebola-outbreak.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/iisc-study-finds-ultrasound-can-selectively-destroy-oral-cancer-cells/132135250",
-        "articlePath": "/article.html?issue=2026-06-28&article=2026-06-28-iisc-study-finds-ultrasound-can-selectively-destroy-oral-cancer-cells"
-      },
-      {
-        "id": "2026-06-28-india-needs-national-strategy-to-improve-access-to-new-cancer-therapies-",
-        "title": "India needs national strategy to improve access to new cancer therapies: Experts",
-        "summary": "The roundtable, held during Cancer Survivor Month, brought together oncologists and cancer survivors to discuss ways to make innovations in cancer care more affordable and accessible across India.",
-        "source": "ET Healthworld",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-07-02T06:36:23.000Z",
-        "publishedLabel": "July 2, 2026",
-        "category": "Industry Update",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-132131093,imgsize-1187438,width-1200,height=627,overlay-ethealth,resizemode-75/industry/india-needs-national-strategy-to-improve-access-to-new-cancer-therapies-experts.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/india-needs-national-strategy-to-improve-access-to-new-cancer-therapies-experts/132131093",
-        "articlePath": "/article.html?issue=2026-06-28&article=2026-06-28-india-needs-national-strategy-to-improve-access-to-new-cancer-therapies-"
+        "justIn": true,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/more-than-400-dead-in-dr-congos-spreading-ebola-outbreak/132156344",
+        "articlePath": "/article.html?issue=2026-06-28&article=2026-06-28-more-than-400-dead-in-dr-congo-s-spreading-ebola-outbreak"
       },
       {
         "id": "2026-06-28-mankind-pharma-partners-denovo-sciences-for-ai-led-drug-discovery",
@@ -261,7 +243,7 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-132150500,imgsize-508448,width-1200,height=627,overlay-ethealth,resizemode-75/policy/niti-aayog-suggests-strategic-roadmap-to-make-ayurveda-global.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/policy/niti-aayog-suggests-strategic-roadmap-to-make-ayurveda-global/132150500",
         "articlePath": "/article.html?issue=2026-06-28&article=2026-06-28-niti-aayog-suggests-strategic-roadmap-to-make-ayurveda-global"
       },
@@ -283,23 +265,6 @@
         "articlePath": "/article.html?issue=2026-06-28&article=2026-06-28-alembic-pharmaceuticals-gets-usfda-nod-for-generic-acne-treatment-gel"
       },
       {
-        "id": "2026-06-28-prudential-hcl-health-insurance-gets-irdai-nod",
-        "title": "Prudential HCL Health Insurance gets IRDAI nod",
-        "summary": "The Insurance Regulatory and Development Authority of India (Irdai) also approved a series of regulatory measures including the rollout of Indian Accounting Standards, creation of a policyholder protection fund and retention of three domestic systemically...",
-        "source": "ET Healthworld",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-07-02T09:47:31.000Z",
-        "publishedLabel": "July 2, 2026",
-        "category": "Industry Update",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-132135173,imgsize-177340,width-1200,height=627,overlay-ethealth,resizemode-75/insurance/prudential-hcl-health-insurance-gets-irdai-nod.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/insurance/prudential-hcl-health-insurance-gets-irdai-nod/132135173",
-        "articlePath": "/article.html?issue=2026-06-28&article=2026-06-28-prudential-hcl-health-insurance-gets-irdai-nod"
-      },
-      {
         "id": "2026-06-28-esic-to-directly-manage-new-hospitals",
         "title": "ESIC to directly manage new hospitals",
         "summary": "The Corporation deliberated upon and approved several key agenda items aimed at strengthening ESIC's healthcare infrastructure, expanding medical education, and improving organisational efficiency and service delivery.",
@@ -312,9 +277,26 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-132103740,imgsize-200368,width-1200,height=627,overlay-ethealth,resizemode-75/insurance/esic-to-directly-manage-new-hospitals.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/insurance/esic-to-directly-manage-new-hospitals/132103740",
         "articlePath": "/article.html?issue=2026-06-28&article=2026-06-28-esic-to-directly-manage-new-hospitals"
+      },
+      {
+        "id": "2026-06-28-dementia-campaigns-should-employ-engaging-personalised-approaches-to-dri",
+        "title": "Dementia campaigns should employ engaging, personalised approaches to drive behaviour changes: Study",
+        "summary": "The analysis of population-level interventions -- focussed on communicating dementia-specific risk reduction and prevention messaging -- found that while large-scale health awareness campaigns can reach wide audiences, they often lead to only small...",
+        "source": "ET Healthworld",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-07-03T08:06:38.000Z",
+        "publishedLabel": "July 3, 2026",
+        "category": "Industry Update",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-132155975,imgsize-90532,width-1200,height=627,overlay-ethealth,resizemode-75/industry/dementia-campaigns-should-employ-engaging-personalised-approaches-to-drive-behaviour-changes-study.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/dementia-campaigns-should-employ-engaging-personalised-approaches-to-drive-behaviour-changes-study/132155975",
+        "articlePath": "/article.html?issue=2026-06-28&article=2026-06-28-dementia-campaigns-should-employ-engaging-personalised-approaches-to-dri"
       },
       {
         "id": "2026-06-28-santaana-fertility-to-invest-rs-50-cr-expand-to-eight-bengaluru-centres-",
@@ -329,7 +311,7 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-132153770,imgsize-728307,width-1200,height=627,overlay-ethealth,resizemode-75/industry/santaana-fertility-to-invest-rs-50-cr-expand-to-eight-bengaluru-centres-through-magnet-hospitals-partnership.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/santaana-fertility-to-invest-rs-50-cr-expand-to-eight-bengaluru-centres-through-magnet-hospitals-partnership/132153770",
         "articlePath": "/article.html?issue=2026-06-28&article=2026-06-28-santaana-fertility-to-invest-rs-50-cr-expand-to-eight-bengaluru-centres-"
       },
@@ -351,23 +333,6 @@
         "articlePath": "/article.html?issue=2026-06-28&article=2026-06-28-medical-device-maker-zimmer-biomet-to-hire-500-in-3-years-for-tech-centr"
       },
       {
-        "id": "2026-06-28-study-links-obesity-to-distinct-molecular-process-driving-invasive-breas",
-        "title": "Study links obesity to distinct molecular process driving invasive breast cancer",
-        "summary": "Researchers, including those from the University of Oklahoma Health Campus, US, said that rather than simply showing an increased activation of classical invasive pathways, tumours from obese patients exhibited a distinct stress-adaptive phenotype.",
-        "source": "ET Healthworld",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-07-02T01:36:57.000Z",
-        "publishedLabel": "July 2, 2026",
-        "category": "Industry Update",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-132126928,imgsize-63662,width-1200,height=627,overlay-ethealth,resizemode-75/industry/study-links-obesity-to-distinct-molecular-process-driving-invasive-breast-cancer.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/study-links-obesity-to-distinct-molecular-process-driving-invasive-breast-cancer/132126928",
-        "articlePath": "/article.html?issue=2026-06-28&article=2026-06-28-study-links-obesity-to-distinct-molecular-process-driving-invasive-breas"
-      },
-      {
         "id": "2026-06-28-enext-icu-wins-inaugural-ihh-catalyst-fortis-india-edition",
         "title": "eNext ICU wins inaugural IHH Catalyst | Fortis India edition",
         "summary": "Top three winners selected from 10 high-potential healthcare startups shortlisted from 195 applications across India",
@@ -380,26 +345,9 @@
         "category": "Industry Update",
         "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/07/03100619/EH_The_Winner_of_IHH_Catalyst_eNext_ICU_750.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/news/enext-icu-wins-inaugural-ihh-catalyst-fortis-india-edition/454194/",
         "articlePath": "/article.html?issue=2026-06-28&article=2026-06-28-enext-icu-wins-inaugural-ihh-catalyst-fortis-india-edition"
-      },
-      {
-        "id": "2026-06-28-advancell-clinches-massive-andover-lease-for-us-radiopharmaceutical-hub-",
-        "title": "AdvanCell clinches massive Andover lease for US radiopharmaceutical hub | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
-        "summary": "The new site will serve as the company's U.S. global headquarters and future manufacturing centre as it accelerates the development of targeted cancer therapies.",
-        "source": "Healthcare MEA",
-        "sourceHost": "healthcaremea.com",
-        "region": "Middle East",
-        "country": "Middle East",
-        "publishedAt": "2026-07-02T08:18:58.000Z",
-        "publishedLabel": "July 2, 2026",
-        "category": "Manufacturing",
-        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/07/image-1600x900-2026-07-02T111141.156.png",
-        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": false,
-        "originalUrl": "https://www.healthcaremea.com/2026/07/02/advancell-clinches-massive-andover-lease-for-us-radiopharmaceutical-hub/",
-        "articlePath": "/article.html?issue=2026-06-28&article=2026-06-28-advancell-clinches-massive-andover-lease-for-us-radiopharmaceutical-hub-"
       },
       {
         "id": "2026-06-28-apac-is-a-fast-growing-region-where-customers-increasingly-need-speed-sc",
@@ -414,9 +362,26 @@
         "category": "Industry Update",
         "image": "https://www.biospectrumasia.com/uploads/articles/tony_qiu_high_res_jpg_1_1_1_-27934.jpeg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.biospectrumasia.com/opinion/25/27934/apac-is-a-fast-growing-region-where-customers-increasingly-need-speed-scalability-and-supply-reliability.html",
         "articlePath": "/article.html?issue=2026-06-28&article=2026-06-28-apac-is-a-fast-growing-region-where-customers-increasingly-need-speed-sc"
+      },
+      {
+        "id": "2026-06-28-government-expands-licensing-rules-to-cover-cell-and-gene-therapies-stem",
+        "title": "Government Expands licensing Rules to Cover Cell & Gene Therapies, Stem Cell Products and Xenografts",
+        "summary": "In a significant move to strengthen the regulation of advanced biological therapies in India, the Ministry of Health and Family Welfare has notified the Drugs (Eighth Amendment) Rules, 2026, expanding the scope of the Central Licence Approving Authority...",
+        "source": "PharmaTutor News",
+        "sourceHost": "pharmatutor.org",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-07-03T11:59:28.000Z",
+        "publishedLabel": "July 3, 2026",
+        "category": "Industry Update",
+        "image": "https://www.pharmatutor.org/sites/default/files/styles/webp/public/2026-07/government-expands-licensing-rules-to-cover-cell-and-gene-therapies-stem-cell-products-and-xenografts.png.webp?itok=9yfvWt0x",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/government-expands-licensing-rules-to-cover-cell-and-gene-therapies-stem-cell-products-and-xenografts",
+        "articlePath": "/article.html?issue=2026-06-28&article=2026-06-28-government-expands-licensing-rules-to-cover-cell-and-gene-therapies-stem"
       },
       {
         "id": "2026-06-28-shilpa-biologicals-signs-europe-deal-with-orion-for-cancer-drug-nivoluma",
@@ -555,6 +520,23 @@
         "articlePath": "/article.html?issue=2026-06-28&article=2026-06-28-taiwan-leapfrogs-biomedicine-growth"
       },
       {
+        "id": "2026-06-28-eli-lilly-outsources-verzenios-commercial-operations-to-china-s-innovati",
+        "title": "Eli Lilly outsources Verzenios' commercial operations to China's Innovative Biologics | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
+        "summary": "Verzenios is a cyclin-dependent kinase 4 and 6 (CDK4/6) inhibitor developed by Lilly for the treatment of several forms of breast cancer.",
+        "source": "Healthcare MEA",
+        "sourceHost": "healthcaremea.com",
+        "region": "Middle East",
+        "country": "Middle East",
+        "publishedAt": "2026-07-03T08:26:00.000Z",
+        "publishedLabel": "July 3, 2026",
+        "category": "Manufacturing",
+        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/07/image-1600x900-2026-07-03T093037.064.png",
+        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
+        "justIn": true,
+        "originalUrl": "https://www.healthcaremea.com/2026/07/03/eli-lilly-outsources-verzenios-commercial-operations-to-chinas-innovative-biologics/",
+        "articlePath": "/article.html?issue=2026-06-28&article=2026-06-28-eli-lilly-outsources-verzenios-commercial-operations-to-china-s-innovati"
+      },
+      {
         "id": "2026-06-28-kimball-electronics-expands-medical-grid-with-us-103m-helvoet-takeover-h",
         "title": "Kimball Electronics expands medical grid with US$103M Helvoet takeover | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
         "summary": "The Jasper, Indiana-based electronics and medical contract manufacturer will add Helvoet's facilities in Tilburg, the Netherlands, and in Pune, India, to its global manufacturing network.",
@@ -567,7 +549,7 @@
         "category": "Manufacturing",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/07/image-1600x900-2026-07-03T101924.014.png",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/07/03/kimball-electronics-expands-medical-grid-with-us103m-helvoet-takeover/",
         "articlePath": "/article.html?issue=2026-06-28&article=2026-06-28-kimball-electronics-expands-medical-grid-with-us-103m-helvoet-takeover-h"
       },
@@ -584,7 +566,7 @@
         "category": "Manufacturing",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/07/image-1600x900-2026-07-03T101007.356.png",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/07/03/quantumcell-inks-us2-2b-alzheimers-deal-with-alzecure-pharma/",
         "articlePath": "/article.html?issue=2026-06-28&article=2026-06-28-quantumcell-inks-us-2-2b-alzheimer-s-deal-with-alzecure-pharma-healthcar"
       },
@@ -674,6 +656,23 @@
         "articlePath": "/article.html?issue=2026-06-28&article=2026-06-28-revamping-and-enhancing-pharma-logistics"
       },
       {
+        "id": "2026-06-28-mankind-pharma-partners-with-denovo-sciences-to-accelerate-ai-driven-dru",
+        "title": "Mankind Pharma Partners with Denovo Sciences to Accelerate AI-Driven Drug Discovery and Innovation",
+        "summary": "Mankind Pharma has announced a strategic collaboration with Denovo Sciences to strengthen its drug discovery capabilities through artificial intelligence (AI), marking a significant step toward technology-enabled pharmaceutical research. The partnership aims...",
+        "source": "PharmaTutor News",
+        "sourceHost": "pharmatutor.org",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-07-03T11:55:34.000Z",
+        "publishedLabel": "July 3, 2026",
+        "category": "Partnership",
+        "image": "https://www.pharmatutor.org/sites/default/files/styles/webp/public/2026-07/mankind-pharma-partners-with-denovo-sciences-to-accelerate-ai-driven-drug-discovery-and-innovation.png.webp?itok=yte4Vrvw",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/mankind-pharma-partners-with-denovo-sciences-to-accelerate-ai-driven-drug-discovery-and-innovation",
+        "articlePath": "/article.html?issue=2026-06-28&article=2026-06-28-mankind-pharma-partners-with-denovo-sciences-to-accelerate-ai-driven-dru"
+      },
+      {
         "id": "2026-06-28-corona-remedies-commissions-eu-gmp-approved-hormone-manufacturing-facili",
         "title": "CORONA Remedies Commissions EU-GMP Approved Hormone Manufacturing Facility in Ahmedabad",
         "summary": "New Delhi: CORONA Remedies Limited has inaugurated and commercialised its dedicated European Union Good Manufacturing Practice (EU-GMP)-approved hormone manufacturing facility at Bhayla,...",
@@ -686,7 +685,7 @@
         "category": "Manufacturing",
         "image": "https://medicaldialogues.in/h-upload/2026/03/31/338693-corona-remedies.jpg",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/corona-remedies-commissions-eu-gmp-approved-hormone-manufacturing-facility-in-ahmedabad-174193",
         "articlePath": "/article.html?issue=2026-06-28&article=2026-06-28-corona-remedies-commissions-eu-gmp-approved-hormone-manufacturing-facili"
       },
@@ -759,6 +758,23 @@
         "articlePath": "/article.html?issue=2026-06-28&article=2026-06-28-eu-approves-astrazeneca-s-enhertu-as-first-tumour-agnostic-her2-targeted"
       },
       {
+        "id": "2026-06-28-hamad-medical-corporation-signs-mou-with-boehringer-ingelheim-to-transfo",
+        "title": "Hamad Medical Corporation signs MoU with Boehringer Ingelheim to transform Qatar’s clinical research",
+        "summary": "Under the partnership, the two organizations will work together to enhance HMC's Clinical Trials Unit (CTU), strengthen research expertise, and develop initiatives that support the continued ...",
+        "source": "Healthcare MEA",
+        "sourceHost": "healthcaremea.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-07-03T08:58:38.000Z",
+        "publishedLabel": "July 3, 2026",
+        "category": "Clinical Trial",
+        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/07/image-1600x900-2026-07-03T115601.202.png",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://www.healthcaremea.com/2026/07/03/hamad-medical-corporation-signs-mou-with-boehringer-ingelheim-to-transform-qatars-clinical-research/",
+        "articlePath": "/article.html?issue=2026-06-28&article=2026-06-28-hamad-medical-corporation-signs-mou-with-boehringer-ingelheim-to-transfo"
+      },
+      {
         "id": "2026-06-28-ajanta-pharma-receives-usfda-eir-for-paithan-plant-inspection-closed-wit",
         "title": "Ajanta Pharma Receives USFDA EIR for Paithan Plant, Inspection Closed with VAI Status",
         "summary": "New Delhi: Ajanta Pharma Limited has announced that it has received the Establishment Inspection Report (EIR) from the United States Food and Drug Administration (USFDA) for its Paithan manufacturing...",
@@ -771,7 +787,7 @@
         "category": "Manufacturing",
         "image": "https://medicaldialogues.in/h-upload/2022/12/23/194734-ajanta-pharma-new.jpg",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/ajanta-pharma-receives-usfda-eir-for-paithan-plant-inspection-closed-with-vai-status-174195",
         "articlePath": "/article.html?issue=2026-06-28&article=2026-06-28-ajanta-pharma-receives-usfda-eir-for-paithan-plant-inspection-closed-wit"
       },
@@ -788,7 +804,7 @@
         "category": "Approval",
         "image": "https://medicaldialogues.in/h-upload/2025/03/24/279930-lupin-digital-health-50-5.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/lupin-gets-ema-approval-to-expand-namuscla-use-for-children-with-rare-muscle-disorder-174194",
         "articlePath": "/article.html?issue=2026-06-28&article=2026-06-28-lupin-gets-ema-approval-to-expand-namuscla-use-for-children-with-rare-mu"
       },
@@ -859,23 +875,6 @@
         "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/zydus-wellness-appoints-harvard-trained-scientist-dr-shyam-ramakrishnan-as-cso-174099",
         "articlePath": "/article.html?issue=2026-06-28&article=2026-06-28-zydus-wellness-appoints-harvard-trained-scientist-dr-shyam-ramakrishnan-"
-      },
-      {
-        "id": "2026-06-28-scientists-transform-human-cells-into-living-biocomputers-opening-new-pa",
-        "title": "Scientists Transform Human Cells into Living Biocomputers, Opening New Path for Precision Cancer Therapy",
-        "summary": "Researchers at the Hebrew University of Jerusalem have developed an innovative genetic programming system that enables human cells to process information and make autonomous decisions, functioning much like miniature biological computers.",
-        "source": "PharmaTutor News",
-        "sourceHost": "pharmatutor.org",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-07-01T11:54:29.000Z",
-        "publishedLabel": "July 1, 2026",
-        "category": "Industry Update",
-        "image": "https://www.pharmatutor.org/sites/default/files/styles/webp/public/2026-07/scientists-transform-human-cells-into-living-biocomputers-opening-new-path-for-precision-cancer-therapy.png.webp?itok=AeBXclVZ",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/scientists-transform-human-cells-into-living-biocomputers-opening-new-path-for-precision-cancer-therapy",
-        "articlePath": "/article.html?issue=2026-06-28&article=2026-06-28-scientists-transform-human-cells-into-living-biocomputers-opening-new-pa"
       }
     ],
     "providers": [
@@ -892,7 +891,7 @@
         "category": "AI Care Delivery",
         "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/07/03130020/EH_GB_JSA_Advocates_750.jpg",
         "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/news/healthcare-regulation-through-a-systems-lens/454206/",
         "articlePath": "/article.html?issue=2026-06-28&article=2026-06-28-healthcare-regulation-through-a-systems-lens"
       },
@@ -909,7 +908,7 @@
         "category": "Expansion",
         "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/07/03102057/EH_Dr_Azad_Moopen_Varun_Khanna_750.jpg",
         "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/news/aster-quality-care-begins-operations-post-merger/454197/",
         "articlePath": "/article.html?issue=2026-06-28&article=2026-06-28-aster-quality-care-begins-operations-post-merger"
       },
@@ -965,6 +964,23 @@
         "articlePath": "/article.html?issue=2026-06-28&article=2026-06-28-advancing-patient-care-in-india-through-standardised-nutritional-recover"
       },
       {
+        "id": "2026-06-28-zydus-lifesciences-partners-guardant-health-and-apollo-hospitals-to-intr",
+        "title": "Zydus Lifesciences partners Guardant Health and Apollo Hospitals to introduce Shield Multi-Cancer Detection test in India",
+        "summary": "MoU signed with Apollo Hospitals to offer blood-based multi-cancer detection test for individuals aged 45 years and above",
+        "source": "Express Healthcare",
+        "sourceHost": "expresshealthcare.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-07-03T09:09:09.000Z",
+        "publishedLabel": "July 3, 2026",
+        "category": "Hospital",
+        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2021/06/24162547/signing-agreement.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": true,
+        "originalUrl": "https://www.expresshealthcare.in/news/zydus-lifesciences-partners-guardant-health-and-apollo-hospitals-to-introduce-shield-multi-cancer-detection-test-in-india/454209/",
+        "articlePath": "/article.html?issue=2026-06-28&article=2026-06-28-zydus-lifesciences-partners-guardant-health-and-apollo-hospitals-to-intr"
+      },
+      {
         "id": "2026-06-28-living-beyond-the-diagnosis-a-holistic-approach-to-cancer-care",
         "title": "Living beyond the diagnosis: A holistic approach to cancer care",
         "summary": "The patient will be advised a well-balanced diet which can help to strengthen and enhance immunity, promote healing, and reduce the chances of nutritional deficiencies. Apart from nutrition, the patient […]",
@@ -985,7 +1001,7 @@
         "id": "2026-06-28-doctor-s-day-special-5-minutes-that-changed-everything-dr-prof-sandeep-a",
         "title": "Doctor’s Day Special – 5 minutes that changed everything: Dr (Prof) Sandeep Aggarwal, Manipal Hospital",
         "summary": "Dr. (Prof.) Sandeep Aggarwal, Chairman - Manipal Institute of Minimal Access, Bariatric, GI & Robotic Surgery, Manipal Hospital, Dwarka, New Delhi revisits the defining moment that reshaped his journey in medicine",
-        "source": "Express Healthcare",
+        "source": "Express Healthcare Posts",
         "sourceHost": "expresshealthcare.in",
         "region": "India",
         "country": "India",
@@ -1011,7 +1027,7 @@
         "category": "Hospital",
         "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2021/07/01130827/Doctors-consultation.jpg",
         "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/news/apollo-hospitals-navi-mumbai-records-milestone-in-leadless-pacemaker-implantations/454201/",
         "articlePath": "/article.html?issue=2026-06-28&article=2026-06-28-apollo-hospitals-navi-mumbai-records-milestone-in-leadless-pacemaker-imp"
       },
@@ -1033,6 +1049,23 @@
         "articlePath": "/article.html?issue=2026-06-28&article=2026-06-28-roche-to-establish-second-digital-tech-hub-in-india-with-hyderabad-site"
       },
       {
+        "id": "2026-06-28-aster-dm-quality-care-begins-operations-post-merger-with-over-10-600-bed",
+        "title": "Aster DM Quality Care begins operations post-merger with over 10,600 beds | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
+        "summary": "The newly formed organization brings together four established healthcare brands including Aster DM, CARE Hospitals, Evercare and KIMSHEALTH, under a single platform focused on expanding access to ...",
+        "source": "Healthcare MEA",
+        "sourceHost": "healthcaremea.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-07-03T08:16:00.000Z",
+        "publishedLabel": "July 3, 2026",
+        "category": "Hospital",
+        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/07/image-1600x900-2026-07-03T090026.429.png",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": true,
+        "originalUrl": "https://www.healthcaremea.com/2026/07/03/aster-dm-quality-care-begins-operations-post-merger-with-over-10600-beds/",
+        "articlePath": "/article.html?issue=2026-06-28&article=2026-06-28-aster-dm-quality-care-begins-operations-post-merger-with-over-10-600-bed"
+      },
+      {
         "id": "2026-06-28-saudi-german-hospital-dammam-earns-prestigious-ancc-magnet-recognition-h",
         "title": "Saudi German Hospital Dammam earns prestigious ANCC Magnet recognition | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
         "summary": "For patients, the recognition reflects a healthcare environment where nurses receive strong institutional support to deliver safe, compassionate, and patient-centred care.",
@@ -1045,7 +1078,7 @@
         "category": "Hospital",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/07/image-1600x900-2026-07-03T092145.345.png",
         "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/07/03/saudi-german-hospital-dammam-earns-prestigious-ancc-magnet-recognition/",
         "articlePath": "/article.html?issue=2026-06-28&article=2026-06-28-saudi-german-hospital-dammam-earns-prestigious-ancc-magnet-recognition-h"
       },
@@ -1079,9 +1112,26 @@
         "category": "Provider Update",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/07/image-1600x900-2026-07-03T102555.106.png",
         "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/07/03/mayo-clinic-discovers-hormone-replacement-improves-tirzepatide-obesity-treatment/",
         "articlePath": "/article.html?issue=2026-06-28&article=2026-06-28-mayo-clinic-discovers-hormone-replacement-improves-tirzepatide-obesity-t"
+      },
+      {
+        "id": "2026-06-28-mwai-kibaki-referral-hospital-gains-full-autonomy-from-kenyatta-national",
+        "title": "Mwai Kibaki Referral Hospital gains full autonomy from Kenyatta National Hospital | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
+        "summary": "The new status gives MKRH its own Board of Directors, an approved organizational structure, and direct funding from the National Exchequer.",
+        "source": "Healthcare MEA",
+        "sourceHost": "healthcaremea.com",
+        "region": "Middle East",
+        "country": "Middle East",
+        "publishedAt": "2026-07-03T10:04:11.000Z",
+        "publishedLabel": "July 3, 2026",
+        "category": "Hospital",
+        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/07/image-1600x900-2026-07-03T105613.999.png",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": true,
+        "originalUrl": "https://www.healthcaremea.com/2026/07/03/mwai-kibaki-referral-hospital-gains-full-autonomy-from-kenyatta-national-hospital/",
+        "articlePath": "/article.html?issue=2026-06-28&article=2026-06-28-mwai-kibaki-referral-hospital-gains-full-autonomy-from-kenyatta-national"
       },
       {
         "id": "2026-06-28-can-t-keep-employees-on-contract-for-years-then-deny-job-security-hc-rej",
@@ -1186,40 +1236,6 @@
         "justIn": false,
         "originalUrl": "https://www.biospectrumasia.com/opinion/105/27935/how-testing-is-reshaping-front-door-of-care-in-thailand.html",
         "articlePath": "/article.html?issue=2026-06-28&article=2026-06-28-how-testing-is-reshaping-front-door-of-care-in-thailand"
-      },
-      {
-        "id": "2026-06-28-turks-and-caicos-islands-become-first-territory-in-americas-to-eradicate",
-        "title": "Turks and Caicos Islands become first territory in Americas to eradicate maternal hepatitis B",
-        "summary": "The initiative has strengthened disease prevention, maternal healthcare services, laboratory capacity, and surveillance systems, helping the territory maintain high standards of care.",
-        "source": "Healthcare MEA",
-        "sourceHost": "healthcaremea.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-07-02T08:30:06.000Z",
-        "publishedLabel": "July 2, 2026",
-        "category": "Lab Network",
-        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/07/image-1600x900-2026-07-02T112350.622.png",
-        "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
-        "justIn": false,
-        "originalUrl": "https://www.healthcaremea.com/2026/07/02/turks-and-caicos-islands-become-first-territory-in-americas-to-eradicate-maternal-hepatitis-b/",
-        "articlePath": "/article.html?issue=2026-06-28&article=2026-06-28-turks-and-caicos-islands-become-first-territory-in-americas-to-eradicate"
-      },
-      {
-        "id": "2026-06-28-spain-s-royal-academy-of-engineering-elects-professor-marcos-l-pez-de-pr",
-        "title": "Spain’s Royal Academy of Engineering elects Professor Marcos López de Prado as international member",
-        "summary": "The election recognizes Professor López de Prado’s contributions to computational science and financial machine learning over an international career spanning three decades and three continents",
-        "source": "Zawya Pharmaceuticals",
-        "sourceHost": "zawya.com",
-        "region": "Middle East",
-        "country": "United Arab Emirates",
-        "publishedAt": "2026-07-03T06:40:03.000Z",
-        "publishedLabel": "July 3, 2026",
-        "category": "Industry Update",
-        "image": "https://static.zawya.com/view/acePublic/alias/contentid/78d7ce19-ed58-4490-8bb1-bf677f66769d/0/professor-marcoslpezdeprado-sourceadia-jpg.jpeg?f=3%3A2",
-        "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
-        "justIn": true,
-        "originalUrl": "https://www.zawya.com/en/press-release/companies-news/spains-royal-academy-of-engineering-elects-professor-marcos-lopez-de-prado-as-international-member-qp5t61w4",
-        "articlePath": "/article.html?issue=2026-06-28&article=2026-06-28-spain-s-royal-academy-of-engineering-elects-professor-marcos-l-pez-de-pr"
       },
       {
         "id": "2026-06-28-5-pharmacists-2-delhi-health-officials-suspended-over-medicine-procureme",
