@@ -5,19 +5,55 @@
   "startDate": "2026-06-06T18:30:00.000Z",
   "endDate": "2026-06-12T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-07-04T07:21:35.990Z",
+  "updatedAt": "2026-07-04T14:50:04.793Z",
   "coverage": {
-    "pharma": 0,
+    "pharma": 2,
     "providers": 3,
     "diagnostics": 3,
     "healthtech": 0
   },
   "sourcesUsed": [
     "ET Healthworld Diagnostics",
-    "ET Healthworld Hospitals"
+    "ET Healthworld Hospitals",
+    "Janssen India Media"
   ],
   "segments": {
-    "pharma": [],
+    "pharma": [
+      {
+        "id": "2026-06-07-new-talvey-talquetamab-tgvs-plus-darzalex-faspro-daratumumab-and-hyaluro",
+        "title": "New TALVEY® (talquetamab-tgvs) plus DARZALEX FASPRO® (daratumumab and hyaluronidase-fihj) data demonstrate the strength of a bispecific combination in earlier-line relapsed or refractory multiple myeloma",
+        "summary": "· TALVEY® plus DARZALEX FASPRO® with or without pomalidomide showed progression-free survival of up to 81% and overall survival of up to 89% at 24 months",
+        "source": "Janssen India Media",
+        "sourceHost": "janssen.com",
+        "region": "Middle East",
+        "country": "Oman",
+        "publishedAt": "2026-06-13T06:11:27.918Z",
+        "publishedLabel": "June 13, 2026",
+        "category": "Industry Update",
+        "image": "https://jnj-content-lab2.brightspotcdn.com/ac/25/bd2078f54d5992dd486ed26140ce/johnson-johnson-logo.svg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": false,
+        "originalUrl": "https://www.jnj.com/media-center/press-releases/new-talvey-talquetamab-tgvs-plus-darzalex-faspro-daratumumab-and-hyaluronidase-fihj-data-demonstrate-the-strength-of-a-bispecific-combination-in-earlier-line-relapsed-or-refractory-multiple-myeloma",
+        "articlePath": "/article.html?issue=2026-06-07&article=2026-06-07-new-talvey-talquetamab-tgvs-plus-darzalex-faspro-daratumumab-and-hyaluro"
+      },
+      {
+        "id": "2026-06-07-johnson-and-johnson-to-acquire-firefly-bio-inc-to-expand-oncology-pipeli",
+        "title": "Johnson & Johnson to Acquire Firefly Bio, Inc. to Expand Oncology Pipeline with Novel Degrader Antibody Conjugate Platform",
+        "summary": "• Expands the Company’s expertise in targeting pan-KRAS and other drivers of hard-to-treat cancers • Acquisition adds a proprietary degrader antibody conjugate platform designed to overcome key limitations of existing therapeutic approaches • Strengthens...",
+        "source": "Janssen India Media",
+        "sourceHost": "janssen.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-06-08T06:30:00.000Z",
+        "publishedLabel": "June 8, 2026",
+        "category": "Industry Update",
+        "image": "https://jnj-content-lab2.brightspotcdn.com/ac/25/bd2078f54d5992dd486ed26140ce/johnson-johnson-logo.svg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": false,
+        "originalUrl": "https://www.jnj.com/media-center/press-releases/johnson-johnson-to-acquire-firefly-bio-inc-to-expand-oncology-pipeline-with-novel-degrader-antibody-conjugate-platform",
+        "articlePath": "/article.html?issue=2026-06-07&article=2026-06-07-johnson-and-johnson-to-acquire-firefly-bio-inc-to-expand-oncology-pipeli"
+      }
+    ],
     "providers": [
       {
         "id": "2026-06-07-sahyadri-hospital-pune-banks-on-advanced-cardiac-laser-therapy-for-compl",
@@ -127,6 +163,22 @@
     "healthtech": []
   },
   "thbActions": [
+    {
+      "segment": "pharma",
+      "articleId": "2026-06-07-new-talvey-talquetamab-tgvs-plus-darzalex-faspro-daratumumab-and-hyaluro",
+      "title": "New TALVEY® (talquetamab-tgvs) plus DARZALEX FASPRO® (daratumumab and hyaluronidase-fihj) data demonstrate the strength of a bispecific combination in earlier-line relapsed or refractory multiple myeloma",
+      "source": "Janssen India Media",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "pharma",
+      "articleId": "2026-06-07-johnson-and-johnson-to-acquire-firefly-bio-inc-to-expand-oncology-pipeli",
+      "title": "Johnson & Johnson to Acquire Firefly Bio, Inc. to Expand Oncology Pipeline with Novel Degrader Antibody Conjugate Platform",
+      "source": "Janssen India Media",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
     {
       "segment": "providers",
       "articleId": "2026-06-07-sahyadri-hospital-pune-banks-on-advanced-cardiac-laser-therapy-for-compl",

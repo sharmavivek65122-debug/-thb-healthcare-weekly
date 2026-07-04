@@ -5,12 +5,12 @@
   "startDate": "2026-06-27T18:30:00.000Z",
   "endDate": "2026-07-03T18:30:00.000Z",
   "status": "live",
-  "updatedAt": "2026-07-04T07:21:35.990Z",
+  "updatedAt": "2026-07-04T14:50:04.793Z",
   "coverage": {
     "pharma": 50,
-    "providers": 16,
+    "providers": 17,
     "diagnostics": 6,
-    "healthtech": 3
+    "healthtech": 4
   },
   "sourcesUsed": [
     "BioSpectrum Asia Middle East",
@@ -22,7 +22,8 @@
     "Healthcare MEA",
     "Lupin Updates",
     "Medical Dialogues Pharma",
-    "PharmaTutor News"
+    "PharmaTutor News",
+    "Zawya Pharmaceuticals"
   ],
   "segments": {
     "pharma": [
@@ -90,7 +91,7 @@
         "category": "Market",
         "image": "https://img.etimg.com/thumb/msid-132169392,width-1200,height-630,imgsize-28407,overlay-economictimes/articleshow.jpg",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/us-west-asia-drag-indias-pharma-exports-growth/articleshow/132169394.cms",
         "articlePath": "/article.html?issue=2026-06-28&article=2026-06-28-us-west-asia-drag-india-s-pharma-exports-growth"
       },
@@ -124,7 +125,7 @@
         "category": "Industry Update",
         "image": "https://img.etimg.com/thumb/msid-132169347,width-1200,height-630,imgsize-58484,overlay-economictimes/articleshow.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/sun-pharma-secures-relief-in-pantocid-trademark-dispute/articleshow/132169348.cms",
         "articlePath": "/article.html?issue=2026-06-28&article=2026-06-28-sun-pharma-secures-relief-in-pantocid-trademark-dispute"
       },
@@ -243,7 +244,7 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-132173228,imgsize-73332,width-1200,height=627,overlay-ethealth,resizemode-75/diagnostics/race-for-rapid-ebola-test-narrows-to-five-potential-manufacturers.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/diagnostics/race-for-rapid-ebola-test-narrows-to-five-potential-manufacturers/132173228",
         "articlePath": "/article.html?issue=2026-06-28&article=2026-06-28-race-for-rapid-ebola-test-narrows-to-five-potential-manufacturers"
       },
@@ -260,7 +261,7 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-132173230,imgsize-60906,width-1200,height=627,overlay-ethealth,resizemode-75/industry/malaria-fears-grow-in-congos-ebola-outbreak-hotspots.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/malaria-fears-grow-in-congos-ebola-outbreak-hotspots/132173230",
         "articlePath": "/article.html?issue=2026-06-28&article=2026-06-28-malaria-fears-grow-in-congo-s-ebola-outbreak-hotspots"
       },
@@ -328,7 +329,7 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-132173263,imgsize-65576,width-1200,height=627,overlay-ethealth,resizemode-75/industry/maharashtra-govt-introduces-bill-to-regulate-clinical-establishments-bring-transperancy.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/maharashtra-govt-introduces-bill-to-regulate-clinical-establishments-bring-transperancy/132173263",
         "articlePath": "/article.html?issue=2026-06-28&article=2026-06-28-maharashtra-govt-introduces-bill-to-regulate-clinical-establishments-bri"
       },
@@ -430,7 +431,7 @@
         "category": "Industry Update",
         "image": "https://medicaldialogues.in/h-upload/2023/01/10/197257-lupin-4.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/lupin-receives-usfda-eir-for-new-jersey-plant-with-vai-classification-174266",
         "articlePath": "/article.html?issue=2026-06-28&article=2026-06-28-lupin-receives-usfda-eir-for-new-jersey-plant-with-vai-classification"
       },
@@ -447,7 +448,7 @@
         "category": "Clinical Trial",
         "image": "https://medicaldialogues.in/h-upload/2024/02/28/233261-glenmark-50.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/dcgi-clears-glenmarks-phase-3-trial-of-her2-targeted-ovarian-cancer-therapy-in-india-174263",
         "articlePath": "/article.html?issue=2026-06-28&article=2026-06-28-dcgi-clears-glenmark-s-phase-3-trial-of-her2-targeted-ovarian-cancer-the"
       },
@@ -515,7 +516,7 @@
         "category": "Launch",
         "image": "https://medicaldialogues.in/h-upload/2025/08/06/297064-medicine-50.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/centre-simplifies-drug-launch-process-cuts-overcharging-liability-for-pharma-companies-174268",
         "articlePath": "/article.html?issue=2026-06-28&article=2026-06-28-centre-simplifies-drug-launch-process-cuts-overcharging-liability-for-ph"
       },
@@ -532,7 +533,7 @@
         "category": "Industry Update",
         "image": "https://medicaldialogues.in/h-upload/2026/07/02/357380-siddharth-mittal.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/syngene-names-former-biocon-ceo-siddharth-mittal-as-managing-director-and-ceo-174265",
         "articlePath": "/article.html?issue=2026-06-28&article=2026-06-28-syngene-names-former-biocon-ceo-siddharth-mittal-as-managing-director-an"
       },
@@ -838,7 +839,7 @@
         "category": "Industry Update",
         "image": "https://medicaldialogues.in/h-upload/2023/01/10/197263-aurobindo-pharma-1.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/aurobindo-pharma-transfers-domestic-branded-generics-business-to-wholly-owned-arm-auropharm-174267",
         "articlePath": "/article.html?issue=2026-06-28&article=2026-06-28-aurobindo-pharma-transfers-domestic-branded-generics-business-to-wholly-"
       },
@@ -1149,6 +1150,23 @@
         "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/cant-keep-employees-on-contract-for-years-then-deny-job-security-hc-rejects-states-appeal-backs-pharmacists-regularisation-claim-174087",
         "articlePath": "/article.html?issue=2026-06-28&article=2026-06-28-can-t-keep-employees-on-contract-for-years-then-deny-job-security-hc-rej"
+      },
+      {
+        "id": "2026-06-28-the-vinfast-vf-8-and-the-new-priorities-of-ev-ownership",
+        "title": "The VinFast VF 8 and the New Priorities of EV Ownership",
+        "summary": "The VinFast VF 8 and the New Priorities of EV Ownership",
+        "source": "Zawya Pharmaceuticals",
+        "sourceHost": "zawya.com",
+        "region": "Middle East",
+        "country": "United Arab Emirates",
+        "publishedAt": "2026-07-03T13:54:36.000Z",
+        "publishedLabel": "July 3, 2026",
+        "category": "Provider Update",
+        "image": "https://images.media-outreach.com/release.php/Thumb/1600x1067/783637/783637-Photo-16-jpg-1600x1067.jpeg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": true,
+        "originalUrl": "https://www.zawya.com/en/economy/global/the-vinfast-vf-8-and-the-new-priorities-of-ev-ownership-yx42jx7b",
+        "articlePath": "/article.html?issue=2026-06-28&article=2026-06-28-the-vinfast-vf-8-and-the-new-priorities-of-ev-ownership"
       }
     ],
     "diagnostics": [
@@ -1306,6 +1324,23 @@
         "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/health-ministry-launches-drug-registry-to-standardise-medicine-data-174015",
         "articlePath": "/article.html?issue=2026-06-28&article=2026-06-28-health-ministry-launches-drug-registry-to-standardise-medicine-data"
+      },
+      {
+        "id": "2026-06-28-eli-lilly-collaborates-with-abu-dhabi-s-doh-on-precision-medicine-initia",
+        "title": "Eli Lilly collaborates with Abu Dhabi’s DoH on precision medicine initiative at BIO 2026",
+        "summary": "The agreement brings together Lilly's expertise in developing innovative medicines with Abu Dhabi's advanced healthcare infrastructure, population-scale health data, and genomics capabil ...",
+        "source": "Healthcare MEA",
+        "sourceHost": "healthcaremea.com",
+        "region": "Middle East",
+        "country": "United Arab Emirates",
+        "publishedAt": "2026-07-02T08:42:22.000Z",
+        "publishedLabel": "July 2, 2026",
+        "category": "Industry Update",
+        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/07/image-1600x900-2026-07-02T113846.874.png",
+        "thbAction": "",
+        "justIn": true,
+        "originalUrl": "https://www.healthcaremea.com/2026/07/02/eli-lilly-collaborates-with-abu-dhabis-doh-on-precision-medicine-initiative-at-bio-2026/",
+        "articlePath": "/article.html?issue=2026-06-28&article=2026-06-28-eli-lilly-collaborates-with-abu-dhabi-s-doh-on-precision-medicine-initia"
       }
     ]
   },
