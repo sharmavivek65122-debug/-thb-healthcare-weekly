@@ -5,16 +5,17 @@
   "startDate": "2026-07-04T18:30:00.000Z",
   "endDate": "2026-07-10T18:30:00.000Z",
   "status": "live",
-  "updatedAt": "2026-07-05T07:43:17.441Z",
+  "updatedAt": "2026-07-05T14:58:37.718Z",
   "coverage": {
-    "pharma": 6,
-    "providers": 0,
+    "pharma": 10,
+    "providers": 1,
     "diagnostics": 1,
     "healthtech": 0
   },
   "sourcesUsed": [
     "ET Healthworld",
     "Healthcare MEA",
+    "Lupin Updates",
     "Medical Dialogues Pharma"
   ],
   "segments": {
@@ -71,6 +72,23 @@
         "articlePath": "/article.html?issue=2026-07-05&article=2026-07-05-temasek-backed-manipal-health-gets-sebi-approval-for-ipo-eyes-july-listi"
       },
       {
+        "id": "2026-07-05-insilico-medicine-signs-strategic-us-600m-ai-drug-discovery-agreement-wi",
+        "title": "Insilico Medicine signs strategic US$600M AI drug discovery agreement with Takeda | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
+        "summary": "Under the collaboration, Insilico Medicine will use its proprietary Pharma.AI platform to identify and optimise drug candidates that meet predefined scientific and early development criteria.",
+        "source": "Healthcare MEA",
+        "sourceHost": "healthcaremea.com",
+        "region": "Middle East",
+        "country": "Middle East",
+        "publishedAt": "2026-07-05T07:52:35.000Z",
+        "publishedLabel": "July 5, 2026",
+        "category": "Manufacturing",
+        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/07/image-1600x900-2026-07-05T105005.677.png",
+        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
+        "justIn": true,
+        "originalUrl": "https://www.healthcaremea.com/2026/07/05/insilico-medicine-signs-strategic-us600m-ai-drug-discovery-agreement-with-takeda/",
+        "articlePath": "/article.html?issue=2026-07-05&article=2026-07-05-insilico-medicine-signs-strategic-us-600m-ai-drug-discovery-agreement-wi"
+      },
+      {
         "id": "2026-07-05-cdsco-panel-rejects-abbvie-s-clinical-trial-waiver-plea-for-foslevodopa-",
         "title": "CDSCO Panel Rejects AbbVie's Clinical Trial Waiver Plea for Foslevodopa-Foscarbidopa Injection",
         "summary": "New Delhi: Pharmaceutical major AbbVie Healthcare India Private Limited has failed to secure a complete clinical trial waiver from the Subject Expert Committee (SEC) under the Central Drugs Standard...",
@@ -120,9 +138,78 @@
         "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/upsc-invites-pharmacy-medical-graduates-for-186-cdsco-drug-inspector-posts-174332",
         "articlePath": "/article.html?issue=2026-07-05&article=2026-07-05-upsc-invites-pharmacy-medical-graduates-for-186-cdsco-drug-inspector-pos"
+      },
+      {
+        "id": "2026-07-05-emcure-unit-marcan-to-acquire-remaining-stake-in-canada-s-mantra-pharma-",
+        "title": "Emcure Unit Marcan to Acquire Remaining Stake in Canada's Mantra Pharma for CAD 50 Million",
+        "summary": "Pune: Emcure Pharmaceuticals Limited has announced that its subsidiary, Marcan Pharmaceuticals Inc., has entered into share purchase agreements with certain shareholders of Mantra Pharma Inc. to...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-07-05T05:30:08.000Z",
+        "publishedLabel": "July 5, 2026",
+        "category": "Industry Update",
+        "image": "https://medicaldialogues.in/h-upload/2025/11/28/311381-50-53.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/emcure-unit-marcan-to-acquire-remaining-stake-in-canadas-mantra-pharma-for-cad-50-million-174349",
+        "articlePath": "/article.html?issue=2026-07-05&article=2026-07-05-emcure-unit-marcan-to-acquire-remaining-stake-in-canada-s-mantra-pharma-"
+      },
+      {
+        "id": "2026-07-05-indonesia-looking-to-gain-from-india-s-developmental-success-stories",
+        "title": "Indonesia looking to gain from India's developmental success stories",
+        "summary": "Indonesia is increasingly viewing India as a key partner for technology, policy, and development solutions. Prime Minister Modi's upcoming visit highlights this deepening relationship, moving beyond traditional ties. Areas of collaboration include digital...",
+        "source": "Lupin Updates",
+        "sourceHost": "economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-07-05T14:54:00.000Z",
+        "publishedLabel": "July 5, 2026",
+        "category": "Industry Update",
+        "image": "https://img.etimg.com/thumb/msid-132197495,width-1200,height-630,imgsize-44996,overlay-economictimes/articleshow.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://economictimes.indiatimes.com/news/india/indonesia-to-embrace-indias-developmental-innovations-in-technology-and-policy/articleshow/132196954.cms",
+        "articlePath": "/article.html?issue=2026-07-05&article=2026-07-05-indonesia-looking-to-gain-from-india-s-developmental-success-stories"
+      },
+      {
+        "id": "2026-07-05-usfda-warns-hyderabad-firm-over-sale-of-unapproved-ayurvedic-sexual-well",
+        "title": "USFDA Warns Hyderabad Firm Over Sale of Unapproved Ayurvedic Sexual Wellness Products",
+        "summary": "New Delhi: The United States Food and Drug Administration (USFDA) has issued a warning letter to Hyderabad-based online retailer Indiangoods.shop, citing significant violations of the Federal Food,...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-07-05T14:53:58.000Z",
+        "publishedLabel": "July 5, 2026",
+        "category": "Industry Update",
+        "image": "https://medicaldialogues.in/h-upload/2024/06/22/241917-warning-50.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/usfda-warns-hyderabad-firm-over-sale-of-unapproved-ayurvedic-sexual-wellness-products-174351",
+        "articlePath": "/article.html?issue=2026-07-05&article=2026-07-05-usfda-warns-hyderabad-firm-over-sale-of-unapproved-ayurvedic-sexual-well"
       }
     ],
-    "providers": [],
+    "providers": [
+      {
+        "id": "2026-07-05-abu-dhabi-biobank-partners-with-bascom-palmer-to-open-middle-east-s-firs",
+        "title": "Abu Dhabi Biobank partners with Bascom Palmer to open Middle East’s first eye bank",
+        "summary": "The agreement was announced during the BIO International Convention 2026 in San Diego, California, and is expected to strengthen corneal transplantation services while improving access to sight-re ...",
+        "source": "Healthcare MEA",
+        "sourceHost": "healthcaremea.com",
+        "region": "Middle East",
+        "country": "United Arab Emirates",
+        "publishedAt": "2026-07-05T07:59:38.000Z",
+        "publishedLabel": "July 5, 2026",
+        "category": "Provider Update",
+        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/07/image-1600x900-2026-07-05T105516.441.png",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": false,
+        "originalUrl": "https://www.healthcaremea.com/2026/07/05/abu-dhabi-biobank-partners-with-bascom-palmer-to-open-middle-easts-first-eye-bank/",
+        "articlePath": "/article.html?issue=2026-07-05&article=2026-07-05-abu-dhabi-biobank-partners-with-bascom-palmer-to-open-middle-east-s-firs"
+      }
+    ],
     "diagnostics": [
       {
         "id": "2026-07-05-who-grants-first-emergency-use-listing-for-bundibugyo-ebola-diagnostic-t",
@@ -171,6 +258,14 @@
     },
     {
       "segment": "pharma",
+      "articleId": "2026-07-05-insilico-medicine-signs-strategic-us-600m-ai-drug-discovery-agreement-wi",
+      "title": "Insilico Medicine signs strategic US$600M AI drug discovery agreement with Takeda | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
+      "source": "Healthcare MEA",
+      "solution": "THB Commercial Analytics",
+      "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
+    },
+    {
+      "segment": "pharma",
       "articleId": "2026-07-05-cdsco-panel-rejects-abbvie-s-clinical-trial-waiver-plea-for-foslevodopa-",
       "title": "CDSCO Panel Rejects AbbVie's Clinical Trial Waiver Plea for Foslevodopa-Foscarbidopa Injection",
       "source": "Medical Dialogues Pharma",
@@ -178,12 +273,12 @@
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
     },
     {
-      "segment": "pharma",
-      "articleId": "2026-07-05-nppa-slaps-gsk-pharma-with-rs-3-54-crore-demand-over-alleged-drug-overch",
-      "title": "NPPA Slaps GSK Pharma with Rs 3.54 Crore Demand Over Alleged Drug Overcharging",
-      "source": "Medical Dialogues Pharma",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+      "segment": "providers",
+      "articleId": "2026-07-05-abu-dhabi-biobank-partners-with-bascom-palmer-to-open-middle-east-s-firs",
+      "title": "Abu Dhabi Biobank partners with Bascom Palmer to open Middle East’s first eye bank",
+      "source": "Healthcare MEA",
+      "solution": "THB Provider CRM",
+      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
     },
     {
       "segment": "diagnostics",
