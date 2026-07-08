@@ -5,9 +5,9 @@
   "startDate": "2026-06-20T18:30:00.000Z",
   "endDate": "2026-06-26T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-07-08T07:03:18.613Z",
+  "updatedAt": "2026-07-08T15:51:14.422Z",
   "coverage": {
-    "pharma": 4,
+    "pharma": 2,
     "providers": 2,
     "diagnostics": 2,
     "healthtech": 0
@@ -16,45 +16,10 @@
     "ET Healthworld",
     "ET Healthworld Diagnostics",
     "ET Healthworld Hospitals",
-    "Economic Times Pharma",
     "Janssen India Media"
   ],
   "segments": {
     "pharma": [
-      {
-        "id": "2026-06-21-strides-pharma-sells-majority-stake-in-arm-pivot-path-for-rs-100-crore",
-        "title": "Strides Pharma sells majority stake in arm Pivot Path for Rs 100 crore",
-        "summary": "Strides Pharma Science has divested a majority stake in its subsidiary, Pivot Path, for Rs 100 crore to a consortium led by Ascent Capital and Vintage Classic. This strategic move aims to accelerate Pivot Path's growth by infusing Rs 50 crore for future...",
-        "source": "Economic Times Pharma",
-        "sourceHost": "economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-06-27T16:29:41.000Z",
-        "publishedLabel": "June 27, 2026",
-        "category": "Industry Update",
-        "image": "https://img.etimg.com/thumb/msid-132038684,width-1200,height-630,imgsize-68346,overlay-economictimes/articleshow.jpg",
-        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": false,
-        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/strides-pharma-sells-majority-stake-in-arm-pivot-path-for-rs-100-crore/articleshow/132038658.cms",
-        "articlePath": "/article.html?issue=2026-06-21&article=2026-06-21-strides-pharma-sells-majority-stake-in-arm-pivot-path-for-rs-100-crore"
-      },
-      {
-        "id": "2026-06-21-punjab-drug-body-finds-critical-lapses-at-jackson-laboratories-manufactu",
-        "title": "Punjab drug body finds critical lapses at Jackson Laboratories' manufacturing facility in Amritsar",
-        "summary": "The Punjab FDA has taken decisive action by revoking the manufacturing licence of Jackson Laboratories in Amritsar due to severe regulatory infractions. This drastic step comes after investigations tied the companys oxytocin injections to the tragic deaths of...",
-        "source": "Economic Times Pharma",
-        "sourceHost": "economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-06-26T18:50:00.000Z",
-        "publishedLabel": "June 27, 2026",
-        "category": "Manufacturing",
-        "image": "https://img.etimg.com/thumb/msid-132023775,width-1200,height-630,imgsize-75590,overlay-economictimes/articleshow.jpg",
-        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": false,
-        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/punjab-drug-body-finds-critical-lapses-at-jackson-laboratories-manufacturing-facility-in-amritsar/articleshow/132023751.cms",
-        "articlePath": "/article.html?issue=2026-06-21&article=2026-06-21-punjab-drug-body-finds-critical-lapses-at-jackson-laboratories-manufactu"
-      },
       {
         "id": "2026-06-21-unitedhealth-s-3-billion-ai-push-has-bots-calling-doctors",
         "title": "UnitedHealth’s $3 billion AI push has bots calling doctors",
@@ -165,22 +130,6 @@
     "healthtech": []
   },
   "thbActions": [
-    {
-      "segment": "pharma",
-      "articleId": "2026-06-21-strides-pharma-sells-majority-stake-in-arm-pivot-path-for-rs-100-crore",
-      "title": "Strides Pharma sells majority stake in arm Pivot Path for Rs 100 crore",
-      "source": "Economic Times Pharma",
-      "solution": "THB Commercial Analytics",
-      "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
-    },
-    {
-      "segment": "pharma",
-      "articleId": "2026-06-21-punjab-drug-body-finds-critical-lapses-at-jackson-laboratories-manufactu",
-      "title": "Punjab drug body finds critical lapses at Jackson Laboratories' manufacturing facility in Amritsar",
-      "source": "Economic Times Pharma",
-      "solution": "THB Commercial Analytics",
-      "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
-    },
     {
       "segment": "pharma",
       "articleId": "2026-06-21-unitedhealth-s-3-billion-ai-push-has-bots-calling-doctors",
