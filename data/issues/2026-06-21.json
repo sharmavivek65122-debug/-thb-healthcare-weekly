@@ -5,14 +5,15 @@
   "startDate": "2026-06-20T18:30:00.000Z",
   "endDate": "2026-06-26T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-07-07T16:03:14.677Z",
+  "updatedAt": "2026-07-08T07:03:18.613Z",
   "coverage": {
-    "pharma": 5,
+    "pharma": 4,
     "providers": 2,
     "diagnostics": 2,
     "healthtech": 0
   },
   "sourcesUsed": [
+    "ET Healthworld",
     "ET Healthworld Diagnostics",
     "ET Healthworld Hospitals",
     "Economic Times Pharma",
@@ -38,40 +39,6 @@
         "articlePath": "/article.html?issue=2026-06-21&article=2026-06-21-strides-pharma-sells-majority-stake-in-arm-pivot-path-for-rs-100-crore"
       },
       {
-        "id": "2026-06-21-who-seeks-details-from-india-over-oxytocin-linked-deaths-licences-of-man",
-        "title": "WHO seeks details from India over oxytocin-linked deaths; licences of manufacturer cancelled",
-        "summary": "The World Health Organisation (WHO) has sought details from the Indian government after reports linked oxytocin injections made by Jackson Laboratories to maternal deaths in Rajasthan. The Centre said this is part of a routine global pharmacovigilance process...",
-        "source": "Economic Times Pharma",
-        "sourceHost": "economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-06-26T12:40:57.000Z",
-        "publishedLabel": "June 26, 2026",
-        "category": "Industry Update",
-        "image": "https://img.etimg.com/thumb/msid-132016536,width-1200,height-630,imgsize-80126,overlay-economictimes/articleshow.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/who-seeks-details-from-india-over-oxytocin-linked-deaths-licences-of-manufacturer-cancelled/articleshow/132016552.cms",
-        "articlePath": "/article.html?issue=2026-06-21&article=2026-06-21-who-seeks-details-from-india-over-oxytocin-linked-deaths-licences-of-man"
-      },
-      {
-        "id": "2026-06-21-shelf-life-norms-for-imported-drugs-may-be-relaxed-to-reduce-wastage",
-        "title": "Shelf-life norms for imported drugs may be relaxed to reduce wastage",
-        "summary": "India is set to revise rules for imported medicines, proposing a 12-month minimum residual shelf life instead of the current 60% rule. This aims to ease business and reduce wastage, particularly for drugs with longer expiry dates. However, biological and...",
-        "source": "Economic Times Pharma",
-        "sourceHost": "economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-06-26T18:47:10.000Z",
-        "publishedLabel": "June 27, 2026",
-        "category": "Industry Update",
-        "image": "https://img.etimg.com/thumb/msid-132023739,width-1200,height-630,imgsize-42828,overlay-economictimes/articleshow.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/shelf-life-norms-for-imported-drugs-may-be-relaxed-to-reduce-wastage/articleshow/132023672.cms",
-        "articlePath": "/article.html?issue=2026-06-21&article=2026-06-21-shelf-life-norms-for-imported-drugs-may-be-relaxed-to-reduce-wastage"
-      },
-      {
         "id": "2026-06-21-punjab-drug-body-finds-critical-lapses-at-jackson-laboratories-manufactu",
         "title": "Punjab drug body finds critical lapses at Jackson Laboratories' manufacturing facility in Amritsar",
         "summary": "The Punjab FDA has taken decisive action by revoking the manufacturing licence of Jackson Laboratories in Amritsar due to severe regulatory infractions. This drastic step comes after investigations tied the companys oxytocin injections to the tragic deaths of...",
@@ -87,6 +54,23 @@
         "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/punjab-drug-body-finds-critical-lapses-at-jackson-laboratories-manufacturing-facility-in-amritsar/articleshow/132023751.cms",
         "articlePath": "/article.html?issue=2026-06-21&article=2026-06-21-punjab-drug-body-finds-critical-lapses-at-jackson-laboratories-manufactu"
+      },
+      {
+        "id": "2026-06-21-unitedhealth-s-3-billion-ai-push-has-bots-calling-doctors",
+        "title": "UnitedHealth’s $3 billion AI push has bots calling doctors",
+        "summary": "UnitedHealth Group is ramping up its use of artificial intelligence across operations—from summarising medical charts to analysing customer calls and automating appointment scheduling—as part of a broader push to improve efficiency and cut costs.",
+        "source": "ET Healthworld",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-06-22T00:50:40.000Z",
+        "publishedLabel": "June 22, 2026",
+        "category": "Industry Update",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-131899462,imgsize-77220,width-1200,height=627,overlay-ethealth,resizemode-75/insurance/unitedhealths-3-billion-ai-push-has-bots-calling-doctors.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": false,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/insurance/unitedhealths-3-billion-ai-push-has-bots-calling-doctors/131899462",
+        "articlePath": "/article.html?issue=2026-06-21&article=2026-06-21-unitedhealth-s-3-billion-ai-push-has-bots-calling-doctors"
       },
       {
         "id": "2026-06-21-johnson-and-johnson-presents-new-imaavy-nipocalimab-aahu-data-at-europea",
@@ -191,27 +175,19 @@
     },
     {
       "segment": "pharma",
-      "articleId": "2026-06-21-who-seeks-details-from-india-over-oxytocin-linked-deaths-licences-of-man",
-      "title": "WHO seeks details from India over oxytocin-linked deaths; licences of manufacturer cancelled",
-      "source": "Economic Times Pharma",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
-      "segment": "pharma",
-      "articleId": "2026-06-21-shelf-life-norms-for-imported-drugs-may-be-relaxed-to-reduce-wastage",
-      "title": "Shelf-life norms for imported drugs may be relaxed to reduce wastage",
-      "source": "Economic Times Pharma",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
-      "segment": "pharma",
       "articleId": "2026-06-21-punjab-drug-body-finds-critical-lapses-at-jackson-laboratories-manufactu",
       "title": "Punjab drug body finds critical lapses at Jackson Laboratories' manufacturing facility in Amritsar",
       "source": "Economic Times Pharma",
       "solution": "THB Commercial Analytics",
       "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
+    },
+    {
+      "segment": "pharma",
+      "articleId": "2026-06-21-unitedhealth-s-3-billion-ai-push-has-bots-calling-doctors",
+      "title": "UnitedHealth’s $3 billion AI push has bots calling doctors",
+      "source": "ET Healthworld",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
     },
     {
       "segment": "pharma",
