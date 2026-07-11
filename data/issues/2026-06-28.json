@@ -5,9 +5,9 @@
   "startDate": "2026-06-27T18:30:00.000Z",
   "endDate": "2026-07-03T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-07-10T15:56:52.069Z",
+  "updatedAt": "2026-07-11T06:35:11.069Z",
   "coverage": {
-    "pharma": 8,
+    "pharma": 7,
     "providers": 1,
     "diagnostics": 3,
     "healthtech": 0
@@ -54,23 +54,6 @@
         "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/sun-pharma-secures-relief-in-pantocid-trademark-dispute/articleshow/132169348.cms",
         "articlePath": "/article.html?issue=2026-06-28&article=2026-06-28-sun-pharma-secures-relief-in-pantocid-trademark-dispute"
-      },
-      {
-        "id": "2026-06-28-esic-to-directly-manage-new-hospitals",
-        "title": "ESIC to directly manage new hospitals",
-        "summary": "The Corporation deliberated upon and approved several key agenda items aimed at strengthening ESIC's healthcare infrastructure, expanding medical education, and improving organisational efficiency and service delivery.",
-        "source": "ET Healthworld",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-07-01T01:35:19.000Z",
-        "publishedLabel": "July 1, 2026",
-        "category": "Industry Update",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-132103740,imgsize-200368,width-1200,height=627,overlay-ethealth,resizemode-75/insurance/esic-to-directly-manage-new-hospitals.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/insurance/esic-to-directly-manage-new-hospitals/132103740",
-        "articlePath": "/article.html?issue=2026-06-28&article=2026-06-28-esic-to-directly-manage-new-hospitals"
       },
       {
         "id": "2026-06-28-maharashtra-govt-introduces-bill-to-regulate-clinical-establishments-bri",
@@ -251,14 +234,6 @@
     },
     {
       "segment": "pharma",
-      "articleId": "2026-06-28-esic-to-directly-manage-new-hospitals",
-      "title": "ESIC to directly manage new hospitals",
-      "source": "ET Healthworld",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
-      "segment": "pharma",
       "articleId": "2026-06-28-maharashtra-govt-introduces-bill-to-regulate-clinical-establishments-bri",
       "title": "Maharashtra govt introduces bill to regulate clinical establishments, bring transperancy",
       "source": "ET Healthworld",
@@ -272,6 +247,14 @@
       "source": "BioSpectrum Asia Middle East",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "pharma",
+      "articleId": "2026-06-28-taiwan-leapfrogs-biomedicine-growth",
+      "title": "Taiwan Leapfrogs Biomedicine Growth",
+      "source": "BioSpectrum Asia Middle East",
+      "solution": "THB Commercial Analytics",
+      "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
     },
     {
       "segment": "providers",

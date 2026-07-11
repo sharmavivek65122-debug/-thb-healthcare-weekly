@@ -5,10 +5,10 @@
   "startDate": "2026-07-04T18:30:00.000Z",
   "endDate": "2026-07-10T18:30:00.000Z",
   "status": "live",
-  "updatedAt": "2026-07-10T15:56:52.069Z",
+  "updatedAt": "2026-07-11T06:35:11.069Z",
   "coverage": {
     "pharma": 50,
-    "providers": 14,
+    "providers": 18,
     "diagnostics": 9,
     "healthtech": 0
   },
@@ -21,7 +21,8 @@
     "Express Healthcare Posts",
     "Healthcare MEA",
     "Medical Dialogues Pharma",
-    "PharmaTutor News"
+    "PharmaTutor News",
+    "Zawya Pharmaceuticals"
   ],
   "segments": {
     "pharma": [
@@ -174,7 +175,7 @@
         "category": "Industry Update",
         "image": "https://img.etimg.com/thumb/msid-132305209,width-1200,height-630,imgsize-166590,overlay-economictimes/articleshow.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/medicines-with-over-12-alcohol-can-no-longer-be-sold-without-prescription-govt/articleshow/132305116.cms",
         "articlePath": "/article.html?issue=2026-07-05&article=2026-07-05-medicines-with-over-12-alcohol-can-no-longer-be-sold-without-prescriptio"
       },
@@ -211,23 +212,6 @@
         "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/gene-therapy-firm-immuneel-ties-up-with-arogya-finance-to-offer-rs-25-lakh-zero-cost-emi-for-cancer-treatment/articleshow/132213151.cms",
         "articlePath": "/article.html?issue=2026-07-05&article=2026-07-05-gene-therapy-firm-immuneel-ties-up-with-arogya-finance-to-offer-rs-25-la"
-      },
-      {
-        "id": "2026-07-05-remodelling-of-immune-system-by-tb-vaccine-may-explain-its-link-with-low",
-        "title": "Remodelling of immune system by TB vaccine may explain its link with lower Alzheimer's risk: Study",
-        "summary": "Delivered through the skin, the Bacillus Calmette-Guerin (BCG) vaccine is administered to infants and young children to protect against the bacterial infectious disease marked by severe cough and chest pain, among other symptoms.",
-        "source": "ET Healthworld",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-07-10T01:40:35.000Z",
-        "publishedLabel": "July 10, 2026",
-        "category": "Industry Update",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-132300812,imgsize-116292,width-1200,height=627,overlay-ethealth,resizemode-75/industry/remodelling-of-immune-system-by-tb-vaccine-may-explain-its-link-with-lower-alzheimers-risk-study.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/remodelling-of-immune-system-by-tb-vaccine-may-explain-its-link-with-lower-alzheimers-risk-study/132300812",
-        "articlePath": "/article.html?issue=2026-07-05&article=2026-07-05-remodelling-of-immune-system-by-tb-vaccine-may-explain-its-link-with-low"
       },
       {
         "id": "2026-07-05-novo-nordisk-launches-once-weekly-basal-insulin-awiqli-in-india-as-diabe",
@@ -281,6 +265,23 @@
         "articlePath": "/article.html?issue=2026-07-05&article=2026-07-05-glenmark-launches-generic-olanzapine-injection-in-us"
       },
       {
+        "id": "2026-07-05-aiims-patna-develops-equipment-to-make-brain-surgeries-safe",
+        "title": "AIIMS-Patna develops equipment to make brain surgeries safe",
+        "summary": "The innovative device, which can function as both a floating and a fixed tubular retractor depending on the complexity of the operation, can be seamlessly integrated with state-of-the-art neuronavigation and robotic platforms. This enables neurosurgeons to...",
+        "source": "ET Healthworld",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-07-11T02:13:20.000Z",
+        "publishedLabel": "July 11, 2026",
+        "category": "Industry Update",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-132323175,imgsize-98310,width-1200,height=627,overlay-ethealth,resizemode-75/medical-devices/aiims-patna-develops-equipment-to-make-brain-surgeries-safe.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/medical-devices/aiims-patna-develops-equipment-to-make-brain-surgeries-safe/132323175",
+        "articlePath": "/article.html?issue=2026-07-05&article=2026-07-05-aiims-patna-develops-equipment-to-make-brain-surgeries-safe"
+      },
+      {
         "id": "2026-07-05-hcg-uses-ai-patient-data-to-personalise-cancer-treatment-bs-ajaikumar-fo",
         "title": "HCG uses AI, patient data to personalise cancer treatment: BS Ajaikumar, founder",
         "summary": "The company is analysing clinical, genomic and proteomic data to classify cancer patients into treatment \"buckets\" based on how they respond to therapies, with the aim of helping clinicians make more informed treatment decisions.",
@@ -293,7 +294,7 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-132311003,imgsize-71044,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/hcg-uses-ai-patient-data-to-personalise-cancer-treatment-bs-ajaikumar-founder.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/hcg-uses-ai-patient-data-to-personalise-cancer-treatment-bs-ajaikumar-founder/132311003",
         "articlePath": "/article.html?issue=2026-07-05&article=2026-07-05-hcg-uses-ai-patient-data-to-personalise-cancer-treatment-bs-ajaikumar-fo"
       },
@@ -383,21 +384,21 @@
         "articlePath": "/article.html?issue=2026-07-05&article=2026-07-05-navi-mumbai-airport-notified-as-port-for-import-of-drugs-under-drugs-rul"
       },
       {
-        "id": "2026-07-05-70-medical-colleges-fail-to-comply-with-nmc-s-mandatory-cctv-norms",
-        "title": "70 medical colleges fail to comply with NMC's mandatory CCTV norms",
-        "summary": "The Commission said it had repeatedly followed up with colleges that had failed to install the mandated CCTV system or share live feeds despite multiple advisories and communications issued since 2022. It has now directed all such institutions to comply...",
+        "id": "2026-07-05-safdarjung-hospital-sai-sign-mou-to-boost-athlete-healthcare",
+        "title": "Safdarjung Hospital, SAI sign MoU to boost athlete healthcare",
+        "summary": "The collaboration aims to establish a coordinated model of athlete healthcare by combining the clinical expertise of the SIC with SAI's nationwide athlete support network, a health ministry statement said.",
         "source": "ET Healthworld",
         "sourceHost": "health.economictimes.indiatimes.com",
         "region": "India",
         "country": "India",
-        "publishedAt": "2026-07-10T06:39:04.000Z",
-        "publishedLabel": "July 10, 2026",
+        "publishedAt": "2026-07-11T02:03:46.000Z",
+        "publishedLabel": "July 11, 2026",
         "category": "Industry Update",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-132304827,imgsize-126452,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/70-medical-colleges-fail-to-comply-with-nmcs-mandatory-cctv-norms.jpg",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-132323131,imgsize-81914,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/safdarjung-hospital-sai-sign-mou-to-boost-athlete-healthcare.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/70-medical-colleges-fail-to-comply-with-nmcs-mandatory-cctv-norms/132304827",
-        "articlePath": "/article.html?issue=2026-07-05&article=2026-07-05-70-medical-colleges-fail-to-comply-with-nmc-s-mandatory-cctv-norms"
+        "justIn": true,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/safdarjung-hospital-sai-sign-mou-to-boost-athlete-healthcare/132323131",
+        "articlePath": "/article.html?issue=2026-07-05&article=2026-07-05-safdarjung-hospital-sai-sign-mou-to-boost-athlete-healthcare"
       },
       {
         "id": "2026-07-05-magnet-hospitals-enters-bengaluru-with-8-hospitals-plans-12-locations-an",
@@ -412,7 +413,7 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-132209818,imgsize-182934,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/magnet-hospitals-enters-bengaluru-with-8-hospitals-plans-12-locations-and-1200-beds-by-2028.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/magnet-hospitals-enters-bengaluru-with-8-hospitals-plans-12-locations-and-1200-beds-by-2028/132209818",
         "articlePath": "/article.html?issue=2026-07-05&article=2026-07-05-magnet-hospitals-enters-bengaluru-with-8-hospitals-plans-12-locations-an"
       },
@@ -548,7 +549,7 @@
         "category": "Market",
         "image": "https://medicaldialogues.in/h-upload/2024/03/09/233933-recall-50-1.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/recalls-by-dr-reddys-torrent-put-spotlight-on-quality-standards-in-indias-semaglutide-market-174725",
         "articlePath": "/article.html?issue=2026-07-05&article=2026-07-05-recalls-by-dr-reddy-s-torrent-put-spotlight-on-quality-standards-in-indi"
       },
@@ -565,7 +566,7 @@
         "category": "Industry Update",
         "image": "https://medicaldialogues.in/h-upload/2024/06/07/240451-price-fixation-4.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/nppa-fixes-retail-prices-for-39-new-drug-formulations-including-tenecteplase-at-rs-60238-174704",
         "articlePath": "/article.html?issue=2026-07-05&article=2026-07-05-nppa-fixes-retail-prices-for-39-new-drug-formulations-including-tenectep"
       },
@@ -582,7 +583,7 @@
         "category": "Manufacturing",
         "image": "https://www.pharmatutor.org/sites/default/files/styles/webp/public/2026-07/evonik-invests-usd-100-million-to-upgrade-drug-substance-manufacturing-site-in-lafayette-indiana.jpg.webp?itok=hsuAS-TU",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/evonik-invests-usd-100-million-to-upgrade-drug-substance-manufacturing-site-in-lafayette-indiana",
         "articlePath": "/article.html?issue=2026-07-05&article=2026-07-05-evonik-invests-usd-100-million-to-upgrade-drug-substance-manufacturing-s"
       },
@@ -752,7 +753,7 @@
         "category": "Industry Update",
         "image": "https://medicaldialogues.in/h-upload/2025/04/12/282750-medicine-50-1.jpg",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/indian-pharma-q1-revenue-seen-rising-but-margins-may-shrink-on-higher-costs-goldman-sachs-174716",
         "articlePath": "/article.html?issue=2026-07-05&article=2026-07-05-indian-pharma-q1-revenue-seen-rising-but-margins-may-shrink-on-higher-co"
       },
@@ -769,7 +770,7 @@
         "category": "Industry Update",
         "image": "https://medicaldialogues.in/h-upload/2025/10/07/303489-cough-syrups.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/health/health-ministry-makes-doctors-prescription-mandatory-for-high-alcohol-medicines-174734",
         "articlePath": "/article.html?issue=2026-07-05&article=2026-07-05-health-ministry-makes-doctors-prescription-mandatory-for-high-alcohol-me"
       },
@@ -895,6 +896,23 @@
         "articlePath": "/article.html?issue=2026-07-05&article=2026-07-05-aster-launches-robotic-spine-care-institute-to-advance-neuroscience-trea"
       },
       {
+        "id": "2026-07-05-70-medical-colleges-fail-to-comply-with-nmc-s-mandatory-cctv-norms",
+        "title": "70 medical colleges fail to comply with NMC's mandatory CCTV norms",
+        "summary": "The Commission said it had repeatedly followed up with colleges that had failed to install the mandated CCTV system or share live feeds despite multiple advisories and communications issued since 2022. It has now directed all such institutions to comply...",
+        "source": "ET Healthworld Hospitals",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-07-10T06:39:04.000Z",
+        "publishedLabel": "July 10, 2026",
+        "category": "AI Care Delivery",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-132304827,imgsize-126452,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/70-medical-colleges-fail-to-comply-with-nmcs-mandatory-cctv-norms.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": true,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/70-medical-colleges-fail-to-comply-with-nmcs-mandatory-cctv-norms/132304827",
+        "articlePath": "/article.html?issue=2026-07-05&article=2026-07-05-70-medical-colleges-fail-to-comply-with-nmc-s-mandatory-cctv-norms"
+      },
+      {
         "id": "2026-07-05-ihh-hospitals-in-india-singapore-saw-fewer-patients-from-middle-east-due",
         "title": "IHH hospitals in India, Singapore saw fewer patients from Middle East due to war",
         "summary": "IHH Healthcare hospitals in India saw fewer patients from the UAE and Saudi Arabia. Singapore hospitals also faced impacts from the ongoing Middle East conflict. This regional instability creates significant uncertainty for businesses globally. Soaring energy...",
@@ -907,7 +925,7 @@
         "category": "Hospital",
         "image": "https://etimg.etb2bimg.com/thumb/msid-132282721,imgsize-62630,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/ihh-hospitals-in-india-singapore-saw-fewer-patients-from-middle-east-due-to-war.jpg",
         "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/ihh-hospitals-in-india-singapore-saw-fewer-patients-from-middle-east-due-to-war/132282721",
         "articlePath": "/article.html?issue=2026-07-05&article=2026-07-05-ihh-hospitals-in-india-singapore-saw-fewer-patients-from-middle-east-due"
       },
@@ -927,6 +945,23 @@
         "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/ipo-bound-paras-healthcare-targets-36-pc-rise-in-bed-capacity-to-3011-by-fy28/132260606",
         "articlePath": "/article.html?issue=2026-07-05&article=2026-07-05-ipo-bound-paras-healthcare-targets-36-pc-rise-in-bed-capacity-to-3-011-b"
+      },
+      {
+        "id": "2026-07-05-aiims-bibinagar-fully-operational-secured-rs-64-cr-in-research-grants-un",
+        "title": "'AIIMS Bibinagar fully operational, secured Rs 64 cr in research grants': Union Health Minister JP Nadda",
+        "summary": "Union Health Minister JP Nadda on Thursday at AIIMS Bibinagar in Telangana, made with an investment of over Rs 1,100 crore, has become fully operational, and has secured about Rs 64 crore in research grants.",
+        "source": "ET Healthworld Hospitals",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-07-10T02:08:04.000Z",
+        "publishedLabel": "July 10, 2026",
+        "category": "AI Care Delivery",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-132301035,imgsize-127074,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/aiims-bibinagar-fully-operational-secured-rs-64-cr-in-research-grants-union-health-minister-jp-nadda.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": true,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/aiims-bibinagar-fully-operational-secured-rs-64-cr-in-research-grants-union-health-minister-jp-nadda/132301035",
+        "articlePath": "/article.html?issue=2026-07-05&article=2026-07-05-aiims-bibinagar-fully-operational-secured-rs-64-cr-in-research-grants-un"
       },
       {
         "id": "2026-07-05-temasek-backed-manipal-health-gets-sebi-approval-for-ipo-eyes-july-listi",
@@ -1060,7 +1095,7 @@
         "category": "AI Care Delivery",
         "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2021/06/24162547/signing-agreement.jpg",
         "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/news/intuitive-fortis-mohali-to-establish-indias-first-total-program-observation-site-in-a-non-metro-city/454320/",
         "articlePath": "/article.html?issue=2026-07-05&article=2026-07-05-intuitive-fortis-mohali-to-establish-india-s-first-total-program-observa"
       },
@@ -1114,6 +1149,40 @@
         "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/07/10/medcare-hospital-sharjah-performs-uaes-first-balloon-pulmonary-angioplasty/",
         "articlePath": "/article.html?issue=2026-07-05&article=2026-07-05-medcare-hospital-sharjah-performs-uae-s-first-balloon-pulmonary-angiopla"
+      },
+      {
+        "id": "2026-07-05-at-least-one-million-women-and-girls-lose-access-to-critical-support-as-",
+        "title": "At least one million women and girls lose access to critical support as aid cuts dismantle women’s organizations working in humanitarian crises",
+        "summary": "At least one million women and girls lose access to critical support as aid cuts dismantle women’s organizations working in humanitarian crises",
+        "source": "Zawya Pharmaceuticals",
+        "sourceHost": "zawya.com",
+        "region": "Middle East",
+        "country": "Oman",
+        "publishedAt": "2026-07-10T15:36:52.000Z",
+        "publishedLabel": "July 10, 2026",
+        "category": "AI Care Delivery",
+        "image": "https://www.africa-newsroom.com/files/large/c500ee48915dae4",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": true,
+        "originalUrl": "https://www.zawya.com/en/press-release/africa-press-releases/at-least-one-million-women-and-girls-lose-access-to-critical-support-as-aid-cuts-dismantle-womens-vfrtntt4",
+        "articlePath": "/article.html?issue=2026-07-05&article=2026-07-05-at-least-one-million-women-and-girls-lose-access-to-critical-support-as-"
+      },
+      {
+        "id": "2026-07-05-us-loosens-export-controls-on-uae-government-notice-shows",
+        "title": "US loosens export controls on UAE, government notice shows",
+        "summary": "The ⁠UAE government and approved companies will also be able to access advanced computing items ‌license-free, the posting showed",
+        "source": "Zawya Pharmaceuticals",
+        "sourceHost": "zawya.com",
+        "region": "Middle East",
+        "country": "United Arab Emirates",
+        "publishedAt": "2026-07-10T15:46:54.000Z",
+        "publishedLabel": "July 10, 2026",
+        "category": "Provider Update",
+        "image": "https://static.zawya.com/view/acePublic/alias/contentid/YjllMWQ5NmQtYzU3Ni00/8/1089425310.jpeg?f=3%3A2",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": true,
+        "originalUrl": "https://www.zawya.com/en/economy/gcc/us-loosens-export-controls-on-uae-government-notice-shows-bbqmflvv",
+        "articlePath": "/article.html?issue=2026-07-05&article=2026-07-05-us-loosens-export-controls-on-uae-government-notice-shows"
       }
     ],
     "diagnostics": [
@@ -1130,7 +1199,7 @@
         "category": "Screening",
         "image": "https://etimg.etb2bimg.com/thumb/msid-132282653,imgsize-134630,width-1200,height=627,overlay-ethealth,resizemode-75/diagnostics/from-fear-to-hope-ai-finds-a-new-role-in-fight-against-cancer.jpg",
         "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/diagnostics/from-fear-to-hope-ai-finds-a-new-role-in-fight-against-cancer/132282653",
         "articlePath": "/article.html?issue=2026-07-05&article=2026-07-05-from-fear-to-hope-ai-finds-a-new-role-in-fight-against-cancer"
       },
@@ -1181,7 +1250,7 @@
         "category": "Industry Update",
         "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/07/10143245/New-Project-2-1.jpg",
         "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/news/ai-in-radiology-the-future-of-early-diagnosis-in-india/454317/",
         "articlePath": "/article.html?issue=2026-07-05&article=2026-07-05-ai-in-radiology-the-future-of-early-diagnosis-in-india"
       },
@@ -1266,7 +1335,7 @@
         "category": "Lab Network",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/07/image-1600x900-2026-07-10T084118.423.png",
         "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/07/10/evogene-collaborates-with-blavatnik-center-to-advance-israeli-biotech-ecosystem/",
         "articlePath": "/article.html?issue=2026-07-05&article=2026-07-05-evogene-collaborates-with-blavatnik-center-to-advance-israeli-biotech-ec"
       }
@@ -1324,6 +1393,14 @@
     },
     {
       "segment": "providers",
+      "articleId": "2026-07-05-70-medical-colleges-fail-to-comply-with-nmc-s-mandatory-cctv-norms",
+      "title": "70 medical colleges fail to comply with NMC's mandatory CCTV norms",
+      "source": "ET Healthworld Hospitals",
+      "solution": "THB Provider CRM",
+      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
+    },
+    {
+      "segment": "providers",
       "articleId": "2026-07-05-ihh-hospitals-in-india-singapore-saw-fewer-patients-from-middle-east-due",
       "title": "IHH hospitals in India, Singapore saw fewer patients from Middle East due to war",
       "source": "ET Healthworld Hospitals",
@@ -1340,19 +1417,11 @@
     },
     {
       "segment": "providers",
-      "articleId": "2026-07-05-temasek-backed-manipal-health-gets-sebi-approval-for-ipo-eyes-july-listi",
-      "title": "Temasek-backed Manipal Health gets SEBI approval for IPO, eyes July listing",
+      "articleId": "2026-07-05-aiims-bibinagar-fully-operational-secured-rs-64-cr-in-research-grants-un",
+      "title": "'AIIMS Bibinagar fully operational, secured Rs 64 cr in research grants': Union Health Minister JP Nadda",
       "source": "ET Healthworld Hospitals",
       "solution": "THB Provider CRM",
       "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
-    },
-    {
-      "segment": "providers",
-      "articleId": "2026-07-05-healthcare-in-india-is-racing-towards-ai-and-it-has-a-sovereignty-proble",
-      "title": "Healthcare in India is racing towards AI and it has a sovereignty problem",
-      "source": "Express Healthcare",
-      "solution": "THB Patient Engagement",
-      "action": "Recommend THB's patient engagement workflows to improve acquisition, follow-up adherence, and post-discharge retention for expanding provider groups."
     },
     {
       "segment": "diagnostics",
