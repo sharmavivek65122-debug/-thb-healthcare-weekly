@@ -5,37 +5,19 @@
   "startDate": "2026-06-13T18:30:00.000Z",
   "endDate": "2026-06-19T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-07-11T14:35:50.909Z",
+  "updatedAt": "2026-07-12T07:06:45.661Z",
   "coverage": {
-    "pharma": 2,
+    "pharma": 1,
     "providers": 6,
     "diagnostics": 0,
     "healthtech": 0
   },
   "sourcesUsed": [
-    "ET Healthworld",
     "ET Healthworld Hospitals",
     "Financial Express Healthcare"
   ],
   "segments": {
     "pharma": [
-      {
-        "id": "2026-06-14-iit-bombay-study-identifies-safer-pathway-to-tackle-cholesterol-fatty-li",
-        "title": "IIT Bombay study identifies safer pathway to tackle cholesterol, fatty liver",
-        "summary": "The mechanism can interrupt VLDL (very low-density lipoproteins) release from the liver by targeting the physical movement of lipid droplets instead of enzymes, receptors, or genes traditionally used for lowering lipids in the bloodstream, said the...",
-        "source": "ET Healthworld",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-06-19T10:34:35.000Z",
-        "publishedLabel": "June 19, 2026",
-        "category": "Industry Update",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-131856484,imgsize-91014,width-1200,height=627,overlay-ethealth,resizemode-75/industry/iit-bombay-study-identifies-safer-pathway-to-tackle-cholesterol-fatty-liver.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/iit-bombay-study-identifies-safer-pathway-to-tackle-cholesterol-fatty-liver/131856484",
-        "articlePath": "/article.html?issue=2026-06-14&article=2026-06-14-iit-bombay-study-identifies-safer-pathway-to-tackle-cholesterol-fatty-li"
-      },
       {
         "id": "2026-06-14-fssai-cracks-down-on-misleading-healthy-claims-issues-notices-to-8-major",
         "title": "FSSAI cracks down on misleading ‘healthy’ claims, issues notices to 8 major food brands",
@@ -162,14 +144,6 @@
     "healthtech": []
   },
   "thbActions": [
-    {
-      "segment": "pharma",
-      "articleId": "2026-06-14-iit-bombay-study-identifies-safer-pathway-to-tackle-cholesterol-fatty-li",
-      "title": "IIT Bombay study identifies safer pathway to tackle cholesterol, fatty liver",
-      "source": "ET Healthworld",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
     {
       "segment": "pharma",
       "articleId": "2026-06-14-fssai-cracks-down-on-misleading-healthy-claims-issues-notices-to-8-major",
