@@ -5,19 +5,37 @@
   "startDate": "2026-07-11T18:30:00.000Z",
   "endDate": "2026-07-17T18:30:00.000Z",
   "status": "live",
-  "updatedAt": "2026-07-12T07:06:45.661Z",
+  "updatedAt": "2026-07-12T14:41:13.596Z",
   "coverage": {
-    "pharma": 4,
+    "pharma": 6,
     "providers": 2,
-    "diagnostics": 4,
+    "diagnostics": 2,
     "healthtech": 0
   },
   "sourcesUsed": [
+    "Healthcare MEA",
     "Medical Dialogues Pharma",
     "Zawya Pharmaceuticals"
   ],
   "segments": {
     "pharma": [
+      {
+        "id": "2026-07-12-nppa-revises-ceiling-price-of-anti-rabies-immunoglobulin-injection",
+        "title": "NPPA Revises Ceiling Price of Anti-Rabies Immunoglobulin Injection",
+        "summary": "New Delhi: The National Pharmaceutical Pricing Authority (NPPA) has revised the ceiling price of Anti-rabies Immunoglobulin Injection 300 IU/ml under the provisions of the Drugs (Prices Control) Order...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-07-12T09:30:30.000Z",
+        "publishedLabel": "July 12, 2026",
+        "category": "Industry Update",
+        "image": "https://medicaldialogues.in/h-upload/2026/04/10/340815-tb-vaccine.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/nppa-revises-ceiling-price-of-anti-rabies-immunoglobulin-injection-174861",
+        "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-nppa-revises-ceiling-price-of-anti-rabies-immunoglobulin-injection"
+      },
       {
         "id": "2026-07-12-marksans-pharma-to-acquire-germany-s-abcnow-gmbh-to-strengthen-eu-market",
         "title": "Marksans Pharma to Acquire Germany's ABCnow GmbH to Strengthen EU Market Presence",
@@ -85,61 +103,78 @@
         "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/centre-adds-navi-mumbai-international-airport-to-approved-drug-import-locations-174857",
         "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-centre-adds-navi-mumbai-international-airport-to-approved-drug-import-lo"
+      },
+      {
+        "id": "2026-07-12-valu-launches-egypt-s-first-instant-cashback-loyalty-program-redefining-",
+        "title": "Valu launches Egypt’s first instant cashback loyalty program, redefining rewards for everyday spending",
+        "summary": "Customers now earn instant cashback on every transaction across Valu’s ecosystem, with rewards available immediately and redeemable anywhere across the network",
+        "source": "Zawya Pharmaceuticals",
+        "sourceHost": "zawya.com",
+        "region": "Middle East",
+        "country": "Middle East",
+        "publishedAt": "2026-07-12T13:09:43.000Z",
+        "publishedLabel": "July 12, 2026",
+        "category": "Launch",
+        "image": "https://static.zawya.com/view/acePublic/alias/contentid/102c453b-a071-4312-ab1e-408dcceda180/0/omarabdelhady-jpg.jpeg?f=3%3A2",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://www.zawya.com/en/press-release/companies-news/valu-launches-egypts-first-instant-cashback-loyalty-program-redefining-rewards-for-everyday-spending-lpad9pxr",
+        "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-valu-launches-egypt-s-first-instant-cashback-loyalty-program-redefining-"
       }
     ],
     "providers": [
       {
-        "id": "2026-07-12-thumbay-to-launch-uae-s-first-of-its-kind-academic-programs-in-longevity",
-        "title": "Thumbay to launch UAE's first-of-its-kind academic programs in longevity medicine",
-        "summary": "In partnership with Switzerland's Geneva College of Longevity Science",
+        "id": "2026-07-12-jootrh-unveils-us-37-9m-medicity-master-plan-to-expand-regional-healthca",
+        "title": "JOOTRH unveils US$37.9M Medicity Master Plan to expand regional healthcare capacity",
+        "summary": "Arprim Consultants presented a master plan and feasibility study led by Principal Architect Jared Momanyi, which sets out a phased approach to meet rising regional healthcare needs.",
+        "source": "Healthcare MEA",
+        "sourceHost": "healthcaremea.com",
+        "region": "Middle East",
+        "country": "Oman",
+        "publishedAt": "2026-07-12T08:10:43.000Z",
+        "publishedLabel": "July 12, 2026",
+        "category": "Provider Update",
+        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/07/image-1600x900-2026-07-12T105954.415.png",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": true,
+        "originalUrl": "https://www.healthcaremea.com/2026/07/12/jootrh-unveils-us37-9m-medicity-master-plan-to-expand-regional-healthcare-capacity/",
+        "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-jootrh-unveils-us-37-9m-medicity-master-plan-to-expand-regional-healthca"
+      },
+      {
+        "id": "2026-07-12-egypt-president-el-sisi-meets-united-arab-emirates-uae-president-his-hig",
+        "title": "Egypt: President El-Sisi Meets United Arab Emirates (UAE) President His Highness (HH) Sheikh Mohamed bin Zayed in New El-Alamain City",
+        "summary": "Egypt: President El-Sisi Meets United Arab Emirates (UAE) President His Highness (HH) Sheikh Mohamed bin Zayed in New El-Alamain City",
         "source": "Zawya Pharmaceuticals",
         "sourceHost": "zawya.com",
         "region": "Middle East",
         "country": "United Arab Emirates",
-        "publishedAt": "2026-07-12T03:56:17.000Z",
+        "publishedAt": "2026-07-12T12:05:42.000Z",
         "publishedLabel": "July 12, 2026",
-        "category": "Provider Update",
-        "image": "https://static.zawya.com/view/acePublic/alias/contentid/115b7008-d2c1-4e18-a3ed-35f87027e957/0/1-image-jpeg.jpeg?f=3%3A2",
+        "category": "AI Care Delivery",
+        "image": "https://www.africa-newsroom.com/files/large/04cd40fd065257d",
         "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://www.zawya.com/en/press-release/companies-news/thumbay-to-launch-uaes-first-of-its-kind-academic-programs-in-longevity-medicine-ypptehly",
-        "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-thumbay-to-launch-uae-s-first-of-its-kind-academic-programs-in-longevity"
-      },
-      {
-        "id": "2026-07-12-stc-pay-partners-with-pie-to-enable-qr-payments-across-bahrain-s-pos-net",
-        "title": "Stc pay partners with PIE to enable QR payments across Bahrain’s POS network",
-        "summary": "Delivering faster, easier and more secure transactions across retail, hospitality, and service industries",
-        "source": "Zawya Pharmaceuticals",
-        "sourceHost": "zawya.com",
-        "region": "Middle East",
-        "country": "Oman",
-        "publishedAt": "2026-07-12T03:56:09.000Z",
-        "publishedLabel": "July 12, 2026",
-        "category": "Hospital",
-        "image": "https://static.zawya.com/view/acePublic/alias/contentid/8a5494fb-a1bc-40d0-8145-9f4887bdea9c/0/stcpaypartnerswithpie-png.jpeg?f=3%3A2",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://www.zawya.com/en/press-release/companies-news/stc-pay-partners-with-pie-to-enable-qr-payments-across-bahrains-pos-network-c27pepgv",
-        "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-stc-pay-partners-with-pie-to-enable-qr-payments-across-bahrain-s-pos-net"
+        "justIn": true,
+        "originalUrl": "https://www.zawya.com/en/press-release/africa-press-releases/egypt-president-el-sisi-meets-united-arab-emirates-uae-president-his-highness-hh-sheikh-mohamed-bin-zayed-in-ylgn5wrw",
+        "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-egypt-president-el-sisi-meets-united-arab-emirates-uae-president-his-hig"
       }
     ],
     "diagnostics": [
       {
-        "id": "2026-07-12-nbk-automobiles-delivers-world-class-mercedes-benz-after-sales-services-",
-        "title": "NBK Automobiles delivers world-class Mercedes-Benz after-sales services for the summer season",
-        "summary": "Reminding Mercedes-Benz owners of the importance of seasonal vehicle care by booking a comprehensive inspection at its authorised service centres",
-        "source": "Zawya Pharmaceuticals",
-        "sourceHost": "zawya.com",
+        "id": "2026-07-12-beckman-coulter-secures-eu-ce-mark-for-access-p-tau217-alzheimer-s-blood",
+        "title": "Beckman Coulter secures EU CE mark for Access p-Tau217 Alzheimer's blood test | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
+        "summary": "The approval allows laboratories across Europe and other CE-recognising markets to use the assay to support the clinical evaluation of amyloid pathology in people showing signs of cognitive decline.",
+        "source": "Healthcare MEA",
+        "sourceHost": "healthcaremea.com",
         "region": "Middle East",
-        "country": "Qatar",
-        "publishedAt": "2026-07-12T03:55:34.000Z",
+        "country": "Middle East",
+        "publishedAt": "2026-07-12T07:30:44.000Z",
         "publishedLabel": "July 12, 2026",
-        "category": "Industry Update",
-        "image": "https://static.zawya.com/view/acePublic/alias/contentid/69eb11f8-8e3c-4477-80d6-2293c18d3ffa/0/accheckup-jpg.jpeg?f=3%3A2",
+        "category": "Lab Network",
+        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/07/image-1600x900-2026-07-12T102600.281.png",
         "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
-        "justIn": false,
-        "originalUrl": "https://www.zawya.com/en/press-release/companies-news/nbk-automobiles-delivers-world-class-mercedes-benz-after-sales-services-for-the-summer-season-t293cdui",
-        "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-nbk-automobiles-delivers-world-class-mercedes-benz-after-sales-services-"
+        "justIn": true,
+        "originalUrl": "https://www.healthcaremea.com/2026/07/12/beckman-coulter-secures-eu-ce-mark-for-access-p-tau217-alzheimers-blood-test/",
+        "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-beckman-coulter-secures-eu-ce-mark-for-access-p-tau217-alzheimer-s-blood"
       },
       {
         "id": "2026-07-12-maharashtra-fda-warns-against-three-cosmetics-after-mercury-lead-levels-",
@@ -157,45 +192,19 @@
         "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/maharashtra-fda-warns-against-three-cosmetics-after-mercury-lead-levels-exceed-safety-limits-174852",
         "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-maharashtra-fda-warns-against-three-cosmetics-after-mercury-lead-levels-"
-      },
-      {
-        "id": "2026-07-12-itc-inaugurates-a-central-control-room-to-oversee-and-monitor-autonomous",
-        "title": "ITC inaugurates a Central Control Room to oversee and monitor autonomous vehicle operations across Abu Dhabi",
-        "summary": "As part of an advanced regulatory system for autonomous vehicles",
-        "source": "Zawya Pharmaceuticals",
-        "sourceHost": "zawya.com",
-        "region": "Middle East",
-        "country": "United Arab Emirates",
-        "publishedAt": "2026-07-12T03:56:11.000Z",
-        "publishedLabel": "July 12, 2026",
-        "category": "Industry Update",
-        "image": "https://static.zawya.com/view/acePublic/alias/contentid/badb22cf-4e8c-4491-8480-81ab822d9e33/0/_z8a5380-jpg.jpeg?f=3%3A2",
-        "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
-        "justIn": false,
-        "originalUrl": "https://www.zawya.com/en/press-release/government-news/itc-inaugurates-a-central-control-room-to-oversee-and-monitor-autonomous-vehicle-operations-across-abu-dhabi-dbi6qe79",
-        "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-itc-inaugurates-a-central-control-room-to-oversee-and-monitor-autonomous"
-      },
-      {
-        "id": "2026-07-12-dubai-customs-fully-prepared-for-peak-summer-travel-season",
-        "title": "Dubai Customs fully prepared for peak summer travel season",
-        "summary": "Baggage inspection in arrivals halls takes no more than seven seconds",
-        "source": "Zawya Pharmaceuticals",
-        "sourceHost": "zawya.com",
-        "region": "Middle East",
-        "country": "United Arab Emirates",
-        "publishedAt": "2026-07-12T03:55:20.000Z",
-        "publishedLabel": "July 12, 2026",
-        "category": "Industry Update",
-        "image": "https://static.zawya.com/view/acePublic/alias/contentid/b58ed3df-e2e7-44d2-81c9-d717da2d2ff4/0/hh-jpg.jpeg?f=3%3A2",
-        "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
-        "justIn": false,
-        "originalUrl": "https://www.zawya.com/en/press-release/government-news/dubai-customs-fully-prepared-for-peak-summer-travel-season-q42xtw84",
-        "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-dubai-customs-fully-prepared-for-peak-summer-travel-season"
       }
     ],
     "healthtech": []
   },
   "thbActions": [
+    {
+      "segment": "pharma",
+      "articleId": "2026-07-12-nppa-revises-ceiling-price-of-anti-rabies-immunoglobulin-injection",
+      "title": "NPPA Revises Ceiling Price of Anti-Rabies Immunoglobulin Injection",
+      "source": "Medical Dialogues Pharma",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
     {
       "segment": "pharma",
       "articleId": "2026-07-12-marksans-pharma-to-acquire-germany-s-abcnow-gmbh-to-strengthen-eu-market",
@@ -230,25 +239,25 @@
     },
     {
       "segment": "providers",
-      "articleId": "2026-07-12-thumbay-to-launch-uae-s-first-of-its-kind-academic-programs-in-longevity",
-      "title": "Thumbay to launch UAE's first-of-its-kind academic programs in longevity medicine",
-      "source": "Zawya Pharmaceuticals",
+      "articleId": "2026-07-12-jootrh-unveils-us-37-9m-medicity-master-plan-to-expand-regional-healthca",
+      "title": "JOOTRH unveils US$37.9M Medicity Master Plan to expand regional healthcare capacity",
+      "source": "Healthcare MEA",
       "solution": "THB Provider CRM",
       "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
     },
     {
       "segment": "providers",
-      "articleId": "2026-07-12-stc-pay-partners-with-pie-to-enable-qr-payments-across-bahrain-s-pos-net",
-      "title": "Stc pay partners with PIE to enable QR payments across Bahrain’s POS network",
+      "articleId": "2026-07-12-egypt-president-el-sisi-meets-united-arab-emirates-uae-president-his-hig",
+      "title": "Egypt: President El-Sisi Meets United Arab Emirates (UAE) President His Highness (HH) Sheikh Mohamed bin Zayed in New El-Alamain City",
       "source": "Zawya Pharmaceuticals",
       "solution": "THB Provider CRM",
       "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
     },
     {
       "segment": "diagnostics",
-      "articleId": "2026-07-12-nbk-automobiles-delivers-world-class-mercedes-benz-after-sales-services-",
-      "title": "NBK Automobiles delivers world-class Mercedes-Benz after-sales services for the summer season",
-      "source": "Zawya Pharmaceuticals",
+      "articleId": "2026-07-12-beckman-coulter-secures-eu-ce-mark-for-access-p-tau217-alzheimer-s-blood",
+      "title": "Beckman Coulter secures EU CE mark for Access p-Tau217 Alzheimer's blood test | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
+      "source": "Healthcare MEA",
       "solution": "THB Diagnostics CRM",
       "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
     },
@@ -257,22 +266,6 @@
       "articleId": "2026-07-12-maharashtra-fda-warns-against-three-cosmetics-after-mercury-lead-levels-",
       "title": "Maharashtra FDA Warns Against Three Cosmetics After Mercury, Lead Levels Exceed Safety Limits",
       "source": "Medical Dialogues Pharma",
-      "solution": "THB Diagnostics CRM",
-      "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
-    },
-    {
-      "segment": "diagnostics",
-      "articleId": "2026-07-12-itc-inaugurates-a-central-control-room-to-oversee-and-monitor-autonomous",
-      "title": "ITC inaugurates a Central Control Room to oversee and monitor autonomous vehicle operations across Abu Dhabi",
-      "source": "Zawya Pharmaceuticals",
-      "solution": "THB Diagnostics CRM",
-      "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
-    },
-    {
-      "segment": "diagnostics",
-      "articleId": "2026-07-12-dubai-customs-fully-prepared-for-peak-summer-travel-season",
-      "title": "Dubai Customs fully prepared for peak summer travel season",
-      "source": "Zawya Pharmaceuticals",
       "solution": "THB Diagnostics CRM",
       "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
     }
