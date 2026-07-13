@@ -5,9 +5,9 @@
   "startDate": "2026-06-27T18:30:00.000Z",
   "endDate": "2026-07-03T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-07-12T14:41:13.596Z",
+  "updatedAt": "2026-07-13T07:47:38.892Z",
   "coverage": {
-    "pharma": 7,
+    "pharma": 5,
     "providers": 1,
     "diagnostics": 3,
     "healthtech": 0
@@ -16,8 +16,7 @@
     "BioSpectrum Asia Middle East",
     "ET Healthworld",
     "ET Healthworld Diagnostics",
-    "Economic Times Pharma",
-    "Lupin Updates"
+    "Economic Times Pharma"
   ],
   "segments": {
     "pharma": [
@@ -37,23 +36,6 @@
         "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/us-west-asia-drag-indias-pharma-exports-growth/articleshow/132169394.cms",
         "articlePath": "/article.html?issue=2026-06-28&article=2026-06-28-us-west-asia-drag-india-s-pharma-exports-growth"
-      },
-      {
-        "id": "2026-06-28-sun-pharma-secures-relief-in-pantocid-trademark-dispute",
-        "title": "Sun Pharma secures relief in 'Pantocid' trademark dispute",
-        "summary": "Delhi High Court has halted Ahmedabad-based Finecure Pharmaceuticals from producing and selling drugs with names similar to Sun Pharma's 'Pantocid'. The court permitted Finecure to sell existing stock of 'Pantopacid' within four months, provided an affidavit...",
-        "source": "Economic Times Pharma",
-        "sourceHost": "economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-07-03T18:38:59.000Z",
-        "publishedLabel": "July 4, 2026",
-        "category": "Industry Update",
-        "image": "https://img.etimg.com/thumb/msid-132169347,width-1200,height-630,imgsize-58484,overlay-economictimes/articleshow.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/sun-pharma-secures-relief-in-pantocid-trademark-dispute/articleshow/132169348.cms",
-        "articlePath": "/article.html?issue=2026-06-28&article=2026-06-28-sun-pharma-secures-relief-in-pantocid-trademark-dispute"
       },
       {
         "id": "2026-06-28-maharashtra-govt-introduces-bill-to-regulate-clinical-establishments-bri",
@@ -122,23 +104,6 @@
         "justIn": false,
         "originalUrl": "https://www.biospectrumasia.com/analysis/25/27933/revamping-and-enhancing-pharma-logistics-.html",
         "articlePath": "/article.html?issue=2026-06-28&article=2026-06-28-revamping-and-enhancing-pharma-logistics"
-      },
-      {
-        "id": "2026-06-28-stocks-in-news-hero-motocorp-canara-bank-bharti-airtel-indian-hotels-sbi",
-        "title": "Stocks in news: Hero MotoCorp, Canara Bank, Bharti Airtel, Indian Hotels, SBI",
-        "summary": "Indian markets opened positively, with analysts suggesting a stock-specific strategy amidst consolidation. Hero MotoCorp sees a revival in commuter bike demand, planning capacity expansion. Canara Bank and Indian Bank reported strong credit growth. Bharti...",
-        "source": "Lupin Updates",
-        "sourceHost": "economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-07-02T00:41:00.000Z",
-        "publishedLabel": "July 2, 2026",
-        "category": "Market",
-        "image": "https://img.etimg.com/thumb/msid-132120006,width-1200,height-630,imgsize-22420,overlay-etmarkets/articleshow.jpg",
-        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": false,
-        "originalUrl": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-hero-motocorp-canara-bank-bharti-airtel-indian-hotels-sbi/articleshow/132120012.cms",
-        "articlePath": "/article.html?issue=2026-06-28&article=2026-06-28-stocks-in-news-hero-motocorp-canara-bank-bharti-airtel-indian-hotels-sbi"
       }
     ],
     "providers": [
@@ -226,14 +191,6 @@
     },
     {
       "segment": "pharma",
-      "articleId": "2026-06-28-sun-pharma-secures-relief-in-pantocid-trademark-dispute",
-      "title": "Sun Pharma secures relief in 'Pantocid' trademark dispute",
-      "source": "Economic Times Pharma",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
-      "segment": "pharma",
       "articleId": "2026-06-28-maharashtra-govt-introduces-bill-to-regulate-clinical-establishments-bri",
       "title": "Maharashtra govt introduces bill to regulate clinical establishments, bring transperancy",
       "source": "ET Healthworld",
@@ -255,6 +212,14 @@
       "source": "BioSpectrum Asia Middle East",
       "solution": "THB Commercial Analytics",
       "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
+    },
+    {
+      "segment": "pharma",
+      "articleId": "2026-06-28-revamping-and-enhancing-pharma-logistics",
+      "title": "Revamping and Enhancing Pharma Logistics",
+      "source": "BioSpectrum Asia Middle East",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
     },
     {
       "segment": "providers",

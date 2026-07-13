@@ -5,20 +5,108 @@
   "startDate": "2026-07-11T18:30:00.000Z",
   "endDate": "2026-07-17T18:30:00.000Z",
   "status": "live",
-  "updatedAt": "2026-07-12T14:41:13.596Z",
+  "updatedAt": "2026-07-13T07:47:38.892Z",
   "coverage": {
-    "pharma": 6,
-    "providers": 2,
-    "diagnostics": 2,
+    "pharma": 13,
+    "providers": 1,
+    "diagnostics": 3,
     "healthtech": 0
   },
   "sourcesUsed": [
+    "ET Healthworld",
+    "Economic Times Pharma",
+    "Express Healthcare",
     "Healthcare MEA",
-    "Medical Dialogues Pharma",
-    "Zawya Pharmaceuticals"
+    "Lupin Updates",
+    "Medical Dialogues Pharma"
   ],
   "segments": {
     "pharma": [
+      {
+        "id": "2026-07-12-pharma-body-renews-push-for-data-protection",
+        "title": "Pharma body renews push for data protection",
+        "summary": "Leading pharmaceutical companies seek Regulatory Data Protection to boost research investments. Public health groups and local makers oppose this, fearing extended monopolies and delayed generics. The Organization of Pharmaceutical Producers of India argues...",
+        "source": "Economic Times Pharma",
+        "sourceHost": "economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-07-12T18:53:12.000Z",
+        "publishedLabel": "July 13, 2026",
+        "category": "Industry Update",
+        "image": "https://img.etimg.com/thumb/msid-132351472,width-1200,height-630,imgsize-132638,overlay-economictimes/articleshow.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/pharma-body-renews-push-for-data-protection/articleshow/132351397.cms",
+        "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-pharma-body-renews-push-for-data-protection"
+      },
+      {
+        "id": "2026-07-12-breast-cancer-survival-rate-up-but-india-lags-behind-rich-nations-who",
+        "title": "Breast cancer survival rate up, but India lags behind rich nations: WHO",
+        "summary": "India's estimated five-year breast cancer survival rate for women diagnosed during 2017-2021 stands at 65.7%, compared with a global median of 77.8%, according to the WHO estimates published in 'Nature Medicine'. Survival reaches 87.3% in high-income...",
+        "source": "ET Healthworld",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-07-13T06:03:04.000Z",
+        "publishedLabel": "July 13, 2026",
+        "category": "Industry Update",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-132358184,imgsize-78028,width-1200,height=627,overlay-ethealth,resizemode-75/industry/breast-cancer-survival-rate-up-but-india-lags-behind-rich-nations-who.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/breast-cancer-survival-rate-up-but-india-lags-behind-rich-nations-who/132358184",
+        "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-breast-cancer-survival-rate-up-but-india-lags-behind-rich-nations-who"
+      },
+      {
+        "id": "2026-07-12-antibiotic-resistance-emerging-as-major-threat-to-surgical-care-experts",
+        "title": "Antibiotic resistance emerging as major threat to surgical care: Experts",
+        "summary": "Surgeons say that while antibiotics remain critical in preventing surgical site infections, their indiscriminate use has fuelled resistance, forcing hospitals to adopt stricter antibiotic stewardship practices and emphasise infection prevention measures over...",
+        "source": "ET Healthworld",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-07-13T02:03:34.000Z",
+        "publishedLabel": "July 13, 2026",
+        "category": "Industry Update",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-132354348,imgsize-82546,width-1200,height=627,overlay-ethealth,resizemode-75/industry/antibiotic-resistance-emerging-as-major-threat-to-surgical-care-experts.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/antibiotic-resistance-emerging-as-major-threat-to-surgical-care-experts/132354348",
+        "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-antibiotic-resistance-emerging-as-major-threat-to-surgical-care-experts"
+      },
+      {
+        "id": "2026-07-12-why-healthcare-s-future-lies-in-connected-ecosystems",
+        "title": "Why healthcare’s future lies in connected ecosystems",
+        "summary": "Healthcare's biggest disruption isn't AI, it's integration. As medical devices, cloud platforms, digital health and life sciences converge into a single connected ecosystem, the industry is moving from episodic treatment to continuous, data-driven care. Atul...",
+        "source": "Express Healthcare",
+        "sourceHost": "expresshealthcare.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-07-13T06:59:27.000Z",
+        "publishedLabel": "July 13, 2026",
+        "category": "Industry Update",
+        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/07/13122658/EH_Atul_Kurani_750.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://www.expresshealthcare.in/news/why-healthcares-future-lies-in-connected-ecosystems/454324/",
+        "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-why-healthcare-s-future-lies-in-connected-ecosystems"
+      },
+      {
+        "id": "2026-07-12-bayer-secures-us-3-4b-equity-injection-from-apollo-for-larc-contraceptiv",
+        "title": "Bayer secures US$3.4B equity injection from Apollo for LARC contraceptives portfolio | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
+        "summary": "The agreement gives Apollo-managed funds and affiliates a non-controlling interest in a newly created entity that will hold Bayer’s LARC portfolio.",
+        "source": "Healthcare MEA",
+        "sourceHost": "healthcaremea.com",
+        "region": "Middle East",
+        "country": "Middle East",
+        "publishedAt": "2026-07-13T06:36:33.000Z",
+        "publishedLabel": "July 13, 2026",
+        "category": "Manufacturing",
+        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/07/image-1600x900-2026-07-13T093121.838.png",
+        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
+        "justIn": true,
+        "originalUrl": "https://www.healthcaremea.com/2026/07/13/bayer-secures-us3-4b-equity-injection-from-apollo-for-larc-contraceptives-portfolio/",
+        "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-bayer-secures-us-3-4b-equity-injection-from-apollo-for-larc-contraceptiv"
+      },
       {
         "id": "2026-07-12-nppa-revises-ceiling-price-of-anti-rabies-immunoglobulin-injection",
         "title": "NPPA Revises Ceiling Price of Anti-Rabies Immunoglobulin Injection",
@@ -32,7 +120,7 @@
         "category": "Industry Update",
         "image": "https://medicaldialogues.in/h-upload/2026/04/10/340815-tb-vaccine.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/nppa-revises-ceiling-price-of-anti-rabies-immunoglobulin-injection-174861",
         "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-nppa-revises-ceiling-price-of-anti-rabies-immunoglobulin-injection"
       },
@@ -52,6 +140,23 @@
         "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/marksans-pharma-to-acquire-germanys-abcnow-gmbh-to-strengthen-eu-market-presence-174851",
         "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-marksans-pharma-to-acquire-germany-s-abcnow-gmbh-to-strengthen-eu-market"
+      },
+      {
+        "id": "2026-07-12-gulf-medical-university-signs-swiss-academic-agreement-to-pioneer-longev",
+        "title": "Gulf Medical University signs Swiss academic agreement to pioneer longevity training | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
+        "summary": "The partnership combines GCLS's expertise as the world's first higher education institution dedicated exclusively to longevity science with GMU's academic resources and Thumbay Heal ...",
+        "source": "Healthcare MEA",
+        "sourceHost": "healthcaremea.com",
+        "region": "Middle East",
+        "country": "United Arab Emirates",
+        "publishedAt": "2026-07-13T07:46:36.000Z",
+        "publishedLabel": "July 13, 2026",
+        "category": "Manufacturing",
+        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/07/image-1600x900-2026-07-13T104015.692.png",
+        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
+        "justIn": true,
+        "originalUrl": "https://www.healthcaremea.com/2026/07/13/gulf-medical-university-signs-swiss-academic-agreement-to-pioneer-longevity-training/",
+        "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-gulf-medical-university-signs-swiss-academic-agreement-to-pioneer-longev"
       },
       {
         "id": "2026-07-12-usfda-proposes-new-rule-to-streamline-drug-manufacturing-facility-regist",
@@ -88,6 +193,23 @@
         "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-sanofi-offers-eu-antitrust-concessions-in-flu-vaccine-competition-probe"
       },
       {
+        "id": "2026-07-12-what-is-car-t-cell-therapy-the-living-drug-that-helped-sam-neill-become-",
+        "title": "What is CAR T-cell therapy? The 'living drug' that helped Sam Neill become cancer free",
+        "summary": "Acclaimed actor Sam Neill, famous for his Jurassic Park role, has passed away. His family confirmed his death on Monday, July 13, in Sydney, Australia. The versatile performer died peacefully surrounded by his close friends and family members. Neill, who was...",
+        "source": "Lupin Updates",
+        "sourceHost": "economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-07-13T07:04:00.000Z",
+        "publishedLabel": "July 13, 2026",
+        "category": "Industry Update",
+        "image": "https://img.etimg.com/thumb/msid-132359462,width-1200,height-630,imgsize-52316,overlay-economictimes/articleshow.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://economictimes.indiatimes.com/us/news/jurassic-park-paleontologist-sam-neill-dies-at-78-after-becoming-cancer-free/articleshow/132359337.cms",
+        "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-what-is-car-t-cell-therapy-the-living-drug-that-helped-sam-neill-become-"
+      },
+      {
         "id": "2026-07-12-centre-adds-navi-mumbai-international-airport-to-approved-drug-import-lo",
         "title": "Centre Adds Navi Mumbai International Airport to Approved Drug Import Locations",
         "summary": "New Delhi: In a move aimed at expanding India's pharmaceutical import infrastructure, the Central Government has cleared Navi Mumbai International Airport for the import of drugs by notifying the...",
@@ -105,21 +227,21 @@
         "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-centre-adds-navi-mumbai-international-airport-to-approved-drug-import-lo"
       },
       {
-        "id": "2026-07-12-valu-launches-egypt-s-first-instant-cashback-loyalty-program-redefining-",
-        "title": "Valu launches Egypt’s first instant cashback loyalty program, redefining rewards for everyday spending",
-        "summary": "Customers now earn instant cashback on every transaction across Valu’s ecosystem, with rewards available immediately and redeemable anywhere across the network",
-        "source": "Zawya Pharmaceuticals",
-        "sourceHost": "zawya.com",
-        "region": "Middle East",
-        "country": "Middle East",
-        "publishedAt": "2026-07-12T13:09:43.000Z",
-        "publishedLabel": "July 12, 2026",
-        "category": "Launch",
-        "image": "https://static.zawya.com/view/acePublic/alias/contentid/102c453b-a071-4312-ab1e-408dcceda180/0/omarabdelhady-jpg.jpeg?f=3%3A2",
+        "id": "2026-07-12-goodluck-india-shares-rally-7-on-2-1-bonus-issue-announcement-how-will-d",
+        "title": "Goodluck India shares rally 7% on 2:1 bonus issue announcement. How will dividend payout be impacted?",
+        "summary": "Goodluck India shares surged up to 7% after the company announced its maiden 2:1 bonus issue. Alongside the bonus announcement, the board adjusted the proposed FY26 final dividend from Rs 3 per share to Re 1 per share. The stock also hit a fresh 52-week high...",
+        "source": "Lupin Updates",
+        "sourceHost": "economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-07-13T07:10:00.000Z",
+        "publishedLabel": "July 13, 2026",
+        "category": "Industry Update",
+        "image": "https://img.etimg.com/thumb/msid-132359610,width-1200,height-630,imgsize-9224,overlay-etmarkets/articleshow.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
         "justIn": true,
-        "originalUrl": "https://www.zawya.com/en/press-release/companies-news/valu-launches-egypts-first-instant-cashback-loyalty-program-redefining-rewards-for-everyday-spending-lpad9pxr",
-        "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-valu-launches-egypt-s-first-instant-cashback-loyalty-program-redefining-"
+        "originalUrl": "https://economictimes.indiatimes.com/markets/stocks/news/goodluck-india-shares-rally-7-on-21-bonus-issue-announcement-how-will-dividend-payout-be-impacted/articleshow/132359616.cms",
+        "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-goodluck-india-shares-rally-7-on-2-1-bonus-issue-announcement-how-will-d"
       }
     ],
     "providers": [
@@ -136,26 +258,9 @@
         "category": "Provider Update",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/07/image-1600x900-2026-07-12T105954.415.png",
         "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/07/12/jootrh-unveils-us37-9m-medicity-master-plan-to-expand-regional-healthcare-capacity/",
         "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-jootrh-unveils-us-37-9m-medicity-master-plan-to-expand-regional-healthca"
-      },
-      {
-        "id": "2026-07-12-egypt-president-el-sisi-meets-united-arab-emirates-uae-president-his-hig",
-        "title": "Egypt: President El-Sisi Meets United Arab Emirates (UAE) President His Highness (HH) Sheikh Mohamed bin Zayed in New El-Alamain City",
-        "summary": "Egypt: President El-Sisi Meets United Arab Emirates (UAE) President His Highness (HH) Sheikh Mohamed bin Zayed in New El-Alamain City",
-        "source": "Zawya Pharmaceuticals",
-        "sourceHost": "zawya.com",
-        "region": "Middle East",
-        "country": "United Arab Emirates",
-        "publishedAt": "2026-07-12T12:05:42.000Z",
-        "publishedLabel": "July 12, 2026",
-        "category": "AI Care Delivery",
-        "image": "https://www.africa-newsroom.com/files/large/04cd40fd065257d",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
-        "originalUrl": "https://www.zawya.com/en/press-release/africa-press-releases/egypt-president-el-sisi-meets-united-arab-emirates-uae-president-his-highness-hh-sheikh-mohamed-bin-zayed-in-ylgn5wrw",
-        "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-egypt-president-el-sisi-meets-united-arab-emirates-uae-president-his-hig"
       }
     ],
     "diagnostics": [
@@ -172,9 +277,26 @@
         "category": "Lab Network",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/07/image-1600x900-2026-07-12T102600.281.png",
         "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/07/12/beckman-coulter-secures-eu-ce-mark-for-access-p-tau217-alzheimers-blood-test/",
         "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-beckman-coulter-secures-eu-ce-mark-for-access-p-tau217-alzheimer-s-blood"
+      },
+      {
+        "id": "2026-07-12-mindrank-secures-us-52m-series-b-funding-for-ai-designed-oral-glp-1-ther",
+        "title": "MindRank secures US$52M Series B funding for AI-designed oral GLP-1 therapeutics | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
+        "summary": "MindRank developed MAP as an AI-native drug discovery engine that combines computational biology, chemistry, laboratory experiments and clinical data into a single research platform.",
+        "source": "Healthcare MEA",
+        "sourceHost": "healthcaremea.com",
+        "region": "Middle East",
+        "country": "Middle East",
+        "publishedAt": "2026-07-13T06:18:13.000Z",
+        "publishedLabel": "July 13, 2026",
+        "category": "Lab Network",
+        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/07/image-1600x900-2026-07-13T091309.291.png",
+        "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
+        "justIn": true,
+        "originalUrl": "https://www.healthcaremea.com/2026/07/13/mindrank-secures-us52m-series-b-funding-for-ai-designed-oral-glp-1-therapeutics/",
+        "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-mindrank-secures-us-52m-series-b-funding-for-ai-designed-oral-glp-1-ther"
       },
       {
         "id": "2026-07-12-maharashtra-fda-warns-against-three-cosmetics-after-mercury-lead-levels-",
@@ -199,43 +321,43 @@
   "thbActions": [
     {
       "segment": "pharma",
-      "articleId": "2026-07-12-nppa-revises-ceiling-price-of-anti-rabies-immunoglobulin-injection",
-      "title": "NPPA Revises Ceiling Price of Anti-Rabies Immunoglobulin Injection",
-      "source": "Medical Dialogues Pharma",
+      "articleId": "2026-07-12-pharma-body-renews-push-for-data-protection",
+      "title": "Pharma body renews push for data protection",
+      "source": "Economic Times Pharma",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
     },
     {
       "segment": "pharma",
-      "articleId": "2026-07-12-marksans-pharma-to-acquire-germany-s-abcnow-gmbh-to-strengthen-eu-market",
-      "title": "Marksans Pharma to Acquire Germany's ABCnow GmbH to Strengthen EU Market Presence",
-      "source": "Medical Dialogues Pharma",
+      "articleId": "2026-07-12-breast-cancer-survival-rate-up-but-india-lags-behind-rich-nations-who",
+      "title": "Breast cancer survival rate up, but India lags behind rich nations: WHO",
+      "source": "ET Healthworld",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "pharma",
+      "articleId": "2026-07-12-antibiotic-resistance-emerging-as-major-threat-to-surgical-care-experts",
+      "title": "Antibiotic resistance emerging as major threat to surgical care: Experts",
+      "source": "ET Healthworld",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "pharma",
+      "articleId": "2026-07-12-why-healthcare-s-future-lies-in-connected-ecosystems",
+      "title": "Why healthcare’s future lies in connected ecosystems",
+      "source": "Express Healthcare",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "pharma",
+      "articleId": "2026-07-12-bayer-secures-us-3-4b-equity-injection-from-apollo-for-larc-contraceptiv",
+      "title": "Bayer secures US$3.4B equity injection from Apollo for LARC contraceptives portfolio | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
+      "source": "Healthcare MEA",
       "solution": "THB Commercial Analytics",
       "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
-    },
-    {
-      "segment": "pharma",
-      "articleId": "2026-07-12-usfda-proposes-new-rule-to-streamline-drug-manufacturing-facility-regist",
-      "title": "USFDA Proposes New Rule to Streamline Drug Manufacturing Facility Registration",
-      "source": "Medical Dialogues Pharma",
-      "solution": "THB Commercial Analytics",
-      "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
-    },
-    {
-      "segment": "pharma",
-      "articleId": "2026-07-12-sanofi-offers-eu-antitrust-concessions-in-flu-vaccine-competition-probe",
-      "title": "Sanofi Offers EU Antitrust Concessions in Flu Vaccine Competition Probe",
-      "source": "Medical Dialogues Pharma",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
-      "segment": "pharma",
-      "articleId": "2026-07-12-centre-adds-navi-mumbai-international-airport-to-approved-drug-import-lo",
-      "title": "Centre Adds Navi Mumbai International Airport to Approved Drug Import Locations",
-      "source": "Medical Dialogues Pharma",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
     },
     {
       "segment": "providers",
@@ -246,17 +368,17 @@
       "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
     },
     {
-      "segment": "providers",
-      "articleId": "2026-07-12-egypt-president-el-sisi-meets-united-arab-emirates-uae-president-his-hig",
-      "title": "Egypt: President El-Sisi Meets United Arab Emirates (UAE) President His Highness (HH) Sheikh Mohamed bin Zayed in New El-Alamain City",
-      "source": "Zawya Pharmaceuticals",
-      "solution": "THB Provider CRM",
-      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
-    },
-    {
       "segment": "diagnostics",
       "articleId": "2026-07-12-beckman-coulter-secures-eu-ce-mark-for-access-p-tau217-alzheimer-s-blood",
       "title": "Beckman Coulter secures EU CE mark for Access p-Tau217 Alzheimer's blood test | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
+      "source": "Healthcare MEA",
+      "solution": "THB Diagnostics CRM",
+      "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
+    },
+    {
+      "segment": "diagnostics",
+      "articleId": "2026-07-12-mindrank-secures-us-52m-series-b-funding-for-ai-designed-oral-glp-1-ther",
+      "title": "MindRank secures US$52M Series B funding for AI-designed oral GLP-1 therapeutics | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
       "source": "Healthcare MEA",
       "solution": "THB Diagnostics CRM",
       "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
