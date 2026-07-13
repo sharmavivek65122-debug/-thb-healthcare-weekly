@@ -5,7 +5,7 @@
   "startDate": "2026-06-27T18:30:00.000Z",
   "endDate": "2026-07-03T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-07-13T07:47:38.892Z",
+  "updatedAt": "2026-07-13T16:05:36.734Z",
   "coverage": {
     "pharma": 5,
     "providers": 1,
@@ -16,27 +16,10 @@
     "BioSpectrum Asia Middle East",
     "ET Healthworld",
     "ET Healthworld Diagnostics",
-    "Economic Times Pharma"
+    "Lupin Updates"
   ],
   "segments": {
     "pharma": [
-      {
-        "id": "2026-06-28-us-west-asia-drag-india-s-pharma-exports-growth",
-        "title": "US, West Asia drag India's pharma exports growth",
-        "summary": "Indian pharmaceutical exports to the US, its largest market, saw a dip in early fiscal months, alongside a slight decline in shipments to West Asia. Despite these challenges, overall exports surged by over 6%, driven by strong performance in regions like...",
-        "source": "Economic Times Pharma",
-        "sourceHost": "economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-07-03T18:41:45.000Z",
-        "publishedLabel": "July 4, 2026",
-        "category": "Market",
-        "image": "https://img.etimg.com/thumb/msid-132169392,width-1200,height-630,imgsize-28407,overlay-economictimes/articleshow.jpg",
-        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": false,
-        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/us-west-asia-drag-indias-pharma-exports-growth/articleshow/132169394.cms",
-        "articlePath": "/article.html?issue=2026-06-28&article=2026-06-28-us-west-asia-drag-india-s-pharma-exports-growth"
-      },
       {
         "id": "2026-06-28-maharashtra-govt-introduces-bill-to-regulate-clinical-establishments-bri",
         "title": "Maharashtra govt introduces bill to regulate clinical establishments, bring transperancy",
@@ -104,6 +87,23 @@
         "justIn": false,
         "originalUrl": "https://www.biospectrumasia.com/analysis/25/27933/revamping-and-enhancing-pharma-logistics-.html",
         "articlePath": "/article.html?issue=2026-06-28&article=2026-06-28-revamping-and-enhancing-pharma-logistics"
+      },
+      {
+        "id": "2026-06-28-stocks-in-news-hero-motocorp-canara-bank-bharti-airtel-indian-hotels-sbi",
+        "title": "Stocks in news: Hero MotoCorp, Canara Bank, Bharti Airtel, Indian Hotels, SBI",
+        "summary": "Indian markets opened positively, with analysts suggesting a stock-specific strategy amidst consolidation. Hero MotoCorp sees a revival in commuter bike demand, planning capacity expansion. Canara Bank and Indian Bank reported strong credit growth. Bharti...",
+        "source": "Lupin Updates",
+        "sourceHost": "economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-07-02T00:41:00.000Z",
+        "publishedLabel": "July 2, 2026",
+        "category": "Market",
+        "image": "https://img.etimg.com/thumb/msid-132120006,width-1200,height-630,imgsize-22420,overlay-etmarkets/articleshow.jpg",
+        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
+        "justIn": false,
+        "originalUrl": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-hero-motocorp-canara-bank-bharti-airtel-indian-hotels-sbi/articleshow/132120012.cms",
+        "articlePath": "/article.html?issue=2026-06-28&article=2026-06-28-stocks-in-news-hero-motocorp-canara-bank-bharti-airtel-indian-hotels-sbi"
       }
     ],
     "providers": [
@@ -183,14 +183,6 @@
   "thbActions": [
     {
       "segment": "pharma",
-      "articleId": "2026-06-28-us-west-asia-drag-india-s-pharma-exports-growth",
-      "title": "US, West Asia drag India's pharma exports growth",
-      "source": "Economic Times Pharma",
-      "solution": "THB Commercial Analytics",
-      "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
-    },
-    {
-      "segment": "pharma",
       "articleId": "2026-06-28-maharashtra-govt-introduces-bill-to-regulate-clinical-establishments-bri",
       "title": "Maharashtra govt introduces bill to regulate clinical establishments, bring transperancy",
       "source": "ET Healthworld",
@@ -220,6 +212,14 @@
       "source": "BioSpectrum Asia Middle East",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "pharma",
+      "articleId": "2026-06-28-stocks-in-news-hero-motocorp-canara-bank-bharti-airtel-indian-hotels-sbi",
+      "title": "Stocks in news: Hero MotoCorp, Canara Bank, Bharti Airtel, Indian Hotels, SBI",
+      "source": "Lupin Updates",
+      "solution": "THB Commercial Analytics",
+      "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
     },
     {
       "segment": "providers",

@@ -5,11 +5,11 @@
   "startDate": "2026-07-11T18:30:00.000Z",
   "endDate": "2026-07-17T18:30:00.000Z",
   "status": "live",
-  "updatedAt": "2026-07-13T07:47:38.892Z",
+  "updatedAt": "2026-07-13T16:05:36.734Z",
   "coverage": {
-    "pharma": 13,
-    "providers": 1,
-    "diagnostics": 3,
+    "pharma": 17,
+    "providers": 3,
+    "diagnostics": 2,
     "healthtech": 0
   },
   "sourcesUsed": [
@@ -17,11 +17,28 @@
     "Economic Times Pharma",
     "Express Healthcare",
     "Healthcare MEA",
-    "Lupin Updates",
-    "Medical Dialogues Pharma"
+    "Medical Dialogues Pharma",
+    "PharmaTutor News"
   ],
   "segments": {
     "pharma": [
+      {
+        "id": "2026-07-12-schedule-h1-explained-why-did-india-tighten-its-prescription-rules-for-h",
+        "title": "Schedule H1 explained: Why did India tighten its prescription rules for high-alcohol medicines?",
+        "summary": "Schedule H1 Explained: High-alcohol oral medicines now require a doctor's prescription under Schedule H1. This stricter classification mandates detailed sales records for pharmacies. The government aims to prevent misuse and diversion of these potent...",
+        "source": "Economic Times Pharma",
+        "sourceHost": "economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-07-13T08:30:06.000Z",
+        "publishedLabel": "July 13, 2026",
+        "category": "Industry Update",
+        "image": "https://img.etimg.com/thumb/msid-132361418,width-1200,height-630,imgsize-1892341,overlay-economictimes/articleshow.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/what-is-schedule-h1-india-prescription-drug-rules-explained-alcohol-medicnes-india-rules/articleshow/132361022.cms",
+        "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-schedule-h1-explained-why-did-india-tighten-its-prescription-rules-for-h"
+      },
       {
         "id": "2026-07-12-pharma-body-renews-push-for-data-protection",
         "title": "Pharma body renews push for data protection",
@@ -35,9 +52,26 @@
         "category": "Industry Update",
         "image": "https://img.etimg.com/thumb/msid-132351472,width-1200,height-630,imgsize-132638,overlay-economictimes/articleshow.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/pharma-body-renews-push-for-data-protection/articleshow/132351397.cms",
         "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-pharma-body-renews-push-for-data-protection"
+      },
+      {
+        "id": "2026-07-12-covid-19-cases-in-andhra-pradesh-not-a-sign-of-resurgence-doctors",
+        "title": "Covid-19 cases in Andhra Pradesh not a sign of resurgence: Doctors",
+        "summary": "Doctors said the two Covid-19 deaths and eight active cases in Andhra Pradesh's Kadapa district are an isolated cluster and not a sign of resurgence of the virus. They added that a combination of factors like waning immunity, viral mutation, and renewed...",
+        "source": "ET Healthworld",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-07-13T10:48:08.000Z",
+        "publishedLabel": "July 13, 2026",
+        "category": "Industry Update",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-132364538,imgsize-90640,width-1200,height=627,overlay-ethealth,resizemode-75/industry/covid-19-cases-in-andhra-pradesh-not-a-sign-of-resurgence-doctors.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/covid-19-cases-in-andhra-pradesh-not-a-sign-of-resurgence-doctors/132364538",
+        "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-covid-19-cases-in-andhra-pradesh-not-a-sign-of-resurgence-doctors"
       },
       {
         "id": "2026-07-12-breast-cancer-survival-rate-up-but-india-lags-behind-rich-nations-who",
@@ -52,26 +86,26 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-132358184,imgsize-78028,width-1200,height=627,overlay-ethealth,resizemode-75/industry/breast-cancer-survival-rate-up-but-india-lags-behind-rich-nations-who.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/breast-cancer-survival-rate-up-but-india-lags-behind-rich-nations-who/132358184",
         "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-breast-cancer-survival-rate-up-but-india-lags-behind-rich-nations-who"
       },
       {
-        "id": "2026-07-12-antibiotic-resistance-emerging-as-major-threat-to-surgical-care-experts",
-        "title": "Antibiotic resistance emerging as major threat to surgical care: Experts",
-        "summary": "Surgeons say that while antibiotics remain critical in preventing surgical site infections, their indiscriminate use has fuelled resistance, forcing hospitals to adopt stricter antibiotic stewardship practices and emphasise infection prevention measures over...",
-        "source": "ET Healthworld",
-        "sourceHost": "health.economictimes.indiatimes.com",
+        "id": "2026-07-12-rpg-life-sciences-ties-up-with-archerchem-healthcare-to-launch-anti-infl",
+        "title": "RPG Life Sciences ties-up with Archerchem Healthcare to launch anti-inflammatory solution in India",
+        "summary": "RPG Life Sciences and Archerchem Healthcare have partnered to launch a new medication. This combination drug offers anti-inflammatory benefits with gastroprotection for patients. RPG Life Sciences will exclusively market and distribute this new product...",
+        "source": "Economic Times Pharma",
+        "sourceHost": "economictimes.indiatimes.com",
         "region": "India",
         "country": "India",
-        "publishedAt": "2026-07-13T02:03:34.000Z",
+        "publishedAt": "2026-07-13T08:36:39.000Z",
         "publishedLabel": "July 13, 2026",
-        "category": "Industry Update",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-132354348,imgsize-82546,width-1200,height=627,overlay-ethealth,resizemode-75/industry/antibiotic-resistance-emerging-as-major-threat-to-surgical-care-experts.jpg",
+        "category": "Market",
+        "image": "https://img.etimg.com/thumb/msid-132361569,width-1200,height-630,imgsize-132638,overlay-economictimes/articleshow.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
         "justIn": true,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/antibiotic-resistance-emerging-as-major-threat-to-surgical-care-experts/132354348",
-        "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-antibiotic-resistance-emerging-as-major-threat-to-surgical-care-experts"
+        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/rpg-life-sciences-ties-up-with-archerchem-healthcare-to-launch-anti-inflammatory-solution-naprosyn-es-in-india/articleshow/132361430.cms",
+        "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-rpg-life-sciences-ties-up-with-archerchem-healthcare-to-launch-anti-infl"
       },
       {
         "id": "2026-07-12-why-healthcare-s-future-lies-in-connected-ecosystems",
@@ -86,9 +120,60 @@
         "category": "Industry Update",
         "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/07/13122658/EH_Atul_Kurani_750.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/news/why-healthcares-future-lies-in-connected-ecosystems/454324/",
         "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-why-healthcare-s-future-lies-in-connected-ecosystems"
+      },
+      {
+        "id": "2026-07-12-teva-secures-global-rights-to-polpharma-s-ocrelizumab-biosimilar-candida",
+        "title": "Teva secures global rights to Polpharma's Ocrelizumab biosimilar candidate | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
+        "summary": "The latest agreement aligns with Teva's broader \"Pivot to Growth\" strategy, which focuses on strengthening its innovative medicines and biosimilars businesses through collaborations ...",
+        "source": "Healthcare MEA",
+        "sourceHost": "healthcaremea.com",
+        "region": "Middle East",
+        "country": "Middle East",
+        "publishedAt": "2026-07-13T08:22:19.000Z",
+        "publishedLabel": "July 13, 2026",
+        "category": "Manufacturing",
+        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/07/image-1600x900-2026-07-13T111800.255.png",
+        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
+        "justIn": true,
+        "originalUrl": "https://www.healthcaremea.com/2026/07/13/teva-secures-global-rights-to-polpharmas-ocrelizumab-biosimilar-candidate/",
+        "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-teva-secures-global-rights-to-polpharma-s-ocrelizumab-biosimilar-candida"
+      },
+      {
+        "id": "2026-07-12-emcure-takes-full-control-of-gennova-bets-big-on-biologics-and-biosimila",
+        "title": "Emcure Takes Full Control of Gennova, Bets Big on Biologics and Biosimilars Under New Leadership",
+        "summary": "Emcure Pharmaceuticals Limited has announced a major strategic restructuring of its biopharmaceutical business by acquiring the remaining 12.05% minority stake in Gennova Biopharmaceuticals Limited, making it a wholly owned subsidiary. The company also...",
+        "source": "PharmaTutor News",
+        "sourceHost": "pharmatutor.org",
+        "region": "Middle East",
+        "country": "Oman",
+        "publishedAt": "2026-07-13T11:41:10.000Z",
+        "publishedLabel": "July 13, 2026",
+        "category": "Industry Update",
+        "image": "https://www.pharmatutor.org/sites/default/files/styles/webp/public/2026-07/emcure-takes-full-control-of-gennova-bets-big-on-biologics-and-biosimilars-under-new-leadership.png.webp?itok=dpNo7-gq",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/emcure-takes-full-control-of-gennova-bets-big-on-biologics-and-biosimilars-under-new-leadership",
+        "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-emcure-takes-full-control-of-gennova-bets-big-on-biologics-and-biosimila"
+      },
+      {
+        "id": "2026-07-12-dr-reddy-s-halts-generic-semaglutide-supply-due-to-api-quality-issues-he",
+        "title": "Dr. Reddy's halts generic semaglutide supply due to API quality issues | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
+        "summary": "The setback comes at a crucial time as competition intensifies in the fast-growing market for lower-cost versions of Novo Nordisk’s blockbuster diabetes and obesity medicine.",
+        "source": "Healthcare MEA",
+        "sourceHost": "healthcaremea.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-07-13T08:19:00.000Z",
+        "publishedLabel": "July 13, 2026",
+        "category": "Manufacturing",
+        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/07/image-1600x900-2026-07-13T092121.213.png",
+        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
+        "justIn": true,
+        "originalUrl": "https://www.healthcaremea.com/2026/07/13/dr-reddys-halts-generic-semaglutide-supply-due-to-api-quality-issues/",
+        "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-dr-reddy-s-halts-generic-semaglutide-supply-due-to-api-quality-issues-he"
       },
       {
         "id": "2026-07-12-bayer-secures-us-3-4b-equity-injection-from-apollo-for-larc-contraceptiv",
@@ -103,7 +188,7 @@
         "category": "Manufacturing",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/07/image-1600x900-2026-07-13T093121.838.png",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/07/13/bayer-secures-us3-4b-equity-injection-from-apollo-for-larc-contraceptives-portfolio/",
         "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-bayer-secures-us-3-4b-equity-injection-from-apollo-for-larc-contraceptiv"
       },
@@ -154,7 +239,7 @@
         "category": "Manufacturing",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/07/image-1600x900-2026-07-13T104015.692.png",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/07/13/gulf-medical-university-signs-swiss-academic-agreement-to-pioneer-longevity-training/",
         "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-gulf-medical-university-signs-swiss-academic-agreement-to-pioneer-longev"
       },
@@ -193,23 +278,6 @@
         "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-sanofi-offers-eu-antitrust-concessions-in-flu-vaccine-competition-probe"
       },
       {
-        "id": "2026-07-12-what-is-car-t-cell-therapy-the-living-drug-that-helped-sam-neill-become-",
-        "title": "What is CAR T-cell therapy? The 'living drug' that helped Sam Neill become cancer free",
-        "summary": "Acclaimed actor Sam Neill, famous for his Jurassic Park role, has passed away. His family confirmed his death on Monday, July 13, in Sydney, Australia. The versatile performer died peacefully surrounded by his close friends and family members. Neill, who was...",
-        "source": "Lupin Updates",
-        "sourceHost": "economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-07-13T07:04:00.000Z",
-        "publishedLabel": "July 13, 2026",
-        "category": "Industry Update",
-        "image": "https://img.etimg.com/thumb/msid-132359462,width-1200,height-630,imgsize-52316,overlay-economictimes/articleshow.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
-        "originalUrl": "https://economictimes.indiatimes.com/us/news/jurassic-park-paleontologist-sam-neill-dies-at-78-after-becoming-cancer-free/articleshow/132359337.cms",
-        "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-what-is-car-t-cell-therapy-the-living-drug-that-helped-sam-neill-become-"
-      },
-      {
         "id": "2026-07-12-centre-adds-navi-mumbai-international-airport-to-approved-drug-import-lo",
         "title": "Centre Adds Navi Mumbai International Airport to Approved Drug Import Locations",
         "summary": "New Delhi: In a move aimed at expanding India's pharmaceutical import infrastructure, the Central Government has cleared Navi Mumbai International Airport for the import of drugs by notifying the...",
@@ -227,24 +295,41 @@
         "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-centre-adds-navi-mumbai-international-airport-to-approved-drug-import-lo"
       },
       {
-        "id": "2026-07-12-goodluck-india-shares-rally-7-on-2-1-bonus-issue-announcement-how-will-d",
-        "title": "Goodluck India shares rally 7% on 2:1 bonus issue announcement. How will dividend payout be impacted?",
-        "summary": "Goodluck India shares surged up to 7% after the company announced its maiden 2:1 bonus issue. Alongside the bonus announcement, the board adjusted the proposed FY26 final dividend from Rs 3 per share to Re 1 per share. The stock also hit a fresh 52-week high...",
-        "source": "Lupin Updates",
-        "sourceHost": "economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-07-13T07:10:00.000Z",
+        "id": "2026-07-12-kenya-records-35-867-new-cancer-cases-in-latest-globocan-2024-estimates-",
+        "title": "Kenya records 35,867 new cancer cases in latest GLOBOCAN 2024 estimates | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
+        "summary": "Breast cancer remains the country's most commonly diagnosed cancer, accounting for 5,822 new cases, or 16.2% of all cancers.",
+        "source": "Healthcare MEA",
+        "sourceHost": "healthcaremea.com",
+        "region": "Middle East",
+        "country": "Middle East",
+        "publishedAt": "2026-07-13T08:15:22.000Z",
         "publishedLabel": "July 13, 2026",
-        "category": "Industry Update",
-        "image": "https://img.etimg.com/thumb/msid-132359610,width-1200,height-630,imgsize-9224,overlay-etmarkets/articleshow.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "category": "Manufacturing",
+        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/07/image-1600x900-2026-07-13T110708.911.png",
+        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
         "justIn": true,
-        "originalUrl": "https://economictimes.indiatimes.com/markets/stocks/news/goodluck-india-shares-rally-7-on-21-bonus-issue-announcement-how-will-dividend-payout-be-impacted/articleshow/132359616.cms",
-        "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-goodluck-india-shares-rally-7-on-2-1-bonus-issue-announcement-how-will-d"
+        "originalUrl": "https://www.healthcaremea.com/2026/07/13/kenya-records-35867-new-cancer-cases-in-latest-globocan-2024-estimates/",
+        "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-kenya-records-35-867-new-cancer-cases-in-latest-globocan-2024-estimates-"
       }
     ],
     "providers": [
+      {
+        "id": "2026-07-12-robotic-surgery-is-changing-more-than-the-way-we-operate",
+        "title": "Robotic surgery is changing more than the way we operate",
+        "summary": "Dr Ashwin Mallya, Senior Consultant (Urology), Sir Ganga Ram Hospital and Associate Professor of Urology, Ganga Ram Institute of Postgraduate Medical Education & Research, explains how robotic surgery is improving cancer care, reconstruction and patient...",
+        "source": "Express Healthcare",
+        "sourceHost": "expresshealthcare.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-07-13T09:58:50.000Z",
+        "publishedLabel": "July 13, 2026",
+        "category": "Hospital",
+        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/07/13152751/EH_GB_-Ashwin_Mallya_750.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": true,
+        "originalUrl": "https://www.expresshealthcare.in/news/robotic-surgery-is-changing-more-than-the-way-we-operate/454329/",
+        "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-robotic-surgery-is-changing-more-than-the-way-we-operate"
+      },
       {
         "id": "2026-07-12-jootrh-unveils-us-37-9m-medicity-master-plan-to-expand-regional-healthca",
         "title": "JOOTRH unveils US$37.9M Medicity Master Plan to expand regional healthcare capacity",
@@ -261,26 +346,26 @@
         "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/07/12/jootrh-unveils-us37-9m-medicity-master-plan-to-expand-regional-healthcare-capacity/",
         "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-jootrh-unveils-us-37-9m-medicity-master-plan-to-expand-regional-healthca"
-      }
-    ],
-    "diagnostics": [
+      },
       {
-        "id": "2026-07-12-beckman-coulter-secures-eu-ce-mark-for-access-p-tau217-alzheimer-s-blood",
-        "title": "Beckman Coulter secures EU CE mark for Access p-Tau217 Alzheimer's blood test | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
-        "summary": "The approval allows laboratories across Europe and other CE-recognising markets to use the assay to support the clinical evaluation of amyloid pathology in people showing signs of cognitive decline.",
+        "id": "2026-07-12-total-cx-deploys-ai-augmented-customer-service-at-ibn-al-nafees-hospital",
+        "title": "Total CX deploys AI-augmented customer service at Ibn Al Nafees Hospital | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
+        "summary": "The agreement was signed by Total CX Interim Chief Executive Officer Aseel Mattar and Ibn Al Nafees Hospital Chief Executive Officer Rahma Jaberi during a ceremony in Bahrain.",
         "source": "Healthcare MEA",
         "sourceHost": "healthcaremea.com",
         "region": "Middle East",
-        "country": "Middle East",
-        "publishedAt": "2026-07-12T07:30:44.000Z",
-        "publishedLabel": "July 12, 2026",
-        "category": "Lab Network",
-        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/07/image-1600x900-2026-07-12T102600.281.png",
-        "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
-        "justIn": false,
-        "originalUrl": "https://www.healthcaremea.com/2026/07/12/beckman-coulter-secures-eu-ce-mark-for-access-p-tau217-alzheimers-blood-test/",
-        "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-beckman-coulter-secures-eu-ce-mark-for-access-p-tau217-alzheimer-s-blood"
-      },
+        "country": "Bahrain",
+        "publishedAt": "2026-07-13T08:41:00.000Z",
+        "publishedLabel": "July 13, 2026",
+        "category": "Hospital",
+        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/07/image-1600x900-2026-07-13T094838.299-1.png",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": true,
+        "originalUrl": "https://www.healthcaremea.com/2026/07/13/total-cx-deploys-ai-augmented-customer-service-at-ibn-al-nafees-hospital/",
+        "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-total-cx-deploys-ai-augmented-customer-service-at-ibn-al-nafees-hospital"
+      }
+    ],
+    "diagnostics": [
       {
         "id": "2026-07-12-mindrank-secures-us-52m-series-b-funding-for-ai-designed-oral-glp-1-ther",
         "title": "MindRank secures US$52M Series B funding for AI-designed oral GLP-1 therapeutics | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
@@ -294,7 +379,7 @@
         "category": "Lab Network",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/07/image-1600x900-2026-07-13T091309.291.png",
         "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/07/13/mindrank-secures-us52m-series-b-funding-for-ai-designed-oral-glp-1-therapeutics/",
         "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-mindrank-secures-us-52m-series-b-funding-for-ai-designed-oral-glp-1-ther"
       },
@@ -321,9 +406,25 @@
   "thbActions": [
     {
       "segment": "pharma",
+      "articleId": "2026-07-12-schedule-h1-explained-why-did-india-tighten-its-prescription-rules-for-h",
+      "title": "Schedule H1 explained: Why did India tighten its prescription rules for high-alcohol medicines?",
+      "source": "Economic Times Pharma",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "pharma",
       "articleId": "2026-07-12-pharma-body-renews-push-for-data-protection",
       "title": "Pharma body renews push for data protection",
       "source": "Economic Times Pharma",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "pharma",
+      "articleId": "2026-07-12-covid-19-cases-in-andhra-pradesh-not-a-sign-of-resurgence-doctors",
+      "title": "Covid-19 cases in Andhra Pradesh not a sign of resurgence: Doctors",
+      "source": "ET Healthworld",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
     },
@@ -337,27 +438,19 @@
     },
     {
       "segment": "pharma",
-      "articleId": "2026-07-12-antibiotic-resistance-emerging-as-major-threat-to-surgical-care-experts",
-      "title": "Antibiotic resistance emerging as major threat to surgical care: Experts",
-      "source": "ET Healthworld",
+      "articleId": "2026-07-12-rpg-life-sciences-ties-up-with-archerchem-healthcare-to-launch-anti-infl",
+      "title": "RPG Life Sciences ties-up with Archerchem Healthcare to launch anti-inflammatory solution in India",
+      "source": "Economic Times Pharma",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
     },
     {
-      "segment": "pharma",
-      "articleId": "2026-07-12-why-healthcare-s-future-lies-in-connected-ecosystems",
-      "title": "Why healthcare’s future lies in connected ecosystems",
+      "segment": "providers",
+      "articleId": "2026-07-12-robotic-surgery-is-changing-more-than-the-way-we-operate",
+      "title": "Robotic surgery is changing more than the way we operate",
       "source": "Express Healthcare",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
-      "segment": "pharma",
-      "articleId": "2026-07-12-bayer-secures-us-3-4b-equity-injection-from-apollo-for-larc-contraceptiv",
-      "title": "Bayer secures US$3.4B equity injection from Apollo for LARC contraceptives portfolio | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
-      "source": "Healthcare MEA",
-      "solution": "THB Commercial Analytics",
-      "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
+      "solution": "THB Provider CRM",
+      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
     },
     {
       "segment": "providers",
@@ -368,12 +461,12 @@
       "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
     },
     {
-      "segment": "diagnostics",
-      "articleId": "2026-07-12-beckman-coulter-secures-eu-ce-mark-for-access-p-tau217-alzheimer-s-blood",
-      "title": "Beckman Coulter secures EU CE mark for Access p-Tau217 Alzheimer's blood test | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
+      "segment": "providers",
+      "articleId": "2026-07-12-total-cx-deploys-ai-augmented-customer-service-at-ibn-al-nafees-hospital",
+      "title": "Total CX deploys AI-augmented customer service at Ibn Al Nafees Hospital | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
       "source": "Healthcare MEA",
-      "solution": "THB Diagnostics CRM",
-      "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
+      "solution": "THB Provider CRM",
+      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
     },
     {
       "segment": "diagnostics",
