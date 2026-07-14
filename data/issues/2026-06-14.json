@@ -5,37 +5,18 @@
   "startDate": "2026-06-13T18:30:00.000Z",
   "endDate": "2026-06-19T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-07-13T16:05:36.734Z",
+  "updatedAt": "2026-07-14T06:34:06.350Z",
   "coverage": {
-    "pharma": 1,
+    "pharma": 0,
     "providers": 6,
     "diagnostics": 0,
     "healthtech": 0
   },
   "sourcesUsed": [
-    "ET Healthworld Hospitals",
-    "Financial Express Healthcare"
+    "ET Healthworld Hospitals"
   ],
   "segments": {
-    "pharma": [
-      {
-        "id": "2026-06-14-fssai-cracks-down-on-misleading-healthy-claims-issues-notices-to-8-major",
-        "title": "FSSAI cracks down on misleading ‘healthy’ claims, issues notices to 8 major food brands",
-        "summary": "The companies that have received notices include Emami Healthy & Tasty, Health Aid, Troovy, The Healthy Factory, Healthy Master, Healthy Choice, Plan B and Neuherbs.",
-        "source": "Financial Express Healthcare",
-        "sourceHost": "financialexpress.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-06-14T08:47:44.000Z",
-        "publishedLabel": "June 14, 2026",
-        "category": "Industry Update",
-        "image": "https://images.financialexpressdigital.com/2026/04/diya-0001-2025-08-11T154519.556_20250902085553_20250904175643_20260206114856_20260219162312_20260407181538.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://www.financialexpress.com/business/news/fssai-cracks-down-on-misleading-healthy-claims-issues-notices-to-8-major-food-brands/4267036/",
-        "articlePath": "/article.html?issue=2026-06-14&article=2026-06-14-fssai-cracks-down-on-misleading-healthy-claims-issues-notices-to-8-major"
-      }
-    ],
+    "pharma": [],
     "providers": [
       {
         "id": "2026-06-14-marengo-asia-hospitals-faridabad-launches-proctor-enabled-robotic-surger",
@@ -144,14 +125,6 @@
     "healthtech": []
   },
   "thbActions": [
-    {
-      "segment": "pharma",
-      "articleId": "2026-06-14-fssai-cracks-down-on-misleading-healthy-claims-issues-notices-to-8-major",
-      "title": "FSSAI cracks down on misleading ‘healthy’ claims, issues notices to 8 major food brands",
-      "source": "Financial Express Healthcare",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
     {
       "segment": "providers",
       "articleId": "2026-06-14-marengo-asia-hospitals-faridabad-launches-proctor-enabled-robotic-surger",
