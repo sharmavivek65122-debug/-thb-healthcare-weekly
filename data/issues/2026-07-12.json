@@ -5,12 +5,12 @@
   "startDate": "2026-07-11T18:30:00.000Z",
   "endDate": "2026-07-17T18:30:00.000Z",
   "status": "live",
-  "updatedAt": "2026-07-15T06:35:20.832Z",
+  "updatedAt": "2026-07-15T15:08:23.536Z",
   "coverage": {
-    "pharma": 32,
-    "providers": 10,
+    "pharma": 37,
+    "providers": 13,
     "diagnostics": 5,
-    "healthtech": 0
+    "healthtech": 1
   },
   "sourcesUsed": [
     "ET Healthworld",
@@ -20,7 +20,8 @@
     "Express Healthcare Posts",
     "Healthcare MEA",
     "Medical Dialogues Pharma",
-    "PharmaTutor News"
+    "PharmaTutor News",
+    "Zawya Pharmaceuticals"
   ],
   "segments": {
     "pharma": [
@@ -42,6 +43,23 @@
         "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-emcure-buys-remaining-12-05-in-gennova-to-take-full-control"
       },
       {
+        "id": "2026-07-12-warburg-pincus-buys-mumbai-s-pharma-company-integrace-in-1-200-crore-dea",
+        "title": "Warburg Pincus buys Mumbai’s pharma company Integrace in ₹1,200 crore deal",
+        "summary": "In a landmark transaction, Warburg Pincus, a prominent US private equity firm, has purchased Integrace Private Limited for ₹1,200 crore. With this deal, True North and Temasek Holdings have decided to divest entirely from their stakes in the company. Rehan...",
+        "source": "Economic Times Pharma",
+        "sourceHost": "economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-07-15T13:06:07.000Z",
+        "publishedLabel": "July 15, 2026",
+        "category": "Deal",
+        "image": "https://img.etimg.com/thumb/msid-132416989,width-1200,height-630,imgsize-64906,overlay-economictimes/articleshow.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/warburg-pincus-buys-mumbais-pharma-company-integrace-in-1200-crore-deal/articleshow/132416927.cms",
+        "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-warburg-pincus-buys-mumbai-s-pharma-company-integrace-in-1-200-crore-dea"
+      },
+      {
         "id": "2026-07-12-sun-pharma-gets-sahpra-approval-for-generic-semaglutide-injection-in-sou",
         "title": "Sun Pharma gets SAHPRA approval for generic semaglutide injection in South Africa for type 2 diabetes",
         "summary": "South Africa's regulator approved Sun Pharma's generic semaglutide injection for diabetes. This approval allows marketing to supplement diet and exercise for adults. The company plans to launch the product soon in injectable pens. South Africa is the second...",
@@ -54,7 +72,7 @@
         "category": "Approval",
         "image": "https://img.etimg.com/thumb/msid-132407513,width-1200,height-630,imgsize-95656,overlay-economictimes/articleshow.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/sun-pharma-gets-sahpra-approval-for-generic-semaglutide-injection-in-south-africa-for-type-2-diabetes/articleshow/132407292.cms",
         "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-sun-pharma-gets-sahpra-approval-for-generic-semaglutide-injection-in-sou"
       },
@@ -144,6 +162,74 @@
         "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-warburg-bain-cvc-among-pe-firms-in-talks-to-buy-into-agappe-diagnostics"
       },
       {
+        "id": "2026-07-12-uk-wasted-9-9-billion-on-covid-ppe-finds-inquiry-stockpile-procurement-f",
+        "title": "UK wasted £9.9 billion on Covid PPE, finds inquiry; stockpile, procurement flaws flagged",
+        "summary": "In a report released on Tuesday, inquiry chair Baroness Heather Hallett said the UK and devolved governments spent £14.9 billion on PPE during the pandemic, with around two-thirds of that expenditure ultimately written off as unused or expired equipment, as...",
+        "source": "ET Healthworld",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-07-15T10:12:35.000Z",
+        "publishedLabel": "July 15, 2026",
+        "category": "Industry Update",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-132413036,imgsize-149692,width-1200,height=627,overlay-ethealth,resizemode-75/industry/uk-wasted-9-9-billion-on-covid-ppe-finds-inquiry-stockpile-procurement-flaws-flagged.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/uk-wasted-9-9-billion-on-covid-ppe-finds-inquiry-stockpile-procurement-flaws-flagged/132413036",
+        "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-uk-wasted-9-9-billion-on-covid-ppe-finds-inquiry-stockpile-procurement-f"
+      },
+      {
+        "id": "2026-07-12-who-urges-renewed-push-to-reach-unvaccinated-children-despite-high-immun",
+        "title": "WHO urges renewed push to reach unvaccinated children despite high immunisation coverage in South-East Asia",
+        "summary": "According to the latest WHO and United Nations International Children's Emergency Fund (UNICEF) Estimates of National Immunisation Coverage (WUENIC) 2025, nearly 1.2 million children in the region did not receive their first routine vaccine in 2025, while...",
+        "source": "ET Healthworld",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-07-15T06:40:49.000Z",
+        "publishedLabel": "July 15, 2026",
+        "category": "Industry Update",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-132408460,imgsize-300136,width-1200,height=627,overlay-ethealth,resizemode-75/industry/who-urges-renewed-push-to-reach-unvaccinated-children-despite-high-immunisation-coverage-in-south-east-asia.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/who-urges-renewed-push-to-reach-unvaccinated-children-despite-high-immunisation-coverage-in-south-east-asia/132408460",
+        "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-who-urges-renewed-push-to-reach-unvaccinated-children-despite-high-immun"
+      },
+      {
+        "id": "2026-07-12-majority-of-new-ebola-cases-in-eastern-congo-are-from-unknown-chains-as-",
+        "title": "Majority of new Ebola cases in eastern Congo are from unknown chains, as outbreak outpaces response",
+        "summary": "Congo has been battling an outbreak of a rare type of Ebola since May, with no approved treatment or vaccine. The Africa Centre for Disease Control says it is the fastest-growing Ebola outbreak on the continent.",
+        "source": "ET Healthworld",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-07-15T06:36:34.000Z",
+        "publishedLabel": "July 15, 2026",
+        "category": "Industry Update",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-132408278,imgsize-71080,width-1200,height=627,overlay-ethealth,resizemode-75/industry/majority-of-new-ebola-cases-in-eastern-congo-are-from-unknown-chains-as-outbreak-outpaces-response.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/majority-of-new-ebola-cases-in-eastern-congo-are-from-unknown-chains-as-outbreak-outpaces-response/132408278",
+        "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-majority-of-new-ebola-cases-in-eastern-congo-are-from-unknown-chains-as-"
+      },
+      {
+        "id": "2026-07-12-global-childhood-vaccination-rates-climb-amid-rising-outbreaks-and-confl",
+        "title": "Global childhood vaccination rates climb amid rising outbreaks and conflict",
+        "summary": "According to the latest immunization estimates released by the World Health Organization and UNICEF on Wednesday, ‌90% of infants ⁠globally, ⁠or nearly 116 million, received at least one dose of the diphtheria, ​tetanus and whooping cough vaccine, known as...",
+        "source": "ET Healthworld",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-07-15T10:05:55.000Z",
+        "publishedLabel": "July 15, 2026",
+        "category": "Industry Update",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-132412619,imgsize-79486,width-1200,height=627,overlay-ethealth,resizemode-75/industry/global-childhood-vaccination-rates-climb-amid-rising-outbreaks-and-conflict.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/global-childhood-vaccination-rates-climb-amid-rising-outbreaks-and-conflict/132412619",
+        "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-global-childhood-vaccination-rates-climb-amid-rising-outbreaks-and-confl"
+      },
+      {
         "id": "2026-07-12-after-zomato-deepinder-goyal-bets-on-health-tech-and-aerospace",
         "title": "After Zomato, Deepinder Goyal bets on health tech and aerospace",
         "summary": "Deepinder Goyal plans to launch a bean-shaped device branded Temple in as little as six months. He says the wearable, named for where it is worn — the side of the forehead — is capable of measuring the body’s metabolic state in real time.",
@@ -156,26 +242,9 @@
         "category": "Launch",
         "image": "https://etimg.etb2bimg.com/thumb/msid-132403853,imgsize-67196,width-1200,height=627,overlay-ethealth,resizemode-75/medical-devices/after-zomato-deepinder-goyal-bets-on-health-tech-and-aerospace.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/medical-devices/after-zomato-deepinder-goyal-bets-on-health-tech-and-aerospace/132403853",
         "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-after-zomato-deepinder-goyal-bets-on-health-tech-and-aerospace"
-      },
-      {
-        "id": "2026-07-12-who-says-it-has-less-than-half-funding-needed-to-fight-ebola",
-        "title": "WHO says it has less than half funding needed to fight Ebola",
-        "summary": "The global health agency has received ​about 40% of its $115 million appeal to tackle the Bundibugyo outbreak, ​for which there is no proven treatment or vaccine. At least 1,926 people have been infected and ​702 have died, government data ⁠show.",
-        "source": "ET Healthworld",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-07-15T02:01:52.000Z",
-        "publishedLabel": "July 15, 2026",
-        "category": "Industry Update",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-132403914,imgsize-104484,width-1200,height=627,overlay-ethealth,resizemode-75/industry/who-says-it-has-less-than-half-funding-needed-to-fight-ebola.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/who-says-it-has-less-than-half-funding-needed-to-fight-ebola/132403914",
-        "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-who-says-it-has-less-than-half-funding-needed-to-fight-ebola"
       },
       {
         "id": "2026-07-12-rpg-life-sciences-ties-up-with-archerchem-healthcare-to-launch-anti-infl",
@@ -258,7 +327,7 @@
         "category": "Manufacturing",
         "image": "https://medicaldialogues.in/h-upload/2022/12/01/192624-patent-infringement-new.jpg",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/delhi-hc-restrains-zydus-from-receiving-supplies-of-cancer-drug-ikra-in-abbvie-patent-dispute-175033",
         "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-delhi-hc-restrains-zydus-from-receiving-supplies-of-cancer-drug-ikra-in-"
       },
@@ -292,7 +361,7 @@
         "category": "Industry Update",
         "image": "https://medicaldialogues.in/h-upload/2023/01/10/197256-lupin-3.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/lupin-ranks-among-top-14-in-great-place-to-work-indias-best-employers-2026-175035",
         "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-lupin-ranks-among-top-14-in-great-place-to-work-india-s-best-employers-2"
       },
@@ -309,7 +378,7 @@
         "category": "Industry Update",
         "image": "https://medicaldialogues.in/h-upload/2026/07/14/359572-samit-mehta.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/emcure-completes-100-acquisition-of-gennova-appoints-samit-mehta-to-lead-175036",
         "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-emcure-completes-100-acquisition-of-gennova-appoints-samit-mehta-to-lead"
       },
@@ -360,7 +429,7 @@
         "category": "Industry Update",
         "image": "https://medicaldialogues.in/h-upload/2024/11/16/260985-natco-pharma-50-1.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/natco-pharma-completes-rs-1060-crore-adcock-ingram-stake-acquisition-175034",
         "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-natco-pharma-completes-rs-1-060-crore-adcock-ingram-stake-acquisition"
       },
@@ -465,6 +534,23 @@
         "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/sanofi-offers-eu-antitrust-concessions-in-flu-vaccine-competition-probe-174849",
         "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-sanofi-offers-eu-antitrust-concessions-in-flu-vaccine-competition-probe"
+      },
+      {
+        "id": "2026-07-12-fda-approves-first-generic-afatinib-tablets-for-lung-cancer-apotex-and-h",
+        "title": "FDA Approves First Generic Afatinib Tablets for Lung Cancer; Apotex and Hetero Secure U.S. Approval",
+        "summary": "The U.S. Food and Drug Administration (FDA) has approved the first generic versions of GILOTRIF (afatinib) tablets, marking an important milestone in expanding access to targeted therapy for patients with specific forms of non-small cell lung cancer (NSCLC)....",
+        "source": "PharmaTutor News",
+        "sourceHost": "pharmatutor.org",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-07-15T11:07:52.000Z",
+        "publishedLabel": "July 15, 2026",
+        "category": "Approval",
+        "image": "https://www.pharmatutor.org/sites/default/files/styles/webp/public/2026-07/fda-approves-first-generic-afatinib-tablets-for-lung-cancer-apotex-and-hetero-secure-us-approval.jpg.webp?itok=xHlKXWqK",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/fda-approves-first-generic-afatinib-tablets-for-lung-cancer-apotex-and-hetero-secure-us-approval",
+        "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-fda-approves-first-generic-afatinib-tablets-for-lung-cancer-apotex-and-h"
       },
       {
         "id": "2026-07-12-hetero-pharma-partners-with-telangana-government-for-300-pharma-jobs",
@@ -617,15 +703,32 @@
         "category": "Patient Care",
         "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/07/15114619/New-Project-1-2.jpg",
         "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/news/cmc-vellore-and-iiit-hyderabad-develop-multilingual-ai-companion-for-cancer-patients/454365/",
         "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-cmc-vellore-and-iiit-hyderabad-develop-multilingual-ai-companion-for-can"
+      },
+      {
+        "id": "2026-07-12-circle-health-raises-funding-from-enzia-ventures-momentum-capital-and-ot",
+        "title": "Circle Health raises funding from Enzia Ventures, Momentum Capital, and Others",
+        "summary": "Circle Health, an AI-enabled care coordination company, has raised $6 million in a funding round led by A.P.T. Research and Momentum Capital, with participation from existing investors Enzia Ventures and Sparrow Capital. The investment round closed in...",
+        "source": "Express Healthcare",
+        "sourceHost": "expresshealthcare.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-07-15T12:09:52.000Z",
+        "publishedLabel": "July 15, 2026",
+        "category": "Funding",
+        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2021/05/07152241/funding-1.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": true,
+        "originalUrl": "https://www.expresshealthcare.in/news/circle-health-raises-funding-from-enzia-ventures-momentum-capital-and-others/454381/",
+        "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-circle-health-raises-funding-from-enzia-ventures-momentum-capital-and-ot"
       },
       {
         "id": "2026-07-12-can-prevention-deliver-both-better-health-and-better-insurance-outcomes",
         "title": "Can prevention deliver both better health and better insurance outcomes?",
         "summary": "Mayank Bathwal, CEO, Aditya Birla Health Insurance, explains why preventive healthcare and continuous wellness engagement can improve both health outcomes and health insurance sustainability",
-        "source": "Express Healthcare",
+        "source": "Express Healthcare Posts",
         "sourceHost": "expresshealthcare.in",
         "region": "India",
         "country": "India",
@@ -639,10 +742,27 @@
         "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-can-prevention-deliver-both-better-health-and-better-insurance-outcomes"
       },
       {
+        "id": "2026-07-12-india-s-healthcare-needs-a-report-card-not-just-a-license",
+        "title": "India’s healthcare needs a report card, not just a license",
+        "summary": "Ask a patient how they chose their surgeon, and the answer is almost always the same: a relative’s neighbour, a colleague’s uncle, a name repeated often enough to sound trustworthy. There is no other way to choose, because there is nothing to check against....",
+        "source": "Express Healthcare",
+        "sourceHost": "expresshealthcare.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-07-15T10:05:03.000Z",
+        "publishedLabel": "July 15, 2026",
+        "category": "Patient Care",
+        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/07/15153439/Dr-Chandrika-Kambam.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": true,
+        "originalUrl": "https://www.expresshealthcare.in/news/indias-healthcare-needs-a-report-card-not-just-a-license/454377/",
+        "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-india-s-healthcare-needs-a-report-card-not-just-a-license"
+      },
+      {
         "id": "2026-07-12-robotic-surgery-is-changing-more-than-the-way-we-operate",
         "title": "Robotic surgery is changing more than the way we operate",
         "summary": "Dr Ashwin Mallya, Senior Consultant (Urology), Sir Ganga Ram Hospital and Associate Professor of Urology, Ganga Ram Institute of Postgraduate Medical Education & Research, explains how robotic surgery is improving cancer care, reconstruction and patient...",
-        "source": "Express Healthcare",
+        "source": "Express Healthcare Posts",
         "sourceHost": "expresshealthcare.in",
         "region": "India",
         "country": "India",
@@ -739,6 +859,23 @@
         "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/07/14/oman-mociip-announces-us41-6m-healthcare-investment-package-for-private-sector/",
         "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-oman-mociip-announces-us-41-6m-healthcare-investment-package-for-private"
+      },
+      {
+        "id": "2026-07-12-the-bibf-strengthens-regional-leadership-development-through-strategic-p",
+        "title": "The BIBF strengthens regional leadership development through strategic partnership with Namaa X",
+        "summary": "Collaboration advances executive education, leadership excellence and organisational transformation across the GCC",
+        "source": "Zawya Pharmaceuticals",
+        "sourceHost": "zawya.com",
+        "region": "Middle East",
+        "country": "Oman",
+        "publishedAt": "2026-07-15T14:36:41.000Z",
+        "publishedLabel": "July 15, 2026",
+        "category": "Provider Update",
+        "image": "https://static.zawya.com/view/acePublic/alias/contentid/ca8c4818-bd87-4e6c-977a-2a536b2e159a/0/rc1_7583lowres-jpg.jpeg?f=3%3A2",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": true,
+        "originalUrl": "https://www.zawya.com/en/press-release/companies-news/the-bibf-strengthens-regional-leadership-development-through-strategic-partnership-with-namaa-x-u58ycf1h",
+        "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-the-bibf-strengthens-regional-leadership-development-through-strategic-p"
       }
     ],
     "diagnostics": [
@@ -760,27 +897,27 @@
         "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-the-future-of-mri-lies-in-intelligent-automation"
       },
       {
-        "id": "2026-07-12-even-hospitals-launches-299-fever-and-dengue-screening-package-in-bengal",
-        "title": "Even Hospitals launches ₹299 fever and dengue screening package in Bengaluru",
-        "summary": "Hospital network marks one year of operations with screening package and 24/7 dengue hotline",
+        "id": "2026-07-12-rural-preventive-healthcare-needs-a-last-mile-partnership-model",
+        "title": "Rural preventive healthcare needs a last-mile partnership model",
+        "summary": "The next frontier of rural healthcare is not only taking services closer to people, but making preventive health a trusted, repeated and community-owned habit. In an increasingly volatile world, national resilience is being redefined beyond supply chains,...",
         "source": "Express Healthcare",
         "sourceHost": "expresshealthcare.in",
         "region": "India",
         "country": "India",
-        "publishedAt": "2026-07-14T05:21:43.000Z",
-        "publishedLabel": "July 14, 2026",
-        "category": "Screening",
-        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2019/03/14150619/Mosquito.jpg",
+        "publishedAt": "2026-07-15T08:56:09.000Z",
+        "publishedLabel": "July 15, 2026",
+        "category": "Industry Update",
+        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/07/15142538/New-Project-7.jpg",
         "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
-        "justIn": false,
-        "originalUrl": "https://www.expresshealthcare.in/news/even-hospitals-launches-rs-299-fever-and-dengue-screening-package-in-bengaluru/454335/",
-        "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-even-hospitals-launches-299-fever-and-dengue-screening-package-in-bengal"
+        "justIn": true,
+        "originalUrl": "https://www.expresshealthcare.in/news/rural-preventive-healthcare-needs-a-last-mile-partnership-model/454368/",
+        "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-rural-preventive-healthcare-needs-a-last-mile-partnership-model"
       },
       {
         "id": "2026-07-12-affordable-healthcare-innovation-will-define-viksit-bharat-2047-dr-r-a-m",
         "title": "Affordable healthcare innovation will define Viksit Bharat 2047: Dr R A Mashelkar",
         "summary": "FICCI Legends Series highlights the role of AI, deep-tech and digital innovation in expanding access to healthcare",
-        "source": "Express Healthcare",
+        "source": "Express Healthcare Posts",
         "sourceHost": "expresshealthcare.in",
         "region": "India",
         "country": "India",
@@ -806,7 +943,7 @@
         "category": "Diagnostics",
         "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/07/15111517/New-Project-6.jpg",
         "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/news/from-health-records-to-health-ownership-empowering-citizens-in-indias-digital-health-era/454362/",
         "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-from-health-records-to-health-ownership-empowering-citizens-in-india-s-d"
       },
@@ -828,7 +965,25 @@
         "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-maharashtra-fda-warns-against-three-cosmetics-after-mercury-lead-levels-"
       }
     ],
-    "healthtech": []
+    "healthtech": [
+      {
+        "id": "2026-07-12-making-quality-healthcare-more-accessible-beyond-big-cities-through-digi",
+        "title": "Making quality healthcare more accessible beyond big cities through digital solutions",
+        "summary": "For years, the map of Indian healthcare was defined by a sharp divide. On one side were the gleaming medical hubs of Tier 1 cities, packed with specialists and high-end tech. On the other side were the vast stretches of Tier 2 and Tier 3 towns, where getting...",
+        "source": "Express Healthcare",
+        "sourceHost": "expresshealthcare.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-07-15T09:05:06.000Z",
+        "publishedLabel": "July 15, 2026",
+        "category": "Digital Health",
+        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/07/15143439/Debjit-Patra-Founder-Chairman-MediElaj.jpg",
+        "thbAction": "",
+        "justIn": false,
+        "originalUrl": "https://www.expresshealthcare.in/news/making-quality-healthcare-more-accessible-beyond-big-cities-through-digital-solutions/454371/",
+        "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-making-quality-healthcare-more-accessible-beyond-big-cities-through-digi"
+      }
+    ]
   },
   "thbActions": [
     {
@@ -838,6 +993,14 @@
       "source": "Economic Times Pharma",
       "solution": "THB Commercial Analytics",
       "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
+    },
+    {
+      "segment": "pharma",
+      "articleId": "2026-07-12-warburg-pincus-buys-mumbai-s-pharma-company-integrace-in-1-200-crore-dea",
+      "title": "Warburg Pincus buys Mumbai’s pharma company Integrace in ₹1,200 crore deal",
+      "source": "Economic Times Pharma",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
     },
     {
       "segment": "pharma",
@@ -859,14 +1022,6 @@
       "segment": "pharma",
       "articleId": "2026-07-12-schedule-h1-explained-why-did-india-tighten-its-prescription-rules-for-h",
       "title": "Schedule H1 explained: Why did India tighten its prescription rules for high-alcohol medicines?",
-      "source": "Economic Times Pharma",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
-      "segment": "pharma",
-      "articleId": "2026-07-12-pharma-body-renews-push-for-data-protection",
-      "title": "Pharma body renews push for data protection",
       "source": "Economic Times Pharma",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
@@ -897,17 +1052,17 @@
     },
     {
       "segment": "providers",
-      "articleId": "2026-07-12-can-prevention-deliver-both-better-health-and-better-insurance-outcomes",
-      "title": "Can prevention deliver both better health and better insurance outcomes?",
+      "articleId": "2026-07-12-circle-health-raises-funding-from-enzia-ventures-momentum-capital-and-ot",
+      "title": "Circle Health raises funding from Enzia Ventures, Momentum Capital, and Others",
       "source": "Express Healthcare",
       "solution": "THB Provider CRM",
       "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
     },
     {
       "segment": "providers",
-      "articleId": "2026-07-12-robotic-surgery-is-changing-more-than-the-way-we-operate",
-      "title": "Robotic surgery is changing more than the way we operate",
-      "source": "Express Healthcare",
+      "articleId": "2026-07-12-can-prevention-deliver-both-better-health-and-better-insurance-outcomes",
+      "title": "Can prevention deliver both better health and better insurance outcomes?",
+      "source": "Express Healthcare Posts",
       "solution": "THB Provider CRM",
       "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
     },
@@ -921,8 +1076,8 @@
     },
     {
       "segment": "diagnostics",
-      "articleId": "2026-07-12-even-hospitals-launches-299-fever-and-dengue-screening-package-in-bengal",
-      "title": "Even Hospitals launches ₹299 fever and dengue screening package in Bengaluru",
+      "articleId": "2026-07-12-rural-preventive-healthcare-needs-a-last-mile-partnership-model",
+      "title": "Rural preventive healthcare needs a last-mile partnership model",
       "source": "Express Healthcare",
       "solution": "THB Diagnostics CRM",
       "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
@@ -931,7 +1086,7 @@
       "segment": "diagnostics",
       "articleId": "2026-07-12-affordable-healthcare-innovation-will-define-viksit-bharat-2047-dr-r-a-m",
       "title": "Affordable healthcare innovation will define Viksit Bharat 2047: Dr R A Mashelkar",
-      "source": "Express Healthcare",
+      "source": "Express Healthcare Posts",
       "solution": "THB Diagnostics CRM",
       "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
     },
