@@ -5,11 +5,11 @@
   "startDate": "2026-07-11T18:30:00.000Z",
   "endDate": "2026-07-17T18:30:00.000Z",
   "status": "live",
-  "updatedAt": "2026-07-14T15:08:42.350Z",
+  "updatedAt": "2026-07-15T06:35:20.832Z",
   "coverage": {
-    "pharma": 30,
-    "providers": 9,
-    "diagnostics": 4,
+    "pharma": 32,
+    "providers": 10,
+    "diagnostics": 5,
     "healthtech": 0
   },
   "sourcesUsed": [
@@ -17,8 +17,8 @@
     "ET Healthworld Hospitals",
     "Economic Times Pharma",
     "Express Healthcare",
+    "Express Healthcare Posts",
     "Healthcare MEA",
-    "Lupin Updates",
     "Medical Dialogues Pharma",
     "PharmaTutor News"
   ],
@@ -40,6 +40,23 @@
         "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/emcure-buys-remaining-12-05-in-gennova-to-take-full-control/articleshow/132375338.cms",
         "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-emcure-buys-remaining-12-05-in-gennova-to-take-full-control"
+      },
+      {
+        "id": "2026-07-12-sun-pharma-gets-sahpra-approval-for-generic-semaglutide-injection-in-sou",
+        "title": "Sun Pharma gets SAHPRA approval for generic semaglutide injection in South Africa for type 2 diabetes",
+        "summary": "South Africa's regulator approved Sun Pharma's generic semaglutide injection for diabetes. This approval allows marketing to supplement diet and exercise for adults. The company plans to launch the product soon in injectable pens. South Africa is the second...",
+        "source": "Economic Times Pharma",
+        "sourceHost": "economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-07-15T05:52:13.000Z",
+        "publishedLabel": "July 15, 2026",
+        "category": "Approval",
+        "image": "https://img.etimg.com/thumb/msid-132407513,width-1200,height-630,imgsize-95656,overlay-economictimes/articleshow.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/sun-pharma-gets-sahpra-approval-for-generic-semaglutide-injection-in-south-africa-for-type-2-diabetes/articleshow/132407292.cms",
+        "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-sun-pharma-gets-sahpra-approval-for-generic-semaglutide-injection-in-sou"
       },
       {
         "id": "2026-07-12-fda-approves-at-home-starter-dose-of-eisai-biogen-alzheimer-s-drug",
@@ -110,23 +127,6 @@
         "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-first-vaccine-for-bundibugyo-ebola-hits-human-trials-in-oxford-study"
       },
       {
-        "id": "2026-07-12-global-smart-money-can-t-get-enough-of-india-s-next-growth-story",
-        "title": "Global smart money can't get enough of India's next growth story",
-        "summary": "Global private equity firms are expanding beyond hospitals into India's broader healthcare ecosystem, with Warburg Pincus, TA Associates, Bain Capital and CVC Capital in talks to acquire a 25% stake in Agappe Diagnostics at a valuation of ₹3,000–3,200 crore.",
-        "source": "ET Healthworld",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-07-14T10:24:55.000Z",
-        "publishedLabel": "July 14, 2026",
-        "category": "Industry Update",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-132387117,imgsize-107350,width-1200,height=627,overlay-ethealth,resizemode-75/industry/global-smart-money-cant-get-enough-of-indias-next-growth-story.jpg",
-        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/global-smart-money-cant-get-enough-of-indias-next-growth-story/132387117",
-        "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-global-smart-money-can-t-get-enough-of-india-s-next-growth-story"
-      },
-      {
         "id": "2026-07-12-warburg-bain-cvc-among-pe-firms-in-talks-to-buy-into-agappe-diagnostics",
         "title": "Warburg, Bain, CVC among PE firms in talks to buy into Agappe Diagnostics",
         "summary": "Several global private equity firms are exploring a significant stake purchase in Agappe Diagnostics. This potential deal involves both existing investor sales and new capital infusion. The transaction is expected to value the Kochi-based in-vitro diagnostics...",
@@ -144,55 +144,38 @@
         "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-warburg-bain-cvc-among-pe-firms-in-talks-to-buy-into-agappe-diagnostics"
       },
       {
-        "id": "2026-07-12-covid-19-cases-in-andhra-pradesh-not-a-sign-of-resurgence-doctors",
-        "title": "Covid-19 cases in Andhra Pradesh not a sign of resurgence: Doctors",
-        "summary": "Doctors said the two Covid-19 deaths and eight active cases in Andhra Pradesh's Kadapa district are an isolated cluster and not a sign of resurgence of the virus. They added that a combination of factors like waning immunity, viral mutation, and renewed...",
+        "id": "2026-07-12-after-zomato-deepinder-goyal-bets-on-health-tech-and-aerospace",
+        "title": "After Zomato, Deepinder Goyal bets on health tech and aerospace",
+        "summary": "Deepinder Goyal plans to launch a bean-shaped device branded Temple in as little as six months. He says the wearable, named for where it is worn — the side of the forehead — is capable of measuring the body’s metabolic state in real time.",
         "source": "ET Healthworld",
         "sourceHost": "health.economictimes.indiatimes.com",
         "region": "India",
         "country": "India",
-        "publishedAt": "2026-07-13T10:48:08.000Z",
-        "publishedLabel": "July 13, 2026",
-        "category": "Industry Update",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-132364538,imgsize-90640,width-1200,height=627,overlay-ethealth,resizemode-75/industry/covid-19-cases-in-andhra-pradesh-not-a-sign-of-resurgence-doctors.jpg",
+        "publishedAt": "2026-07-15T02:15:01.000Z",
+        "publishedLabel": "July 15, 2026",
+        "category": "Launch",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-132403853,imgsize-67196,width-1200,height=627,overlay-ethealth,resizemode-75/medical-devices/after-zomato-deepinder-goyal-bets-on-health-tech-and-aerospace.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/covid-19-cases-in-andhra-pradesh-not-a-sign-of-resurgence-doctors/132364538",
-        "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-covid-19-cases-in-andhra-pradesh-not-a-sign-of-resurgence-doctors"
+        "justIn": true,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/medical-devices/after-zomato-deepinder-goyal-bets-on-health-tech-and-aerospace/132403853",
+        "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-after-zomato-deepinder-goyal-bets-on-health-tech-and-aerospace"
       },
       {
-        "id": "2026-07-12-us-fda-urges-infant-formula-makers-to-tighten-supplier-oversight-after-p",
-        "title": "US FDA urges infant-formula makers to tighten supplier oversight after product recalls, botulism outbreaks",
-        "summary": "The Food and Drug Administration has ‌so far ⁠investigated two multi-state ⁠outbreaks of infant botulism associated with two separate brands of powdered infant ​formula - ByHeart and Nara Organics - that resulted in the products being recalled, it said ​in...",
+        "id": "2026-07-12-who-says-it-has-less-than-half-funding-needed-to-fight-ebola",
+        "title": "WHO says it has less than half funding needed to fight Ebola",
+        "summary": "The global health agency has received ​about 40% of its $115 million appeal to tackle the Bundibugyo outbreak, ​for which there is no proven treatment or vaccine. At least 1,926 people have been infected and ​702 have died, government data ⁠show.",
         "source": "ET Healthworld",
         "sourceHost": "health.economictimes.indiatimes.com",
         "region": "India",
         "country": "India",
-        "publishedAt": "2026-07-14T01:58:29.000Z",
-        "publishedLabel": "July 14, 2026",
+        "publishedAt": "2026-07-15T02:01:52.000Z",
+        "publishedLabel": "July 15, 2026",
         "category": "Industry Update",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-132378911,imgsize-66890,width-1200,height=627,overlay-ethealth,resizemode-75/industry/us-fda-urges-infant-formula-makers-to-tighten-supplier-oversight-after-product-recalls-botulism-outbreaks.jpg",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-132403914,imgsize-104484,width-1200,height=627,overlay-ethealth,resizemode-75/industry/who-says-it-has-less-than-half-funding-needed-to-fight-ebola.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/us-fda-urges-infant-formula-makers-to-tighten-supplier-oversight-after-product-recalls-botulism-outbreaks/132378911",
-        "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-us-fda-urges-infant-formula-makers-to-tighten-supplier-oversight-after-p"
-      },
-      {
-        "id": "2026-07-12-long-covid-may-involve-injury-to-dopamine-producing-neurons-in-brain-stu",
-        "title": "Long COVID may involve injury to dopamine-producing neurons in brain: Study",
-        "summary": "The finding, published in the journal eBioMedicine, may explain symptoms such as lack of motivation due to fatigue, slowed movement, and memory difficulties, and could open the door to new treatment strategies, researchers said.",
-        "source": "ET Healthworld",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-07-14T01:55:27.000Z",
-        "publishedLabel": "July 14, 2026",
-        "category": "Industry Update",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-132378790,imgsize-112942,width-1200,height=627,overlay-ethealth,resizemode-75/industry/long-covid-may-involve-injury-to-dopamine-producing-neurons-in-brain-study.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/long-covid-may-involve-injury-to-dopamine-producing-neurons-in-brain-study/132378790",
-        "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-long-covid-may-involve-injury-to-dopamine-producing-neurons-in-brain-stu"
+        "justIn": true,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/who-says-it-has-less-than-half-funding-needed-to-fight-ebola/132403914",
+        "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-who-says-it-has-less-than-half-funding-needed-to-fight-ebola"
       },
       {
         "id": "2026-07-12-rpg-life-sciences-ties-up-with-archerchem-healthcare-to-launch-anti-infl",
@@ -215,7 +198,7 @@
         "id": "2026-07-12-why-healthcare-s-future-lies-in-connected-ecosystems",
         "title": "Why healthcare’s future lies in connected ecosystems",
         "summary": "Healthcare's biggest disruption isn't AI, it's integration. As medical devices, cloud platforms, digital health and life sciences converge into a single connected ecosystem, the industry is moving from episodic treatment to continuous, data-driven care. Atul...",
-        "source": "Express Healthcare",
+        "source": "Express Healthcare Posts",
         "sourceHost": "expresshealthcare.in",
         "region": "India",
         "country": "India",
@@ -241,7 +224,7 @@
         "category": "Market",
         "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/07/14140517/EH_Parth_Chopra_Voy_750.jpg",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/news/why-selling-glp-1s-without-clinical-infrastructure-is-not-obesity-care/454344/",
         "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-why-selling-glp-1s-without-clinical-infrastructure-is-not-obesity-care"
       },
@@ -263,6 +246,23 @@
         "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-teva-secures-global-rights-to-polpharma-s-ocrelizumab-biosimilar-candida"
       },
       {
+        "id": "2026-07-12-delhi-hc-restrains-zydus-from-receiving-supplies-of-cancer-drug-ikra-in-",
+        "title": "Delhi HC Restrains Zydus from Receiving Supplies of Cancer Drug Ikra in AbbVie Patent Dispute",
+        "summary": "New Delhi: The Delhi High Court has passed an interim order in a patent infringement dispute between global biopharmaceutical company AbbVie Manufacturing Management Unlimited Company and Zydus...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-07-14T18:20:18.000Z",
+        "publishedLabel": "July 14, 2026",
+        "category": "Manufacturing",
+        "image": "https://medicaldialogues.in/h-upload/2022/12/01/192624-patent-infringement-new.jpg",
+        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
+        "justIn": true,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/delhi-hc-restrains-zydus-from-receiving-supplies-of-cancer-drug-ikra-in-abbvie-patent-dispute-175033",
+        "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-delhi-hc-restrains-zydus-from-receiving-supplies-of-cancer-drug-ikra-in-"
+      },
+      {
         "id": "2026-07-12-takeda-to-invest-us-30m-in-indonesia-s-first-biolife-plasma-network-heal",
         "title": "Takeda to invest US$30M in Indonesia's first biolife plasma network | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
         "summary": "The approval authorises the company to collect plasma in Indonesia and process it through its global manufacturing network while the country develops its own plasma infrastructure.",
@@ -275,9 +275,43 @@
         "category": "Approval",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/07/image-1600x900-2026-07-14T101810.846.png",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/07/14/takeda-to-invest-us30m-in-indonesias-first-biolife-plasma-network/",
         "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-takeda-to-invest-us-30m-in-indonesia-s-first-biolife-plasma-network-heal"
+      },
+      {
+        "id": "2026-07-12-lupin-ranks-among-top-14-in-great-place-to-work-india-s-best-employers-2",
+        "title": "Lupin Ranks Among Top 14 in Great Place To Work India's Best Employers 2026",
+        "summary": "New Delhi: Global pharmaceutical company Lupin Limited has been recognised among India's Best Employers in the Nation Builders Category 2026 by Great Place To Work India, securing a place among the...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-07-14T05:00:11.000Z",
+        "publishedLabel": "July 14, 2026",
+        "category": "Industry Update",
+        "image": "https://medicaldialogues.in/h-upload/2023/01/10/197256-lupin-3.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/lupin-ranks-among-top-14-in-great-place-to-work-indias-best-employers-2026-175035",
+        "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-lupin-ranks-among-top-14-in-great-place-to-work-india-s-best-employers-2"
+      },
+      {
+        "id": "2026-07-12-emcure-completes-100-acquisition-of-gennova-appoints-samit-mehta-to-lead",
+        "title": "Emcure Completes 100% Acquisition of Gennova, Appoints Samit Mehta to Lead",
+        "summary": "New Delhi: Emcure Pharmaceuticals Limited has acquired the remaining 12.05% minority stake in its biopharmaceutical subsidiary, Gennova Biopharmaceuticals Limited, making it a wholly owned subsidiary...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-07-14T05:45:26.000Z",
+        "publishedLabel": "July 14, 2026",
+        "category": "Industry Update",
+        "image": "https://medicaldialogues.in/h-upload/2026/07/14/359572-samit-mehta.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/emcure-completes-100-acquisition-of-gennova-appoints-samit-mehta-to-lead-175036",
+        "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-emcure-completes-100-acquisition-of-gennova-appoints-samit-mehta-to-lead"
       },
       {
         "id": "2026-07-12-emcure-takes-full-control-of-gennova-bets-big-on-biologics-and-biosimila",
@@ -309,9 +343,26 @@
         "category": "Approval",
         "image": "https://www.pharmatutor.org/sites/default/files/styles/webp/public/2026-07/fda-approves-first-at-home-starting-dose-for-alzheimers-therapy-expanding-access-to-early-treatment.png.webp?itok=ZWSmYpuy",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/fda-approves-first-at-home-starting-dose-for-alzheimers-therapy-expanding-access-to-early-treatment",
         "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-fda-approves-first-at-home-starting-dose-for-alzheimer-s-therapy-expandi"
+      },
+      {
+        "id": "2026-07-12-natco-pharma-completes-rs-1-060-crore-adcock-ingram-stake-acquisition",
+        "title": "NATCO Pharma Completes Rs 1,060 Crore Adcock Ingram Stake Acquisition",
+        "summary": "New Delhi: NATCO Pharma Limited has completed the acquisition of an additional 13.25% equity stake in South Africa-based pharmaceutical and healthcare company Adcock Ingram Holdings Proprietary...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-07-14T04:45:00.000Z",
+        "publishedLabel": "July 14, 2026",
+        "category": "Industry Update",
+        "image": "https://medicaldialogues.in/h-upload/2024/11/16/260985-natco-pharma-50-1.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/natco-pharma-completes-rs-1060-crore-adcock-ingram-stake-acquisition-175034",
+        "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-natco-pharma-completes-rs-1-060-crore-adcock-ingram-stake-acquisition"
       },
       {
         "id": "2026-07-12-cadila-s-aciloc-portfolio-faces-maharashtra-fda-action-over-similar-bran",
@@ -479,7 +530,7 @@
         "category": "Manufacturing",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/07/image-1600x900-2026-07-14T084952.449.png",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/07/14/tanabe-pharma-sells-manufacturing-unit-and-17-off-patent-drugs-to-towa-pharmaceutical/",
         "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-tanabe-pharma-sells-manufacturing-unit-and-17-off-patent-drugs-to-towa-p"
       },
@@ -496,7 +547,7 @@
         "category": "Industry Update",
         "image": "https://www.pharmatutor.org/sites/default/files/styles/webp/public/2026-07/fda-flags-medtronic-pulmonary-valve-delivery-system-recall-as-class-i-over-risk-of-catheter-tip-detachment.png.webp?itok=nJm2L7SC",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/fda-flags-medtronic-pulmonary-valve-delivery-system-recall-as-class-i-over-risk-of-catheter-tip-detachment",
         "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-fda-flags-medtronic-pulmonary-valve-delivery-system-recall-as-class-i-ov"
       },
@@ -513,26 +564,9 @@
         "category": "Manufacturing",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/07/image-1600x900-2026-07-14T103956.955.png",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/07/14/metabolic-collaborates-with-dexcom-to-launch-uae-type-2-diabetes-cgm-study/",
         "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-metabolic-collaborates-with-dexcom-to-launch-uae-type-2-diabetes-cgm-stu"
-      },
-      {
-        "id": "2026-07-12-global-semiconductor-manufacturing-equipment-sales-to-reach-165-billion-",
-        "title": "Global semiconductor manufacturing equipment sales to reach $165 billion in 2026: industry body",
-        "summary": "Total equipment sales are forecast to reach a record $229.5 billion by 2028, marking five consecutive years of growth due to AI-driven demand, SEMI said in its mid-year total semiconductor equipment forecast.",
-        "source": "Lupin Updates",
-        "sourceHost": "economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-07-14T14:34:40.000Z",
-        "publishedLabel": "July 14, 2026",
-        "category": "Manufacturing",
-        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-2947808,resizemode-75,msid-132394340/tech/technology/global-semiconductor-manufacturing-equipment-sales-to-reach-165-billion-in-2026-industry-body.jpg",
-        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
-        "originalUrl": "https://economictimes.indiatimes.com/tech/technology/global-semiconductor-manufacturing-equipment-sales-to-reach-165-billion-in-2026-industry-body/articleshow/132394340.cms",
-        "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-global-semiconductor-manufacturing-equipment-sales-to-reach-165-billion-"
       }
     ],
     "providers": [
@@ -549,7 +583,7 @@
         "category": "Hospital",
         "image": "https://etimg.etb2bimg.com/thumb/msid-132378748,imgsize-132050,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/pm-to-dedicate-key-healthcare-infrastructure-projects-to-nation-on-july-17-pgimer-director.jpg",
         "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/pm-to-dedicate-key-healthcare-infrastructure-projects-to-nation-on-july-17-pgimer-director/132378748",
         "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-pm-to-dedicate-key-healthcare-infrastructure-projects-to-nation-on-july-"
       },
@@ -571,6 +605,23 @@
         "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-hospitals-to-lead-healthcare-sector-growth-in-q1fy27-profitability-remai"
       },
       {
+        "id": "2026-07-12-cmc-vellore-and-iiit-hyderabad-develop-multilingual-ai-companion-for-can",
+        "title": "CMC Vellore and IIIT Hyderabad develop multilingual AI companion for cancer patients",
+        "summary": "A multi-partner consortium led by Christian Medical College (CMC) Vellore, in collaboration with IIIT Hyderabad’s Language Technologies Research Centre (LTRC), is developing BandhuCare – a multilingual AI companion that answers patients’ queries in their own...",
+        "source": "Express Healthcare",
+        "sourceHost": "expresshealthcare.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-07-15T06:20:49.000Z",
+        "publishedLabel": "July 15, 2026",
+        "category": "Patient Care",
+        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/07/15114619/New-Project-1-2.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": true,
+        "originalUrl": "https://www.expresshealthcare.in/news/cmc-vellore-and-iiit-hyderabad-develop-multilingual-ai-companion-for-cancer-patients/454365/",
+        "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-cmc-vellore-and-iiit-hyderabad-develop-multilingual-ai-companion-for-can"
+      },
+      {
         "id": "2026-07-12-can-prevention-deliver-both-better-health-and-better-insurance-outcomes",
         "title": "Can prevention deliver both better health and better insurance outcomes?",
         "summary": "Mayank Bathwal, CEO, Aditya Birla Health Insurance, explains why preventive healthcare and continuous wellness engagement can improve both health outcomes and health insurance sustainability",
@@ -583,7 +634,7 @@
         "category": "AI Care Delivery",
         "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/07/14120509/EH_Mayank_Bathwal_750.jpg",
         "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/news/can-prevention-deliver-both-better-health-and-better-insurance-outcomes/454338/",
         "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-can-prevention-deliver-both-better-health-and-better-insurance-outcomes"
       },
@@ -617,7 +668,7 @@
         "category": "Expansion",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/07/image-1600x900-2026-07-14T102700.321.png",
         "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/07/14/cambridge-health-saudi-arabia-expands-licensed-capacity-in-al-khobar-to-150-beds/",
         "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-cambridge-health-saudi-arabia-expands-licensed-capacity-in-al-khobar-to-"
       },
@@ -651,7 +702,7 @@
         "category": "Hospital",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/07/image-1600x900-2026-07-14T093442.601.png",
         "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/07/14/mubadala-bio-launches-first-uae-made-hemodialysis-solutions-through-wellpharma/",
         "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-mubadala-bio-launches-first-uae-made-hemodialysis-solutions-through-well"
       },
@@ -685,7 +736,7 @@
         "category": "Provider Update",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/07/image-1600x900-2026-07-14T095809.938.png",
         "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/07/14/oman-mociip-announces-us41-6m-healthcare-investment-package-for-private-sector/",
         "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-oman-mociip-announces-us-41-6m-healthcare-investment-package-for-private"
       }
@@ -704,7 +755,7 @@
         "category": "Industry Update",
         "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/07/14143716/New-Project-5.jpg",
         "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/news/the-future-of-mri-lies-in-intelligent-automation/454347/",
         "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-the-future-of-mri-lies-in-intelligent-automation"
       },
@@ -738,9 +789,26 @@
         "category": "Industry Update",
         "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/07/14134824/EEH_Dr_Raghunath_750.jpg",
         "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/news/affordable-healthcare-innovation-will-define-viksit-bharat-2047-dr-r-a-mashelkar/454341/",
         "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-affordable-healthcare-innovation-will-define-viksit-bharat-2047-dr-r-a-m"
+      },
+      {
+        "id": "2026-07-12-from-health-records-to-health-ownership-empowering-citizens-in-india-s-d",
+        "title": "From health records to health ownership: Empowering citizens in India’s digital health era",
+        "summary": "Traditionally, India’s healthcare system revolved around diagnosing illness and treating patients after seeing symptoms. Medical records often remain fragmented across multiple systems, either in hospitals, diagnostic centres, clinics or in folders that are...",
+        "source": "Express Healthcare",
+        "sourceHost": "expresshealthcare.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-07-15T05:45:44.000Z",
+        "publishedLabel": "July 15, 2026",
+        "category": "Diagnostics",
+        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/07/15111517/New-Project-6.jpg",
+        "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
+        "justIn": true,
+        "originalUrl": "https://www.expresshealthcare.in/news/from-health-records-to-health-ownership-empowering-citizens-in-indias-digital-health-era/454362/",
+        "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-from-health-records-to-health-ownership-empowering-citizens-in-india-s-d"
       },
       {
         "id": "2026-07-12-maharashtra-fda-warns-against-three-cosmetics-after-mercury-lead-levels-",
@@ -773,6 +841,14 @@
     },
     {
       "segment": "pharma",
+      "articleId": "2026-07-12-sun-pharma-gets-sahpra-approval-for-generic-semaglutide-injection-in-sou",
+      "title": "Sun Pharma gets SAHPRA approval for generic semaglutide injection in South Africa for type 2 diabetes",
+      "source": "Economic Times Pharma",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "pharma",
       "articleId": "2026-07-12-fda-approves-at-home-starter-dose-of-eisai-biogen-alzheimer-s-drug",
       "title": "FDA approves at-home starter dose of Eisai-Biogen Alzheimer's drug",
       "source": "Economic Times Pharma",
@@ -796,14 +872,6 @@
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
     },
     {
-      "segment": "pharma",
-      "articleId": "2026-07-12-first-vaccine-for-bundibugyo-ebola-hits-human-trials-in-oxford-study",
-      "title": "First vaccine for Bundibugyo Ebola hits human trials in Oxford study",
-      "source": "Economic Times Pharma",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
       "segment": "providers",
       "articleId": "2026-07-12-pm-to-dedicate-key-healthcare-infrastructure-projects-to-nation-on-july-",
       "title": "PM to dedicate key healthcare infrastructure projects to nation on July 17: PGIMER Director",
@@ -821,6 +889,14 @@
     },
     {
       "segment": "providers",
+      "articleId": "2026-07-12-cmc-vellore-and-iiit-hyderabad-develop-multilingual-ai-companion-for-can",
+      "title": "CMC Vellore and IIIT Hyderabad develop multilingual AI companion for cancer patients",
+      "source": "Express Healthcare",
+      "solution": "THB Provider CRM",
+      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
+    },
+    {
+      "segment": "providers",
       "articleId": "2026-07-12-can-prevention-deliver-both-better-health-and-better-insurance-outcomes",
       "title": "Can prevention deliver both better health and better insurance outcomes?",
       "source": "Express Healthcare",
@@ -832,14 +908,6 @@
       "articleId": "2026-07-12-robotic-surgery-is-changing-more-than-the-way-we-operate",
       "title": "Robotic surgery is changing more than the way we operate",
       "source": "Express Healthcare",
-      "solution": "THB Provider CRM",
-      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
-    },
-    {
-      "segment": "providers",
-      "articleId": "2026-07-12-cambridge-health-saudi-arabia-expands-licensed-capacity-in-al-khobar-to-",
-      "title": "Cambridge Health Saudi Arabia expands licensed capacity in Al Khobar to 150 beds | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
-      "source": "Healthcare MEA",
       "solution": "THB Provider CRM",
       "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
     },
@@ -863,6 +931,14 @@
       "segment": "diagnostics",
       "articleId": "2026-07-12-affordable-healthcare-innovation-will-define-viksit-bharat-2047-dr-r-a-m",
       "title": "Affordable healthcare innovation will define Viksit Bharat 2047: Dr R A Mashelkar",
+      "source": "Express Healthcare",
+      "solution": "THB Diagnostics CRM",
+      "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
+    },
+    {
+      "segment": "diagnostics",
+      "articleId": "2026-07-12-from-health-records-to-health-ownership-empowering-citizens-in-india-s-d",
+      "title": "From health records to health ownership: Empowering citizens in India’s digital health era",
       "source": "Express Healthcare",
       "solution": "THB Diagnostics CRM",
       "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
