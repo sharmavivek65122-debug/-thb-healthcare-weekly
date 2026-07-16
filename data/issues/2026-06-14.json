@@ -5,10 +5,10 @@
   "startDate": "2026-06-13T18:30:00.000Z",
   "endDate": "2026-06-19T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-07-15T15:08:23.536Z",
+  "updatedAt": "2026-07-16T06:42:29.505Z",
   "coverage": {
     "pharma": 0,
-    "providers": 5,
+    "providers": 6,
     "diagnostics": 0,
     "healthtech": 0
   },
@@ -87,6 +87,23 @@
         "articlePath": "/article.html?issue=2026-06-14&article=2026-06-14-first-state-run-bone-marrow-transplant-facility-to-open-at-kolhapur-s-cp"
       },
       {
+        "id": "2026-06-14-kkr-eyes-at-least-1-billion-stake-in-medicover-s-india-hospital-arm-sour",
+        "title": "KKR eyes at least $1 billion stake in Medicover's India hospital arm, source says",
+        "summary": "Sweden's ‌Medicover owns 66.9% of Medicover Hospitals India. KKR is seeking to ​acquire the Swedish ​firm's entire stake for at least $1.05 billion and is also in ⁠discussions with minority shareholders.",
+        "source": "ET Healthworld Hospitals",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-06-18T07:01:27.000Z",
+        "publishedLabel": "June 18, 2026",
+        "category": "Hospital",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-131820998,imgsize-60244,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/kkr-eyes-at-least-1-billion-stake-in-medicovers-india-hospital-arm-source-says.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": false,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/kkr-eyes-at-least-1-billion-stake-in-medicovers-india-hospital-arm-source-says/131820998",
+        "articlePath": "/article.html?issue=2026-06-14&article=2026-06-14-kkr-eyes-at-least-1-billion-stake-in-medicover-s-india-hospital-arm-sour"
+      },
+      {
         "id": "2026-06-14-manipal-hospitals-is-said-to-plan-1-billion-ipo-in-july",
         "title": "Manipal Hospitals is said to plan $1 billion IPO in July",
         "summary": "Manipal Health Enterprises is likely to launch its IPO as early as next month, targeting a valuation of around $10 billion. Backed by Temasek, the hospital chain has completed investor roadshows. The offering includes both fresh issue and stake sale,...",
@@ -142,8 +159,8 @@
     },
     {
       "segment": "providers",
-      "articleId": "2026-06-14-manipal-hospitals-is-said-to-plan-1-billion-ipo-in-july",
-      "title": "Manipal Hospitals is said to plan $1 billion IPO in July",
+      "articleId": "2026-06-14-kkr-eyes-at-least-1-billion-stake-in-medicover-s-india-hospital-arm-sour",
+      "title": "KKR eyes at least $1 billion stake in Medicover's India hospital arm, source says",
       "source": "ET Healthworld Hospitals",
       "solution": "THB Provider CRM",
       "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
