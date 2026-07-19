@@ -5,18 +5,37 @@
   "startDate": "2026-07-18T18:30:00.000Z",
   "endDate": "2026-07-24T18:30:00.000Z",
   "status": "live",
-  "updatedAt": "2026-07-19T07:04:37.520Z",
+  "updatedAt": "2026-07-19T14:38:56.573Z",
   "coverage": {
-    "pharma": 2,
+    "pharma": 4,
     "providers": 0,
     "diagnostics": 0,
     "healthtech": 0
   },
   "sourcesUsed": [
+    "Economic Times Pharma",
+    "Lupin Updates",
     "Medical Dialogues Pharma"
   ],
   "segments": {
     "pharma": [
+      {
+        "id": "2026-07-19-alembic-pharma-partner-natco-gets-usfda-tentative-nod-for-generic-olapar",
+        "title": "Alembic Pharma partner NATCO gets USFDA tentative nod for generic Olaparib tablets; US market size at USD",
+        "summary": "Alembic Pharmaceuticals and NATCO Pharma received tentative USFDA approval for generic Olaparib tablets. This approval is for a cancer drug, which is a generic equivalent of Lynparza. Alembic will distribute the product while NATCO Pharma will manufacture the...",
+        "source": "Economic Times Pharma",
+        "sourceHost": "economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-07-19T07:04:00.000Z",
+        "publishedLabel": "July 19, 2026",
+        "category": "Approval",
+        "image": "https://img.etimg.com/thumb/msid-132491034,width-1200,height-630,imgsize-65860,overlay-economictimes/articleshow.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/alembic-pharma-partner-natco-gets-usfda-tentative-nod-for-generic-olaparib-tablets-us-market-size-at-usd-1-4-bn/articleshow/132490990.cms",
+        "articlePath": "/article.html?issue=2026-07-19&article=2026-07-19-alembic-pharma-partner-natco-gets-usfda-tentative-nod-for-generic-olapar"
+      },
       {
         "id": "2026-07-19-attovia-therapeutics-files-for-us-ipo-to-advance-pipeline-of-immune-dise",
         "title": "Attovia Therapeutics Files for US IPO to Advance Pipeline of Immune Disease Therapies",
@@ -50,6 +69,23 @@
         "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/cdsco-approves-novo-nordisks-wegovy-for-fatty-liver-disease-in-india-175322",
         "articlePath": "/article.html?issue=2026-07-19&article=2026-07-19-cdsco-approves-novo-nordisk-s-wegovy-for-fatty-liver-disease-in-india"
+      },
+      {
+        "id": "2026-07-19-he-got-into-iit-but-barely-studied-engineering-years-later-he-says-it-wa",
+        "title": "He got into IIT but barely studied engineering. Years later, he says it was the best decision he made",
+        "summary": "An IIT (BHU) alumnus has gone viral after revealing that he spent most of his engineering lectures reading books on history, politics and economics instead of focusing on his coursework. Looking back, he says those years taught him one lesson he still...",
+        "source": "Lupin Updates",
+        "sourceHost": "economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-07-19T13:30:00.000Z",
+        "publishedLabel": "July 19, 2026",
+        "category": "Industry Update",
+        "image": "https://img.etimg.com/thumb/msid-132495402,width-1200,height-630,imgsize-129148,overlay-etpanache/articleshow.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://economictimes.indiatimes.com/magazines/panache/he-got-into-iit-but-barely-studied-engineering-years-later-he-says-it-was-the-best-decision-he-made/articleshow/132494377.cms",
+        "articlePath": "/article.html?issue=2026-07-19&article=2026-07-19-he-got-into-iit-but-barely-studied-engineering-years-later-he-says-it-wa"
       }
     ],
     "providers": [],
@@ -57,6 +93,14 @@
     "healthtech": []
   },
   "thbActions": [
+    {
+      "segment": "pharma",
+      "articleId": "2026-07-19-alembic-pharma-partner-natco-gets-usfda-tentative-nod-for-generic-olapar",
+      "title": "Alembic Pharma partner NATCO gets USFDA tentative nod for generic Olaparib tablets; US market size at USD",
+      "source": "Economic Times Pharma",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
     {
       "segment": "pharma",
       "articleId": "2026-07-19-attovia-therapeutics-files-for-us-ipo-to-advance-pipeline-of-immune-dise",
@@ -70,6 +114,14 @@
       "articleId": "2026-07-19-cdsco-approves-novo-nordisk-s-wegovy-for-fatty-liver-disease-in-india",
       "title": "CDSCO Approves Novo Nordisk's Wegovy for Fatty Liver Disease in India",
       "source": "Medical Dialogues Pharma",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "pharma",
+      "articleId": "2026-07-19-he-got-into-iit-but-barely-studied-engineering-years-later-he-says-it-wa",
+      "title": "He got into IIT but barely studied engineering. Years later, he says it was the best decision he made",
+      "source": "Lupin Updates",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
     }
