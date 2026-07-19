@@ -5,15 +5,14 @@
   "startDate": "2026-07-04T18:30:00.000Z",
   "endDate": "2026-07-10T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-07-18T14:35:04.451Z",
+  "updatedAt": "2026-07-19T07:04:37.520Z",
   "coverage": {
-    "pharma": 8,
-    "providers": 17,
+    "pharma": 7,
+    "providers": 18,
     "diagnostics": 5,
     "healthtech": 0
   },
   "sourcesUsed": [
-    "ET Healthworld",
     "ET Healthworld Diagnostics",
     "ET Healthworld Hospitals",
     "Economic Times Pharma",
@@ -124,23 +123,6 @@
         "articlePath": "/article.html?issue=2026-07-05&article=2026-07-05-medicines-with-over-12-alcohol-can-no-longer-be-sold-without-prescriptio"
       },
       {
-        "id": "2026-07-05-fortis-healthcare-signs-agreement-to-open-300-bed-hospital-in-odisha",
-        "title": "Fortis Healthcare signs agreement to open 300-bed hospital in Odisha",
-        "summary": "The corporate chain hospital said it is set to open a 300-bed multi-speciality hospital at Dion Riverside Township, Trishulia in Cuttack.",
-        "source": "ET Healthworld",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-07-06T01:25:09.000Z",
-        "publishedLabel": "July 6, 2026",
-        "category": "Industry Update",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-132205213,imgsize-82450,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/fortis-healthcare-signs-agreement-to-open-300-bed-hospital-in-odisha.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/fortis-healthcare-signs-agreement-to-open-300-bed-hospital-in-odisha/132205213",
-        "articlePath": "/article.html?issue=2026-07-05&article=2026-07-05-fortis-healthcare-signs-agreement-to-open-300-bed-hospital-in-odisha"
-      },
-      {
         "id": "2026-07-05-beyond-the-pills-what-india-s-latest-dpco-amendment-could-mean-for-medte",
         "title": "Beyond the pills: What India’s latest DPCO Amendment could mean for MedTech",
         "summary": "Piyush Sharma, an advocacy professional with Astrum, examines how the latest DPCO amendment could reshape India's approach to MedTech pricing and value-based innovation. The views expressed here are personal.",
@@ -192,6 +174,23 @@
         "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/magnet-hospitals-enters-bengaluru-with-8-hospitals-plans-12-locations-and-1200-beds-by-2028/132209818",
         "articlePath": "/article.html?issue=2026-07-05&article=2026-07-05-magnet-hospitals-enters-bengaluru-with-8-hospitals-plans-12-locations-an"
+      },
+      {
+        "id": "2026-07-05-fortis-healthcare-signs-agreement-to-open-300-bed-hospital-in-odisha",
+        "title": "Fortis Healthcare signs agreement to open 300-bed hospital in Odisha",
+        "summary": "The corporate chain hospital said it is set to open a 300-bed multi-speciality hospital at Dion Riverside Township, Trishulia in Cuttack.",
+        "source": "ET Healthworld Hospitals",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-07-06T01:25:09.000Z",
+        "publishedLabel": "July 6, 2026",
+        "category": "Hospital",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-132205213,imgsize-82450,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/fortis-healthcare-signs-agreement-to-open-300-bed-hospital-in-odisha.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": false,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/fortis-healthcare-signs-agreement-to-open-300-bed-hospital-in-odisha/132205213",
+        "articlePath": "/article.html?issue=2026-07-05&article=2026-07-05-fortis-healthcare-signs-agreement-to-open-300-bed-hospital-in-odisha"
       },
       {
         "id": "2026-07-05-safdarjung-hospital-sai-sign-mou-to-boost-athlete-healthcare",
@@ -597,6 +596,14 @@
     },
     {
       "segment": "providers",
+      "articleId": "2026-07-05-fortis-healthcare-signs-agreement-to-open-300-bed-hospital-in-odisha",
+      "title": "Fortis Healthcare signs agreement to open 300-bed hospital in Odisha",
+      "source": "ET Healthworld Hospitals",
+      "solution": "THB Provider CRM",
+      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
+    },
+    {
+      "segment": "providers",
       "articleId": "2026-07-05-safdarjung-hospital-sai-sign-mou-to-boost-athlete-healthcare",
       "title": "Safdarjung Hospital, SAI sign MoU to boost athlete healthcare",
       "source": "ET Healthworld Hospitals",
@@ -607,14 +614,6 @@
       "segment": "providers",
       "articleId": "2026-07-05-hcg-uses-ai-patient-data-to-personalise-cancer-treatment-bs-ajaikumar-fo",
       "title": "HCG uses AI, patient data to personalise cancer treatment: BS Ajaikumar, founder",
-      "source": "ET Healthworld Hospitals",
-      "solution": "THB Provider CRM",
-      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
-    },
-    {
-      "segment": "providers",
-      "articleId": "2026-07-05-70-medical-colleges-fail-to-comply-with-nmc-s-mandatory-cctv-norms",
-      "title": "70 medical colleges fail to comply with NMC's mandatory CCTV norms",
       "source": "ET Healthworld Hospitals",
       "solution": "THB Provider CRM",
       "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
