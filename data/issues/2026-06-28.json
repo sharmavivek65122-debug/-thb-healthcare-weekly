@@ -5,11 +5,11 @@
   "startDate": "2026-06-27T18:30:00.000Z",
   "endDate": "2026-07-03T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-07-20T07:40:26.308Z",
+  "updatedAt": "2026-07-20T15:29:46.022Z",
   "coverage": {
     "pharma": 4,
     "providers": 1,
-    "diagnostics": 2,
+    "diagnostics": 3,
     "healthtech": 0
   },
   "sourcesUsed": [
@@ -141,6 +141,23 @@
         "justIn": false,
         "originalUrl": "https://www.biospectrumasia.com/analysis/105/27930/going-local-the-new-apac-diagnostics-playbook.html",
         "articlePath": "/article.html?issue=2026-06-28&article=2026-06-28-going-local-the-new-apac-diagnostics-playbook"
+      },
+      {
+        "id": "2026-06-28-how-testing-is-reshaping-front-door-of-care-in-thailand",
+        "title": "How Testing is Reshaping Front Door of Care in Thailand",
+        "summary": "How testing is Reshaping Front Door of Care in Thailand",
+        "source": "BioSpectrum Asia Middle East",
+        "sourceHost": "biospectrumasia.com",
+        "region": "Middle East",
+        "country": "Oman",
+        "publishedAt": "2026-06-30T18:30:00.000Z",
+        "publishedLabel": "July 1, 2026",
+        "category": "Industry Update",
+        "image": "https://www.biospectrumasia.com/uploads/articles/ashish_kaul_2_1-27935.jpg",
+        "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
+        "justIn": false,
+        "originalUrl": "https://www.biospectrumasia.com/opinion/105/27935/how-testing-is-reshaping-front-door-of-care-in-thailand.html",
+        "articlePath": "/article.html?issue=2026-06-28&article=2026-06-28-how-testing-is-reshaping-front-door-of-care-in-thailand"
       }
     ],
     "healthtech": []
@@ -198,6 +215,14 @@
       "segment": "diagnostics",
       "articleId": "2026-06-28-going-local-the-new-apac-diagnostics-playbook",
       "title": "Going Local: The New APAC Diagnostics Playbook",
+      "source": "BioSpectrum Asia Middle East",
+      "solution": "THB Diagnostics CRM",
+      "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
+    },
+    {
+      "segment": "diagnostics",
+      "articleId": "2026-06-28-how-testing-is-reshaping-front-door-of-care-in-thailand",
+      "title": "How Testing is Reshaping Front Door of Care in Thailand",
       "source": "BioSpectrum Asia Middle East",
       "solution": "THB Diagnostics CRM",
       "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
