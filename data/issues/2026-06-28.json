@@ -5,16 +5,17 @@
   "startDate": "2026-06-27T18:30:00.000Z",
   "endDate": "2026-07-03T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-07-19T14:38:56.573Z",
+  "updatedAt": "2026-07-20T07:40:26.308Z",
   "coverage": {
-    "pharma": 3,
+    "pharma": 4,
     "providers": 1,
-    "diagnostics": 3,
+    "diagnostics": 2,
     "healthtech": 0
   },
   "sourcesUsed": [
     "BioSpectrum Asia Middle East",
-    "ET Healthworld Diagnostics"
+    "ET Healthworld Diagnostics",
+    "Lupin Updates"
   ],
   "segments": {
     "pharma": [
@@ -68,6 +69,23 @@
         "justIn": false,
         "originalUrl": "https://www.biospectrumasia.com/analysis/25/27933/revamping-and-enhancing-pharma-logistics-.html",
         "articlePath": "/article.html?issue=2026-06-28&article=2026-06-28-revamping-and-enhancing-pharma-logistics"
+      },
+      {
+        "id": "2026-06-28-stocks-in-news-hero-motocorp-canara-bank-bharti-airtel-indian-hotels-sbi",
+        "title": "Stocks in news: Hero MotoCorp, Canara Bank, Bharti Airtel, Indian Hotels, SBI",
+        "summary": "Indian markets opened positively, with analysts suggesting a stock-specific strategy amidst consolidation. Hero MotoCorp sees a revival in commuter bike demand, planning capacity expansion. Canara Bank and Indian Bank reported strong credit growth. Bharti...",
+        "source": "Lupin Updates",
+        "sourceHost": "economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-07-02T00:41:00.000Z",
+        "publishedLabel": "July 2, 2026",
+        "category": "Market",
+        "image": "https://img.etimg.com/thumb/msid-132120006,width-1200,height-630,imgsize-22420,overlay-etmarkets/articleshow.jpg",
+        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
+        "justIn": false,
+        "originalUrl": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-hero-motocorp-canara-bank-bharti-airtel-indian-hotels-sbi/articleshow/132120012.cms",
+        "articlePath": "/article.html?issue=2026-06-28&article=2026-06-28-stocks-in-news-hero-motocorp-canara-bank-bharti-airtel-indian-hotels-sbi"
       }
     ],
     "providers": [
@@ -123,23 +141,6 @@
         "justIn": false,
         "originalUrl": "https://www.biospectrumasia.com/analysis/105/27930/going-local-the-new-apac-diagnostics-playbook.html",
         "articlePath": "/article.html?issue=2026-06-28&article=2026-06-28-going-local-the-new-apac-diagnostics-playbook"
-      },
-      {
-        "id": "2026-06-28-how-testing-is-reshaping-front-door-of-care-in-thailand",
-        "title": "How Testing is Reshaping Front Door of Care in Thailand",
-        "summary": "How testing is Reshaping Front Door of Care in Thailand",
-        "source": "BioSpectrum Asia Middle East",
-        "sourceHost": "biospectrumasia.com",
-        "region": "Middle East",
-        "country": "Oman",
-        "publishedAt": "2026-06-30T18:30:00.000Z",
-        "publishedLabel": "July 1, 2026",
-        "category": "Industry Update",
-        "image": "https://www.biospectrumasia.com/uploads/articles/ashish_kaul_2_1-27935.jpg",
-        "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
-        "justIn": false,
-        "originalUrl": "https://www.biospectrumasia.com/opinion/105/27935/how-testing-is-reshaping-front-door-of-care-in-thailand.html",
-        "articlePath": "/article.html?issue=2026-06-28&article=2026-06-28-how-testing-is-reshaping-front-door-of-care-in-thailand"
       }
     ],
     "healthtech": []
@@ -170,6 +171,14 @@
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
     },
     {
+      "segment": "pharma",
+      "articleId": "2026-06-28-stocks-in-news-hero-motocorp-canara-bank-bharti-airtel-indian-hotels-sbi",
+      "title": "Stocks in news: Hero MotoCorp, Canara Bank, Bharti Airtel, Indian Hotels, SBI",
+      "source": "Lupin Updates",
+      "solution": "THB Commercial Analytics",
+      "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
+    },
+    {
       "segment": "providers",
       "articleId": "2026-06-28-urgent-need-to-eliminate-viral-hepatitis",
       "title": "Urgent Need to Eliminate Viral Hepatitis",
@@ -189,14 +198,6 @@
       "segment": "diagnostics",
       "articleId": "2026-06-28-going-local-the-new-apac-diagnostics-playbook",
       "title": "Going Local: The New APAC Diagnostics Playbook",
-      "source": "BioSpectrum Asia Middle East",
-      "solution": "THB Diagnostics CRM",
-      "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
-    },
-    {
-      "segment": "diagnostics",
-      "articleId": "2026-06-28-how-testing-is-reshaping-front-door-of-care-in-thailand",
-      "title": "How Testing is Reshaping Front Door of Care in Thailand",
       "source": "BioSpectrum Asia Middle East",
       "solution": "THB Diagnostics CRM",
       "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."

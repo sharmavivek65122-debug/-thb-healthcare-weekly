@@ -5,20 +5,39 @@
   "startDate": "2026-07-18T18:30:00.000Z",
   "endDate": "2026-07-24T18:30:00.000Z",
   "status": "live",
-  "updatedAt": "2026-07-19T14:38:56.573Z",
+  "updatedAt": "2026-07-20T07:40:26.308Z",
   "coverage": {
-    "pharma": 4,
-    "providers": 0,
+    "pharma": 8,
+    "providers": 2,
     "diagnostics": 0,
     "healthtech": 0
   },
   "sourcesUsed": [
+    "ET Healthworld",
     "Economic Times Pharma",
-    "Lupin Updates",
-    "Medical Dialogues Pharma"
+    "Express Healthcare",
+    "Medical Dialogues Pharma",
+    "Zawya Pharmaceuticals"
   ],
   "segments": {
     "pharma": [
+      {
+        "id": "2026-07-19-takeda-biopharmaceuticals-gets-dcgi-nod-for-dengue-vaccine-qdenga",
+        "title": "Takeda Biopharmaceuticals gets DCGI nod for dengue vaccine QDENGA",
+        "summary": "Takeda Biopharmaceuticals India has received market authorization for its dengue vaccine QDENGA. This vaccine is now approved for individuals aged four to sixty years old. QDENGA offers protection against all four dengue virus serotypes without prior testing....",
+        "source": "Economic Times Pharma",
+        "sourceHost": "economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-07-20T05:51:27.000Z",
+        "publishedLabel": "July 20, 2026",
+        "category": "Market",
+        "image": "https://img.etimg.com/thumb/msid-132507113,width-1200,height-630,imgsize-41870,overlay-economictimes/articleshow.jpg",
+        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
+        "justIn": true,
+        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/takeda-biopharmaceuticals-gets-dcgi-nod-for-dengue-vaccine-qdenga/articleshow/132507010.cms",
+        "articlePath": "/article.html?issue=2026-07-19&article=2026-07-19-takeda-biopharmaceuticals-gets-dcgi-nod-for-dengue-vaccine-qdenga"
+      },
       {
         "id": "2026-07-19-alembic-pharma-partner-natco-gets-usfda-tentative-nod-for-generic-olapar",
         "title": "Alembic Pharma partner NATCO gets USFDA tentative nod for generic Olaparib tablets; US market size at USD",
@@ -32,9 +51,77 @@
         "category": "Approval",
         "image": "https://img.etimg.com/thumb/msid-132491034,width-1200,height-630,imgsize-65860,overlay-economictimes/articleshow.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/alembic-pharma-partner-natco-gets-usfda-tentative-nod-for-generic-olaparib-tablets-us-market-size-at-usd-1-4-bn/articleshow/132490990.cms",
         "articlePath": "/article.html?issue=2026-07-19&article=2026-07-19-alembic-pharma-partner-natco-gets-usfda-tentative-nod-for-generic-olapar"
+      },
+      {
+        "id": "2026-07-19-maharashtra-govt-orders-medical-panels-in-pvt-hospitals-for-passive-euth",
+        "title": "Maharashtra govt orders medical panels in pvt hospitals for passive euthanisia cases",
+        "summary": "The government resolution (GR) by the state public health department follows the Supreme Court's March 11, 2026 judgment in the Harish Rana case, which reiterated that decisions on withdrawing life-sustaining treatment in accordance with a patient's advance...",
+        "source": "ET Healthworld",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-07-20T06:20:52.000Z",
+        "publishedLabel": "July 20, 2026",
+        "category": "Industry Update",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-132507458,imgsize-51326,width-1200,height=627,overlay-ethealth,resizemode-75/policy/maharashtra-govt-orders-medical-panels-in-pvt-hospitals-for-passive-euthanisia-cases.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/policy/maharashtra-govt-orders-medical-panels-in-pvt-hospitals-for-passive-euthanisia-cases/132507458",
+        "articlePath": "/article.html?issue=2026-07-19&article=2026-07-19-maharashtra-govt-orders-medical-panels-in-pvt-hospitals-for-passive-euth"
+      },
+      {
+        "id": "2026-07-19-taco-bell-removes-lettuce-in-some-states-over-cyclosporiasis-link",
+        "title": "Taco Bell removes lettuce in some states over cyclosporiasis link",
+        "summary": "\"Based on ongoing conversations with public health officials, and out of an abundance of caution, ‌Taco Bell ⁠has taken immediate ⁠action to voluntarily remove potentially impacted lettuce from a supplier in select states,\" Taco Bell said in ​a statement.",
+        "source": "ET Healthworld",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-07-20T02:05:44.000Z",
+        "publishedLabel": "July 20, 2026",
+        "category": "Industry Update",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-132504225,imgsize-58234,width-1200,height=627,overlay-ethealth,resizemode-75/industry/taco-bell-removes-lettuce-in-some-states-over-cyclosporiasis-link.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/taco-bell-removes-lettuce-in-some-states-over-cyclosporiasis-link/132504225",
+        "articlePath": "/article.html?issue=2026-07-19&article=2026-07-19-taco-bell-removes-lettuce-in-some-states-over-cyclosporiasis-link"
+      },
+      {
+        "id": "2026-07-19-c-sections-in-karnataka-rise-private-sector-drives-spike-national-family",
+        "title": "C-sections in Karnataka rise; private sector drives spike: National Family Health Survey",
+        "summary": "The surge is driven largely by private healthcare sector, where 63% of births are conducted via C-section. In contrast, public health facilities report a considerably lower rate of 34%, highlighting a divide in childbirth practices between the two sectors.",
+        "source": "ET Healthworld",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-07-20T02:14:25.000Z",
+        "publishedLabel": "July 20, 2026",
+        "category": "Industry Update",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-132504311,imgsize-90402,width-1200,height=627,overlay-ethealth,resizemode-75/industry/c-sections-in-karnataka-rise-private-sector-drives-spike-national-family-health-survey.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/c-sections-in-karnataka-rise-private-sector-drives-spike-national-family-health-survey/132504311",
+        "articlePath": "/article.html?issue=2026-07-19&article=2026-07-19-c-sections-in-karnataka-rise-private-sector-drives-spike-national-family"
+      },
+      {
+        "id": "2026-07-19-study-by-doctors-find-new-tool-to-detect-health-risks-in-premature-newbo",
+        "title": "Study by doctors find new tool to detect health risks in premature newborns",
+        "summary": "The study, conducted on 181 premature babies at JK Lone Hospital in Jaipur, has highlighted the usefulness of the CRIB-II (Clinical Risk Index for Babies-II) score to assess the condition of newborns soon after admission.",
+        "source": "ET Healthworld",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-07-20T01:45:03.000Z",
+        "publishedLabel": "July 20, 2026",
+        "category": "Industry Update",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-132503945,imgsize-55504,width-1200,height=627,overlay-ethealth,resizemode-75/industry/study-by-doctors-find-new-tool-to-detect-health-risks-in-premature-newborns.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/study-by-doctors-find-new-tool-to-detect-health-risks-in-premature-newborns/132503945",
+        "articlePath": "/article.html?issue=2026-07-19&article=2026-07-19-study-by-doctors-find-new-tool-to-detect-health-risks-in-premature-newbo"
       },
       {
         "id": "2026-07-19-attovia-therapeutics-files-for-us-ipo-to-advance-pipeline-of-immune-dise",
@@ -69,30 +156,56 @@
         "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/cdsco-approves-novo-nordisks-wegovy-for-fatty-liver-disease-in-india-175322",
         "articlePath": "/article.html?issue=2026-07-19&article=2026-07-19-cdsco-approves-novo-nordisk-s-wegovy-for-fatty-liver-disease-in-india"
-      },
-      {
-        "id": "2026-07-19-he-got-into-iit-but-barely-studied-engineering-years-later-he-says-it-wa",
-        "title": "He got into IIT but barely studied engineering. Years later, he says it was the best decision he made",
-        "summary": "An IIT (BHU) alumnus has gone viral after revealing that he spent most of his engineering lectures reading books on history, politics and economics instead of focusing on his coursework. Looking back, he says those years taught him one lesson he still...",
-        "source": "Lupin Updates",
-        "sourceHost": "economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-07-19T13:30:00.000Z",
-        "publishedLabel": "July 19, 2026",
-        "category": "Industry Update",
-        "image": "https://img.etimg.com/thumb/msid-132495402,width-1200,height-630,imgsize-129148,overlay-etpanache/articleshow.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
-        "originalUrl": "https://economictimes.indiatimes.com/magazines/panache/he-got-into-iit-but-barely-studied-engineering-years-later-he-says-it-was-the-best-decision-he-made/articleshow/132494377.cms",
-        "articlePath": "/article.html?issue=2026-07-19&article=2026-07-19-he-got-into-iit-but-barely-studied-engineering-years-later-he-says-it-wa"
       }
     ],
-    "providers": [],
+    "providers": [
+      {
+        "id": "2026-07-19-cghs-should-include-hospice-palliative-care-services-g-kishan-reddy",
+        "title": "CGHS should include hospice, palliative care services: G Kishan Reddy",
+        "summary": "Union Cabinet Minister inaugurates dedicated neuro-palliative care ward at Sparsh Hospice, management requests exemption for empanelment under CGHS",
+        "source": "Express Healthcare",
+        "sourceHost": "expresshealthcare.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-07-20T06:41:51.000Z",
+        "publishedLabel": "July 20, 2026",
+        "category": "Provider Update",
+        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/07/20115614/G-Kishan-Reddy-inaugurates-dedicated-neuro-palliative-care-ward-at-Sparsh-Hospice.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": false,
+        "originalUrl": "https://www.expresshealthcare.in/news/cghs-should-include-hospice-palliative-care-services-g-kishan-reddy/454416/",
+        "articlePath": "/article.html?issue=2026-07-19&article=2026-07-19-cghs-should-include-hospice-palliative-care-services-g-kishan-reddy"
+      },
+      {
+        "id": "2026-07-19-kuwait-nbk-q2-net-profit-edges-up-beats-estimate",
+        "title": "Kuwait NBK Q2 net profit edges up; beats estimate",
+        "summary": "For H1 2026, the bank reported 3% higher net profit on year",
+        "source": "Zawya Pharmaceuticals",
+        "sourceHost": "zawya.com",
+        "region": "Middle East",
+        "country": "Kuwait",
+        "publishedAt": "2026-07-20T06:58:05.075Z",
+        "publishedLabel": "July 20, 2026",
+        "category": "AI Care Delivery",
+        "image": "https://media.zawya.com/prod/images/gm_preview/7c0b0157d977-gettyimages-1312526677.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": false,
+        "originalUrl": "https://www.zawya.com/en/business/banking-and-insurance/kuwait-nbk-q2-net-profit-edges-up-beats-estimate-402563",
+        "articlePath": "/article.html?issue=2026-07-19&article=2026-07-19-kuwait-nbk-q2-net-profit-edges-up-beats-estimate"
+      }
+    ],
     "diagnostics": [],
     "healthtech": []
   },
   "thbActions": [
+    {
+      "segment": "pharma",
+      "articleId": "2026-07-19-takeda-biopharmaceuticals-gets-dcgi-nod-for-dengue-vaccine-qdenga",
+      "title": "Takeda Biopharmaceuticals gets DCGI nod for dengue vaccine QDENGA",
+      "source": "Economic Times Pharma",
+      "solution": "THB Commercial Analytics",
+      "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
+    },
     {
       "segment": "pharma",
       "articleId": "2026-07-19-alembic-pharma-partner-natco-gets-usfda-tentative-nod-for-generic-olapar",
@@ -103,27 +216,43 @@
     },
     {
       "segment": "pharma",
-      "articleId": "2026-07-19-attovia-therapeutics-files-for-us-ipo-to-advance-pipeline-of-immune-dise",
-      "title": "Attovia Therapeutics Files for US IPO to Advance Pipeline of Immune Disease Therapies",
-      "source": "Medical Dialogues Pharma",
+      "articleId": "2026-07-19-maharashtra-govt-orders-medical-panels-in-pvt-hospitals-for-passive-euth",
+      "title": "Maharashtra govt orders medical panels in pvt hospitals for passive euthanisia cases",
+      "source": "ET Healthworld",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
     },
     {
       "segment": "pharma",
-      "articleId": "2026-07-19-cdsco-approves-novo-nordisk-s-wegovy-for-fatty-liver-disease-in-india",
-      "title": "CDSCO Approves Novo Nordisk's Wegovy for Fatty Liver Disease in India",
-      "source": "Medical Dialogues Pharma",
+      "articleId": "2026-07-19-taco-bell-removes-lettuce-in-some-states-over-cyclosporiasis-link",
+      "title": "Taco Bell removes lettuce in some states over cyclosporiasis link",
+      "source": "ET Healthworld",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
     },
     {
       "segment": "pharma",
-      "articleId": "2026-07-19-he-got-into-iit-but-barely-studied-engineering-years-later-he-says-it-wa",
-      "title": "He got into IIT but barely studied engineering. Years later, he says it was the best decision he made",
-      "source": "Lupin Updates",
+      "articleId": "2026-07-19-c-sections-in-karnataka-rise-private-sector-drives-spike-national-family",
+      "title": "C-sections in Karnataka rise; private sector drives spike: National Family Health Survey",
+      "source": "ET Healthworld",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "providers",
+      "articleId": "2026-07-19-cghs-should-include-hospice-palliative-care-services-g-kishan-reddy",
+      "title": "CGHS should include hospice, palliative care services: G Kishan Reddy",
+      "source": "Express Healthcare",
+      "solution": "THB Provider CRM",
+      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
+    },
+    {
+      "segment": "providers",
+      "articleId": "2026-07-19-kuwait-nbk-q2-net-profit-edges-up-beats-estimate",
+      "title": "Kuwait NBK Q2 net profit edges up; beats estimate",
+      "source": "Zawya Pharmaceuticals",
+      "solution": "THB Provider CRM",
+      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
     }
   ]
 }
