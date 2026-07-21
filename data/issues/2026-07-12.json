@@ -5,26 +5,41 @@
   "startDate": "2026-07-11T18:30:00.000Z",
   "endDate": "2026-07-17T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-07-21T07:06:37.878Z",
+  "updatedAt": "2026-07-21T15:22:22.772Z",
   "coverage": {
-    "pharma": 36,
-    "providers": 15,
+    "pharma": 29,
+    "providers": 13,
     "diagnostics": 3,
     "healthtech": 0
   },
   "sourcesUsed": [
-    "ET Healthworld",
     "ET Healthworld Hospitals",
     "Economic Times Pharma",
     "Express Healthcare",
     "Express Healthcare Posts",
-    "Healthcare MEA",
     "Medical Dialogues Pharma",
     "PharmaTutor News",
     "Zawya Pharmaceuticals"
   ],
   "segments": {
     "pharma": [
+      {
+        "id": "2026-07-12-india-uk-fta-projected-to-boost-indian-pharma-exports-by-over-8-to-981-m",
+        "title": "India-UK FTA projected to boost Indian pharma exports by over 8% to $981 million in FY27: Pharmexcil",
+        "summary": "Indian pharmaceutical exports to the United Kingdom are projected to grow significantly. The India-UK Comprehensive Economic and Trade Agreement will eliminate tariffs on most products. This pact is expected to enhance the competitiveness of Indian generic...",
+        "source": "Economic Times Pharma",
+        "sourceHost": "economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-07-16T08:10:40.000Z",
+        "publishedLabel": "July 16, 2026",
+        "category": "Industry Update",
+        "image": "https://img.etimg.com/thumb/msid-132433411,width-1200,height-630,imgsize-103122,overlay-economictimes/articleshow.jpg",
+        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
+        "justIn": false,
+        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/india-uk-fta-projected-to-boost-indian-pharma-exports-by-over-8-to-981-million-in-fy27-pharmexcil/articleshow/132433345.cms",
+        "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-india-uk-fta-projected-to-boost-indian-pharma-exports-by-over-8-to-981-m"
+      },
       {
         "id": "2026-07-12-emcure-buys-remaining-12-05-in-gennova-to-take-full-control",
         "title": "Emcure buys remaining 12.05% in Gennova to take full control",
@@ -230,23 +245,6 @@
         "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-kota-kidney-damage-victims-seek-euthanasia-or-treatment-in-plea-to-presi"
       },
       {
-        "id": "2026-07-12-covid-19-cases-in-andhra-pradesh-not-a-sign-of-resurgence-doctors",
-        "title": "Covid-19 cases in Andhra Pradesh not a sign of resurgence: Doctors",
-        "summary": "Doctors said the two Covid-19 deaths and eight active cases in Andhra Pradesh's Kadapa district are an isolated cluster and not a sign of resurgence of the virus. They added that a combination of factors like waning immunity, viral mutation, and renewed...",
-        "source": "ET Healthworld",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-07-13T10:48:08.000Z",
-        "publishedLabel": "July 13, 2026",
-        "category": "Industry Update",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-132364538,imgsize-90640,width-1200,height=627,overlay-ethealth,resizemode-75/industry/covid-19-cases-in-andhra-pradesh-not-a-sign-of-resurgence-doctors.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/covid-19-cases-in-andhra-pradesh-not-a-sign-of-resurgence-doctors/132364538",
-        "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-covid-19-cases-in-andhra-pradesh-not-a-sign-of-resurgence-doctors"
-      },
-      {
         "id": "2026-07-12-rpg-life-sciences-ties-up-with-archerchem-healthcare-to-launch-anti-infl",
         "title": "RPG Life Sciences ties-up with Archerchem Healthcare to launch anti-inflammatory solution in India",
         "summary": "RPG Life Sciences and Archerchem Healthcare have partnered to launch a new medication. This combination drug offers anti-inflammatory benefits with gastroprotection for patients. RPG Life Sciences will exclusively market and distribute this new product...",
@@ -313,57 +311,6 @@
         "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/news/why-selling-glp-1s-without-clinical-infrastructure-is-not-obesity-care/454344/",
         "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-why-selling-glp-1s-without-clinical-infrastructure-is-not-obesity-care"
-      },
-      {
-        "id": "2026-07-12-novo-nordisk-to-launch-lower-cost-ozempic-copy-extensior-in-south-africa",
-        "title": "Novo Nordisk to Launch Lower-Cost Ozempic Copy Extensior in South Africa",
-        "summary": "Johannesburg: Novo Nordisk will launch a more affordable authorised copy of its Ozempic diabetes drug in South Africa later this month, partnering with healthcare company Acino to expand patient...",
-        "source": "Medical Dialogues Pharma",
-        "sourceHost": "medicaldialogues.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-07-18T11:09:58.000Z",
-        "publishedLabel": "July 18, 2026",
-        "category": "Launch",
-        "image": "https://medicaldialogues.in/h-upload/2024/01/25/230934-novo-nordisk-50.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/novo-nordisk-to-launch-lower-cost-ozempic-copy-extensior-in-south-africa-175294",
-        "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-novo-nordisk-to-launch-lower-cost-ozempic-copy-extensior-in-south-africa"
-      },
-      {
-        "id": "2026-07-12-kerala-hc-examines-generic-alternative-to-costly-breast-cancer-drug",
-        "title": "Kerala HC Examines Generic Alternative to Costly Breast Cancer Drug",
-        "summary": "Kerala: The Kerala High Court has sought expert opinions from leading cancer institutes and the Drug Controller General of India (DCGI) to determine whether the generic drug Palbociclib, which is no...",
-        "source": "Medical Dialogues Pharma",
-        "sourceHost": "medicaldialogues.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-07-17T14:00:44.000Z",
-        "publishedLabel": "July 17, 2026",
-        "category": "Industry Update",
-        "image": "https://medicaldialogues.in/h-upload/2022/01/20/168675-breast-cancer-drugs.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/kerala-hc-examines-generic-alternative-to-costly-breast-cancer-drug-175246",
-        "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-kerala-hc-examines-generic-alternative-to-costly-breast-cancer-drug"
-      },
-      {
-        "id": "2026-07-12-fda-approves-first-at-home-starting-dose-for-alzheimer-s-therapy-expandi",
-        "title": "FDA Approves First At-Home Starting Dose for Alzheimer's Therapy, Expanding Access to Early Treatment",
-        "summary": "The U.S. Food and Drug Administration (FDA) has approved the first at-home starting dose for an Alzheimer's disease treatment, marking a significant advancement in the management of early Alzheimer's disease. The approval allows eligible patients to begin...",
-        "source": "PharmaTutor News",
-        "sourceHost": "pharmatutor.org",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-07-14T09:23:48.000Z",
-        "publishedLabel": "July 14, 2026",
-        "category": "Approval",
-        "image": "https://www.pharmatutor.org/sites/default/files/styles/webp/public/2026-07/fda-approves-first-at-home-starting-dose-for-alzheimers-therapy-expanding-access-to-early-treatment.png.webp?itok=ZWSmYpuy",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/fda-approves-first-at-home-starting-dose-for-alzheimers-therapy-expanding-access-to-early-treatment",
-        "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-fda-approves-first-at-home-starting-dose-for-alzheimer-s-therapy-expandi"
       },
       {
         "id": "2026-07-12-johnson-and-johnson-reports-strong-q2-2026-results-raises-full-year-outl",
@@ -468,57 +415,6 @@
         "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-european-commission-approves-novo-nordisk-s-oral-wegovy-marking-new-era-"
       },
       {
-        "id": "2026-07-12-sanofi-files-patent-lawsuit-against-moderna-over-mrna-vaccine-technology",
-        "title": "Sanofi Files Patent Lawsuit Against Moderna Over mRNA Vaccine Technology",
-        "summary": "Sanofi has filed a patent infringement lawsuit against Moderna in the U.S. District Court for the District of New Jersey, alleging that Moderna's mRNA vaccine technologies infringe a portfolio of patents originally developed by Translate Bio, a biotechnology...",
-        "source": "PharmaTutor News",
-        "sourceHost": "pharmatutor.org",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-07-16T11:18:19.000Z",
-        "publishedLabel": "July 16, 2026",
-        "category": "Industry Update",
-        "image": "https://www.pharmatutor.org/sites/default/files/styles/webp/public/2026-07/sanofi-files-patent-lawsuit-against-moderna-over-mrna-vaccine-technology.png.webp?itok=lWpaGVZR",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/sanofi-files-patent-lawsuit-against-moderna-over-mrna-vaccine-technology",
-        "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-sanofi-files-patent-lawsuit-against-moderna-over-mrna-vaccine-technology"
-      },
-      {
-        "id": "2026-07-12-fda-approves-first-generic-afatinib-tablets-for-lung-cancer-apotex-and-h",
-        "title": "FDA Approves First Generic Afatinib Tablets for Lung Cancer; Apotex and Hetero Secure U.S. Approval",
-        "summary": "The U.S. Food and Drug Administration (FDA) has approved the first generic versions of GILOTRIF (afatinib) tablets, marking an important milestone in expanding access to targeted therapy for patients with specific forms of non-small cell lung cancer (NSCLC)....",
-        "source": "PharmaTutor News",
-        "sourceHost": "pharmatutor.org",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-07-15T11:07:52.000Z",
-        "publishedLabel": "July 15, 2026",
-        "category": "Approval",
-        "image": "https://www.pharmatutor.org/sites/default/files/styles/webp/public/2026-07/fda-approves-first-generic-afatinib-tablets-for-lung-cancer-apotex-and-hetero-secure-us-approval.jpg.webp?itok=xHlKXWqK",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/fda-approves-first-generic-afatinib-tablets-for-lung-cancer-apotex-and-hetero-secure-us-approval",
-        "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-fda-approves-first-generic-afatinib-tablets-for-lung-cancer-apotex-and-h"
-      },
-      {
-        "id": "2026-07-12-tanabe-pharma-sells-manufacturing-unit-and-17-off-patent-drugs-to-towa-p",
-        "title": "Tanabe Pharma sells manufacturing unit and 17 off-patent drugs to Towa Pharmaceutical | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
-        "summary": "The transaction, announced on July 3, includes Tanabe Pharma Factory’s production facilities in Onoda and Yoshitomi.",
-        "source": "Healthcare MEA",
-        "sourceHost": "healthcaremea.com",
-        "region": "Middle East",
-        "country": "Middle East",
-        "publishedAt": "2026-07-14T07:45:00.000Z",
-        "publishedLabel": "July 14, 2026",
-        "category": "Manufacturing",
-        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/07/image-1600x900-2026-07-14T084952.449.png",
-        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": false,
-        "originalUrl": "https://www.healthcaremea.com/2026/07/14/tanabe-pharma-sells-manufacturing-unit-and-17-off-patent-drugs-to-towa-pharmaceutical/",
-        "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-tanabe-pharma-sells-manufacturing-unit-and-17-off-patent-drugs-to-towa-p"
-      },
-      {
         "id": "2026-07-12-govt-pharma-firm-md-arrested-in-alleged-rs-15-lakh-bribery-case",
         "title": "Govt Pharma Firm MD Arrested in Alleged Rs 15 Lakh Bribery Case",
         "summary": "New Delhi: The Central Bureau of Investigation (CBI) has arrested Anurag Danayak, the Managing Director of state-run Karnataka Antibiotics and Pharmaceuticals Limited (KAPL), on allegations of...",
@@ -568,23 +464,6 @@
         "justIn": false,
         "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/gujarat-state-pharmacy-council-and-ipc-launch-dedicated-pharmacovigilance-%26-medicine-safety-portal",
         "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-gujarat-state-pharmacy-council-and-ipc-launch-dedicated-pharmacovigilanc"
-      },
-      {
-        "id": "2026-07-12-fda-flags-medtronic-pulmonary-valve-delivery-system-recall-as-class-i-ov",
-        "title": "FDA Flags Medtronic Pulmonary Valve Delivery System Recall as Class I Over Risk of Catheter Tip Detachment",
-        "summary": "The U.S. Food and Drug Administration (FDA) has announced a Class I recall, its most serious recall category, for certain Medtronic Harmony™ Delivery Catheter Systems (DCS) used to implant transcatheter pulmonary valves. The recall follows concerns that a...",
-        "source": "PharmaTutor News",
-        "sourceHost": "pharmatutor.org",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-07-14T09:30:50.000Z",
-        "publishedLabel": "July 14, 2026",
-        "category": "Industry Update",
-        "image": "https://www.pharmatutor.org/sites/default/files/styles/webp/public/2026-07/fda-flags-medtronic-pulmonary-valve-delivery-system-recall-as-class-i-over-risk-of-catheter-tip-detachment.png.webp?itok=nJm2L7SC",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/fda-flags-medtronic-pulmonary-valve-delivery-system-recall-as-class-i-over-risk-of-catheter-tip-detachment",
-        "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-fda-flags-medtronic-pulmonary-valve-delivery-system-recall-as-class-i-ov"
       },
       {
         "id": "2026-07-12-cipla-gets-1-usfda-observation-for-new-york-pharma-plant",
@@ -776,23 +655,6 @@
         "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-can-prevention-deliver-both-better-health-and-better-insurance-outcomes"
       },
       {
-        "id": "2026-07-12-apollo-experts-warn-that-80-90-per-cent-of-sleep-apnoea-cases-go-undiagn",
-        "title": "Apollo experts warn that 80-90 per cent of sleep apnoea cases go undiagnosed",
-        "summary": "Sleep disorders are emerging as one of the most overlooked public health concerns in the Mumbai Metropolitan Region (MMR), with experts estimating that nearly 45-50 lakh people across Mumbai and Navi Mumbai may be living with sleep-disordered breathing, while...",
-        "source": "Express Healthcare",
-        "sourceHost": "expresshealthcare.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-07-17T05:47:51.000Z",
-        "publishedLabel": "July 17, 2026",
-        "category": "AI Care Delivery",
-        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/07/17111728/New-Project-11.jpg",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://www.expresshealthcare.in/news/apollo-experts-warn-that-80-90-per-cent-of-sleep-apnoea-cases-go-undiagnosed/454399/",
-        "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-apollo-experts-warn-that-80-90-per-cent-of-sleep-apnoea-cases-go-undiagn"
-      },
-      {
         "id": "2026-07-12-robotic-surgery-is-changing-more-than-the-way-we-operate",
         "title": "Robotic surgery is changing more than the way we operate",
         "summary": "Dr Ashwin Mallya, Senior Consultant (Urology), Sir Ganga Ram Hospital and Associate Professor of Urology, Ganga Ram Institute of Postgraduate Medical Education & Research, explains how robotic surgery is improving cancer care, reconstruction and patient...",
@@ -808,23 +670,6 @@
         "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/news/robotic-surgery-is-changing-more-than-the-way-we-operate/454329/",
         "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-robotic-surgery-is-changing-more-than-the-way-we-operate"
-      },
-      {
-        "id": "2026-07-12-mubadala-bio-launches-first-uae-made-hemodialysis-solutions-through-well",
-        "title": "Mubadala Bio launches first UAE-made hemodialysis solutions through Wellpharma | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
-        "summary": "The launch includes eight hospital-grade hemodialysis concentrate solutions designed to support the treatment of patients living with kidney failure.",
-        "source": "Healthcare MEA",
-        "sourceHost": "healthcaremea.com",
-        "region": "Middle East",
-        "country": "United Arab Emirates",
-        "publishedAt": "2026-07-14T08:33:00.000Z",
-        "publishedLabel": "July 14, 2026",
-        "category": "Hospital",
-        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/07/image-1600x900-2026-07-14T093442.601.png",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://www.healthcaremea.com/2026/07/14/mubadala-bio-launches-first-uae-made-hemodialysis-solutions-through-wellpharma/",
-        "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-mubadala-bio-launches-first-uae-made-hemodialysis-solutions-through-well"
       },
       {
         "id": "2026-07-12-dubai-investment-company-unit-to-acquire-80-stake-in-clemenceau-medical-",
@@ -953,6 +798,14 @@
   "thbActions": [
     {
       "segment": "pharma",
+      "articleId": "2026-07-12-india-uk-fta-projected-to-boost-indian-pharma-exports-by-over-8-to-981-m",
+      "title": "India-UK FTA projected to boost Indian pharma exports by over 8% to $981 million in FY27: Pharmexcil",
+      "source": "Economic Times Pharma",
+      "solution": "THB Commercial Analytics",
+      "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
+    },
+    {
+      "segment": "pharma",
       "articleId": "2026-07-12-emcure-buys-remaining-12-05-in-gennova-to-take-full-control",
       "title": "Emcure buys remaining 12.05% in Gennova to take full control",
       "source": "Economic Times Pharma",
@@ -979,14 +832,6 @@
       "segment": "pharma",
       "articleId": "2026-07-12-sun-pharma-gets-sahpra-approval-for-generic-semaglutide-injection-in-sou",
       "title": "Sun Pharma gets SAHPRA approval for generic semaglutide injection in South Africa for type 2 diabetes",
-      "source": "Economic Times Pharma",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
-      "segment": "pharma",
-      "articleId": "2026-07-12-fda-approves-at-home-starter-dose-of-eisai-biogen-alzheimer-s-drug",
-      "title": "FDA approves at-home starter dose of Eisai-Biogen Alzheimer's drug",
       "source": "Economic Times Pharma",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
