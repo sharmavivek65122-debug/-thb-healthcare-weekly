@@ -5,71 +5,19 @@
   "startDate": "2026-06-27T18:30:00.000Z",
   "endDate": "2026-07-03T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-07-23T07:05:05.107Z",
+  "updatedAt": "2026-07-23T15:32:48.858Z",
   "coverage": {
-    "pharma": 4,
-    "providers": 1,
-    "diagnostics": 3,
+    "pharma": 1,
+    "providers": 0,
+    "diagnostics": 1,
     "healthtech": 0
   },
   "sourcesUsed": [
-    "BioSpectrum Asia Middle East",
     "ET Healthworld Diagnostics",
     "Lupin Updates"
   ],
   "segments": {
     "pharma": [
-      {
-        "id": "2026-06-28-apac-is-a-fast-growing-region-where-customers-increasingly-need-speed-sc",
-        "title": "\"APAC is a fast-growing region where customers increasingly need speed, scalability, and supply reliability\"",
-        "summary": "“Supply chains across APAC are increasingly exposed to geopolitical uncertainty, evolving trade policies, regulatory fragmentation”",
-        "source": "BioSpectrum Asia Middle East",
-        "sourceHost": "biospectrumasia.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-06-30T18:30:00.000Z",
-        "publishedLabel": "July 1, 2026",
-        "category": "Industry Update",
-        "image": "https://www.biospectrumasia.com/uploads/articles/tony_qiu_high_res_jpg_1_1_1_-27934.jpeg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://www.biospectrumasia.com/opinion/25/27934/apac-is-a-fast-growing-region-where-customers-increasingly-need-speed-scalability-and-supply-reliability.html",
-        "articlePath": "/article.html?issue=2026-06-28&article=2026-06-28-apac-is-a-fast-growing-region-where-customers-increasingly-need-speed-sc"
-      },
-      {
-        "id": "2026-06-28-taiwan-leapfrogs-biomedicine-growth",
-        "title": "Taiwan Leapfrogs Biomedicine Growth",
-        "summary": "Taiwán Leapfrogs Biomedicine Growth",
-        "source": "BioSpectrum Asia Middle East",
-        "sourceHost": "biospectrumasia.com",
-        "region": "Middle East",
-        "country": "Oman",
-        "publishedAt": "2026-06-30T18:30:00.000Z",
-        "publishedLabel": "July 1, 2026",
-        "category": "Industry Update",
-        "image": "https://www.biospectrumasia.com/uploads/articles/screenshot_1_7_2026_114645_-27932.jpeg",
-        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": false,
-        "originalUrl": "https://www.biospectrumasia.com/analysis/26/27932/taiwan-leapfrogs-biomedicine-growth-.html",
-        "articlePath": "/article.html?issue=2026-06-28&article=2026-06-28-taiwan-leapfrogs-biomedicine-growth"
-      },
-      {
-        "id": "2026-06-28-revamping-and-enhancing-pharma-logistics",
-        "title": "Revamping and Enhancing Pharma Logistics",
-        "summary": "Revamping and Enhancing Pharma Logistics",
-        "source": "BioSpectrum Asia Middle East",
-        "sourceHost": "biospectrumasia.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-06-30T18:30:00.000Z",
-        "publishedLabel": "July 1, 2026",
-        "category": "Industry Update",
-        "image": "https://www.biospectrumasia.com/uploads/articles/2-27933.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://www.biospectrumasia.com/analysis/25/27933/revamping-and-enhancing-pharma-logistics-.html",
-        "articlePath": "/article.html?issue=2026-06-28&article=2026-06-28-revamping-and-enhancing-pharma-logistics"
-      },
       {
         "id": "2026-06-28-stocks-in-news-hero-motocorp-canara-bank-bharti-airtel-indian-hotels-sbi",
         "title": "Stocks in news: Hero MotoCorp, Canara Bank, Bharti Airtel, Indian Hotels, SBI",
@@ -88,25 +36,7 @@
         "articlePath": "/article.html?issue=2026-06-28&article=2026-06-28-stocks-in-news-hero-motocorp-canara-bank-bharti-airtel-indian-hotels-sbi"
       }
     ],
-    "providers": [
-      {
-        "id": "2026-06-28-urgent-need-to-eliminate-viral-hepatitis",
-        "title": "Urgent Need to Eliminate Viral Hepatitis",
-        "summary": "Urgent Need to Eliminate Viral Hepatitis",
-        "source": "BioSpectrum Asia Middle East",
-        "sourceHost": "biospectrumasia.com",
-        "region": "Middle East",
-        "country": "Oman",
-        "publishedAt": "2026-06-30T18:30:00.000Z",
-        "publishedLabel": "July 1, 2026",
-        "category": "Provider Update",
-        "image": "https://www.biospectrumasia.com/uploads/articles/cary_james_headshot_2019-27936.jpg",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://www.biospectrumasia.com/opinion/30/27936/urgent-need-to-eliminate-viral-hepatitis-.html",
-        "articlePath": "/article.html?issue=2026-06-28&article=2026-06-28-urgent-need-to-eliminate-viral-hepatitis"
-      }
-    ],
+    "providers": [],
     "diagnostics": [
       {
         "id": "2026-06-28-bengaluru-research-uses-ai-to-hunt-cervical-cancer-risk-years-before-dia",
@@ -124,69 +54,11 @@
         "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/diagnostics/bengaluru-research-uses-ai-to-hunt-cervical-cancer-risk-years-before-diagnosis/132060934",
         "articlePath": "/article.html?issue=2026-06-28&article=2026-06-28-bengaluru-research-uses-ai-to-hunt-cervical-cancer-risk-years-before-dia"
-      },
-      {
-        "id": "2026-06-28-going-local-the-new-apac-diagnostics-playbook",
-        "title": "Going Local: The New APAC Diagnostics Playbook",
-        "summary": "Going Local: The New APAC Diagnostics Playbook",
-        "source": "BioSpectrum Asia Middle East",
-        "sourceHost": "biospectrumasia.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-06-30T18:30:00.000Z",
-        "publishedLabel": "July 1, 2026",
-        "category": "Diagnostics",
-        "image": "https://www.biospectrumasia.com/uploads/articles/screenshot_1_7_2026_114213_-27930.jpeg",
-        "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
-        "justIn": false,
-        "originalUrl": "https://www.biospectrumasia.com/analysis/105/27930/going-local-the-new-apac-diagnostics-playbook.html",
-        "articlePath": "/article.html?issue=2026-06-28&article=2026-06-28-going-local-the-new-apac-diagnostics-playbook"
-      },
-      {
-        "id": "2026-06-28-how-testing-is-reshaping-front-door-of-care-in-thailand",
-        "title": "How Testing is Reshaping Front Door of Care in Thailand",
-        "summary": "How testing is Reshaping Front Door of Care in Thailand",
-        "source": "BioSpectrum Asia Middle East",
-        "sourceHost": "biospectrumasia.com",
-        "region": "Middle East",
-        "country": "Oman",
-        "publishedAt": "2026-06-30T18:30:00.000Z",
-        "publishedLabel": "July 1, 2026",
-        "category": "Industry Update",
-        "image": "https://www.biospectrumasia.com/uploads/articles/ashish_kaul_2_1-27935.jpg",
-        "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
-        "justIn": false,
-        "originalUrl": "https://www.biospectrumasia.com/opinion/105/27935/how-testing-is-reshaping-front-door-of-care-in-thailand.html",
-        "articlePath": "/article.html?issue=2026-06-28&article=2026-06-28-how-testing-is-reshaping-front-door-of-care-in-thailand"
       }
     ],
     "healthtech": []
   },
   "thbActions": [
-    {
-      "segment": "pharma",
-      "articleId": "2026-06-28-apac-is-a-fast-growing-region-where-customers-increasingly-need-speed-sc",
-      "title": "\"APAC is a fast-growing region where customers increasingly need speed, scalability, and supply reliability\"",
-      "source": "BioSpectrum Asia Middle East",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
-      "segment": "pharma",
-      "articleId": "2026-06-28-taiwan-leapfrogs-biomedicine-growth",
-      "title": "Taiwan Leapfrogs Biomedicine Growth",
-      "source": "BioSpectrum Asia Middle East",
-      "solution": "THB Commercial Analytics",
-      "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
-    },
-    {
-      "segment": "pharma",
-      "articleId": "2026-06-28-revamping-and-enhancing-pharma-logistics",
-      "title": "Revamping and Enhancing Pharma Logistics",
-      "source": "BioSpectrum Asia Middle East",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
     {
       "segment": "pharma",
       "articleId": "2026-06-28-stocks-in-news-hero-motocorp-canara-bank-bharti-airtel-indian-hotels-sbi",
@@ -196,34 +68,10 @@
       "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
     },
     {
-      "segment": "providers",
-      "articleId": "2026-06-28-urgent-need-to-eliminate-viral-hepatitis",
-      "title": "Urgent Need to Eliminate Viral Hepatitis",
-      "source": "BioSpectrum Asia Middle East",
-      "solution": "THB Provider CRM",
-      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
-    },
-    {
       "segment": "diagnostics",
       "articleId": "2026-06-28-bengaluru-research-uses-ai-to-hunt-cervical-cancer-risk-years-before-dia",
       "title": "Bengaluru research uses AI to hunt cervical cancer risk years before diagnosis",
       "source": "ET Healthworld Diagnostics",
-      "solution": "THB Diagnostics CRM",
-      "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
-    },
-    {
-      "segment": "diagnostics",
-      "articleId": "2026-06-28-going-local-the-new-apac-diagnostics-playbook",
-      "title": "Going Local: The New APAC Diagnostics Playbook",
-      "source": "BioSpectrum Asia Middle East",
-      "solution": "THB Diagnostics CRM",
-      "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
-    },
-    {
-      "segment": "diagnostics",
-      "articleId": "2026-06-28-how-testing-is-reshaping-front-door-of-care-in-thailand",
-      "title": "How Testing is Reshaping Front Door of Care in Thailand",
-      "source": "BioSpectrum Asia Middle East",
       "solution": "THB Diagnostics CRM",
       "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
     }
