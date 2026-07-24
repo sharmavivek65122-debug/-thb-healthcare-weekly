@@ -5,108 +5,21 @@
   "startDate": "2026-07-11T18:30:00.000Z",
   "endDate": "2026-07-17T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-07-23T15:32:48.858Z",
+  "updatedAt": "2026-07-24T07:06:17.056Z",
   "coverage": {
-    "pharma": 13,
-    "providers": 10,
+    "pharma": 8,
+    "providers": 9,
     "diagnostics": 2,
     "healthtech": 0
   },
   "sourcesUsed": [
     "ET Healthworld",
     "ET Healthworld Hospitals",
-    "Economic Times Pharma",
     "Express Healthcare Posts",
-    "PharmaTutor News",
-    "Zawya Pharmaceuticals"
+    "PharmaTutor News"
   ],
   "segments": {
     "pharma": [
-      {
-        "id": "2026-07-12-india-uk-fta-projected-to-boost-indian-pharma-exports-by-over-8-to-981-m",
-        "title": "India-UK FTA projected to boost Indian pharma exports by over 8% to $981 million in FY27: Pharmexcil",
-        "summary": "Indian pharmaceutical exports to the United Kingdom are projected to grow significantly. The India-UK Comprehensive Economic and Trade Agreement will eliminate tariffs on most products. This pact is expected to enhance the competitiveness of Indian generic...",
-        "source": "Economic Times Pharma",
-        "sourceHost": "economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-07-16T08:10:40.000Z",
-        "publishedLabel": "July 16, 2026",
-        "category": "Industry Update",
-        "image": "https://img.etimg.com/thumb/msid-132433411,width-1200,height-630,imgsize-103122,overlay-economictimes/articleshow.jpg",
-        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": false,
-        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/india-uk-fta-projected-to-boost-indian-pharma-exports-by-over-8-to-981-million-in-fy27-pharmexcil/articleshow/132433345.cms",
-        "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-india-uk-fta-projected-to-boost-indian-pharma-exports-by-over-8-to-981-m"
-      },
-      {
-        "id": "2026-07-12-pharma-exports-to-uk-may-rise-up-to-10-in-fy27-as-ceta-takes-effect",
-        "title": "Pharma exports to UK may rise up to 10% in FY27 as CETA takes effect",
-        "summary": "India's pharmaceutical exports to the UK are set to witness substantial growth thanks to the recently negotiated Comprehensive Economic and Trade Agreement. This groundbreaking agreement removes almost all tariffs on Indian drug products, enhancing the...",
-        "source": "Economic Times Pharma",
-        "sourceHost": "economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-07-16T18:53:28.000Z",
-        "publishedLabel": "July 17, 2026",
-        "category": "Industry Update",
-        "image": "https://img.etimg.com/thumb/msid-132447257,width-1200,height-630,imgsize-90320,overlay-economictimes/articleshow.jpg",
-        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": false,
-        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/pharma-exports-to-uk-may-rise-up-to-10-in-fy27-as-ceta-takes-effect/articleshow/132447184.cms",
-        "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-pharma-exports-to-uk-may-rise-up-to-10-in-fy27-as-ceta-takes-effect"
-      },
-      {
-        "id": "2026-07-12-serum-institute-partners-with-gates-mri-to-make-experimental-tb-vaccine",
-        "title": "Serum Institute partners with Gates MRI to make experimental TB vaccine",
-        "summary": "Serum Institute will manufacture an experimental tuberculosis vaccine. This novel vaccine candidate is currently in late-stage clinical trials. Gates Medical Research Institute will transfer manufacturing technology and know-how. The company plans to invest...",
-        "source": "Economic Times Pharma",
-        "sourceHost": "economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-07-16T16:40:01.000Z",
-        "publishedLabel": "July 16, 2026",
-        "category": "Clinical Trial",
-        "image": "https://img.etimg.com/thumb/msid-132444051,width-1200,height-630,imgsize-110568,overlay-economictimes/articleshow.jpg",
-        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": false,
-        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/serum-institute-partners-with-gates-mri-to-make-experimental-tb-vaccine/articleshow/132443817.cms",
-        "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-serum-institute-partners-with-gates-mri-to-make-experimental-tb-vaccine"
-      },
-      {
-        "id": "2026-07-12-novo-nordisk-s-obesity-drug-wegovy-wins-india-approval-to-fight-silent-f",
-        "title": "Novo Nordisk's obesity drug Wegovy wins India approval to fight silent fatty liver killer",
-        "summary": "India's drug regulator approved Novo Nordisk's Wegovy for MASH treatment. This drug targets a serious progressive form of fatty liver disease. The approval follows a committee recommendation for adults with moderate to advanced liver fibrosis. Wegovy,...",
-        "source": "Economic Times Pharma",
-        "sourceHost": "economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-07-17T08:48:03.000Z",
-        "publishedLabel": "July 17, 2026",
-        "category": "Approval",
-        "image": "https://img.etimg.com/thumb/msid-132457141,width-1200,height-630,imgsize-51808,overlay-economictimes/articleshow.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/novo-nordisks-obesity-drug-wegovy-wins-india-approval-to-fight-silent-fatty-liver-killer/articleshow/132457131.cms",
-        "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-novo-nordisk-s-obesity-drug-wegovy-wins-india-approval-to-fight-silent-f"
-      },
-      {
-        "id": "2026-07-12-kota-kidney-damage-victims-seek-euthanasia-or-treatment-in-plea-to-presi",
-        "title": "Kota kidney damage victims seek euthanasia or treatment in plea to President",
-        "summary": "Five women demand euthanasia after suffering kidney damage post C-section surgeries. They allege negligence and substandard drugs caused their critical health condition. Families face financial distress as husbands provide constant care for the ailing women....",
-        "source": "Economic Times Pharma",
-        "sourceHost": "economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-07-16T02:11:03.000Z",
-        "publishedLabel": "July 16, 2026",
-        "category": "Industry Update",
-        "image": "https://img.etimg.com/thumb/msid-132427801,width-1200,height-630,imgsize-117732,overlay-economictimes/articleshow.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/kota-kidney-damage-victims-seek-euthanasia-or-treatment-in-plea-to-president/articleshow/132427792.cms",
-        "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-kota-kidney-damage-victims-seek-euthanasia-or-treatment-in-plea-to-presi"
-      },
       {
         "id": "2026-07-12-ab-pm-jay-facilitated-cashless-treatment-worth-rs-1-91l-cr-through-37k-h",
         "title": "AB PM-JAY facilitated cashless treatment worth Rs 1.91L cr through 37K hospitals: MoS Health",
@@ -397,23 +310,6 @@
         "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/news/robotic-surgery-is-changing-more-than-the-way-we-operate/454329/",
         "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-robotic-surgery-is-changing-more-than-the-way-we-operate"
-      },
-      {
-        "id": "2026-07-12-video-investcorp-s-guardian-fire-acquires-midwest-protection-in-us-expan",
-        "title": "VIDEO: Investcorp’s Guardian Fire acquires Midwest Protection in US expansion push",
-        "summary": "US-based Guardian Fire Services, a portfolio company of Bahraini alternative investment firm Investcorp, has acquired Nebraska-based fire and life safety solutions provider Midwest Protection Services",
-        "source": "Zawya Pharmaceuticals",
-        "sourceHost": "zawya.com",
-        "region": "Middle East",
-        "country": "Bahrain",
-        "publishedAt": "2026-07-17T07:43:20.506Z",
-        "publishedLabel": "July 17, 2026",
-        "category": "Expansion",
-        "image": "https://media.zawya.com/prod/images/gm_preview/70d6d8f56554-gettyimages-1189508088.jpg",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://www.zawya.com/en/multimedia/video-investcorps-guardian-fire-acquires-midwest-protection-in-us-expansion-push-396522",
-        "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-video-investcorp-s-guardian-fire-acquires-midwest-protection-in-us-expan"
       }
     ],
     "diagnostics": [
@@ -457,41 +353,41 @@
   "thbActions": [
     {
       "segment": "pharma",
-      "articleId": "2026-07-12-india-uk-fta-projected-to-boost-indian-pharma-exports-by-over-8-to-981-m",
-      "title": "India-UK FTA projected to boost Indian pharma exports by over 8% to $981 million in FY27: Pharmexcil",
-      "source": "Economic Times Pharma",
-      "solution": "THB Commercial Analytics",
-      "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
-    },
-    {
-      "segment": "pharma",
-      "articleId": "2026-07-12-pharma-exports-to-uk-may-rise-up-to-10-in-fy27-as-ceta-takes-effect",
-      "title": "Pharma exports to UK may rise up to 10% in FY27 as CETA takes effect",
-      "source": "Economic Times Pharma",
-      "solution": "THB Commercial Analytics",
-      "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
-    },
-    {
-      "segment": "pharma",
-      "articleId": "2026-07-12-serum-institute-partners-with-gates-mri-to-make-experimental-tb-vaccine",
-      "title": "Serum Institute partners with Gates MRI to make experimental TB vaccine",
-      "source": "Economic Times Pharma",
-      "solution": "THB Commercial Analytics",
-      "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
-    },
-    {
-      "segment": "pharma",
-      "articleId": "2026-07-12-novo-nordisk-s-obesity-drug-wegovy-wins-india-approval-to-fight-silent-f",
-      "title": "Novo Nordisk's obesity drug Wegovy wins India approval to fight silent fatty liver killer",
-      "source": "Economic Times Pharma",
+      "articleId": "2026-07-12-ab-pm-jay-facilitated-cashless-treatment-worth-rs-1-91l-cr-through-37k-h",
+      "title": "AB PM-JAY facilitated cashless treatment worth Rs 1.91L cr through 37K hospitals: MoS Health",
+      "source": "ET Healthworld",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
     },
     {
       "segment": "pharma",
-      "articleId": "2026-07-12-kota-kidney-damage-victims-seek-euthanasia-or-treatment-in-plea-to-presi",
-      "title": "Kota kidney damage victims seek euthanasia or treatment in plea to President",
-      "source": "Economic Times Pharma",
+      "articleId": "2026-07-12-why-healthcare-s-future-lies-in-connected-ecosystems",
+      "title": "Why healthcare’s future lies in connected ecosystems",
+      "source": "Express Healthcare Posts",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "pharma",
+      "articleId": "2026-07-12-why-selling-glp-1s-without-clinical-infrastructure-is-not-obesity-care",
+      "title": "Why selling GLP-1s without clinical infrastructure is not obesity care",
+      "source": "Express Healthcare Posts",
+      "solution": "THB Commercial Analytics",
+      "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
+    },
+    {
+      "segment": "pharma",
+      "articleId": "2026-07-12-johnson-and-johnson-reports-strong-q2-2026-results-raises-full-year-outl",
+      "title": "Johnson & Johnson Reports Strong Q2 2026 Results, Raises Full-Year Outlook",
+      "source": "PharmaTutor News",
+      "solution": "THB Commercial Analytics",
+      "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
+    },
+    {
+      "segment": "pharma",
+      "articleId": "2026-07-12-fda-clears-first-daily-oral-pcsk9-pill-for-high-cholesterol",
+      "title": "FDA Clears First Daily Oral PCSK9 Pill for High Cholesterol",
+      "source": "PharmaTutor News",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
     },
