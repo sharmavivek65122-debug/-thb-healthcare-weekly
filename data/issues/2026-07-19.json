@@ -5,11 +5,11 @@
   "startDate": "2026-07-18T18:30:00.000Z",
   "endDate": "2026-07-24T18:30:00.000Z",
   "status": "live",
-  "updatedAt": "2026-07-24T15:13:24.599Z",
+  "updatedAt": "2026-07-25T06:37:32.924Z",
   "coverage": {
     "pharma": 50,
-    "providers": 14,
-    "diagnostics": 9,
+    "providers": 11,
+    "diagnostics": 6,
     "healthtech": 1
   },
   "sourcesUsed": [
@@ -19,6 +19,7 @@
     "Economic Times Pharma",
     "Express Healthcare",
     "Healthcare MEA",
+    "Janssen India Media",
     "Lupin Updates",
     "Medical Dialogues Pharma",
     "PharmaTutor News",
@@ -192,7 +193,7 @@
         "category": "Deal",
         "image": "https://img.etimg.com/thumb/msid-132602521,width-1200,height-630,imgsize-636907,overlay-economictimes/articleshow.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/pharma-deal-activity-hits-four-quarter-low-but-mega-sun-pharma-acquisition-drives-value/articleshow/132602549.cms",
         "articlePath": "/article.html?issue=2026-07-19&article=2026-07-19-pharma-deal-activity-hits-four-quarter-low-but-mega-sun-pharma-acquisiti"
       },
@@ -282,6 +283,23 @@
         "articlePath": "/article.html?issue=2026-07-19&article=2026-07-19-trump-announces-new-generic-drugs-tariff-plan-no-tariffs-for-2-years-the"
       },
       {
+        "id": "2026-07-19-bain-capital-acquires-vitabiotics-uk-nutraceutical-giant-with-india-s-me",
+        "title": "Bain Capital acquires Vitabiotics: UK nutraceutical giant with India’s Meyer Organics valued at $850-900 m..",
+        "summary": "Private equity firm Bain Capital has agreed to acquire UK-based nutraceutical company Vitabiotics, expanding its presence in the global wellness and supplements market. The deal covers Vitabiotics’ UK business, India’s Meyer Organics and operations in Africa....",
+        "source": "ET Healthworld",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-07-25T01:56:50.000Z",
+        "publishedLabel": "July 25, 2026",
+        "category": "Deal",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-132617418,imgsize-71582,width-1200,height=627,overlay-ethealth,resizemode-75/industry/bain-capital-acquires-vitabiotics-uk-nutraceutical-giant-with-indias-meyer-organics-valued-at-850-900-million.jpg",
+        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
+        "justIn": true,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/bain-capital-acquires-vitabiotics-uk-nutraceutical-giant-with-indias-meyer-organics-valued-at-850-900-million/132617418",
+        "articlePath": "/article.html?issue=2026-07-19&article=2026-07-19-bain-capital-acquires-vitabiotics-uk-nutraceutical-giant-with-india-s-me"
+      },
+      {
         "id": "2026-07-19-novo-nordisk-pursues-preliminary-injunction-to-block-eli-lilly-weight-lo",
         "title": "Novo Nordisk pursues preliminary injunction to block Eli Lilly weight-loss drug ads",
         "summary": "Novo Nordisk is seeking a court injunction to stop Eli Lilly's drug advertisements. The Danish company claims Lilly's ads mislead consumers about treatment comparisons. Lilly denies wrongdoing and stands by its advertising claims. Both companies compete in...",
@@ -294,7 +312,7 @@
         "category": "Industry Update",
         "image": "https://img.etimg.com/thumb/msid-132607297,width-1200,height-630,imgsize-155536,overlay-economictimes/articleshow.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/novo-nordisk-pursues-preliminary-injunction-to-block-eli-lilly-weight-loss-drug-ads/articleshow/132607199.cms",
         "articlePath": "/article.html?issue=2026-07-19&article=2026-07-19-novo-nordisk-pursues-preliminary-injunction-to-block-eli-lilly-weight-lo"
       },
@@ -311,7 +329,7 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-132603257,imgsize-71080,width-1200,height=627,overlay-ethealth,resizemode-75/industry/congos-ebola-deaths-top-1000-as-violence-and-shortages-hamper-medics.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/congos-ebola-deaths-top-1000-as-violence-and-shortages-hamper-medics/132603257",
         "articlePath": "/article.html?issue=2026-07-19&article=2026-07-19-congo-s-ebola-deaths-top-1-000-as-violence-and-shortages-hamper-medics"
       },
@@ -328,26 +346,9 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-132602671,imgsize-133002,width-1200,height=627,overlay-ethealth,resizemode-75/policy/no-reports-on-nationwide-shortage-of-anti-rabies-vaccine-nadda-tells-lok-sabha.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/policy/no-reports-on-nationwide-shortage-of-anti-rabies-vaccine-nadda-tells-lok-sabha/132602671",
         "articlePath": "/article.html?issue=2026-07-19&article=2026-07-19-no-reports-on-nationwide-shortage-of-anti-rabies-vaccine-nadda-tells-lok"
-      },
-      {
-        "id": "2026-07-19-india-has-undertaken-transformative-reforms-to-strengthen-its-healthcare",
-        "title": "India has undertaken transformative reforms to strengthen its healthcare system: J P Nadda",
-        "summary": "India hosted the 16th BRICS Health Ministers' Meeting in Chandigarh. The meeting established a network for mental wellness research and collaboration. BRICS nations adopted a declaration to deepen health cooperation and strengthen systems. Initiatives were...",
-        "source": "ET Healthworld",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-07-24T06:30:28.000Z",
-        "publishedLabel": "July 24, 2026",
-        "category": "Industry Update",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-132598105,imgsize-66654,width-1200,height=627,overlay-ethealth,resizemode-75/policy/india-has-undertaken-transformative-reforms-to-strengthen-its-healthcare-system-j-p-nadda.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/policy/india-has-undertaken-transformative-reforms-to-strengthen-its-healthcare-system-j-p-nadda/132598105",
-        "articlePath": "/article.html?issue=2026-07-19&article=2026-07-19-india-has-undertaken-transformative-reforms-to-strengthen-its-healthcare"
       },
       {
         "id": "2026-07-19-tariff-hike-by-us-will-only-increase-drug-prices-dr-reddy-s-ceo",
@@ -413,25 +414,42 @@
         "category": "Approval",
         "image": "https://img.etimg.com/thumb/msid-132599507,width-1200,height-630,imgsize-119514,overlay-economictimes/articleshow.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/organon-shareholders-approve-sun-pharmas-usd-11-75-bn-acquisition-proposal/articleshow/132599488.cms",
         "articlePath": "/article.html?issue=2026-07-19&article=2026-07-19-organon-shareholders-approve-sun-pharma-s-11-75-bn-acquisition-proposal"
       },
       {
-        "id": "2026-07-19-fssai-suspends-rehaan-healthcare-licence-over-serious-food-safety-violat",
-        "title": "FSSAI suspends Rehaan Healthcare licence over serious food safety violations",
-        "summary": "Rehaan Healthcare, which manufactures digestive syrup, multi-vitamin syrup and other syrup-based food products, has been asked to stop producing till it corrects all deficiencies and the rectification gets verified by competent Authority.",
+        "id": "2026-07-19-dr-lal-pathlabs-posts-higher-first-quarter-profit-on-healthy-demand-for-",
+        "title": "Dr Lal PathLabs posts higher first-quarter profit on healthy demand for tests",
+        "summary": "Consolidated net profit for the three months ended ‌June 30 ⁠rose to ⁠1.70 billion rupees ($17.62 million) from 1.32 billion rupees a year ​earlier.",
         "source": "ET Healthworld",
         "sourceHost": "health.economictimes.indiatimes.com",
         "region": "India",
         "country": "India",
-        "publishedAt": "2026-07-24T06:28:17.000Z",
-        "publishedLabel": "July 24, 2026",
+        "publishedAt": "2026-07-25T01:45:02.000Z",
+        "publishedLabel": "July 25, 2026",
         "category": "Industry Update",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-132597470,imgsize-74204,width-1200,height=627,overlay-ethealth,resizemode-75/policy/fssai-suspends-rehaan-healthcare-licence-over-serious-food-safety-violations.jpg",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-132617431,imgsize-78412,width-1200,height=627,overlay-ethealth,resizemode-75/diagnostics/dr-lal-pathlabs-posts-higher-first-quarter-profit-on-healthy-demand-for-tests.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/diagnostics/dr-lal-pathlabs-posts-higher-first-quarter-profit-on-healthy-demand-for-tests/132617431",
+        "articlePath": "/article.html?issue=2026-07-19&article=2026-07-19-dr-lal-pathlabs-posts-higher-first-quarter-profit-on-healthy-demand-for-"
+      },
+      {
+        "id": "2026-07-19-fssai-suspends-rehaan-healthcare-licence-over-serious-food-safety-violat",
+        "title": "FSSAI suspends Rehaan Healthcare licence over serious food safety violations",
+        "summary": "FSSAI has suspended Rehaan Healthcares licence after inspections revealed serious violations at its health supplements and nutraceutical manufacturing facility. The regulator found extremely unhygienic conditions, poor infrastructure, pest infestation,...",
+        "source": "Economic Times Pharma",
+        "sourceHost": "economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-07-24T05:38:49.000Z",
+        "publishedLabel": "July 24, 2026",
+        "category": "Manufacturing",
+        "image": "https://img.etimg.com/thumb/msid-132597302,width-1200,height-630,imgsize-111492,overlay-economictimes/articleshow.jpg",
+        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
         "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/policy/fssai-suspends-rehaan-healthcare-licence-over-serious-food-safety-violations/132597470",
+        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/fssai-suspends-rehaan-healthcare-licence-over-serious-food-safety-violations/articleshow/132597201.cms",
         "articlePath": "/article.html?issue=2026-07-19&article=2026-07-19-fssai-suspends-rehaan-healthcare-licence-over-serious-food-safety-violat"
       },
       {
@@ -447,9 +465,26 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-132602674,imgsize-81056,width-1200,height=627,overlay-ethealth,resizemode-75/policy/ap-makes-audit-mandatory-for-every-c-section-under-ntr-vaidya-seva.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/policy/ap-makes-audit-mandatory-for-every-c-section-under-ntr-vaidya-seva/132602674",
         "articlePath": "/article.html?issue=2026-07-19&article=2026-07-19-ap-makes-audit-mandatory-for-every-c-section-under-ntr-vaidya-seva"
+      },
+      {
+        "id": "2026-07-19-us-measles-cases-hit-33-year-high-cross-2-300-mark-in-2026",
+        "title": "US measles cases hit 33-year high, cross 2,300 mark in 2026",
+        "summary": "Measles cases in the United States for 2026 have now exceeded last year's total. This year's infections have reached a level not seen since 1991. Forty-three states and Washington, DC, have reported at least one case. Vaccine policy changes occurred after...",
+        "source": "ET Healthworld",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-07-25T01:39:12.000Z",
+        "publishedLabel": "July 25, 2026",
+        "category": "Industry Update",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-132617466,imgsize-42710,width-1200,height=627,overlay-ethealth,resizemode-75/industry/us-measles-cases-hit-33-year-high-cross-2300-mark-in-2026.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/us-measles-cases-hit-33-year-high-cross-2300-mark-in-2026/132617466",
+        "articlePath": "/article.html?issue=2026-07-19&article=2026-07-19-us-measles-cases-hit-33-year-high-cross-2-300-mark-in-2026"
       },
       {
         "id": "2026-07-19-brics-senior-officials-meet-in-chandigarh-to-advance-health-ministerial-",
@@ -469,23 +504,6 @@
         "articlePath": "/article.html?issue=2026-07-19&article=2026-07-19-brics-senior-officials-meet-in-chandigarh-to-advance-health-ministerial-"
       },
       {
-        "id": "2026-07-19-ipc-signs-mous-with-dsmnru-and-csir-cimap-to-strengthen-healthcare-quali",
-        "title": "IPC signs MoUs with DSMNRU and CSIR-CIMAP to strengthen healthcare quality and scientific innovation",
-        "summary": "Agreements focus on medicinal plant research, herbal medicine quality evaluation, assistive device assessment and sign language-based pharmacovigilance",
-        "source": "Express Healthcare",
-        "sourceHost": "expresshealthcare.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-07-24T06:15:57.000Z",
-        "publishedLabel": "July 24, 2026",
-        "category": "Industry Update",
-        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2019/10/14161829/GettyImages-1034279702-e1571050346795.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://www.expresshealthcare.in/news/ipc-signs-mous-with-dsmnru-and-csir-cimap-to-strengthen-healthcare-quality-and-scientific-innovation/454485/",
-        "articlePath": "/article.html?issue=2026-07-19&article=2026-07-19-ipc-signs-mous-with-dsmnru-and-csir-cimap-to-strengthen-healthcare-quali"
-      },
-      {
         "id": "2026-07-19-india-approves-first-dengue-vaccine-dcgi-clears-takeda-s-qdenga-for-peop",
         "title": "India Approves First Dengue Vaccine : DCGI Clears Takeda's QDENGA for People Aged 4-60 Years",
         "summary": "In a landmark development for dengue prevention, the Drug Controller General of India (DCGI) has granted market authorization to Takeda Biopharmaceuticals India's QDENGA (Dengue Tetravalent Vaccine [Live, Attenuated]), making it the first dengue vaccine...",
@@ -501,6 +519,23 @@
         "justIn": false,
         "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/india-approves-first-dengue-vaccine-dcgi-clears-takedas-qdenga-for-people-aged-4-60-years",
         "articlePath": "/article.html?issue=2026-07-19&article=2026-07-19-india-approves-first-dengue-vaccine-dcgi-clears-takeda-s-qdenga-for-peop"
+      },
+      {
+        "id": "2026-07-19-tecvayli-talvey-reduced-the-risk-of-disease-progression-or-death-by-89-a",
+        "title": "TECVAYLI® + TALVEY® reduced the risk of disease progression or death by 89% and the risk of death by 62% in earlier-line relapsed/refractory multiple myeloma",
+        "summary": "· Investigational MonumenTAL-6 trial is the first and only Phase 3 study of a dual antigen, BCMA and GPRC5D targeting regimen in relapsed/refractory multiple myeloma · Fifth positive Phase 3 study evaluating Johnson & Johnson's multiple myeloma T-cell therapy...",
+        "source": "Janssen India Media",
+        "sourceHost": "janssen.com",
+        "region": "Middle East",
+        "country": "Oman",
+        "publishedAt": "2026-07-23T07:14:29.683Z",
+        "publishedLabel": "July 23, 2026",
+        "category": "Industry Update",
+        "image": "https://jnj-content-lab2.brightspotcdn.com/ac/25/bd2078f54d5992dd486ed26140ce/johnson-johnson-logo.svg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://www.jnj.com/media-center/press-releases/tecvayli-talvey-reduced-the-risk-of-disease-progression-or-death-by-89-and-the-risk-of-death-by-62-in-earlier-line-relapsed-refractory-multiple-myeloma",
+        "articlePath": "/article.html?issue=2026-07-19&article=2026-07-19-tecvayli-talvey-reduced-the-risk-of-disease-progression-or-death-by-89-a"
       },
       {
         "id": "2026-07-19-explained-what-donald-trump-s-up-to-200-pharma-tariffs-mean-for-indian-i",
@@ -520,21 +555,38 @@
         "articlePath": "/article.html?issue=2026-07-19&article=2026-07-19-explained-what-donald-trump-s-up-to-200-pharma-tariffs-mean-for-indian-i"
       },
       {
-        "id": "2026-07-19-india-gets-its-first-dengue-vaccine-as-dcgi-approves-takeda-s-qdenga",
-        "title": "India Gets Its First Dengue Vaccine as DCGI Approves Takeda's QDENGA",
-        "summary": "Takeda said QDENGA is recommended by the WHO for use in dengue-endemic settings.",
+        "id": "2026-07-19-cdsco-state-drug-alert-132-drug-batches-including-telmisartan-azithromyc",
+        "title": "CDSCO State Drug Alert: 132 Drug Batches Including Telmisartan, Azithromycin Fail Quality Tests",
+        "summary": "New Delhi: In another major drug quality surveillance exercise, 132 batches of drugs, cosmetics and Ayurvedic products have been declared Not of Standard Quality (NSQ) by State Drug Testing...",
         "source": "Medical Dialogues Pharma",
         "sourceHost": "medicaldialogues.in",
         "region": "India",
         "country": "India",
-        "publishedAt": "2026-07-20T15:38:57.000Z",
-        "publishedLabel": "July 20, 2026",
+        "publishedAt": "2026-07-24T17:20:02.000Z",
+        "publishedLabel": "July 24, 2026",
         "category": "Industry Update",
-        "image": "https://medicaldialogues.in/h-upload/2023/05/17/209894-dengue-vaccine.jpg",
+        "image": "https://medicaldialogues.in/h-upload/2022/10/17/188229-drug-alert-new.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/india-gets-its-first-dengue-vaccine-as-dcgi-approves-takedas-qdenga-175400",
-        "articlePath": "/article.html?issue=2026-07-19&article=2026-07-19-india-gets-its-first-dengue-vaccine-as-dcgi-approves-takeda-s-qdenga"
+        "justIn": true,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/cdsco/cdsco-state-drug-alert-132-drug-batches-including-telmisartan-azithromycin-fail-quality-tests-175704",
+        "articlePath": "/article.html?issue=2026-07-19&article=2026-07-19-cdsco-state-drug-alert-132-drug-batches-including-telmisartan-azithromyc"
+      },
+      {
+        "id": "2026-07-19-emcure-biological-e-partner-with-icmr-to-commercialise-indigenous-cancer",
+        "title": "Emcure, Biological E Partner with ICMR to Commercialise Indigenous Cancer, Vaccine Technologies",
+        "summary": "New Delhi: The Indian Council of Medical Research (ICMR) has licensed three indigenous biomedical technologies to leading Indian pharmaceutical and vaccine manufacturers to accelerate the development,...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-07-24T16:49:26.000Z",
+        "publishedLabel": "July 24, 2026",
+        "category": "Industry Update",
+        "image": "https://medicaldialogues.in/h-upload/2026/04/10/340815-tb-vaccine.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/emcure-biological-e-partner-with-icmr-to-commercialise-indigenous-cancer-vaccine-technologies-175702",
+        "articlePath": "/article.html?issue=2026-07-19&article=2026-07-19-emcure-biological-e-partner-with-icmr-to-commercialise-indigenous-cancer"
       },
       {
         "id": "2026-07-19-us-fda-warns-almon-healthcare-over-serious-api-gmp-lapses",
@@ -549,7 +601,7 @@
         "category": "Manufacturing",
         "image": "https://www.pharmatutor.org/sites/default/files/styles/webp/public/2026-07/usfda-warns-almon-healthcare-over-serious-api-gmp-lapses.png.webp?itok=LpzUpSOg",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/us-fda-warns-almon-healthcare-over-serious-api-gmp-lapses",
         "articlePath": "/article.html?issue=2026-07-19&article=2026-07-19-us-fda-warns-almon-healthcare-over-serious-api-gmp-lapses"
       },
@@ -690,40 +742,6 @@
         "articlePath": "/article.html?issue=2026-07-19&article=2026-07-19-scientists-uncover-biomedical-promise-of-rare-atom-containing-natural-pr"
       },
       {
-        "id": "2026-07-19-msd-receives-cdsco-panel-nod-to-conduct-phase-iii-trial-of-enlicitide-de",
-        "title": "MSD Receives CDSCO Panel Nod to Conduct Phase III Trial of Enlicitide Decanoate",
-        "summary": "New Delhi: Pharmaceutical major MSD Pharmaceuticals has received a positive recommendation from the Subject Expert Committee (SEC) under the Central Drugs Standard Control Organisation (CDSCO) to...",
-        "source": "Medical Dialogues Pharma",
-        "sourceHost": "medicaldialogues.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-07-20T17:37:29.000Z",
-        "publishedLabel": "July 20, 2026",
-        "category": "Industry Update",
-        "image": "https://medicaldialogues.in/h-upload/2024/07/25/245204-msd-pharma-new-50.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/msd-receives-cdsco-panel-nod-to-conduct-phase-iii-trial-of-enlicitide-decanoate-175401",
-        "articlePath": "/article.html?issue=2026-07-19&article=2026-07-19-msd-receives-cdsco-panel-nod-to-conduct-phase-iii-trial-of-enlicitide-de"
-      },
-      {
-        "id": "2026-07-19-alembic-natco-receive-usfda-tentative-approval-for-generic-cancer-drug-o",
-        "title": "Alembic, NATCO Receive USFDA Tentative Approval for Generic Cancer Drug Olaparib",
-        "summary": "Mumbai: Alembic Pharmaceuticals Limited (Alembic) has announced that its Partner NATCO Pharma Limited (NATCO) has received tentative approval from the United States Food and Drug Administration...",
-        "source": "Medical Dialogues Pharma",
-        "sourceHost": "medicaldialogues.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-07-20T15:03:11.000Z",
-        "publishedLabel": "July 20, 2026",
-        "category": "Approval",
-        "image": "https://medicaldialogues.in/h-upload/2022/04/08/173845-partnership.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/alembic-natco-receive-usfda-tentative-approval-for-generic-cancer-drug-olaparib-175399",
-        "articlePath": "/article.html?issue=2026-07-19&article=2026-07-19-alembic-natco-receive-usfda-tentative-approval-for-generic-cancer-drug-o"
-      },
-      {
         "id": "2026-07-19-eu-panel-backs-roche-s-susvimo-opening-new-era-for-continuous-amd-treatm",
         "title": "EU Panel Backs Roche’s Susvimo, Opening New Era for Continuous AMD Treatment",
         "summary": "Roche has announced that the European Medicines Agency's Committee for Medicinal Products for Human Use (CHMP) has issued a positive opinion recommending the approval of Susvimo® (ranibizumab) for the treatment of neovascular age-related macular degeneration...",
@@ -736,7 +754,7 @@
         "category": "Approval",
         "image": "https://www.pharmatutor.org/sites/default/files/styles/webp/public/2026-07/eu-panel-backs-roches-susvimo-opening-new-era-for-continuous-amd-treatment.png.webp?itok=eT0robtE",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/eu-panel-backs-roches-susvimo-opening-new-era-for-continuous-amd-treatment",
         "articlePath": "/article.html?issue=2026-07-19&article=2026-07-19-eu-panel-backs-roche-s-susvimo-opening-new-era-for-continuous-amd-treatm"
       },
@@ -855,26 +873,9 @@
         "category": "Industry Update",
         "image": "https://www.pharmatutor.org/sites/default/files/styles/webp/public/2026-07/usfda-issues-warning-letter-to-alembic-pharmaceuticals-over-clinical-study-consent-process.png.webp?itok=cLhnCGEk",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/usfda-issues-warning-letter-to-alembic-pharmaceuticals-over-clinical-study-consent-process",
         "articlePath": "/article.html?issue=2026-07-19&article=2026-07-19-us-fda-issues-warning-letter-to-alembic-pharmaceuticals-over-clinical-st"
-      },
-      {
-        "id": "2026-07-19-mozambique-launches-action-plan-for-child-survival-2026-2030-to-combat-c",
-        "title": "Mozambique launches Action Plan for Child Survival 2026-2030 to combat child mortality | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
-        "summary": "In Mozambique, the 2022–2023 Demographic and Health Survey places the under-five mortality rate at 60 deaths per 1,000 live births.",
-        "source": "Healthcare MEA",
-        "sourceHost": "healthcaremea.com",
-        "region": "Middle East",
-        "country": "Middle East",
-        "publishedAt": "2026-07-24T08:45:00.000Z",
-        "publishedLabel": "July 24, 2026",
-        "category": "Manufacturing",
-        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/07/image-1600x900-2026-07-24T120502.906.png",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
-        "originalUrl": "https://www.healthcaremea.com/2026/07/24/mozambique-launches-action-plan-for-child-survival-2026-2030-to-combat-child-mortality/",
-        "articlePath": "/article.html?issue=2026-07-19&article=2026-07-19-mozambique-launches-action-plan-for-child-survival-2026-2030-to-combat-c"
       }
     ],
     "providers": [
@@ -908,43 +909,9 @@
         "category": "Hospital",
         "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2022/10/27115339/IPO-1.jpg",
         "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/news/manipal-health-enterprises-sets-ipo-issue-opens-on-july-29/454489/",
         "articlePath": "/article.html?issue=2026-07-19&article=2026-07-19-manipal-health-enterprises-sets-ipo-issue-opens-on-july-29"
-      },
-      {
-        "id": "2026-07-19-eplane-company-apollo-hospitals-partner-to-introduce-electric-air-ambula",
-        "title": "ePlane Company, Apollo Hospitals partner to introduce electric air ambulances and medical drones in India",
-        "summary": "Partnership aims to improve access to trauma care by reducing the time between emergencies and treatment through electric air ambulances and medical delivery drones",
-        "source": "Express Healthcare",
-        "sourceHost": "expresshealthcare.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-07-23T08:58:26.000Z",
-        "publishedLabel": "July 23, 2026",
-        "category": "Hospital",
-        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2024/05/06160305/Ambulance-Edit.jpg",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://www.expresshealthcare.in/news/eplane-company-apollo-hospitals-partner-to-introduce-electric-air-ambulances-and-medical-drones-in-india/454477/",
-        "articlePath": "/article.html?issue=2026-07-19&article=2026-07-19-eplane-company-apollo-hospitals-partner-to-introduce-electric-air-ambula"
-      },
-      {
-        "id": "2026-07-19-aiims-nagpur-signs-mou-for-800-bed-vishram-gruh-bsl-iii-lab",
-        "title": "AIIMS Nagpur signs MoU for 800-bed Vishram Gruh, BSL-III lab",
-        "summary": "Institute signs agreements for patient accommodation and infectious disease research while being designated a Centre for Secondary Medical Management of CBRNE emergencies",
-        "source": "Express Healthcare",
-        "sourceHost": "expresshealthcare.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-07-23T06:30:36.000Z",
-        "publishedLabel": "July 23, 2026",
-        "category": "Patient Care",
-        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2021/06/24162547/signing-agreement.jpg",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://www.expresshealthcare.in/news/aiims-nagpur-signs-mou-for-800-bed-vishram-gruh-bsl-iii-lab/454473/",
-        "articlePath": "/article.html?issue=2026-07-19&article=2026-07-19-aiims-nagpur-signs-mou-for-800-bed-vishram-gruh-bsl-iii-lab"
       },
       {
         "id": "2026-07-19-saudi-german-health-designates-dataflow-group-as-official-primary-source",
@@ -959,7 +926,7 @@
         "category": "Provider Update",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/07/image-1600x900-2026-07-24T104122.569.png",
         "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/07/24/saudi-german-health-designates-dataflow-group-as-official-primary-source-verification-partner/",
         "articlePath": "/article.html?issue=2026-07-19&article=2026-07-19-saudi-german-health-designates-dataflow-group-as-official-primary-source"
       },
@@ -1010,26 +977,9 @@
         "category": "AI Care Delivery",
         "image": "https://media.zawya.com/prod/images/gm_preview/3c954475f081-gettyimages-1275812392.jpg",
         "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.zawya.com/en/capital-markets/mena-bond-issuance-to-remain-elevated-and-growing-in-h2-despite-iran-conflict-408689",
         "articlePath": "/article.html?issue=2026-07-19&article=2026-07-19-mena-bond-issuance-to-remain-elevated-and-growing-in-h2-despite-iran-con"
-      },
-      {
-        "id": "2026-07-19-kuwait-raises-6bln-in-bond-sale-after-orders-top-14-75bln",
-        "title": "Kuwait raises $6bln in bond sale after orders top $14.75bln",
-        "summary": "Citi acted as the billing and delivery bank on the shortest tenor, followed by Goldman Sachs on the five-year and JP Morgan on the 10-year bond",
-        "source": "Zawya Pharmaceuticals",
-        "sourceHost": "zawya.com",
-        "region": "Middle East",
-        "country": "Kuwait",
-        "publishedAt": "2026-07-23T05:33:17.952Z",
-        "publishedLabel": "July 23, 2026",
-        "category": "AI Care Delivery",
-        "image": "https://media.zawya.com/prod/images/gm_preview/e580aabfc467-gettyimages-548407057.jpg",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://www.zawya.com/en/capital-markets/kuwait-raises-6bln-in-bond-sale-after-orders-top-14.75bln-406739",
-        "articlePath": "/article.html?issue=2026-07-19&article=2026-07-19-kuwait-raises-6bln-in-bond-sale-after-orders-top-14-75bln"
       },
       {
         "id": "2026-07-19-cleaner-earns-more-than-me-pharmacist-s-viral-video-sparks-healthcare-sa",
@@ -1047,6 +997,23 @@
         "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/cleaner-earns-more-than-me-pharmacists-viral-video-sparks-healthcare-salary-debate-175529",
         "articlePath": "/article.html?issue=2026-07-19&article=2026-07-19-cleaner-earns-more-than-me-pharmacist-s-viral-video-sparks-healthcare-sa"
+      },
+      {
+        "id": "2026-07-19-abu-dhabi-commercial-bank-q2-net-profit-rises-31",
+        "title": "Abu Dhabi Commercial Bank Q2 net profit rises 31%",
+        "summary": "Impairment charges declined 55% YoY to AED638 million",
+        "source": "Zawya Pharmaceuticals",
+        "sourceHost": "zawya.com",
+        "region": "Middle East",
+        "country": "United Arab Emirates",
+        "publishedAt": "2026-07-23T12:41:02.457Z",
+        "publishedLabel": "July 23, 2026",
+        "category": "AI Care Delivery",
+        "image": "https://media.zawya.com/prod/images/gm_preview/93c785fa9819-210426033318oaln-jpg.webp",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": true,
+        "originalUrl": "https://www.zawya.com/en/special-coverage/abu-dhabi-focus/abu-dhabi-commercial-bank-q2-net-profit-rises-31-407521",
+        "articlePath": "/article.html?issue=2026-07-19&article=2026-07-19-abu-dhabi-commercial-bank-q2-net-profit-rises-31"
       },
       {
         "id": "2026-07-19-uae-s-biggest-bank-fab-q2-profit-up-4-beats-estimate",
@@ -1098,23 +1065,6 @@
         "justIn": false,
         "originalUrl": "https://www.zawya.com/en/economy/gcc/novo-nordisk-names-new-general-manager-for-gcc-404192",
         "articlePath": "/article.html?issue=2026-07-19&article=2026-07-19-novo-nordisk-names-new-general-manager-for-gcc"
-      },
-      {
-        "id": "2026-07-19-saudi-riyad-bank-launches-sar5bln-at1-sukuk-offering",
-        "title": "Saudi Riyad Bank launches SAR5bln AT1 sukuk offering",
-        "summary": "The perpetual sukuk carries a fixed annual profit rate of 6.50%",
-        "source": "Zawya Pharmaceuticals",
-        "sourceHost": "zawya.com",
-        "region": "Middle East",
-        "country": "Saudi Arabia",
-        "publishedAt": "2026-07-21T07:38:49.093Z",
-        "publishedLabel": "July 21, 2026",
-        "category": "Provider Update",
-        "image": "https://media.zawya.com/prod/images/gm_preview/912c529be28d-gettyimages-1002741390-1.jpg",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://www.zawya.com/en/economy/islamic-economy/saudi-riyad-bank-launches-sar5bln-at1-sukuk-offering-403840",
-        "articlePath": "/article.html?issue=2026-07-19&article=2026-07-19-saudi-riyad-bank-launches-sar5bln-at1-sukuk-offering"
       }
     ],
     "diagnostics": [
@@ -1131,7 +1081,7 @@
         "category": "Diagnostics",
         "image": "https://etimg.etb2bimg.com/thumb/msid-132583419,imgsize-99472,width-1200,height=627,overlay-ethealth,resizemode-75/diagnostics/thyrocare-posts-240-cr-in-q1-fy27-profit-climbs-34.jpg",
         "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/diagnostics/thyrocare-posts-240-cr-in-q1-fy27-profit-climbs-34/132583419",
         "articlePath": "/article.html?issue=2026-07-19&article=2026-07-19-thyrocare-posts-240-cr-in-q1-fy27-profit-climbs-34"
       },
@@ -1153,40 +1103,6 @@
         "articlePath": "/article.html?issue=2026-07-19&article=2026-07-19-agilus-diagnostics-names-vijender-singh-as-md-and-ceo"
       },
       {
-        "id": "2026-07-19-monsoon-infections-experts-call-for-early-laboratory-testing-to-improve-",
-        "title": "Monsoon infections: Experts call for early laboratory testing to improve diagnosis and treatment",
-        "summary": "Mahajan Imaging & Labs webinar highlights the role of laboratory diagnostics in identifying seasonal infections and reducing delays in treatment",
-        "source": "Express Healthcare",
-        "sourceHost": "expresshealthcare.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-07-23T10:50:22.000Z",
-        "publishedLabel": "July 23, 2026",
-        "category": "Diagnostics",
-        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2020/01/21151026/Doctors.jpg",
-        "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
-        "justIn": false,
-        "originalUrl": "https://www.expresshealthcare.in/news/monsoon-infections-experts-call-for-early-laboratory-testing-to-improve-diagnosis-and-treatment/454479/",
-        "articlePath": "/article.html?issue=2026-07-19&article=2026-07-19-monsoon-infections-experts-call-for-early-laboratory-testing-to-improve-"
-      },
-      {
-        "id": "2026-07-19-old-machines-new-hope-can-refurbished-radiology-bridge-india-s-imaging-g",
-        "title": "Old machines, new hope: Can refurbished radiology bridge India’s imaging gap?",
-        "summary": "Refurbished MRI and CT scanners are helping smaller hospitals offer big-city diagnostics at a fraction of the cost",
-        "source": "Express Healthcare",
-        "sourceHost": "expresshealthcare.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-07-24T09:10:56.000Z",
-        "publishedLabel": "July 24, 2026",
-        "category": "Diagnostics",
-        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2020/01/23153100/eh-radiology-001.jpg",
-        "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
-        "justIn": true,
-        "originalUrl": "https://www.expresshealthcare.in/news/old-machines-new-hope-can-refurbished-radiology-bridge-indias-imaging-gap/454487/",
-        "articlePath": "/article.html?issue=2026-07-19&article=2026-07-19-old-machines-new-hope-can-refurbished-radiology-bridge-india-s-imaging-g"
-      },
-      {
         "id": "2026-07-19-carpl-ai-raises-10-million-in-series-a-funding-led-by-ifc",
         "title": "CARPL.ai raises $10 million in Series A funding led by IFC",
         "summary": "Funding to support product development, partner network expansion and global growth of the radiology AI platform",
@@ -1204,23 +1120,6 @@
         "articlePath": "/article.html?issue=2026-07-19&article=2026-07-19-carpl-ai-raises-10-million-in-series-a-funding-led-by-ifc"
       },
       {
-        "id": "2026-07-19-apollo-telehealth-crosses-1-million-teleconsultations-through-keonjhar-d",
-        "title": "Apollo TeleHealth crosses 1 million teleconsultations through Keonjhar Digital Dispensary initiative",
-        "summary": "Public-private partnership in Odisha integrates teleconsultations, diagnostics, pharmacy and referral care across 66 digital dispensaries",
-        "source": "Express Healthcare",
-        "sourceHost": "expresshealthcare.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-07-24T09:36:57.000Z",
-        "publishedLabel": "July 24, 2026",
-        "category": "Diagnostics",
-        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2021/10/29141126/growth.jpg",
-        "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
-        "justIn": true,
-        "originalUrl": "https://www.expresshealthcare.in/news/apollo-telehealth-crosses-1-million-teleconsultations-through-keonjhar-digital-dispensary-initiative/454491/",
-        "articlePath": "/article.html?issue=2026-07-19&article=2026-07-19-apollo-telehealth-crosses-1-million-teleconsultations-through-keonjhar-d"
-      },
-      {
         "id": "2026-07-19-al-mokhtabar-launches-siemens-healthineers-automation-system-at-egypt-s-",
         "title": "Al Mokhtabar launches Siemens Healthineers automation system at Egypt’s Mega Lab | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
         "summary": "The Mega Lab serves as the operational hub of Al Mokhtabar’s nationwide network, which comprises more than 460 branches and provides services to approximately five million patients annually throug ...",
@@ -1233,7 +1132,7 @@
         "category": "Lab Network",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/07/image-1600x900-2026-07-24T105221.358.png",
         "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/07/24/al-mokhtabar-launches-siemens-healthineers-automation-system-at-egypts-mega-lab/",
         "articlePath": "/article.html?issue=2026-07-19&article=2026-07-19-al-mokhtabar-launches-siemens-healthineers-automation-system-at-egypt-s-"
       },
@@ -1267,7 +1166,7 @@
         "category": "Lab Network",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/07/image-1600x900-2026-07-24T110717.831.png",
         "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/07/24/uhas-mega-lab-construction-resumes-under-president-mahamas-reset-agenda/",
         "articlePath": "/article.html?issue=2026-07-19&article=2026-07-19-uhas-mega-lab-construction-resumes-under-president-mahama-s-reset-agenda"
       }
@@ -1351,24 +1250,24 @@
     },
     {
       "segment": "providers",
-      "articleId": "2026-07-19-eplane-company-apollo-hospitals-partner-to-introduce-electric-air-ambula",
-      "title": "ePlane Company, Apollo Hospitals partner to introduce electric air ambulances and medical drones in India",
-      "source": "Express Healthcare",
-      "solution": "THB Provider CRM",
-      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
-    },
-    {
-      "segment": "providers",
-      "articleId": "2026-07-19-aiims-nagpur-signs-mou-for-800-bed-vishram-gruh-bsl-iii-lab",
-      "title": "AIIMS Nagpur signs MoU for 800-bed Vishram Gruh, BSL-III lab",
-      "source": "Express Healthcare",
-      "solution": "THB Provider CRM",
-      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
-    },
-    {
-      "segment": "providers",
       "articleId": "2026-07-19-saudi-german-health-designates-dataflow-group-as-official-primary-source",
       "title": "Saudi German Health designates DataFlow Group as official primary source verification partner",
+      "source": "Healthcare MEA",
+      "solution": "THB Provider CRM",
+      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
+    },
+    {
+      "segment": "providers",
+      "articleId": "2026-07-19-saudi-german-hospital-alexandria-collaborates-with-conceive-center-to-es",
+      "title": "Saudi German Hospital Alexandria collaborates with Conceive Center to establish fertility care partnership in Egypt",
+      "source": "Healthcare MEA",
+      "solution": "THB Provider CRM",
+      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
+    },
+    {
+      "segment": "providers",
+      "articleId": "2026-07-19-abu-dhabi-stem-cells-centre-discovers-new-potential-treatment-target-for",
+      "title": "Abu Dhabi Stem Cells Centre discovers new potential treatment target for Huntington’s disease",
       "source": "Healthcare MEA",
       "solution": "THB Provider CRM",
       "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
@@ -1391,27 +1290,27 @@
     },
     {
       "segment": "diagnostics",
-      "articleId": "2026-07-19-monsoon-infections-experts-call-for-early-laboratory-testing-to-improve-",
-      "title": "Monsoon infections: Experts call for early laboratory testing to improve diagnosis and treatment",
-      "source": "Express Healthcare",
-      "solution": "THB Diagnostics CRM",
-      "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
-    },
-    {
-      "segment": "diagnostics",
-      "articleId": "2026-07-19-old-machines-new-hope-can-refurbished-radiology-bridge-india-s-imaging-g",
-      "title": "Old machines, new hope: Can refurbished radiology bridge India’s imaging gap?",
-      "source": "Express Healthcare",
-      "solution": "THB Diagnostics CRM",
-      "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
-    },
-    {
-      "segment": "diagnostics",
       "articleId": "2026-07-19-carpl-ai-raises-10-million-in-series-a-funding-led-by-ifc",
       "title": "CARPL.ai raises $10 million in Series A funding led by IFC",
       "source": "Express Healthcare",
       "solution": "THB Network Growth",
       "action": "Use this signal to position THB for diagnostics network expansion, channel partner onboarding, and visibility across spoke sites, franchises, and enterprise accounts."
+    },
+    {
+      "segment": "diagnostics",
+      "articleId": "2026-07-19-al-mokhtabar-launches-siemens-healthineers-automation-system-at-egypt-s-",
+      "title": "Al Mokhtabar launches Siemens Healthineers automation system at Egypt’s Mega Lab | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
+      "source": "Healthcare MEA",
+      "solution": "THB Diagnostics CRM",
+      "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
+    },
+    {
+      "segment": "diagnostics",
+      "articleId": "2026-07-19-kenya-receives-5-tonne-ebola-preparedness-consignment-from-government-of",
+      "title": "Kenya receives 5-tonne Ebola preparedness consignment from government of India | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
+      "source": "Healthcare MEA",
+      "solution": "THB Diagnostics CRM",
+      "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
     }
   ]
 }
