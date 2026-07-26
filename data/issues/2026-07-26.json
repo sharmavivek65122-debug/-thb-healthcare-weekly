@@ -5,18 +5,54 @@
   "startDate": "2026-07-25T18:30:00.000Z",
   "endDate": "2026-07-31T18:30:00.000Z",
   "status": "live",
-  "updatedAt": "2026-07-26T07:09:39.662Z",
+  "updatedAt": "2026-07-26T14:49:09.308Z",
   "coverage": {
-    "pharma": 3,
+    "pharma": 9,
     "providers": 0,
     "diagnostics": 0,
     "healthtech": 0
   },
   "sourcesUsed": [
+    "Economic Times Pharma",
+    "Healthcare MEA",
     "Medical Dialogues Pharma"
   ],
   "segments": {
     "pharma": [
+      {
+        "id": "2026-07-26-us-tariff-proposal-wake-up-call-for-indian-pharma-to-diversify-innovate-",
+        "title": "US tariff proposal wake-up call for Indian pharma to diversify, innovate: Experts",
+        "summary": "US pharma tariffs: Experts have urged a shift towards global diversification and prioritising innovation for Indian pharma to lessen market reliance. There are warnings that ensuring patient access to affordable medications should remain paramount.",
+        "source": "Economic Times Pharma",
+        "sourceHost": "economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-07-26T09:15:07.000Z",
+        "publishedLabel": "July 26, 2026",
+        "category": "Market",
+        "image": "https://img.etimg.com/thumb/msid-132638908,width-1200,height-630,imgsize-134336,overlay-economictimes/articleshow.jpg",
+        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
+        "justIn": true,
+        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/us-tariff-proposal-wake-up-call-for-indian-pharma-to-diversify-innovate-experts/articleshow/132638874.cms",
+        "articlePath": "/article.html?issue=2026-07-26&article=2026-07-26-us-tariff-proposal-wake-up-call-for-indian-pharma-to-diversify-innovate-"
+      },
+      {
+        "id": "2026-07-26-gsk-secures-first-lung-cancer-approval-days-after-us-10-6b-nuvalent-acqu",
+        "title": "GSK secures first lung cancer approval days after US$10.6B Nuvalent acquisition | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
+        "summary": "The US Food and Drug Administration (FDA) approved Jideytro for adults with locally advanced or metastatic ROS1-positive NSCLC who have previously received treatment with a ROS1 kinase inhibitor.",
+        "source": "Healthcare MEA",
+        "sourceHost": "healthcaremea.com",
+        "region": "Middle East",
+        "country": "Middle East",
+        "publishedAt": "2026-07-26T07:40:53.000Z",
+        "publishedLabel": "July 26, 2026",
+        "category": "Approval",
+        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/06/dl-gsk-plc-gsk-health-care-healthcare-pharmaceuticals-and-biotechnology-pharmaceuticals-ftse-100-premium-glaxosmithkline-glaxo-smith-kline-20230328-1827-1-1.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://www.healthcaremea.com/2026/07/26/gsk-secures-first-lung-cancer-approval-days-after-us10-6b-nuvalent-acquisition/",
+        "articlePath": "/article.html?issue=2026-07-26&article=2026-07-26-gsk-secures-first-lung-cancer-approval-days-after-us-10-6b-nuvalent-acqu"
+      },
       {
         "id": "2026-07-26-aurobindo-pharma-s-apitoria-to-acquire-80-stake-in-a1-biochem-cro-busine",
         "title": "Aurobindo Pharma's Apitoria to Acquire 80% Stake in A1 Biochem CRO Business for USD 17 Million",
@@ -33,6 +69,40 @@
         "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/aurobindo-pharmas-apitoria-to-acquire-80-stake-in-a1-biochem-cro-business-for-usd-17-million-175756",
         "articlePath": "/article.html?issue=2026-07-26&article=2026-07-26-aurobindo-pharma-s-apitoria-to-acquire-80-stake-in-a1-biochem-cro-busine"
+      },
+      {
+        "id": "2026-07-26-sanofi-halts-amlitelimab-atopic-dermatitis-pipeline-ahead-of-dupixent-pa",
+        "title": "Sanofi halts Amlitelimab Atopic Dermatitis pipeline ahead of dupixent patent expiry | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
+        "summary": "The latest decision marks another setback for amlitelimab, which Sanofi had previously positioned as a potential successor to Dupixent, its best-selling immunology asset.",
+        "source": "Healthcare MEA",
+        "sourceHost": "healthcaremea.com",
+        "region": "Middle East",
+        "country": "Middle East",
+        "publishedAt": "2026-07-26T08:27:55.000Z",
+        "publishedLabel": "July 26, 2026",
+        "category": "Manufacturing",
+        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/07/image-1600x900-2026-07-26T112223.517.png",
+        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
+        "justIn": true,
+        "originalUrl": "https://www.healthcaremea.com/2026/07/26/sanofi-halts-amlitelimab-atopic-dermatitis-pipeline-ahead-of-dupixent-patent-expiry/",
+        "articlePath": "/article.html?issue=2026-07-26&article=2026-07-26-sanofi-halts-amlitelimab-atopic-dermatitis-pipeline-ahead-of-dupixent-pa"
+      },
+      {
+        "id": "2026-07-26-beone-medicines-invests-us-300m-in-new-jersey-to-expand-us-onshoring-foo",
+        "title": "BeOne Medicines invests US$300M in New Jersey to expand US onshoring footprint | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
+        "summary": "The company plans to construct a new three-story, 145,000-square-foot facility for drug product manufacturing and packaging next to its existing operations.",
+        "source": "Healthcare MEA",
+        "sourceHost": "healthcaremea.com",
+        "region": "Middle East",
+        "country": "Middle East",
+        "publishedAt": "2026-07-26T07:58:30.000Z",
+        "publishedLabel": "July 26, 2026",
+        "category": "Manufacturing",
+        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/07/image-1600x900-2026-07-26T105445.679.png",
+        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
+        "justIn": true,
+        "originalUrl": "https://www.healthcaremea.com/2026/07/26/beone-medicines-invests-us300m-in-new-jersey-to-expand-us-onshoring-footprint/",
+        "articlePath": "/article.html?issue=2026-07-26&article=2026-07-26-beone-medicines-invests-us-300m-in-new-jersey-to-expand-us-onshoring-foo"
       },
       {
         "id": "2026-07-26-akums-arm-to-acquire-oriflame-india-s-manufacturing-facilities-for-rs-56",
@@ -52,6 +122,23 @@
         "articlePath": "/article.html?issue=2026-07-26&article=2026-07-26-akums-arm-to-acquire-oriflame-india-s-manufacturing-facilities-for-rs-56"
       },
       {
+        "id": "2026-07-26-nyu-abu-dhabi-researchers-uncover-hidden-vulnerability-in-malaria-parasi",
+        "title": "NYU Abu Dhabi researchers uncover hidden vulnerability in malaria parasite | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
+        "summary": "This highly specific dependence could provide an opportunity for researchers to investigate new approaches to malaria treatment by targeting the parasite's ability to obtain or use these fats.",
+        "source": "Healthcare MEA",
+        "sourceHost": "healthcaremea.com",
+        "region": "Middle East",
+        "country": "United Arab Emirates",
+        "publishedAt": "2026-07-26T09:03:25.000Z",
+        "publishedLabel": "July 26, 2026",
+        "category": "Manufacturing",
+        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/07/image-1600x900-2026-07-26T115928.012.png",
+        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
+        "justIn": true,
+        "originalUrl": "https://www.healthcaremea.com/2026/07/26/nyu-abu-dhabi-researchers-uncover-hidden-vulnerability-in-malaria-parasite/",
+        "articlePath": "/article.html?issue=2026-07-26&article=2026-07-26-nyu-abu-dhabi-researchers-uncover-hidden-vulnerability-in-malaria-parasi"
+      },
+      {
         "id": "2026-07-26-amgen-seeks-fda-hearing-files-new-data-to-prevent-tavneos-market-withdra",
         "title": "Amgen Seeks FDA Hearing, Files New Data to Prevent Tavneos Market Withdrawal",
         "summary": "Bengaluru: Amgen said on Friday it submitted new evidence to the FDA on July 23 as it seeks a hearing to challenge the proposed withdrawal of its rare-disease drug Tavneos from the U.S. market.The...",
@@ -67,6 +154,23 @@
         "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/amgen-seeks-fda-hearing-files-new-data-to-prevent-tavneos-market-withdrawal-175752",
         "articlePath": "/article.html?issue=2026-07-26&article=2026-07-26-amgen-seeks-fda-hearing-files-new-data-to-prevent-tavneos-market-withdra"
+      },
+      {
+        "id": "2026-07-26-panacea-biotec-arm-slapped-with-gst-show-cause-notice-over-rs-4-06-crore",
+        "title": "Panacea Biotec Arm Slapped with GST Show Cause Notice Over Rs 4.06 Crore Alleged ITC Claim",
+        "summary": "New Delhi: Panacea Biotec Limited has informed the stock exchanges that its wholly owned subsidiary, Panacea Biotec Pharma Limited (PBPL), has received a Show Cause Notice (SCN) from the Assistant...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-07-26T07:30:14.000Z",
+        "publishedLabel": "July 26, 2026",
+        "category": "Industry Update",
+        "image": "https://medicaldialogues.in/h-upload/2022/10/28/189217-show-cause-notice.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/panacea-biotec-arm-slapped-with-gst-show-cause-notice-over-rs-406-crore-alleged-itc-claim-175762",
+        "articlePath": "/article.html?issue=2026-07-26&article=2026-07-26-panacea-biotec-arm-slapped-with-gst-show-cause-notice-over-rs-4-06-crore"
       }
     ],
     "providers": [],
@@ -74,6 +178,22 @@
     "healthtech": []
   },
   "thbActions": [
+    {
+      "segment": "pharma",
+      "articleId": "2026-07-26-us-tariff-proposal-wake-up-call-for-indian-pharma-to-diversify-innovate-",
+      "title": "US tariff proposal wake-up call for Indian pharma to diversify, innovate: Experts",
+      "source": "Economic Times Pharma",
+      "solution": "THB Commercial Analytics",
+      "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
+    },
+    {
+      "segment": "pharma",
+      "articleId": "2026-07-26-gsk-secures-first-lung-cancer-approval-days-after-us-10-6b-nuvalent-acqu",
+      "title": "GSK secures first lung cancer approval days after US$10.6B Nuvalent acquisition | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
+      "source": "Healthcare MEA",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
     {
       "segment": "pharma",
       "articleId": "2026-07-26-aurobindo-pharma-s-apitoria-to-acquire-80-stake-in-a1-biochem-cro-busine",
@@ -84,17 +204,17 @@
     },
     {
       "segment": "pharma",
-      "articleId": "2026-07-26-akums-arm-to-acquire-oriflame-india-s-manufacturing-facilities-for-rs-56",
-      "title": "Akums Arm to Acquire Oriflame India's Manufacturing Facilities for Rs 56 Crore",
-      "source": "Medical Dialogues Pharma",
+      "articleId": "2026-07-26-sanofi-halts-amlitelimab-atopic-dermatitis-pipeline-ahead-of-dupixent-pa",
+      "title": "Sanofi halts Amlitelimab Atopic Dermatitis pipeline ahead of dupixent patent expiry | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
+      "source": "Healthcare MEA",
       "solution": "THB Commercial Analytics",
       "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
     },
     {
       "segment": "pharma",
-      "articleId": "2026-07-26-amgen-seeks-fda-hearing-files-new-data-to-prevent-tavneos-market-withdra",
-      "title": "Amgen Seeks FDA Hearing, Files New Data to Prevent Tavneos Market Withdrawal",
-      "source": "Medical Dialogues Pharma",
+      "articleId": "2026-07-26-beone-medicines-invests-us-300m-in-new-jersey-to-expand-us-onshoring-foo",
+      "title": "BeOne Medicines invests US$300M in New Jersey to expand US onshoring footprint | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
+      "source": "Healthcare MEA",
       "solution": "THB Commercial Analytics",
       "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
     }
