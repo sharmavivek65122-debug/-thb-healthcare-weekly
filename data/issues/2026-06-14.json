@@ -5,16 +5,15 @@
   "startDate": "2026-06-13T18:30:00.000Z",
   "endDate": "2026-06-19T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-07-27T08:00:53.883Z",
+  "updatedAt": "2026-07-27T15:59:29.986Z",
   "coverage": {
     "pharma": 0,
     "providers": 6,
-    "diagnostics": 1,
+    "diagnostics": 0,
     "healthtech": 0
   },
   "sourcesUsed": [
-    "ET Healthworld Hospitals",
-    "Express Healthcare"
+    "ET Healthworld Hospitals"
   ],
   "segments": {
     "pharma": [],
@@ -122,25 +121,7 @@
         "articlePath": "/article.html?issue=2026-06-14&article=2026-06-14-manipal-hospitals-is-said-to-plan-1-billion-ipo-in-july"
       }
     ],
-    "diagnostics": [
-      {
-        "id": "2026-06-14-inside-india-s-medtech-mission",
-        "title": "Inside India’s MedTech Mission",
-        "summary": "India’s healthcare sector has long operated on a structural paradox. The country built world-class clinical capability, scaled tertiary care infrastructure, and trained an exceptional medical workforce yet remained heavily reliant on imported equipment to...",
-        "source": "Express Healthcare",
-        "sourceHost": "expresshealthcare.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-06-17T10:14:13.000Z",
-        "publishedLabel": "June 17, 2026",
-        "category": "Industry Update",
-        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/06/17154134/EH_DigitalIssue_CS_June_2026_Ft_Image_750.jpg",
-        "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
-        "justIn": false,
-        "originalUrl": "https://www.expresshealthcare.in/news/inside-indias-medtech-mission/453984/",
-        "articlePath": "/article.html?issue=2026-06-14&article=2026-06-14-inside-india-s-medtech-mission"
-      }
-    ],
+    "diagnostics": [],
     "healthtech": []
   },
   "thbActions": [
@@ -183,14 +164,6 @@
       "source": "ET Healthworld Hospitals",
       "solution": "THB Provider CRM",
       "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
-    },
-    {
-      "segment": "diagnostics",
-      "articleId": "2026-06-14-inside-india-s-medtech-mission",
-      "title": "Inside India’s MedTech Mission",
-      "source": "Express Healthcare",
-      "solution": "THB Diagnostics CRM",
-      "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
     }
   ]
 }
