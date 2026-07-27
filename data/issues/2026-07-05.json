@@ -5,19 +5,38 @@
   "startDate": "2026-07-04T18:30:00.000Z",
   "endDate": "2026-07-10T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-07-26T14:49:09.308Z",
+  "updatedAt": "2026-07-27T08:00:53.883Z",
   "coverage": {
-    "pharma": 0,
+    "pharma": 1,
     "providers": 11,
     "diagnostics": 3,
     "healthtech": 0
   },
   "sourcesUsed": [
     "ET Healthworld Diagnostics",
-    "ET Healthworld Hospitals"
+    "ET Healthworld Hospitals",
+    "Express Healthcare"
   ],
   "segments": {
-    "pharma": [],
+    "pharma": [
+      {
+        "id": "2026-07-05-the-missing-links-in-animal-health",
+        "title": "The missing links in animal health",
+        "summary": "As India strengthens its healthcare ecosystem, animal healthcare infrastructure is emerging as one of its most important and most overlooked, foundations",
+        "source": "Express Healthcare",
+        "sourceHost": "expresshealthcare.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-07-08T10:23:09.000Z",
+        "publishedLabel": "July 8, 2026",
+        "category": "Industry Update",
+        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/07/08155018/EH_DigitalIssue_CS_July_2026_Ft_Image_750.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": false,
+        "originalUrl": "https://www.expresshealthcare.in/news/the-missing-links-in-animal-health/454267/",
+        "articlePath": "/article.html?issue=2026-07-05&article=2026-07-05-the-missing-links-in-animal-health"
+      }
+    ],
     "providers": [
       {
         "id": "2026-07-05-aster-launches-robotic-spine-care-institute-to-advance-neuroscience-trea",
@@ -263,6 +282,14 @@
     "healthtech": []
   },
   "thbActions": [
+    {
+      "segment": "pharma",
+      "articleId": "2026-07-05-the-missing-links-in-animal-health",
+      "title": "The missing links in animal health",
+      "source": "Express Healthcare",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
     {
       "segment": "providers",
       "articleId": "2026-07-05-aster-launches-robotic-spine-care-institute-to-advance-neuroscience-trea",

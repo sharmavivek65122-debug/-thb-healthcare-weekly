@@ -5,17 +5,19 @@
   "startDate": "2026-07-25T18:30:00.000Z",
   "endDate": "2026-07-31T18:30:00.000Z",
   "status": "live",
-  "updatedAt": "2026-07-26T14:49:09.308Z",
+  "updatedAt": "2026-07-27T08:00:53.883Z",
   "coverage": {
-    "pharma": 9,
-    "providers": 0,
+    "pharma": 16,
+    "providers": 1,
     "diagnostics": 0,
     "healthtech": 0
   },
   "sourcesUsed": [
+    "ET Healthworld",
     "Economic Times Pharma",
     "Healthcare MEA",
-    "Medical Dialogues Pharma"
+    "Medical Dialogues Pharma",
+    "Zawya Pharmaceuticals"
   ],
   "segments": {
     "pharma": [
@@ -32,9 +34,60 @@
         "category": "Market",
         "image": "https://img.etimg.com/thumb/msid-132638908,width-1200,height-630,imgsize-134336,overlay-economictimes/articleshow.jpg",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/us-tariff-proposal-wake-up-call-for-indian-pharma-to-diversify-innovate-experts/articleshow/132638874.cms",
         "articlePath": "/article.html?issue=2026-07-26&article=2026-07-26-us-tariff-proposal-wake-up-call-for-indian-pharma-to-diversify-innovate-"
+      },
+      {
+        "id": "2026-07-26-abbott-defeats-shareholder-lawsuit-over-2022-infant-formula-recall",
+        "title": "Abbott defeats shareholder lawsuit over 2022 infant formula recall",
+        "summary": "U.S. District ‌Judge Steven Seeger ⁠in ⁠Chicago said shareholders led by two European asset managers failed to show that Abbott intended to ​deceive them and inflated its share price in connection with the February 2022 recall of ​Similac, Alimentum and...",
+        "source": "ET Healthworld",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-07-27T01:58:23.000Z",
+        "publishedLabel": "July 27, 2026",
+        "category": "Industry Update",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-132650584,imgsize-96752,width-1200,height=627,overlay-ethealth,resizemode-75/industry/abbott-defeats-shareholder-lawsuit-over-2022-infant-formula-recall.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/abbott-defeats-shareholder-lawsuit-over-2022-infant-formula-recall/132650584",
+        "articlePath": "/article.html?issue=2026-07-26&article=2026-07-26-abbott-defeats-shareholder-lawsuit-over-2022-infant-formula-recall"
+      },
+      {
+        "id": "2026-07-26-indian-scientists-may-have-found-a-way-to-stop-malaria",
+        "title": "Indian scientists may have found a way to stop malaria",
+        "summary": "For years, researchers have looked for weaknesses in Plasmodium. Now, scientists from India and Britain may have struck gold, with the discovery of a protein they believe can be exploited to stop Plasmodium from multiplying, essentially blocking the disease.",
+        "source": "ET Healthworld",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-07-27T02:08:06.000Z",
+        "publishedLabel": "July 27, 2026",
+        "category": "Industry Update",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-132650635,imgsize-52760,width-1200,height=627,overlay-ethealth,resizemode-75/industry/indian-scientists-may-have-found-a-way-to-stop-malaria.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/indian-scientists-may-have-found-a-way-to-stop-malaria/132650635",
+        "articlePath": "/article.html?issue=2026-07-26&article=2026-07-26-indian-scientists-may-have-found-a-way-to-stop-malaria"
+      },
+      {
+        "id": "2026-07-26-dr-congo-s-ebola-outbreak-tops-3-000-cases",
+        "title": "DR Congo's Ebola outbreak tops 3,000 cases",
+        "summary": "Medics have recorded more than 3,000 Ebola cases, including 1,354 deaths, in the Democratic Republic of Congo's 17th outbreak, officials said Sunday, after infections surged by around 1,000 in just 10 days. A total of 3,075 cases have now been confirmed...",
+        "source": "ET Healthworld",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-07-27T01:43:31.000Z",
+        "publishedLabel": "July 27, 2026",
+        "category": "Industry Update",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-132650574,imgsize-71054,width-1200,height=627,overlay-ethealth,resizemode-75/industry/dr-congos-ebola-outbreak-tops-3000-cases.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/dr-congos-ebola-outbreak-tops-3000-cases/132650574",
+        "articlePath": "/article.html?issue=2026-07-26&article=2026-07-26-dr-congo-s-ebola-outbreak-tops-3-000-cases"
       },
       {
         "id": "2026-07-26-gsk-secures-first-lung-cancer-approval-days-after-us-10-6b-nuvalent-acqu",
@@ -49,9 +102,43 @@
         "category": "Approval",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/06/dl-gsk-plc-gsk-health-care-healthcare-pharmaceuticals-and-biotechnology-pharmaceuticals-ftse-100-premium-glaxosmithkline-glaxo-smith-kline-20230328-1827-1-1.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/07/26/gsk-secures-first-lung-cancer-approval-days-after-us10-6b-nuvalent-acquisition/",
         "articlePath": "/article.html?issue=2026-07-26&article=2026-07-26-gsk-secures-first-lung-cancer-approval-days-after-us-10-6b-nuvalent-acqu"
+      },
+      {
+        "id": "2026-07-26-kyowa-kirin-extends-crysvita-eu-orphan-market-exclusivity-to-february-20",
+        "title": "Kyowa Kirin extends Crysvita EU orphan market exclusivity to February 2030 | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
+        "summary": "The approval follows a positive recommendation issued in April 2026 by the European Medicines Agency’s (EMA) Committee for Medicinal Products for Human Use (CHMP).",
+        "source": "Healthcare MEA",
+        "sourceHost": "healthcaremea.com",
+        "region": "Middle East",
+        "country": "Middle East",
+        "publishedAt": "2026-07-27T07:41:22.000Z",
+        "publishedLabel": "July 27, 2026",
+        "category": "Approval",
+        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/07/image-1600x900-2026-07-27T102842.673.png",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://www.healthcaremea.com/2026/07/27/kyowa-kirin-extends-crysvita-eu-orphan-market-exclusivity-to-february-2030/",
+        "articlePath": "/article.html?issue=2026-07-26&article=2026-07-26-kyowa-kirin-extends-crysvita-eu-orphan-market-exclusivity-to-february-20"
+      },
+      {
+        "id": "2026-07-26-afdb-invests-us-15m-in-biovac-to-advance-african-vaccine-manufacturing-s",
+        "title": "AfDB invests US$15M in Biovac to advance African vaccine manufacturing sovereignty | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
+        "summary": "The financing forms part of Biovac’s expansion programme, which aims to increase the company’s annual manufacturing capacity to as many as 500 million vaccine doses.",
+        "source": "Healthcare MEA",
+        "sourceHost": "healthcaremea.com",
+        "region": "Middle East",
+        "country": "Middle East",
+        "publishedAt": "2026-07-27T06:33:01.000Z",
+        "publishedLabel": "July 27, 2026",
+        "category": "Manufacturing",
+        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/07/image-1600x900-2026-07-27T092936.788.png",
+        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
+        "justIn": true,
+        "originalUrl": "https://www.healthcaremea.com/2026/07/27/afdb-invests-us15m-in-biovac-to-advance-african-vaccine-manufacturing-sovereignty/",
+        "articlePath": "/article.html?issue=2026-07-26&article=2026-07-26-afdb-invests-us-15m-in-biovac-to-advance-african-vaccine-manufacturing-s"
       },
       {
         "id": "2026-07-26-aurobindo-pharma-s-apitoria-to-acquire-80-stake-in-a1-biochem-cro-busine",
@@ -83,7 +170,7 @@
         "category": "Manufacturing",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/07/image-1600x900-2026-07-26T112223.517.png",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/07/26/sanofi-halts-amlitelimab-atopic-dermatitis-pipeline-ahead-of-dupixent-patent-expiry/",
         "articlePath": "/article.html?issue=2026-07-26&article=2026-07-26-sanofi-halts-amlitelimab-atopic-dermatitis-pipeline-ahead-of-dupixent-pa"
       },
@@ -100,7 +187,7 @@
         "category": "Manufacturing",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/07/image-1600x900-2026-07-26T105445.679.png",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/07/26/beone-medicines-invests-us300m-in-new-jersey-to-expand-us-onshoring-footprint/",
         "articlePath": "/article.html?issue=2026-07-26&article=2026-07-26-beone-medicines-invests-us-300m-in-new-jersey-to-expand-us-onshoring-foo"
       },
@@ -122,6 +209,23 @@
         "articlePath": "/article.html?issue=2026-07-26&article=2026-07-26-akums-arm-to-acquire-oriflame-india-s-manufacturing-facilities-for-rs-56"
       },
       {
+        "id": "2026-07-26-syntegon-2025-sustainability-report-outlines-2040-net-zero-emissions-roa",
+        "title": "Syntegon 2025 Sustainability Report outlines 2040 Net-Zero emissions roadmap | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
+        "summary": "External assessments have also recognized Syntegon’s sustainability performance, including an improved “B” rating from CDP for climate change and a ranking among the top 2 percent of companies ass ...",
+        "source": "Healthcare MEA",
+        "sourceHost": "healthcaremea.com",
+        "region": "Middle East",
+        "country": "Middle East",
+        "publishedAt": "2026-07-27T07:07:55.000Z",
+        "publishedLabel": "July 27, 2026",
+        "category": "Manufacturing",
+        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/07/image-1600x900-2026-07-27T100136.236.png",
+        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
+        "justIn": true,
+        "originalUrl": "https://www.healthcaremea.com/2026/07/27/syntegon-2025-sustainability-report-outlines-2040-net-zero-emissions-roadmap/",
+        "articlePath": "/article.html?issue=2026-07-26&article=2026-07-26-syntegon-2025-sustainability-report-outlines-2040-net-zero-emissions-roa"
+      },
+      {
         "id": "2026-07-26-nyu-abu-dhabi-researchers-uncover-hidden-vulnerability-in-malaria-parasi",
         "title": "NYU Abu Dhabi researchers uncover hidden vulnerability in malaria parasite | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
         "summary": "This highly specific dependence could provide an opportunity for researchers to investigate new approaches to malaria treatment by targeting the parasite's ability to obtain or use these fats.",
@@ -134,9 +238,26 @@
         "category": "Manufacturing",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/07/image-1600x900-2026-07-26T115928.012.png",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/07/26/nyu-abu-dhabi-researchers-uncover-hidden-vulnerability-in-malaria-parasite/",
         "articlePath": "/article.html?issue=2026-07-26&article=2026-07-26-nyu-abu-dhabi-researchers-uncover-hidden-vulnerability-in-malaria-parasi"
+      },
+      {
+        "id": "2026-07-26-sidra-medicine-research-shows-maternal-diet-shapes-child-health-through-",
+        "title": "Sidra Medicine research shows maternal diet shapes child health through epigenetics | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
+        "summary": "Researchers found that women who delivered prematurely consumed significantly lower amounts of protein, vitamins and essential minerals than those who carried their pregnancies to term.",
+        "source": "Healthcare MEA",
+        "sourceHost": "healthcaremea.com",
+        "region": "Middle East",
+        "country": "Qatar",
+        "publishedAt": "2026-07-27T07:23:04.000Z",
+        "publishedLabel": "July 27, 2026",
+        "category": "Manufacturing",
+        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/07/image-1600x900-2026-07-27T102405.662.png",
+        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
+        "justIn": true,
+        "originalUrl": "https://www.healthcaremea.com/2026/07/27/sidra-medicine-research-shows-maternal-diet-shapes-child-health-through-epigenetics/",
+        "articlePath": "/article.html?issue=2026-07-26&article=2026-07-26-sidra-medicine-research-shows-maternal-diet-shapes-child-health-through-"
       },
       {
         "id": "2026-07-26-amgen-seeks-fda-hearing-files-new-data-to-prevent-tavneos-market-withdra",
@@ -168,12 +289,30 @@
         "category": "Industry Update",
         "image": "https://medicaldialogues.in/h-upload/2022/10/28/189217-show-cause-notice.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/panacea-biotec-arm-slapped-with-gst-show-cause-notice-over-rs-406-crore-alleged-itc-claim-175762",
         "articlePath": "/article.html?issue=2026-07-26&article=2026-07-26-panacea-biotec-arm-slapped-with-gst-show-cause-notice-over-rs-4-06-crore"
       }
     ],
-    "providers": [],
+    "providers": [
+      {
+        "id": "2026-07-26-gcc-debt-market-portfolios-keep-powder-dry-as-geopolitical-risks-curb-is",
+        "title": "GCC debt market: Portfolios keep powder dry as geopolitical risks curb issuance",
+        "summary": "Meanwhile, allocations to the rest of CEEMEA and Africa have increased",
+        "source": "Zawya Pharmaceuticals",
+        "sourceHost": "zawya.com",
+        "region": "Middle East",
+        "country": "Middle East",
+        "publishedAt": "2026-07-27T04:16:42.264Z",
+        "publishedLabel": "July 27, 2026",
+        "category": "Provider Update",
+        "image": "https://media.zawya.com/prod/images/gm_preview/e5d8639177fc-gettyimages-1488329725.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": false,
+        "originalUrl": "https://www.zawya.com/en/capital-markets/bonds/gcc-debt-market-portfolios-keep-powder-dry-as-geopolitical-risks-curb-issuance-410275",
+        "articlePath": "/article.html?issue=2026-07-26&article=2026-07-26-gcc-debt-market-portfolios-keep-powder-dry-as-geopolitical-risks-curb-is"
+      }
+    ],
     "diagnostics": [],
     "healthtech": []
   },
@@ -188,6 +327,30 @@
     },
     {
       "segment": "pharma",
+      "articleId": "2026-07-26-abbott-defeats-shareholder-lawsuit-over-2022-infant-formula-recall",
+      "title": "Abbott defeats shareholder lawsuit over 2022 infant formula recall",
+      "source": "ET Healthworld",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "pharma",
+      "articleId": "2026-07-26-indian-scientists-may-have-found-a-way-to-stop-malaria",
+      "title": "Indian scientists may have found a way to stop malaria",
+      "source": "ET Healthworld",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "pharma",
+      "articleId": "2026-07-26-dr-congo-s-ebola-outbreak-tops-3-000-cases",
+      "title": "DR Congo's Ebola outbreak tops 3,000 cases",
+      "source": "ET Healthworld",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "pharma",
       "articleId": "2026-07-26-gsk-secures-first-lung-cancer-approval-days-after-us-10-6b-nuvalent-acqu",
       "title": "GSK secures first lung cancer approval days after US$10.6B Nuvalent acquisition | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
       "source": "Healthcare MEA",
@@ -195,28 +358,12 @@
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
     },
     {
-      "segment": "pharma",
-      "articleId": "2026-07-26-aurobindo-pharma-s-apitoria-to-acquire-80-stake-in-a1-biochem-cro-busine",
-      "title": "Aurobindo Pharma's Apitoria to Acquire 80% Stake in A1 Biochem CRO Business for USD 17 Million",
-      "source": "Medical Dialogues Pharma",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
-      "segment": "pharma",
-      "articleId": "2026-07-26-sanofi-halts-amlitelimab-atopic-dermatitis-pipeline-ahead-of-dupixent-pa",
-      "title": "Sanofi halts Amlitelimab Atopic Dermatitis pipeline ahead of dupixent patent expiry | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
-      "source": "Healthcare MEA",
-      "solution": "THB Commercial Analytics",
-      "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
-    },
-    {
-      "segment": "pharma",
-      "articleId": "2026-07-26-beone-medicines-invests-us-300m-in-new-jersey-to-expand-us-onshoring-foo",
-      "title": "BeOne Medicines invests US$300M in New Jersey to expand US onshoring footprint | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
-      "source": "Healthcare MEA",
-      "solution": "THB Commercial Analytics",
-      "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
+      "segment": "providers",
+      "articleId": "2026-07-26-gcc-debt-market-portfolios-keep-powder-dry-as-geopolitical-risks-curb-is",
+      "title": "GCC debt market: Portfolios keep powder dry as geopolitical risks curb issuance",
+      "source": "Zawya Pharmaceuticals",
+      "solution": "THB Provider CRM",
+      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
     }
   ]
 }
