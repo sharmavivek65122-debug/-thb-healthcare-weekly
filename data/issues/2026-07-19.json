@@ -5,14 +5,15 @@
   "startDate": "2026-07-18T18:30:00.000Z",
   "endDate": "2026-07-24T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-08-02T07:05:55.130Z",
+  "updatedAt": "2026-08-02T14:47:29.175Z",
   "coverage": {
-    "pharma": 21,
+    "pharma": 18,
     "providers": 2,
-    "diagnostics": 3,
+    "diagnostics": 4,
     "healthtech": 0
   },
   "sourcesUsed": [
+    "BioSpectrum Asia Middle East",
     "ET Healthworld",
     "ET Healthworld Diagnostics",
     "ET Healthworld Hospitals",
@@ -23,23 +24,6 @@
   ],
   "segments": {
     "pharma": [
-      {
-        "id": "2026-07-19-astrazeneca-magic-faces-rare-test-after-trial-failure-share-slide",
-        "title": "AstraZeneca 'magic' faces rare test after trial failure, share slide",
-        "summary": "AstraZeneca's nerve drug Wainua unexpectedly failed a late-stage heart disease trial. This setback has caused investor concern and impacted the company's share price. Investors now await results from two key oncology trials, SERENA-4 and AVANZAR. Success in...",
-        "source": "Economic Times Pharma",
-        "sourceHost": "economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-07-24T06:26:10.000Z",
-        "publishedLabel": "July 24, 2026",
-        "category": "Industry Update",
-        "image": "https://img.etimg.com/thumb/msid-132598030,width-1200,height-630,imgsize-56718,overlay-economictimes/articleshow.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/astrazeneca-magic-faces-rare-test-after-trial-failure-share-slide/articleshow/132597972.cms",
-        "articlePath": "/article.html?issue=2026-07-19&article=2026-07-19-astrazeneca-magic-faces-rare-test-after-trial-failure-share-slide"
-      },
       {
         "id": "2026-07-19-pharma-deal-activity-hits-four-quarter-low-but-mega-sun-pharma-acquisiti",
         "title": "Pharma deal activity hits four-quarter low, but mega Sun Pharma acquisition drives value",
@@ -124,40 +108,6 @@
         "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/organon-shareholders-approve-sun-pharmas-usd-11-75-bn-acquisition-proposal/articleshow/132599488.cms",
         "articlePath": "/article.html?issue=2026-07-19&article=2026-07-19-organon-shareholders-approve-sun-pharma-s-11-75-bn-acquisition-proposal"
-      },
-      {
-        "id": "2026-07-19-fssai-suspends-rehaan-healthcare-licence-over-serious-food-safety-violat",
-        "title": "FSSAI suspends Rehaan Healthcare licence over serious food safety violations",
-        "summary": "Rehaan Healthcare, which manufactures digestive syrup, multi-vitamin syrup and other syrup-based food products, has been asked to stop producing till it corrects all deficiencies and the rectification gets verified by competent Authority.",
-        "source": "ET Healthworld",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-07-24T06:28:17.000Z",
-        "publishedLabel": "July 24, 2026",
-        "category": "Industry Update",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-132597470,imgsize-74204,width-1200,height=627,overlay-ethealth,resizemode-75/policy/fssai-suspends-rehaan-healthcare-licence-over-serious-food-safety-violations.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/policy/fssai-suspends-rehaan-healthcare-licence-over-serious-food-safety-violations/132597470",
-        "articlePath": "/article.html?issue=2026-07-19&article=2026-07-19-fssai-suspends-rehaan-healthcare-licence-over-serious-food-safety-violat"
-      },
-      {
-        "id": "2026-07-19-delhi-hc-seeks-centre-s-response-to-plea-against-hpv-vaccination",
-        "title": "Delhi HC seeks Centre's response to plea against HPV vaccination",
-        "summary": "A bench of Chief Justice D K Upadhyaya and Justice Tejas Karia said the plea raised a \"very serious\" issue as it concerned the health of girls and women in the country. The court issued notices to the central government and the Indian Council of Medical...",
-        "source": "ET Healthworld",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-07-23T06:45:36.000Z",
-        "publishedLabel": "July 23, 2026",
-        "category": "Industry Update",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-132573615,imgsize-50154,width-1200,height=627,overlay-ethealth,resizemode-75/policy/delhi-hc-seeks-centres-response-to-plea-against-hpv-vaccination.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/policy/delhi-hc-seeks-centres-response-to-plea-against-hpv-vaccination/132573615",
-        "articlePath": "/article.html?issue=2026-07-19&article=2026-07-19-delhi-hc-seeks-centre-s-response-to-plea-against-hpv-vaccination"
       },
       {
         "id": "2026-07-19-tecvayli-talvey-reduced-the-risk-of-disease-progression-or-death-by-89-a",
@@ -468,19 +418,28 @@
         "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/diagnostics/agilus-diagnostics-names-vijender-singh-as-md-and-ceo/132530061",
         "articlePath": "/article.html?issue=2026-07-19&article=2026-07-19-agilus-diagnostics-names-vijender-singh-as-md-and-ceo"
+      },
+      {
+        "id": "2026-07-19-national-initiative-for-rna-biology-and-its-applications-opens-new-hub-i",
+        "title": "National Initiative for RNA Biology and its Applications opens new hub in Singapore",
+        "summary": "NIRBA opens research hub to advance RNA innovation, talent development and biomedical research translation in Singapore",
+        "source": "BioSpectrum Asia Middle East",
+        "sourceHost": "biospectrumasia.com",
+        "region": "Middle East",
+        "country": "Oman",
+        "publishedAt": "2026-07-23T18:30:00.000Z",
+        "publishedLabel": "July 24, 2026",
+        "category": "Industry Update",
+        "image": "https://www.biospectrumasia.com/uploads/articles/nus-28094.jpg",
+        "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
+        "justIn": false,
+        "originalUrl": "https://www.biospectrumasia.com/news/26/28094/national-initiative-for-rna-biology-and-its-applications-opens-new-hub-in-singapore.html",
+        "articlePath": "/article.html?issue=2026-07-19&article=2026-07-19-national-initiative-for-rna-biology-and-its-applications-opens-new-hub-i"
       }
     ],
     "healthtech": []
   },
   "thbActions": [
-    {
-      "segment": "pharma",
-      "articleId": "2026-07-19-astrazeneca-magic-faces-rare-test-after-trial-failure-share-slide",
-      "title": "AstraZeneca 'magic' faces rare test after trial failure, share slide",
-      "source": "Economic Times Pharma",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
     {
       "segment": "pharma",
       "articleId": "2026-07-19-pharma-deal-activity-hits-four-quarter-low-but-mega-sun-pharma-acquisiti",
@@ -510,6 +469,14 @@
       "articleId": "2026-07-19-merck-nmims-partner-to-launch-catalyst-programme-for-pharma-students",
       "title": "Merck, NMIMS partner to launch CATALYST programme for pharma students",
       "source": "ET Healthworld",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "pharma",
+      "articleId": "2026-07-19-organon-shareholders-approve-sun-pharma-s-11-75-bn-acquisition-proposal",
+      "title": "Organon shareholders approve Sun Pharma's $11.75-bn acquisition proposal",
+      "source": "Economic Times Pharma",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
     },
@@ -550,6 +517,14 @@
       "articleId": "2026-07-19-agilus-diagnostics-names-vijender-singh-as-md-and-ceo",
       "title": "Agilus Diagnostics names Vijender Singh as MD and CEO",
       "source": "ET Healthworld Diagnostics",
+      "solution": "THB Diagnostics CRM",
+      "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
+    },
+    {
+      "segment": "diagnostics",
+      "articleId": "2026-07-19-national-initiative-for-rna-biology-and-its-applications-opens-new-hub-i",
+      "title": "National Initiative for RNA Biology and its Applications opens new hub in Singapore",
+      "source": "BioSpectrum Asia Middle East",
       "solution": "THB Diagnostics CRM",
       "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
     }
