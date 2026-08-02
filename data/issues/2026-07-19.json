@@ -5,9 +5,9 @@
   "startDate": "2026-07-18T18:30:00.000Z",
   "endDate": "2026-07-24T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-08-01T14:45:19.437Z",
+  "updatedAt": "2026-08-02T07:05:55.130Z",
   "coverage": {
-    "pharma": 22,
+    "pharma": 21,
     "providers": 2,
     "diagnostics": 3,
     "healthtech": 0
@@ -56,23 +56,6 @@
         "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/pharma-deal-activity-hits-four-quarter-low-but-mega-sun-pharma-acquisition-drives-value/articleshow/132602549.cms",
         "articlePath": "/article.html?issue=2026-07-19&article=2026-07-19-pharma-deal-activity-hits-four-quarter-low-but-mega-sun-pharma-acquisiti"
-      },
-      {
-        "id": "2026-07-19-jackson-labs-seeks-restoration-of-its-licence",
-        "title": "Jackson Labs seeks restoration of its licence",
-        "summary": "The cancellation issued by the Punjab government followed reports that five women in Kota, Rajasthan, died after allegedly being administered an Oxytocin injection that upon testing found contained no active ingredient.",
-        "source": "Economic Times Pharma",
-        "sourceHost": "economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-07-23T19:29:38.000Z",
-        "publishedLabel": "July 24, 2026",
-        "category": "Industry Update",
-        "image": "https://img.etimg.com/thumb/msid-132591275,width-1200,height-630,imgsize-27110,overlay-economictimes/articleshow.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/jackson-labs-seeks-restoration-of-its-licence/articleshow/132591265.cms",
-        "articlePath": "/article.html?issue=2026-07-19&article=2026-07-19-jackson-labs-seeks-restoration-of-its-licence"
       },
       {
         "id": "2026-07-19-new-cardiac-guidelines-mean-more-statins-for-more-people-study-finds",
@@ -508,14 +491,6 @@
     },
     {
       "segment": "pharma",
-      "articleId": "2026-07-19-jackson-labs-seeks-restoration-of-its-licence",
-      "title": "Jackson Labs seeks restoration of its licence",
-      "source": "Economic Times Pharma",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
-      "segment": "pharma",
       "articleId": "2026-07-19-new-cardiac-guidelines-mean-more-statins-for-more-people-study-finds",
       "title": "New cardiac guidelines mean more statins for more people, study finds",
       "source": "ET Healthworld",
@@ -527,6 +502,14 @@
       "articleId": "2026-07-19-novo-nordisk-pursues-preliminary-injunction-to-block-eli-lilly-weight-lo",
       "title": "Novo Nordisk pursues preliminary injunction to block Eli Lilly weight-loss drug ads",
       "source": "Economic Times Pharma",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "pharma",
+      "articleId": "2026-07-19-merck-nmims-partner-to-launch-catalyst-programme-for-pharma-students",
+      "title": "Merck, NMIMS partner to launch CATALYST programme for pharma students",
+      "source": "ET Healthworld",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
     },
