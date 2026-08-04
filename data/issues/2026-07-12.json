@@ -5,54 +5,18 @@
   "startDate": "2026-07-11T18:30:00.000Z",
   "endDate": "2026-07-17T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-08-03T16:03:25.650Z",
+  "updatedAt": "2026-08-04T07:12:13.340Z",
   "coverage": {
-    "pharma": 2,
+    "pharma": 0,
     "providers": 7,
     "diagnostics": 0,
     "healthtech": 0
   },
   "sourcesUsed": [
-    "BioSpectrum Asia Middle East",
     "ET Healthworld Hospitals"
   ],
   "segments": {
-    "pharma": [
-      {
-        "id": "2026-07-12-bio-asia-taiwan-2026-taiwan-s-strength-lies-in-building-the-future-of-me",
-        "title": "BIO Asia–Taiwan 2026: Taiwan’s Strength Lies in Building the Future of Medicine from Every Side",
-        "summary": "BIO Asia–Taiwan 2026: Taiwan’s Strength Lies in Building the Future of Medicine from Every Side",
-        "source": "BioSpectrum Asia Middle East",
-        "sourceHost": "biospectrumasia.com",
-        "region": "Middle East",
-        "country": "Oman",
-        "publishedAt": "2026-07-16T18:30:00.000Z",
-        "publishedLabel": "July 17, 2026",
-        "category": "Industry Update",
-        "image": "https://www.biospectrumasia.com/uploads/articles/bio_asia_taiwan_2026_feature_under_400kb-28048.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://www.biospectrumasia.com/analysis/26/28048/bio-asiataiwan-2026-taiwans-strength-lies-in-building-the-future-of-medicine-from-every-side.html",
-        "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-bio-asia-taiwan-2026-taiwan-s-strength-lies-in-building-the-future-of-me"
-      },
-      {
-        "id": "2026-07-12-cepi-university-of-oxford-and-serum-institute-of-india-launch-trials-for",
-        "title": "CEPI, University of Oxford and Serum Institute of India launch trials for Bundibugyo ebolavirus vaccine",
-        "summary": "CEPI, University of Oxford and Serum Institute of India launch trials for Bundibugyo ebolavirus vaccine",
-        "source": "BioSpectrum Asia Middle East",
-        "sourceHost": "biospectrumasia.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-07-15T18:30:00.000Z",
-        "publishedLabel": "July 16, 2026",
-        "category": "Launch",
-        "image": "https://www.biospectrumasia.com/uploads/articles/screenshot_16_7_2026_124145_cepi_net-28021.jpeg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://www.biospectrumasia.com/news/25/28021/cepi-university-of-oxford-and-serum-institute-of-india-launch-trials-for-bundibugyo-ebolavirus-vaccine.html",
-        "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-cepi-university-of-oxford-and-serum-institute-of-india-launch-trials-for"
-      }
-    ],
+    "pharma": [],
     "providers": [
       {
         "id": "2026-07-12-medtronic-partners-with-apollo-hospitals-to-launch-advanced-icu-of-the-f",
@@ -178,22 +142,6 @@
     "healthtech": []
   },
   "thbActions": [
-    {
-      "segment": "pharma",
-      "articleId": "2026-07-12-bio-asia-taiwan-2026-taiwan-s-strength-lies-in-building-the-future-of-me",
-      "title": "BIO Asia–Taiwan 2026: Taiwan’s Strength Lies in Building the Future of Medicine from Every Side",
-      "source": "BioSpectrum Asia Middle East",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
-      "segment": "pharma",
-      "articleId": "2026-07-12-cepi-university-of-oxford-and-serum-institute-of-india-launch-trials-for",
-      "title": "CEPI, University of Oxford and Serum Institute of India launch trials for Bundibugyo ebolavirus vaccine",
-      "source": "BioSpectrum Asia Middle East",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
     {
       "segment": "providers",
       "articleId": "2026-07-12-medtronic-partners-with-apollo-hospitals-to-launch-advanced-icu-of-the-f",
