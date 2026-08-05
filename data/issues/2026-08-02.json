@@ -5,10 +5,10 @@
   "startDate": "2026-08-01T18:30:00.000Z",
   "endDate": "2026-08-07T18:30:00.000Z",
   "status": "live",
-  "updatedAt": "2026-08-04T15:57:11.682Z",
+  "updatedAt": "2026-08-05T07:13:45.044Z",
   "coverage": {
-    "pharma": 36,
-    "providers": 15,
+    "pharma": 45,
+    "providers": 16,
     "diagnostics": 2,
     "healthtech": 0
   },
@@ -18,6 +18,7 @@
     "Economic Times Pharma",
     "Express Healthcare",
     "Healthcare MEA",
+    "Lupin Updates",
     "Medical Dialogues Pharma",
     "PharmaTutor News",
     "Zawya Pharmaceuticals"
@@ -25,21 +26,21 @@
   "segments": {
     "pharma": [
       {
-        "id": "2026-08-02-theon-pharma-leads-innovation-with-india-s-first-launch-of-vonoprazan-am",
-        "title": "Theon Pharma Leads Innovation with India's First Launch of Vonoprazan–Amoxicillin–Clarithromycin Therapy..",
-        "summary": "CDSCO Approved India's first PCAB-based co-packaged H. pylori eradication 14 days blister kit pack is set to redefine treatment standards with improved efficacy, patient convenience, and adherence. Brand Connect Initiative",
-        "source": "ET Healthworld",
-        "sourceHost": "health.economictimes.indiatimes.com",
+        "id": "2026-08-02-japan-s-takeda-bets-on-dengue-vax-to-reshape-india-playbook",
+        "title": "Japan's Takeda bets on dengue vax to reshape India playbook",
+        "summary": "Takeda Pharmaceutical's new dengue vaccine Qdenga received approval in India. The vaccine is expected to launch commercially in early 2027. It will initially be available through the private market for individuals. Takeda plans to pursue government...",
+        "source": "Economic Times Pharma",
+        "sourceHost": "economictimes.indiatimes.com",
         "region": "India",
         "country": "India",
-        "publishedAt": "2026-08-04T05:39:50.000Z",
-        "publishedLabel": "August 4, 2026",
-        "category": "Launch",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-132847487,imgsize-181252,width-1200,height=627,overlay-ethealth,resizemode-75/industry/theon-pharma-leads-innovation-with-indias-first-launch-of-vonoprazanamoxicillinclarithromycin-therapy-kit-for-h-pylori-eradication.jpg",
+        "publishedAt": "2026-08-04T19:18:38.000Z",
+        "publishedLabel": "August 5, 2026",
+        "category": "Approval",
+        "image": "https://img.etimg.com/thumb/msid-132871580,width-1200,height-630,imgsize-54824,overlay-economictimes/articleshow.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/theon-pharma-leads-innovation-with-indias-first-launch-of-vonoprazanamoxicillinclarithromycin-therapy-kit-for-h-pylori-eradication/132847487",
-        "articlePath": "/article.html?issue=2026-08-02&article=2026-08-02-theon-pharma-leads-innovation-with-india-s-first-launch-of-vonoprazan-am"
+        "justIn": true,
+        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/takedas-qdenga-a-game-changer-in-indias-battle-against-dengue/articleshow/132871506.cms",
+        "articlePath": "/article.html?issue=2026-08-02&article=2026-08-02-japan-s-takeda-bets-on-dengue-vax-to-reshape-india-playbook"
       },
       {
         "id": "2026-08-02-private-equity-firm-creador-in-talks-to-buy-into-generic-drug-co-leeford",
@@ -59,6 +60,23 @@
         "articlePath": "/article.html?issue=2026-08-02&article=2026-08-02-private-equity-firm-creador-in-talks-to-buy-into-generic-drug-co-leeford"
       },
       {
+        "id": "2026-08-02-ipa-seeks-to-regularise-legacy-drugs",
+        "title": "IPA seeks to regularise 'legacy' drugs",
+        "summary": "The Indian Pharmaceutical Alliance seeks to regularize many drugs. These drugs have been marketed for years without central approval. Examples include sodium valproate and carbamazepine tablets. Regulatory gaps have persisted for over a decade. This situation...",
+        "source": "Economic Times Pharma",
+        "sourceHost": "economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-08-04T19:12:12.000Z",
+        "publishedLabel": "August 5, 2026",
+        "category": "Approval",
+        "image": "https://img.etimg.com/thumb/msid-132871495,width-1200,height-630,imgsize-50676,overlay-economictimes/articleshow.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/indian-pharma-alliance-pushes-for-regularization-of-unapproved-legacy-drugs-in-india/articleshow/132871282.cms",
+        "articlePath": "/article.html?issue=2026-08-02&article=2026-08-02-ipa-seeks-to-regularise-legacy-drugs"
+      },
+      {
         "id": "2026-08-02-india-pharma-sector-to-miss-2030-sales-target-amid-tariff-and-shipping-w",
         "title": "India pharma sector to miss 2030 sales target amid tariff and shipping woes, trade body says",
         "summary": "India's pharmaceutical industry is expected to reach$80-90 billion by 2030, well below its earlier$130 billion target, as U.S. tariff uncertainty and Middle East shipping disruptions hurt exports, Pharmaceuticals Export Promotion Council of India Chairman...",
@@ -76,6 +94,23 @@
         "articlePath": "/article.html?issue=2026-08-02&article=2026-08-02-india-pharma-sector-to-miss-2030-sales-target-amid-tariff-and-shipping-w"
       },
       {
+        "id": "2026-08-02-revvity-raises-annual-profit-revenue-forecasts-on-strong-diagnostics-dem",
+        "title": "Revvity raises annual profit, revenue forecasts on strong diagnostics demand",
+        "summary": "Quarterly revenue in Revvity's life ​sciences unit ​fell 3% from a year earlier to $359 million, ⁠primarily due to an expected roughly 20% decline ​in its Signals software business linked to factors ​including contract timing.",
+        "source": "ET Healthworld",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-08-05T01:41:07.000Z",
+        "publishedLabel": "August 5, 2026",
+        "category": "Industry Update",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-132883638,imgsize-146414,width-1200,height=627,overlay-ethealth,resizemode-75/medical-devices/revvity-raises-annual-profit-revenue-forecasts-on-strong-diagnostics-demand.jpg",
+        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
+        "justIn": true,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/medical-devices/revvity-raises-annual-profit-revenue-forecasts-on-strong-diagnostics-demand/132883638",
+        "articlePath": "/article.html?issue=2026-08-02&article=2026-08-02-revvity-raises-annual-profit-revenue-forecasts-on-strong-diagnostics-dem"
+      },
+      {
         "id": "2026-08-02-tb-cases-mortality-rate-dipped-significantly-between-2015-and-2024-union",
         "title": "TB cases, mortality rate dipped significantly between 2015 and 2024: Union health minister",
         "summary": "Responding to a query in the Rajya Sabha, Nadda said public health and hospitals are state subjects and the Centre provides technical and financial support to states and Union territories under the National Health Mission (NHM).",
@@ -88,7 +123,7 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-132862766,imgsize-119272,width-1200,height=627,overlay-ethealth,resizemode-75/policy/tb-cases-mortality-rate-dipped-significantly-between-2015-and-2024-union-health-minister.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/policy/tb-cases-mortality-rate-dipped-significantly-between-2015-and-2024-union-health-minister/132862766",
         "articlePath": "/article.html?issue=2026-08-02&article=2026-08-02-tb-cases-mortality-rate-dipped-significantly-between-2015-and-2024-union"
       },
@@ -105,26 +140,9 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-132856529,imgsize-261340,width-1200,height=627,overlay-ethealth,resizemode-75/industry/treatment-trials-for-ebola-strain-behind-congo-outbreak-show-promise-who-says.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/treatment-trials-for-ebola-strain-behind-congo-outbreak-show-promise-who-says/132856529",
         "articlePath": "/article.html?issue=2026-08-02&article=2026-08-02-treatment-trials-for-ebola-strain-behind-congo-outbreak-show-promise-who"
-      },
-      {
-        "id": "2026-08-02-fssai-cracks-down-on-packaged-water-firm-health-supplement-maker",
-        "title": "FSSAI cracks down on packaged water firm, health supplement maker",
-        "summary": "The FSSAI suspended Matri Drinking Water's license due to serious food safety violations. Inspection revealed improper storage and poor hygienic conditions in processing areas. Noble Healthcare was prohibited from selling Venolex Forte due to non-permitted...",
-        "source": "ET Healthworld",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-08-04T02:00:52.000Z",
-        "publishedLabel": "August 4, 2026",
-        "category": "Industry Update",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-132843906,imgsize-163318,width-1200,height=627,overlay-ethealth,resizemode-75/policy/fssai-cracks-down-on-packaged-water-firm-health-supplement-maker.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/policy/fssai-cracks-down-on-packaged-water-firm-health-supplement-maker/132843906",
-        "articlePath": "/article.html?issue=2026-08-02&article=2026-08-02-fssai-cracks-down-on-packaged-water-firm-health-supplement-maker"
       },
       {
         "id": "2026-08-02-delhi-court-orders-framing-of-charges-in-codeine-syrup-seizure-case",
@@ -144,6 +162,57 @@
         "articlePath": "/article.html?issue=2026-08-02&article=2026-08-02-delhi-court-orders-framing-of-charges-in-codeine-syrup-seizure-case"
       },
       {
+        "id": "2026-08-02-low-cost-asean-imports-worry-medical-device-companies",
+        "title": "Low-cost Asean imports worry medical device companies",
+        "summary": "Imports from Asean increased by 14% to nearly Rs 13,000 crore FY25-26, led by syringes, medical gloves, dialysis products, consumables and imaging equipment, including X-ray machines, making it harder for companies to recover years of investment in local...",
+        "source": "ET Healthworld",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-08-05T03:43:07.000Z",
+        "publishedLabel": "August 5, 2026",
+        "category": "Industry Update",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-132884759,imgsize-215952,width-1200,height=627,overlay-ethealth,resizemode-75/medical-devices/low-cost-asean-imports-worry-medical-device-companies.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/medical-devices/low-cost-asean-imports-worry-medical-device-companies/132884759",
+        "articlePath": "/article.html?issue=2026-08-02&article=2026-08-02-low-cost-asean-imports-worry-medical-device-companies"
+      },
+      {
+        "id": "2026-08-02-cyclosporiasis-cases-in-michigan-climb-to-11-508-in-ongoing-outbreak",
+        "title": "Cyclosporiasis cases in Michigan climb to 11,508 in ongoing outbreak",
+        "summary": "An FDA investigation has linked the ​outbreak, which has expanded to nine states, to iceberg lettuce served at ​Taco Bell restaurants and sourced from privately held Taylor Farms operations in central Mexico, but authorities are still ​looking for other...",
+        "source": "ET Healthworld",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-08-05T01:43:43.000Z",
+        "publishedLabel": "August 5, 2026",
+        "category": "Industry Update",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-132883717,imgsize-122234,width-1200,height=627,overlay-ethealth,resizemode-75/industry/cyclosporiasis-cases-in-michigan-climb-to-11508-in-ongoing-outbreak.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/cyclosporiasis-cases-in-michigan-climb-to-11508-in-ongoing-outbreak/132883717",
+        "articlePath": "/article.html?issue=2026-08-02&article=2026-08-02-cyclosporiasis-cases-in-michigan-climb-to-11-508-in-ongoing-outbreak"
+      },
+      {
+        "id": "2026-08-02-kerala-to-set-up-standalone-ayush-university-panel-to-draft-bill",
+        "title": "Kerala to set up standalone AYUSH University; panel to draft Bill",
+        "summary": "Announcing the decision, the minister said the proposed university would provide an integrated framework for education, research, clinical studies and drug development in AYUSH systems of medicine.",
+        "source": "ET Healthworld",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-08-05T01:38:46.000Z",
+        "publishedLabel": "August 5, 2026",
+        "category": "Industry Update",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-132883573,imgsize-58306,width-1200,height=627,overlay-ethealth,resizemode-75/policy/kerala-to-set-up-standalone-ayush-university-panel-to-draft-bill.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/policy/kerala-to-set-up-standalone-ayush-university-panel-to-draft-bill/132883573",
+        "articlePath": "/article.html?issue=2026-08-02&article=2026-08-02-kerala-to-set-up-standalone-ayush-university-panel-to-draft-bill"
+      },
+      {
         "id": "2026-08-02-government-tightens-surveillance-on-glp-1-weight-loss-drug-promotion-ami",
         "title": "Government tightens surveillance on GLP-1 weight-loss drug promotion amidst surrogate advertising concerns",
         "summary": "Central government directs state regulators to enhance surveillance over GLP-1 drug promotion. Approved GLP-1 drugs are only for Type 2 diabetes and specific weight management. Advisories were issued to manufacturers and drug controllers regarding product...",
@@ -156,43 +225,9 @@
         "category": "Industry Update",
         "image": "https://img.etimg.com/thumb/msid-132858884,width-1200,height-630,imgsize-73080,overlay-economictimes/articleshow.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/government-tightens-surveillance-on-glp-1-weight-loss-drug-promotion-amidst-surrogate-advertising-concerns/articleshow/132858799.cms",
         "articlePath": "/article.html?issue=2026-08-02&article=2026-08-02-government-tightens-surveillance-on-glp-1-weight-loss-drug-promotion-ami"
-      },
-      {
-        "id": "2026-08-02-centre-mulling-patient-safety-framework-for-dental-implants",
-        "title": "Centre mulling patient safety framework for dental implants",
-        "summary": "India's government is considering a national regulatory framework for dental implants. This action follows concerns raised about unregulated use and safety standards. The proposed framework will cover manufacturing, sale, and clinical application of these...",
-        "source": "ET Healthworld",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-08-04T01:56:24.000Z",
-        "publishedLabel": "August 4, 2026",
-        "category": "Manufacturing",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-132843875,imgsize-93844,width-1200,height=627,overlay-ethealth,resizemode-75/policy/centre-mulling-patient-safety-framework-for-dental-implants.jpg",
-        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/policy/centre-mulling-patient-safety-framework-for-dental-implants/132843875",
-        "articlePath": "/article.html?issue=2026-08-02&article=2026-08-02-centre-mulling-patient-safety-framework-for-dental-implants"
-      },
-      {
-        "id": "2026-08-02-aiims-iit-indore-join-hands-for-affordable-and-advanced-patient-care",
-        "title": "AIIMS, IIT Indore join hands for affordable & advanced patient care",
-        "summary": "The MoU aims to establish a collaborative framework for interdisciplinary research, medical technology innovation, technology translation and capacity building.",
-        "source": "ET Healthworld",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-08-04T06:36:14.000Z",
-        "publishedLabel": "August 4, 2026",
-        "category": "Industry Update",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-132849432,imgsize-103,width-1200,height=627,overlay-ethealth,resizemode-75/industry/aiims-iit-indore-join-hands-for-affordable-advanced-patient-care.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/aiims-iit-indore-join-hands-for-affordable-advanced-patient-care/132849432",
-        "articlePath": "/article.html?issue=2026-08-02&article=2026-08-02-aiims-iit-indore-join-hands-for-affordable-and-advanced-patient-care"
       },
       {
         "id": "2026-08-02-dr-reddy-s-laboratories-launches-generic-sugammadex-injection-in-the-uni",
@@ -207,9 +242,26 @@
         "category": "Launch",
         "image": "https://img.etimg.com/thumb/msid-132852866,width-1200,height-630,imgsize-76356,overlay-economictimes/articleshow.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/dr-reddys-laboratories-launches-generic-sugammadex-injection-in-the-united-states/articleshow/132852801.cms",
         "articlePath": "/article.html?issue=2026-08-02&article=2026-08-02-dr-reddy-s-laboratories-launches-generic-sugammadex-injection-in-the-uni"
+      },
+      {
+        "id": "2026-08-02-quality-in-glp-1-medicines-why-it-matters-for-long-term-diabetes-care",
+        "title": "Quality in GLP-1 medicines: Why It matters for long-term diabetes care",
+        "summary": "Managing type 2 diabetes today is about much more than controlling blood sugar. The focus has expanded to helping people live healthier lives, reducing the risk of serious complications such as heart disease and kidney disease, and improving overall...",
+        "source": "Express Healthcare",
+        "sourceHost": "expresshealthcare.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-08-05T06:45:19.000Z",
+        "publishedLabel": "August 5, 2026",
+        "category": "Industry Update",
+        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/08/05121443/EH_Dr-SHeila-Sheikh.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://www.expresshealthcare.in/news/quality-in-glp-1-medicines-why-it-matters-for-long-term-diabetes-care/454600/",
+        "articlePath": "/article.html?issue=2026-08-02&article=2026-08-02-quality-in-glp-1-medicines-why-it-matters-for-long-term-diabetes-care"
       },
       {
         "id": "2026-08-02-mtai-calls-for-coordinated-trade-reforms-to-maximise-healthcare-gains-fr",
@@ -275,7 +327,7 @@
         "category": "Industry Update",
         "image": "https://medicaldialogues.in/h-upload/2023/01/10/197260-shilpa-medicare-2.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/shilpa-medicare-appoints-veteran-dr-uday-n-harle-as-ceo-of-shilpa-biologicals-176462",
         "articlePath": "/article.html?issue=2026-08-02&article=2026-08-02-shilpa-medicare-appoints-veteran-dr-uday-n-harle-as-ceo-of-shilpa-biolog"
       },
@@ -309,7 +361,7 @@
         "category": "Approval",
         "image": "https://www.pharmatutor.org/sites/default/files/styles/webp/public/2026-08/dr-reddys-wins-usfda-approval-for-rituximab-biosimilar-strengthening-global-biologics-presence.png.webp?itok=m9ckntKA",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/dr-reddys-wins-usfda-approval-for-rituximab-biosimilar-strengthening-global-biologics-presence",
         "articlePath": "/article.html?issue=2026-08-02&article=2026-08-02-dr-reddy-s-wins-u-s-fda-approval-for-rituximab-biosimilar-strengthening-"
       },
@@ -326,9 +378,60 @@
         "category": "Industry Update",
         "image": "https://medicaldialogues.in/h-upload/2023/01/10/197355-astrazeneca-3.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/astrazeneca-bristol-myers-squibb-hold-preliminary-usd-400-billion-merger-talks-report-176458",
         "articlePath": "/article.html?issue=2026-08-02&article=2026-08-02-astrazeneca-bristol-myers-squibb-hold-preliminary-usd-400-billion-merger"
+      },
+      {
+        "id": "2026-08-02-gerresheimer-sells-two-packaging-units-to-apax-partners-in-us-1-73b-deal",
+        "title": "Gerresheimer sells two packaging units to Apax Partners in US$1.73B deal | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
+        "summary": "The divestment forms part of the company’s broader restructuring as it seeks to strengthen its finances and sharpen its focus on higher-value healthcare products.",
+        "source": "Healthcare MEA",
+        "sourceHost": "healthcaremea.com",
+        "region": "Middle East",
+        "country": "Middle East",
+        "publishedAt": "2026-08-04T07:51:04.000Z",
+        "publishedLabel": "August 4, 2026",
+        "category": "Manufacturing",
+        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/08/image-1600x900-2026-08-04T104813.503.png",
+        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
+        "justIn": true,
+        "originalUrl": "https://www.healthcaremea.com/2026/08/04/gerresheimer-sells-two-packaging-units-to-apax-partners-in-us1-73b-deal/",
+        "articlePath": "/article.html?issue=2026-08-02&article=2026-08-02-gerresheimer-sells-two-packaging-units-to-apax-partners-in-us-1-73b-deal"
+      },
+      {
+        "id": "2026-08-02-ausperbio-begins-patient-dosing-in-trial-of-hepatitis-b-sirna-candidate-",
+        "title": "AusperBio begins patient dosing in trial of Hepatitis B siRNA candidate AHB-171 | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
+        "summary": "The latest milestone advances the company’s second clinical-stage therapeutic candidate and marks the first clinical programme built using its proprietary Au-HALO™ liver-targeting delivery technol ...",
+        "source": "Healthcare MEA",
+        "sourceHost": "healthcaremea.com",
+        "region": "Middle East",
+        "country": "Middle East",
+        "publishedAt": "2026-08-04T07:41:22.000Z",
+        "publishedLabel": "August 4, 2026",
+        "category": "Manufacturing",
+        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/08/image-1600x900-2026-08-04T103553.030.png",
+        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
+        "justIn": true,
+        "originalUrl": "https://www.healthcaremea.com/2026/08/04/ausperbio-begins-patient-dosing-in-trial-of-hepatitis-b-sirna-candidate-ahb-171/",
+        "articlePath": "/article.html?issue=2026-08-02&article=2026-08-02-ausperbio-begins-patient-dosing-in-trial-of-hepatitis-b-sirna-candidate-"
+      },
+      {
+        "id": "2026-08-02-impact-therapeutics-inks-us-488-3m-senaparib-deal-with-pharmanovia-healt",
+        "title": "IMPACT Therapeutics inks US$488.3M Senaparib deal with Pharmanovia | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
+        "summary": "IMPACT Therapeutics received approval from China’s National Medical Products Administration (NMPA) in January 2025 for senaparib as a first-line maintenance therapy for adults with advanced ovaria ...",
+        "source": "Healthcare MEA",
+        "sourceHost": "healthcaremea.com",
+        "region": "Middle East",
+        "country": "Middle East",
+        "publishedAt": "2026-08-04T07:35:01.000Z",
+        "publishedLabel": "August 4, 2026",
+        "category": "Approval",
+        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/08/image-1600x900-2026-08-04T102450.728.png",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://www.healthcaremea.com/2026/08/04/impact-therapeutics-inks-us488-3m-senaparib-deal-with-pharmanovia/",
+        "articlePath": "/article.html?issue=2026-08-02&article=2026-08-02-impact-therapeutics-inks-us-488-3m-senaparib-deal-with-pharmanovia-healt"
       },
       {
         "id": "2026-08-02-glenmark-launches-generic-sugammadex-injection-in-us-targets-usd-1-6-bil",
@@ -360,7 +463,7 @@
         "category": "Manufacturing",
         "image": "https://medicaldialogues.in/h-upload/2024/01/24/230868-cipla-50.jpg",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/ciplas-invagen-receives-usfda-eir-for-new-york-manufacturing-facility-176466",
         "articlePath": "/article.html?issue=2026-08-02&article=2026-08-02-cipla-s-invagen-receives-usfda-eir-for-new-york-manufacturing-facility"
       },
@@ -377,7 +480,7 @@
         "category": "Manufacturing",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/08/image-1600x900-2026-08-04T110032.946.png",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/08/04/cerevasc-expands-us-footprint-with-new-facility-in-wilmington/",
         "articlePath": "/article.html?issue=2026-08-02&article=2026-08-02-cerevasc-expands-us-footprint-with-new-facility-in-wilmington-healthcare"
       },
@@ -445,7 +548,7 @@
         "category": "Industry Update",
         "image": "https://www.pharmatutor.org/sites/default/files/styles/webp/public/2026-08/amgen-reports-material-cybersecurity-incident-after-unauthorized-access-to-cloud-data.png.webp?itok=z8CFCFR5",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/amgen-reports-material-cybersecurity-incident-after-unauthorized-access-to-cloud-data",
         "articlePath": "/article.html?issue=2026-08-02&article=2026-08-02-amgen-reports-material-cybersecurity-incident-after-unauthorized-access-"
       },
@@ -462,7 +565,7 @@
         "category": "Approval",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/08/image-1600x900-2026-08-04T110620.864.png",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/08/04/radnet-subsidiary-deephealth-gains-510k-fda-approval-for-breast-ultrasound-ai/",
         "articlePath": "/article.html?issue=2026-08-02&article=2026-08-02-radnet-subsidiary-deephealth-gains-510-k-fda-approval-for-breast-ultraso"
       },
@@ -530,7 +633,7 @@
         "category": "Manufacturing",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/08/image-1600x900-2026-08-04T095550.989.png",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/08/04/ministry-of-health-signs-us80m-deal-with-the-beginnings-fund-for-maternal-care/",
         "articlePath": "/article.html?issue=2026-08-02&article=2026-08-02-ministry-of-health-signs-us-80m-deal-with-the-beginnings-fund-for-matern"
       },
@@ -564,7 +667,7 @@
         "category": "Industry Update",
         "image": "https://medicaldialogues.in/h-upload/2025/10/15/304573-6af11f7573cc8c273220e33c2ef4e2d4.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/delhi-court-orders-charges-against-man-over-alleged-illegal-storage-of-4300-kg-codeine-cough-syrup-176460",
         "articlePath": "/article.html?issue=2026-08-02&article=2026-08-02-delhi-court-orders-charges-against-man-over-alleged-illegal-storage-of-4"
       },
@@ -581,7 +684,7 @@
         "category": "Market",
         "image": "https://www.pharmatutor.org/sites/default/files/styles/webp/public/2026-08/sandoz-moves-to-resolve-legacy-us-generic-drug-litigation-with-nearly-480-million-usd-settlement.png.webp?itok=8G1PUNIH",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/sandoz-moves-to-resolve-legacy-us-generic-drug-litigation-with-nearly-480-million-usd-settlement",
         "articlePath": "/article.html?issue=2026-08-02&article=2026-08-02-sandoz-moves-to-resolve-legacy-u-s-generic-drug-litigation-with-nearly-4"
       },
@@ -620,6 +723,23 @@
         "articlePath": "/article.html?issue=2026-08-02&article=2026-08-02-positive-outlook-union-properties-bets-big-on-dubai-s-motor-city"
       },
       {
+        "id": "2026-08-02-us-citizenship-exam-could-look-very-different-under-trump-s-new-plan",
+        "title": "US citizenship exam could look very different under Trump's new plan",
+        "summary": "The Trump administration is considering changes to the US citizenship exam that could introduce new education standards and allow third parties to administer the test, according to a Newsweek report. The proposal is expected to be released for public comment...",
+        "source": "Lupin Updates",
+        "sourceHost": "economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-08-05T18:30:00.000Z",
+        "publishedLabel": "August 6, 2026",
+        "category": "Industry Update",
+        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-1078352,resizemode-75,msid-132896818/nri/migrate/us-citizenship-exam-could-look-very-different-under-trumps-new-plan.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://economictimes.indiatimes.com/nri/migrate/us-citizenship-exam-could-look-very-different-under-trumps-new-plan/articleshow/132896818.cms",
+        "articlePath": "/article.html?issue=2026-08-02&article=2026-08-02-us-citizenship-exam-could-look-very-different-under-trump-s-new-plan"
+      },
+      {
         "id": "2026-08-02-zydus-receives-usfda-eir-with-vai-status-for-ahmedabad-injectable-facili",
         "title": "Zydus Receives USFDA EIR with VAI Status for Ahmedabad Injectable Facility",
         "summary": "New Delhi: Zydus Lifesciences Limited has announced that it has received the Establishment Inspection Report (EIR) from the U.S. Food and Drug Administration (USFDA) for its injectable manufacturing...",
@@ -635,6 +755,40 @@
         "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/zydus-receives-usfda-eir-with-vai-status-for-ahmedabad-injectable-facility-176392",
         "articlePath": "/article.html?issue=2026-08-02&article=2026-08-02-zydus-receives-usfda-eir-with-vai-status-for-ahmedabad-injectable-facili"
+      },
+      {
+        "id": "2026-08-02-saudi-non-oil-economy-powers-next-phase-of-real-estate-growth",
+        "title": "Saudi non-oil economy powers next phase of real estate growth",
+        "summary": "Despite this expanding pipeline, market fundamentals remain healthy, with retail vacancy rates holding at around 6%",
+        "source": "Zawya Pharmaceuticals",
+        "sourceHost": "zawya.com",
+        "region": "Middle East",
+        "country": "Saudi Arabia",
+        "publishedAt": "2026-08-03T10:38:16.872Z",
+        "publishedLabel": "August 3, 2026",
+        "category": "Market",
+        "image": "https://media.zawya.com/prod/images/gm_preview/afe9d3f5bd4e-gettyimages-2199805845-1.jpg",
+        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
+        "justIn": true,
+        "originalUrl": "https://www.zawya.com/en/business/real-estate/saudi-non-oil-economy-powers-next-phase-of-real-estate-growth-418911",
+        "articlePath": "/article.html?issue=2026-08-02&article=2026-08-02-saudi-non-oil-economy-powers-next-phase-of-real-estate-growth"
+      },
+      {
+        "id": "2026-08-02-uae-economy-grows-by-3-in-q1-2026-driven-by-strong-non-oil-sector-perfor",
+        "title": "UAE economy grows by 3% in Q1 2026 driven by strong non-oil sector performance",
+        "summary": "The figures reflect the continued strength of non-oil economic activities and the resilience of the national economy",
+        "source": "Zawya Pharmaceuticals",
+        "sourceHost": "zawya.com",
+        "region": "Middle East",
+        "country": "United Arab Emirates",
+        "publishedAt": "2026-08-04T08:59:17.975Z",
+        "publishedLabel": "August 4, 2026",
+        "category": "Industry Update",
+        "image": "https://media.zawya.com/prod/images/gm_preview/5a2530505824-gettyimages-1491506071.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://www.zawya.com/en/economy/uae-economy-grows-by-3-in-q1-2026-driven-by-strong-non-oil-sector-performance-420112",
+        "articlePath": "/article.html?issue=2026-08-02&article=2026-08-02-uae-economy-grows-by-3-in-q1-2026-driven-by-strong-non-oil-sector-perfor"
       }
     ],
     "providers": [
@@ -690,23 +844,6 @@
         "articlePath": "/article.html?issue=2026-08-02&article=2026-08-02-park-group-expands-north-india-footprint-with-330-bed-hospital-in-uttara"
       },
       {
-        "id": "2026-08-02-the-conversation-is-shifting-from-how-many-beds-do-we-have-to-how-effect",
-        "title": "The conversation is shifting from ‘how many beds do we have’ to ‘how effectively are we using them?’",
-        "summary": "Pradeep Vadakkekhatt, Co-Founder and Director, Trackerwave, in an interview with Neha Aathavale, discusses how real-time location systems (RTLS) are helping hospitals improve operational visibility, optimise capacity, strengthen resource utilisation and...",
-        "source": "Express Healthcare",
-        "sourceHost": "expresshealthcare.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-08-03T03:56:16.000Z",
-        "publishedLabel": "August 3, 2026",
-        "category": "Hospital",
-        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/08/03092543/EH_Pradeep_Vadakkekhatt_750.jpg",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://www.expresshealthcare.in/news/the-conversation-is-shifting-from-how-many-beds-do-we-have-to-how-effectively-are-we-using-them/454563/",
-        "articlePath": "/article.html?issue=2026-08-02&article=2026-08-02-the-conversation-is-shifting-from-how-many-beds-do-we-have-to-how-effect"
-      },
-      {
         "id": "2026-08-02-trice-imaging-signs-transformed-arrogyam-to-take-tricefy-to-hospitals-an",
         "title": "Trice Imaging signs TransforMed Arrogyam to take ‘Tricefy’ to hospitals & clinics across India",
         "summary": "Trice Imaging Inc, a global leader in cloud-based medical image management, today announced a commercial agreement with TransforMed Arrogyam Pvt. Ltd. to expand access to Tricefy, the specialized cloud platform for ultrasound, X-ray, mammography and DEXA...",
@@ -719,7 +856,7 @@
         "category": "Hospital",
         "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2022/03/23135054/partnership-1.jpg",
         "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/uncategorized/trice-imaging-signs-transformed-arrogyam-to-take-tricefy-to-hospitals-clinics-across-india/454597/",
         "articlePath": "/article.html?issue=2026-08-02&article=2026-08-02-trice-imaging-signs-transformed-arrogyam-to-take-tricefy-to-hospitals-an"
       },
@@ -736,7 +873,7 @@
         "category": "Hospital",
         "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/08/04141518/EH_TWH.jpg",
         "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/news/the-womens-hospital-advances-access-to-precision-surgery-with-ssi-mantra-3/454593/",
         "articlePath": "/article.html?issue=2026-08-02&article=2026-08-02-the-women-s-hospital-advances-access-to-precision-surgery-with-ssi-mantr"
       },
@@ -787,7 +924,7 @@
         "category": "AI Care Delivery",
         "image": "https://medicaldialogues.in/h-upload/2024/01/20/230651-dr-reddys-new-50.jpg",
         "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/dr-reddys-launches-generic-bridion-injection-in-us-176465",
         "articlePath": "/article.html?issue=2026-08-02&article=2026-08-02-dr-reddy-s-launches-generic-bridion-injection-in-us"
       },
@@ -804,9 +941,26 @@
         "category": "Expansion",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/08/image-1600x900-2026-08-04T111029.739.png",
         "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/08/04/jootrh-inaugurates-board-to-guide-expansion-to-level-6-status/",
         "articlePath": "/article.html?issue=2026-08-02&article=2026-08-02-jootrh-inaugurates-board-to-guide-expansion-to-level-6-status-healthcare"
+      },
+      {
+        "id": "2026-08-02-uae-non-oil-private-sector-rebounds-as-exports-pick-up",
+        "title": "UAE non-oil private sector rebounds as exports pick up",
+        "summary": "Dubai PMI edges higher",
+        "source": "Zawya Pharmaceuticals",
+        "sourceHost": "zawya.com",
+        "region": "Middle East",
+        "country": "United Arab Emirates",
+        "publishedAt": "2026-08-05T04:56:02.106Z",
+        "publishedLabel": "August 5, 2026",
+        "category": "AI Care Delivery",
+        "image": "https://media.zawya.com/prod/images/gm_preview/dbbe9eb42757-gettyimages-1208080781.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": true,
+        "originalUrl": "https://www.zawya.com/en/economy/uae-non-oil-private-sector-rebounds-as-exports-pick-up-421374",
+        "articlePath": "/article.html?issue=2026-08-02&article=2026-08-02-uae-non-oil-private-sector-rebounds-as-exports-pick-up"
       },
       {
         "id": "2026-08-02-saudi-aramco-q2-profit-jumps-on-stronger-oil-prices",
@@ -826,6 +980,23 @@
         "articlePath": "/article.html?issue=2026-08-02&article=2026-08-02-saudi-aramco-q2-profit-jumps-on-stronger-oil-prices"
       },
       {
+        "id": "2026-08-02-saudi-non-oil-sector-expands-in-july-as-new-orders-rise-pmi",
+        "title": "Saudi non-oil sector expands in July as new orders rise: PMI",
+        "summary": "However, the regional conflict weighed on export orders",
+        "source": "Zawya Pharmaceuticals",
+        "sourceHost": "zawya.com",
+        "region": "Middle East",
+        "country": "Saudi Arabia",
+        "publishedAt": "2026-08-04T04:57:26.321Z",
+        "publishedLabel": "August 4, 2026",
+        "category": "Provider Update",
+        "image": "https://media.zawya.com/prod/images/gm_preview/7a4edaeae539-gettyimages-2203143607.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": true,
+        "originalUrl": "https://www.zawya.com/en/economy/saudi-non-oil-sector-expands-in-july-as-new-orders-rise-pmi-419788",
+        "articlePath": "/article.html?issue=2026-08-02&article=2026-08-02-saudi-non-oil-sector-expands-in-july-as-new-orders-rise-pmi"
+      },
+      {
         "id": "2026-08-02-qatar-s-dandy-prices-ipo-at-1-37-per-share",
         "title": "Qatar's Dandy prices IPO at $1.37 per share",
         "summary": "The IPO is expected to raise around QAR 206 million before fees",
@@ -838,9 +1009,26 @@
         "category": "AI Care Delivery",
         "image": "https://media.zawya.com/prod/images/gm_preview/593f0333e149-gettyimages-1322630129.jpg",
         "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.zawya.com/en/capital-markets/qatars-dandy-prices-ipo-at-1.37-per-share-419081",
         "articlePath": "/article.html?issue=2026-08-02&article=2026-08-02-qatar-s-dandy-prices-ipo-at-1-37-per-share"
+      },
+      {
+        "id": "2026-08-02-kuwait-approves-award-of-oilfield-water-separation-deal",
+        "title": "Kuwait approves award of oilfield water separation deal",
+        "summary": "Project costs $385mln",
+        "source": "Zawya Pharmaceuticals",
+        "sourceHost": "zawya.com",
+        "region": "Middle East",
+        "country": "Saudi Arabia",
+        "publishedAt": "2026-08-03T09:53:23.610Z",
+        "publishedLabel": "August 3, 2026",
+        "category": "AI Care Delivery",
+        "image": "https://media.zawya.com/prod/images/gm_preview/5ae0271780b8-180427060631jfiu-jpg.webp",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": true,
+        "originalUrl": "https://www.zawya.com/en/projects/kuwait-approves-award-of-oilfield-water-separation-deal-418903",
+        "articlePath": "/article.html?issue=2026-08-02&article=2026-08-02-kuwait-approves-award-of-oilfield-water-separation-deal"
       },
       {
         "id": "2026-08-02-emirates-nbd-s-hsbc-egypt-retail-acquisition-to-boost-deposits-loans",
@@ -875,23 +1063,6 @@
         "justIn": false,
         "originalUrl": "https://www.zawya.com/en/capital-markets/banking-and-insurance/pif-backed-saudi-re-q2-profit-more-than-doubles-418649",
         "articlePath": "/article.html?issue=2026-08-02&article=2026-08-02-pif-backed-saudi-re-q2-profit-more-than-doubles"
-      },
-      {
-        "id": "2026-08-02-alpha-dhabi-net-profit-surges-48-to-2-7bln-in-h1-2026",
-        "title": "Alpha Dhabi net profit surges 48% to $2.7bln in H1 2026",
-        "summary": "Revenue rose 5% to AED 37.6 billion",
-        "source": "Zawya Pharmaceuticals",
-        "sourceHost": "zawya.com",
-        "region": "Middle East",
-        "country": "United Arab Emirates",
-        "publishedAt": "2026-08-03T06:16:59.197Z",
-        "publishedLabel": "August 3, 2026",
-        "category": "Provider Update",
-        "image": "https://media.zawya.com/prod/images/gm_preview/e2e21a624cdb-lleouxorfbsn6hqhx8q1-jpg.webp",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://www.zawya.com/en/capital-markets/alpha-dhabi-net-profit-surges-48-to-2.7bln-in-h1-2026-418608",
-        "articlePath": "/article.html?issue=2026-08-02&article=2026-08-02-alpha-dhabi-net-profit-surges-48-to-2-7bln-in-h1-2026"
       }
     ],
     "diagnostics": [
@@ -925,7 +1096,7 @@
         "category": "Industry Update",
         "image": "https://assets.zawya.com/prod/assets/arrow-down-fill.d30923dc.svg",
         "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.zawya.com/en/business/average-data-breach-cost-in-middle-east-climbs-to-8mln-ibm-418916",
         "articlePath": "/article.html?issue=2026-08-02&article=2026-08-02-average-data-breach-cost-in-middle-east-climbs-to-8mln-ibm"
       }
@@ -935,9 +1106,9 @@
   "thbActions": [
     {
       "segment": "pharma",
-      "articleId": "2026-08-02-theon-pharma-leads-innovation-with-india-s-first-launch-of-vonoprazan-am",
-      "title": "Theon Pharma Leads Innovation with India's First Launch of Vonoprazan–Amoxicillin–Clarithromycin Therapy..",
-      "source": "ET Healthworld",
+      "articleId": "2026-08-02-japan-s-takeda-bets-on-dengue-vax-to-reshape-india-playbook",
+      "title": "Japan's Takeda bets on dengue vax to reshape India playbook",
+      "source": "Economic Times Pharma",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
     },
@@ -945,6 +1116,14 @@
       "segment": "pharma",
       "articleId": "2026-08-02-private-equity-firm-creador-in-talks-to-buy-into-generic-drug-co-leeford",
       "title": "Private equity firm Creador in talks to buy into generic drug co Leeford Health",
+      "source": "Economic Times Pharma",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "pharma",
+      "articleId": "2026-08-02-ipa-seeks-to-regularise-legacy-drugs",
+      "title": "IPA seeks to regularise 'legacy' drugs",
       "source": "Economic Times Pharma",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
@@ -959,19 +1138,11 @@
     },
     {
       "segment": "pharma",
-      "articleId": "2026-08-02-tb-cases-mortality-rate-dipped-significantly-between-2015-and-2024-union",
-      "title": "TB cases, mortality rate dipped significantly between 2015 and 2024: Union health minister",
+      "articleId": "2026-08-02-revvity-raises-annual-profit-revenue-forecasts-on-strong-diagnostics-dem",
+      "title": "Revvity raises annual profit, revenue forecasts on strong diagnostics demand",
       "source": "ET Healthworld",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
-      "segment": "pharma",
-      "articleId": "2026-08-02-treatment-trials-for-ebola-strain-behind-congo-outbreak-show-promise-who",
-      "title": "Treatment trials for Ebola strain behind Congo outbreak show promise, WHO says",
-      "source": "ET Healthworld",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+      "solution": "THB Commercial Analytics",
+      "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
     },
     {
       "segment": "providers",
@@ -999,16 +1170,16 @@
     },
     {
       "segment": "providers",
-      "articleId": "2026-08-02-the-conversation-is-shifting-from-how-many-beds-do-we-have-to-how-effect",
-      "title": "The conversation is shifting from ‘how many beds do we have’ to ‘how effectively are we using them?’",
+      "articleId": "2026-08-02-trice-imaging-signs-transformed-arrogyam-to-take-tricefy-to-hospitals-an",
+      "title": "Trice Imaging signs TransforMed Arrogyam to take ‘Tricefy’ to hospitals & clinics across India",
       "source": "Express Healthcare",
       "solution": "THB Provider CRM",
       "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
     },
     {
       "segment": "providers",
-      "articleId": "2026-08-02-trice-imaging-signs-transformed-arrogyam-to-take-tricefy-to-hospitals-an",
-      "title": "Trice Imaging signs TransforMed Arrogyam to take ‘Tricefy’ to hospitals & clinics across India",
+      "articleId": "2026-08-02-the-women-s-hospital-advances-access-to-precision-surgery-with-ssi-mantr",
+      "title": "The Women’s Hospital advances access to precision surgery with SSI Mantra 3",
       "source": "Express Healthcare",
       "solution": "THB Provider CRM",
       "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
