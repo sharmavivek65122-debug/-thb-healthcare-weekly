@@ -5,17 +5,18 @@
   "startDate": "2026-07-04T18:30:00.000Z",
   "endDate": "2026-07-10T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-08-05T15:40:10.100Z",
+  "updatedAt": "2026-08-06T07:15:26.610Z",
   "coverage": {
     "pharma": 1,
-    "providers": 18,
+    "providers": 19,
     "diagnostics": 5,
     "healthtech": 0
   },
   "sourcesUsed": [
     "ET Healthworld Diagnostics",
     "ET Healthworld Hospitals",
-    "Express Healthcare Posts"
+    "Express Healthcare Posts",
+    "Zawya Pharmaceuticals"
   ],
   "segments": {
     "pharma": [
@@ -343,6 +344,23 @@
         "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/news/maxivision-appoints-badrinarayan-srikanth-as-group-ceo/454300/",
         "articlePath": "/article.html?issue=2026-07-05&article=2026-07-05-maxivision-appoints-badrinarayan-srikanth-as-group-ceo"
+      },
+      {
+        "id": "2026-07-05-bahrain-approves-new-rules-for-shared-accommodation",
+        "title": "Bahrain approves new rules for shared accommodation",
+        "summary": "Property owners will now be required to notify the relevant municipality before renting out premises as shared housing and provide proof that the property complies with health, safety and security requirements",
+        "source": "Zawya Pharmaceuticals",
+        "sourceHost": "zawya.com",
+        "region": "Middle East",
+        "country": "Bahrain",
+        "publishedAt": "2026-07-10T07:11:40.710Z",
+        "publishedLabel": "July 10, 2026",
+        "category": "AI Care Delivery",
+        "image": "https://assets.zawya.com/prod/assets/arrow-down-fill.d30923dc.svg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": false,
+        "originalUrl": "https://www.zawya.com/en/business/real-estate/bahrain-approves-new-rules-for-shared-accommodation-400013",
+        "articlePath": "/article.html?issue=2026-07-05&article=2026-07-05-bahrain-approves-new-rules-for-shared-accommodation"
       }
     ],
     "diagnostics": [
