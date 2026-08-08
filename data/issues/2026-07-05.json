@@ -5,21 +5,38 @@
   "startDate": "2026-07-04T18:30:00.000Z",
   "endDate": "2026-07-10T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-08-07T14:33:23.560Z",
+  "updatedAt": "2026-08-08T05:20:01.693Z",
   "coverage": {
-    "pharma": 0,
-    "providers": 17,
-    "diagnostics": 4,
+    "pharma": 1,
+    "providers": 18,
+    "diagnostics": 5,
     "healthtech": 0
   },
   "sourcesUsed": [
     "ET Healthworld Diagnostics",
     "ET Healthworld Hospitals",
-    "Express Healthcare Posts",
-    "Zawya Pharmaceuticals"
+    "Express Healthcare Posts"
   ],
   "segments": {
-    "pharma": [],
+    "pharma": [
+      {
+        "id": "2026-07-05-beyond-the-pills-what-india-s-latest-dpco-amendment-could-mean-for-medte",
+        "title": "Beyond the pills: What India’s latest DPCO Amendment could mean for MedTech",
+        "summary": "Piyush Sharma, an advocacy professional with Astrum, examines how the latest DPCO amendment could reshape India's approach to MedTech pricing and value-based innovation. The views expressed here are personal.",
+        "source": "Express Healthcare Posts",
+        "sourceHost": "expresshealthcare.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-07-09T10:03:00.000Z",
+        "publishedLabel": "July 9, 2026",
+        "category": "Industry Update",
+        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/07/09153201/EH_GB_Piyush_Sharma_750.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": false,
+        "originalUrl": "https://www.expresshealthcare.in/news/beyond-the-pills-what-indias-latest-dpco-amendment-could-mean-for-medtech/454297/",
+        "articlePath": "/article.html?issue=2026-07-05&article=2026-07-05-beyond-the-pills-what-india-s-latest-dpco-amendment-could-mean-for-medte"
+      }
+    ],
     "providers": [
       {
         "id": "2026-07-05-aster-launches-robotic-spine-care-institute-to-advance-neuroscience-trea",
@@ -260,6 +277,40 @@
         "articlePath": "/article.html?issue=2026-07-05&article=2026-07-05-robotic-and-advanced-surgery-shaping-the-future-of-surgical-care-in-indi"
       },
       {
+        "id": "2026-07-05-the-dead-who-made-medicine-possible",
+        "title": "The dead who made medicine possible",
+        "summary": "Robert Louis Stevenson’s The Body Snatcher was published in 1884, half a century after Britain’s Anatomy Act tried to regulate the supply of bodies to medical schools. The story belongs to the grim afterlife of the Burke and Hare murders in Edinburgh, where...",
+        "source": "Express Healthcare Posts",
+        "sourceHost": "expresshealthcare.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-07-09T11:47:44.000Z",
+        "publishedLabel": "July 9, 2026",
+        "category": "AI Care Delivery",
+        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/07/09111432/New-Project-3.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": false,
+        "originalUrl": "https://www.expresshealthcare.in/news/the-dead-who-made-medicine-possible/454280/",
+        "articlePath": "/article.html?issue=2026-07-05&article=2026-07-05-the-dead-who-made-medicine-possible"
+      },
+      {
+        "id": "2026-07-05-nadda-to-lay-foundation-stone-for-icmr-centre-for-high-altitude-medicine",
+        "title": "Nadda to lay foundation stone for ICMR Centre for High Altitude Medicine in Keylong on 11 July",
+        "summary": "Centre will support research on high-altitude medicine, public health and climate-sensitive regions in the Himalayan belt",
+        "source": "Express Healthcare Posts",
+        "sourceHost": "expresshealthcare.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-07-10T03:50:12.000Z",
+        "publishedLabel": "July 10, 2026",
+        "category": "Provider Update",
+        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2021/05/14133901/icmr-delhi-newlogo-888.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": false,
+        "originalUrl": "https://www.expresshealthcare.in/news/nadda-to-lay-foundation-stone-for-icmr-centre-for-high-altitude-medicine-in-keylong-on-11-july/454303/",
+        "articlePath": "/article.html?issue=2026-07-05&article=2026-07-05-nadda-to-lay-foundation-stone-for-icmr-centre-for-high-altitude-medicine"
+      },
+      {
         "id": "2026-07-05-intuitive-fortis-mohali-to-establish-india-s-first-total-program-observa",
         "title": "Intuitive, Fortis Mohali to establish India’s first Total Program Observation site in a non-metro city",
         "summary": "MoU aims to support robotic-assisted surgery through programme observation, training and peer-to-peer learning",
@@ -292,23 +343,6 @@
         "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/news/maxivision-appoints-badrinarayan-srikanth-as-group-ceo/454300/",
         "articlePath": "/article.html?issue=2026-07-05&article=2026-07-05-maxivision-appoints-badrinarayan-srikanth-as-group-ceo"
-      },
-      {
-        "id": "2026-07-05-bahrain-approves-new-rules-for-shared-accommodation",
-        "title": "Bahrain approves new rules for shared accommodation",
-        "summary": "Property owners will now be required to notify the relevant municipality before renting out premises as shared housing and provide proof that the property complies with health, safety and security requirements",
-        "source": "Zawya Pharmaceuticals",
-        "sourceHost": "zawya.com",
-        "region": "Middle East",
-        "country": "Bahrain",
-        "publishedAt": "2026-07-10T07:11:40.710Z",
-        "publishedLabel": "July 10, 2026",
-        "category": "AI Care Delivery",
-        "image": "https://assets.zawya.com/prod/assets/arrow-down-fill.d30923dc.svg",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://www.zawya.com/en/business/real-estate/bahrain-approves-new-rules-for-shared-accommodation-400013",
-        "articlePath": "/article.html?issue=2026-07-05&article=2026-07-05-bahrain-approves-new-rules-for-shared-accommodation"
       }
     ],
     "diagnostics": [
@@ -379,11 +413,36 @@
         "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/news/ai-in-radiology-the-future-of-early-diagnosis-in-india/454317/",
         "articlePath": "/article.html?issue=2026-07-05&article=2026-07-05-ai-in-radiology-the-future-of-early-diagnosis-in-india"
+      },
+      {
+        "id": "2026-07-05-jp-nadda-reviews-progress-of-aiims-bibinagar-in-hyderabad",
+        "title": "JP Nadda reviews progress of AIIMS Bibinagar in Hyderabad",
+        "summary": "Health Minister reviews infrastructure, medical education, patient care, research and construction at the institute",
+        "source": "Express Healthcare Posts",
+        "sourceHost": "expresshealthcare.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-07-10T05:26:43.000Z",
+        "publishedLabel": "July 10, 2026",
+        "category": "Industry Update",
+        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2018/05/28060621/eh-aiims-safdarjung.jpg",
+        "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
+        "justIn": false,
+        "originalUrl": "https://www.expresshealthcare.in/news/jp-nadda-reviews-progress-of-aiims-bibinagar-in-hyderabad/454306/",
+        "articlePath": "/article.html?issue=2026-07-05&article=2026-07-05-jp-nadda-reviews-progress-of-aiims-bibinagar-in-hyderabad"
       }
     ],
     "healthtech": []
   },
   "thbActions": [
+    {
+      "segment": "pharma",
+      "articleId": "2026-07-05-beyond-the-pills-what-india-s-latest-dpco-amendment-could-mean-for-medte",
+      "title": "Beyond the pills: What India’s latest DPCO Amendment could mean for MedTech",
+      "source": "Express Healthcare Posts",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
     {
       "segment": "providers",
       "articleId": "2026-07-05-aster-launches-robotic-spine-care-institute-to-advance-neuroscience-trea",
@@ -452,6 +511,14 @@
       "segment": "diagnostics",
       "articleId": "2026-07-05-ai-in-radiology-the-future-of-early-diagnosis-in-india",
       "title": "AI in radiology: The future of early diagnosis in India",
+      "source": "Express Healthcare Posts",
+      "solution": "THB Diagnostics CRM",
+      "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
+    },
+    {
+      "segment": "diagnostics",
+      "articleId": "2026-07-05-jp-nadda-reviews-progress-of-aiims-bibinagar-in-hyderabad",
+      "title": "JP Nadda reviews progress of AIIMS Bibinagar in Hyderabad",
       "source": "Express Healthcare Posts",
       "solution": "THB Diagnostics CRM",
       "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."

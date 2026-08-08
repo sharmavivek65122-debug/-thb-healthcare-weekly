@@ -5,17 +5,17 @@
   "startDate": "2026-07-11T18:30:00.000Z",
   "endDate": "2026-07-17T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-08-07T14:33:23.560Z",
+  "updatedAt": "2026-08-08T05:20:01.693Z",
   "coverage": {
-    "pharma": 4,
-    "providers": 9,
+    "pharma": 2,
+    "providers": 10,
     "diagnostics": 2,
     "healthtech": 0
   },
   "sourcesUsed": [
-    "BioSpectrum Asia Middle East",
     "ET Healthworld Hospitals",
-    "Express Healthcare Posts"
+    "Express Healthcare Posts",
+    "Zawya Pharmaceuticals"
   ],
   "segments": {
     "pharma": [
@@ -52,40 +52,6 @@
         "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/news/why-selling-glp-1s-without-clinical-infrastructure-is-not-obesity-care/454344/",
         "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-why-selling-glp-1s-without-clinical-infrastructure-is-not-obesity-care"
-      },
-      {
-        "id": "2026-07-12-bio-asia-taiwan-2026-taiwan-s-strength-lies-in-building-the-future-of-me",
-        "title": "BIO Asia–Taiwan 2026: Taiwan’s Strength Lies in Building the Future of Medicine from Every Side",
-        "summary": "BIO Asia–Taiwan 2026: Taiwan’s Strength Lies in Building the Future of Medicine from Every Side",
-        "source": "BioSpectrum Asia Middle East",
-        "sourceHost": "biospectrumasia.com",
-        "region": "Middle East",
-        "country": "Oman",
-        "publishedAt": "2026-07-16T18:30:00.000Z",
-        "publishedLabel": "July 17, 2026",
-        "category": "Industry Update",
-        "image": "https://www.biospectrumasia.com/uploads/articles/bio_asia_taiwan_2026_feature_under_400kb-28048.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://www.biospectrumasia.com/analysis/26/28048/bio-asiataiwan-2026-taiwans-strength-lies-in-building-the-future-of-medicine-from-every-side.html",
-        "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-bio-asia-taiwan-2026-taiwan-s-strength-lies-in-building-the-future-of-me"
-      },
-      {
-        "id": "2026-07-12-cepi-university-of-oxford-and-serum-institute-of-india-launch-trials-for",
-        "title": "CEPI, University of Oxford and Serum Institute of India launch trials for Bundibugyo ebolavirus vaccine",
-        "summary": "CEPI, University of Oxford and Serum Institute of India launch trials for Bundibugyo ebolavirus vaccine",
-        "source": "BioSpectrum Asia Middle East",
-        "sourceHost": "biospectrumasia.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-07-15T18:30:00.000Z",
-        "publishedLabel": "July 16, 2026",
-        "category": "Launch",
-        "image": "https://www.biospectrumasia.com/uploads/articles/screenshot_16_7_2026_124145_cepi_net-28021.jpeg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://www.biospectrumasia.com/news/25/28021/cepi-university-of-oxford-and-serum-institute-of-india-launch-trials-for-bundibugyo-ebolavirus-vaccine.html",
-        "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-cepi-university-of-oxford-and-serum-institute-of-india-launch-trials-for"
       }
     ],
     "providers": [
@@ -241,6 +207,23 @@
         "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/news/robotic-surgery-is-changing-more-than-the-way-we-operate/454329/",
         "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-robotic-surgery-is-changing-more-than-the-way-we-operate"
+      },
+      {
+        "id": "2026-07-12-mediclinic-city-hospital-marks-100-kidney-transplants",
+        "title": "Mediclinic City Hospital marks 100 kidney transplants",
+        "summary": "Marking a significant milestone in the hospital’s transplant programme and its long-standing commitment to specialised renal care",
+        "source": "Zawya Pharmaceuticals",
+        "sourceHost": "zawya.com",
+        "region": "Middle East",
+        "country": "United Arab Emirates",
+        "publishedAt": "2026-07-17T12:51:45.777Z",
+        "publishedLabel": "July 17, 2026",
+        "category": "Hospital",
+        "image": "https://media.zawya.com/prod/images/gm_preview/2c3267c87220-mcit-image-205137mm.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": false,
+        "originalUrl": "https://www.zawya.com/en/sponsored-content/mediclinic-city-hospital-marks-100-kidney-transplants-401018",
+        "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-mediclinic-city-hospital-marks-100-kidney-transplants"
       }
     ],
     "diagnostics": [
@@ -297,22 +280,6 @@
       "source": "Express Healthcare Posts",
       "solution": "THB Commercial Analytics",
       "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
-    },
-    {
-      "segment": "pharma",
-      "articleId": "2026-07-12-bio-asia-taiwan-2026-taiwan-s-strength-lies-in-building-the-future-of-me",
-      "title": "BIO Asia–Taiwan 2026: Taiwan’s Strength Lies in Building the Future of Medicine from Every Side",
-      "source": "BioSpectrum Asia Middle East",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
-      "segment": "pharma",
-      "articleId": "2026-07-12-cepi-university-of-oxford-and-serum-institute-of-india-launch-trials-for",
-      "title": "CEPI, University of Oxford and Serum Institute of India launch trials for Bundibugyo ebolavirus vaccine",
-      "source": "BioSpectrum Asia Middle East",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
     },
     {
       "segment": "providers",
