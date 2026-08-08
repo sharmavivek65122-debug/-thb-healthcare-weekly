@@ -5,10 +5,10 @@
   "startDate": "2026-08-01T18:30:00.000Z",
   "endDate": "2026-08-07T18:30:00.000Z",
   "status": "live",
-  "updatedAt": "2026-08-08T05:20:01.693Z",
+  "updatedAt": "2026-08-08T14:07:05.348Z",
   "coverage": {
-    "pharma": 44,
-    "providers": 15,
+    "pharma": 48,
+    "providers": 17,
     "diagnostics": 1,
     "healthtech": 1
   },
@@ -19,6 +19,7 @@
     "Economic Times Pharma",
     "Express Healthcare",
     "Healthcare MEA",
+    "Lupin Updates",
     "Medical Dialogues Pharma",
     "PharmaTutor News",
     "Zawya Pharmaceuticals"
@@ -327,7 +328,7 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-133044908,imgsize-148740,width-1200,height=627,overlay-ethealth,resizemode-75/education/india-has-86360-pg-medical-seats-no-proposal-to-convert-all-diploma-seats-to-dnb-govt.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/education/india-has-86360-pg-medical-seats-no-proposal-to-convert-all-diploma-seats-to-dnb-govt/133044908",
         "articlePath": "/article.html?issue=2026-08-02&article=2026-08-02-india-has-86-360-pg-medical-seats-no-proposal-to-convert-all-diploma-sea"
       },
@@ -344,7 +345,7 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-133044893,imgsize-60182,width-1200,height=627,overlay-ethealth,resizemode-75/industry/blackstones-ags-health-files-updated-draft-papers-for-500-million-india-ipo.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/blackstones-ags-health-files-updated-draft-papers-for-500-million-india-ipo/133044893",
         "articlePath": "/article.html?issue=2026-08-02&article=2026-08-02-blackstone-s-ags-health-files-updated-draft-papers-for-500-million-india"
       },
@@ -417,6 +418,40 @@
         "articlePath": "/article.html?issue=2026-08-02&article=2026-08-02-alteogen-grants-worldwide-rights-to-alt-b4-platform-in-us-365m-hybrozyme"
       },
       {
+        "id": "2026-08-02-astrazeneca-expands-china-footprint-with-new-cspc-manufacturing-joint-ve",
+        "title": "AstraZeneca expands China footprint with new CSPC manufacturing joint venture | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
+        "summary": "The new venture will initially manufacture biologic drug substances that the two companies mutually select for global markets.",
+        "source": "Healthcare MEA",
+        "sourceHost": "healthcaremea.com",
+        "region": "Middle East",
+        "country": "Middle East",
+        "publishedAt": "2026-08-07T08:53:19.000Z",
+        "publishedLabel": "August 7, 2026",
+        "category": "Manufacturing",
+        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/08/image-1600x900-2026-08-07T114435.740.png",
+        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
+        "justIn": true,
+        "originalUrl": "https://www.healthcaremea.com/2026/08/07/astrazeneca-expands-china-footprint-with-new-cspc-manufacturing-joint-venture/",
+        "articlePath": "/article.html?issue=2026-08-02&article=2026-08-02-astrazeneca-expands-china-footprint-with-new-cspc-manufacturing-joint-ve"
+      },
+      {
+        "id": "2026-08-02-asymbio-secures-us-184m-financing-to-scale-biologics-cdmo-capabilities-h",
+        "title": "AsymBio secures US$184M financing to scale biologics CDMO capabilities | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
+        "summary": "AsymBio plans to use the additional capital to expand its research and development capabilities, GMP manufacturing lines and high-containment facilities.",
+        "source": "Healthcare MEA",
+        "sourceHost": "healthcaremea.com",
+        "region": "Middle East",
+        "country": "Middle East",
+        "publishedAt": "2026-08-07T08:35:00.000Z",
+        "publishedLabel": "August 7, 2026",
+        "category": "Manufacturing",
+        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/08/image-1600x900-2026-08-07T103315.587.png",
+        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
+        "justIn": true,
+        "originalUrl": "https://www.healthcaremea.com/2026/08/07/asymbio-secures-us184m-financing-to-scale-biologics-cdmo-capabilities/",
+        "articlePath": "/article.html?issue=2026-08-02&article=2026-08-02-asymbio-secures-us-184m-financing-to-scale-biologics-cdmo-capabilities-h"
+      },
+      {
         "id": "2026-08-02-inocras-secures-us-31m-series-b-3-funding-to-drive-u-s-expansion-of-canc",
         "title": "Inocras secures US$31M Series B-3 funding to drive U.S. expansion of cancer genomics | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
         "summary": "The newly raised capital will enable Inocras to expand its commercial operations and clinical infrastructure across the United States.",
@@ -485,6 +520,23 @@
         "articlePath": "/article.html?issue=2026-08-02&article=2026-08-02-astrazeneca-bristol-myers-squibb-hold-preliminary-usd-400-billion-merger"
       },
       {
+        "id": "2026-08-02-chugai-pharmaceutical-adopts-phylo-s-agentic-ai-platform-for-drug-discov",
+        "title": "Chugai Pharmaceutical adopts Phylo’s agentic AI platform for drug discovery | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
+        "summary": "Under the collaboration, Chugai scientists will use Biomni Lab to bring together AI capabilities and diverse biomedical resources within the company’s research environment.",
+        "source": "Healthcare MEA",
+        "sourceHost": "healthcaremea.com",
+        "region": "Middle East",
+        "country": "Middle East",
+        "publishedAt": "2026-08-07T07:31:12.000Z",
+        "publishedLabel": "August 7, 2026",
+        "category": "Manufacturing",
+        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/08/image-1600x900-2026-08-07T101747.687.png",
+        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
+        "justIn": true,
+        "originalUrl": "https://www.healthcaremea.com/2026/08/07/chugai-pharmaceutical-adopts-phylos-agentic-ai-platform-for-drug-discovery/",
+        "articlePath": "/article.html?issue=2026-08-02&article=2026-08-02-chugai-pharmaceutical-adopts-phylo-s-agentic-ai-platform-for-drug-discov"
+      },
+      {
         "id": "2026-08-02-cipla-s-invagen-receives-usfda-eir-for-new-york-manufacturing-facility",
         "title": "Cipla's InvaGen Receives USFDA EIR for New York Manufacturing Facility",
         "summary": "Mumbai: Cipla Limited has announced that its wholly owned subsidiary, InvaGen Pharmaceuticals, Inc., has received the Establishment Inspection Report (EIR) from the United States Food and Drug...",
@@ -514,7 +566,7 @@
         "category": "Manufacturing",
         "image": "https://medicaldialogues.in/h-upload/2023/08/07/215844-warning-letter.jpg",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/dabur-faces-usfda-warning-letter-over-falsified-records-cgmp-violations-at-silvassa-facility-176772",
         "articlePath": "/article.html?issue=2026-08-02&article=2026-08-02-dabur-faces-usfda-warning-letter-over-falsified-records-cgmp-violations-"
       },
@@ -633,7 +685,7 @@
         "category": "Manufacturing",
         "image": "https://medicaldialogues.in/h-upload/2026/08/07/363659-screenshot-2026-08-07-142428.jpg",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/cohance-lifesciences-receives-5-usfda-observations-for-hyderabad-plant-176770",
         "articlePath": "/article.html?issue=2026-08-02&article=2026-08-02-cohance-lifesciences-receives-5-usfda-observations-for-hyderabad-plant"
       },
@@ -650,7 +702,7 @@
         "category": "Approval",
         "image": "https://medicaldialogues.in/h-upload/2023/01/11/197591-moderna.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/moderna-secures-usfda-approval-for-first-mrna-based-seasonal-flu-vaccine-mflusiva-176769",
         "articlePath": "/article.html?issue=2026-08-02&article=2026-08-02-moderna-secures-usfda-approval-for-first-mrna-based-seasonal-flu-vaccine"
       },
@@ -757,6 +809,23 @@
         "articlePath": "/article.html?issue=2026-08-02&article=2026-08-02-sandoz-moves-to-resolve-legacy-u-s-generic-drug-litigation-with-nearly-4"
       },
       {
+        "id": "2026-08-02-122-kg-ganja-seized-2-persons-arrested-in-west-bengal",
+        "title": "122 kg ganja seized, 2 persons arrested in West Bengal",
+        "summary": "Police in West Bengal's South 24 Parganas district seized 122 kilograms of ganja. Two individuals, Faridul Piyada and Sahebur Rahman Molla, were arrested during the operation. The seizure occurred on Friday night following a tip-off and a police raid....",
+        "source": "Lupin Updates",
+        "sourceHost": "economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-08-08T13:40:00.000Z",
+        "publishedLabel": "August 8, 2026",
+        "category": "Industry Update",
+        "image": "https://img.etimg.com/thumb/msid-133053848,width-1200,height-630,imgsize-148280,overlay-economictimes/articleshow.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://economictimes.indiatimes.com/news/india/122-kg-ganja-seized-2-persons-arrested-in-west-bengal/articleshow/133053619.cms",
+        "articlePath": "/article.html?issue=2026-08-02&article=2026-08-02-122-kg-ganja-seized-2-persons-arrested-in-west-bengal"
+      },
+      {
         "id": "2026-08-02-dutch-court-grants-novo-nordisk-preliminary-injunction-in-semaglutide-na",
         "title": "Dutch Court Grants Novo Nordisk Preliminary Injunction in Semaglutide Nasal Spray Patent Dispute",
         "summary": "Stockholm: Novo Nordisk said on Wednesday it ‌had ⁠won ⁠a preliminary injunction against Ceban Ziekenhuisfarmacie from a district court in the Netherlands in a patent infringement case involving a...",
@@ -769,7 +838,7 @@
         "category": "Industry Update",
         "image": "https://medicaldialogues.in/h-upload/2024/01/25/230934-novo-nordisk-50.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/dutch-court-grants-novo-nordisk-preliminary-injunction-in-semaglutide-nasal-spray-patent-dispute-176768",
         "articlePath": "/article.html?issue=2026-08-02&article=2026-08-02-dutch-court-grants-novo-nordisk-preliminary-injunction-in-semaglutide-na"
       }
@@ -788,7 +857,7 @@
         "category": "Hospital",
         "image": "https://etimg.etb2bimg.com/thumb/msid-133018828,imgsize-58600,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/kkr-deepens-india-healthcare-bet-with-1-39-billion-medicover-acquisition.jpg",
         "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/kkr-deepens-india-healthcare-bet-with-1-39-billion-medicover-acquisition/133018828",
         "articlePath": "/article.html?issue=2026-08-02&article=2026-08-02-kkr-deepens-india-healthcare-bet-with-1-39-billion-medicover-acquisition"
       },
@@ -963,6 +1032,40 @@
         "articlePath": "/article.html?issue=2026-08-02&article=2026-08-02-trice-imaging-signs-transformed-arrogyam-to-take-tricefy-to-hospitals-an"
       },
       {
+        "id": "2026-08-02-bupa-careconnect-expands-integrated-digital-healthcare-network-across-sa",
+        "title": "Bupa CareConnect expands integrated digital healthcare network across Saudi Arabia",
+        "summary": "Through its collaboration with Al Borg Diagnostics, members can schedule laboratory tests at home, reducing the need to visit healthcare facilities while encouraging earlier diagnosis and routine ...",
+        "source": "Healthcare MEA",
+        "sourceHost": "healthcaremea.com",
+        "region": "Middle East",
+        "country": "Saudi Arabia",
+        "publishedAt": "2026-08-07T07:51:05.000Z",
+        "publishedLabel": "August 7, 2026",
+        "category": "Provider Update",
+        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/08/image-1600x900-2026-08-07T104611.477.png",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": true,
+        "originalUrl": "https://www.healthcaremea.com/2026/08/07/bupa-careconnect-expands-integrated-digital-healthcare-network-across-saudi-arabia/",
+        "articlePath": "/article.html?issue=2026-08-02&article=2026-08-02-bupa-careconnect-expands-integrated-digital-healthcare-network-across-sa"
+      },
+      {
+        "id": "2026-08-02-nyamira-hospital-performs-first-total-hip-replacement-surgeries-healthca",
+        "title": "Nyamira Hospital performs first total hip replacement surgeries | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
+        "summary": "The hospital successfully conducted two total hip replacement procedures in a carefully planned three-hour operation led by a multidisciplinary team of specialists.",
+        "source": "Healthcare MEA",
+        "sourceHost": "healthcaremea.com",
+        "region": "Middle East",
+        "country": "Middle East",
+        "publishedAt": "2026-08-07T07:50:00.000Z",
+        "publishedLabel": "August 7, 2026",
+        "category": "Hospital",
+        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/08/image-1600x900-2026-08-07T084829.610.png",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": true,
+        "originalUrl": "https://www.healthcaremea.com/2026/08/07/nyamira-hospital-performs-first-total-hip-replacement-surgeries/",
+        "articlePath": "/article.html?issue=2026-08-02&article=2026-08-02-nyamira-hospital-performs-first-total-hip-replacement-surgeries-healthca"
+      },
+      {
         "id": "2026-08-02-dr-reddy-s-launches-generic-bridion-injection-in-us",
         "title": "Dr Reddy's Launches Generic Bridion Injection in US",
         "summary": "New Delhi: Dr Reddy's Laboratories on Tuesday said it has launched the generic version of Sugammadex injection indicated to reverse the effects of the muscle relaxants given during surgery in the...",
@@ -992,7 +1095,7 @@
         "category": "Provider Update",
         "image": "https://media.zawya.com/prod/images/gm_preview/33cf0f19980c-gettyimages-1143221045.jpg",
         "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.zawya.com/en/business/uae-realty-market/work-in-full-swing-on-852mln-abu-dhabi-integrated-residential-community-424011",
         "articlePath": "/article.html?issue=2026-08-02&article=2026-08-02-work-in-full-swing-on-852mln-abu-dhabi-integrated-residential-community"
       },
