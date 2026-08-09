@@ -5,18 +5,89 @@
   "startDate": "2026-08-08T18:30:00.000Z",
   "endDate": "2026-08-14T18:30:00.000Z",
   "status": "live",
-  "updatedAt": "2026-08-09T05:28:48.530Z",
+  "updatedAt": "2026-08-09T14:07:45.611Z",
   "coverage": {
-    "pharma": 2,
-    "providers": 0,
+    "pharma": 8,
+    "providers": 1,
     "diagnostics": 0,
     "healthtech": 0
   },
   "sourcesUsed": [
+    "ET Healthworld",
+    "Economic Times Pharma",
+    "Healthcare MEA",
     "Medical Dialogues Pharma"
   ],
   "segments": {
     "pharma": [
+      {
+        "id": "2026-08-09-gland-pharma-inks-strategic-cdmo-deal-with-global-pharma-firm-eyes-90-10",
+        "title": "Gland Pharma inks strategic CDMO deal with global pharma firm, eyes $90-100 million annual revenue",
+        "summary": "Gland Pharma has signed a strategic Manufacturing and Supply Agreement with a leading global pharmaceutical company for technology transfer, manufacturing and supply of sterile injectable products. The agreement covers 55 SKUs across three sites, with...",
+        "source": "Economic Times Pharma",
+        "sourceHost": "economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-08-09T05:42:46.000Z",
+        "publishedLabel": "August 9, 2026",
+        "category": "Manufacturing",
+        "image": "https://img.etimg.com/thumb/msid-133062778,width-1200,height-630,imgsize-30082,overlay-economictimes/articleshow.jpg",
+        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
+        "justIn": true,
+        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/gland-pharma-inks-strategic-cdmo-deal-with-global-pharma-firm-eyes-90-100-million-annual-revenue/articleshow/133062684.cms",
+        "articlePath": "/article.html?issue=2026-08-09&article=2026-08-09-gland-pharma-inks-strategic-cdmo-deal-with-global-pharma-firm-eyes-90-10"
+      },
+      {
+        "id": "2026-08-09-ai-in-medtech-can-transform-healthcare-report-paper-highlights-five-prio",
+        "title": "AI in MedTech can transform healthcare, report paper highlights five priorities",
+        "summary": "Titled 'AI in MedTech: Revolutionising Healthcare Through Artificial Intelligence', the paper was released at the 9th edition of India Medical Device 2026, organised by the Department of Pharmaceuticals in association with FICCI at Vigyan Bhawan in New Delhi.",
+        "source": "ET Healthworld",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-08-09T08:17:22.000Z",
+        "publishedLabel": "August 9, 2026",
+        "category": "Industry Update",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-133064274,imgsize-364254,width-1200,height=627,overlay-ethealth,resizemode-75/medical-devices/ai-in-medtech-can-transform-healthcare-report-paper-highlights-five-priorities.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/medical-devices/ai-in-medtech-can-transform-healthcare-report-paper-highlights-five-priorities/133064274",
+        "articlePath": "/article.html?issue=2026-08-09&article=2026-08-09-ai-in-medtech-can-transform-healthcare-report-paper-highlights-five-prio"
+      },
+      {
+        "id": "2026-08-09-eli-lilly-discontinues-gaucher-type-1-gene-therapy-trial-from-prevail-bu",
+        "title": "Eli Lilly discontinues Gaucher type 1 gene therapy trial from Prevail buyout | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
+        "summary": "Lilly disclosed the decision as part of its second-quarter results, removing a phase 1/2 study of LY3884961 in Gaucher disease type 1 (GD1) from its pipeline.",
+        "source": "Healthcare MEA",
+        "sourceHost": "healthcaremea.com",
+        "region": "Middle East",
+        "country": "Middle East",
+        "publishedAt": "2026-08-09T08:37:49.000Z",
+        "publishedLabel": "August 9, 2026",
+        "category": "Manufacturing",
+        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/08/image-1600x900-2026-08-07T122040.076.png",
+        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
+        "justIn": true,
+        "originalUrl": "https://www.healthcaremea.com/2026/08/09/eli-lilly-discontinues-gaucher-type-1-gene-therapy-trial-from-prevail-buyout/",
+        "articlePath": "/article.html?issue=2026-08-09&article=2026-08-09-eli-lilly-discontinues-gaucher-type-1-gene-therapy-trial-from-prevail-bu"
+      },
+      {
+        "id": "2026-08-09-cdsco-official-pharma-md-under-cbi-lens-over-alleged-bribery-of-around-r",
+        "title": "CDSCO Official, Pharma MD Under CBI Lens Over Alleged Bribery of around Rs 50000",
+        "summary": "New Delhi: A senior Central Drugs Standard Control Organisation (CDSCO) official and the managing director of a pharmaceutical company have come under the Central Bureau of Investigation (CBI) scanner...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-08-09T09:54:01.000Z",
+        "publishedLabel": "August 9, 2026",
+        "category": "Industry Update",
+        "image": "https://medicaldialogues.in/h-upload/2025/11/28/311358-bribery-case.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/cdsco-official-pharma-md-under-cbi-lens-over-alleged-bribery-of-around-rs-50000-176837",
+        "articlePath": "/article.html?issue=2026-08-09&article=2026-08-09-cdsco-official-pharma-md-under-cbi-lens-over-alleged-bribery-of-around-r"
+      },
       {
         "id": "2026-08-09-emcure-pharma-names-satish-mehta-chairman-appoints-raghu-kumar-as-indepe",
         "title": "Emcure Pharma Names Satish Mehta Chairman, Appoints Raghu Kumar as Independent Director",
@@ -33,6 +104,40 @@
         "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/emcure-pharma-names-satish-mehta-chairman-appoints-raghu-kumar-as-independent-director-176833",
         "articlePath": "/article.html?issue=2026-08-09&article=2026-08-09-emcure-pharma-names-satish-mehta-chairman-appoints-raghu-kumar-as-indepe"
+      },
+      {
+        "id": "2026-08-09-medcare-dubai-launches-patient-specific-3d-printed-surgical-guides-for-s",
+        "title": "Medcare Dubai launches patient-specific 3D-printed surgical guides for spine care | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
+        "summary": "The technology is designed to improve surgical precision, shorten operating times, reduce blood loss, and accelerate recovery for patients with severe scoliosis and other spinal deformities.",
+        "source": "Healthcare MEA",
+        "sourceHost": "healthcaremea.com",
+        "region": "Middle East",
+        "country": "United Arab Emirates",
+        "publishedAt": "2026-08-09T08:14:28.000Z",
+        "publishedLabel": "August 9, 2026",
+        "category": "Manufacturing",
+        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/08/image-1600x900-2026-08-07T121026.947.png",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://www.healthcaremea.com/2026/08/09/medcare-dubai-launches-patient-specific-3d-printed-surgical-guides-for-spine-care/",
+        "articlePath": "/article.html?issue=2026-08-09&article=2026-08-09-medcare-dubai-launches-patient-specific-3d-printed-surgical-guides-for-s"
+      },
+      {
+        "id": "2026-08-09-torrent-pharma-data-theft-case-ahmedabad-court-denies-bail-to-man-accuse",
+        "title": "Torrent Pharma Data Theft Case: Ahmedabad Court Denies Bail to Man Accused of Rs 10 Crore Extortion Bid",
+        "summary": "Ahmedabad: An Ahmedabad Sessions Court has dismissed the bail application of Odisha resident K. Lokanath Subodh, who has been accused in a cybercrime case involving the alleged theft of confidential...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-08-09T05:45:31.000Z",
+        "publishedLabel": "August 9, 2026",
+        "category": "Industry Update",
+        "image": "https://medicaldialogues.in/h-upload/2026/07/25/361473-kajal-4.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/torrent-pharma-data-theft-case-ahmedabad-court-denies-bail-to-man-accused-of-rs-10-crore-extortion-bid-176835",
+        "articlePath": "/article.html?issue=2026-08-09&article=2026-08-09-torrent-pharma-data-theft-case-ahmedabad-court-denies-bail-to-man-accuse"
       },
       {
         "id": "2026-08-09-pharmacist-arrested-for-allegedly-renting-licence-to-divert-codeine-coug",
@@ -52,11 +157,61 @@
         "articlePath": "/article.html?issue=2026-08-09&article=2026-08-09-pharmacist-arrested-for-allegedly-renting-licence-to-divert-codeine-coug"
       }
     ],
-    "providers": [],
+    "providers": [
+      {
+        "id": "2026-08-09-abu-dhabi-partners-with-eight-sleep-to-study-ai-powered-sleep-technology",
+        "title": "Abu Dhabi partners with Eight Sleep to study AI-powered sleep technology for sleep apnoea care",
+        "summary": "The initiative supports Abu Dhabi’s broader strategy to use digital health technologies, real-world evidence and artificial intelligence to advance preventive and personalised healthcare.",
+        "source": "Healthcare MEA",
+        "sourceHost": "healthcaremea.com",
+        "region": "Middle East",
+        "country": "United Arab Emirates",
+        "publishedAt": "2026-08-09T08:59:52.000Z",
+        "publishedLabel": "August 9, 2026",
+        "category": "AI Care Delivery",
+        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/08/image-1600x900-2026-08-07T115533.987.png",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": false,
+        "originalUrl": "https://www.healthcaremea.com/2026/08/09/abu-dhabi-partners-with-eight-sleep-to-study-ai-powered-sleep-technology-for-sleep-apnoea-care/",
+        "articlePath": "/article.html?issue=2026-08-09&article=2026-08-09-abu-dhabi-partners-with-eight-sleep-to-study-ai-powered-sleep-technology"
+      }
+    ],
     "diagnostics": [],
     "healthtech": []
   },
   "thbActions": [
+    {
+      "segment": "pharma",
+      "articleId": "2026-08-09-gland-pharma-inks-strategic-cdmo-deal-with-global-pharma-firm-eyes-90-10",
+      "title": "Gland Pharma inks strategic CDMO deal with global pharma firm, eyes $90-100 million annual revenue",
+      "source": "Economic Times Pharma",
+      "solution": "THB Commercial Analytics",
+      "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
+    },
+    {
+      "segment": "pharma",
+      "articleId": "2026-08-09-ai-in-medtech-can-transform-healthcare-report-paper-highlights-five-prio",
+      "title": "AI in MedTech can transform healthcare, report paper highlights five priorities",
+      "source": "ET Healthworld",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "pharma",
+      "articleId": "2026-08-09-eli-lilly-discontinues-gaucher-type-1-gene-therapy-trial-from-prevail-bu",
+      "title": "Eli Lilly discontinues Gaucher type 1 gene therapy trial from Prevail buyout | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
+      "source": "Healthcare MEA",
+      "solution": "THB Commercial Analytics",
+      "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
+    },
+    {
+      "segment": "pharma",
+      "articleId": "2026-08-09-cdsco-official-pharma-md-under-cbi-lens-over-alleged-bribery-of-around-r",
+      "title": "CDSCO Official, Pharma MD Under CBI Lens Over Alleged Bribery of around Rs 50000",
+      "source": "Medical Dialogues Pharma",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
     {
       "segment": "pharma",
       "articleId": "2026-08-09-emcure-pharma-names-satish-mehta-chairman-appoints-raghu-kumar-as-indepe",
@@ -66,12 +221,12 @@
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
     },
     {
-      "segment": "pharma",
-      "articleId": "2026-08-09-pharmacist-arrested-for-allegedly-renting-licence-to-divert-codeine-coug",
-      "title": "Pharmacist Arrested for Allegedly Renting Licence to Divert Codeine Cough Syrup in Gujarat",
-      "source": "Medical Dialogues Pharma",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+      "segment": "providers",
+      "articleId": "2026-08-09-abu-dhabi-partners-with-eight-sleep-to-study-ai-powered-sleep-technology",
+      "title": "Abu Dhabi partners with Eight Sleep to study AI-powered sleep technology for sleep apnoea care",
+      "source": "Healthcare MEA",
+      "solution": "THB Provider CRM",
+      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
     }
   ]
 }
