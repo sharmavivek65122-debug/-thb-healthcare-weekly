@@ -1,0 +1,77 @@
+{
+  "key": "2026-08-09",
+  "issueNumber": 27,
+  "rangeLabel": "Aug 9 - Aug 15, 2026",
+  "startDate": "2026-08-08T18:30:00.000Z",
+  "endDate": "2026-08-14T18:30:00.000Z",
+  "status": "live",
+  "updatedAt": "2026-08-09T05:28:48.530Z",
+  "coverage": {
+    "pharma": 2,
+    "providers": 0,
+    "diagnostics": 0,
+    "healthtech": 0
+  },
+  "sourcesUsed": [
+    "Medical Dialogues Pharma"
+  ],
+  "segments": {
+    "pharma": [
+      {
+        "id": "2026-08-09-emcure-pharma-names-satish-mehta-chairman-appoints-raghu-kumar-as-indepe",
+        "title": "Emcure Pharma Names Satish Mehta Chairman, Appoints Raghu Kumar as Independent Director",
+        "summary": "Pune: Emcure Pharmaceuticals Ltd has announced key changes to the composition of its Board of Directors following the recommendations of its Nomination and Remuneration Committee. The Board, at its...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-08-09T04:45:24.000Z",
+        "publishedLabel": "August 9, 2026",
+        "category": "Industry Update",
+        "image": "https://medicaldialogues.in/h-upload/2025/11/28/311381-50-53.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": false,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/emcure-pharma-names-satish-mehta-chairman-appoints-raghu-kumar-as-independent-director-176833",
+        "articlePath": "/article.html?issue=2026-08-09&article=2026-08-09-emcure-pharma-names-satish-mehta-chairman-appoints-raghu-kumar-as-indepe"
+      },
+      {
+        "id": "2026-08-09-pharmacist-arrested-for-allegedly-renting-licence-to-divert-codeine-coug",
+        "title": "Pharmacist Arrested for Allegedly Renting Licence to Divert Codeine Cough Syrup in Gujarat",
+        "summary": "Rajkot: In a major crackdown on the illegal diversion of prescription medicines, Bhavnagar police have arrested a licensed pharmacist for allegedly allowing her pharmacy licence to be used to procure...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-08-09T05:15:57.000Z",
+        "publishedLabel": "August 9, 2026",
+        "category": "Industry Update",
+        "image": "https://medicaldialogues.in/h-upload/2026/06/23/355675-arrest-1.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": false,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/pharmacist-arrested-for-allegedly-renting-licence-to-divert-codeine-cough-syrup-in-gujarat-176834",
+        "articlePath": "/article.html?issue=2026-08-09&article=2026-08-09-pharmacist-arrested-for-allegedly-renting-licence-to-divert-codeine-coug"
+      }
+    ],
+    "providers": [],
+    "diagnostics": [],
+    "healthtech": []
+  },
+  "thbActions": [
+    {
+      "segment": "pharma",
+      "articleId": "2026-08-09-emcure-pharma-names-satish-mehta-chairman-appoints-raghu-kumar-as-indepe",
+      "title": "Emcure Pharma Names Satish Mehta Chairman, Appoints Raghu Kumar as Independent Director",
+      "source": "Medical Dialogues Pharma",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "pharma",
+      "articleId": "2026-08-09-pharmacist-arrested-for-allegedly-renting-licence-to-divert-codeine-coug",
+      "title": "Pharmacist Arrested for Allegedly Renting Licence to Divert Codeine Cough Syrup in Gujarat",
+      "source": "Medical Dialogues Pharma",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    }
+  ]
+}
