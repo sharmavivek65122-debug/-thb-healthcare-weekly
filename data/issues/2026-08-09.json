@@ -5,9 +5,9 @@
   "startDate": "2026-08-08T18:30:00.000Z",
   "endDate": "2026-08-14T18:30:00.000Z",
   "status": "live",
-  "updatedAt": "2026-08-09T14:07:45.611Z",
+  "updatedAt": "2026-08-10T05:55:05.596Z",
   "coverage": {
-    "pharma": 8,
+    "pharma": 14,
     "providers": 1,
     "diagnostics": 0,
     "healthtech": 0
@@ -15,11 +15,47 @@
   "sourcesUsed": [
     "ET Healthworld",
     "Economic Times Pharma",
-    "Healthcare MEA",
-    "Medical Dialogues Pharma"
+    "Express Healthcare",
+    "Lupin Updates",
+    "Medical Dialogues Pharma",
+    "Zawya Pharmaceuticals"
   ],
   "segments": {
     "pharma": [
+      {
+        "id": "2026-08-09-watching-cancer-cells-live-could-open-new-frontiers-in-drug-discovery-ex",
+        "title": "Watching cancer cells live could open new frontiers in drug discovery: Experts",
+        "summary": "Despite advances in genomics, artificial intelligence and precision medicine, scientists still rely heavily on studying cells after they have been chemically fixed or destroyed, providing only a static snapshot of an otherwise dynamic biological process.",
+        "source": "ET Healthworld",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-08-10T02:05:07.000Z",
+        "publishedLabel": "August 10, 2026",
+        "category": "Industry Update",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-133077249,imgsize-65288,width-1200,height=627,overlay-ethealth,resizemode-75/industry/watching-cancer-cells-live-could-open-new-frontiers-in-drug-discovery-experts.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/watching-cancer-cells-live-could-open-new-frontiers-in-drug-discovery-experts/133077249",
+        "articlePath": "/article.html?issue=2026-08-09&article=2026-08-09-watching-cancer-cells-live-could-open-new-frontiers-in-drug-discovery-ex"
+      },
+      {
+        "id": "2026-08-09-warburg-set-to-buy-seacod-maker-universal-nutriscience-for-rs-2800-crore",
+        "title": "Warburg set to buy Seacod-maker Universal NutriScience for Rs 2800 crore",
+        "summary": "Will be 4th acquisition for the US private equity giant in Indias healthsector in four months. Kedaara to make 5x rupee returns on exit.",
+        "source": "Economic Times Pharma",
+        "sourceHost": "economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-08-10T00:00:00.000Z",
+        "publishedLabel": "August 10, 2026",
+        "category": "Industry Update",
+        "image": "https://img.etimg.com/thumb/msid-133074477,width-1200,height-630,imgsize-96737,overlay-economictimes/articleshow.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/warburg-set-to-buy-seacod-maker-universal-nutriscience-for-rs-2800-crore/articleshow/133074248.cms",
+        "articlePath": "/article.html?issue=2026-08-09&article=2026-08-09-warburg-set-to-buy-seacod-maker-universal-nutriscience-for-rs-2800-crore"
+      },
       {
         "id": "2026-08-09-gland-pharma-inks-strategic-cdmo-deal-with-global-pharma-firm-eyes-90-10",
         "title": "Gland Pharma inks strategic CDMO deal with global pharma firm, eyes $90-100 million annual revenue",
@@ -33,9 +69,26 @@
         "category": "Manufacturing",
         "image": "https://img.etimg.com/thumb/msid-133062778,width-1200,height-630,imgsize-30082,overlay-economictimes/articleshow.jpg",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/gland-pharma-inks-strategic-cdmo-deal-with-global-pharma-firm-eyes-90-100-million-annual-revenue/articleshow/133062684.cms",
         "articlePath": "/article.html?issue=2026-08-09&article=2026-08-09-gland-pharma-inks-strategic-cdmo-deal-with-global-pharma-firm-eyes-90-10"
+      },
+      {
+        "id": "2026-08-09-adjusting-gut-bacteria-may-help-with-peanut-allergies",
+        "title": "Adjusting gut bacteria may help with peanut allergies",
+        "summary": "Researchers recruited 10 young adults with severe peanut allergies who reacted to mere traces ‌of peanuts and had ⁠them swallow ⁠frozen \"poop pills\" containing feces - including strains of helpful bacteria - from donors with healthy gut microbiomes. Three...",
+        "source": "ET Healthworld",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-08-10T01:54:03.000Z",
+        "publishedLabel": "August 10, 2026",
+        "category": "Industry Update",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-133077193,imgsize-92536,width-1200,height=627,overlay-ethealth,resizemode-75/industry/adjusting-gut-bacteria-may-help-with-peanut-allergies.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/adjusting-gut-bacteria-may-help-with-peanut-allergies/133077193",
+        "articlePath": "/article.html?issue=2026-08-09&article=2026-08-09-adjusting-gut-bacteria-may-help-with-peanut-allergies"
       },
       {
         "id": "2026-08-09-ai-in-medtech-can-transform-healthcare-report-paper-highlights-five-prio",
@@ -50,26 +103,77 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-133064274,imgsize-364254,width-1200,height=627,overlay-ethealth,resizemode-75/medical-devices/ai-in-medtech-can-transform-healthcare-report-paper-highlights-five-priorities.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/medical-devices/ai-in-medtech-can-transform-healthcare-report-paper-highlights-five-priorities/133064274",
         "articlePath": "/article.html?issue=2026-08-09&article=2026-08-09-ai-in-medtech-can-transform-healthcare-report-paper-highlights-five-prio"
       },
       {
-        "id": "2026-08-09-eli-lilly-discontinues-gaucher-type-1-gene-therapy-trial-from-prevail-bu",
-        "title": "Eli Lilly discontinues Gaucher type 1 gene therapy trial from Prevail buyout | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
-        "summary": "Lilly disclosed the decision as part of its second-quarter results, removing a phase 1/2 study of LY3884961 in Gaucher disease type 1 (GD1) from its pipeline.",
-        "source": "Healthcare MEA",
-        "sourceHost": "healthcaremea.com",
-        "region": "Middle East",
-        "country": "Middle East",
-        "publishedAt": "2026-08-09T08:37:49.000Z",
-        "publishedLabel": "August 9, 2026",
+        "id": "2026-08-09-molbio-diagnostics-collects-281-crore-from-anchor-investors-ahead-of-ipo",
+        "title": "Molbio Diagnostics collects ₹281 crore from anchor investors ahead of IPO",
+        "summary": "Molbio Diagnostics raises ₹281.5 crore from anchor investors ahead of its IPO, with proceeds to fund infrastructure upgrades and new equipment for manufacturing facilities.",
+        "source": "ET Healthworld",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-08-10T02:00:34.000Z",
+        "publishedLabel": "August 10, 2026",
         "category": "Manufacturing",
-        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/08/image-1600x900-2026-08-07T122040.076.png",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-133077318,imgsize-132992,width-1200,height=627,overlay-ethealth,resizemode-75/diagnostics/molbio-diagnostics-collects-281-crore-from-anchor-investors-ahead-of-ipo.jpg",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
         "justIn": true,
-        "originalUrl": "https://www.healthcaremea.com/2026/08/09/eli-lilly-discontinues-gaucher-type-1-gene-therapy-trial-from-prevail-buyout/",
-        "articlePath": "/article.html?issue=2026-08-09&article=2026-08-09-eli-lilly-discontinues-gaucher-type-1-gene-therapy-trial-from-prevail-bu"
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/diagnostics/molbio-diagnostics-collects-281-crore-from-anchor-investors-ahead-of-ipo/133077318",
+        "articlePath": "/article.html?issue=2026-08-09&article=2026-08-09-molbio-diagnostics-collects-281-crore-from-anchor-investors-ahead-of-ipo"
+      },
+      {
+        "id": "2026-08-09-violations-in-deep-burial-of-medical-waste-by-17-states-uts-cpcb-to-ngt",
+        "title": "Violations in 'deep burial' of medical waste by 17 states, UTs: CPCB to NGT",
+        "summary": "The Central Pollution Control Board will act against states violating biomedical waste disposal rules. Many healthcare facilities across seventeen states and Union territories showed non-compliance. Violations included improper burial depth and operating...",
+        "source": "ET Healthworld",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-08-10T02:09:25.000Z",
+        "publishedLabel": "August 10, 2026",
+        "category": "Industry Update",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-133077243,imgsize-126710,width-1200,height=627,overlay-ethealth,resizemode-75/policy/violations-in-deep-burial-of-medical-waste-by-17-states-uts-cpcb-to-ngt.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/policy/violations-in-deep-burial-of-medical-waste-by-17-states-uts-cpcb-to-ngt/133077243",
+        "articlePath": "/article.html?issue=2026-08-09&article=2026-08-09-violations-in-deep-burial-of-medical-waste-by-17-states-uts-cpcb-to-ngt"
+      },
+      {
+        "id": "2026-08-09-j-p-nadda-releases-knowledge-paper-on-ai-in-medtech-revolutionizing-heal",
+        "title": "J P Nadda releases Knowledge Paper on ‘AI in MedTech: Revolutionizing Healthcare Through Artificial Intelligence’",
+        "summary": "Union Minister of Chemicals & Fertilizers and Health & Family Welfare J P Nadda, released a knowledge paper on “AI in MedTech: Revolutionizing Healthcare Through Artificial Intelligence” at the 9th Edition of India Medical Device 2026, organised by the...",
+        "source": "Express Healthcare",
+        "sourceHost": "expresshealthcare.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-08-10T05:10:54.000Z",
+        "publishedLabel": "August 10, 2026",
+        "category": "Industry Update",
+        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/08/10103928/EH_India-MEdical-Device.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://www.expresshealthcare.in/news/j-p-nadda-releases-knowledge-paper-on-ai-in-medtech-revolutionizing-healthcare-through-artificial-intelligence/454634/",
+        "articlePath": "/article.html?issue=2026-08-09&article=2026-08-09-j-p-nadda-releases-knowledge-paper-on-ai-in-medtech-revolutionizing-heal"
+      },
+      {
+        "id": "2026-08-09-emcure-pharma-receives-usfda-establishment-inspection-report-for-sanand-",
+        "title": "Emcure Pharma Receives USFDA Establishment Inspection Report for Sanand Facility",
+        "summary": "New Delhi: Emcure Pharmaceuticals Limited has received the Establishment Inspection Report (EIR) from the United States Food and Drug Administration (USFDA) following an inspection of its formulations...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-08-09T19:49:34.000Z",
+        "publishedLabel": "August 10, 2026",
+        "category": "Industry Update",
+        "image": "https://medicaldialogues.in/h-upload/2025/11/28/311381-50-53.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/emcure-pharma-receives-usfda-establishment-inspection-report-for-sanand-facility-176844",
+        "articlePath": "/article.html?issue=2026-08-09&article=2026-08-09-emcure-pharma-receives-usfda-establishment-inspection-report-for-sanand-"
       },
       {
         "id": "2026-08-09-cdsco-official-pharma-md-under-cbi-lens-over-alleged-bribery-of-around-r",
@@ -84,7 +188,7 @@
         "category": "Industry Update",
         "image": "https://medicaldialogues.in/h-upload/2025/11/28/311358-bribery-case.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/cdsco-official-pharma-md-under-cbi-lens-over-alleged-bribery-of-around-rs-50000-176837",
         "articlePath": "/article.html?issue=2026-08-09&article=2026-08-09-cdsco-official-pharma-md-under-cbi-lens-over-alleged-bribery-of-around-r"
       },
@@ -106,21 +210,21 @@
         "articlePath": "/article.html?issue=2026-08-09&article=2026-08-09-emcure-pharma-names-satish-mehta-chairman-appoints-raghu-kumar-as-indepe"
       },
       {
-        "id": "2026-08-09-medcare-dubai-launches-patient-specific-3d-printed-surgical-guides-for-s",
-        "title": "Medcare Dubai launches patient-specific 3D-printed surgical guides for spine care | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
-        "summary": "The technology is designed to improve surgical precision, shorten operating times, reduce blood loss, and accelerate recovery for patients with severe scoliosis and other spinal deformities.",
-        "source": "Healthcare MEA",
-        "sourceHost": "healthcaremea.com",
-        "region": "Middle East",
-        "country": "United Arab Emirates",
-        "publishedAt": "2026-08-09T08:14:28.000Z",
-        "publishedLabel": "August 9, 2026",
-        "category": "Manufacturing",
-        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/08/image-1600x900-2026-08-07T121026.947.png",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "id": "2026-08-09-molbio-diagnostics-ipo-opens-should-you-subscribe-for-rs-940-crore-issue",
+        "title": "Molbio Diagnostics IPO opens: Should you subscribe for Rs 940 crore issue?",
+        "summary": "Market analysts have recommended subscribing to the issue, noting that Molbio Diagnostics valuations are broadly in line with industry benchmarks. The company is also being offered at a discount to the average P/E multiple of 64.9x for its listed peers,...",
+        "source": "Lupin Updates",
+        "sourceHost": "economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-08-10T02:22:00.000Z",
+        "publishedLabel": "August 10, 2026",
+        "category": "Market",
+        "image": "https://img.etimg.com/thumb/msid-133077723,width-1200,height-630,imgsize-70194,overlay-etmarkets/articleshow.jpg",
+        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
         "justIn": true,
-        "originalUrl": "https://www.healthcaremea.com/2026/08/09/medcare-dubai-launches-patient-specific-3d-printed-surgical-guides-for-spine-care/",
-        "articlePath": "/article.html?issue=2026-08-09&article=2026-08-09-medcare-dubai-launches-patient-specific-3d-printed-surgical-guides-for-s"
+        "originalUrl": "https://economictimes.indiatimes.com/markets/ipos/fpos/molbio-diagnostics-ipo-opens-today-gmp-at-15-check-price-band-should-you-subscribe/articleshow/133077682.cms?from=mdr",
+        "articlePath": "/article.html?issue=2026-08-09&article=2026-08-09-molbio-diagnostics-ipo-opens-should-you-subscribe-for-rs-940-crore-issue"
       },
       {
         "id": "2026-08-09-torrent-pharma-data-theft-case-ahmedabad-court-denies-bail-to-man-accuse",
@@ -135,7 +239,7 @@
         "category": "Industry Update",
         "image": "https://medicaldialogues.in/h-upload/2026/07/25/361473-kajal-4.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/torrent-pharma-data-theft-case-ahmedabad-court-denies-bail-to-man-accused-of-rs-10-crore-extortion-bid-176835",
         "articlePath": "/article.html?issue=2026-08-09&article=2026-08-09-torrent-pharma-data-theft-case-ahmedabad-court-denies-bail-to-man-accuse"
       },
@@ -159,27 +263,43 @@
     ],
     "providers": [
       {
-        "id": "2026-08-09-abu-dhabi-partners-with-eight-sleep-to-study-ai-powered-sleep-technology",
-        "title": "Abu Dhabi partners with Eight Sleep to study AI-powered sleep technology for sleep apnoea care",
-        "summary": "The initiative supports Abu Dhabi’s broader strategy to use digital health technologies, real-world evidence and artificial intelligence to advance preventive and personalised healthcare.",
-        "source": "Healthcare MEA",
-        "sourceHost": "healthcaremea.com",
+        "id": "2026-08-09-hsbc-private-bank-appoints-feras-al-jaramani-to-lead-its-uae-market",
+        "title": "HSBC Private Bank appoints Feras Al Jaramani to lead its UAE Market",
+        "summary": "The appointment supports HSBC’s UAE wealth hub strategy and the ambition of its International Wealth and Premier Banking",
+        "source": "Zawya Pharmaceuticals",
+        "sourceHost": "zawya.com",
         "region": "Middle East",
         "country": "United Arab Emirates",
-        "publishedAt": "2026-08-09T08:59:52.000Z",
-        "publishedLabel": "August 9, 2026",
-        "category": "AI Care Delivery",
-        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/08/image-1600x900-2026-08-07T115533.987.png",
+        "publishedAt": "2026-08-10T03:56:05.071Z",
+        "publishedLabel": "August 10, 2026",
+        "category": "Provider Update",
+        "image": "https://media.zawya.com/prod/images/gm_preview/9e71bd776bc5-gettyimages-468971504.jpg",
         "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://www.healthcaremea.com/2026/08/09/abu-dhabi-partners-with-eight-sleep-to-study-ai-powered-sleep-technology-for-sleep-apnoea-care/",
-        "articlePath": "/article.html?issue=2026-08-09&article=2026-08-09-abu-dhabi-partners-with-eight-sleep-to-study-ai-powered-sleep-technology"
+        "justIn": true,
+        "originalUrl": "https://www.zawya.com/en/business/hsbc-private-bank-appoints-feras-al-jaramani-to-lead-its-uae-market-425216",
+        "articlePath": "/article.html?issue=2026-08-09&article=2026-08-09-hsbc-private-bank-appoints-feras-al-jaramani-to-lead-its-uae-market"
       }
     ],
     "diagnostics": [],
     "healthtech": []
   },
   "thbActions": [
+    {
+      "segment": "pharma",
+      "articleId": "2026-08-09-watching-cancer-cells-live-could-open-new-frontiers-in-drug-discovery-ex",
+      "title": "Watching cancer cells live could open new frontiers in drug discovery: Experts",
+      "source": "ET Healthworld",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "pharma",
+      "articleId": "2026-08-09-warburg-set-to-buy-seacod-maker-universal-nutriscience-for-rs-2800-crore",
+      "title": "Warburg set to buy Seacod-maker Universal NutriScience for Rs 2800 crore",
+      "source": "Economic Times Pharma",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
     {
       "segment": "pharma",
       "articleId": "2026-08-09-gland-pharma-inks-strategic-cdmo-deal-with-global-pharma-firm-eyes-90-10",
@@ -190,6 +310,14 @@
     },
     {
       "segment": "pharma",
+      "articleId": "2026-08-09-adjusting-gut-bacteria-may-help-with-peanut-allergies",
+      "title": "Adjusting gut bacteria may help with peanut allergies",
+      "source": "ET Healthworld",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "pharma",
       "articleId": "2026-08-09-ai-in-medtech-can-transform-healthcare-report-paper-highlights-five-prio",
       "title": "AI in MedTech can transform healthcare, report paper highlights five priorities",
       "source": "ET Healthworld",
@@ -197,34 +325,10 @@
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
     },
     {
-      "segment": "pharma",
-      "articleId": "2026-08-09-eli-lilly-discontinues-gaucher-type-1-gene-therapy-trial-from-prevail-bu",
-      "title": "Eli Lilly discontinues Gaucher type 1 gene therapy trial from Prevail buyout | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
-      "source": "Healthcare MEA",
-      "solution": "THB Commercial Analytics",
-      "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
-    },
-    {
-      "segment": "pharma",
-      "articleId": "2026-08-09-cdsco-official-pharma-md-under-cbi-lens-over-alleged-bribery-of-around-r",
-      "title": "CDSCO Official, Pharma MD Under CBI Lens Over Alleged Bribery of around Rs 50000",
-      "source": "Medical Dialogues Pharma",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
-      "segment": "pharma",
-      "articleId": "2026-08-09-emcure-pharma-names-satish-mehta-chairman-appoints-raghu-kumar-as-indepe",
-      "title": "Emcure Pharma Names Satish Mehta Chairman, Appoints Raghu Kumar as Independent Director",
-      "source": "Medical Dialogues Pharma",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
       "segment": "providers",
-      "articleId": "2026-08-09-abu-dhabi-partners-with-eight-sleep-to-study-ai-powered-sleep-technology",
-      "title": "Abu Dhabi partners with Eight Sleep to study AI-powered sleep technology for sleep apnoea care",
-      "source": "Healthcare MEA",
+      "articleId": "2026-08-09-hsbc-private-bank-appoints-feras-al-jaramani-to-lead-its-uae-market",
+      "title": "HSBC Private Bank appoints Feras Al Jaramani to lead its UAE Market",
+      "source": "Zawya Pharmaceuticals",
       "solution": "THB Provider CRM",
       "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
     }
