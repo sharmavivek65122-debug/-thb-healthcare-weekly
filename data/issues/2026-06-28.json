@@ -5,18 +5,37 @@
   "startDate": "2026-06-27T18:30:00.000Z",
   "endDate": "2026-07-03T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-08-10T05:55:05.596Z",
+  "updatedAt": "2026-08-10T14:37:54.378Z",
   "coverage": {
-    "pharma": 0,
+    "pharma": 1,
     "providers": 0,
     "diagnostics": 1,
     "healthtech": 0
   },
   "sourcesUsed": [
-    "ET Healthworld Diagnostics"
+    "ET Healthworld Diagnostics",
+    "Lupin Updates"
   ],
   "segments": {
-    "pharma": [],
+    "pharma": [
+      {
+        "id": "2026-06-28-stocks-in-news-hero-motocorp-canara-bank-bharti-airtel-indian-hotels-sbi",
+        "title": "Stocks in news: Hero MotoCorp, Canara Bank, Bharti Airtel, Indian Hotels, SBI",
+        "summary": "Indian markets opened positively, with analysts suggesting a stock-specific strategy amidst consolidation. Hero MotoCorp sees a revival in commuter bike demand, planning capacity expansion. Canara Bank and Indian Bank reported strong credit growth. Bharti...",
+        "source": "Lupin Updates",
+        "sourceHost": "economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-07-02T00:41:00.000Z",
+        "publishedLabel": "July 2, 2026",
+        "category": "Market",
+        "image": "https://img.etimg.com/thumb/msid-132120006,width-1200,height-630,imgsize-22420,overlay-etmarkets/articleshow.jpg",
+        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
+        "justIn": false,
+        "originalUrl": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-hero-motocorp-canara-bank-bharti-airtel-indian-hotels-sbi/articleshow/132120012.cms",
+        "articlePath": "/article.html?issue=2026-06-28&article=2026-06-28-stocks-in-news-hero-motocorp-canara-bank-bharti-airtel-indian-hotels-sbi"
+      }
+    ],
     "providers": [],
     "diagnostics": [
       {
@@ -40,6 +59,14 @@
     "healthtech": []
   },
   "thbActions": [
+    {
+      "segment": "pharma",
+      "articleId": "2026-06-28-stocks-in-news-hero-motocorp-canara-bank-bharti-airtel-indian-hotels-sbi",
+      "title": "Stocks in news: Hero MotoCorp, Canara Bank, Bharti Airtel, Indian Hotels, SBI",
+      "source": "Lupin Updates",
+      "solution": "THB Commercial Analytics",
+      "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
+    },
     {
       "segment": "diagnostics",
       "articleId": "2026-06-28-bengaluru-research-uses-ai-to-hunt-cervical-cancer-risk-years-before-dia",
