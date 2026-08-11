@@ -5,19 +5,18 @@
   "startDate": "2026-08-01T18:30:00.000Z",
   "endDate": "2026-08-07T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-08-11T05:34:48.255Z",
+  "updatedAt": "2026-08-11T14:37:14.901Z",
   "coverage": {
-    "pharma": 32,
+    "pharma": 30,
     "providers": 10,
     "diagnostics": 1,
-    "healthtech": 1
+    "healthtech": 0
   },
   "sourcesUsed": [
     "ET Healthworld",
     "ET Healthworld Diagnostics",
     "ET Healthworld Hospitals",
     "Economic Times Pharma",
-    "Express Healthcare",
     "Lupin Updates",
     "Medical Dialogues Pharma",
     "PharmaTutor News"
@@ -278,40 +277,6 @@
         "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/emcure-pharma-q1-profit-jumps-36-revenue-rises-23-appoints-samit-mehta-as-coo/articleshow/133011682.cms",
         "articlePath": "/article.html?issue=2026-08-02&article=2026-08-02-emcure-pharma-q1-profit-jumps-36-revenue-rises-23-appoints-samit-mehta-a"
-      },
-      {
-        "id": "2026-08-02-nadda-reviews-expansion-of-sarathi-across-hospitals-medical-institutions",
-        "title": "Nadda reviews expansion of SARATHI across hospitals, medical institutions",
-        "summary": "The initiative aims to improve patient experience through trained youth volunteers while strengthening community participation in public healthcare, the statement said.",
-        "source": "ET Healthworld",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-08-03T01:50:14.000Z",
-        "publishedLabel": "August 3, 2026",
-        "category": "Industry Update",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-132816168,imgsize-88936,width-1200,height=627,overlay-ethealth,resizemode-75/policy/nadda-reviews-expansion-of-sarathi-across-hospitals-medical-institutions.jpg",
-        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/policy/nadda-reviews-expansion-of-sarathi-across-hospitals-medical-institutions/132816168",
-        "articlePath": "/article.html?issue=2026-08-02&article=2026-08-02-nadda-reviews-expansion-of-sarathi-across-hospitals-medical-institutions"
-      },
-      {
-        "id": "2026-08-02-park-group-expands-north-india-footprint-with-330-bed-hospital-in-uttara",
-        "title": "Park Group expands north India footprint with 330-bed hospital in Uttarakhand",
-        "summary": "With the addition of the new hospital, the group has expanded its operational presence to six states across north India, strengthening its hospital network and increasing its bed capacity in an underserved region.",
-        "source": "ET Healthworld",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-08-03T01:47:54.000Z",
-        "publishedLabel": "August 3, 2026",
-        "category": "Industry Update",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-132816171,imgsize-131062,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/park-group-expands-north-india-footprint-with-330-bed-hospital-in-uttarakhand.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/park-group-expands-north-india-footprint-with-330-bed-hospital-in-uttarakhand/132816171",
-        "articlePath": "/article.html?issue=2026-08-02&article=2026-08-02-park-group-expands-north-india-footprint-with-330-bed-hospital-in-uttara"
       },
       {
         "id": "2026-08-02-dr-reddy-s-laboratories-launches-generic-sugammadex-injection-in-the-uni",
@@ -707,6 +672,23 @@
         "articlePath": "/article.html?issue=2026-08-02&article=2026-08-02-narayana-hrudayalaya-posts-2683-crore-in-q1-fy27-profit-soars-40"
       },
       {
+        "id": "2026-08-02-park-group-expands-north-india-footprint-with-330-bed-hospital-in-uttara",
+        "title": "Park Group expands north India footprint with 330-bed hospital in Uttarakhand",
+        "summary": "With the addition of the new hospital, the group has expanded its operational presence to six states across north India, strengthening its hospital network and increasing its bed capacity in an underserved region.",
+        "source": "ET Healthworld Hospitals",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-08-03T01:47:54.000Z",
+        "publishedLabel": "August 3, 2026",
+        "category": "Hospital",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-132816171,imgsize-131062,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/park-group-expands-north-india-footprint-with-330-bed-hospital-in-uttarakhand.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": false,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/park-group-expands-north-india-footprint-with-330-bed-hospital-in-uttarakhand/132816171",
+        "articlePath": "/article.html?issue=2026-08-02&article=2026-08-02-park-group-expands-north-india-footprint-with-330-bed-hospital-in-uttara"
+      },
+      {
         "id": "2026-08-02-india-s-manipal-health-jumps-on-market-debut-valuing-hospital-chain-at-9",
         "title": "India's Manipal Health jumps on market debut, valuing hospital chain at $9 billion",
         "summary": "Temasek-backed Manipal Health, which operates more than 13,000 ​beds across 49 hospitals, is betting on rapidly growing demand for specialised healthcare options, which ​analysts say will form the bedrock of growth in the Indian healthcare market. The sector...",
@@ -722,23 +704,6 @@
         "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/indias-manipal-health-jumps-on-market-debut-valuing-hospital-chain-at-9-billion/132907091",
         "articlePath": "/article.html?issue=2026-08-02&article=2026-08-02-india-s-manipal-health-jumps-on-market-debut-valuing-hospital-chain-at-9"
-      },
-      {
-        "id": "2026-08-02-kkr-to-acquire-multi-specialty-healthcare-provider-medicover-india",
-        "title": "KKR to acquire multi-specialty healthcare provider Medicover India",
-        "summary": "KKR, a leading global investment firm announced the signing of definitive agreements under which funds managed by KKR (“KKR”) will acquire Medicover India, the India hospital operations of leading international healthcare and diagnostic services provider...",
-        "source": "Express Healthcare",
-        "sourceHost": "expresshealthcare.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-08-06T10:05:42.000Z",
-        "publishedLabel": "August 6, 2026",
-        "category": "Hospital",
-        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2022/03/23135054/partnership-1.jpg",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://www.expresshealthcare.in/news/kkr-to-acquire-multi-specialty-healthcare-provider-medicover-india/454628/",
-        "articlePath": "/article.html?issue=2026-08-02&article=2026-08-02-kkr-to-acquire-multi-specialty-healthcare-provider-medicover-india"
       }
     ],
     "diagnostics": [
@@ -760,25 +725,7 @@
         "articlePath": "/article.html?issue=2026-08-02&article=2026-08-02-molbio-diagnostics-sets-ipo-price-band-at-rs-768-807-issue-to-open-on-au"
       }
     ],
-    "healthtech": [
-      {
-        "id": "2026-08-02-hyderabad-based-grace-cancer-foundation-to-list-on-social-stock-exchange",
-        "title": "Hyderabad-based Grace Cancer Foundation to list on Social Stock Exchange",
-        "summary": "In a development that signals a new direction for India’s social sector financing, Hyderabad-based Grace Cancer Foundation, a nearly 13-year-old non-profit founded by noted surgical oncologist Dr. Chinnababu Sunkavalli, announced that it is preparing to be...",
-        "source": "Express Healthcare",
-        "sourceHost": "expresshealthcare.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-08-06T05:22:59.000Z",
-        "publishedLabel": "August 6, 2026",
-        "category": "Industry Update",
-        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/08/06105134/EH_Dr-CHinnababu.jpg",
-        "thbAction": "",
-        "justIn": false,
-        "originalUrl": "https://www.expresshealthcare.in/news/hyderabad-based-grace-cancer-foundation-to-list-on-social-stock-exchange/454613/",
-        "articlePath": "/article.html?issue=2026-08-02&article=2026-08-02-hyderabad-based-grace-cancer-foundation-to-list-on-social-stock-exchange"
-      }
-    ]
+    "healthtech": []
   },
   "thbActions": [
     {
