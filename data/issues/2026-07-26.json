@@ -5,56 +5,21 @@
   "startDate": "2026-07-25T18:30:00.000Z",
   "endDate": "2026-07-31T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-08-13T05:56:45.952Z",
+  "updatedAt": "2026-08-14T05:55:08.707Z",
   "coverage": {
-    "pharma": 15,
+    "pharma": 13,
     "providers": 6,
     "diagnostics": 2,
     "healthtech": 0
   },
   "sourcesUsed": [
     "BioSpectrum Asia Middle East",
-    "ET Healthworld",
     "ET Healthworld Hospitals",
     "Janssen India Media",
     "PharmaTutor News"
   ],
   "segments": {
     "pharma": [
-      {
-        "id": "2026-07-26-why-india-s-first-dengue-vaccine-marks-a-public-health-milestone",
-        "title": "Why India's First Dengue Vaccine Marks a Public Health Milestone",
-        "summary": "As climate change, rapid urbanisation and population growth fuel the spread of dengue, CDSCO's approval of Takeda's Qdenga marks a significant step in India's disease prevention strategy. With reported dengue cases rising 11-fold over the past two decades,...",
-        "source": "ET Healthworld",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-07-28T10:24:44.000Z",
-        "publishedLabel": "July 28, 2026",
-        "category": "Approval",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-132681649,imgsize-45630,width-1200,height=627,overlay-ethealth,resizemode-75/industry/why-indias-first-dengue-vaccine-marks-a-public-health-milestone.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/why-indias-first-dengue-vaccine-marks-a-public-health-milestone/132681649",
-        "articlePath": "/article.html?issue=2026-07-26&article=2026-07-26-why-india-s-first-dengue-vaccine-marks-a-public-health-milestone"
-      },
-      {
-        "id": "2026-07-26-srms-institute-of-medical-sciences-brings-first-ecmo-facility-between-de",
-        "title": "SRMS Institute of Medical Sciences’ Brings First ECMO Facility Between Delhi and Lucknow, Strengthening Cr..",
-        "summary": "Brand Connect Initiative",
-        "source": "ET Healthworld",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-07-31T10:39:45.000Z",
-        "publishedLabel": "July 31, 2026",
-        "category": "Industry Update",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-132764663,imgsize-173216,width-1200,height=627,overlay-ethealth,resizemode-75/industry/srms-institute-of-medical-sciences-brings-first-ecmo-facility-between-delhi-and-lucknow-strengthening-critical-care-in-north-india.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/srms-institute-of-medical-sciences-brings-first-ecmo-facility-between-delhi-and-lucknow-strengthening-critical-care-in-north-india/132764663",
-        "articlePath": "/article.html?issue=2026-07-26&article=2026-07-26-srms-institute-of-medical-sciences-brings-first-ecmo-facility-between-de"
-      },
       {
         "id": "2026-07-26-japan-needs-a-deeper-base-of-specialist-healthcare-investors",
         "title": "“Japan needs a deeper base of specialist healthcare investors”",
@@ -422,22 +387,6 @@
   "thbActions": [
     {
       "segment": "pharma",
-      "articleId": "2026-07-26-why-india-s-first-dengue-vaccine-marks-a-public-health-milestone",
-      "title": "Why India's First Dengue Vaccine Marks a Public Health Milestone",
-      "source": "ET Healthworld",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
-      "segment": "pharma",
-      "articleId": "2026-07-26-srms-institute-of-medical-sciences-brings-first-ecmo-facility-between-de",
-      "title": "SRMS Institute of Medical Sciences’ Brings First ECMO Facility Between Delhi and Lucknow, Strengthening Cr..",
-      "source": "ET Healthworld",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
-      "segment": "pharma",
       "articleId": "2026-07-26-japan-needs-a-deeper-base-of-specialist-healthcare-investors",
       "title": "“Japan needs a deeper base of specialist healthcare investors”",
       "source": "BioSpectrum Asia Middle East",
@@ -459,6 +408,22 @@
       "source": "PharmaTutor News",
       "solution": "THB Commercial Analytics",
       "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
+    },
+    {
+      "segment": "pharma",
+      "articleId": "2026-07-26-johnson-and-johnson-s-rybrevant-faspro-amivantamab-and-hyaluronidase-lpu",
+      "title": "Johnson & Johnson’s RYBREVANT FASPRO™ (amivantamab and hyaluronidase-lpuj) receives U.S. FDA Priority Review as potential first-in-class EGFR- and MET-targeted subcutaneous treatment for advanced head and neck cancer",
+      "source": "Janssen India Media",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "pharma",
+      "articleId": "2026-07-26-johnson-and-johnson-announces-collaboration-with-sail-biomedicines-to-ad",
+      "title": "Johnson & Johnson Announces Collaboration with Sail Biomedicines to Advance in vivo CAR-T Programs and Transform Autoimmune Disease Through Immune Reset",
+      "source": "Janssen India Media",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
     },
     {
       "segment": "providers",
