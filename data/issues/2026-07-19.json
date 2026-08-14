@@ -5,15 +5,14 @@
   "startDate": "2026-07-18T18:30:00.000Z",
   "endDate": "2026-07-24T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-08-14T05:55:08.707Z",
+  "updatedAt": "2026-08-14T14:32:14.974Z",
   "coverage": {
     "pharma": 5,
     "providers": 2,
-    "diagnostics": 4,
+    "diagnostics": 3,
     "healthtech": 0
   },
   "sourcesUsed": [
-    "BioSpectrum Asia Middle East",
     "ET Healthworld Diagnostics",
     "ET Healthworld Hospitals",
     "Janssen India Media",
@@ -194,23 +193,6 @@
         "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/diagnostics/agilus-diagnostics-names-vijender-singh-as-md-and-ceo/132530061",
         "articlePath": "/article.html?issue=2026-07-19&article=2026-07-19-agilus-diagnostics-names-vijender-singh-as-md-and-ceo"
-      },
-      {
-        "id": "2026-07-19-national-initiative-for-rna-biology-and-its-applications-opens-new-hub-i",
-        "title": "National Initiative for RNA Biology and its Applications opens new hub in Singapore",
-        "summary": "NIRBA opens research hub to advance RNA innovation, talent development and biomedical research translation in Singapore",
-        "source": "BioSpectrum Asia Middle East",
-        "sourceHost": "biospectrumasia.com",
-        "region": "Middle East",
-        "country": "Oman",
-        "publishedAt": "2026-07-23T18:30:00.000Z",
-        "publishedLabel": "July 24, 2026",
-        "category": "Industry Update",
-        "image": "https://www.biospectrumasia.com/uploads/articles/nus-28094.jpg",
-        "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
-        "justIn": false,
-        "originalUrl": "https://www.biospectrumasia.com/news/26/28094/national-initiative-for-rna-biology-and-its-applications-opens-new-hub-in-singapore.html",
-        "articlePath": "/article.html?issue=2026-07-19&article=2026-07-19-national-initiative-for-rna-biology-and-its-applications-opens-new-hub-i"
       }
     ],
     "healthtech": []
@@ -293,14 +275,6 @@
       "articleId": "2026-07-19-agilus-diagnostics-names-vijender-singh-as-md-and-ceo",
       "title": "Agilus Diagnostics names Vijender Singh as MD and CEO",
       "source": "ET Healthworld Diagnostics",
-      "solution": "THB Diagnostics CRM",
-      "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
-    },
-    {
-      "segment": "diagnostics",
-      "articleId": "2026-07-19-national-initiative-for-rna-biology-and-its-applications-opens-new-hub-i",
-      "title": "National Initiative for RNA Biology and its Applications opens new hub in Singapore",
-      "source": "BioSpectrum Asia Middle East",
       "solution": "THB Diagnostics CRM",
       "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
     }

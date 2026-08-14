@@ -5,9 +5,9 @@
   "startDate": "2026-08-01T18:30:00.000Z",
   "endDate": "2026-08-07T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-08-14T05:55:08.707Z",
+  "updatedAt": "2026-08-14T14:32:14.974Z",
   "coverage": {
-    "pharma": 14,
+    "pharma": 12,
     "providers": 11,
     "diagnostics": 1,
     "healthtech": 0
@@ -38,23 +38,6 @@
         "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/independence-day-2026-india-pharma-journey-covaxin-made-in-india-drug-discovery-zaynich-wockhardt-ipa-indian-medicine-vaccine/articleshow/133003617.cms",
         "articlePath": "/article.html?issue=2026-08-02&article=2026-08-02-independence-day-2026-india-which-once-couldn-t-make-smallpox-vaccine-ha"
-      },
-      {
-        "id": "2026-08-02-japan-s-takeda-bets-on-dengue-vax-to-reshape-india-playbook",
-        "title": "Japan's Takeda bets on dengue vax to reshape India playbook",
-        "summary": "Takeda Pharmaceutical's new dengue vaccine Qdenga received approval in India. The vaccine is expected to launch commercially in early 2027. It will initially be available through the private market for individuals. Takeda plans to pursue government...",
-        "source": "Economic Times Pharma",
-        "sourceHost": "economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-08-04T19:18:38.000Z",
-        "publishedLabel": "August 5, 2026",
-        "category": "Approval",
-        "image": "https://img.etimg.com/thumb/msid-132871580,width-1200,height-630,imgsize-54824,overlay-economictimes/articleshow.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/takedas-qdenga-a-game-changer-in-indias-battle-against-dengue/articleshow/132871506.cms",
-        "articlePath": "/article.html?issue=2026-08-02&article=2026-08-02-japan-s-takeda-bets-on-dengue-vax-to-reshape-india-playbook"
       },
       {
         "id": "2026-08-02-india-must-build-export-oriented-medical-devices-industry-says-pharma-se",
@@ -106,23 +89,6 @@
         "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/delhi-high-court-to-hear-natco-pharmas-patent-challenge-against-novartis-and-astex-for-breast-cancer-drug-ribociclib/articleshow/132966683.cms",
         "articlePath": "/article.html?issue=2026-08-02&article=2026-08-02-delhi-hc-seeks-response-on-natco-s-patent-challenge-plea"
-      },
-      {
-        "id": "2026-08-02-fssai-cracks-down-on-packaged-water-firm-health-supplement-maker",
-        "title": "FSSAI cracks down on packaged water firm, health supplement maker",
-        "summary": "The FSSAI suspended Matri Drinking Water's license due to serious food safety violations. Inspection revealed improper storage and poor hygienic conditions in processing areas. Noble Healthcare was prohibited from selling Venolex Forte due to non-permitted...",
-        "source": "ET Healthworld",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-08-04T02:00:52.000Z",
-        "publishedLabel": "August 4, 2026",
-        "category": "Industry Update",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-132843906,imgsize-163318,width-1200,height=627,overlay-ethealth,resizemode-75/policy/fssai-cracks-down-on-packaged-water-firm-health-supplement-maker.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/policy/fssai-cracks-down-on-packaged-water-firm-health-supplement-maker/132843906",
-        "articlePath": "/article.html?issue=2026-08-02&article=2026-08-02-fssai-cracks-down-on-packaged-water-firm-health-supplement-maker"
       },
       {
         "id": "2026-08-02-young-researchers-startups-must-take-ayurveda-from-laboratory-to-marketp",
@@ -482,14 +448,6 @@
     },
     {
       "segment": "pharma",
-      "articleId": "2026-08-02-japan-s-takeda-bets-on-dengue-vax-to-reshape-india-playbook",
-      "title": "Japan's Takeda bets on dengue vax to reshape India playbook",
-      "source": "Economic Times Pharma",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
-      "segment": "pharma",
       "articleId": "2026-08-02-india-must-build-export-oriented-medical-devices-industry-says-pharma-se",
       "title": "India must build export-oriented medical devices industry, says pharma secretary",
       "source": "Economic Times Pharma",
@@ -511,6 +469,14 @@
       "source": "Economic Times Pharma",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "pharma",
+      "articleId": "2026-08-02-young-researchers-startups-must-take-ayurveda-from-laboratory-to-marketp",
+      "title": "Young researchers, startups must take Ayurveda from laboratory to marketplace: Jadhav",
+      "source": "ET Healthworld",
+      "solution": "THB Commercial Analytics",
+      "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
     },
     {
       "segment": "providers",
