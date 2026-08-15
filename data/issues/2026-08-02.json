@@ -5,15 +5,14 @@
   "startDate": "2026-08-01T18:30:00.000Z",
   "endDate": "2026-08-07T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-08-15T04:56:27.442Z",
+  "updatedAt": "2026-08-15T13:53:00.553Z",
   "coverage": {
-    "pharma": 12,
+    "pharma": 11,
     "providers": 11,
     "diagnostics": 1,
     "healthtech": 0
   },
   "sourcesUsed": [
-    "ET Healthworld",
     "ET Healthworld Diagnostics",
     "ET Healthworld Hospitals",
     "Economic Times Pharma",
@@ -89,23 +88,6 @@
         "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/delhi-high-court-to-hear-natco-pharmas-patent-challenge-against-novartis-and-astex-for-breast-cancer-drug-ribociclib/articleshow/132966683.cms",
         "articlePath": "/article.html?issue=2026-08-02&article=2026-08-02-delhi-hc-seeks-response-on-natco-s-patent-challenge-plea"
-      },
-      {
-        "id": "2026-08-02-young-researchers-startups-must-take-ayurveda-from-laboratory-to-marketp",
-        "title": "Young researchers, startups must take Ayurveda from laboratory to marketplace: Jadhav",
-        "summary": "Jadhav made the remarks as he chaired the 27th Meeting of the Governing Body of the Central Council for Research in Ayurvedic Sciences (CCRAS) here.",
-        "source": "ET Healthworld",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-08-07T06:18:10.000Z",
-        "publishedLabel": "August 7, 2026",
-        "category": "Market",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-133024288,imgsize-89206,width-1200,height=627,overlay-ethealth,resizemode-75/policy/young-researchers-startups-must-take-ayurveda-from-laboratory-to-marketplace-jadhav.jpg",
-        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/policy/young-researchers-startups-must-take-ayurveda-from-laboratory-to-marketplace-jadhav/133024288",
-        "articlePath": "/article.html?issue=2026-08-02&article=2026-08-02-young-researchers-startups-must-take-ayurveda-from-laboratory-to-marketp"
       },
       {
         "id": "2026-08-02-emcure-pharma-net-profit-up-36-at-rs-292-crore",
@@ -472,9 +454,9 @@
     },
     {
       "segment": "pharma",
-      "articleId": "2026-08-02-young-researchers-startups-must-take-ayurveda-from-laboratory-to-marketp",
-      "title": "Young researchers, startups must take Ayurveda from laboratory to marketplace: Jadhav",
-      "source": "ET Healthworld",
+      "articleId": "2026-08-02-emcure-pharma-net-profit-up-36-at-rs-292-crore",
+      "title": "Emcure Pharma net profit up 36% at Rs 292 crore",
+      "source": "Economic Times Pharma",
       "solution": "THB Commercial Analytics",
       "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
     },

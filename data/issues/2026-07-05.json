@@ -5,38 +5,19 @@
   "startDate": "2026-07-04T18:30:00.000Z",
   "endDate": "2026-07-10T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-08-15T04:56:27.442Z",
+  "updatedAt": "2026-08-15T13:53:00.553Z",
   "coverage": {
-    "pharma": 1,
-    "providers": 18,
-    "diagnostics": 5,
+    "pharma": 0,
+    "providers": 11,
+    "diagnostics": 3,
     "healthtech": 0
   },
   "sourcesUsed": [
     "ET Healthworld Diagnostics",
-    "ET Healthworld Hospitals",
-    "Express Healthcare Posts"
+    "ET Healthworld Hospitals"
   ],
   "segments": {
-    "pharma": [
-      {
-        "id": "2026-07-05-beyond-the-pills-what-india-s-latest-dpco-amendment-could-mean-for-medte",
-        "title": "Beyond the pills: What India’s latest DPCO Amendment could mean for MedTech",
-        "summary": "Piyush Sharma, an advocacy professional with Astrum, examines how the latest DPCO amendment could reshape India's approach to MedTech pricing and value-based innovation. The views expressed here are personal.",
-        "source": "Express Healthcare Posts",
-        "sourceHost": "expresshealthcare.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-07-09T10:03:00.000Z",
-        "publishedLabel": "July 9, 2026",
-        "category": "Industry Update",
-        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/07/09153201/EH_GB_Piyush_Sharma_750.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://www.expresshealthcare.in/news/beyond-the-pills-what-indias-latest-dpco-amendment-could-mean-for-medtech/454297/",
-        "articlePath": "/article.html?issue=2026-07-05&article=2026-07-05-beyond-the-pills-what-india-s-latest-dpco-amendment-could-mean-for-medte"
-      }
-    ],
+    "pharma": [],
     "providers": [
       {
         "id": "2026-07-05-aster-launches-robotic-spine-care-institute-to-advance-neuroscience-trea",
@@ -224,125 +205,6 @@
         "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/temasek-backed-manipal-health-gets-sebi-approval-for-ipo-eyes-july-listing/132192141",
         "articlePath": "/article.html?issue=2026-07-05&article=2026-07-05-temasek-backed-manipal-health-gets-sebi-approval-for-ipo-eyes-july-listi"
-      },
-      {
-        "id": "2026-07-05-healthcare-in-india-is-racing-towards-ai-and-it-has-a-sovereignty-proble",
-        "title": "Healthcare in India is racing towards AI and it has a sovereignty problem",
-        "summary": "Praveer Kochhar, Co-Founder & CPO, KOGO AI, explains why India's healthcare AI journey must be built on sovereign infrastructure rather than foreign platforms",
-        "source": "Express Healthcare Posts",
-        "sourceHost": "expresshealthcare.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-07-10T06:30:37.000Z",
-        "publishedLabel": "July 10, 2026",
-        "category": "AI Care Delivery",
-        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/07/10114545/EH_Praveer_Kochhar_750.jpg",
-        "thbAction": "Recommend THB's patient engagement workflows to improve acquisition, follow-up adherence, and post-discharge retention for expanding provider groups.",
-        "justIn": false,
-        "originalUrl": "https://www.expresshealthcare.in/news/healthcare-in-india-is-racing-towards-ai-and-it-has-a-sovereignty-problem/454308/",
-        "articlePath": "/article.html?issue=2026-07-05&article=2026-07-05-healthcare-in-india-is-racing-towards-ai-and-it-has-a-sovereignty-proble"
-      },
-      {
-        "id": "2026-07-05-the-evolving-blueprint-for-women-s-and-children-s-healthcare",
-        "title": "The evolving blueprint for women’s and children’s healthcare",
-        "summary": "The Amber Wing brings 55 beds and a range of new specialties, from robotics to cardiac care. What does this mean for where Surya Hospitals is headed? We started as a paediatric hospital. In 2013, we expanded into maternity services because we were regularly...",
-        "source": "Express Healthcare Posts",
-        "sourceHost": "expresshealthcare.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-07-10T06:49:20.000Z",
-        "publishedLabel": "July 10, 2026",
-        "category": "Hospital",
-        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/07/10121857/New-Project-4.jpg",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://www.expresshealthcare.in/news/the-evolving-blueprint-for-womens-and-childrens-healthcare/454311/",
-        "articlePath": "/article.html?issue=2026-07-05&article=2026-07-05-the-evolving-blueprint-for-women-s-and-children-s-healthcare"
-      },
-      {
-        "id": "2026-07-05-robotic-and-advanced-surgery-shaping-the-future-of-surgical-care-in-indi",
-        "title": "Robotic and advanced surgery: Shaping the future of surgical care in India",
-        "summary": "The surgical landscape of India is witnessing a massive change due to the technological advancements, better clinical expertise, and increasing focus on patient-centric outcomes. Next in this evolution will be robotic and other forms of advanced minimally...",
-        "source": "Express Healthcare Posts",
-        "sourceHost": "expresshealthcare.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-07-10T06:59:22.000Z",
-        "publishedLabel": "July 10, 2026",
-        "category": "Patient Care",
-        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/07/10122904/New-Project-1-1.jpg",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://www.expresshealthcare.in/news/robotic-and-advanced-surgery-shaping-the-future-of-surgical-care-in-india/454314/",
-        "articlePath": "/article.html?issue=2026-07-05&article=2026-07-05-robotic-and-advanced-surgery-shaping-the-future-of-surgical-care-in-indi"
-      },
-      {
-        "id": "2026-07-05-the-dead-who-made-medicine-possible",
-        "title": "The dead who made medicine possible",
-        "summary": "Robert Louis Stevenson’s The Body Snatcher was published in 1884, half a century after Britain’s Anatomy Act tried to regulate the supply of bodies to medical schools. The story belongs to the grim afterlife of the Burke and Hare murders in Edinburgh, where...",
-        "source": "Express Healthcare Posts",
-        "sourceHost": "expresshealthcare.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-07-09T11:47:44.000Z",
-        "publishedLabel": "July 9, 2026",
-        "category": "AI Care Delivery",
-        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/07/09111432/New-Project-3.jpg",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://www.expresshealthcare.in/news/the-dead-who-made-medicine-possible/454280/",
-        "articlePath": "/article.html?issue=2026-07-05&article=2026-07-05-the-dead-who-made-medicine-possible"
-      },
-      {
-        "id": "2026-07-05-nadda-to-lay-foundation-stone-for-icmr-centre-for-high-altitude-medicine",
-        "title": "Nadda to lay foundation stone for ICMR Centre for High Altitude Medicine in Keylong on 11 July",
-        "summary": "Centre will support research on high-altitude medicine, public health and climate-sensitive regions in the Himalayan belt",
-        "source": "Express Healthcare Posts",
-        "sourceHost": "expresshealthcare.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-07-10T03:50:12.000Z",
-        "publishedLabel": "July 10, 2026",
-        "category": "Provider Update",
-        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2021/05/14133901/icmr-delhi-newlogo-888.jpg",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://www.expresshealthcare.in/news/nadda-to-lay-foundation-stone-for-icmr-centre-for-high-altitude-medicine-in-keylong-on-11-july/454303/",
-        "articlePath": "/article.html?issue=2026-07-05&article=2026-07-05-nadda-to-lay-foundation-stone-for-icmr-centre-for-high-altitude-medicine"
-      },
-      {
-        "id": "2026-07-05-intuitive-fortis-mohali-to-establish-india-s-first-total-program-observa",
-        "title": "Intuitive, Fortis Mohali to establish India’s first Total Program Observation site in a non-metro city",
-        "summary": "MoU aims to support robotic-assisted surgery through programme observation, training and peer-to-peer learning",
-        "source": "Express Healthcare Posts",
-        "sourceHost": "expresshealthcare.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-07-10T11:05:19.000Z",
-        "publishedLabel": "July 10, 2026",
-        "category": "AI Care Delivery",
-        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2021/06/24162547/signing-agreement.jpg",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://www.expresshealthcare.in/news/intuitive-fortis-mohali-to-establish-indias-first-total-program-observation-site-in-a-non-metro-city/454320/",
-        "articlePath": "/article.html?issue=2026-07-05&article=2026-07-05-intuitive-fortis-mohali-to-establish-india-s-first-total-program-observa"
-      },
-      {
-        "id": "2026-07-05-maxivision-appoints-badrinarayan-srikanth-as-group-ceo",
-        "title": "Maxivision appoints Badrinarayan Srikanth as Group CEO",
-        "summary": "Former Group CFO takes charge as the eye care network continues its expansion across South and West India",
-        "source": "Express Healthcare Posts",
-        "sourceHost": "expresshealthcare.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-07-09T12:12:16.000Z",
-        "publishedLabel": "July 9, 2026",
-        "category": "Expansion",
-        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/07/09174042/EH_Badrinarayan_750.png",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://www.expresshealthcare.in/news/maxivision-appoints-badrinarayan-srikanth-as-group-ceo/454300/",
-        "articlePath": "/article.html?issue=2026-07-05&article=2026-07-05-maxivision-appoints-badrinarayan-srikanth-as-group-ceo"
       }
     ],
     "diagnostics": [
@@ -396,53 +258,11 @@
         "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/diagnostics/neuberg-readies-for-ipo-in-fy28-to-seek-up-to-rs-4000-cr/132231242",
         "articlePath": "/article.html?issue=2026-07-05&article=2026-07-05-neuberg-readies-for-ipo-in-fy28-to-seek-up-to-rs-4-000-cr"
-      },
-      {
-        "id": "2026-07-05-ai-in-radiology-the-future-of-early-diagnosis-in-india",
-        "title": "AI in radiology: The future of early diagnosis in India",
-        "summary": "Artificial Intelligence (AI) is slowly changing the way diseases are detected in India. In radiology, which includes X-rays, CT scans, MRI and ultrasound, AI is helping doctors detect diseases earlier and more accurately. It is becoming a useful support...",
-        "source": "Express Healthcare Posts",
-        "sourceHost": "expresshealthcare.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-07-10T09:03:12.000Z",
-        "publishedLabel": "July 10, 2026",
-        "category": "Industry Update",
-        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/07/10143245/New-Project-2-1.jpg",
-        "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
-        "justIn": false,
-        "originalUrl": "https://www.expresshealthcare.in/news/ai-in-radiology-the-future-of-early-diagnosis-in-india/454317/",
-        "articlePath": "/article.html?issue=2026-07-05&article=2026-07-05-ai-in-radiology-the-future-of-early-diagnosis-in-india"
-      },
-      {
-        "id": "2026-07-05-jp-nadda-reviews-progress-of-aiims-bibinagar-in-hyderabad",
-        "title": "JP Nadda reviews progress of AIIMS Bibinagar in Hyderabad",
-        "summary": "Health Minister reviews infrastructure, medical education, patient care, research and construction at the institute",
-        "source": "Express Healthcare Posts",
-        "sourceHost": "expresshealthcare.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-07-10T05:26:43.000Z",
-        "publishedLabel": "July 10, 2026",
-        "category": "Industry Update",
-        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2018/05/28060621/eh-aiims-safdarjung.jpg",
-        "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
-        "justIn": false,
-        "originalUrl": "https://www.expresshealthcare.in/news/jp-nadda-reviews-progress-of-aiims-bibinagar-in-hyderabad/454306/",
-        "articlePath": "/article.html?issue=2026-07-05&article=2026-07-05-jp-nadda-reviews-progress-of-aiims-bibinagar-in-hyderabad"
       }
     ],
     "healthtech": []
   },
   "thbActions": [
-    {
-      "segment": "pharma",
-      "articleId": "2026-07-05-beyond-the-pills-what-india-s-latest-dpco-amendment-could-mean-for-medte",
-      "title": "Beyond the pills: What India’s latest DPCO Amendment could mean for MedTech",
-      "source": "Express Healthcare Posts",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
     {
       "segment": "providers",
       "articleId": "2026-07-05-aster-launches-robotic-spine-care-institute-to-advance-neuroscience-trea",
@@ -504,22 +324,6 @@
       "articleId": "2026-07-05-neuberg-readies-for-ipo-in-fy28-to-seek-up-to-rs-4-000-cr",
       "title": "Neuberg readies for IPO in FY28, to seek up to Rs 4,000 cr",
       "source": "ET Healthworld Diagnostics",
-      "solution": "THB Diagnostics CRM",
-      "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
-    },
-    {
-      "segment": "diagnostics",
-      "articleId": "2026-07-05-ai-in-radiology-the-future-of-early-diagnosis-in-india",
-      "title": "AI in radiology: The future of early diagnosis in India",
-      "source": "Express Healthcare Posts",
-      "solution": "THB Diagnostics CRM",
-      "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
-    },
-    {
-      "segment": "diagnostics",
-      "articleId": "2026-07-05-jp-nadda-reviews-progress-of-aiims-bibinagar-in-hyderabad",
-      "title": "JP Nadda reviews progress of AIIMS Bibinagar in Hyderabad",
-      "source": "Express Healthcare Posts",
       "solution": "THB Diagnostics CRM",
       "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
     }
