@@ -5,19 +5,245 @@
   "startDate": "2026-08-15T18:30:00.000Z",
   "endDate": "2026-08-21T18:30:00.000Z",
   "status": "live",
-  "updatedAt": "2026-08-16T05:00:05.246Z",
+  "updatedAt": "2026-08-16T13:54:04.902Z",
   "coverage": {
-    "pharma": 0,
-    "providers": 0,
-    "diagnostics": 0,
+    "pharma": 6,
+    "providers": 1,
+    "diagnostics": 2,
     "healthtech": 0
   },
-  "sourcesUsed": [],
+  "sourcesUsed": [
+    "ET Healthworld",
+    "Express Healthcare",
+    "Healthcare MEA",
+    "Medical Dialogues Pharma"
+  ],
   "segments": {
-    "pharma": [],
-    "providers": [],
-    "diagnostics": [],
+    "pharma": [
+      {
+        "id": "2026-08-16-ai-could-cut-doctors-paperwork-burden-as-global-health-worker-shortage-l",
+        "title": "AI could cut doctors' paperwork burden as global health worker shortage looms: Report",
+        "summary": "Artificial intelligence can ease doctor workloads by handling repetitive administrative tasks. This technology helps address a growing global healthcare worker shortage. AI tools can draft clinical documentation, freeing up valuable physician time. Patients...",
+        "source": "ET Healthworld",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-08-16T09:35:22.000Z",
+        "publishedLabel": "August 16, 2026",
+        "category": "Industry Update",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-133272846,imgsize-102692,width-1200,height=627,overlay-ethealth,resizemode-75/industry/ai-could-cut-doctors-paperwork-burden-as-global-health-worker-shortage-looms-report.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": false,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/ai-could-cut-doctors-paperwork-burden-as-global-health-worker-shortage-looms-report/133272846",
+        "articlePath": "/article.html?issue=2026-08-16&article=2026-08-16-ai-could-cut-doctors-paperwork-burden-as-global-health-worker-shortage-l"
+      },
+      {
+        "id": "2026-08-16-thermo-fisher-eyes-15-20-growth-in-india-customer-base-over-next-5-years",
+        "title": "Thermo Fisher Eyes 15-20% Growth in India Customer Base Over Next 5 Years Amid Biopharma Boom",
+        "summary": "Hyderabad: Thermo Fisher Scientific is eyeing a 15%-20% increase in its customer base in India over the next five years, betting on the growing biopharma research and manufacturing ecosystem, the head...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-08-16T09:41:03.000Z",
+        "publishedLabel": "August 16, 2026",
+        "category": "Manufacturing",
+        "image": "https://medicaldialogues.in/h-upload/2026/08/11/364454-untitled-design-48.jpg",
+        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
+        "justIn": false,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/thermo-fisher-eyes-15-20-growth-in-india-customer-base-over-next-5-years-amid-biopharma-boom-177236",
+        "articlePath": "/article.html?issue=2026-08-16&article=2026-08-16-thermo-fisher-eyes-15-20-growth-in-india-customer-base-over-next-5-years"
+      },
+      {
+        "id": "2026-08-16-ucl-signs-msd-licensing-deal-for-investigational-monthly-hiv-prevention-",
+        "title": "UCL signs MSD licensing deal for investigational monthly HIV prevention pill | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
+        "summary": "The licensing agreement will allow UCL to manufacture and supply generic alimatravir in African countries and other markets covered by the agreement, subject to successful clinical development and ...",
+        "source": "Healthcare MEA",
+        "sourceHost": "healthcaremea.com",
+        "region": "Middle East",
+        "country": "Middle East",
+        "publishedAt": "2026-08-16T08:18:11.000Z",
+        "publishedLabel": "August 16, 2026",
+        "category": "Manufacturing",
+        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/08/HCMEA-2.png",
+        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
+        "justIn": false,
+        "originalUrl": "https://www.healthcaremea.com/2026/08/16/ucl-signs-msd-licensing-deal-for-investigational-monthly-hiv-prevention-pill/",
+        "articlePath": "/article.html?issue=2026-08-16&article=2026-08-16-ucl-signs-msd-licensing-deal-for-investigational-monthly-hiv-prevention-"
+      },
+      {
+        "id": "2026-08-16-same-drug-different-brand-different-mrp-centre-explains-pricing-rules-un",
+        "title": "Same Drug, Different Brand, Different MRP? Centre Explains Pricing Rules Under DPCO",
+        "summary": "New Delhi: The Government has clarified that medicines containing the same active pharmaceutical ingredient (salt), strength, and dosage form may legally carry different maximum retail prices (MRPs)...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-08-16T10:03:54.000Z",
+        "publishedLabel": "August 16, 2026",
+        "category": "Industry Update",
+        "image": "https://medicaldialogues.in/h-upload/2024/06/07/240440-nppa-5.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": false,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/same-drug-different-brand-different-mrp-centre-explains-pricing-rules-under-dpco-177239",
+        "articlePath": "/article.html?issue=2026-08-16&article=2026-08-16-same-drug-different-brand-different-mrp-centre-explains-pricing-rules-un"
+      },
+      {
+        "id": "2026-08-16-zealand-pharma-sells-rusfertide-royalty-rights-to-royalty-pharma-in-us-1",
+        "title": "Zealand Pharma sells Rusfertide Royalty Rights to Royalty Pharma in US$100M deal | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
+        "summary": "The agreement gives Zealand $50 million upfront, with another $50 million payable one year later.",
+        "source": "Healthcare MEA",
+        "sourceHost": "healthcaremea.com",
+        "region": "Middle East",
+        "country": "Middle East",
+        "publishedAt": "2026-08-16T09:04:13.000Z",
+        "publishedLabel": "August 16, 2026",
+        "category": "Manufacturing",
+        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/08/images-67-1.jpg",
+        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
+        "justIn": false,
+        "originalUrl": "https://www.healthcaremea.com/2026/08/16/zealand-pharma-sells-rusfertide-royalty-rights-to-royalty-pharma-in-us100m-deal/",
+        "articlePath": "/article.html?issue=2026-08-16&article=2026-08-16-zealand-pharma-sells-rusfertide-royalty-rights-to-royalty-pharma-in-us-1"
+      },
+      {
+        "id": "2026-08-16-glenmark-usa-agrees-to-usd-15-28-mn-settlement-with-humana-over-generic-",
+        "title": "Glenmark USA Agrees to USD 15.28 Mn Settlement With Humana Over Generic Drug Antitrust Claims",
+        "summary": "Mumbai: Glenmark Pharmaceuticals Limited's U.S. subsidiary, Glenmark Pharmaceuticals Inc., USA (Glenmark USA), has agreed to a USD15.28 million (approximately USD15,285,369) settlement with Humana...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-08-16T09:51:45.000Z",
+        "publishedLabel": "August 16, 2026",
+        "category": "Industry Update",
+        "image": "https://medicaldialogues.in/h-upload/2024/02/28/233261-glenmark-50.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": false,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/glenmark-usa-agrees-to-usd-1528-mn-settlement-with-humana-over-generic-drug-antitrust-claims-177237",
+        "articlePath": "/article.html?issue=2026-08-16&article=2026-08-16-glenmark-usa-agrees-to-usd-15-28-mn-settlement-with-humana-over-generic-"
+      }
+    ],
+    "providers": [
+      {
+        "id": "2026-08-16-kenya-to-build-10-specialized-maternal-and-newborn-facilities-across-hig",
+        "title": "Kenya to build 10 specialized maternal and newborn facilities across high-burden counties",
+        "summary": "The centres will provide comprehensive services, including antenatal and postnatal care, labour and recovery services, obstetric care, Caesarean sections, theatres, maternal and neonatal intensive ...",
+        "source": "Healthcare MEA",
+        "sourceHost": "healthcaremea.com",
+        "region": "Middle East",
+        "country": "Oman",
+        "publishedAt": "2026-08-16T08:09:58.000Z",
+        "publishedLabel": "August 16, 2026",
+        "category": "Provider Update",
+        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/08/HCMEA-1.png",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": false,
+        "originalUrl": "https://www.healthcaremea.com/2026/08/16/kenya-to-build-10-specialized-maternal-and-newborn-facilities-across-high-burden-counties/",
+        "articlePath": "/article.html?issue=2026-08-16&article=2026-08-16-kenya-to-build-10-specialized-maternal-and-newborn-facilities-across-hig"
+      }
+    ],
+    "diagnostics": [
+      {
+        "id": "2026-08-16-mental-health-insurance-in-india-from-policy-wording-to-patient-access",
+        "title": "Mental health insurance in India: From policy wording to patient access",
+        "summary": "Mental health remains one of the most neglected areas of Indian healthcare. Psychiatry and psychology are still too often treated as peripheral departments in hospitals and clinics — under-prioritised, under-funded and under-integrated into mainstream care....",
+        "source": "Express Healthcare",
+        "sourceHost": "expresshealthcare.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-08-16T05:30:25.000Z",
+        "publishedLabel": "August 16, 2026",
+        "category": "Industry Update",
+        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/08/14144019/EH_Yuvveer_Bagai_750.jpg",
+        "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
+        "justIn": false,
+        "originalUrl": "https://www.expresshealthcare.in/blogs/guest-blogs-healthcare/mental-health-insurance-in-india-from-policy-wording-to-patient-access/454742/",
+        "articlePath": "/article.html?issue=2026-08-16&article=2026-08-16-mental-health-insurance-in-india-from-policy-wording-to-patient-access"
+      },
+      {
+        "id": "2026-08-16-thermo-fisher-completes-us-1-075b-sale-of-microbiology-business-to-astor",
+        "title": "Thermo Fisher completes US$1.075B sale of microbiology business to Astorg | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
+        "summary": "The sale transfers a business that develops and supplies microbiology products used across clinical diagnostics, pharmaceutical manufacturing and food safety testing.",
+        "source": "Healthcare MEA",
+        "sourceHost": "healthcaremea.com",
+        "region": "Middle East",
+        "country": "Middle East",
+        "publishedAt": "2026-08-16T08:27:28.000Z",
+        "publishedLabel": "August 16, 2026",
+        "category": "Diagnostics",
+        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/08/HCMEA.png",
+        "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
+        "justIn": false,
+        "originalUrl": "https://www.healthcaremea.com/2026/08/16/thermo-fisher-completes-us1-075b-sale-of-microbiology-business-to-astorg/",
+        "articlePath": "/article.html?issue=2026-08-16&article=2026-08-16-thermo-fisher-completes-us-1-075b-sale-of-microbiology-business-to-astor"
+      }
+    ],
     "healthtech": []
   },
-  "thbActions": []
+  "thbActions": [
+    {
+      "segment": "pharma",
+      "articleId": "2026-08-16-ai-could-cut-doctors-paperwork-burden-as-global-health-worker-shortage-l",
+      "title": "AI could cut doctors' paperwork burden as global health worker shortage looms: Report",
+      "source": "ET Healthworld",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "pharma",
+      "articleId": "2026-08-16-thermo-fisher-eyes-15-20-growth-in-india-customer-base-over-next-5-years",
+      "title": "Thermo Fisher Eyes 15-20% Growth in India Customer Base Over Next 5 Years Amid Biopharma Boom",
+      "source": "Medical Dialogues Pharma",
+      "solution": "THB Commercial Analytics",
+      "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
+    },
+    {
+      "segment": "pharma",
+      "articleId": "2026-08-16-ucl-signs-msd-licensing-deal-for-investigational-monthly-hiv-prevention-",
+      "title": "UCL signs MSD licensing deal for investigational monthly HIV prevention pill | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
+      "source": "Healthcare MEA",
+      "solution": "THB Commercial Analytics",
+      "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
+    },
+    {
+      "segment": "pharma",
+      "articleId": "2026-08-16-same-drug-different-brand-different-mrp-centre-explains-pricing-rules-un",
+      "title": "Same Drug, Different Brand, Different MRP? Centre Explains Pricing Rules Under DPCO",
+      "source": "Medical Dialogues Pharma",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "pharma",
+      "articleId": "2026-08-16-zealand-pharma-sells-rusfertide-royalty-rights-to-royalty-pharma-in-us-1",
+      "title": "Zealand Pharma sells Rusfertide Royalty Rights to Royalty Pharma in US$100M deal | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
+      "source": "Healthcare MEA",
+      "solution": "THB Commercial Analytics",
+      "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
+    },
+    {
+      "segment": "providers",
+      "articleId": "2026-08-16-kenya-to-build-10-specialized-maternal-and-newborn-facilities-across-hig",
+      "title": "Kenya to build 10 specialized maternal and newborn facilities across high-burden counties",
+      "source": "Healthcare MEA",
+      "solution": "THB Provider CRM",
+      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
+    },
+    {
+      "segment": "diagnostics",
+      "articleId": "2026-08-16-mental-health-insurance-in-india-from-policy-wording-to-patient-access",
+      "title": "Mental health insurance in India: From policy wording to patient access",
+      "source": "Express Healthcare",
+      "solution": "THB Diagnostics CRM",
+      "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
+    },
+    {
+      "segment": "diagnostics",
+      "articleId": "2026-08-16-thermo-fisher-completes-us-1-075b-sale-of-microbiology-business-to-astor",
+      "title": "Thermo Fisher completes US$1.075B sale of microbiology business to Astorg | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
+      "source": "Healthcare MEA",
+      "solution": "THB Diagnostics CRM",
+      "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
+    }
+  ]
 }
