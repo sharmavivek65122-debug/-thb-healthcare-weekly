@@ -1,26 +1,14 @@
 {
-  "updatedAt": "2026-08-15T13:53:00.553Z",
-  "latestIssueKey": "2026-08-09",
+  "updatedAt": "2026-08-16T05:00:05.246Z",
+  "latestIssueKey": "2026-08-16",
   "issues": [
-    {
-      "key": "2026-06-21",
-      "issueNumber": 20,
-      "rangeLabel": "Jun 21 - Jun 27, 2026",
-      "status": "published",
-      "coverage": {
-        "pharma": 0,
-        "providers": 2,
-        "diagnostics": 2,
-        "healthtech": 0
-      }
-    },
     {
       "key": "2026-06-28",
       "issueNumber": 21,
       "rangeLabel": "Jun 28 - Jul 4, 2026",
       "status": "published",
       "coverage": {
-        "pharma": 1,
+        "pharma": 0,
         "providers": 0,
         "diagnostics": 1,
         "healthtech": 0
@@ -32,9 +20,9 @@
       "rangeLabel": "Jul 5 - Jul 11, 2026",
       "status": "published",
       "coverage": {
-        "pharma": 0,
-        "providers": 11,
-        "diagnostics": 3,
+        "pharma": 1,
+        "providers": 18,
+        "diagnostics": 5,
         "healthtech": 0
       }
     },
@@ -44,9 +32,9 @@
       "rangeLabel": "Jul 12 - Jul 18, 2026",
       "status": "published",
       "coverage": {
-        "pharma": 0,
-        "providers": 7,
-        "diagnostics": 0,
+        "pharma": 2,
+        "providers": 9,
+        "diagnostics": 2,
         "healthtech": 0
       }
     },
@@ -80,7 +68,7 @@
       "rangeLabel": "Aug 2 - Aug 8, 2026",
       "status": "published",
       "coverage": {
-        "pharma": 11,
+        "pharma": 10,
         "providers": 11,
         "diagnostics": 1,
         "healthtech": 0
@@ -90,12 +78,24 @@
       "key": "2026-08-09",
       "issueNumber": 27,
       "rangeLabel": "Aug 9 - Aug 15, 2026",
+      "status": "published",
+      "coverage": {
+        "pharma": 46,
+        "providers": 16,
+        "diagnostics": 6,
+        "healthtech": 1
+      }
+    },
+    {
+      "key": "2026-08-16",
+      "issueNumber": 28,
+      "rangeLabel": "Aug 16 - Aug 22, 2026",
       "status": "live",
       "coverage": {
-        "pharma": 48,
-        "providers": 16,
-        "diagnostics": 2,
-        "healthtech": 1
+        "pharma": 0,
+        "providers": 0,
+        "diagnostics": 0,
+        "healthtech": 0
       }
     }
   ]
