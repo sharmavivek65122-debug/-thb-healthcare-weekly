@@ -5,18 +5,54 @@
   "startDate": "2026-07-11T18:30:00.000Z",
   "endDate": "2026-07-17T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-08-17T05:08:17.687Z",
+  "updatedAt": "2026-08-17T14:01:52.926Z",
   "coverage": {
-    "pharma": 0,
-    "providers": 7,
-    "diagnostics": 0,
+    "pharma": 2,
+    "providers": 9,
+    "diagnostics": 2,
     "healthtech": 0
   },
   "sourcesUsed": [
-    "ET Healthworld Hospitals"
+    "ET Healthworld Hospitals",
+    "Express Healthcare Posts"
   ],
   "segments": {
-    "pharma": [],
+    "pharma": [
+      {
+        "id": "2026-07-12-why-healthcare-s-future-lies-in-connected-ecosystems",
+        "title": "Why healthcare’s future lies in connected ecosystems",
+        "summary": "Healthcare's biggest disruption isn't AI, it's integration. As medical devices, cloud platforms, digital health and life sciences converge into a single connected ecosystem, the industry is moving from episodic treatment to continuous, data-driven care. Atul...",
+        "source": "Express Healthcare Posts",
+        "sourceHost": "expresshealthcare.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-07-13T06:59:27.000Z",
+        "publishedLabel": "July 13, 2026",
+        "category": "Industry Update",
+        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/07/13122658/EH_Atul_Kurani_750.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": false,
+        "originalUrl": "https://www.expresshealthcare.in/news/why-healthcares-future-lies-in-connected-ecosystems/454324/",
+        "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-why-healthcare-s-future-lies-in-connected-ecosystems"
+      },
+      {
+        "id": "2026-07-12-why-selling-glp-1s-without-clinical-infrastructure-is-not-obesity-care",
+        "title": "Why selling GLP-1s without clinical infrastructure is not obesity care",
+        "summary": "UK-headquartered digital healthcare company, Voy expanded into India, its fourth international market (alongside the UK, Germany, and Brazil) with the June acquisition of EarlyFit. Parth Chopra, co-founder, Voy India explains how Voy’s global GLP-1-led...",
+        "source": "Express Healthcare Posts",
+        "sourceHost": "expresshealthcare.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-07-14T08:35:38.000Z",
+        "publishedLabel": "July 14, 2026",
+        "category": "Market",
+        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/07/14140517/EH_Parth_Chopra_Voy_750.jpg",
+        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
+        "justIn": false,
+        "originalUrl": "https://www.expresshealthcare.in/news/why-selling-glp-1s-without-clinical-infrastructure-is-not-obesity-care/454344/",
+        "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-why-selling-glp-1s-without-clinical-infrastructure-is-not-obesity-care"
+      }
+    ],
     "providers": [
       {
         "id": "2026-07-12-medtronic-partners-with-apollo-hospitals-to-launch-advanced-icu-of-the-f",
@@ -136,12 +172,97 @@
         "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/hospitals-to-lead-healthcare-sector-growth-in-q1fy27-profitability-remains-a-concern-report/132365894",
         "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-hospitals-to-lead-healthcare-sector-growth-in-q1fy27-profitability-remai"
+      },
+      {
+        "id": "2026-07-12-can-prevention-deliver-both-better-health-and-better-insurance-outcomes",
+        "title": "Can prevention deliver both better health and better insurance outcomes?",
+        "summary": "Mayank Bathwal, CEO, Aditya Birla Health Insurance, explains why preventive healthcare and continuous wellness engagement can improve both health outcomes and health insurance sustainability",
+        "source": "Express Healthcare Posts",
+        "sourceHost": "expresshealthcare.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-07-14T06:35:53.000Z",
+        "publishedLabel": "July 14, 2026",
+        "category": "AI Care Delivery",
+        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/07/14120509/EH_Mayank_Bathwal_750.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": false,
+        "originalUrl": "https://www.expresshealthcare.in/news/can-prevention-deliver-both-better-health-and-better-insurance-outcomes/454338/",
+        "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-can-prevention-deliver-both-better-health-and-better-insurance-outcomes"
+      },
+      {
+        "id": "2026-07-12-robotic-surgery-is-changing-more-than-the-way-we-operate",
+        "title": "Robotic surgery is changing more than the way we operate",
+        "summary": "Dr Ashwin Mallya, Senior Consultant (Urology), Sir Ganga Ram Hospital and Associate Professor of Urology, Ganga Ram Institute of Postgraduate Medical Education & Research, explains how robotic surgery is improving cancer care, reconstruction and patient...",
+        "source": "Express Healthcare Posts",
+        "sourceHost": "expresshealthcare.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-07-13T09:58:50.000Z",
+        "publishedLabel": "July 13, 2026",
+        "category": "Hospital",
+        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/07/13152751/EH_GB_-Ashwin_Mallya_750.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": false,
+        "originalUrl": "https://www.expresshealthcare.in/news/robotic-surgery-is-changing-more-than-the-way-we-operate/454329/",
+        "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-robotic-surgery-is-changing-more-than-the-way-we-operate"
       }
     ],
-    "diagnostics": [],
+    "diagnostics": [
+      {
+        "id": "2026-07-12-the-future-of-mri-lies-in-intelligent-automation",
+        "title": "The future of MRI lies in intelligent automation",
+        "summary": "MRI technology is steadily moving towards greater automation and intelligence. How do you see the evolution of autonomous MRI systems transforming radiology workflows and clinical practice in the coming years? The evolution of autonomous MRI represents a...",
+        "source": "Express Healthcare Posts",
+        "sourceHost": "expresshealthcare.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-07-14T09:07:50.000Z",
+        "publishedLabel": "July 14, 2026",
+        "category": "Industry Update",
+        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/07/14143716/New-Project-5.jpg",
+        "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
+        "justIn": false,
+        "originalUrl": "https://www.expresshealthcare.in/news/the-future-of-mri-lies-in-intelligent-automation/454347/",
+        "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-the-future-of-mri-lies-in-intelligent-automation"
+      },
+      {
+        "id": "2026-07-12-affordable-healthcare-innovation-will-define-viksit-bharat-2047-dr-r-a-m",
+        "title": "Affordable healthcare innovation will define Viksit Bharat 2047: Dr R A Mashelkar",
+        "summary": "FICCI Legends Series highlights the role of AI, deep-tech and digital innovation in expanding access to healthcare",
+        "source": "Express Healthcare Posts",
+        "sourceHost": "expresshealthcare.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-07-14T08:20:23.000Z",
+        "publishedLabel": "July 14, 2026",
+        "category": "Industry Update",
+        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/07/14134824/EEH_Dr_Raghunath_750.jpg",
+        "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
+        "justIn": false,
+        "originalUrl": "https://www.expresshealthcare.in/news/affordable-healthcare-innovation-will-define-viksit-bharat-2047-dr-r-a-mashelkar/454341/",
+        "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-affordable-healthcare-innovation-will-define-viksit-bharat-2047-dr-r-a-m"
+      }
+    ],
     "healthtech": []
   },
   "thbActions": [
+    {
+      "segment": "pharma",
+      "articleId": "2026-07-12-why-healthcare-s-future-lies-in-connected-ecosystems",
+      "title": "Why healthcare’s future lies in connected ecosystems",
+      "source": "Express Healthcare Posts",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "pharma",
+      "articleId": "2026-07-12-why-selling-glp-1s-without-clinical-infrastructure-is-not-obesity-care",
+      "title": "Why selling GLP-1s without clinical infrastructure is not obesity care",
+      "source": "Express Healthcare Posts",
+      "solution": "THB Commercial Analytics",
+      "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
+    },
     {
       "segment": "providers",
       "articleId": "2026-07-12-medtronic-partners-with-apollo-hospitals-to-launch-advanced-icu-of-the-f",
@@ -181,6 +302,22 @@
       "source": "ET Healthworld Hospitals",
       "solution": "THB Provider CRM",
       "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
+    },
+    {
+      "segment": "diagnostics",
+      "articleId": "2026-07-12-the-future-of-mri-lies-in-intelligent-automation",
+      "title": "The future of MRI lies in intelligent automation",
+      "source": "Express Healthcare Posts",
+      "solution": "THB Diagnostics CRM",
+      "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
+    },
+    {
+      "segment": "diagnostics",
+      "articleId": "2026-07-12-affordable-healthcare-innovation-will-define-viksit-bharat-2047-dr-r-a-m",
+      "title": "Affordable healthcare innovation will define Viksit Bharat 2047: Dr R A Mashelkar",
+      "source": "Express Healthcare Posts",
+      "solution": "THB Diagnostics CRM",
+      "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
     }
   ]
 }
