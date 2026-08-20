@@ -5,9 +5,9 @@
   "startDate": "2026-07-25T18:30:00.000Z",
   "endDate": "2026-07-31T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-08-20T05:04:22.115Z",
+  "updatedAt": "2026-08-20T14:09:16.689Z",
   "coverage": {
-    "pharma": 5,
+    "pharma": 3,
     "providers": 5,
     "diagnostics": 1,
     "healthtech": 0
@@ -15,28 +15,10 @@
   "sourcesUsed": [
     "BioSpectrum India Healthcare",
     "ET Healthworld Hospitals",
-    "Janssen India Media",
-    "PharmaTutor News"
+    "Janssen India Media"
   ],
   "segments": {
     "pharma": [
-      {
-        "id": "2026-07-26-sun-pharma-reports-10-revenue-growth-in-q1-fy27-india-business-and-innov",
-        "title": "Sun Pharma Reports 10% Revenue Growth in Q1 FY27, India Business and Innovative Medicines Lead Performance",
-        "summary": "Sun Pharmaceutical Industries Ltd., India's largest pharmaceutical company, has announced a strong start to FY2026-27, reporting double-digit revenue growth in the first quarter ended June 30, 2026. Robust performance in the domestic formulations business and...",
-        "source": "PharmaTutor News",
-        "sourceHost": "pharmatutor.org",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-08-01T12:13:34.000Z",
-        "publishedLabel": "August 1, 2026",
-        "category": "Industry Update",
-        "image": "https://www.pharmatutor.org/sites/default/files/styles/webp/public/2026-08/sun-pharma-reports-10-percengate-revenue-growth-in-q1-fy27-india-business-and-innovative-medicines-lead-performance.png.webp?itok=pfG2jcQf",
-        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": false,
-        "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/sun-pharma-reports-10-percengate-revenue-growth-in-q1-fy27-india-business-and-innovative-medicines-lead-performance",
-        "articlePath": "/article.html?issue=2026-07-26&article=2026-07-26-sun-pharma-reports-10-revenue-growth-in-q1-fy27-india-business-and-innov"
-      },
       {
         "id": "2026-07-26-johnson-and-johnson-s-rybrevant-faspro-amivantamab-and-hyaluronidase-lpu",
         "title": "Johnson & Johnson’s RYBREVANT FASPRO™ (amivantamab and hyaluronidase-lpuj) receives U.S. FDA Priority Review as potential first-in-class EGFR- and MET-targeted subcutaneous treatment for advanced head and neck cancer",
@@ -70,23 +52,6 @@
         "justIn": false,
         "originalUrl": "https://www.jnj.com/media-center/press-releases/johnson-johnson-announces-collaboration-with-sail-biomedicines-to-advance-in-vivo-car-t-programs-and-transform-autoimmune-disease-through-immune-reset",
         "articlePath": "/article.html?issue=2026-07-26&article=2026-07-26-johnson-and-johnson-announces-collaboration-with-sail-biomedicines-to-ad"
-      },
-      {
-        "id": "2026-07-26-fda-flags-viatris-tobi-podhaler-promotional-video-for-misleading-usage-c",
-        "title": "FDA Flags Viatris' TOBI Podhaler Promotional Video for Misleading Usage Claims",
-        "summary": "The U.S. Food and Drug Administration (FDA) has issued an Untitled Letter to Viatris Specialty LLC, stating that a direct-to-consumer (DTC) promotional video for TOBI® PODHALER® (tobramycin inhalation powder) contains false or misleading claims regarding the...",
-        "source": "PharmaTutor News",
-        "sourceHost": "pharmatutor.org",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-08-01T12:17:11.000Z",
-        "publishedLabel": "August 1, 2026",
-        "category": "Industry Update",
-        "image": "https://www.pharmatutor.org/sites/default/files/styles/webp/public/2026-08/fda-flags-viatris-tobi-podhaler-promotional-video-for-misleading-usage-claims.png.webp?itok=zq4gRek4",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/fda-flags-viatris-tobi-podhaler-promotional-video-for-misleading-usage-claims",
-        "articlePath": "/article.html?issue=2026-07-26&article=2026-07-26-fda-flags-viatris-tobi-podhaler-promotional-video-for-misleading-usage-c"
       },
       {
         "id": "2026-07-26-johnson-and-johnson-completes-acquisition-of-firefly-bio-inc-to-advance-",
@@ -217,14 +182,6 @@
   "thbActions": [
     {
       "segment": "pharma",
-      "articleId": "2026-07-26-sun-pharma-reports-10-revenue-growth-in-q1-fy27-india-business-and-innov",
-      "title": "Sun Pharma Reports 10% Revenue Growth in Q1 FY27, India Business and Innovative Medicines Lead Performance",
-      "source": "PharmaTutor News",
-      "solution": "THB Commercial Analytics",
-      "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
-    },
-    {
-      "segment": "pharma",
       "articleId": "2026-07-26-johnson-and-johnson-s-rybrevant-faspro-amivantamab-and-hyaluronidase-lpu",
       "title": "Johnson & Johnson’s RYBREVANT FASPRO™ (amivantamab and hyaluronidase-lpuj) receives U.S. FDA Priority Review as potential first-in-class EGFR- and MET-targeted subcutaneous treatment for advanced head and neck cancer",
       "source": "Janssen India Media",
@@ -236,14 +193,6 @@
       "articleId": "2026-07-26-johnson-and-johnson-announces-collaboration-with-sail-biomedicines-to-ad",
       "title": "Johnson & Johnson Announces Collaboration with Sail Biomedicines to Advance in vivo CAR-T Programs and Transform Autoimmune Disease Through Immune Reset",
       "source": "Janssen India Media",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
-      "segment": "pharma",
-      "articleId": "2026-07-26-fda-flags-viatris-tobi-podhaler-promotional-video-for-misleading-usage-c",
-      "title": "FDA Flags Viatris' TOBI Podhaler Promotional Video for Misleading Usage Claims",
-      "source": "PharmaTutor News",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
     },

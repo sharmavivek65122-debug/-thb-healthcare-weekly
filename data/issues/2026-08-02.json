@@ -5,9 +5,9 @@
   "startDate": "2026-08-01T18:30:00.000Z",
   "endDate": "2026-08-07T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-08-20T05:04:22.115Z",
+  "updatedAt": "2026-08-20T14:09:16.689Z",
   "coverage": {
-    "pharma": 8,
+    "pharma": 6,
     "providers": 11,
     "diagnostics": 1,
     "healthtech": 0
@@ -16,7 +16,6 @@
     "ET Healthworld Diagnostics",
     "ET Healthworld Hospitals",
     "Economic Times Pharma",
-    "Lupin Updates",
     "PharmaTutor News"
   ],
   "segments": {
@@ -54,23 +53,6 @@
         "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/india-must-build-export-oriented-medical-devices-industry-says-pharma-secretary/articleshow/133034449.cms",
         "articlePath": "/article.html?issue=2026-08-02&article=2026-08-02-india-must-build-export-oriented-medical-devices-industry-says-pharma-se"
-      },
-      {
-        "id": "2026-08-02-govt-plans-new-drugs-law-to-overhaul-pharma-medical-device-regulation",
-        "title": "Govt plans new drugs law to overhaul pharma, medical device regulation",
-        "summary": "The government is set to replace the 1940 Drugs and Cosmetics Act with a new law covering drugs, medical devices and cosmetics. The draft bill strengthens the powers of the DCGI, introduces stricter bail provisions for serious drug offences, enables faster...",
-        "source": "Economic Times Pharma",
-        "sourceHost": "economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-08-07T00:30:00.000Z",
-        "publishedLabel": "August 7, 2026",
-        "category": "Industry Update",
-        "image": "https://img.etimg.com/thumb/msid-133015211,width-1200,height-630,imgsize-195447,overlay-economictimes/articleshow.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/govt-plans-new-drugs-law-to-overhaul-pharma-medical-device-regulation/articleshow/133015180.cms",
-        "articlePath": "/article.html?issue=2026-08-02&article=2026-08-02-govt-plans-new-drugs-law-to-overhaul-pharma-medical-device-regulation"
       },
       {
         "id": "2026-08-02-dr-reddy-s-wins-u-s-fda-approval-for-rituximab-biosimilar-strengthening-",
@@ -139,23 +121,6 @@
         "justIn": false,
         "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/sandoz-moves-to-resolve-legacy-us-generic-drug-litigation-with-nearly-480-million-usd-settlement",
         "articlePath": "/article.html?issue=2026-08-02&article=2026-08-02-sandoz-moves-to-resolve-legacy-u-s-generic-drug-litigation-with-nearly-4"
-      },
-      {
-        "id": "2026-08-02-lupin-q1-pat-rises-16-pc-at-rs-1-417-cr",
-        "title": "Lupin Q1 PAT rises 16 pc at Rs 1,417 cr",
-        "summary": "Lupin Ltd has reported a remarkable sixteen percent surge in profit after tax for the first quarter, showcasing their continued success. The firm experienced considerable growth in consolidated total revenue from operations, largely driven by a staggering...",
-        "source": "Lupin Updates",
-        "sourceHost": "economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-08-07T11:06:00.000Z",
-        "publishedLabel": "August 7, 2026",
-        "category": "Industry Update",
-        "image": "https://img.etimg.com/thumb/msid-133032045,width-1200,height-630,imgsize-11896,overlay-etmarkets/articleshow.jpg",
-        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": false,
-        "originalUrl": "https://economictimes.indiatimes.com/markets/stocks/earnings/lupin-q1-pat-rises-16-pc-at-rs-1417-cr/articleshow/133031974.cms",
-        "articlePath": "/article.html?issue=2026-08-02&article=2026-08-02-lupin-q1-pat-rises-16-pc-at-rs-1-417-cr"
       }
     ],
     "providers": [
@@ -387,14 +352,6 @@
     },
     {
       "segment": "pharma",
-      "articleId": "2026-08-02-govt-plans-new-drugs-law-to-overhaul-pharma-medical-device-regulation",
-      "title": "Govt plans new drugs law to overhaul pharma, medical device regulation",
-      "source": "Economic Times Pharma",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
-      "segment": "pharma",
       "articleId": "2026-08-02-dr-reddy-s-wins-u-s-fda-approval-for-rituximab-biosimilar-strengthening-",
       "title": "Dr. Reddy’s Wins U.S. FDA Approval for Rituximab Biosimilar, Strengthening Global Biologics Presence",
       "source": "PharmaTutor News",
@@ -405,6 +362,14 @@
       "segment": "pharma",
       "articleId": "2026-08-02-amgen-reports-material-cybersecurity-incident-after-unauthorized-access-",
       "title": "Amgen Reports Material Cybersecurity Incident After Unauthorized Access to Cloud Data",
+      "source": "PharmaTutor News",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "pharma",
+      "articleId": "2026-08-02-breakthrough-study-identifies-circular-rnas-as-promising-targets-to-redu",
+      "title": "Breakthrough Study Identifies Circular RNAs as Promising Targets to Reduce Cancer Therapy Side Effects",
       "source": "PharmaTutor News",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
