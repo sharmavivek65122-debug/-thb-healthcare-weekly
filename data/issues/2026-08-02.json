@@ -5,9 +5,9 @@
   "startDate": "2026-08-01T18:30:00.000Z",
   "endDate": "2026-08-07T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-08-20T14:09:16.689Z",
+  "updatedAt": "2026-08-21T05:04:23.986Z",
   "coverage": {
-    "pharma": 6,
+    "pharma": 5,
     "providers": 11,
     "diagnostics": 1,
     "healthtech": 0
@@ -20,23 +20,6 @@
   ],
   "segments": {
     "pharma": [
-      {
-        "id": "2026-08-02-independence-day-2026-india-which-once-couldn-t-make-smallpox-vaccine-ha",
-        "title": "Independence Day 2026: India, which once couldn't make smallpox vaccine, has now crossed a pharma mileston",
-        "summary": "2026 Independence Day: India's pharmaceutical industry marks a historic milestone with a new drug approval. This achievement reflects decades of growth from importing medicines to global leadership. The nation now supplies a significant portion of the world's...",
-        "source": "Economic Times Pharma",
-        "sourceHost": "economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-08-07T05:44:12.000Z",
-        "publishedLabel": "August 7, 2026",
-        "category": "Approval",
-        "image": "https://img.etimg.com/thumb/msid-133021310,width-1200,height-630,imgsize-293468,overlay-economictimes/articleshow.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/independence-day-2026-india-pharma-journey-covaxin-made-in-india-drug-discovery-zaynich-wockhardt-ipa-indian-medicine-vaccine/articleshow/133003617.cms",
-        "articlePath": "/article.html?issue=2026-08-02&article=2026-08-02-independence-day-2026-india-which-once-couldn-t-make-smallpox-vaccine-ha"
-      },
       {
         "id": "2026-08-02-india-must-build-export-oriented-medical-devices-industry-says-pharma-se",
         "title": "India must build export-oriented medical devices industry, says pharma secretary",
@@ -336,14 +319,6 @@
   "thbActions": [
     {
       "segment": "pharma",
-      "articleId": "2026-08-02-independence-day-2026-india-which-once-couldn-t-make-smallpox-vaccine-ha",
-      "title": "Independence Day 2026: India, which once couldn't make smallpox vaccine, has now crossed a pharma mileston",
-      "source": "Economic Times Pharma",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
-      "segment": "pharma",
       "articleId": "2026-08-02-india-must-build-export-oriented-medical-devices-industry-says-pharma-se",
       "title": "India must build export-oriented medical devices industry, says pharma secretary",
       "source": "Economic Times Pharma",
@@ -373,6 +348,14 @@
       "source": "PharmaTutor News",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "pharma",
+      "articleId": "2026-08-02-sandoz-moves-to-resolve-legacy-u-s-generic-drug-litigation-with-nearly-4",
+      "title": "Sandoz Moves to Resolve Legacy U.S. Generic Drug Litigation with Nearly 480 Million USD Settlement",
+      "source": "PharmaTutor News",
+      "solution": "THB Commercial Analytics",
+      "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
     },
     {
       "segment": "providers",
