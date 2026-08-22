@@ -5,9 +5,9 @@
   "startDate": "2026-08-01T18:30:00.000Z",
   "endDate": "2026-08-07T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-08-22T04:59:26.104Z",
+  "updatedAt": "2026-08-22T13:53:38.986Z",
   "coverage": {
-    "pharma": 5,
+    "pharma": 4,
     "providers": 11,
     "diagnostics": 1,
     "healthtech": 0
@@ -20,23 +20,6 @@
   ],
   "segments": {
     "pharma": [
-      {
-        "id": "2026-08-02-dr-reddy-s-wins-u-s-fda-approval-for-rituximab-biosimilar-strengthening-",
-        "title": "Dr. Reddy’s Wins U.S. FDA Approval for Rituximab Biosimilar, Strengthening Global Biologics Presence",
-        "summary": "Dr. Reddy’s Laboratories has received approval from the U.S. Food and Drug Administration (FDA) for its rituximab biosimilar, a biosimilar version of Rituxan® (rituximab), marking another significant milestone in the company's expanding global biosimilars...",
-        "source": "PharmaTutor News",
-        "sourceHost": "pharmatutor.org",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-08-04T10:41:22.000Z",
-        "publishedLabel": "August 4, 2026",
-        "category": "Approval",
-        "image": "https://www.pharmatutor.org/sites/default/files/styles/webp/public/2026-08/dr-reddys-wins-usfda-approval-for-rituximab-biosimilar-strengthening-global-biologics-presence.png.webp?itok=m9ckntKA",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/dr-reddys-wins-usfda-approval-for-rituximab-biosimilar-strengthening-global-biologics-presence",
-        "articlePath": "/article.html?issue=2026-08-02&article=2026-08-02-dr-reddy-s-wins-u-s-fda-approval-for-rituximab-biosimilar-strengthening-"
-      },
       {
         "id": "2026-08-02-amgen-reports-material-cybersecurity-incident-after-unauthorized-access-",
         "title": "Amgen Reports Material Cybersecurity Incident After Unauthorized Access to Cloud Data",
@@ -317,14 +300,6 @@
     "healthtech": []
   },
   "thbActions": [
-    {
-      "segment": "pharma",
-      "articleId": "2026-08-02-dr-reddy-s-wins-u-s-fda-approval-for-rituximab-biosimilar-strengthening-",
-      "title": "Dr. Reddy’s Wins U.S. FDA Approval for Rituximab Biosimilar, Strengthening Global Biologics Presence",
-      "source": "PharmaTutor News",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
     {
       "segment": "pharma",
       "articleId": "2026-08-02-amgen-reports-material-cybersecurity-incident-after-unauthorized-access-",

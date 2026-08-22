@@ -5,9 +5,9 @@
   "startDate": "2026-07-11T18:30:00.000Z",
   "endDate": "2026-07-17T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-08-22T04:59:26.104Z",
+  "updatedAt": "2026-08-22T13:53:38.986Z",
   "coverage": {
-    "pharma": 1,
+    "pharma": 2,
     "providers": 9,
     "diagnostics": 2,
     "healthtech": 0
@@ -18,6 +18,23 @@
   ],
   "segments": {
     "pharma": [
+      {
+        "id": "2026-07-12-why-healthcare-s-future-lies-in-connected-ecosystems",
+        "title": "Why healthcare’s future lies in connected ecosystems",
+        "summary": "Healthcare's biggest disruption isn't AI, it's integration. As medical devices, cloud platforms, digital health and life sciences converge into a single connected ecosystem, the industry is moving from episodic treatment to continuous, data-driven care. Atul...",
+        "source": "Express Healthcare Posts",
+        "sourceHost": "expresshealthcare.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-07-13T06:59:27.000Z",
+        "publishedLabel": "July 13, 2026",
+        "category": "Industry Update",
+        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/07/13122658/EH_Atul_Kurani_750.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": false,
+        "originalUrl": "https://www.expresshealthcare.in/news/why-healthcares-future-lies-in-connected-ecosystems/454324/",
+        "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-why-healthcare-s-future-lies-in-connected-ecosystems"
+      },
       {
         "id": "2026-07-12-why-selling-glp-1s-without-clinical-infrastructure-is-not-obesity-care",
         "title": "Why selling GLP-1s without clinical infrastructure is not obesity care",
@@ -230,6 +247,14 @@
     "healthtech": []
   },
   "thbActions": [
+    {
+      "segment": "pharma",
+      "articleId": "2026-07-12-why-healthcare-s-future-lies-in-connected-ecosystems",
+      "title": "Why healthcare’s future lies in connected ecosystems",
+      "source": "Express Healthcare Posts",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
     {
       "segment": "pharma",
       "articleId": "2026-07-12-why-selling-glp-1s-without-clinical-infrastructure-is-not-obesity-care",
