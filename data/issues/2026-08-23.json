@@ -5,19 +5,125 @@
   "startDate": "2026-08-22T18:30:00.000Z",
   "endDate": "2026-08-28T18:30:00.000Z",
   "status": "live",
-  "updatedAt": "2026-08-23T05:01:16.709Z",
+  "updatedAt": "2026-08-23T13:55:09.824Z",
   "coverage": {
-    "pharma": 0,
+    "pharma": 4,
     "providers": 0,
     "diagnostics": 0,
     "healthtech": 0
   },
-  "sourcesUsed": [],
+  "sourcesUsed": [
+    "ET Healthworld",
+    "Economic Times Pharma",
+    "Healthcare MEA"
+  ],
   "segments": {
-    "pharma": [],
+    "pharma": [
+      {
+        "id": "2026-08-23-udan-vs-udaan-delhi-court-restrains-pharmaceutical-firm-from-using-udaan",
+        "title": "Udan vs Udaan: Delhi court restrains pharmaceutical firm from using 'Udaan' mark",
+        "summary": "A Delhi court has permanently stopped Sainus Pharmaceutical Private Limited from using the 'Udaan' trademark. This ruling came after RSPL Health Private Limited filed a case alleging trademark infringement. RSPL Health, known for its 'Ghari' detergent brand,...",
+        "source": "Economic Times Pharma",
+        "sourceHost": "economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-08-23T11:59:11.000Z",
+        "publishedLabel": "August 23, 2026",
+        "category": "Industry Update",
+        "image": "https://img.etimg.com/thumb/msid-133439317,width-1200,height-630,imgsize-59084,overlay-economictimes/articleshow.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": false,
+        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/udan-vs-udaan-delhi-court-restrains-pharmaceutical-firm-from-using-udaan-mark/articleshow/133439307.cms",
+        "articlePath": "/article.html?issue=2026-08-23&article=2026-08-23-udan-vs-udaan-delhi-court-restrains-pharmaceutical-firm-from-using-udaan"
+      },
+      {
+        "id": "2026-08-23-ten-days-of-yoga-naturopathy-may-alter-stress-regulation-system-for-mont",
+        "title": "Ten days of yoga, naturopathy may alter stress-regulation system for months: Study",
+        "summary": "During a randomised controlled trial involving 262 people, researchers at the SDM College of Naturopathy and Yogic Sciences in Ujire found that participants who underwent the integrated programme showed changes in heart-rate variability (HRV), a non-invasive...",
+        "source": "ET Healthworld",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-08-23T09:53:13.000Z",
+        "publishedLabel": "August 23, 2026",
+        "category": "Industry Update",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-133437622,imgsize-1799375,width-1200,height=627,overlay-ethealth,resizemode-75/industry/ten-days-of-yoga-naturopathy-may-alter-stress-regulation-system-for-months-study.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": false,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/ten-days-of-yoga-naturopathy-may-alter-stress-regulation-system-for-months-study/133437622",
+        "articlePath": "/article.html?issue=2026-08-23&article=2026-08-23-ten-days-of-yoga-naturopathy-may-alter-stress-regulation-system-for-mont"
+      },
+      {
+        "id": "2026-08-23-roche-to-invest-us-750m-in-new-injectable-manufacturing-facility-in-oreg",
+        "title": "Roche to invest US$750M in new injectable manufacturing facility in Oregon | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
+        "summary": "Construction of the Hillsboro facility is expected to create about 200 jobs, with workers remaining on site through the project’s anticipated completion in 2031.",
+        "source": "Healthcare MEA",
+        "sourceHost": "healthcaremea.com",
+        "region": "Middle East",
+        "country": "Oman",
+        "publishedAt": "2026-08-23T08:06:46.000Z",
+        "publishedLabel": "August 23, 2026",
+        "category": "Manufacturing",
+        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/08/image-1600x900-2026-08-23T110205.827.png",
+        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
+        "justIn": false,
+        "originalUrl": "https://www.healthcaremea.com/2026/08/23/roche-to-invest-us750m-in-new-injectable-manufacturing-facility-in-oregon/",
+        "articlePath": "/article.html?issue=2026-08-23&article=2026-08-23-roche-to-invest-us-750m-in-new-injectable-manufacturing-facility-in-oreg"
+      },
+      {
+        "id": "2026-08-23-saudi-arabia-orders-health-insurers-to-provide-outpatient-coverage-witho",
+        "title": "Saudi Arabia orders health insurers to provide outpatient coverage without prior approval",
+        "summary": "Unlike conventional plans that may require insurers to approve certain outpatient services before beneficiaries receive care, the new option will remove the pre-approval requirement for eligible o ...",
+        "source": "Healthcare MEA",
+        "sourceHost": "healthcaremea.com",
+        "region": "Middle East",
+        "country": "Saudi Arabia",
+        "publishedAt": "2026-08-23T08:17:57.000Z",
+        "publishedLabel": "August 23, 2026",
+        "category": "Approval",
+        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/08/image-1600x900-2026-08-23T111428.752.png",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": false,
+        "originalUrl": "https://www.healthcaremea.com/2026/08/23/saudi-arabia-orders-health-insurers-to-provide-outpatient-coverage-without-prior-approval/",
+        "articlePath": "/article.html?issue=2026-08-23&article=2026-08-23-saudi-arabia-orders-health-insurers-to-provide-outpatient-coverage-witho"
+      }
+    ],
     "providers": [],
     "diagnostics": [],
     "healthtech": []
   },
-  "thbActions": []
+  "thbActions": [
+    {
+      "segment": "pharma",
+      "articleId": "2026-08-23-udan-vs-udaan-delhi-court-restrains-pharmaceutical-firm-from-using-udaan",
+      "title": "Udan vs Udaan: Delhi court restrains pharmaceutical firm from using 'Udaan' mark",
+      "source": "Economic Times Pharma",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "pharma",
+      "articleId": "2026-08-23-ten-days-of-yoga-naturopathy-may-alter-stress-regulation-system-for-mont",
+      "title": "Ten days of yoga, naturopathy may alter stress-regulation system for months: Study",
+      "source": "ET Healthworld",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "pharma",
+      "articleId": "2026-08-23-roche-to-invest-us-750m-in-new-injectable-manufacturing-facility-in-oreg",
+      "title": "Roche to invest US$750M in new injectable manufacturing facility in Oregon | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
+      "source": "Healthcare MEA",
+      "solution": "THB Commercial Analytics",
+      "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
+    },
+    {
+      "segment": "pharma",
+      "articleId": "2026-08-23-saudi-arabia-orders-health-insurers-to-provide-outpatient-coverage-witho",
+      "title": "Saudi Arabia orders health insurers to provide outpatient coverage without prior approval",
+      "source": "Healthcare MEA",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    }
+  ]
 }
