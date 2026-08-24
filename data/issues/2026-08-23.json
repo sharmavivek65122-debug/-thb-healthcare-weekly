@@ -5,20 +5,57 @@
   "startDate": "2026-08-22T18:30:00.000Z",
   "endDate": "2026-08-28T18:30:00.000Z",
   "status": "live",
-  "updatedAt": "2026-08-23T13:55:09.824Z",
+  "updatedAt": "2026-08-24T05:11:10.316Z",
   "coverage": {
-    "pharma": 4,
-    "providers": 0,
-    "diagnostics": 0,
+    "pharma": 11,
+    "providers": 1,
+    "diagnostics": 1,
     "healthtech": 0
   },
   "sourcesUsed": [
     "ET Healthworld",
     "Economic Times Pharma",
-    "Healthcare MEA"
+    "Express Healthcare",
+    "Healthcare MEA",
+    "Medical Dialogues Pharma",
+    "Zawya Pharmaceuticals"
   ],
   "segments": {
     "pharma": [
+      {
+        "id": "2026-08-23-indian-pharma-has-little-reason-to-fear-trump",
+        "title": "Indian pharma has little reason to fear Trump",
+        "summary": "US tariff threats on Indian generic drugs face significant obstacles. These duties could increase American healthcare costs and potentially cause shortages. Indian firms operate on low margins, making tariff absorption difficult. Recent US manufacturing...",
+        "source": "Economic Times Pharma",
+        "sourceHost": "economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-08-24T02:38:51.000Z",
+        "publishedLabel": "August 24, 2026",
+        "category": "Manufacturing",
+        "image": "https://img.etimg.com/thumb/msid-133449693,width-1200,height-630,imgsize-134336,overlay-economictimes/articleshow.jpg",
+        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
+        "justIn": true,
+        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/indian-pharma-has-little-reason-to-fear-trump/articleshow/133449610.cms",
+        "articlePath": "/article.html?issue=2026-08-23&article=2026-08-23-indian-pharma-has-little-reason-to-fear-trump"
+      },
+      {
+        "id": "2026-08-23-no-cause-for-panic-over-h1n1-current-strains-in-circulation-since-2025-s",
+        "title": "No cause for panic over H1N1; current strains in circulation since 2025, says ICMR",
+        "summary": "The scientists, as per the ICMR press note, also clarified that the influenza strains currently circulating are well matched with the vaccine strains recommended for the Northern Hemisphere.",
+        "source": "ET Healthworld",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-08-24T01:53:45.000Z",
+        "publishedLabel": "August 24, 2026",
+        "category": "Industry Update",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-133449153,imgsize-259102,width-1200,height=627,overlay-ethealth,resizemode-75/industry/no-cause-for-panic-over-h1n1-current-strains-in-circulation-since-2025-says-icmr.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/no-cause-for-panic-over-h1n1-current-strains-in-circulation-since-2025-says-icmr/133449153",
+        "articlePath": "/article.html?issue=2026-08-23&article=2026-08-23-no-cause-for-panic-over-h1n1-current-strains-in-circulation-since-2025-s"
+      },
       {
         "id": "2026-08-23-udan-vs-udaan-delhi-court-restrains-pharmaceutical-firm-from-using-udaan",
         "title": "Udan vs Udaan: Delhi court restrains pharmaceutical firm from using 'Udaan' mark",
@@ -54,6 +91,57 @@
         "articlePath": "/article.html?issue=2026-08-23&article=2026-08-23-ten-days-of-yoga-naturopathy-may-alter-stress-regulation-system-for-mont"
       },
       {
+        "id": "2026-08-23-omniactive-launches-nutraceutical-for-women-s-hormonal-health",
+        "title": "OmniActive launches nutraceutical for women’s hormonal health",
+        "summary": "The daily supplement combines standardized fenugreek (Trigonella foenum- graecum) and shatavari (Asparagus racemosus) to provide improvement in menopause symptoms such as hot flashes, night sweats while improving hormonal balance.",
+        "source": "ET Healthworld",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-08-23T20:37:45.000Z",
+        "publishedLabel": "August 24, 2026",
+        "category": "Launch",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-133446492,imgsize-993768,width-1200,height=627,overlay-ethealth,resizemode-75/industry/omniactive-launches-nutraceutical-for-womens-hormonal-health.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/omniactive-launches-nutraceutical-for-womens-hormonal-health/133446492",
+        "articlePath": "/article.html?issue=2026-08-23&article=2026-08-23-omniactive-launches-nutraceutical-for-women-s-hormonal-health"
+      },
+      {
+        "id": "2026-08-23-natco-pharma-s-visakhapatnam-plant-gets-4-usfda-observations",
+        "title": "NATCO Pharma's Visakhapatnam Plant Gets 4 USFDA Observations",
+        "summary": "Hyderabad: NATCO Pharma Limited has announced the conclusion of a US Food and Drug Administration (USFDA) inspection at its Finished Dosage Formulations (FDF) manufacturing unit in Parawada,...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-08-23T15:19:41.000Z",
+        "publishedLabel": "August 23, 2026",
+        "category": "Manufacturing",
+        "image": "https://medicaldialogues.in/h-upload/2023/01/11/197489-natco-pharma.jpg",
+        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
+        "justIn": true,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/natco-pharmas-visakhapatnam-plant-gets-4-usfda-observations-177798",
+        "articlePath": "/article.html?issue=2026-08-23&article=2026-08-23-natco-pharma-s-visakhapatnam-plant-gets-4-usfda-observations"
+      },
+      {
+        "id": "2026-08-23-cdsco-drug-alert-40-batches-including-paracetamol-telmisartan-metformin-",
+        "title": "CDSCO Drug Alert: 40 Batches Including Paracetamol, Telmisartan, Metformin, Ibuprofen Fail Quality Tests...",
+        "summary": "New Delhi: Continuing its nationwide post-market surveillance and quality monitoring drive, the Central Drugs Standard Control Organisation (CDSCO) has flagged 40 batches of drugs and healthcare...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-08-23T15:34:41.000Z",
+        "publishedLabel": "August 23, 2026",
+        "category": "Market",
+        "image": "https://medicaldialogues.in/h-upload/2024/01/23/230825-cdsco-drug-alert.jpg",
+        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
+        "justIn": true,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/cdsco/cdsco-drug-alert-40-batches-including-paracetamol-telmisartan-metformin-ibuprofen-fail-quality-tests-in-july-177800",
+        "articlePath": "/article.html?issue=2026-08-23&article=2026-08-23-cdsco-drug-alert-40-batches-including-paracetamol-telmisartan-metformin-"
+      },
+      {
         "id": "2026-08-23-roche-to-invest-us-750m-in-new-injectable-manufacturing-facility-in-oreg",
         "title": "Roche to invest US$750M in new injectable manufacturing facility in Oregon | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
         "summary": "Construction of the Hillsboro facility is expected to create about 200 jobs, with workers remaining on site through the project’s anticipated completion in 2031.",
@@ -69,6 +157,40 @@
         "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/08/23/roche-to-invest-us750m-in-new-injectable-manufacturing-facility-in-oregon/",
         "articlePath": "/article.html?issue=2026-08-23&article=2026-08-23-roche-to-invest-us-750m-in-new-injectable-manufacturing-facility-in-oreg"
+      },
+      {
+        "id": "2026-08-23-glenmark-gets-usfda-nod-for-generic-fluticasone-nasal-spray-targets-usd-",
+        "title": "Glenmark Gets USFDA Nod for Generic Fluticasone Nasal Spray, Targets USD 295 Mn Market",
+        "summary": "New Delhi: Glenmark Pharmaceuticals Limited (Glenmark) has announced the receipt of U.S. FDA approval for Fluticasone Propionate Nasal Spray USP, 0.05 mg/spray.Glenmark’s Fluticasone Propionate Nasal...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-08-23T15:24:48.000Z",
+        "publishedLabel": "August 23, 2026",
+        "category": "Approval",
+        "image": "https://medicaldialogues.in/h-upload/2024/02/28/233261-glenmark-50.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/glenmark-gets-usfda-nod-for-generic-fluticasone-nasal-spray-targets-usd-295-mn-market-177799",
+        "articlePath": "/article.html?issue=2026-08-23&article=2026-08-23-glenmark-gets-usfda-nod-for-generic-fluticasone-nasal-spray-targets-usd-"
+      },
+      {
+        "id": "2026-08-23-pfizer-labelled-emblaveo-seized-among-rs-4-91-crore-suspected-fake-drugs",
+        "title": "Pfizer-Labelled EMBLAVEO Seized Among Rs 4.91 Crore Suspected Fake Drugs, Karnataka Forms SIT to Probe...",
+        "summary": "Bengaluru: The Karnataka Government has constituted a six member Special Investigation Team (SIT) to investigate an alleged interstate network involved in the unlicensed repacking and relabelling of...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-08-23T15:05:34.000Z",
+        "publishedLabel": "August 23, 2026",
+        "category": "Industry Update",
+        "image": "https://medicaldialogues.in/h-upload/2020/03/04/125176-inquiry.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/pfizer-labelled-emblaveo-seized-among-rs-491-crore-suspected-fake-drugs-karnataka-forms-sit-to-probe-racket-177796",
+        "articlePath": "/article.html?issue=2026-08-23&article=2026-08-23-pfizer-labelled-emblaveo-seized-among-rs-4-91-crore-suspected-fake-drugs"
       },
       {
         "id": "2026-08-23-saudi-arabia-orders-health-insurers-to-provide-outpatient-coverage-witho",
@@ -88,11 +210,63 @@
         "articlePath": "/article.html?issue=2026-08-23&article=2026-08-23-saudi-arabia-orders-health-insurers-to-provide-outpatient-coverage-witho"
       }
     ],
-    "providers": [],
-    "diagnostics": [],
+    "providers": [
+      {
+        "id": "2026-08-23-new-majesty-120-superyacht-takes-to-the-water",
+        "title": "New Majesty 120 superyacht takes to the water",
+        "summary": "The Majesty 120 has earned global recognition for its striking design, advanced engineering and rare six-cabin layout",
+        "source": "Zawya Pharmaceuticals",
+        "sourceHost": "zawya.com",
+        "region": "Middle East",
+        "country": "United Arab Emirates",
+        "publishedAt": "2026-08-23T13:11:17.102Z",
+        "publishedLabel": "August 23, 2026",
+        "category": "Provider Update",
+        "image": "https://media.zawya.com/prod/images/gm_preview/aa1aa7b6f253-majesty-120-launchfront-3.jpeg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": false,
+        "originalUrl": "https://www.zawya.com/en/press-release/companies-news/new-majesty-120-superyacht-takes-to-the-water-464637",
+        "articlePath": "/article.html?issue=2026-08-23&article=2026-08-23-new-majesty-120-superyacht-takes-to-the-water"
+      }
+    ],
+    "diagnostics": [
+      {
+        "id": "2026-08-23-medicover-hospitals-launches-advanced-tms-lab-in-navi-mumbai-for-psychia",
+        "title": "Medicover Hospitals launches advanced TMS Lab in Navi Mumbai for psychiatric and neurological conditions",
+        "summary": "Medicover Hospitals, Navi Mumbai, has launched its Advanced Transcranial Magnetic Stimulation (TMS) Laboratory, expanding access to non-invasive brain stimulation therapy for patients with selected psychiatric and neurological conditions. The facility will...",
+        "source": "Express Healthcare",
+        "sourceHost": "expresshealthcare.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-08-24T05:09:45.000Z",
+        "publishedLabel": "August 24, 2026",
+        "category": "Lab Network",
+        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/08/24103932/EH_Medicover.jpg",
+        "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
+        "justIn": false,
+        "originalUrl": "https://www.expresshealthcare.in/news/medicover-hospitals-launches-advanced-tms-lab-in-navi-mumbai-for-psychiatric-and-neurological-conditions/454874/",
+        "articlePath": "/article.html?issue=2026-08-23&article=2026-08-23-medicover-hospitals-launches-advanced-tms-lab-in-navi-mumbai-for-psychia"
+      }
+    ],
     "healthtech": []
   },
   "thbActions": [
+    {
+      "segment": "pharma",
+      "articleId": "2026-08-23-indian-pharma-has-little-reason-to-fear-trump",
+      "title": "Indian pharma has little reason to fear Trump",
+      "source": "Economic Times Pharma",
+      "solution": "THB Commercial Analytics",
+      "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
+    },
+    {
+      "segment": "pharma",
+      "articleId": "2026-08-23-no-cause-for-panic-over-h1n1-current-strains-in-circulation-since-2025-s",
+      "title": "No cause for panic over H1N1; current strains in circulation since 2025, says ICMR",
+      "source": "ET Healthworld",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
     {
       "segment": "pharma",
       "articleId": "2026-08-23-udan-vs-udaan-delhi-court-restrains-pharmaceutical-firm-from-using-udaan",
@@ -111,19 +285,27 @@
     },
     {
       "segment": "pharma",
-      "articleId": "2026-08-23-roche-to-invest-us-750m-in-new-injectable-manufacturing-facility-in-oreg",
-      "title": "Roche to invest US$750M in new injectable manufacturing facility in Oregon | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
-      "source": "Healthcare MEA",
-      "solution": "THB Commercial Analytics",
-      "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
-    },
-    {
-      "segment": "pharma",
-      "articleId": "2026-08-23-saudi-arabia-orders-health-insurers-to-provide-outpatient-coverage-witho",
-      "title": "Saudi Arabia orders health insurers to provide outpatient coverage without prior approval",
-      "source": "Healthcare MEA",
+      "articleId": "2026-08-23-omniactive-launches-nutraceutical-for-women-s-hormonal-health",
+      "title": "OmniActive launches nutraceutical for women’s hormonal health",
+      "source": "ET Healthworld",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "providers",
+      "articleId": "2026-08-23-new-majesty-120-superyacht-takes-to-the-water",
+      "title": "New Majesty 120 superyacht takes to the water",
+      "source": "Zawya Pharmaceuticals",
+      "solution": "THB Provider CRM",
+      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
+    },
+    {
+      "segment": "diagnostics",
+      "articleId": "2026-08-23-medicover-hospitals-launches-advanced-tms-lab-in-navi-mumbai-for-psychia",
+      "title": "Medicover Hospitals launches advanced TMS Lab in Navi Mumbai for psychiatric and neurological conditions",
+      "source": "Express Healthcare",
+      "solution": "THB Diagnostics CRM",
+      "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
     }
   ]
 }
