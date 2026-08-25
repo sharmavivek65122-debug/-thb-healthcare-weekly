@@ -5,9 +5,9 @@
   "startDate": "2026-07-18T18:30:00.000Z",
   "endDate": "2026-07-24T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-08-25T05:04:44.826Z",
+  "updatedAt": "2026-08-25T14:20:41.239Z",
   "coverage": {
-    "pharma": 5,
+    "pharma": 4,
     "providers": 2,
     "diagnostics": 3,
     "healthtech": 0
@@ -15,28 +15,10 @@
   "sourcesUsed": [
     "ET Healthworld Diagnostics",
     "ET Healthworld Hospitals",
-    "Janssen India Media",
     "Lupin Updates"
   ],
   "segments": {
     "pharma": [
-      {
-        "id": "2026-07-19-tecvayli-talvey-reduced-the-risk-of-disease-progression-or-death-by-89-a",
-        "title": "TECVAYLI® + TALVEY® reduced the risk of disease progression or death by 89% and the risk of death by 62% in earlier-line relapsed/refractory multiple myeloma",
-        "summary": "· Investigational MonumenTAL-6 trial is the first and only Phase 3 study of a dual antigen, BCMA and GPRC5D targeting regimen in relapsed/refractory multiple myeloma · Fifth positive Phase 3 study evaluating Johnson & Johnson's multiple myeloma T-cell therapy...",
-        "source": "Janssen India Media",
-        "sourceHost": "janssen.com",
-        "region": "Middle East",
-        "country": "Oman",
-        "publishedAt": "2026-07-23T07:14:29.683Z",
-        "publishedLabel": "July 23, 2026",
-        "category": "Industry Update",
-        "image": "https://jnj-content-lab2.brightspotcdn.com/ac/25/bd2078f54d5992dd486ed26140ce/johnson-johnson-logo.svg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://www.jnj.com/media-center/press-releases/tecvayli-talvey-reduced-the-risk-of-disease-progression-or-death-by-89-and-the-risk-of-death-by-62-in-earlier-line-relapsed-refractory-multiple-myeloma",
-        "articlePath": "/article.html?issue=2026-07-19&article=2026-07-19-tecvayli-talvey-reduced-the-risk-of-disease-progression-or-death-by-89-a"
-      },
       {
         "id": "2026-07-19-explained-what-donald-trump-s-up-to-200-pharma-tariffs-mean-for-indian-i",
         "title": "Explained: What Donald Trump's up to 200% pharma tariffs mean for Indian investors",
@@ -198,14 +180,6 @@
     "healthtech": []
   },
   "thbActions": [
-    {
-      "segment": "pharma",
-      "articleId": "2026-07-19-tecvayli-talvey-reduced-the-risk-of-disease-progression-or-death-by-89-a",
-      "title": "TECVAYLI® + TALVEY® reduced the risk of disease progression or death by 89% and the risk of death by 62% in earlier-line relapsed/refractory multiple myeloma",
-      "source": "Janssen India Media",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
     {
       "segment": "pharma",
       "articleId": "2026-07-19-explained-what-donald-trump-s-up-to-200-pharma-tariffs-mean-for-indian-i",
