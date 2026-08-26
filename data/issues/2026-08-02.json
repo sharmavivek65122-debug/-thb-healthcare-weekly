@@ -5,7 +5,7 @@
   "startDate": "2026-08-01T18:30:00.000Z",
   "endDate": "2026-08-07T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-08-26T05:05:05.336Z",
+  "updatedAt": "2026-08-26T14:19:33.440Z",
   "coverage": {
     "pharma": 1,
     "providers": 11,
@@ -15,26 +15,26 @@
   "sourcesUsed": [
     "ET Healthworld Diagnostics",
     "ET Healthworld Hospitals",
-    "PharmaTutor News"
+    "Lupin Updates"
   ],
   "segments": {
     "pharma": [
       {
-        "id": "2026-08-02-breakthrough-study-identifies-circular-rnas-as-promising-targets-to-redu",
-        "title": "Breakthrough Study Identifies Circular RNAs as Promising Targets to Reduce Cancer Therapy Side Effects",
-        "summary": "As cancer treatments continue to improve survival rates, managing treatment-related side effects remains one of the biggest challenges in oncology. A new scientific review has highlighted the significant role of circular RNAs (circRNAs) in understanding and...",
-        "source": "PharmaTutor News",
-        "sourceHost": "pharmatutor.org",
+        "id": "2026-08-02-lupin-q1-pat-rises-16-pc-at-rs-1-417-cr",
+        "title": "Lupin Q1 PAT rises 16 pc at Rs 1,417 cr",
+        "summary": "Lupin Ltd has reported a remarkable sixteen percent surge in profit after tax for the first quarter, showcasing their continued success. The firm experienced considerable growth in consolidated total revenue from operations, largely driven by a staggering...",
+        "source": "Lupin Updates",
+        "sourceHost": "economictimes.indiatimes.com",
         "region": "India",
         "country": "India",
-        "publishedAt": "2026-08-06T11:29:14.000Z",
-        "publishedLabel": "August 6, 2026",
+        "publishedAt": "2026-08-07T11:06:00.000Z",
+        "publishedLabel": "August 7, 2026",
         "category": "Industry Update",
-        "image": "https://www.pharmatutor.org/sites/default/files/styles/webp/public/2026-08/breakthrough-study-identifies-circular-rnas-as-promising-targets-to-reduce-cancer-therapy-side-effects.png.webp?itok=DZDhx-Zd",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "image": "https://img.etimg.com/thumb/msid-133032045,width-1200,height-630,imgsize-11896,overlay-etmarkets/articleshow.jpg",
+        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
         "justIn": false,
-        "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/breakthrough-study-identifies-circular-rnas-as-promising-targets-to-reduce-cancer-therapy-side-effects",
-        "articlePath": "/article.html?issue=2026-08-02&article=2026-08-02-breakthrough-study-identifies-circular-rnas-as-promising-targets-to-redu"
+        "originalUrl": "https://economictimes.indiatimes.com/markets/stocks/earnings/lupin-q1-pat-rises-16-pc-at-rs-1417-cr/articleshow/133031974.cms",
+        "articlePath": "/article.html?issue=2026-08-02&article=2026-08-02-lupin-q1-pat-rises-16-pc-at-rs-1-417-cr"
       }
     ],
     "providers": [
@@ -250,11 +250,11 @@
   "thbActions": [
     {
       "segment": "pharma",
-      "articleId": "2026-08-02-breakthrough-study-identifies-circular-rnas-as-promising-targets-to-redu",
-      "title": "Breakthrough Study Identifies Circular RNAs as Promising Targets to Reduce Cancer Therapy Side Effects",
-      "source": "PharmaTutor News",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+      "articleId": "2026-08-02-lupin-q1-pat-rises-16-pc-at-rs-1-417-cr",
+      "title": "Lupin Q1 PAT rises 16 pc at Rs 1,417 cr",
+      "source": "Lupin Updates",
+      "solution": "THB Commercial Analytics",
+      "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
     },
     {
       "segment": "providers",
