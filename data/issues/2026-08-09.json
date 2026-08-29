@@ -5,55 +5,20 @@
   "startDate": "2026-08-08T18:30:00.000Z",
   "endDate": "2026-08-14T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-08-28T23:10:13.439Z",
+  "updatedAt": "2026-08-29T11:17:30.815Z",
   "coverage": {
-    "pharma": 7,
-    "providers": 9,
+    "pharma": 5,
+    "providers": 8,
     "diagnostics": 2,
     "healthtech": 0
   },
   "sourcesUsed": [
     "ET Healthworld Diagnostics",
     "ET Healthworld Hospitals",
-    "Economic Times Pharma",
     "PharmaTutor News"
   ],
   "segments": {
     "pharma": [
-      {
-        "id": "2026-08-09-gland-pharma-appoints-dr-reddy-s-senior-executive-deepak-sapra-as-ceo",
-        "title": "Gland Pharma appoints Dr Reddy’s senior executive Deepak Sapra as CEO",
-        "summary": "Gland Pharma has appointed Deepak Sapra as its new chief executive officer, with his tenure set to begin on November 16, 2026, subject to his acceptance of the offer. Sapra brings 27 years of executive experience, including over 23 years in pharmaceuticals,...",
-        "source": "Economic Times Pharma",
-        "sourceHost": "economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-08-14T03:36:14.000Z",
-        "publishedLabel": "August 14, 2026",
-        "category": "Industry Update",
-        "image": "https://img.etimg.com/thumb/msid-133228279,width-1200,height-630,imgsize-103688,overlay-economictimes/articleshow.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/gland-pharma-appoints-dr-reddys-senior-executive-deepak-sapra-as-ceo/articleshow/133228206.cms",
-        "articlePath": "/article.html?issue=2026-08-09&article=2026-08-09-gland-pharma-appoints-dr-reddy-s-senior-executive-deepak-sapra-as-ceo"
-      },
-      {
-        "id": "2026-08-09-aurobindo-pharma-arm-eugia-pharma-s-telangana-unit-gets-warning-letter-f",
-        "title": "Aurobindo Pharma arm Eugia Pharma's Telangana unit gets warning letter from USFDA",
-        "summary": "Aurobindo Pharma announced its subsidiary Eugia Pharma received a USFDA warning letter. This follows an inspection of their Telangana formulation manufacturing facility. The inspection concluded with four observations and an official action indicated status....",
-        "source": "Economic Times Pharma",
-        "sourceHost": "economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-08-14T08:32:36.000Z",
-        "publishedLabel": "August 14, 2026",
-        "category": "Manufacturing",
-        "image": "https://img.etimg.com/thumb/msid-133233521,width-1200,height-630,imgsize-38640,overlay-economictimes/articleshow.jpg",
-        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": false,
-        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/aurobindo-pharma-arm-eugia-pharmas-telangana-unit-gets-warning-letter-from-usfda/articleshow/133233489.cms",
-        "articlePath": "/article.html?issue=2026-08-09&article=2026-08-09-aurobindo-pharma-arm-eugia-pharma-s-telangana-unit-gets-warning-letter-f"
-      },
       {
         "id": "2026-08-09-beyond-weight-loss-scientists-uncover-how-glp-1-drugs-may-reduce-addicti",
         "title": "Beyond Weight Loss: Scientists Uncover How GLP-1 Drugs May Reduce Addictive Cravings",
@@ -276,23 +241,6 @@
         "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/hospital-operators-fall-fortis-healthcare-shares-tank-nearly-6-pc-on-wednesday/133202818",
         "articlePath": "/article.html?issue=2026-08-09&article=2026-08-09-hospital-operators-fall-fortis-healthcare-shares-tank-nearly-6-pc-on-wed"
-      },
-      {
-        "id": "2026-08-09-jupiter-hospital-conducts-first-robotic-kidney-transplant-outside-china",
-        "title": "Jupiter Hospital conducts first robotic kidney transplant outside China",
-        "summary": "The Toumai robotic platform provided high-definition, three-dimensional visualisation with enhanced dexterity, precision and surgical control, supporting the surgical team in performing the highly complex transplant procedures, the hospital said.",
-        "source": "ET Healthworld Hospitals",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-08-12T06:46:09.000Z",
-        "publishedLabel": "August 12, 2026",
-        "category": "Hospital",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-133173852,imgsize-181610,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/jupiter-hospital-conducts-first-robotic-kidney-transplant-outside-china.jpg",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/jupiter-hospital-conducts-first-robotic-kidney-transplant-outside-china/133173852",
-        "articlePath": "/article.html?issue=2026-08-09&article=2026-08-09-jupiter-hospital-conducts-first-robotic-kidney-transplant-outside-china"
       }
     ],
     "diagnostics": [
@@ -336,22 +284,6 @@
   "thbActions": [
     {
       "segment": "pharma",
-      "articleId": "2026-08-09-gland-pharma-appoints-dr-reddy-s-senior-executive-deepak-sapra-as-ceo",
-      "title": "Gland Pharma appoints Dr Reddy’s senior executive Deepak Sapra as CEO",
-      "source": "Economic Times Pharma",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
-      "segment": "pharma",
-      "articleId": "2026-08-09-aurobindo-pharma-arm-eugia-pharma-s-telangana-unit-gets-warning-letter-f",
-      "title": "Aurobindo Pharma arm Eugia Pharma's Telangana unit gets warning letter from USFDA",
-      "source": "Economic Times Pharma",
-      "solution": "THB Commercial Analytics",
-      "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
-    },
-    {
-      "segment": "pharma",
       "articleId": "2026-08-09-beyond-weight-loss-scientists-uncover-how-glp-1-drugs-may-reduce-addicti",
       "title": "Beyond Weight Loss: Scientists Uncover How GLP-1 Drugs May Reduce Addictive Cravings",
       "source": "PharmaTutor News",
@@ -373,6 +305,22 @@
       "source": "PharmaTutor News",
       "solution": "THB Commercial Analytics",
       "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
+    },
+    {
+      "segment": "pharma",
+      "articleId": "2026-08-09-cdsco-directs-ind-division-to-process-applications-for-unapproved-new-dr",
+      "title": "CDSCO Directs IND Division to Process Applications for Unapproved New Drugs Under Review by Foreign Regulators",
+      "source": "PharmaTutor News",
+      "solution": "THB Commercial Analytics",
+      "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
+    },
+    {
+      "segment": "pharma",
+      "articleId": "2026-08-09-msn-launches-generic-teduglutide-injection-across-key-european-markets",
+      "title": "MSN Launches Generic Teduglutide Injection Across Key European Markets",
+      "source": "PharmaTutor News",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
     },
     {
       "segment": "providers",
