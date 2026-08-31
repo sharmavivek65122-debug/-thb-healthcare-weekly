@@ -5,11 +5,11 @@
   "startDate": "2026-08-29T18:30:00.000Z",
   "endDate": "2026-09-04T18:30:00.000Z",
   "status": "live",
-  "updatedAt": "2026-08-31T11:02:05.728Z",
+  "updatedAt": "2026-08-31T19:34:33.119Z",
   "coverage": {
-    "pharma": 21,
-    "providers": 4,
-    "diagnostics": 2,
+    "pharma": 29,
+    "providers": 7,
+    "diagnostics": 3,
     "healthtech": 0
   },
   "sourcesUsed": [
@@ -20,10 +20,28 @@
     "Express Healthcare",
     "Healthcare MEA",
     "Medical Dialogues Pharma",
-    "PharmaTutor News"
+    "PharmaTutor News",
+    "Zawya Pharmaceuticals"
   ],
   "segments": {
     "pharma": [
+      {
+        "id": "2026-08-30-mahajan-imaging-neuberg-jv-to-build-integrated-diagnostics-network-acros",
+        "title": "Mahajan Imaging, Neuberg JV to Build Integrated Diagnostics Network Across 7 North Indian States",
+        "summary": "Mahajan Imaging & Labs and Neuberg Diagnostics are combining their strengths in advanced imaging, pathology, genomics and molecular diagnostics to build an integrated diagnostics platform across seven North Indian states, with a focus on specialised testing,...",
+        "source": "ET Healthworld",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-08-31T11:32:08.000Z",
+        "publishedLabel": "August 31, 2026",
+        "category": "Industry Update",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-133651392,imgsize-135188,width-1200,height=627,overlay-ethealth,resizemode-75/diagnostics/mahajan-imaging-neuberg-jv-to-build-integrated-diagnostics-network-across-7-north-indian-states.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/diagnostics/mahajan-imaging-neuberg-jv-to-build-integrated-diagnostics-network-across-7-north-indian-states/133651392",
+        "articlePath": "/article.html?issue=2026-08-30&article=2026-08-30-mahajan-imaging-neuberg-jv-to-build-integrated-diagnostics-network-acros"
+      },
       {
         "id": "2026-08-30-delhi-hc-orders-forensic-audit-of-fortis-ihh-and-rht-transactions-in-4-6",
         "title": "Delhi HC orders forensic audit of Fortis, IHH and RHT transactions in $4.6-billion Daiichi-Singh case",
@@ -37,7 +55,7 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-133647105,imgsize-102899,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/delhi-hc-orders-forensic-audit-of-fortis-ihh-and-rht-transactions-in-4-6-billion-daiichi-singh-case.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/delhi-hc-orders-forensic-audit-of-fortis-ihh-and-rht-transactions-in-4-6-billion-daiichi-singh-case/133647105",
         "articlePath": "/article.html?issue=2026-08-30&article=2026-08-30-delhi-hc-orders-forensic-audit-of-fortis-ihh-and-rht-transactions-in-4-6"
       },
@@ -54,9 +72,26 @@
         "category": "Market",
         "image": "https://img.etimg.com/thumb/msid-133643478,width-1200,height-630,imgsize-134336,overlay-economictimes/articleshow.jpg",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/india-seeks-easier-pharma-access-in-brazil-pushes-to-expand-mercosur-trade-pact/articleshow/133643451.cms",
         "articlePath": "/article.html?issue=2026-08-30&article=2026-08-30-india-seeks-easier-pharma-access-in-brazil-pushes-to-expand-mercosur-tra"
+      },
+      {
+        "id": "2026-08-30-aurobindo-pharma-launches-generic-advair-diskus-for-asthma-and-copd-in-u",
+        "title": "Aurobindo Pharma launches generic Advair Diskus for asthma and COPD in US",
+        "summary": "Lannett Company, part of Aurobindo Pharma, has launched generic Advair Diskus in the US, making it the first complex inhalation product from Aurobindo to be marketed there. This market is worth approximately $908 million. Moreover, Cipla's US branch has also...",
+        "source": "Economic Times Pharma",
+        "sourceHost": "economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-08-31T12:48:44.000Z",
+        "publishedLabel": "August 31, 2026",
+        "category": "Market",
+        "image": "https://img.etimg.com/thumb/msid-133653649,width-1200,height-630,imgsize-174426,overlay-economictimes/articleshow.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/aurobindo-pharma-launches-generic-advair-diskus-for-asthma-and-copd-in-us/articleshow/133653548.cms",
+        "articlePath": "/article.html?issue=2026-08-30&article=2026-08-30-aurobindo-pharma-launches-generic-advair-diskus-for-asthma-and-copd-in-u"
       },
       {
         "id": "2026-08-30-zydus-saroglitazar-meets-primary-goal-in-global-phase-ii-b-mash-trial",
@@ -71,7 +106,7 @@
         "category": "Industry Update",
         "image": "https://img.etimg.com/thumb/msid-133646042,width-1200,height-630,imgsize-60504,overlay-economictimes/articleshow.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/zydus-saroglitazar-meets-primary-goal-in-global-phase-iib-mash-trial/articleshow/133646000.cms",
         "articlePath": "/article.html?issue=2026-08-30&article=2026-08-30-zydus-saroglitazar-meets-primary-goal-in-global-phase-ii-b-mash-trial"
       },
@@ -88,43 +123,9 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-133639198,imgsize-69629,width-1200,height=627,overlay-ethealth,resizemode-75/industry/measles-cases-in-pennsylvania-rise-to-460-amid-ongoing-outbreak.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/measles-cases-in-pennsylvania-rise-to-460-amid-ongoing-outbreak/133639198",
         "articlePath": "/article.html?issue=2026-08-30&article=2026-08-30-measles-cases-in-pennsylvania-rise-to-460-amid-ongoing-outbreak"
-      },
-      {
-        "id": "2026-08-30-west-bengal-mulls-private-medical-college-tie-up-with-bphcs-to-strengthe",
-        "title": "West Bengal mulls private medical college tie-up with BPHCs to strengthen rural healthcare",
-        "summary": "West Bengal Health Minister Sharadwat Mukherjee said the idea was at a preliminary stage and the government was exploring ways in which private medical colleges could work with the public healthcare system to improve infrastructure and services at the...",
-        "source": "ET Healthworld",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-08-31T01:26:24.000Z",
-        "publishedLabel": "August 31, 2026",
-        "category": "Industry Update",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-133639216,imgsize-190119,width-1200,height=627,overlay-ethealth,resizemode-75/policy/west-bengal-mulls-private-medical-college-tie-up-with-bphcs-to-strengthen-rural-healthcare.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/policy/west-bengal-mulls-private-medical-college-tie-up-with-bphcs-to-strengthen-rural-healthcare/133639216",
-        "articlePath": "/article.html?issue=2026-08-30&article=2026-08-30-west-bengal-mulls-private-medical-college-tie-up-with-bphcs-to-strengthe"
-      },
-      {
-        "id": "2026-08-30-aig-hospitals-to-invest-rs-2000-crore-in-vizag",
-        "title": "AIG Hospitals to invest Rs 2000 crore in Vizag",
-        "summary": "AIG Hospitals, part of the Asian Institute of Gastroenterology, will also establish a nursing college on 2.5 acres. The campus will integrate healthcare, medical education, training and research, besides providing facilities for patients and their attendants.",
-        "source": "ET Healthworld",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-08-31T01:21:57.000Z",
-        "publishedLabel": "August 31, 2026",
-        "category": "Industry Update",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-133639225,imgsize-65766,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/aig-hospitals-to-invest-rs-2000-crore-in-vizag.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/aig-hospitals-to-invest-rs-2000-crore-in-vizag/133639225",
-        "articlePath": "/article.html?issue=2026-08-30&article=2026-08-30-aig-hospitals-to-invest-rs-2000-crore-in-vizag"
       },
       {
         "id": "2026-08-30-jharkhand-on-high-alert-over-swine-flu-health-minister-directs-hospitals",
@@ -139,9 +140,26 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-133639186,imgsize-259102,width-1200,height=627,overlay-ethealth,resizemode-75/policy/jharkhand-on-high-alert-over-swine-flu-health-minister-directs-hospitals-to-reserve-beds-ramp-up-surveillance.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/policy/jharkhand-on-high-alert-over-swine-flu-health-minister-directs-hospitals-to-reserve-beds-ramp-up-surveillance/133639186",
         "articlePath": "/article.html?issue=2026-08-30&article=2026-08-30-jharkhand-on-high-alert-over-swine-flu-health-minister-directs-hospitals"
+      },
+      {
+        "id": "2026-08-30-mankind-pharma-divests-entire-stake-in-broadway-hospitality-to-akrk-proj",
+        "title": "Mankind Pharma divests entire stake in Broadway Hospitality to AKRK Projects",
+        "summary": "Mankind Pharma has completed the sale of its entire stake in Broadway Hospitality Services. The transaction involved transferring 100 percent ownership to AKRK Projects LLP and its partners. This divestment officially concluded on August 31, 2026, as per the...",
+        "source": "Economic Times Pharma",
+        "sourceHost": "economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-08-31T17:03:07.000Z",
+        "publishedLabel": "August 31, 2026",
+        "category": "Industry Update",
+        "image": "https://img.etimg.com/thumb/msid-133659124,width-1200,height-630,imgsize-71136,overlay-economictimes/articleshow.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/mankind-pharma-divests-entire-stake-in-broadway-hospitality-to-akrk-projects/articleshow/133658877.cms",
+        "articlePath": "/article.html?issue=2026-08-30&article=2026-08-30-mankind-pharma-divests-entire-stake-in-broadway-hospitality-to-akrk-proj"
       },
       {
         "id": "2026-08-30-beyond-exercise-how-robotics-is-changing-physiotherapy-and-rehabilitatio",
@@ -156,9 +174,43 @@
         "category": "Industry Update",
         "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/08/31110630/Dr-Dharam-P.-Pandey-Director-APARC-Health-and-Motion.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/news/beyond-exercise-how-robotics-is-changing-physiotherapy-and-rehabilitation/454971/",
         "articlePath": "/article.html?issue=2026-08-30&article=2026-08-30-beyond-exercise-how-robotics-is-changing-physiotherapy-and-rehabilitatio"
+      },
+      {
+        "id": "2026-08-30-for-companies-that-want-to-have-a-future-you-need-to-be-in-india",
+        "title": "For companies that want to have a future, you need to be in India",
+        "summary": "Envista, a global dental products and technologies company, has been present in India for more than two decades, beginning with the introduction of Nobel Biocare in 2004. The company has since expanded its presence across implantology, orthodontics, clear...",
+        "source": "Express Healthcare",
+        "sourceHost": "expresshealthcare.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-08-31T12:25:38.000Z",
+        "publishedLabel": "August 31, 2026",
+        "category": "Industry Update",
+        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/08/31175425/Paul-Keel.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://www.expresshealthcare.in/archive/latest-updates/for-companies-that-want-to-have-a-future-you-need-to-be-in-india/454992/",
+        "articlePath": "/article.html?issue=2026-08-30&article=2026-08-30-for-companies-that-want-to-have-a-future-you-need-to-be-in-india"
+      },
+      {
+        "id": "2026-08-30-aurobindo-pharma-launches-fluticasone-salmeterol-generic-advair-diskus-i",
+        "title": "Aurobindo Pharma Launches Fluticasone-Salmeterol Generic Advair Diskus in US",
+        "summary": "Hyderabad: Aurobindo Pharma has announced the launch of the generic version of Advair Diskus (fluticasone propionate and salmeterol inhalation powder) in the United States through its wholly owned...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-08-31T12:01:18.000Z",
+        "publishedLabel": "August 31, 2026",
+        "category": "Launch",
+        "image": "https://medicaldialogues.in/h-upload/2023/01/10/197265-aurobindo-pharma-2.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/aurobindo-pharma-launches-fluticasone-salmeterol-generic-advair-diskus-in-us-178299",
+        "articlePath": "/article.html?issue=2026-08-30&article=2026-08-30-aurobindo-pharma-launches-fluticasone-salmeterol-generic-advair-diskus-i"
       },
       {
         "id": "2026-08-30-priovant-launches-lisraya-in-us-following-historic-fda-approval-for-derm",
@@ -173,7 +225,7 @@
         "category": "Approval",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/08/image-1600x900-2026-08-31T115220.966.png",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/08/31/priovant-launches-lisraya-in-us-following-historic-fda-approval-for-dermatomyositis/",
         "articlePath": "/article.html?issue=2026-08-30&article=2026-08-30-priovant-launches-lisraya-in-us-following-historic-fda-approval-for-derm"
       },
@@ -190,7 +242,7 @@
         "category": "Approval",
         "image": "https://www.biospectrumasia.com/uploads/articles/images-28285.jpeg?v=20260831094306",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.biospectrumasia.com/news/34/28285/fosun-pharma-strengthens-innovation-pipeline-as-henlius-and-global-drug-portfolio-expand.html",
         "articlePath": "/article.html?issue=2026-08-30&article=2026-08-30-fosun-pharma-strengthens-innovation-pipeline-as-henlius-and-global-drug-"
       },
@@ -207,7 +259,7 @@
         "category": "Industry Update",
         "image": "https://www.biospectrumasia.com/uploads/articles/images_1_-28286.jpeg?v=20260831094529",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.biospectrumasia.com/news/26/28286/cansinobio-accelerates-overseas-growth-as-vaccine-portfolio-and-mrna-pipeline-expand.html",
         "articlePath": "/article.html?issue=2026-08-30&article=2026-08-30-cansinobio-accelerates-overseas-growth-as-vaccine-portfolio-and-mrna-pip"
       },
@@ -224,7 +276,7 @@
         "category": "Manufacturing",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/08/image-1600x900-2026-08-31T100904.901.png",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/08/31/artis-biosolutions-opens-manufacturing-center-in-bilbao-for-genetic-medicines/",
         "articlePath": "/article.html?issue=2026-08-30&article=2026-08-30-artis-biosolutions-opens-manufacturing-center-in-bilbao-for-genetic-medi"
       },
@@ -241,9 +293,60 @@
         "category": "Market",
         "image": "https://medicaldialogues.in/h-upload/2023/04/23/208033-nppa-price-fixation.jpg",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/nppa-sets-retail-prices-for-cipla-german-remedies-drug-combinations-178248",
         "articlePath": "/article.html?issue=2026-08-30&article=2026-08-30-nppa-sets-retail-prices-for-cipla-german-remedies-drug-combinations"
+      },
+      {
+        "id": "2026-08-30-nppa-fixes-retail-prices-of-11-drugs-including-empagliflozin-linagliptin",
+        "title": "NPPA Fixes Retail Prices of 11 Drugs Including Empagliflozin-Linagliptin-Metformin,...",
+        "summary": "New Delhi: In a fresh drug pricing move, the National Pharmaceutical Pricing Authority (NPPA), under the Department of Pharmaceuticals, Ministry of Chemicals and Fertilizers, has fixed the retail...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-08-31T14:45:41.000Z",
+        "publishedLabel": "August 31, 2026",
+        "category": "Industry Update",
+        "image": "https://medicaldialogues.in/h-upload/2024/06/07/240454-price-fixation.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/nppa-fixes-retail-prices-of-11-drugs-including-empagliflozin-linagliptin-metformin-telmisartan-amlodipine-combinations-178319",
+        "articlePath": "/article.html?issue=2026-08-30&article=2026-08-30-nppa-fixes-retail-prices-of-11-drugs-including-empagliflozin-linagliptin"
+      },
+      {
+        "id": "2026-08-30-nppa-proposes-making-drugmakers-solely-liable-for-overpricing-essential-",
+        "title": "NPPA Proposes Making Drugmakers Solely Liable for Overpricing Essential Medicines: Report",
+        "summary": "New Delhi: The National Pharmaceutical Pricing Authority (NPPA) has proposed making pharmaceutical manufacturers solely responsible for overpricing of essential medicines, a move that could...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-08-31T11:53:07.000Z",
+        "publishedLabel": "August 31, 2026",
+        "category": "Industry Update",
+        "image": "https://medicaldialogues.in/h-upload/2024/06/07/240441-nppa.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/nppa-proposes-making-drugmakers-solely-liable-for-overpricing-essential-medicines-report-178298",
+        "articlePath": "/article.html?issue=2026-08-30&article=2026-08-30-nppa-proposes-making-drugmakers-solely-liable-for-overpricing-essential-"
+      },
+      {
+        "id": "2026-08-30-usfda-approves-takeda-protagonist-s-mimrylo-for-rare-blood-cancer-polycy",
+        "title": "USFDA Approves Takeda, Protagonist's Mimrylo for Rare Blood Cancer Polycythemia Vera",
+        "summary": "Bengaluru: The U.S. Food and Drug Administration has approved a first-of-its-kind drug from Takeda Pharmaceutical and Protagonist Therapeutics to treat a rare blood cancer, the health regulator said...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-08-31T11:24:13.000Z",
+        "publishedLabel": "August 31, 2026",
+        "category": "Industry Update",
+        "image": "https://medicaldialogues.in/h-upload/2022/10/15/188059-takeda-new.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/usfda-approves-takeda-protagonists-mimrylo-for-rare-blood-cancer-polycythemia-vera-178286",
+        "articlePath": "/article.html?issue=2026-08-30&article=2026-08-30-usfda-approves-takeda-protagonist-s-mimrylo-for-rare-blood-cancer-polycy"
       },
       {
         "id": "2026-08-30-fda-approves-first-drug-of-its-kind-for-polycythemia-vera-a-rare-blood-d",
@@ -326,7 +429,7 @@
         "category": "Manufacturing",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/08/image-1600x900-2026-08-31T121347.631.png",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/08/31/nigeria-activates-emergency-task-force-to-contain-diphtheria-outbreak-in-katsina-state/",
         "articlePath": "/article.html?issue=2026-08-30&article=2026-08-30-nigeria-activates-emergency-task-force-to-contain-diphtheria-outbreak-in"
       },
@@ -346,6 +449,23 @@
         "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/08/30/uganda-declares-ebola-outbreak-over-after-42-days-with-no-new-cases/",
         "articlePath": "/article.html?issue=2026-08-30&article=2026-08-30-uganda-declares-ebola-outbreak-over-after-42-days-with-no-new-cases-heal"
+      },
+      {
+        "id": "2026-08-30-now-you-are-going-overboard-hc-slams-tukaram-led-maharashtra-fda-withdra",
+        "title": "Now You Are Going Overboard: HC Slams Tukaram-Led Maharashtra FDA, Withdraws Cipla Licence Cancellation",
+        "summary": "Mumbai: The Maharashtra Food and Drug Administration (FDA) has withdrawn its order cancelling the drug sale licence of Cipla Pharma & Life Sciences Ltd's Carrying and Forwarding (C&F) unit at Wadki in...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-08-31T12:33:27.000Z",
+        "publishedLabel": "August 31, 2026",
+        "category": "Industry Update",
+        "image": "https://medicaldialogues.in/h-upload/2022/08/25/184228-bombay-high-court.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/now-you-are-going-overboard-hc-slams-tukaram-led-maharashtra-fda-withdraws-cipla-licence-cancellation-178309",
+        "articlePath": "/article.html?issue=2026-08-30&article=2026-08-30-now-you-are-going-overboard-hc-slams-tukaram-led-maharashtra-fda-withdra"
       },
       {
         "id": "2026-08-30-2-arrested-in-hyderabad-over-illegal-prescription-drug-supply",
@@ -380,9 +500,43 @@
         "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/gilead-wins-usfda-approval-for-bixlenvo-hiv-combination-treatment-178242",
         "articlePath": "/article.html?issue=2026-08-30&article=2026-08-30-gilead-wins-usfda-approval-for-bixlenvo-hiv-combination-treatment"
+      },
+      {
+        "id": "2026-08-30-al-tayer-motors-and-premier-motors-lead-kia-s-next-era-in-the-uae",
+        "title": "Al Tayer Motors & Premier Motors lead Kia’s next era in the UAE",
+        "summary": "Strategic partnership to advance Kia's future growth with a continued focus on customers, innovation, and sustainable mobility",
+        "source": "Zawya Pharmaceuticals",
+        "sourceHost": "zawya.com",
+        "region": "Middle East",
+        "country": "United Arab Emirates",
+        "publishedAt": "2026-08-31T08:14:57.748Z",
+        "publishedLabel": "August 31, 2026",
+        "category": "Partnership",
+        "image": "https://media.zawya.com/prod/images/gm_preview/ab70b30a7dca-atm-kia-uae.jpg",
+        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
+        "justIn": true,
+        "originalUrl": "https://www.zawya.com/en/press-release/companies-news/al-tayer-motors-premier-motors-lead-kias-next-era-in-the-uae-472328",
+        "articlePath": "/article.html?issue=2026-08-30&article=2026-08-30-al-tayer-motors-and-premier-motors-lead-kia-s-next-era-in-the-uae"
       }
     ],
     "providers": [
+      {
+        "id": "2026-08-30-aig-hospitals-to-invest-rs-2000-crore-in-vizag",
+        "title": "AIG Hospitals to invest Rs 2000 crore in Vizag",
+        "summary": "AIG Hospitals, part of the Asian Institute of Gastroenterology, will also establish a nursing college on 2.5 acres. The campus will integrate healthcare, medical education, training and research, besides providing facilities for patients and their attendants.",
+        "source": "ET Healthworld Hospitals",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-08-31T01:21:57.000Z",
+        "publishedLabel": "August 31, 2026",
+        "category": "Hospital",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-133639225,imgsize-65766,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/aig-hospitals-to-invest-rs-2000-crore-in-vizag.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": true,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/aig-hospitals-to-invest-rs-2000-crore-in-vizag/133639225",
+        "articlePath": "/article.html?issue=2026-08-30&article=2026-08-30-aig-hospitals-to-invest-rs-2000-crore-in-vizag"
+      },
       {
         "id": "2026-08-30-park-medi-world-to-expand-hospital-network-across-north-india-add-1-450-",
         "title": "Park Medi World to expand hospital network across north India, add 1,450 beds by FY28",
@@ -396,9 +550,43 @@
         "category": "Hospital",
         "image": "https://etimg.etb2bimg.com/thumb/msid-133639191,imgsize-125893,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/park-medi-world-to-expand-hospital-network-across-north-india-add-1450-beds-by-fy28.jpg",
         "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/park-medi-world-to-expand-hospital-network-across-north-india-add-1450-beds-by-fy28/133639191",
         "articlePath": "/article.html?issue=2026-08-30&article=2026-08-30-park-medi-world-to-expand-hospital-network-across-north-india-add-1-450-"
+      },
+      {
+        "id": "2026-08-30-aig-hospitals-lays-foundation-for-1-000-bed-hospital-campus-in-visakhapa",
+        "title": "AIG Hospitals lays foundation for 1,000-bed hospital campus in Visakhapatnam",
+        "summary": "AIG Hospitals today laid the foundation stone for a new, greenfield multispeciality hospital in Visakhapatnam, to be operational by October 2028. The foundation stone was laid by Nara Lokesh, Minister for Human Resource Development, Information Technology,...",
+        "source": "Express Healthcare",
+        "sourceHost": "expresshealthcare.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-08-31T12:07:52.000Z",
+        "publishedLabel": "August 31, 2026",
+        "category": "Hospital",
+        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/08/31173740/New-Project-1-2.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": true,
+        "originalUrl": "https://www.expresshealthcare.in/news/aig-hospitals-lays-foundation-for-1000-bed-hospital-campus-in-visakhapatnam/454987/",
+        "articlePath": "/article.html?issue=2026-08-30&article=2026-08-30-aig-hospitals-lays-foundation-for-1-000-bed-hospital-campus-in-visakhapa"
+      },
+      {
+        "id": "2026-08-30-yashoda-medicity-signs-mou-with-kazakhstan-s-turkistan-city-for-healthca",
+        "title": "Yashoda Medicity signs MoU with Kazakhstan’s Turkistan City for healthcare cooperation",
+        "summary": "Yashoda Medicity has signed a three-year Memorandum of Understanding (MoU) with the Republic of Kazakhstan, Turkistan City, to establish a framework for cooperation in specialised medical care, patient referrals, healthcare training and knowledge exchange....",
+        "source": "Express Healthcare",
+        "sourceHost": "expresshealthcare.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-08-31T11:54:20.000Z",
+        "publishedLabel": "August 31, 2026",
+        "category": "Patient Care",
+        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/08/31172412/New-Project-2-2.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": true,
+        "originalUrl": "https://www.expresshealthcare.in/news/yashoda-medicity-signs-mou-with-kazakhstans-turkistan-city-for-healthcare-cooperation/454984/",
+        "articlePath": "/article.html?issue=2026-08-30&article=2026-08-30-yashoda-medicity-signs-mou-with-kazakhstan-s-turkistan-city-for-healthca"
       },
       {
         "id": "2026-08-30-know-why-stroke-rehabilitation-must-begin-before-discharge",
@@ -413,7 +601,7 @@
         "category": "Hospital",
         "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/08/31141419/Dr-Jayendra-Yadav-Consultant-Neurologist-Fortis-Hiranandani-Hospital-Vashi-Navi-Mumbai.jpg",
         "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/news/know-why-stroke-rehabilitation-must-begin-before-discharge/454980/",
         "articlePath": "/article.html?issue=2026-08-30&article=2026-08-30-know-why-stroke-rehabilitation-must-begin-before-discharge"
       },
@@ -430,7 +618,7 @@
         "category": "Provider Update",
         "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/08/31112238/New-Project-2-1.jpg",
         "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/news/south-neocon-2026-advances-newborn-care-across-south-india/454974/",
         "articlePath": "/article.html?issue=2026-08-30&article=2026-08-30-south-neocon-2026-advances-newborn-care-across-south-india"
       },
@@ -447,12 +635,29 @@
         "category": "Hospital",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/08/image-1600x900-2026-08-31T100423.620.png",
         "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/08/31/sidra-medicine-partners-with-pearl-international-hospital-to-expand-access-to-cord-blood-banking-in-qatar/",
         "articlePath": "/article.html?issue=2026-08-30&article=2026-08-30-sidra-medicine-partners-with-pearl-international-hospital-to-expand-acce"
       }
     ],
     "diagnostics": [
+      {
+        "id": "2026-08-30-the-insight-tribe-partners-with-vpro-to-support-cardiac-imaging-service",
+        "title": "The Insight Tribe partners with VPRO to support cardiac imaging service",
+        "summary": "The Insight Tribe, a healthcare strategy and market intelligence firm, has partnered with VPRO Cardiac Imaging Solutions, a cardiothoracic imaging group, to support diagnostic centres in developing cardiac imaging services. The collaboration combines growth...",
+        "source": "Express Healthcare",
+        "sourceHost": "expresshealthcare.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-08-31T12:15:22.000Z",
+        "publishedLabel": "August 31, 2026",
+        "category": "Diagnostics",
+        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2025/10/07164048/Heart-cardiac.jpg",
+        "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
+        "justIn": true,
+        "originalUrl": "https://www.expresshealthcare.in/news/the-insight-tribe-partners-with-vpro-to-support-cardiac-imaging-service/454990/",
+        "articlePath": "/article.html?issue=2026-08-30&article=2026-08-30-the-insight-tribe-partners-with-vpro-to-support-cardiac-imaging-service"
+      },
       {
         "id": "2026-08-30-moscow-telemedicine-center-marks-30-years-of-advancing-ai-powered-diagno",
         "title": "Moscow Telemedicine Center marks 30 years of advancing AI-powered diagnostics | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
@@ -493,6 +698,14 @@
   "thbActions": [
     {
       "segment": "pharma",
+      "articleId": "2026-08-30-mahajan-imaging-neuberg-jv-to-build-integrated-diagnostics-network-acros",
+      "title": "Mahajan Imaging, Neuberg JV to Build Integrated Diagnostics Network Across 7 North Indian States",
+      "source": "ET Healthworld",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "pharma",
       "articleId": "2026-08-30-delhi-hc-orders-forensic-audit-of-fortis-ihh-and-rht-transactions-in-4-6",
       "title": "Delhi HC orders forensic audit of Fortis, IHH and RHT transactions in $4.6-billion Daiichi-Singh case",
       "source": "ET Healthworld",
@@ -509,6 +722,14 @@
     },
     {
       "segment": "pharma",
+      "articleId": "2026-08-30-aurobindo-pharma-launches-generic-advair-diskus-for-asthma-and-copd-in-u",
+      "title": "Aurobindo Pharma launches generic Advair Diskus for asthma and COPD in US",
+      "source": "Economic Times Pharma",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "pharma",
       "articleId": "2026-08-30-zydus-saroglitazar-meets-primary-goal-in-global-phase-ii-b-mash-trial",
       "title": "Zydus’ Saroglitazar meets primary goal in global Phase II(b) MASH trial",
       "source": "Economic Times Pharma",
@@ -516,26 +737,34 @@
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
     },
     {
-      "segment": "pharma",
-      "articleId": "2026-08-30-measles-cases-in-pennsylvania-rise-to-460-amid-ongoing-outbreak",
-      "title": "Measles cases in Pennsylvania rise to 460 amid ongoing outbreak",
-      "source": "ET Healthworld",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
-      "segment": "pharma",
-      "articleId": "2026-08-30-west-bengal-mulls-private-medical-college-tie-up-with-bphcs-to-strengthe",
-      "title": "West Bengal mulls private medical college tie-up with BPHCs to strengthen rural healthcare",
-      "source": "ET Healthworld",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+      "segment": "providers",
+      "articleId": "2026-08-30-aig-hospitals-to-invest-rs-2000-crore-in-vizag",
+      "title": "AIG Hospitals to invest Rs 2000 crore in Vizag",
+      "source": "ET Healthworld Hospitals",
+      "solution": "THB Provider CRM",
+      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
     },
     {
       "segment": "providers",
       "articleId": "2026-08-30-park-medi-world-to-expand-hospital-network-across-north-india-add-1-450-",
       "title": "Park Medi World to expand hospital network across north India, add 1,450 beds by FY28",
       "source": "ET Healthworld Hospitals",
+      "solution": "THB Provider CRM",
+      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
+    },
+    {
+      "segment": "providers",
+      "articleId": "2026-08-30-aig-hospitals-lays-foundation-for-1-000-bed-hospital-campus-in-visakhapa",
+      "title": "AIG Hospitals lays foundation for 1,000-bed hospital campus in Visakhapatnam",
+      "source": "Express Healthcare",
+      "solution": "THB Provider CRM",
+      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
+    },
+    {
+      "segment": "providers",
+      "articleId": "2026-08-30-yashoda-medicity-signs-mou-with-kazakhstan-s-turkistan-city-for-healthca",
+      "title": "Yashoda Medicity signs MoU with Kazakhstan’s Turkistan City for healthcare cooperation",
+      "source": "Express Healthcare",
       "solution": "THB Provider CRM",
       "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
     },
@@ -548,20 +777,12 @@
       "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
     },
     {
-      "segment": "providers",
-      "articleId": "2026-08-30-south-neocon-2026-advances-newborn-care-across-south-india",
-      "title": "South NeoCon 2026 advances newborn care across south india",
+      "segment": "diagnostics",
+      "articleId": "2026-08-30-the-insight-tribe-partners-with-vpro-to-support-cardiac-imaging-service",
+      "title": "The Insight Tribe partners with VPRO to support cardiac imaging service",
       "source": "Express Healthcare",
-      "solution": "THB Provider CRM",
-      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
-    },
-    {
-      "segment": "providers",
-      "articleId": "2026-08-30-sidra-medicine-partners-with-pearl-international-hospital-to-expand-acce",
-      "title": "Sidra Medicine partners with Pearl International Hospital to expand access to cord blood banking in Qatar",
-      "source": "Healthcare MEA",
-      "solution": "THB Provider CRM",
-      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
+      "solution": "THB Diagnostics CRM",
+      "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
     },
     {
       "segment": "diagnostics",
