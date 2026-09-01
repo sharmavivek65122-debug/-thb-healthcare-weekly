@@ -5,72 +5,19 @@
   "startDate": "2026-08-08T18:30:00.000Z",
   "endDate": "2026-08-14T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-09-01T09:32:09.180Z",
+  "updatedAt": "2026-09-01T17:24:20.068Z",
   "coverage": {
-    "pharma": 3,
+    "pharma": 0,
     "providers": 8,
     "diagnostics": 2,
     "healthtech": 0
   },
   "sourcesUsed": [
     "ET Healthworld Diagnostics",
-    "ET Healthworld Hospitals",
-    "PharmaTutor News"
+    "ET Healthworld Hospitals"
   ],
   "segments": {
-    "pharma": [
-      {
-        "id": "2026-08-09-beyond-weight-loss-scientists-uncover-how-glp-1-drugs-may-reduce-addicti",
-        "title": "Beyond Weight Loss: Scientists Uncover How GLP-1 Drugs May Reduce Addictive Cravings",
-        "summary": "Drugs such as Ozempic and other GLP-1 receptor agonists, widely known for their effects on diabetes and weight management, may have potential beyond appetite control, with emerging research suggesting they could also help reduce cravings associated with...",
-        "source": "PharmaTutor News",
-        "sourceHost": "pharmatutor.org",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-08-15T10:42:35.000Z",
-        "publishedLabel": "August 15, 2026",
-        "category": "Industry Update",
-        "image": "https://www.pharmatutor.org/sites/default/files/styles/webp/public/2026-08/beyond-weight-loss-scientists-uncover-how-glp-1-drugs-may-reduce-addictive-cravings.png.webp?itok=4gUsMLeA",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/beyond-weight-loss-scientists-uncover-how-glp-1-drugs-may-reduce-addictive-cravings",
-        "articlePath": "/article.html?issue=2026-08-09&article=2026-08-09-beyond-weight-loss-scientists-uncover-how-glp-1-drugs-may-reduce-addicti"
-      },
-      {
-        "id": "2026-08-09-cdsco-sec-recommends-phase-iv-clinical-trial-of-dostarlimab-for-endometr",
-        "title": "CDSCO SEC Recommends Phase IV Clinical Trial of Dostarlimab for Endometrial Cancer",
-        "summary": "The Subject Expert Committee (Oncology) of the Central Drugs Standard Control Organisation (CDSCO) has recommended granting permission to conduct a Phase IV clinical trial of dostarlimab in adult patients in India with primary advanced or recurrent...",
-        "source": "PharmaTutor News",
-        "sourceHost": "pharmatutor.org",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-08-15T10:40:45.000Z",
-        "publishedLabel": "August 15, 2026",
-        "category": "Clinical Trial",
-        "image": "https://www.pharmatutor.org/sites/default/files/styles/webp/public/2026-08/cdsco-sec-recommends-phase-iv-clinical-trial-of-dostarlimab-for-endometrial-cancer.png.webp?itok=explkXWU",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/cdsco-sec-recommends-phase-iv-clinical-trial-of-dostarlimab-for-endometrial-cancer",
-        "articlePath": "/article.html?issue=2026-08-09&article=2026-08-09-cdsco-sec-recommends-phase-iv-clinical-trial-of-dostarlimab-for-endometr"
-      },
-      {
-        "id": "2026-08-09-cdsco-directs-ind-division-to-process-applications-for-unapproved-new-dr",
-        "title": "CDSCO Directs IND Division to Process Applications for Unapproved New Drugs Under Review by Foreign Regulators",
-        "summary": "The Central Drugs Standard Control Organisation (CDSCO) has clarified that applications seeking permission to import and market new drugs that are not approved anywhere in the world, where Phase III Global Clinical Trials (GCTs) are either ongoing or have...",
-        "source": "PharmaTutor News",
-        "sourceHost": "pharmatutor.org",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-08-15T10:37:32.000Z",
-        "publishedLabel": "August 15, 2026",
-        "category": "Clinical Trial",
-        "image": "https://www.pharmatutor.org/sites/default/files/styles/webp/public/2026-08/cdsco-directs-ind-division-to-process-applications-for-unapproved-new-drugs-under-review-by-foreign-regulators.png.webp?itok=KQfMSHC0",
-        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": false,
-        "originalUrl": "https://www.pharmatutor.org/pharma-news/2026/cdsco-directs-ind-division-to-process-applications-for-unapproved-new-drugs-under-review-by-foreign-regulators",
-        "articlePath": "/article.html?issue=2026-08-09&article=2026-08-09-cdsco-directs-ind-division-to-process-applications-for-unapproved-new-dr"
-      }
-    ],
+    "pharma": [],
     "providers": [
       {
         "id": "2026-08-09-wise-minds-will-think-otherwise-abhay-soi-on-private-hospital-price-cap",
@@ -248,30 +195,6 @@
     "healthtech": []
   },
   "thbActions": [
-    {
-      "segment": "pharma",
-      "articleId": "2026-08-09-beyond-weight-loss-scientists-uncover-how-glp-1-drugs-may-reduce-addicti",
-      "title": "Beyond Weight Loss: Scientists Uncover How GLP-1 Drugs May Reduce Addictive Cravings",
-      "source": "PharmaTutor News",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
-      "segment": "pharma",
-      "articleId": "2026-08-09-cdsco-sec-recommends-phase-iv-clinical-trial-of-dostarlimab-for-endometr",
-      "title": "CDSCO SEC Recommends Phase IV Clinical Trial of Dostarlimab for Endometrial Cancer",
-      "source": "PharmaTutor News",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
-      "segment": "pharma",
-      "articleId": "2026-08-09-cdsco-directs-ind-division-to-process-applications-for-unapproved-new-dr",
-      "title": "CDSCO Directs IND Division to Process Applications for Unapproved New Drugs Under Review by Foreign Regulators",
-      "source": "PharmaTutor News",
-      "solution": "THB Commercial Analytics",
-      "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
-    },
     {
       "segment": "providers",
       "articleId": "2026-08-09-wise-minds-will-think-otherwise-abhay-soi-on-private-hospital-price-cap",
