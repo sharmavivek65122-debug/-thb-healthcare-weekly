@@ -5,9 +5,9 @@
   "startDate": "2026-08-15T18:30:00.000Z",
   "endDate": "2026-08-21T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-09-01T17:24:20.068Z",
+  "updatedAt": "2026-09-02T08:56:29.576Z",
   "coverage": {
-    "pharma": 4,
+    "pharma": 3,
     "providers": 7,
     "diagnostics": 2,
     "healthtech": 0
@@ -16,29 +16,11 @@
     "BioSpectrum India Healthcare",
     "ET Healthworld Diagnostics",
     "ET Healthworld Hospitals",
-    "Economic Times Pharma",
     "Lupin Updates",
     "Zawya Pharmaceuticals"
   ],
   "segments": {
     "pharma": [
-      {
-        "id": "2026-08-16-zydus-lifesciences-gets-usfda-nod-for-generic-ascorbic-acid-injection",
-        "title": "Zydus Lifesciences gets USFDA nod for generic ascorbic acid injection",
-        "summary": "Zydus Lifesciences secured final USFDA approval for its generic ascorbic acid injection. This approval is for the treatment of scurvy in specific patient groups. The company's product is the generic equivalent of the Ascor injection. The USFDA designated this...",
-        "source": "Economic Times Pharma",
-        "sourceHost": "economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-08-21T11:10:41.000Z",
-        "publishedLabel": "August 21, 2026",
-        "category": "Approval",
-        "image": "https://img.etimg.com/thumb/msid-133402574,width-1200,height-630,imgsize-60504,overlay-economictimes/articleshow.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/zydus-lifesciences-gets-usfda-nod-for-generic-ascorbic-acid-injection/articleshow/133402397.cms",
-        "articlePath": "/article.html?issue=2026-08-16&article=2026-08-16-zydus-lifesciences-gets-usfda-nod-for-generic-ascorbic-acid-injection"
-      },
       {
         "id": "2026-08-16-lupin-shares-in-focus-after-usfda-nod-for-drug-to-treat-excessive-daytim",
         "title": "Lupin shares in focus after USFDA nod for drug to treat excessive daytime sleepiness",
@@ -251,14 +233,6 @@
     "healthtech": []
   },
   "thbActions": [
-    {
-      "segment": "pharma",
-      "articleId": "2026-08-16-zydus-lifesciences-gets-usfda-nod-for-generic-ascorbic-acid-injection",
-      "title": "Zydus Lifesciences gets USFDA nod for generic ascorbic acid injection",
-      "source": "Economic Times Pharma",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
     {
       "segment": "pharma",
       "articleId": "2026-08-16-lupin-shares-in-focus-after-usfda-nod-for-drug-to-treat-excessive-daytim",

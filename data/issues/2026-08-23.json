@@ -5,10 +5,10 @@
   "startDate": "2026-08-22T18:30:00.000Z",
   "endDate": "2026-08-28T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-09-01T17:24:20.068Z",
+  "updatedAt": "2026-09-02T08:56:29.576Z",
   "coverage": {
-    "pharma": 18,
-    "providers": 7,
+    "pharma": 17,
+    "providers": 6,
     "diagnostics": 0,
     "healthtech": 0
   },
@@ -17,8 +17,7 @@
     "ET Healthworld Hospitals",
     "Economic Times Pharma",
     "Janssen India Media",
-    "Medical Dialogues Pharma",
-    "Zawya Pharmaceuticals"
+    "Medical Dialogues Pharma"
   ],
   "segments": {
     "pharma": [
@@ -310,23 +309,6 @@
         "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/aurobindo-pharma-sets-up-auropharm-overseas-to-expand-pharma-manufacturing-marketing-178220",
         "articlePath": "/article.html?issue=2026-08-23&article=2026-08-23-aurobindo-pharma-sets-up-auropharm-overseas-to-expand-pharma-manufacturi"
-      },
-      {
-        "id": "2026-08-23-maharashtra-fda-cancels-cipla-pune-unit-s-drug-licence-over-reactin-plus",
-        "title": "Maharashtra FDA Cancels Cipla Pune Unit's Drug Licence Over Reactin Plus Lapses",
-        "summary": "Pune: The Maharashtra Food and Drug Administration (FDA) has cancelled the drug sale licence of Cipla Pharma & Life Sciences Ltd's Carrying and Forwarding (C&F) unit at Wadki in Pune over alleged...",
-        "source": "Medical Dialogues Pharma",
-        "sourceHost": "medicaldialogues.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-08-29T18:15:32.000Z",
-        "publishedLabel": "August 29, 2026",
-        "category": "Industry Update",
-        "image": "https://medicaldialogues.in/h-upload/2024/05/17/238420-cipla-50-3.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/maharashtra-fda-cancels-cipla-pune-units-drug-licence-over-reactin-plus-lapses-178221",
-        "articlePath": "/article.html?issue=2026-08-23&article=2026-08-23-maharashtra-fda-cancels-cipla-pune-unit-s-drug-licence-over-reactin-plus"
       }
     ],
     "providers": [
@@ -431,23 +413,6 @@
         "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/7-member-panel-to-probe-amravati-hospital-fire-submit-report-in-8-days/133531939",
         "articlePath": "/article.html?issue=2026-08-23&article=2026-08-23-7-member-panel-to-probe-amravati-hospital-fire-submit-report-in-8-days"
-      },
-      {
-        "id": "2026-08-23-bahrain-s-danat-appoints-khaliq-as-ceo",
-        "title": "Bahrain's Danat appoints Khaliq as CEO",
-        "summary": "Danat chairman Mohamed Ahmed Al Sada welcomed the appointment",
-        "source": "Zawya Pharmaceuticals",
-        "sourceHost": "zawya.com",
-        "region": "Middle East",
-        "country": "Saudi Arabia",
-        "publishedAt": "2026-08-27T05:06:30.940Z",
-        "publishedLabel": "August 27, 2026",
-        "category": "AI Care Delivery",
-        "image": "https://media.zawya.com/prod/images/gm_preview/55a155b895b3-gettyimages-533878813.jpg",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://www.zawya.com/en/world/bahrains-danat-appoints-khaliq-as-ceo-467646",
-        "articlePath": "/article.html?issue=2026-08-23&article=2026-08-23-bahrain-s-danat-appoints-khaliq-as-ceo"
       }
     ],
     "diagnostics": [],
