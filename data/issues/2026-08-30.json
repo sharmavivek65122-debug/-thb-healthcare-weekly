@@ -5,15 +5,14 @@
   "startDate": "2026-08-29T18:30:00.000Z",
   "endDate": "2026-09-04T18:30:00.000Z",
   "status": "live",
-  "updatedAt": "2026-09-02T08:56:29.576Z",
+  "updatedAt": "2026-09-02T17:15:44.763Z",
   "coverage": {
-    "pharma": 36,
-    "providers": 10,
-    "diagnostics": 3,
+    "pharma": 40,
+    "providers": 8,
+    "diagnostics": 4,
     "healthtech": 2
   },
   "sourcesUsed": [
-    "BioSpectrum Asia Middle East",
     "ET Healthworld",
     "ET Healthworld Hospitals",
     "Economic Times Pharma",
@@ -54,7 +53,7 @@
         "category": "Industry Update",
         "image": "https://img.etimg.com/thumb/msid-133691072,width-1200,height-630,imgsize-62874,overlay-economictimes/articleshow.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/sun-pharma-agrees-to-lower-us-drug-prices-under-trump-plan-analysts-see-limited-financial-impact/articleshow/133690778.cms",
         "articlePath": "/article.html?issue=2026-08-30&article=2026-08-30-sun-pharma-agrees-to-lower-us-drug-prices-under-trump-plan-analysts-see-"
       },
@@ -88,7 +87,7 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-133695003,imgsize-113915,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/permira-to-buy-25-71-in-cloudnine-hospitals-parent-cci-filing.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/permira-to-buy-25-71-in-cloudnine-hospitals-parent-cci-filing/133695003",
         "articlePath": "/article.html?issue=2026-08-30&article=2026-08-30-permira-to-buy-25-71-in-cloudnine-hospitals-parent-cci-filing"
       },
@@ -108,6 +107,23 @@
         "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/diagnostics/mahajan-imaging-neuberg-jv-to-build-integrated-diagnostics-network-across-7-north-indian-states/133651392",
         "articlePath": "/article.html?issue=2026-08-30&article=2026-08-30-mahajan-imaging-neuberg-jv-to-build-integrated-diagnostics-network-acros"
+      },
+      {
+        "id": "2026-08-30-agra-on-swine-flu-alert-tourist-screening-stepped-up",
+        "title": "Agra on swine flu alert, tourist screening stepped up",
+        "summary": "Nodal officer Dr Surendra Mohan Prajapati said special wards and beds were kept reserved for swine flu patients at SN Medical College and the district hospital as a precautionary measure.",
+        "source": "ET Healthworld",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-09-02T10:11:13.000Z",
+        "publishedLabel": "September 2, 2026",
+        "category": "Industry Update",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-133706395,imgsize-48430,width-1200,height=627,overlay-ethealth,resizemode-75/industry/agra-on-swine-flu-alert-tourist-screening-stepped-up.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/agra-on-swine-flu-alert-tourist-screening-stepped-up/133706395",
+        "articlePath": "/article.html?issue=2026-08-30&article=2026-08-30-agra-on-swine-flu-alert-tourist-screening-stepped-up"
       },
       {
         "id": "2026-08-30-india-seeks-easier-pharma-access-in-brazil-pushes-to-expand-mercosur-tra",
@@ -144,6 +160,40 @@
         "articlePath": "/article.html?issue=2026-08-30&article=2026-08-30-aurobindo-pharma-launches-generic-advair-diskus-for-asthma-and-copd-in-u"
       },
       {
+        "id": "2026-08-30-maharashtra-government-approves-policy-to-eradicate-drugs-by-2029-awaren",
+        "title": "Maharashtra government approves policy to eradicate drugs by 2029; awareness, strict action planned",
+        "summary": "Maharashtra is the first state in the country to undertake such a comprehensive campaign, involving coordination among various departments, to create a drug-free state, a statement issued by the government said.",
+        "source": "ET Healthworld",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-09-02T11:03:02.000Z",
+        "publishedLabel": "September 2, 2026",
+        "category": "Industry Update",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-133708024,imgsize-75428,width-1200,height=627,overlay-ethealth,resizemode-75/policy/maharashtra-government-approves-policy-to-eradicate-drugs-by-2029-awareness-strict-action-planned.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/policy/maharashtra-government-approves-policy-to-eradicate-drugs-by-2029-awareness-strict-action-planned/133708024",
+        "articlePath": "/article.html?issue=2026-08-30&article=2026-08-30-maharashtra-government-approves-policy-to-eradicate-drugs-by-2029-awaren"
+      },
+      {
+        "id": "2026-08-30-congo-s-ebola-outbreak-kills-more-than-3-000-government-figures-show",
+        "title": "Congo's Ebola outbreak kills more than 3,000, government figures show",
+        "summary": "The outbreak, caused by the Bundibugyo species of Ebola, became the largest and ‌deadliest in ⁠Congo's history ⁠after surpassing the 2018-2020 epidemic.",
+        "source": "ET Healthworld",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-09-02T10:06:50.000Z",
+        "publishedLabel": "September 2, 2026",
+        "category": "Industry Update",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-133706400,imgsize-334318,width-1200,height=627,overlay-ethealth,resizemode-75/industry/congos-ebola-outbreak-kills-more-than-3000-government-figures-show.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/congos-ebola-outbreak-kills-more-than-3000-government-figures-show/133706400",
+        "articlePath": "/article.html?issue=2026-08-30&article=2026-08-30-congo-s-ebola-outbreak-kills-more-than-3-000-government-figures-show"
+      },
+      {
         "id": "2026-08-30-us-refusals-of-crucial-newborn-vitamin-spike-raising-risk-of-dangerous-b",
         "title": "US refusals of crucial newborn vitamin spike, raising risk of dangerous bleeding",
         "summary": "The data confirms what a dozen pediatricians, neonatologists and pediatric critical care specialists told Reuters is a top concern: rising refusals of a life-protective shot and a growing wave of mistrust toward vaccines and other newborn interventions.",
@@ -156,7 +206,7 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-133695060,imgsize-65895,width-1200,height=627,overlay-ethealth,resizemode-75/industry/us-refusals-of-crucial-newborn-vitamin-spike-raising-risk-of-dangerous-bleeding.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/us-refusals-of-crucial-newborn-vitamin-spike-raising-risk-of-dangerous-bleeding/133695060",
         "articlePath": "/article.html?issue=2026-08-30&article=2026-08-30-us-refusals-of-crucial-newborn-vitamin-spike-raising-risk-of-dangerous-b"
       },
@@ -207,7 +257,7 @@
         "category": "Launch",
         "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2021/05/13184627/handshake.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/news/wadi-surgicals-hubertus-medical-products-launch-enliva-active-nitrile-glove-for-horeca-sector/455003/",
         "articlePath": "/article.html?issue=2026-08-30&article=2026-08-30-wadi-surgicals-hubertus-medical-products-launch-enliva-active-nitrile-gl"
       },
@@ -258,7 +308,7 @@
         "category": "Deal",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/09/image-1600x900-2026-09-02T105945.037.png",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/09/02/adcan-pharma-inks-technology-transfer-deal-with-pinnacle-life-science-for-specialized-oncology/",
         "articlePath": "/article.html?issue=2026-08-30&article=2026-08-30-adcan-pharma-inks-technology-transfer-deal-with-pinnacle-life-science-fo"
       },
@@ -280,6 +330,23 @@
         "articlePath": "/article.html?issue=2026-08-30&article=2026-08-30-aurobindo-pharma-launches-fluticasone-salmeterol-generic-advair-diskus-i"
       },
       {
+        "id": "2026-08-30-novartis-halts-8-car-t-trials-after-3-patient-deaths-linked-to-severe-im",
+        "title": "Novartis Halts 8 CAR-T Trials After 3 Patient Deaths Linked to Severe Immune Response",
+        "summary": "Bengaluru: Novartis paused eight clinical trials of an experimental therapy targeting autoimmune and neurological disorders in late August, after three patients died, the Wall Street Journal reported...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-09-02T13:57:20.000Z",
+        "publishedLabel": "September 2, 2026",
+        "category": "Clinical Trial",
+        "image": "https://medicaldialogues.in/h-upload/2024/02/17/232451-novartis-50.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/novartis-halts-8-car-t-trials-after-3-patient-deaths-linked-to-severe-immune-response-178466",
+        "articlePath": "/article.html?issue=2026-08-30&article=2026-08-30-novartis-halts-8-car-t-trials-after-3-patient-deaths-linked-to-severe-im"
+      },
+      {
         "id": "2026-08-30-ausperbio-raises-us-120m-to-advance-hepatitis-b-therapies-toward-functio",
         "title": "AusperBio raises US$120M to advance Hepatitis B therapies toward functional cure | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
         "summary": "AusperBio will use a significant portion of the proceeds to advance AHB 137, an antisense oligonucleotide therapy for CHB, through its Phase III registrational programme and toward potential comme ...",
@@ -292,7 +359,7 @@
         "category": "Manufacturing",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/09/image-1600x900-2026-09-01T110834.618.png",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/09/02/ausperbio-raises-us120m-to-advance-hepatitis-b-therapies-toward-functional-cure/",
         "articlePath": "/article.html?issue=2026-08-30&article=2026-08-30-ausperbio-raises-us-120m-to-advance-hepatitis-b-therapies-toward-functio"
       },
@@ -343,9 +410,26 @@
         "category": "Approval",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/09/image-1600x900-2026-09-02T095926.628.png",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/09/02/fda-accepts-kowas-k-911-glaucoma-eye-drop-application-for-review/",
         "articlePath": "/article.html?issue=2026-08-30&article=2026-08-30-fda-accepts-kowa-s-k-911-glaucoma-eye-drop-application-for-review-health"
+      },
+      {
+        "id": "2026-08-30-j-b-chemicals-bp-drug-nicardia-retard-10-counterfeited-3-held-in-interst",
+        "title": "J B Chemicals' BP Drug Nicardia Retard 10 Counterfeited, 3 Held in Interstate Racket",
+        "summary": "Ahmedabad: A joint investigation by the Ahmedabad City Crime Branch and the Gujarat Food and Drugs Control Administration has uncovered an interstate network allegedly involved in the manufacturing,...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-09-02T14:44:45.000Z",
+        "publishedLabel": "September 2, 2026",
+        "category": "Manufacturing",
+        "image": "https://medicaldialogues.in/h-upload/2025/02/24/275685-antimalarial-drugs.jpg",
+        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
+        "justIn": true,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/j-b-chemicals-bp-drug-nicardia-retard-10-counterfeited-3-held-in-interstate-racket-178469",
+        "articlePath": "/article.html?issue=2026-08-30&article=2026-08-30-j-b-chemicals-bp-drug-nicardia-retard-10-counterfeited-3-held-in-interst"
       },
       {
         "id": "2026-08-30-who-issues-emergency-guidance-on-ervebo-use-during-bundibugyo-virus-outb",
@@ -360,7 +444,7 @@
         "category": "Manufacturing",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/09/image-1600x900-2026-09-02T105330.721.png",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/09/02/who-issues-emergency-guidance-on-ervebo-use-during-bundibugyo-virus-outbreaks/",
         "articlePath": "/article.html?issue=2026-08-30&article=2026-08-30-who-issues-emergency-guidance-on-ervebo-use-during-bundibugyo-virus-outb"
       },
@@ -450,23 +534,6 @@
         "articlePath": "/article.html?issue=2026-08-30&article=2026-08-30-usfda-approves-takeda-protagonist-s-mimrylo-for-rare-blood-cancer-polycy"
       },
       {
-        "id": "2026-08-30-ema-flags-schizophrenia-drug-paliperidone-shortage-in-eu-states-over-pha",
-        "title": "EMA Flags Schizophrenia Drug Paliperidone Shortage in EU States Over Pharmathen Manufacturing Issues",
-        "summary": "Bengaluru: The European Medicines Agency on Thursday disclosed a shortage of an injectable medicine used to treat schizophrenia in some member EU states due to issues at contract manufacturer...",
-        "source": "Medical Dialogues Pharma",
-        "sourceHost": "medicaldialogues.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-08-30T09:35:24.000Z",
-        "publishedLabel": "August 30, 2026",
-        "category": "Manufacturing",
-        "image": "https://medicaldialogues.in/h-upload/2023/04/27/208416-schizophrenia-1.jpg",
-        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": false,
-        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/ema-flags-schizophrenia-drug-paliperidone-shortage-in-eu-states-over-pharmathen-manufacturing-issues-178241",
-        "articlePath": "/article.html?issue=2026-08-30&article=2026-08-30-ema-flags-schizophrenia-drug-paliperidone-shortage-in-eu-states-over-pha"
-      },
-      {
         "id": "2026-08-30-did-not-study-got-questions-in-advance-for-rs-50l-whatsapp-chats-expose-",
         "title": "Did Not Study, Got Questions in Advance for Rs 50L: WhatsApp Chats Expose MPSC Drug Inspector Exam Leak",
         "summary": "New Delhi: A private WhatsApp exchange, an acrimonious breakup and allegations involving payments running into lakhs have become crucial elements in the investigation into the alleged Maharashtra...",
@@ -479,7 +546,7 @@
         "category": "Industry Update",
         "image": "https://medicaldialogues.in/h-upload/2026/06/29/356672-scam.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/did-not-study-got-questions-in-advance-for-rs-50l-whatsapp-chats-expose-mpsc-drug-inspector-exam-leak-178404",
         "articlePath": "/article.html?issue=2026-08-30&article=2026-08-30-did-not-study-got-questions-in-advance-for-rs-50l-whatsapp-chats-expose-"
       },
@@ -552,38 +619,38 @@
         "articlePath": "/article.html?issue=2026-08-30&article=2026-08-30-now-you-are-going-overboard-hc-slams-tukaram-led-maharashtra-fda-withdra"
       },
       {
-        "id": "2026-08-30-2-arrested-in-hyderabad-over-illegal-prescription-drug-supply",
-        "title": "2 Arrested in Hyderabad Over Illegal Prescription Drug Supply",
-        "summary": "Hyderabad: The Commissioner's Task Force, Golconda team, along with the SR Nagar Police, arrested two individuals for their alleged involvement in the illegal supply and purchase of prescription...",
+        "id": "2026-08-30-roche-to-pay-usd-75-mn-upfront-for-global-rights-to-simcere-s-experiment",
+        "title": "Roche to Pay USD 75 Mn Upfront for Global Rights to Simcere's Experimental Blood Cancer Drug",
+        "summary": "Bengaluru: Switzerland's Roche will pay USD 75 million upfront to Simcere Pharmaceutical Group for rights ‌to an ⁠experimental ⁠blood cancer drug, the Chinese drugmaker said Tuesday.SIM0660 targets...",
         "source": "Medical Dialogues Pharma",
         "sourceHost": "medicaldialogues.in",
         "region": "India",
         "country": "India",
-        "publishedAt": "2026-08-30T11:18:37.000Z",
-        "publishedLabel": "August 30, 2026",
+        "publishedAt": "2026-09-02T11:36:11.000Z",
+        "publishedLabel": "September 2, 2026",
         "category": "Industry Update",
-        "image": "https://medicaldialogues.in/h-upload/2026/07/08/358505-08072026-1.jpg",
+        "image": "https://medicaldialogues.in/h-upload/2024/01/20/230600-roche-50.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/2-arrested-in-hyderabad-over-illegal-prescription-drug-supply-178243",
-        "articlePath": "/article.html?issue=2026-08-30&article=2026-08-30-2-arrested-in-hyderabad-over-illegal-prescription-drug-supply"
+        "justIn": true,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/roche-to-pay-usd-75-mn-upfront-for-global-rights-to-simceres-experimental-blood-cancer-drug-178445",
+        "articlePath": "/article.html?issue=2026-08-30&article=2026-08-30-roche-to-pay-usd-75-mn-upfront-for-global-rights-to-simcere-s-experiment"
       },
       {
-        "id": "2026-08-30-gilead-wins-usfda-approval-for-bixlenvo-hiv-combination-treatment",
-        "title": "Gilead Wins USFDA Approval for Bixlenvo HIV Combination Treatment",
-        "summary": "Bengaluru: The U.S. Food and Drug Administration has approved Gilead Sciences' once-daily oral combination pill for treatment of adults whose HIV infection has already been reduced to very ‌low...",
+        "id": "2026-08-30-mpsc-chief-vivek-bhimanwar-denies-paper-leak-link-says-exam-scam-precede",
+        "title": "MPSC Chief Vivek Bhimanwar Denies Paper Leak Link, Says Exam Scam Preceded His Tenure",
+        "summary": "Mumbai: Maharashtra Public Service Commission (MPSC) chairman Vivek Bhimanwar has said the question paper leak in the Drug Inspector (Group-B) examination happened before he took charge of the...",
         "source": "Medical Dialogues Pharma",
         "sourceHost": "medicaldialogues.in",
         "region": "India",
         "country": "India",
-        "publishedAt": "2026-08-30T09:43:17.000Z",
-        "publishedLabel": "August 30, 2026",
-        "category": "Approval",
-        "image": "https://medicaldialogues.in/h-upload/2023/01/10/197341-gilead-sciences-3.jpg",
+        "publishedAt": "2026-09-02T15:09:12.000Z",
+        "publishedLabel": "September 2, 2026",
+        "category": "Industry Update",
+        "image": "https://medicaldialogues.in/h-upload/2026/04/30/344642-leaked.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/gilead-wins-usfda-approval-for-bixlenvo-hiv-combination-treatment-178242",
-        "articlePath": "/article.html?issue=2026-08-30&article=2026-08-30-gilead-wins-usfda-approval-for-bixlenvo-hiv-combination-treatment"
+        "justIn": true,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharmacy-education/mpsc-chief-vivek-bhimanwar-denies-paper-leak-link-says-exam-scam-preceded-his-tenure-178471",
+        "articlePath": "/article.html?issue=2026-08-30&article=2026-08-30-mpsc-chief-vivek-bhimanwar-denies-paper-leak-link-says-exam-scam-precede"
       },
       {
         "id": "2026-08-30-al-tayer-motors-and-premier-motors-lead-kia-s-next-era-in-the-uae",
@@ -690,23 +757,6 @@
         "articlePath": "/article.html?issue=2026-08-30&article=2026-08-30-park-medi-world-to-expand-hospital-network-across-north-india-add-1-450-"
       },
       {
-        "id": "2026-08-30-max-to-set-up-800-bed-multi-specialty-hospital-in-gujarat",
-        "title": "Max to set up 800-bed multi-specialty hospital in Gujarat",
-        "summary": "The announcement was made following Patel’s meeting with Abhay Soi, Chairman and Managing Director of Max Healthcare in Delhi.",
-        "source": "ET Healthworld Hospitals",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-09-01T07:56:26.000Z",
-        "publishedLabel": "September 1, 2026",
-        "category": "Hospital",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-133672978,imgsize-230568,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/max-to-set-up-800-bed-multispeciality-hospital-in-gujarat-gujarat-cm.jpg",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/max-to-set-up-800-bed-multispeciality-hospital-in-gujarat-gujarat-cm/133672978",
-        "articlePath": "/article.html?issue=2026-08-30&article=2026-08-30-max-to-set-up-800-bed-multi-specialty-hospital-in-gujarat"
-      },
-      {
         "id": "2026-08-30-aig-hospitals-lays-foundation-for-1-000-bed-hospital-campus-in-visakhapa",
         "title": "AIG Hospitals lays foundation for 1,000-bed hospital campus in Visakhapatnam",
         "summary": "AIG Hospitals today laid the foundation stone for a new, greenfield multispeciality hospital in Visakhapatnam, to be operational by October 2028. The foundation stone was laid by Nara Lokesh, Minister for Human Resource Development, Information Technology,...",
@@ -775,23 +825,6 @@
         "articlePath": "/article.html?issue=2026-08-30&article=2026-08-30-humain-launches-next-generation-horizon-ultra-ai-pc-at-leap-2026-designe"
       },
       {
-        "id": "2026-08-30-bridges-are-not-symmetrical-reading-the-asia-bio-cross-border-keynote",
-        "title": "Bridges Are Not Symmetrical: Reading the Asia Bio Cross-Border Keynote",
-        "summary": "Bridges Are Not Symmetrical: Reading the Asia Bio Cross-Border Keynote",
-        "source": "BioSpectrum Asia Middle East",
-        "sourceHost": "biospectrumasia.com",
-        "region": "Middle East",
-        "country": "Middle East",
-        "publishedAt": "2026-09-01T18:30:00.000Z",
-        "publishedLabel": "September 2, 2026",
-        "category": "Provider Update",
-        "image": "https://www.biospectrumasia.com/uploads/articles/biospectrum_asia_abpf_under_400kb-28307.jpg?v=20260902070953",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
-        "originalUrl": "https://www.biospectrumasia.com/news/41/28307/bridges-are-not-symmetrical-reading-the-asia-bio-cross-border-keynote.html",
-        "articlePath": "/article.html?issue=2026-08-30&article=2026-08-30-bridges-are-not-symmetrical-reading-the-asia-bio-cross-border-keynote"
-      },
-      {
         "id": "2026-08-30-step-into-nespresso-s-new-vertuo-world-in-the-uae-starring-global-brand-",
         "title": "Step into Nespresso’s new Vertuo World in the UAE, starring global brand ambassador Dua Lipa now live on September 1st",
         "summary": "Rooted in curiosity and boldness, the campaign celebrates the idea that every cup of coffee is a gateway to a new world",
@@ -840,7 +873,7 @@
         "category": "Screening",
         "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2019/10/14161829/GettyImages-1034279702-e1571050346795.jpg",
         "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/news/philips-cent-collaborate-on-preventive-diagnostics-and-early-risk-detection-in-india/455005/",
         "articlePath": "/article.html?issue=2026-08-30&article=2026-08-30-philips-cent-collaborate-on-preventive-diagnostics-and-early-risk-detect"
       },
@@ -860,6 +893,23 @@
         "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/news/the-insight-tribe-partners-with-vpro-to-support-cardiac-imaging-service/454990/",
         "articlePath": "/article.html?issue=2026-08-30&article=2026-08-30-the-insight-tribe-partners-with-vpro-to-support-cardiac-imaging-service"
+      },
+      {
+        "id": "2026-08-30-mpsc-drug-inspector-paper-leak-7th-rank-holder-arrested-over-alleged-adv",
+        "title": "MPSC Drug Inspector Paper Leak: 7th-Rank Holder Arrested Over Alleged Advance Access to Exam Questions",
+        "summary": "Mumbai: Mumbai Police have arrested Rutuja Patil, a candidate who secured seventh rank in the Maharashtra Public Service Commission (MPSC) Drug Inspector (Group-B) examination, in connection with the...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-09-02T15:02:18.000Z",
+        "publishedLabel": "September 2, 2026",
+        "category": "Industry Update",
+        "image": "https://medicaldialogues.in/h-upload/2026/07/08/358505-08072026-1.jpg",
+        "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
+        "justIn": true,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharmacy-education/mpsc-drug-inspector-paper-leak-7th-rank-holder-arrested-over-alleged-advance-access-to-exam-questions-178470",
+        "articlePath": "/article.html?issue=2026-08-30&article=2026-08-30-mpsc-drug-inspector-paper-leak-7th-rank-holder-arrested-over-alleged-adv"
       }
     ],
     "healthtech": [
@@ -966,16 +1016,16 @@
     },
     {
       "segment": "providers",
-      "articleId": "2026-08-30-max-to-set-up-800-bed-multi-specialty-hospital-in-gujarat",
-      "title": "Max to set up 800-bed multi-specialty hospital in Gujarat",
-      "source": "ET Healthworld Hospitals",
+      "articleId": "2026-08-30-aig-hospitals-lays-foundation-for-1-000-bed-hospital-campus-in-visakhapa",
+      "title": "AIG Hospitals lays foundation for 1,000-bed hospital campus in Visakhapatnam",
+      "source": "Express Healthcare",
       "solution": "THB Provider CRM",
       "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
     },
     {
       "segment": "providers",
-      "articleId": "2026-08-30-aig-hospitals-lays-foundation-for-1-000-bed-hospital-campus-in-visakhapa",
-      "title": "AIG Hospitals lays foundation for 1,000-bed hospital campus in Visakhapatnam",
+      "articleId": "2026-08-30-healthcare-must-shift-from-treatment-to-prevention-liver-disease-is-the-",
+      "title": "Healthcare must shift from treatment to prevention, liver disease is the wake-up call",
       "source": "Express Healthcare",
       "solution": "THB Provider CRM",
       "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
@@ -1001,6 +1051,14 @@
       "articleId": "2026-08-30-the-insight-tribe-partners-with-vpro-to-support-cardiac-imaging-service",
       "title": "The Insight Tribe partners with VPRO to support cardiac imaging service",
       "source": "Express Healthcare",
+      "solution": "THB Diagnostics CRM",
+      "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
+    },
+    {
+      "segment": "diagnostics",
+      "articleId": "2026-08-30-mpsc-drug-inspector-paper-leak-7th-rank-holder-arrested-over-alleged-adv",
+      "title": "MPSC Drug Inspector Paper Leak: 7th-Rank Holder Arrested Over Alleged Advance Access to Exam Questions",
+      "source": "Medical Dialogues Pharma",
       "solution": "THB Diagnostics CRM",
       "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
     }
