@@ -5,15 +5,14 @@
   "startDate": "2026-08-15T18:30:00.000Z",
   "endDate": "2026-08-21T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-09-02T17:15:44.763Z",
+  "updatedAt": "2026-09-03T09:04:47.378Z",
   "coverage": {
-    "pharma": 3,
-    "providers": 7,
+    "pharma": 2,
+    "providers": 8,
     "diagnostics": 2,
     "healthtech": 0
   },
   "sourcesUsed": [
-    "BioSpectrum India Healthcare",
     "ET Healthworld Diagnostics",
     "ET Healthworld Hospitals",
     "Lupin Updates",
@@ -54,23 +53,6 @@
         "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-airtel-paytm-spicejet-ongc-and-zee/articleshow/133303467.cms",
         "articlePath": "/article.html?issue=2026-08-16&article=2026-08-16-stocks-in-news-airtel-paytm-spicejet-ongc-and-zee"
-      },
-      {
-        "id": "2026-08-16-invesco-mutual-fund-unveils-india-pharma-and-healthcare-fund",
-        "title": "Invesco Mutual Fund unveils India Pharma and Healthcare Fund",
-        "summary": "Invesco Mutual Fund unveils India Pharma and Healthcare Fund",
-        "source": "BioSpectrum India Healthcare",
-        "sourceHost": "biospectrumindia.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-08-17T18:30:00.000Z",
-        "publishedLabel": "August 18, 2026",
-        "category": "Industry Update",
-        "image": "https://www.biospectrumindia.com/uploads/articles/screenshot_18_8_2026_155055_www_bing_com-28332.jpeg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://www.biospectrumindia.com/news/16/28332/invesco-mutual-fund-unveils-india-pharma-and-healthcare-fund.html",
-        "articlePath": "/article.html?issue=2026-08-16&article=2026-08-16-invesco-mutual-fund-unveils-india-pharma-and-healthcare-fund"
       }
     ],
     "providers": [
@@ -107,6 +89,23 @@
         "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/manipal-hospitals-post-3091-crore-in-q1fy27-ebitda-climbs-26/133390607",
         "articlePath": "/article.html?issue=2026-08-16&article=2026-08-16-manipal-hospitals-post-3-091-crore-in-q1fy27-ebitda-climbs-26"
+      },
+      {
+        "id": "2026-08-16-apollo-to-operate-opd-services-for-all-seven-days-of-week",
+        "title": "Apollo to operate OPD services for all seven days of week",
+        "summary": "The announcement extends access to outpatient consultations, diagnostics, preventive health check-ups, follow-up consultations and scheduled procedures throughout the week, including Sundays.",
+        "source": "ET Healthworld Hospitals",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-08-18T17:49:03.000Z",
+        "publishedLabel": "August 18, 2026",
+        "category": "Patient Care",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-133329141,imgsize-218401,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/apollo-to-operate-opd-services-for-all-seven-days-of-week.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": false,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/apollo-to-operate-opd-services-for-all-seven-days-of-week/133329141",
+        "articlePath": "/article.html?issue=2026-08-16&article=2026-08-16-apollo-to-operate-opd-services-for-all-seven-days-of-week"
       },
       {
         "id": "2026-08-16-manipal-adds-100-beds-in-bengaluru-with-130-cr-kinder-hospitals-acquisit",
@@ -250,14 +249,6 @@
       "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
     },
     {
-      "segment": "pharma",
-      "articleId": "2026-08-16-invesco-mutual-fund-unveils-india-pharma-and-healthcare-fund",
-      "title": "Invesco Mutual Fund unveils India Pharma and Healthcare Fund",
-      "source": "BioSpectrum India Healthcare",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
       "segment": "providers",
       "articleId": "2026-08-16-in-private-healthcare-s-rise-price-points-are-a-big-pain",
       "title": "In private healthcare's rise, price points are a big pain",
@@ -275,6 +266,14 @@
     },
     {
       "segment": "providers",
+      "articleId": "2026-08-16-apollo-to-operate-opd-services-for-all-seven-days-of-week",
+      "title": "Apollo to operate OPD services for all seven days of week",
+      "source": "ET Healthworld Hospitals",
+      "solution": "THB Provider CRM",
+      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
+    },
+    {
+      "segment": "providers",
       "articleId": "2026-08-16-manipal-adds-100-beds-in-bengaluru-with-130-cr-kinder-hospitals-acquisit",
       "title": "Manipal adds 100 beds in Bengaluru with ₹130 cr Kinder Hospitals acquisition",
       "source": "ET Healthworld Hospitals",
@@ -285,14 +284,6 @@
       "segment": "providers",
       "articleId": "2026-08-16-sso-cancer-hospitals-to-provide-free-head-and-neck-cancer-treatment-to-p",
       "title": "SSO Cancer Hospitals to provide free head & neck cancer treatment to patients below poverty line",
-      "source": "ET Healthworld Hospitals",
-      "solution": "THB Provider CRM",
-      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
-    },
-    {
-      "segment": "providers",
-      "articleId": "2026-08-16-india-health-care-services-outlook-strengthens-as-new-beds-patient-volum",
-      "title": "India health care services outlook strengthens as new beds, patient volumes drive growth",
       "source": "ET Healthworld Hospitals",
       "solution": "THB Provider CRM",
       "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
