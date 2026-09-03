@@ -5,10 +5,10 @@
   "startDate": "2026-07-11T18:30:00.000Z",
   "endDate": "2026-07-17T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-09-03T09:04:47.378Z",
+  "updatedAt": "2026-09-03T17:07:32.358Z",
   "coverage": {
     "pharma": 2,
-    "providers": 8,
+    "providers": 7,
     "diagnostics": 2,
     "healthtech": 0
   },
@@ -70,23 +70,6 @@
         "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/medtronic-partners-with-apollo-hospitals-to-launch-advanced-icu-of-the-future-in-hyderabad/132459294",
         "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-medtronic-partners-with-apollo-hospitals-to-launch-advanced-icu-of-the-f"
-      },
-      {
-        "id": "2026-07-12-pm-to-dedicate-key-healthcare-infrastructure-projects-to-nation-on-july-",
-        "title": "PM to dedicate key healthcare infrastructure projects to nation on July 17: PGIMER Director",
-        "summary": "Modi will dedicate to the nation the Advanced Mother and Child Centre and the Advanced Neurosciences Centre, besides laying the foundation stone for the 150-bed Critical Care Hospital Block. Together, these projects entail an investment of around Rs 1,200...",
-        "source": "ET Healthworld Hospitals",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-07-14T01:45:39.000Z",
-        "publishedLabel": "July 14, 2026",
-        "category": "Hospital",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-132378748,imgsize-132050,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/pm-to-dedicate-key-healthcare-infrastructure-projects-to-nation-on-july-17-pgimer-director.jpg",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/pm-to-dedicate-key-healthcare-infrastructure-projects-to-nation-on-july-17-pgimer-director/132378748",
-        "articlePath": "/article.html?issue=2026-07-12&article=2026-07-12-pm-to-dedicate-key-healthcare-infrastructure-projects-to-nation-on-july-"
       },
       {
         "id": "2026-07-12-ankura-hospitals-strengthens-foothold-in-central-india-with-120-bed-hosp",
@@ -256,14 +239,6 @@
     },
     {
       "segment": "providers",
-      "articleId": "2026-07-12-pm-to-dedicate-key-healthcare-infrastructure-projects-to-nation-on-july-",
-      "title": "PM to dedicate key healthcare infrastructure projects to nation on July 17: PGIMER Director",
-      "source": "ET Healthworld Hospitals",
-      "solution": "THB Provider CRM",
-      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
-    },
-    {
-      "segment": "providers",
       "articleId": "2026-07-12-ankura-hospitals-strengthens-foothold-in-central-india-with-120-bed-hosp",
       "title": "Ankura Hospitals strengthens foothold in Central India with 120 bed hospital in Indore",
       "source": "ET Healthworld Hospitals",
@@ -282,6 +257,14 @@
       "segment": "providers",
       "articleId": "2026-07-12-16-ayushman-hospitals-face-action-in-bijnor-over-lapses",
       "title": "16 Ayushman hospitals face action in Bijnor over lapses",
+      "source": "ET Healthworld Hospitals",
+      "solution": "THB Provider CRM",
+      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
+    },
+    {
+      "segment": "providers",
+      "articleId": "2026-07-12-pil-in-delhi-hc-seeks-immediate-operationalisation-of-rs-400-cr-super-sp",
+      "title": "PIL in Delhi HC seeks immediate operationalisation of Rs 400-cr Super Speciality Block at RML Hospital, alle..",
       "source": "ET Healthworld Hospitals",
       "solution": "THB Provider CRM",
       "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
