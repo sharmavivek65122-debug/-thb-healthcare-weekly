@@ -5,9 +5,9 @@
   "startDate": "2026-08-22T18:30:00.000Z",
   "endDate": "2026-08-28T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-09-04T09:03:25.745Z",
+  "updatedAt": "2026-09-04T16:59:21.151Z",
   "coverage": {
-    "pharma": 8,
+    "pharma": 7,
     "providers": 6,
     "diagnostics": 0,
     "healthtech": 0
@@ -19,23 +19,6 @@
   ],
   "segments": {
     "pharma": [
-      {
-        "id": "2026-08-23-convening-india-s-brightest-minds-the-bharat-life-sciences-award-s-innov",
-        "title": "Convening India's brightest minds: The Bharat Life Sciences Award’s Innovation Summit to spotlight life sc",
-        "summary": "India sets its sights on becoming a frontrunner in innovation within the life sciences arena. The Bharat Life Sciences Award 2026 aims to honor exceptional scientific achievements while promoting teamwork. With leaders gathering to enhance manufacturing and...",
-        "source": "Economic Times Pharma",
-        "sourceHost": "economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-08-26T09:15:07.000Z",
-        "publishedLabel": "August 26, 2026",
-        "category": "Manufacturing",
-        "image": "https://img.etimg.com/thumb/msid-133535498,width-1200,height-630,imgsize-81566,overlay-economictimes/articleshow.jpg",
-        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": false,
-        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/convening-indias-brightest-minds-the-bharat-life-sciences-awards-innovation-summit-to-spotlight-life-sciences/articleshow/133535463.cms",
-        "articlePath": "/article.html?issue=2026-08-23&article=2026-08-23-convening-india-s-brightest-minds-the-bharat-life-sciences-award-s-innov"
-      },
       {
         "id": "2026-08-23-drugmakers-may-bear-sole-responsibility-for-overpricing-essential-medici",
         "title": "Drugmakers may bear sole responsibility for overpricing essential medicines under NPPA proposal",
@@ -266,14 +249,6 @@
   "thbActions": [
     {
       "segment": "pharma",
-      "articleId": "2026-08-23-convening-india-s-brightest-minds-the-bharat-life-sciences-award-s-innov",
-      "title": "Convening India's brightest minds: The Bharat Life Sciences Award’s Innovation Summit to spotlight life sc",
-      "source": "Economic Times Pharma",
-      "solution": "THB Commercial Analytics",
-      "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
-    },
-    {
-      "segment": "pharma",
       "articleId": "2026-08-23-drugmakers-may-bear-sole-responsibility-for-overpricing-essential-medici",
       "title": "Drugmakers may bear sole responsibility for overpricing essential medicines under NPPA proposal",
       "source": "Economic Times Pharma",
@@ -300,6 +275,14 @@
       "segment": "pharma",
       "articleId": "2026-08-23-jubilant-generics-receives-show-cause-notice-demanding-over-rs-105-cr",
       "title": "Jubilant Generics receives show-cause notice demanding over Rs 105 cr",
+      "source": "Economic Times Pharma",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "pharma",
+      "articleId": "2026-08-23-cipla-pharma-license-cancellation-fda-withdraws-order-after-hc-raps-it-f",
+      "title": "Cipla Pharma license cancellation: FDA withdraws order after HC raps it for going 'overboard'",
       "source": "Economic Times Pharma",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
