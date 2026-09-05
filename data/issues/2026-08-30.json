@@ -5,9 +5,9 @@
   "startDate": "2026-08-29T18:30:00.000Z",
   "endDate": "2026-09-04T18:30:00.000Z",
   "status": "live",
-  "updatedAt": "2026-09-05T08:29:08.184Z",
+  "updatedAt": "2026-09-05T16:11:48.140Z",
   "coverage": {
-    "pharma": 42,
+    "pharma": 43,
     "providers": 16,
     "diagnostics": 5,
     "healthtech": 1
@@ -207,7 +207,7 @@
         "category": "Industry Update",
         "image": "https://img.etimg.com/thumb/msid-133783122,width-1200,height-630,imgsize-72758,overlay-economictimes/articleshow.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/india-flags-abhayrab-rabies-vaccine-batch-as-substandard-probes-if-spurious-document-shows/articleshow/133783108.cms",
         "articlePath": "/article.html?issue=2026-08-30&article=2026-08-30-govt-flags-abhayrab-rabies-vaccine-batch-as-substandard-probes-if-spurio"
       },
@@ -309,26 +309,9 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-133784370,imgsize-258194,width-1200,height=627,overlay-ethealth,resizemode-75/health-it/iit-madras-cmc-vellore-researchers-build-ai-tools-for-early-kidney-disease-detection.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/health-it/iit-madras-cmc-vellore-researchers-build-ai-tools-for-early-kidney-disease-detection/133784370",
         "articlePath": "/article.html?issue=2026-08-30&article=2026-08-30-iit-madras-cmc-vellore-researchers-build-ai-tools-for-early-kidney-disea"
-      },
-      {
-        "id": "2026-08-30-maharashtra-establishes-dedicated-urban-health-commissionerate-to-stream",
-        "title": "Maharashtra establishes dedicated Urban Health Commissionerate to streamline city healthcare",
-        "summary": "The decision, announced in the Nov 4, 2025, budget and operationalised through subsequent orders, is set to reshape how urban health schemes—from the National Urban Health Mission (NUHM) to state policies—are planned, funded, and monitored across municipal...",
-        "source": "ET Healthworld",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-09-04T02:08:37.000Z",
-        "publishedLabel": "September 4, 2026",
-        "category": "Industry Update",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-133749358,imgsize-111257,width-1200,height=627,overlay-ethealth,resizemode-75/policy/maharashtra-establishes-dedicated-urban-health-commissionerate-to-streamline-city-healthcare.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/policy/maharashtra-establishes-dedicated-urban-health-commissionerate-to-streamline-city-healthcare/133749358",
-        "articlePath": "/article.html?issue=2026-08-30&article=2026-08-30-maharashtra-establishes-dedicated-urban-health-commissionerate-to-stream"
       },
       {
         "id": "2026-08-30-max-saket-adds-400-beds-emerges-as-delhi-s-largest-private-hospital-by-c",
@@ -416,6 +399,23 @@
         "articlePath": "/article.html?issue=2026-08-30&article=2026-08-30-wadi-surgicals-hubertus-medical-products-launch-enliva-active-nitrile-gl"
       },
       {
+        "id": "2026-08-30-novartis-signs-us-3-22b-alteogen-agreement-for-subcutaneous-drug-develop",
+        "title": "Novartis signs US$3.22B Alteogen agreement for subcutaneous drug development | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
+        "summary": "The partnership expands the use of ALT B4, a proprietary recombinant human hyaluronidase developed through Alteogen’s Hybrozyme platform.",
+        "source": "Healthcare MEA",
+        "sourceHost": "healthcaremea.com",
+        "region": "Middle East",
+        "country": "Middle East",
+        "publishedAt": "2026-09-04T09:13:52.000Z",
+        "publishedLabel": "September 4, 2026",
+        "category": "Manufacturing",
+        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/09/image-1600x900-2026-09-04T121056.105.png",
+        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
+        "justIn": true,
+        "originalUrl": "https://www.healthcaremea.com/2026/09/04/novartis-signs-us3-22b-alteogen-agreement-for-subcutaneous-drug-development/",
+        "articlePath": "/article.html?issue=2026-08-30&article=2026-08-30-novartis-signs-us-3-22b-alteogen-agreement-for-subcutaneous-drug-develop"
+      },
+      {
         "id": "2026-08-30-cipla-partners-with-china-s-qilu-to-license-commercialize-keytruda-biosi",
         "title": "Cipla Partners With China's Qilu to License, Commercialize Keytruda Biosimilar QL2107 in US",
         "summary": "Mumbai: Cipla's wholly owned US subsidiary Invagen Pharmaceuticals Inc has entered into a strategic partnership with Qilu Pharmaceutical Co Ltd for the exclusive licensing and supply of QL2107, a...",
@@ -448,6 +448,23 @@
         "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/cohance-lifesciences-to-invest-usd-18-mn-in-nj-bio-aruka-bio-to-strengthen-adc-strategy-178614",
         "articlePath": "/article.html?issue=2026-08-30&article=2026-08-30-cohance-lifesciences-to-invest-usd-18-mn-in-nj-bio-aruka-bio-to-strength"
+      },
+      {
+        "id": "2026-08-30-gsk-pays-us-110m-upfront-for-hutchmed-s-kras-cancer-therapy-healthcare-m",
+        "title": "GSK pays US$110M upfront for HUTCHMED's KRAS cancer therapy | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
+        "summary": "The deal also includes up to US$1.185 billion in development, regulatory and commercial milestone payments, bringing its potential total value to US$1.295 billion.",
+        "source": "Healthcare MEA",
+        "sourceHost": "healthcaremea.com",
+        "region": "Middle East",
+        "country": "Middle East",
+        "publishedAt": "2026-09-04T08:53:57.000Z",
+        "publishedLabel": "September 4, 2026",
+        "category": "Manufacturing",
+        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/09/image-1600x900-2026-09-04T114503.405.png",
+        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
+        "justIn": true,
+        "originalUrl": "https://www.healthcaremea.com/2026/09/04/gsk-pays-us110m-upfront-for-hutchmeds-kras-cancer-therapy/",
+        "articlePath": "/article.html?issue=2026-08-30&article=2026-08-30-gsk-pays-us-110m-upfront-for-hutchmed-s-kras-cancer-therapy-healthcare-m"
       },
       {
         "id": "2026-08-30-rpg-life-sciences-arm-to-acquire-raghava-api-business-for-up-to-rs-135-c",
@@ -598,7 +615,7 @@
         "category": "Industry Update",
         "image": "https://medicaldialogues.in/h-upload/2024/11/16/261032-canceled.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/cdsco-cancels-skintl-enterprises-cosmetic-import-registrations-over-unregistered-products-labelling-violations-178618",
         "articlePath": "/article.html?issue=2026-08-30&article=2026-08-30-cdsco-cancels-skintl-enterprises-cosmetic-import-registrations-over-unre"
       },
@@ -804,7 +821,7 @@
         "category": "Expansion",
         "image": "https://etimg.etb2bimg.com/thumb/msid-133749304,imgsize-65764,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/first-you-want-to-see-occupancy-move-up-ebitda-will-chase-soi-on-max-healthcares-10000-bed-expansion.jpg",
         "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/first-you-want-to-see-occupancy-move-up-ebitda-will-chase-soi-on-max-healthcares-10000-bed-expansion/133749304",
         "articlePath": "/article.html?issue=2026-08-30&article=2026-08-30-first-you-want-to-see-occupancy-move-up-ebitda-will-chase-soi-on-max-hea"
       },
@@ -940,7 +957,7 @@
         "category": "Patient Care",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/09/image-1600x900-2026-09-04T113459.979.png",
         "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/09/04/magrabi-health-becomes-first-global-network-to-receive-src-ophthalmology-accreditation/",
         "articlePath": "/article.html?issue=2026-08-30&article=2026-08-30-magrabi-health-becomes-first-global-network-to-receive-src-ophthalmology"
       },
@@ -957,7 +974,7 @@
         "category": "Provider Update",
         "image": "https://assets.zawya.com/prod/assets/arrow-down-fill.d30923dc.svg",
         "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.zawya.com/en/press-release/aldar-and-adcb-complete-abu-dhabis-first-off-plan-mortgage-under-new-adrec-framework-478144",
         "articlePath": "/article.html?issue=2026-08-30&article=2026-08-30-aldar-and-adcb-complete-abu-dhabi-s-first-off-plan-mortgage-under-new-ad"
       },
@@ -991,7 +1008,7 @@
         "category": "AI Care Delivery",
         "image": "https://media.zawya.com/prod/images/gm_preview/e4487b45ff08-131209074815bjuc-jpg.webp",
         "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.zawya.com/en/capital-markets/mideast-stocks-dubai-leads-gulf-gains-as-uae-saudi-growth-data-lift-sentiment-477263",
         "articlePath": "/article.html?issue=2026-08-30&article=2026-08-30-mideast-stocks-dubai-leads-gulf-gains-as-uae-saudi-growth-data-lift-sent"
       },
@@ -1008,7 +1025,7 @@
         "category": "AI Care Delivery",
         "image": "https://media.zawya.com/prod/images/gm_preview/b688a51c23a1-gettyimages-2163537650.jpg",
         "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.zawya.com/en/business/middle-east/middle-east-power-demand-set-to-more-than-double-by-2050-as-ai-data-centres-grow-477539",
         "articlePath": "/article.html?issue=2026-08-30&article=2026-08-30-middle-east-power-demand-set-to-more-than-double-by-2050-as-ai-data-cent"
       }
@@ -1027,7 +1044,7 @@
         "category": "Cancer Testing",
         "image": "https://etimg.etb2bimg.com/thumb/msid-133749292,imgsize-259566,width-1200,height=627,overlay-ethealth,resizemode-75/diagnostics/medgenome-launches-personalised-blood-test-to-detect-and-monitor-cancer-relapse.jpg",
         "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/diagnostics/medgenome-launches-personalised-blood-test-to-detect-and-monitor-cancer-relapse/133749292",
         "articlePath": "/article.html?issue=2026-08-30&article=2026-08-30-medgenome-launches-personalised-blood-test-to-detect-and-monitor-cancer-"
       },
