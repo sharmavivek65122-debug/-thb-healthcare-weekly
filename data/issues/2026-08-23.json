@@ -5,7 +5,7 @@
   "startDate": "2026-08-22T18:30:00.000Z",
   "endDate": "2026-08-28T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-09-04T16:59:21.151Z",
+  "updatedAt": "2026-09-05T08:29:08.184Z",
   "coverage": {
     "pharma": 7,
     "providers": 6,
@@ -13,6 +13,7 @@
     "healthtech": 0
   },
   "sourcesUsed": [
+    "ET Healthworld",
     "ET Healthworld Hospitals",
     "Economic Times Pharma",
     "Janssen India Media"
@@ -35,23 +36,6 @@
         "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/drugmakers-may-bear-sole-responsibility-for-overpricing-essential-medicines-under-nppa-proposal/articleshow/133598884.cms",
         "articlePath": "/article.html?issue=2026-08-23&article=2026-08-23-drugmakers-may-bear-sole-responsibility-for-overpricing-essential-medici"
-      },
-      {
-        "id": "2026-08-23-demand-for-vaccines-surges-as-h1n1-other-influenza-cases-see-a-sharp-ris",
-        "title": "Demand for vaccines surges as H1N1, other influenza cases see a sharp rise",
-        "summary": "Demand for flu vaccines has significantly increased this year. At-home vaccination services are seeing a substantial rise in bookings. Rapid testing requests are also growing from various Indian cities. This surge is driven by elevated viral spread and...",
-        "source": "Economic Times Pharma",
-        "sourceHost": "economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-08-27T19:35:30.000Z",
-        "publishedLabel": "August 28, 2026",
-        "category": "Industry Update",
-        "image": "https://img.etimg.com/thumb/msid-133577721,width-1200,height-630,imgsize-98472,overlay-economictimes/articleshow.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/demand-for-vaccines-surges-as-h1n1-other-influenza-cases-see-a-sharp-rise-tata-1mg-pharmeasy/articleshow/133577722.cms",
-        "articlePath": "/article.html?issue=2026-08-23&article=2026-08-23-demand-for-vaccines-surges-as-h1n1-other-influenza-cases-see-a-sharp-ris"
       },
       {
         "id": "2026-08-23-tukaram-mundhe-cracks-down-maharashtra-fda-cancels-licence-of-cipla-s-pu",
@@ -120,6 +104,23 @@
         "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/three-south-indian-medtech-startups-win-healthsprint-2026/articleshow/133610275.cms",
         "articlePath": "/article.html?issue=2026-08-23&article=2026-08-23-three-south-indian-medtech-startups-win-healthsprint-2026"
+      },
+      {
+        "id": "2026-08-23-sanjeev-sinha-takes-charge-as-new-executive-director-and-ceo-of-aiims-ja",
+        "title": "Sanjeev Sinha takes charge as new executive director and CEO of AIIMS Jammu",
+        "summary": "Sinha joined AIIMS Jammu on deputation from AIIMS New Delhi, bringing a rich blend of clinical expertise, academic experience and research orientation to the institution, a spokesperson of the institute said.",
+        "source": "ET Healthworld",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-08-25T06:34:01.000Z",
+        "publishedLabel": "August 25, 2026",
+        "category": "Industry Update",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-133496337,imgsize-120348,width-1200,height=627,overlay-ethealth,resizemode-75/industry/sanjeev-sinha-takes-charge-as-new-executive-director-and-ceo-of-aiims-jammu.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": false,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/sanjeev-sinha-takes-charge-as-new-executive-director-and-ceo-of-aiims-jammu/133496337",
+        "articlePath": "/article.html?issue=2026-08-23&article=2026-08-23-sanjeev-sinha-takes-charge-as-new-executive-director-and-ceo-of-aiims-ja"
       },
       {
         "id": "2026-08-23-fda-approves-imaavy-nipocalimab-aahu-as-first-ever-treatment-for-warm-au",
@@ -257,14 +258,6 @@
     },
     {
       "segment": "pharma",
-      "articleId": "2026-08-23-demand-for-vaccines-surges-as-h1n1-other-influenza-cases-see-a-sharp-ris",
-      "title": "Demand for vaccines surges as H1N1, other influenza cases see a sharp rise",
-      "source": "Economic Times Pharma",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
-      "segment": "pharma",
       "articleId": "2026-08-23-tukaram-mundhe-cracks-down-maharashtra-fda-cancels-licence-of-cipla-s-pu",
       "title": "Tukaram Mundhe cracks down: Maharashtra FDA cancels licence of Cipla's Pune unit over regulatory violation",
       "source": "Economic Times Pharma",
@@ -283,6 +276,14 @@
       "segment": "pharma",
       "articleId": "2026-08-23-cipla-pharma-license-cancellation-fda-withdraws-order-after-hc-raps-it-f",
       "title": "Cipla Pharma license cancellation: FDA withdraws order after HC raps it for going 'overboard'",
+      "source": "Economic Times Pharma",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "pharma",
+      "articleId": "2026-08-23-three-south-indian-medtech-startups-win-healthsprint-2026",
+      "title": "Three South Indian medtech startups win HealthSprint 2026",
       "source": "Economic Times Pharma",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
