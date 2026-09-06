@@ -5,15 +5,14 @@
   "startDate": "2026-08-22T18:30:00.000Z",
   "endDate": "2026-08-28T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-09-06T08:46:34.837Z",
+  "updatedAt": "2026-09-06T16:23:49.915Z",
   "coverage": {
-    "pharma": 6,
+    "pharma": 5,
     "providers": 6,
     "diagnostics": 0,
     "healthtech": 0
   },
   "sourcesUsed": [
-    "ET Healthworld",
     "ET Healthworld Hospitals",
     "Economic Times Pharma",
     "Janssen India Media"
@@ -87,23 +86,6 @@
         "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/three-south-indian-medtech-startups-win-healthsprint-2026/articleshow/133610275.cms",
         "articlePath": "/article.html?issue=2026-08-23&article=2026-08-23-three-south-indian-medtech-startups-win-healthsprint-2026"
-      },
-      {
-        "id": "2026-08-23-sanjeev-sinha-takes-charge-as-new-executive-director-and-ceo-of-aiims-ja",
-        "title": "Sanjeev Sinha takes charge as new executive director and CEO of AIIMS Jammu",
-        "summary": "Sinha joined AIIMS Jammu on deputation from AIIMS New Delhi, bringing a rich blend of clinical expertise, academic experience and research orientation to the institution, a spokesperson of the institute said.",
-        "source": "ET Healthworld",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-08-25T06:34:01.000Z",
-        "publishedLabel": "August 25, 2026",
-        "category": "Industry Update",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-133496337,imgsize-120348,width-1200,height=627,overlay-ethealth,resizemode-75/industry/sanjeev-sinha-takes-charge-as-new-executive-director-and-ceo-of-aiims-jammu.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/sanjeev-sinha-takes-charge-as-new-executive-director-and-ceo-of-aiims-jammu/133496337",
-        "articlePath": "/article.html?issue=2026-08-23&article=2026-08-23-sanjeev-sinha-takes-charge-as-new-executive-director-and-ceo-of-aiims-ja"
       },
       {
         "id": "2026-08-23-fda-approves-imaavy-nipocalimab-aahu-as-first-ever-treatment-for-warm-au",
@@ -265,9 +247,9 @@
     },
     {
       "segment": "pharma",
-      "articleId": "2026-08-23-sanjeev-sinha-takes-charge-as-new-executive-director-and-ceo-of-aiims-ja",
-      "title": "Sanjeev Sinha takes charge as new executive director and CEO of AIIMS Jammu",
-      "source": "ET Healthworld",
+      "articleId": "2026-08-23-fda-approves-imaavy-nipocalimab-aahu-as-first-ever-treatment-for-warm-au",
+      "title": "FDA approves IMAAVY® (nipocalimab-aahu) as first-ever treatment for warm autoimmune hemolytic anemia (wAIHA), representing a landmark advancement for patients",
+      "source": "Janssen India Media",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
     },
