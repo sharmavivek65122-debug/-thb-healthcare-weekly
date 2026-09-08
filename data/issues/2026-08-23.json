@@ -5,37 +5,19 @@
   "startDate": "2026-08-22T18:30:00.000Z",
   "endDate": "2026-08-28T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-09-07T18:20:49.076Z",
+  "updatedAt": "2026-09-08T08:59:00.174Z",
   "coverage": {
-    "pharma": 2,
+    "pharma": 1,
     "providers": 6,
     "diagnostics": 0,
     "healthtech": 0
   },
   "sourcesUsed": [
-    "ET Healthworld",
     "ET Healthworld Hospitals",
     "Janssen India Media"
   ],
   "segments": {
     "pharma": [
-      {
-        "id": "2026-08-23-sanjeev-sinha-takes-charge-as-new-executive-director-and-ceo-of-aiims-ja",
-        "title": "Sanjeev Sinha takes charge as new executive director and CEO of AIIMS Jammu",
-        "summary": "Sinha joined AIIMS Jammu on deputation from AIIMS New Delhi, bringing a rich blend of clinical expertise, academic experience and research orientation to the institution, a spokesperson of the institute said.",
-        "source": "ET Healthworld",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-08-25T06:34:01.000Z",
-        "publishedLabel": "August 25, 2026",
-        "category": "Industry Update",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-133496337,imgsize-120348,width-1200,height=627,overlay-ethealth,resizemode-75/industry/sanjeev-sinha-takes-charge-as-new-executive-director-and-ceo-of-aiims-jammu.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/sanjeev-sinha-takes-charge-as-new-executive-director-and-ceo-of-aiims-jammu/133496337",
-        "articlePath": "/article.html?issue=2026-08-23&article=2026-08-23-sanjeev-sinha-takes-charge-as-new-executive-director-and-ceo-of-aiims-ja"
-      },
       {
         "id": "2026-08-23-fda-approves-imaavy-nipocalimab-aahu-as-first-ever-treatment-for-warm-au",
         "title": "FDA approves IMAAVY® (nipocalimab-aahu) as first-ever treatment for warm autoimmune hemolytic anemia (wAIHA), representing a landmark advancement for patients",
@@ -162,14 +144,6 @@
     "healthtech": []
   },
   "thbActions": [
-    {
-      "segment": "pharma",
-      "articleId": "2026-08-23-sanjeev-sinha-takes-charge-as-new-executive-director-and-ceo-of-aiims-ja",
-      "title": "Sanjeev Sinha takes charge as new executive director and CEO of AIIMS Jammu",
-      "source": "ET Healthworld",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
     {
       "segment": "pharma",
       "articleId": "2026-08-23-fda-approves-imaavy-nipocalimab-aahu-as-first-ever-treatment-for-warm-au",
