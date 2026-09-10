@@ -5,7 +5,7 @@
   "startDate": "2026-08-15T18:30:00.000Z",
   "endDate": "2026-08-21T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-09-09T17:14:08.888Z",
+  "updatedAt": "2026-09-10T09:03:41.367Z",
   "coverage": {
     "pharma": 2,
     "providers": 8,
@@ -13,6 +13,7 @@
     "healthtech": 0
   },
   "sourcesUsed": [
+    "BioSpectrum India Healthcare",
     "ET Healthworld Diagnostics",
     "ET Healthworld Hospitals",
     "Lupin Updates",
@@ -38,21 +39,21 @@
         "articlePath": "/article.html?issue=2026-08-16&article=2026-08-16-lupin-shares-in-focus-after-usfda-nod-for-drug-to-treat-excessive-daytim"
       },
       {
-        "id": "2026-08-16-stocks-in-news-airtel-paytm-spicejet-ongc-and-zee",
-        "title": "Stocks in news: Airtel, Paytm, SpiceJet, ONGC and ZEE",
-        "summary": "Markets extended their losing streak for a fifth consecutive session on Monday. Airtel Payments Bank appointed Shabnam Sinha as its new chairperson. Paytm's parent company will see a significant share sale on Tuesday. SpiceJet's bankruptcy petitions were...",
-        "source": "Lupin Updates",
-        "sourceHost": "economictimes.indiatimes.com",
+        "id": "2026-08-16-invesco-mutual-fund-unveils-india-pharma-and-healthcare-fund",
+        "title": "Invesco Mutual Fund unveils India Pharma and Healthcare Fund",
+        "summary": "Invesco Mutual Fund unveils India Pharma and Healthcare Fund",
+        "source": "BioSpectrum India Healthcare",
+        "sourceHost": "biospectrumindia.com",
         "region": "India",
         "country": "India",
-        "publishedAt": "2026-08-18T00:30:00.000Z",
+        "publishedAt": "2026-08-17T18:30:00.000Z",
         "publishedLabel": "August 18, 2026",
-        "category": "Market",
-        "image": "https://img.etimg.com/thumb/msid-133304233,width-1200,height-630,imgsize-156662,overlay-etmarkets/articleshow.jpg",
-        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
+        "category": "Industry Update",
+        "image": "https://www.biospectrumindia.com/uploads/articles/screenshot_18_8_2026_155055_www_bing_com-28332.jpeg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
         "justIn": false,
-        "originalUrl": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-airtel-paytm-spicejet-ongc-and-zee/articleshow/133303467.cms",
-        "articlePath": "/article.html?issue=2026-08-16&article=2026-08-16-stocks-in-news-airtel-paytm-spicejet-ongc-and-zee"
+        "originalUrl": "https://www.biospectrumindia.com/news/16/28332/invesco-mutual-fund-unveils-india-pharma-and-healthcare-fund.html",
+        "articlePath": "/article.html?issue=2026-08-16&article=2026-08-16-invesco-mutual-fund-unveils-india-pharma-and-healthcare-fund"
       }
     ],
     "providers": [
@@ -242,11 +243,11 @@
     },
     {
       "segment": "pharma",
-      "articleId": "2026-08-16-stocks-in-news-airtel-paytm-spicejet-ongc-and-zee",
-      "title": "Stocks in news: Airtel, Paytm, SpiceJet, ONGC and ZEE",
-      "source": "Lupin Updates",
-      "solution": "THB Commercial Analytics",
-      "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
+      "articleId": "2026-08-16-invesco-mutual-fund-unveils-india-pharma-and-healthcare-fund",
+      "title": "Invesco Mutual Fund unveils India Pharma and Healthcare Fund",
+      "source": "BioSpectrum India Healthcare",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
     },
     {
       "segment": "providers",
