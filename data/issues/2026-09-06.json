@@ -5,11 +5,11 @@
   "startDate": "2026-09-05T18:30:00.000Z",
   "endDate": "2026-09-11T18:30:00.000Z",
   "status": "live",
-  "updatedAt": "2026-09-12T08:44:36.350Z",
+  "updatedAt": "2026-09-12T16:26:52.577Z",
   "coverage": {
     "pharma": 49,
-    "providers": 7,
-    "diagnostics": 5,
+    "providers": 5,
+    "diagnostics": 3,
     "healthtech": 0
   },
   "sourcesUsed": [
@@ -17,7 +17,6 @@
     "ET Healthworld Diagnostics",
     "ET Healthworld Hospitals",
     "Economic Times Pharma",
-    "Express Healthcare",
     "Healthcare MEA",
     "Lupin Updates",
     "Medical Dialogues Pharma",
@@ -89,7 +88,7 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-133877181,imgsize-156448,width-1200,height=627,overlay-ethealth,resizemode-75/industry/tavi-adoption-grows-in-india-but-access-and-reimbursement-remain-key-hurdles.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/tavi-adoption-grows-in-india-but-access-and-reimbursement-remain-key-hurdles/133877181",
         "articlePath": "/article.html?issue=2026-09-06&article=2026-09-06-tavi-adoption-grows-in-india-but-access-and-reimbursement-remain-key-hur"
       },
@@ -225,7 +224,7 @@
         "category": "Launch",
         "image": "https://etimg.etb2bimg.com/thumb/msid-134101720,imgsize-19898,width-1200,height=627,overlay-ethealth,resizemode-75/policy/india-crosses-80-lakh-hpv-vaccinations-in-nationwide-cervical-cancer-prevention-drive.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/policy/india-crosses-80-lakh-hpv-vaccinations-in-nationwide-cervical-cancer-prevention-drive/134101720",
         "articlePath": "/article.html?issue=2026-09-06&article=2026-09-06-india-crosses-80-lakh-hpv-vaccinations-in-nationwide-cervical-cancer-pre"
       },
@@ -417,38 +416,21 @@
         "articlePath": "/article.html?issue=2026-09-06&article=2026-09-06-ai-must-move-beyond-pilots-to-prove-access-outcomes-and-cost-impact-in-h"
       },
       {
-        "id": "2026-09-06-when-regulations-misfire",
-        "title": "When regulations misfire",
-        "summary": "A recent amendment “instead of resolving industry concerns, has pushed manufacturers from the frying pan into the fire.”",
-        "source": "Express Healthcare",
-        "sourceHost": "expresshealthcare.in",
+        "id": "2026-09-06-astrazeneca-s-breast-cancer-drug-fails-in-late-stage-trial",
+        "title": "AstraZeneca's breast cancer drug fails in late-stage trial",
+        "summary": "AstraZeneca's breast cancer drug Etcamah did not meet its main goal in a late-stage trial. The drug showed only a numerical improvement when combined with palbociclib. This marks a setback for the recently approved treatment, which received accelerated...",
+        "source": "Economic Times Pharma",
+        "sourceHost": "economictimes.indiatimes.com",
         "region": "India",
         "country": "India",
-        "publishedAt": "2026-09-10T10:06:08.000Z",
-        "publishedLabel": "September 10, 2026",
+        "publishedAt": "2026-09-12T10:54:26.000Z",
+        "publishedLabel": "September 12, 2026",
         "category": "Industry Update",
-        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/09/10153304/EH_EditorsBlog_Sep_2026_750.jpg",
+        "image": "https://img.etimg.com/thumb/msid-134126190,width-1200,height-630,imgsize-118618,overlay-economictimes/articleshow.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://www.expresshealthcare.in/blogs/editors-blog/when-regulations-misfire/455098/",
-        "articlePath": "/article.html?issue=2026-09-06&article=2026-09-06-when-regulations-misfire"
-      },
-      {
-        "id": "2026-09-06-aimed-welcomes-100-government-funding-for-medical-device-testing-equipme",
-        "title": "AiMeD welcomes 100% government funding for medical device testing equipment",
-        "summary": "Association says funding for advanced testing infrastructure can support domestic manufacturing, reduce overseas testing dependence and help MSMEs and startups",
-        "source": "Express Healthcare",
-        "sourceHost": "expresshealthcare.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-09-10T08:37:18.000Z",
-        "publishedLabel": "September 10, 2026",
-        "category": "Manufacturing",
-        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2021/10/29141126/growth.jpg",
-        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": false,
-        "originalUrl": "https://www.expresshealthcare.in/news/aimed-welcomes-100-government-funding-for-medical-device-testing-equipment/455091/",
-        "articlePath": "/article.html?issue=2026-09-06&article=2026-09-06-aimed-welcomes-100-government-funding-for-medical-device-testing-equipme"
+        "justIn": true,
+        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/astrazenecas-breast-cancer-drug-fails-in-late-stage-trial/articleshow/134125851.cms",
+        "articlePath": "/article.html?issue=2026-09-06&article=2026-09-06-astrazeneca-s-breast-cancer-drug-fails-in-late-stage-trial"
       },
       {
         "id": "2026-09-06-shilpa-medicare-gets-cdsco-panel-nod-for-oeris-world-s-first-extended-re",
@@ -500,23 +482,6 @@
         "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/baddi-pharma-firm-loses-licence-after-1200-kg-unauthorised-tapentadol-seized-179031",
         "articlePath": "/article.html?issue=2026-09-06&article=2026-09-06-baddi-pharma-firm-loses-licence-after-1-200-kg-unauthorised-tapentadol-s"
-      },
-      {
-        "id": "2026-09-06-indian-pharma-market-grows-10-7-in-august-despite-volume-growth-losing-s",
-        "title": "Indian Pharma Market Grows 10.7% in August Despite Volume Growth Losing Steam",
-        "summary": "New Delhi: The Indian Pharmaceutical Market (IPM) grew 10.7% in value to reach Rs 23,272 crore in August 2026, even as volume growth moderated slightly from the levels recorded during the preceding...",
-        "source": "Medical Dialogues Pharma",
-        "sourceHost": "medicaldialogues.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-09-08T15:15:46.000Z",
-        "publishedLabel": "September 8, 2026",
-        "category": "Market",
-        "image": "https://medicaldialogues.in/h-upload/2024/05/15/238255-shares-50.jpg",
-        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": false,
-        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/indian-pharma-market-grows-107-in-august-despite-volume-growth-losing-steam-178903",
-        "articlePath": "/article.html?issue=2026-09-06&article=2026-09-06-indian-pharma-market-grows-10-7-in-august-despite-volume-growth-losing-s"
       },
       {
         "id": "2026-09-06-mbzuai-launches-25-year-deep-phenotyping-health-study-in-abu-dhabi-healt",
@@ -621,6 +586,40 @@
         "articlePath": "/article.html?issue=2026-09-06&article=2026-09-06-china-medical-system-launches-silevimig-injection-for-rabies-prevention-"
       },
       {
+        "id": "2026-09-06-glenmark-launches-ryaltris-nasal-spray-in-brazil-after-anvisa-approval",
+        "title": "Glenmark Launches Ryaltris Nasal Spray in Brazil After ANVISA Approval",
+        "summary": "New Delhi: Glenmark Pharmaceuticals on Friday said its wholly-owned subsidiary, Glenmark Specialty S.A., has launched Ryaltis nasal spray in Brazil.The launch follows regulatory approval from the...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-09-12T13:39:56.000Z",
+        "publishedLabel": "September 12, 2026",
+        "category": "Approval",
+        "image": "https://medicaldialogues.in/h-upload/2024/02/28/233261-glenmark-50.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/glenmark-launches-ryaltris-nasal-spray-in-brazil-after-anvisa-approval-179127",
+        "articlePath": "/article.html?issue=2026-09-06&article=2026-09-06-glenmark-launches-ryaltris-nasal-spray-in-brazil-after-anvisa-approval"
+      },
+      {
+        "id": "2026-09-06-gsk-to-shut-germany-vaccine-plant-in-2027-641-jobs-at-risk-amid-falling-",
+        "title": "GSK to Shut Germany Vaccine Plant in 2027, 641 Jobs at Risk Amid Falling Flu Vaccine Demand",
+        "summary": "Bengaluru: GSK said on Friday it will be shutting ​down a vaccine factory in Dresden, Germany, in the summer of 2027, citing decreasing demand for traditional egg-based flu vaccines.The closure would...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-09-12T13:10:48.000Z",
+        "publishedLabel": "September 12, 2026",
+        "category": "Industry Update",
+        "image": "https://medicaldialogues.in/h-upload/2025/07/15/294626-gsk-new-50.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/gsk-to-shut-germany-vaccine-plant-in-2027-641-jobs-at-risk-amid-falling-flu-vaccine-demand-179122",
+        "articlePath": "/article.html?issue=2026-09-06&article=2026-09-06-gsk-to-shut-germany-vaccine-plant-in-2027-641-jobs-at-risk-amid-falling-"
+      },
+      {
         "id": "2026-09-06-us-hhs-names-davis-mikhail-permanent-heads-of-usfda-drug-biologics-cente",
         "title": "US HHS Names Davis, Mikhail Permanent Heads of USFDA Drug, Biologics Centers",
         "summary": "Bengaluru: The US health ​department on Tuesday appointed the ​acting heads of the FDA's drug and biologics review ​centers to permanent roles, formalizing leadership at the two key units responsible...",
@@ -655,23 +654,6 @@
         "articlePath": "/article.html?issue=2026-09-06&article=2026-09-06-codeine-cough-syrup-is-not-narcotic-only-when-sold-for-medicinal-use-all"
       },
       {
-        "id": "2026-09-06-sun-pharma-gets-investment-grade-ratings-from-moody-s-s-and-p-for-usd-11",
-        "title": "Sun Pharma Gets Investment-Grade Ratings From Moody's, S&P for USD 11.75 Bn Organon Deal",
-        "summary": "New Delhi: Rating agencies Moody's and S&P assigned investment-grade ratings to Sun Pharmaceutical Industries -- India's largest pharmaceutical company -- over the proposed USD 11.75-billion...",
-        "source": "Medical Dialogues Pharma",
-        "sourceHost": "medicaldialogues.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-09-09T05:45:17.000Z",
-        "publishedLabel": "September 9, 2026",
-        "category": "Deal",
-        "image": "https://medicaldialogues.in/h-upload/2024/01/16/230297-sun-pharma-new-50.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/sun-pharma-gets-investment-grade-ratings-from-moodys-sp-for-usd-1175-bn-organon-deal-178964",
-        "articlePath": "/article.html?issue=2026-09-06&article=2026-09-06-sun-pharma-gets-investment-grade-ratings-from-moody-s-s-and-p-for-usd-11"
-      },
-      {
         "id": "2026-09-06-stocks-in-news-tata-motors-rvnl-eicher-motors-mazagon-dock-and-lupin",
         "title": "Stocks in news: Tata Motors, RVNL, Eicher Motors, Mazagon Dock and Lupin",
         "summary": "Indian equity markets experienced volatility, with the Nifty 50 extending its losing streak for four weeks. Escalating US-Iran hostilities pushed crude oil prices higher, impacting overall market sentiment. Several companies, including Tata Motors and Rail...",
@@ -687,6 +669,23 @@
         "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-tata-motors-rvnl-eicher-motors-mazagon-dock-and-lupin/articleshow/133844968.cms",
         "articlePath": "/article.html?issue=2026-09-06&article=2026-09-06-stocks-in-news-tata-motors-rvnl-eicher-motors-mazagon-dock-and-lupin"
+      },
+      {
+        "id": "2026-09-06-astrazeneca-s-breast-cancer-drug-camizestrant-fails-main-goal-in-late-st",
+        "title": "AstraZeneca's Breast Cancer Drug Camizestrant Fails Main Goal in Late-Stage Trial",
+        "summary": "Bengaluru: AstraZeneca's breast cancer pill failed to meet the main goal of improving progression-free survival in a late-stage trial, the company said on Friday, a week after the treatment received...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-09-12T13:00:10.000Z",
+        "publishedLabel": "September 12, 2026",
+        "category": "Industry Update",
+        "image": "https://medicaldialogues.in/h-upload/2023/01/10/197354-astrazeneca-2.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/astrazenecas-breast-cancer-drug-camizestrant-fails-main-goal-in-late-stage-trial-179121",
+        "articlePath": "/article.html?issue=2026-09-06&article=2026-09-06-astrazeneca-s-breast-cancer-drug-camizestrant-fails-main-goal-in-late-st"
       },
       {
         "id": "2026-09-06-natco-pharma-to-raise-up-to-rs-1-300-cr-through-rights-issue-revise-deme",
@@ -740,23 +739,6 @@
         "articlePath": "/article.html?issue=2026-09-06&article=2026-09-06-siemens-healthineers-completes-us-43-6m-pet-detector-center-expansion-in"
       },
       {
-        "id": "2026-09-06-maharashtra-fda-cancels-skyline-impex-licences-after-alleged-spurious-pe",
-        "title": "Maharashtra FDA Cancels Skyline Impex Licences After Alleged Spurious Peptide Export",
-        "summary": "New Delhi: The Maharashtra Food and Drug Administration (FDA) has cancelled the wholesale drug licences of Nagpur-based Skyline Impex and registered an FIR against its partners, an alleged supplier, a...",
-        "source": "Medical Dialogues Pharma",
-        "sourceHost": "medicaldialogues.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-09-09T19:56:42.000Z",
-        "publishedLabel": "September 10, 2026",
-        "category": "Industry Update",
-        "image": "https://medicaldialogues.in/h-upload/2026/01/07/319772-weight-loss-drug.jpg",
-        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": false,
-        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/maharashtra-fda-cancels-skyline-impex-licences-after-alleged-spurious-peptide-export-178961",
-        "articlePath": "/article.html?issue=2026-09-06&article=2026-09-06-maharashtra-fda-cancels-skyline-impex-licences-after-alleged-spurious-pe"
-      },
-      {
         "id": "2026-09-06-sun-pharma-incorporates-treasury-subsidiary-at-gift-city-s-ifsc-invests-",
         "title": "Sun Pharma Incorporates Treasury Subsidiary at GIFT City's IFSC, Invests Rs 9.5 Cr",
         "summary": "New Delhi: Drug major Sun Pharmaceutical Industries Ltd on Wednesday announced the incorporation of a wholly-owned indirect subsidiary, Sun Pharma Global Treasury Centre IFSC Ltd, in Gujarat's GIFT...",
@@ -772,6 +754,23 @@
         "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/sun-pharma-incorporates-treasury-subsidiary-at-gift-citys-ifsc-invests-rs-95-cr-179028",
         "articlePath": "/article.html?issue=2026-09-06&article=2026-09-06-sun-pharma-incorporates-treasury-subsidiary-at-gift-city-s-ifsc-invests-"
+      },
+      {
+        "id": "2026-09-06-dtab-panel-recommends-continuing-doorstep-medicine-delivery-amid-e-pharm",
+        "title": "DTAB Panel Recommends Continuing Doorstep Medicine Delivery Amid E-Pharmacy Concerns",
+        "summary": "New Delhi: The Centre is likely to continue allowing pharmacies to deliver certain medicines directly to patients' homes through both offline and online channels. A sub-committee constituted under...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-09-12T14:26:23.000Z",
+        "publishedLabel": "September 12, 2026",
+        "category": "Industry Update",
+        "image": "https://medicaldialogues.in/h-upload/2023/03/20/205521-e-pharmacy-new-1.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/dtab-panel-recommends-continuing-doorstep-medicine-delivery-amid-e-pharmacy-concerns-179132",
+        "articlePath": "/article.html?issue=2026-09-06&article=2026-09-06-dtab-panel-recommends-continuing-doorstep-medicine-delivery-amid-e-pharm"
       },
       {
         "id": "2026-09-06-sc-warns-against-unsubstantiated-vaccine-claims-hpv-vaccination-pil-with",
@@ -808,6 +807,23 @@
         "articlePath": "/article.html?issue=2026-09-06&article=2026-09-06-global-mercy-begins-10-month-field-service-in-ghana-to-address-surgical-"
       },
       {
+        "id": "2026-09-06-alembic-pharma-s-vadodara-bioequivalence-facility-clears-usfda-inspectio",
+        "title": "Alembic Pharma's Vadodara Bioequivalence Facility Clears USFDA Inspection With Zero Observations",
+        "summary": "New Delhi: Alembic Pharmaceuticals on Friday said the US health regulator has completed an unannounced inspection at its bioequivalence facility in Vadodara, Gujarat, with zero observation.In a...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-09-12T13:19:57.000Z",
+        "publishedLabel": "September 12, 2026",
+        "category": "Industry Update",
+        "image": "https://medicaldialogues.in/h-upload/2023/01/10/197274-alembic-pharma-4.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/alembic-pharmas-vadodara-bioequivalence-facility-clears-usfda-inspection-with-zero-observations-179123",
+        "articlePath": "/article.html?issue=2026-09-06&article=2026-09-06-alembic-pharma-s-vadodara-bioequivalence-facility-clears-usfda-inspectio"
+      },
+      {
         "id": "2026-09-06-vestergaard-launches-health-textiles-nigeria-fze-to-produce-dual-active-",
         "title": "Vestergaard launches Health Textiles Nigeria FZE to produce dual-active mosquito nets | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
         "summary": "The facility is expected to produce 10 million nets annually at full capacity and create more than 600 jobs.",
@@ -837,26 +853,9 @@
         "category": "Manufacturing",
         "image": "https://media.zawya.com/prod/images/gm_preview/da9651b9c2b3-holcim-m-a-adani-group.webp",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.zawya.com/en/business/mining/ihc-adani-enter-deals-with-indias-odisha-state-for-22bln-projects-558880",
         "articlePath": "/article.html?issue=2026-09-06&article=2026-09-06-ihc-adani-enter-deals-with-india-s-odisha-state-for-22bln-projects"
-      },
-      {
-        "id": "2026-09-06-assam-drug-inspector-couple-dismissed-from-service-in-bribery-disproport",
-        "title": "Assam Drug Inspector Couple Dismissed From Service in Bribery, Disproportionate Assets Cases",
-        "summary": "Assam: A husband-wife duo working as drug inspectors in Assam has been dismissed from government service following separate corruption-related cases involving bribery and alleged possession of...",
-        "source": "Medical Dialogues Pharma",
-        "sourceHost": "medicaldialogues.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-09-09T06:15:06.000Z",
-        "publishedLabel": "September 9, 2026",
-        "category": "Industry Update",
-        "image": "https://medicaldialogues.in/h-upload/2026/07/09/358642-bribe.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/assam-drug-inspector-couple-dismissed-from-service-in-bribery-disproportionate-assets-cases-178965",
-        "articlePath": "/article.html?issue=2026-09-06&article=2026-09-06-assam-drug-inspector-couple-dismissed-from-service-in-bribery-disproport"
       }
     ],
     "providers": [
@@ -895,23 +894,6 @@
         "articlePath": "/article.html?issue=2026-09-06&article=2026-09-06-park-medi-world-incorporates-subsidiary-to-set-up-550-bed-hospital-in-pr"
       },
       {
-        "id": "2026-09-06-the-evolving-role-of-private-equity-in-strengthening-mid-market-healthca",
-        "title": "The evolving role of private equity in strengthening mid-market healthcare infrastructure while balancing impact and returns",
-        "summary": "The end objective of any investment is economic gain. Other benefits like impact, sustainability, ESG compliance etc., are value additions. The extent of economic gain expectation can differ depending on the thesis of the investor. Unlike the past, investors...",
-        "source": "Express Healthcare",
-        "sourceHost": "expresshealthcare.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-09-10T10:16:02.000Z",
-        "publishedLabel": "September 10, 2026",
-        "category": "AI Care Delivery",
-        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/09/10154512/Ramesh-Kannan-Partner-Somerset-Indus-Healthcare-Fund.jpg",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://www.expresshealthcare.in/news/the-evolving-role-of-private-equity-in-strengthening-mid-market-healthcare-infrastructure-while-balancing-impact-and-returns/455103/",
-        "articlePath": "/article.html?issue=2026-09-06&article=2026-09-06-the-evolving-role-of-private-equity-in-strengthening-mid-market-healthca"
-      },
-      {
         "id": "2026-09-06-purehealth-takes-over-lab-network-across-united-kingdom",
         "title": "PureHealth takes over lab network across United Kingdom",
         "summary": "PureHealth takes over Unilabs Limited’s existing UK laboratory operations and infrastructure, enhancing its Platform Ecosystem",
@@ -924,26 +906,9 @@
         "category": "Provider Update",
         "image": "https://media.zawya.com/prod/images/gm_preview/21ce283576c3-purehealth-2.png",
         "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.zawya.com/en/press-release/companies-news/purehealth-takes-over-lab-network-across-united-kingdom-559380",
         "articlePath": "/article.html?issue=2026-09-06&article=2026-09-06-purehealth-takes-over-lab-network-across-united-kingdom"
-      },
-      {
-        "id": "2026-09-06-uae-to-invest-46-48bln-in-germany-amid-slew-of-business-deals",
-        "title": "UAE to invest $46.48bln in Germany amid slew of business deals",
-        "summary": "UAE, German companies sign deals exceeding $11bln",
-        "source": "Zawya Pharmaceuticals",
-        "sourceHost": "zawya.com",
-        "region": "Middle East",
-        "country": "United Arab Emirates",
-        "publishedAt": "2026-09-11T03:08:41.923Z",
-        "publishedLabel": "September 11, 2026",
-        "category": "Provider Update",
-        "image": "https://media.zawya.com/prod/images/gm_preview/951644ab44cd-2026-09-11t004957z1807581060rc2egnaqaf0yrtrmadp3germany-emirates.jpg",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
-        "originalUrl": "https://www.zawya.com/en/economy/uk-and-europe/uae-to-invest-46.48bln-in-germany-amid-slew-of-business-deals-558898",
-        "articlePath": "/article.html?issue=2026-09-06&article=2026-09-06-uae-to-invest-46-48bln-in-germany-amid-slew-of-business-deals"
       },
       {
         "id": "2026-09-06-apex-industrial-services-acquires-majority-stake-in-advanced-technical-s",
@@ -997,40 +962,6 @@
         "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/diagnostics/molbio-diagnostics-shares-rally-30-in-2-days-jump-80-since-debut-what-lies-ahead/134039061",
         "articlePath": "/article.html?issue=2026-09-06&article=2026-09-06-molbio-diagnostics-shares-rally-30-in-2-days-jump-80-since-debut-what-li"
-      },
-      {
-        "id": "2026-09-06-ai-enabled-medtech-the-next-leap",
-        "title": "AI – Enabled medtech: The next leap",
-        "summary": "AI is taking medical devices beyond data capture, enabling them to interpret, predict and support clinical decisions. The shift could reshape how healthcare is delivered across India",
-        "source": "Express Healthcare",
-        "sourceHost": "expresshealthcare.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-09-11T05:35:37.000Z",
-        "publishedLabel": "September 11, 2026",
-        "category": "Industry Update",
-        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/09/11110043/EH_DigitalIssue_CS_September_2026_Ft_Image_750.jpg",
-        "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
-        "justIn": false,
-        "originalUrl": "https://www.expresshealthcare.in/news/ai-enabled-medtech-the-next-leap/455108/",
-        "articlePath": "/article.html?issue=2026-09-06&article=2026-09-06-ai-enabled-medtech-the-next-leap"
-      },
-      {
-        "id": "2026-09-06-aksigen-ivf-launches-5-000-sq-ft-fertility-centre-in-panvel",
-        "title": "Aksigen IVF launches 5,000 sq ft fertility centre in Panvel",
-        "summary": "New centre offers fertility consultations, diagnostics, advanced embryology, assisted reproductive technologies and patient education across Navi Mumbai and Raigad",
-        "source": "Express Healthcare",
-        "sourceHost": "expresshealthcare.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-09-12T05:12:29.000Z",
-        "publishedLabel": "September 12, 2026",
-        "category": "Diagnostics",
-        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/09/12104138/EH_IVF_750.jpg",
-        "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
-        "justIn": true,
-        "originalUrl": "https://www.expresshealthcare.in/news/aksigen-ivf-launches-5000-sq-ft-fertility-centre-in-panvel/455119/",
-        "articlePath": "/article.html?issue=2026-09-06&article=2026-09-06-aksigen-ivf-launches-5-000-sq-ft-fertility-centre-in-panvel"
       },
       {
         "id": "2026-09-06-kerala-shifts-kmscl-medicine-quality-testing-to-drugs-control-department",
@@ -1128,14 +1059,6 @@
     },
     {
       "segment": "providers",
-      "articleId": "2026-09-06-the-evolving-role-of-private-equity-in-strengthening-mid-market-healthca",
-      "title": "The evolving role of private equity in strengthening mid-market healthcare infrastructure while balancing impact and returns",
-      "source": "Express Healthcare",
-      "solution": "THB Provider CRM",
-      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
-    },
-    {
-      "segment": "providers",
       "articleId": "2026-09-06-purehealth-takes-over-lab-network-across-united-kingdom",
       "title": "PureHealth takes over lab network across United Kingdom",
       "source": "Zawya Pharmaceuticals",
@@ -1144,8 +1067,16 @@
     },
     {
       "segment": "providers",
-      "articleId": "2026-09-06-uae-to-invest-46-48bln-in-germany-amid-slew-of-business-deals",
-      "title": "UAE to invest $46.48bln in Germany amid slew of business deals",
+      "articleId": "2026-09-06-apex-industrial-services-acquires-majority-stake-in-advanced-technical-s",
+      "title": "Apex Industrial Services acquires majority stake in Advanced Technical Solutions",
+      "source": "Zawya Pharmaceuticals",
+      "solution": "THB Provider CRM",
+      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
+    },
+    {
+      "segment": "providers",
+      "articleId": "2026-09-06-jazeera-airways-operates-inaugural-flight-to-addis-ababa",
+      "title": "Jazeera Airways operates inaugural flight to Addis Ababa",
       "source": "Zawya Pharmaceuticals",
       "solution": "THB Provider CRM",
       "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
@@ -1155,22 +1086,6 @@
       "articleId": "2026-09-06-molbio-diagnostics-shares-rally-30-in-2-days-jump-80-since-debut-what-li",
       "title": "Molbio Diagnostics shares rally 30% in 2 days, jump 80% since debut. What lies ahead?",
       "source": "ET Healthworld Diagnostics",
-      "solution": "THB Diagnostics CRM",
-      "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
-    },
-    {
-      "segment": "diagnostics",
-      "articleId": "2026-09-06-ai-enabled-medtech-the-next-leap",
-      "title": "AI – Enabled medtech: The next leap",
-      "source": "Express Healthcare",
-      "solution": "THB Diagnostics CRM",
-      "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
-    },
-    {
-      "segment": "diagnostics",
-      "articleId": "2026-09-06-aksigen-ivf-launches-5-000-sq-ft-fertility-centre-in-panvel",
-      "title": "Aksigen IVF launches 5,000 sq ft fertility centre in Panvel",
-      "source": "Express Healthcare",
       "solution": "THB Diagnostics CRM",
       "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
     },
