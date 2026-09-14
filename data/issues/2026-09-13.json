@@ -5,17 +5,20 @@
   "startDate": "2026-09-12T18:30:00.000Z",
   "endDate": "2026-09-18T18:30:00.000Z",
   "status": "live",
-  "updatedAt": "2026-09-14T10:02:44.705Z",
+  "updatedAt": "2026-09-14T18:49:34.491Z",
   "coverage": {
-    "pharma": 16,
-    "providers": 2,
-    "diagnostics": 0,
+    "pharma": 20,
+    "providers": 4,
+    "diagnostics": 1,
     "healthtech": 0
   },
   "sourcesUsed": [
     "ET Healthworld",
+    "ET Healthworld Hospitals",
+    "Economic Times Pharma",
     "Healthcare MEA",
-    "Medical Dialogues Pharma"
+    "Medical Dialogues Pharma",
+    "Zawya Pharmaceuticals"
   ],
   "segments": {
     "pharma": [
@@ -32,9 +35,43 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-134234665,imgsize-72321,width-1200,height=627,overlay-ethealth,resizemode-75/industry/who-south-east-asia-region-commits-to-stronger-action-to-end-tuberculosis.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/who-south-east-asia-region-commits-to-stronger-action-to-end-tuberculosis/134234665",
         "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-who-south-east-asia-region-commits-to-stronger-action-to-end-tuberculosi"
+      },
+      {
+        "id": "2026-09-13-potential-new-tb-vaccines-could-save-millions-of-lives-gavi",
+        "title": "Potential new TB vaccines could save millions of lives: Gavi",
+        "summary": "New TB jabs in the pipeline have the potential of becoming the \"next blockbuster immunisation tool\", said Sania Nishtar, head of the Gavi global vaccine alliance.",
+        "source": "ET Healthworld",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-09-14T12:43:44.000Z",
+        "publishedLabel": "September 14, 2026",
+        "category": "Industry Update",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-134241514,imgsize-94997,width-1200,height=627,overlay-ethealth,resizemode-75/industry/potential-new-tb-vaccines-could-save-millions-of-lives-gavi.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/potential-new-tb-vaccines-could-save-millions-of-lives-gavi/134241514",
+        "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-potential-new-tb-vaccines-could-save-millions-of-lives-gavi"
+      },
+      {
+        "id": "2026-09-13-new-tb-vaccines-expected-from-2029-could-prevent-7-3-million-deaths-by-2",
+        "title": "New TB vaccines expected from 2029 could prevent 7.3 million deaths by 2050, Gavi says",
+        "summary": "By 2029, new tuberculosis vaccines are expected to save more than seven million lives, emerging as a crucial element for global health improvement. Ensuring a steady supply for the countries most affected by the disease is essential. Additionally, these...",
+        "source": "Economic Times Pharma",
+        "sourceHost": "economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-09-14T12:28:43.000Z",
+        "publishedLabel": "September 14, 2026",
+        "category": "Industry Update",
+        "image": "https://img.etimg.com/thumb/msid-134241306,width-1200,height-630,imgsize-63980,overlay-economictimes/articleshow.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/new-tb-vaccines-expected-from-2029-could-prevent-7-3-million-deaths-by-2050-gavi-says/articleshow/134241264.cms",
+        "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-new-tb-vaccines-expected-from-2029-could-prevent-7-3-million-deaths-by-2"
       },
       {
         "id": "2026-09-13-india-may-get-own-dengue-vax-by-next-year-end-icmr-dg",
@@ -49,7 +86,7 @@
         "category": "Clinical Trial",
         "image": "https://etimg.etb2bimg.com/thumb/msid-134234375,imgsize-44720,width-1200,height=627,overlay-ethealth,resizemode-75/industry/india-may-get-own-dengue-vax-by-next-year-end-icmr-dg.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/india-may-get-own-dengue-vax-by-next-year-end-icmr-dg/134234375",
         "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-india-may-get-own-dengue-vax-by-next-year-end-icmr-dg"
       },
@@ -66,26 +103,9 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-134230469,imgsize-114932,width-1200,height=627,overlay-ethealth,resizemode-75/industry/no-vaccine-autism-link-finds-who-review.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/no-vaccine-autism-link-finds-who-review/134230469",
         "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-no-vaccine-autism-link-finds-who-review"
-      },
-      {
-        "id": "2026-09-13-leaders-of-brics-countries-call-for-stronger-cooperation-in-health-endor",
-        "title": "Leaders of BRICS countries call for stronger cooperation in health, endorse initiatives on TB",
-        "summary": "In the New Delhi Delhi Declaration after their meeting, the leaders said they reaffirmed their commitment to advancing universal health coverage through \"resilient, inclusive and people-centred approaches\".",
-        "source": "ET Healthworld",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-09-13T04:09:27.000Z",
-        "publishedLabel": "September 13, 2026",
-        "category": "Industry Update",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-134177013,imgsize-1779506,width-1200,height=627,overlay-ethealth,resizemode-75/policy/leaders-of-brics-countries-call-for-stronger-cooperation-in-health-endorse-initiatives-on-tb.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/policy/leaders-of-brics-countries-call-for-stronger-cooperation-in-health-endorse-initiatives-on-tb/134177013",
-        "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-leaders-of-brics-countries-call-for-stronger-cooperation-in-health-endor"
       },
       {
         "id": "2026-09-13-study-links-adhd-with-50-increase-in-gastrointestinal-symptoms",
@@ -100,7 +120,7 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-134230481,imgsize-85050,width-1200,height=627,overlay-ethealth,resizemode-75/industry/study-links-adhd-with-50-increase-in-gastrointestinal-symptoms.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/study-links-adhd-with-50-increase-in-gastrointestinal-symptoms/134230481",
         "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-study-links-adhd-with-50-increase-in-gastrointestinal-symptoms"
       },
@@ -117,7 +137,7 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-134230395,imgsize-156562,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/manipal-hospitals-scouts-for-acquisitions-in-andhra-keralam-delhi-ncr-bets-on-ai-led-healthcare.jpg",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/manipal-hospitals-scouts-for-acquisitions-in-andhra-keralam-delhi-ncr-bets-on-ai-led-healthcare/134230395",
         "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-manipal-hospitals-scouts-for-acquisitions-in-andhra-keralam-delhi-ncr-be"
       },
@@ -134,9 +154,26 @@
         "category": "Manufacturing",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/09/SiemensHealthineers_PressRelease_VUZE_p1.png",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/09/13/abec-to-open-new-biopharmaceutical-manufacturing-facility-in-north-carolina/",
         "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-abec-to-open-new-biopharmaceutical-manufacturing-facility-in-north-carol"
+      },
+      {
+        "id": "2026-09-13-scholar-rock-wins-first-usfda-approval-for-isembyld-to-treat-spinal-musc",
+        "title": "Scholar Rock Wins First USFDA Approval for Isembyld to Treat Spinal Muscular Atrophy",
+        "summary": "Bengaluru: The U.S. Food and Drug Administration approved Scholar Rock's therapy on Friday to treat a rare genetic condition that causes muscle weakness, marking the first regulatory approval for the...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-09-14T14:44:18.000Z",
+        "publishedLabel": "September 14, 2026",
+        "category": "Approval",
+        "image": "https://medicaldialogues.in/h-upload/2024/02/09/231897-usfda-50.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/scholar-rock-wins-first-usfda-approval-for-isembyld-to-treat-spinal-muscular-atrophy-179230",
+        "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-scholar-rock-wins-first-usfda-approval-for-isembyld-to-treat-spinal-musc"
       },
       {
         "id": "2026-09-13-exegenesis-bio-licenses-emc181-capsid-to-modalis-therapeutics-for-dmd-ge",
@@ -151,9 +188,26 @@
         "category": "Manufacturing",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/09/image-1600x900-2026-09-14T103543.335.png",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/09/14/exegenesis-bio-licenses-emc181-capsid-to-modalis-therapeutics-for-dmd-gene-therapy/",
         "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-exegenesis-bio-licenses-emc181-capsid-to-modalis-therapeutics-for-dmd-ge"
+      },
+      {
+        "id": "2026-09-13-indian-patent-office-issues-draft-pharma-patent-examination-guidelines-s",
+        "title": "Indian Patent Office Issues Draft Pharma Patent Examination Guidelines, Seeks Greater Consistency in...",
+        "summary": "New Delhi: The Indian Patent Office (IPO) has proposed updating guidelines for examination of pharmaceutical patent applications to improve the quality, consistency and uniformity of scrutiny, taking...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-09-14T14:56:14.000Z",
+        "publishedLabel": "September 14, 2026",
+        "category": "Industry Update",
+        "image": "https://medicaldialogues.in/h-upload/2020/05/12/128639-patented.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/indian-patent-office-issues-draft-pharma-patent-examination-guidelines-seeks-greater-consistency-in-scrutiny-179231",
+        "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-indian-patent-office-issues-draft-pharma-patent-examination-guidelines-s"
       },
       {
         "id": "2026-09-13-sun-pharma-gets-cdsco-panel-nod-for-phase-iv-sovateltide-trial",
@@ -168,9 +222,26 @@
         "category": "Industry Update",
         "image": "https://medicaldialogues.in/h-upload/2024/06/04/240154-sun-pharma-new-50-1.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/sun-pharma-gets-cdsco-panel-recommendation-for-phase-iv-sovateltide-trial-179164",
         "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-sun-pharma-gets-cdsco-panel-nod-for-phase-iv-sovateltide-trial"
+      },
+      {
+        "id": "2026-09-13-siemens-healthineers-opens-us-116m-photon-counting-sensor-plant-in-germa",
+        "title": "Siemens Healthineers opens US$116M photon-counting sensor plant in Germany | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
+        "summary": "The Photon Counting Sensor Fab is the only facility of its kind in Europe and will produce semiconductor sensors used in advanced X-ray imaging.",
+        "source": "Healthcare MEA",
+        "sourceHost": "healthcaremea.com",
+        "region": "Middle East",
+        "country": "Middle East",
+        "publishedAt": "2026-09-14T08:52:00.000Z",
+        "publishedLabel": "September 14, 2026",
+        "category": "Manufacturing",
+        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/09/image-1600x900-2026-09-14T085139.644.png",
+        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
+        "justIn": true,
+        "originalUrl": "https://www.healthcaremea.com/2026/09/14/siemens-healthineers-opens-us116m-photon-counting-sensor-plant-in-germany/",
+        "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-siemens-healthineers-opens-us-116m-photon-counting-sensor-plant-in-germa"
       },
       {
         "id": "2026-09-13-who-prequalifies-multi-dose-maternal-rsv-vaccine-to-expand-infant-protec",
@@ -185,7 +256,7 @@
         "category": "Manufacturing",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/09/image-1600x900-2026-09-14T091147.191.png",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/09/14/who-prequalifies-multi-dose-maternal-rsv-vaccine-to-expand-infant-protection/",
         "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-who-prequalifies-multi-dose-maternal-rsv-vaccine-to-expand-infant-protec"
       },
@@ -202,7 +273,7 @@
         "category": "Clinical Trial",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/09/image-1600x900-2026-09-13T113712.077.png",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/09/13/zambia-receives-first-us-funded-lenacapavir-shipment-for-hiv-prevention/",
         "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-zambia-receives-first-us-funded-lenacapavir-shipment-for-hiv-prevention-"
       },
@@ -219,7 +290,7 @@
         "category": "Manufacturing",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/09/image-1600x900-2026-09-14T101037.783.png",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/09/14/argonaut-manufacturing-services-sells-lsdx-division-to-1315-capital/",
         "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-argonaut-manufacturing-services-sells-lsdx-division-to-1315-capital-heal"
       },
@@ -253,7 +324,7 @@
         "category": "Industry Update",
         "image": "https://medicaldialogues.in/h-upload/2022/11/14/190765-strides-new.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/strides-pharma-gets-three-usfda-observations-following-alathur-facility-inspection-179165",
         "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-strides-pharma-gets-three-usfda-observations-following-alathur-facility-"
       },
@@ -270,7 +341,7 @@
         "category": "Manufacturing",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/09/image-1600x900-2026-09-13T124055.307.png",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/09/13/nafdac-enlists-600-pharmacists-for-national-regulatory-volunteer-programme/",
         "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-nafdac-enlists-600-pharmacists-for-national-regulatory-volunteer-program"
       },
@@ -294,6 +365,23 @@
     ],
     "providers": [
       {
+        "id": "2026-09-13-marengo-asia-hospitals-raises-400-crore-from-leapfrog-investments-to-dou",
+        "title": "Marengo Asia Hospitals raises ₹400 crore from LeapFrog Investments to double bed capacity",
+        "summary": "Marengo operates five hospitals in India and has a strategic partnership in Saudi Arabia. It has a capacity of 2,000 beds and operates facilities across the National Capital Region, Gujarat and Rajasthan. Its revenues are said to be in the ₹1,000-1,200 crore...",
+        "source": "ET Healthworld Hospitals",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-09-13T04:07:44.000Z",
+        "publishedLabel": "September 13, 2026",
+        "category": "Hospital",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-134176803,imgsize-90640,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/marengo-asia-hospitals-raises-rs-400-crore-from-leapfrog-investments-to-double-bed-capacity.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": true,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/marengo-asia-hospitals-raises-rs-400-crore-from-leapfrog-investments-to-double-bed-capacity/134176803",
+        "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-marengo-asia-hospitals-raises-400-crore-from-leapfrog-investments-to-dou"
+      },
+      {
         "id": "2026-09-13-lions-sightfirst-eye-hospital-opens-new-facility-in-kisumu-healthcare-mi",
         "title": "Lions SightFirst Eye Hospital opens new facility in Kisumu | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
         "summary": "The investment, which is approaching KSh 1 billion (US$7.7 million), is expected to reduce the distance patients travel to access specialist ophthalmic services.",
@@ -306,7 +394,7 @@
         "category": "Hospital",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/09/image-1600x900-2026-09-14T095829.601.png",
         "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/09/14/lions-sightfirst-eye-hospital-opens-new-facility-in-kisumu/",
         "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-lions-sightfirst-eye-hospital-opens-new-facility-in-kisumu-healthcare-mi"
       },
@@ -326,9 +414,44 @@
         "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/pharmacy-manager-booked-over-alleged-diversion-of-rs-142-lakh-in-patient-medicine-payments-179135",
         "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-pharmacy-manager-booked-over-alleged-diversion-of-rs-1-42-lakh-in-patien"
+      },
+      {
+        "id": "2026-09-13-uae-mongolia-partner-on-clean-energy-green-hydrogen",
+        "title": "UAE, Mongolia partner on clean energy, green hydrogen",
+        "summary": "Both sides will establish a joint working group to identify priority areas, assess the feasibility of proposed projects and oversee their development",
+        "source": "Zawya Pharmaceuticals",
+        "sourceHost": "zawya.com",
+        "region": "Middle East",
+        "country": "United Arab Emirates",
+        "publishedAt": "2026-09-14T05:42:45.015Z",
+        "publishedLabel": "September 14, 2026",
+        "category": "Provider Update",
+        "image": "https://assets.zawya.com/prod/assets/arrow-down-fill.d30923dc.svg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": true,
+        "originalUrl": "https://www.zawya.com/en/special-coverage/utilities/uae-mongolia-partner-on-clean-energy-green-hydrogen-561238",
+        "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-uae-mongolia-partner-on-clean-energy-green-hydrogen"
       }
     ],
-    "diagnostics": [],
+    "diagnostics": [
+      {
+        "id": "2026-09-13-imported-dialysis-solution-fails-endotoxin-test-ingredient-labelling-iss",
+        "title": "Imported Dialysis Solution Fails Endotoxin Test, Ingredient, Labelling Issues Flagged",
+        "summary": "New Delhi: A government laboratory in Himachal Pradesh has classified two batches of an imported peritoneal dialysis solution as Not of Standard Quality after samples failed the bacterial endotoxin...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-09-14T14:45:52.000Z",
+        "publishedLabel": "September 14, 2026",
+        "category": "Lab Network",
+        "image": "https://medicaldialogues.in/h-upload/2024/09/19/253384-not-of-standard-quality.jpg",
+        "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
+        "justIn": false,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/imported-dialysis-solution-fails-endotoxin-test-ingredient-labelling-issues-flagged-179239",
+        "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-imported-dialysis-solution-fails-endotoxin-test-ingredient-labelling-iss"
+      }
+    ],
     "healthtech": []
   },
   "thbActions": [
@@ -337,6 +460,22 @@
       "articleId": "2026-09-13-who-south-east-asia-region-commits-to-stronger-action-to-end-tuberculosi",
       "title": "WHO South-East Asia Region commits to stronger action to end Tuberculosis",
       "source": "ET Healthworld",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "pharma",
+      "articleId": "2026-09-13-potential-new-tb-vaccines-could-save-millions-of-lives-gavi",
+      "title": "Potential new TB vaccines could save millions of lives: Gavi",
+      "source": "ET Healthworld",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "pharma",
+      "articleId": "2026-09-13-new-tb-vaccines-expected-from-2029-could-prevent-7-3-million-deaths-by-2",
+      "title": "New TB vaccines expected from 2029 could prevent 7.3 million deaths by 2050, Gavi says",
+      "source": "Economic Times Pharma",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
     },
@@ -357,20 +496,12 @@
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
     },
     {
-      "segment": "pharma",
-      "articleId": "2026-09-13-leaders-of-brics-countries-call-for-stronger-cooperation-in-health-endor",
-      "title": "Leaders of BRICS countries call for stronger cooperation in health, endorse initiatives on TB",
-      "source": "ET Healthworld",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
-      "segment": "pharma",
-      "articleId": "2026-09-13-study-links-adhd-with-50-increase-in-gastrointestinal-symptoms",
-      "title": "Study links ADHD with 50% increase in gastrointestinal symptoms",
-      "source": "ET Healthworld",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+      "segment": "providers",
+      "articleId": "2026-09-13-marengo-asia-hospitals-raises-400-crore-from-leapfrog-investments-to-dou",
+      "title": "Marengo Asia Hospitals raises ₹400 crore from LeapFrog Investments to double bed capacity",
+      "source": "ET Healthworld Hospitals",
+      "solution": "THB Provider CRM",
+      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
     },
     {
       "segment": "providers",
@@ -387,6 +518,22 @@
       "source": "Medical Dialogues Pharma",
       "solution": "THB Provider CRM",
       "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
+    },
+    {
+      "segment": "providers",
+      "articleId": "2026-09-13-uae-mongolia-partner-on-clean-energy-green-hydrogen",
+      "title": "UAE, Mongolia partner on clean energy, green hydrogen",
+      "source": "Zawya Pharmaceuticals",
+      "solution": "THB Provider CRM",
+      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
+    },
+    {
+      "segment": "diagnostics",
+      "articleId": "2026-09-13-imported-dialysis-solution-fails-endotoxin-test-ingredient-labelling-iss",
+      "title": "Imported Dialysis Solution Fails Endotoxin Test, Ingredient, Labelling Issues Flagged",
+      "source": "Medical Dialogues Pharma",
+      "solution": "THB Diagnostics CRM",
+      "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
     }
   ]
 }
