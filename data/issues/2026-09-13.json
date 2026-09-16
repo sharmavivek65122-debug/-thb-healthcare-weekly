@@ -5,14 +5,15 @@
   "startDate": "2026-09-12T18:30:00.000Z",
   "endDate": "2026-09-18T18:30:00.000Z",
   "status": "live",
-  "updatedAt": "2026-09-15T17:44:22.615Z",
+  "updatedAt": "2026-09-16T09:25:13.971Z",
   "coverage": {
-    "pharma": 33,
-    "providers": 8,
-    "diagnostics": 1,
+    "pharma": 31,
+    "providers": 14,
+    "diagnostics": 2,
     "healthtech": 0
   },
   "sourcesUsed": [
+    "BioSpectrum Asia Middle East",
     "ET Healthworld",
     "ET Healthworld Hospitals",
     "Economic Times Pharma",
@@ -20,10 +21,28 @@
     "Healthcare MEA",
     "Janssen India Media",
     "Medical Dialogues Pharma",
+    "Reuters Healthcare & Pharma",
     "Zawya Pharmaceuticals"
   ],
   "segments": {
     "pharma": [
+      {
+        "id": "2026-09-13-gilead-paho-agree-on-hiv-prevention-drug-access-in-latin-america-caribbe",
+        "title": "Gilead, PAHO agree on HIV prevention drug access in Latin America, Caribbean",
+        "summary": "U.S. drugmaker Gilead Sciences said on Tuesday it had reached an agreement with the Pan American Health Organization to ​widen access to its HIV prevention drug across Latin ‌America and the Caribbean, as the regions seek to curb new infections.",
+        "source": "Reuters Healthcare & Pharma",
+        "sourceHost": "reuters.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-09-15T17:27:01.888Z",
+        "publishedLabel": "September 15, 2026",
+        "category": "Industry Update",
+        "image": "https://www.reuters.com/resizer/v2/A5LMRIAIC5NSBPOZC2N6I4NJ64.jpg?auth=7bba04e31e6a2f504d03a199f8dbde8ac292e9e28433c9a28636a6ed04af1f31&height=1005&width=1920&quality=80&smart=true",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://www.reuters.com/legal/litigation/gilead-paho-agree-hiv-prevention-drug-access-latin-america-caribbean-2026-09-15/",
+        "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-gilead-paho-agree-on-hiv-prevention-drug-access-in-latin-america-caribbe"
+      },
       {
         "id": "2026-09-13-dr-reddy-s-launches-nivolumab-biosimilar-in-india",
         "title": "Dr. Reddy's launches nivolumab biosimilar in India",
@@ -37,7 +56,7 @@
         "category": "Approval",
         "image": "https://img.etimg.com/thumb/msid-134266567,width-1200,height-630,imgsize-52090,overlay-economictimes/articleshow.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/dr-reddys-launches-nivolumab-biosimilar-in-india/articleshow/134266368.cms",
         "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-dr-reddy-s-launches-nivolumab-biosimilar-in-india"
       },
@@ -59,38 +78,38 @@
         "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-centre-proposes-easier-norms-for-faster-drug-rollout"
       },
       {
-        "id": "2026-09-13-haryana-revises-nursing-home-policy-allows-doctors-to-take-residential-p",
-        "title": "Haryana revises nursing home policy, allows doctors to take residential plots on 10-year lease",
-        "summary": "Under the revised provisions, permission can be granted to qualified allopathic and AYUSH doctors who own residential plots or have taken them on a minimum 10-year lease, for providing nursing home services involving indoor admission and treatment. Doctors...",
+        "id": "2026-09-13-tamil-nadu-races-to-vaccinate-7-lakh-girls-before-hpv-doses-expire",
+        "title": "Tamil Nadu races to vaccinate 7 lakh girls before HPV doses expire",
+        "summary": "Nearly 1,000 girls turn 15 each day and become ineligible under the national programme, which provides a free single-dose HPV vaccine only to girls who have completed 14 years but are yet to turn 15. “We plan to ensure every eligible girl gets the single-dose...",
         "source": "ET Healthworld",
         "sourceHost": "health.economictimes.indiatimes.com",
         "region": "India",
         "country": "India",
-        "publishedAt": "2026-09-15T02:07:21.000Z",
-        "publishedLabel": "September 15, 2026",
+        "publishedAt": "2026-09-16T06:22:57.000Z",
+        "publishedLabel": "September 16, 2026",
         "category": "Industry Update",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-134250036,imgsize-75767,width-1200,height=627,overlay-ethealth,resizemode-75/policy/haryana-revises-nursing-home-policy-allows-doctors-to-take-residential-plots-on-10-year-lease.jpg",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-134279692,imgsize-84543,width-1200,height=627,overlay-ethealth,resizemode-75/policy/tamil-nadu-races-to-vaccinate-7-lakh-girls-before-hpv-doses-expire.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/policy/haryana-revises-nursing-home-policy-allows-doctors-to-take-residential-plots-on-10-year-lease/134250036",
-        "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-haryana-revises-nursing-home-policy-allows-doctors-to-take-residential-p"
+        "justIn": true,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/policy/tamil-nadu-races-to-vaccinate-7-lakh-girls-before-hpv-doses-expire/134279692",
+        "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-tamil-nadu-races-to-vaccinate-7-lakh-girls-before-hpv-doses-expire"
       },
       {
-        "id": "2026-09-13-potential-new-tb-vaccines-could-save-millions-of-lives-gavi",
-        "title": "Potential new TB vaccines could save millions of lives: Gavi",
-        "summary": "New TB jabs in the pipeline have the potential of becoming the \"next blockbuster immunisation tool\", said Sania Nishtar, head of the Gavi global vaccine alliance.",
+        "id": "2026-09-13-fourth-measles-related-death-reported-in-us-as-outbreak-grows",
+        "title": "Fourth measles-related death reported in US as outbreak grows",
+        "summary": "Health authorities in the eastern US state of Pennsylvania have confirmed a fourth death linked to measles, as the nation faces the largest outbreak of the vaccine-preventable disease in decades. \"My thoughts are with the two families who lost loved ones to...",
         "source": "ET Healthworld",
         "sourceHost": "health.economictimes.indiatimes.com",
         "region": "India",
         "country": "India",
-        "publishedAt": "2026-09-14T12:43:44.000Z",
-        "publishedLabel": "September 14, 2026",
+        "publishedAt": "2026-09-16T02:04:21.000Z",
+        "publishedLabel": "September 16, 2026",
         "category": "Industry Update",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-134241514,imgsize-94997,width-1200,height=627,overlay-ethealth,resizemode-75/industry/potential-new-tb-vaccines-could-save-millions-of-lives-gavi.jpg",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-134276067,imgsize-69146,width-1200,height=627,overlay-ethealth,resizemode-75/industry/fourth-measles-related-death-reported-in-us-as-outbreak-grows.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/potential-new-tb-vaccines-could-save-millions-of-lives-gavi/134241514",
-        "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-potential-new-tb-vaccines-could-save-millions-of-lives-gavi"
+        "justIn": true,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/fourth-measles-related-death-reported-in-us-as-outbreak-grows/134276067",
+        "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-fourth-measles-related-death-reported-in-us-as-outbreak-grows"
       },
       {
         "id": "2026-09-13-new-tb-vaccines-expected-from-2029-could-prevent-7-3-million-deaths-by-2",
@@ -122,7 +141,7 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-134259045,imgsize-117412,width-1200,height=627,overlay-ethealth,resizemode-75/industry/medical-procurement-scam-case-court-refuses-to-extend-interim-bail-to-former-dghs-vatsala-aggarwal-granted-on-medical-grounds.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/medical-procurement-scam-case-court-refuses-to-extend-interim-bail-to-former-dghs-vatsala-aggarwal-granted-on-medical-grounds/134259045",
         "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-medical-procurement-scam-case-court-refuses-to-extend-interim-bail-to-fo"
       },
@@ -161,23 +180,6 @@
         "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-indian-ai-platform-for-cancer-care-featured-in-brics-health-journal"
       },
       {
-        "id": "2026-09-13-manipal-hospitals-scouts-for-acquisitions-in-andhra-keralam-delhi-ncr-be",
-        "title": "Manipal Hospitals scouts for acquisitions in Andhra, Keralam, Delhi-NCR; bets on AI-led healthcare",
-        "summary": "Manipal Health Enterprises plans significant expansion across several Indian states. The company is adopting a digital-physical healthcare model driven by Artificial Intelligence. Strategic acquisitions and a new greenfield project in Mumbai are underway....",
-        "source": "ET Healthworld",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-09-14T02:07:20.000Z",
-        "publishedLabel": "September 14, 2026",
-        "category": "Industry Update",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-134230395,imgsize-156562,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/manipal-hospitals-scouts-for-acquisitions-in-andhra-keralam-delhi-ncr-bets-on-ai-led-healthcare.jpg",
-        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/manipal-hospitals-scouts-for-acquisitions-in-andhra-keralam-delhi-ncr-bets-on-ai-led-healthcare/134230395",
-        "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-manipal-hospitals-scouts-for-acquisitions-in-andhra-keralam-delhi-ncr-be"
-      },
-      {
         "id": "2026-09-13-why-rapid-detection-is-the-key-to-winning-the-fight-against-amr",
         "title": "Why rapid detection is the key to winning the fight against AMR",
         "summary": "Bacterial resistance to antimicrobials (antibiotics) represents one of the largest challenges to the international healthcare scene, undermining decades of progress that scientists have made in the medical field. The emergence of antibiotic resistance leads...",
@@ -190,7 +192,7 @@
         "category": "Industry Update",
         "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/09/15183410/Dr-Narendra-Kumar-Jolly-Senior-Consultant-Jolly-Healthcare.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/news/why-rapid-detection-is-the-key-to-winning-the-fight-against-amr/455136/",
         "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-why-rapid-detection-is-the-key-to-winning-the-fight-against-amr"
       },
@@ -212,21 +214,21 @@
         "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-healthcare-leaders-call-for-a-national-patient-charter"
       },
       {
-        "id": "2026-09-13-regenerative-orthopaedics-building-evidence-standardisation-and-precisio",
-        "title": "Regenerative orthopaedics: Building evidence, standardisation and precision in care",
-        "summary": "Niteen Tulpule, Treasurer and Dr Sharmila Tulpule, Chairperson, REGEN 2026 in an interview with Kalyani Sharma, discuss the evolving landscape of regenerative orthopaedics in India, the need for greater standardisation and evidence, and the role of the newly...",
-        "source": "Express Healthcare",
-        "sourceHost": "expresshealthcare.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-09-15T14:51:49.000Z",
-        "publishedLabel": "September 15, 2026",
-        "category": "Industry Update",
-        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/09/15202136/REGEN.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "id": "2026-09-13-gsk-expands-oncology-rebound-with-us-750m-chimagen-licensing-deal-health",
+        "title": "GSK expands oncology rebound with US$750M Chimagen licensing deal | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
+        "summary": "GSK will take full global rights to the experimental TCE programme in return for an upfront payment and potential development and commercial milestone payments.",
+        "source": "Healthcare MEA",
+        "sourceHost": "healthcaremea.com",
+        "region": "Middle East",
+        "country": "Middle East",
+        "publishedAt": "2026-09-16T07:50:19.000Z",
+        "publishedLabel": "September 16, 2026",
+        "category": "Manufacturing",
+        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/09/image-1600x900-2026-09-04T114503.405.png",
+        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
         "justIn": true,
-        "originalUrl": "https://www.expresshealthcare.in/news/regenerative-orthopaedics-building-evidence-standardisation-and-precision-in-care/455143/",
-        "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-regenerative-orthopaedics-building-evidence-standardisation-and-precisio"
+        "originalUrl": "https://www.healthcaremea.com/2026/09/16/gsk-expands-oncology-rebound-with-us750m-chimagen-licensing-deal/",
+        "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-gsk-expands-oncology-rebound-with-us-750m-chimagen-licensing-deal-health"
       },
       {
         "id": "2026-09-13-aurobindo-pharma-gets-usfda-nod-for-first-metered-dose-inhaler-beclometh",
@@ -241,7 +243,7 @@
         "category": "Approval",
         "image": "https://medicaldialogues.in/h-upload/2023/01/10/197263-aurobindo-pharma-1.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/aurobindo-pharma-gets-usfda-nod-for-first-metered-dose-inhaler-beclomethasone-aerosol-179322",
         "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-aurobindo-pharma-gets-usfda-nod-for-first-metered-dose-inhaler-beclometh"
       },
@@ -263,21 +265,21 @@
         "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-scholar-rock-wins-first-usfda-approval-for-isembyld-to-treat-spinal-musc"
       },
       {
-        "id": "2026-09-13-gsk-to-close-german-flu-vaccine-plant-as-demand-for-egg-based-shots-fall",
-        "title": "GSK to close German flu vaccine plant as demand for egg-based shots falls | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
-        "summary": "The shift also comes as pharmaceutical companies invest in newer technologies that could change how influenza vaccines are developed and manufactured.",
+        "id": "2026-09-13-curium-enters-radioligand-therapy-market-with-fda-approval-of-bexlutry-h",
+        "title": "Curium enters radioligand therapy market with FDA approval of Bexlutry | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
+        "summary": "Developed by Curium, Bexlutry is a lutetium-177 dotatate injection that references Novartis’ Lutathera, which is approved to treat gastroenteropancreatic neuroendocrine tumors (GEP NETs).",
         "source": "Healthcare MEA",
         "sourceHost": "healthcaremea.com",
         "region": "Middle East",
         "country": "Middle East",
-        "publishedAt": "2026-09-15T06:45:12.000Z",
-        "publishedLabel": "September 15, 2026",
-        "category": "Manufacturing",
-        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/09/image-1600x900-2026-09-15T094027.897.png",
-        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": false,
-        "originalUrl": "https://www.healthcaremea.com/2026/09/15/gsk-to-close-german-flu-vaccine-plant-as-demand-for-egg-based-shots-falls/",
-        "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-gsk-to-close-german-flu-vaccine-plant-as-demand-for-egg-based-shots-fall"
+        "publishedAt": "2026-09-16T08:18:00.000Z",
+        "publishedLabel": "September 16, 2026",
+        "category": "Approval",
+        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/09/image-1600x900-2026-09-16T103138.864.png",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://www.healthcaremea.com/2026/09/16/curium-enters-radioligand-therapy-market-with-fda-approval-of-bexlutry/",
+        "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-curium-enters-radioligand-therapy-market-with-fda-approval-of-bexlutry-h"
       },
       {
         "id": "2026-09-13-johnson-and-johnson-s-2026-oncology-care-index-finds-community-oncologis",
@@ -297,23 +299,6 @@
         "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-johnson-and-johnson-s-2026-oncology-care-index-finds-community-oncologis"
       },
       {
-        "id": "2026-09-13-exegenesis-bio-licenses-emc181-capsid-to-modalis-therapeutics-for-dmd-ge",
-        "title": "Exegenesis Bio licenses EMC181 capsid to Modalis Therapeutics for DMD gene therapy | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
-        "summary": "Exegenesis Bio designed EMC181 to improve the delivery of genetic medicines to muscle tissue while limiting exposure to the liver.",
-        "source": "Healthcare MEA",
-        "sourceHost": "healthcaremea.com",
-        "region": "Middle East",
-        "country": "Middle East",
-        "publishedAt": "2026-09-14T07:38:48.000Z",
-        "publishedLabel": "September 14, 2026",
-        "category": "Manufacturing",
-        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/09/image-1600x900-2026-09-14T103543.335.png",
-        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": false,
-        "originalUrl": "https://www.healthcaremea.com/2026/09/14/exegenesis-bio-licenses-emc181-capsid-to-modalis-therapeutics-for-dmd-gene-therapy/",
-        "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-exegenesis-bio-licenses-emc181-capsid-to-modalis-therapeutics-for-dmd-ge"
-      },
-      {
         "id": "2026-09-13-piramal-pharma-s-uk-facility-receives-7-usfda-observations",
         "title": "Piramal Pharma's UK Facility Receives 7 USFDA Observations",
         "summary": "Mumbai: The US Food and Drug Administration (USFDA) has issued seven observations following a Good Manufacturing Practices (GMP) inspection of Piramal Pharma Limited's Morpeth, UK facility.The...",
@@ -326,7 +311,7 @@
         "category": "Manufacturing",
         "image": "https://medicaldialogues.in/h-upload/2022/10/14/187904-piramal-pharma-new.jpg",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/piramal-pharmas-uk-facility-receives-7-usfda-observations-179323",
         "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-piramal-pharma-s-uk-facility-receives-7-usfda-observations"
       },
@@ -365,38 +350,21 @@
         "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-sun-pharma-gets-cdsco-panel-nod-for-phase-iv-sovateltide-trial"
       },
       {
-        "id": "2026-09-13-uganda-signs-deal-with-south-sudan-to-strengthen-cross-border-outbreak-r",
-        "title": "Uganda signs deal with South Sudan to strengthen cross-border outbreak response | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
-        "summary": "The agreement establishes a framework for joint action against Bundibugyo virus disease, viral haemorrhagic fevers, cholera and other infectious disease threats that could spread across the border.",
-        "source": "Healthcare MEA",
-        "sourceHost": "healthcaremea.com",
-        "region": "Middle East",
-        "country": "Middle East",
-        "publishedAt": "2026-09-15T07:18:55.000Z",
-        "publishedLabel": "September 15, 2026",
-        "category": "Manufacturing",
-        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/09/image-1600x900-2026-09-15T100752.585.png",
+        "id": "2026-09-13-shilpa-biologicals-and-spimaco-bio-sign-strategic-license-agreement-for-",
+        "title": "Shilpa Biologicals and SPIMACO Bio sign strategic license agreement for PD-1 Biosimilar for MENA market",
+        "summary": "Shilpa Biologicals and SPIMACO Bio sign strategic license agreement for PD-1 Biosimilar for MENA market",
+        "source": "BioSpectrum Asia Middle East",
+        "sourceHost": "biospectrumasia.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-09-15T18:30:00.000Z",
+        "publishedLabel": "September 16, 2026",
+        "category": "Market",
+        "image": "https://www.biospectrumasia.com/uploads/articles/13-28379.jpg?v=20260916092415",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": false,
-        "originalUrl": "https://www.healthcaremea.com/2026/09/15/uganda-signs-deal-with-south-sudan-to-strengthen-cross-border-outbreak-response/",
-        "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-uganda-signs-deal-with-south-sudan-to-strengthen-cross-border-outbreak-r"
-      },
-      {
-        "id": "2026-09-13-siemens-healthineers-opens-us-116m-photon-counting-sensor-plant-in-germa",
-        "title": "Siemens Healthineers opens US$116M photon-counting sensor plant in Germany | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
-        "summary": "The Photon Counting Sensor Fab is the only facility of its kind in Europe and will produce semiconductor sensors used in advanced X-ray imaging.",
-        "source": "Healthcare MEA",
-        "sourceHost": "healthcaremea.com",
-        "region": "Middle East",
-        "country": "Middle East",
-        "publishedAt": "2026-09-14T08:52:00.000Z",
-        "publishedLabel": "September 14, 2026",
-        "category": "Manufacturing",
-        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/09/image-1600x900-2026-09-14T085139.644.png",
-        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": false,
-        "originalUrl": "https://www.healthcaremea.com/2026/09/14/siemens-healthineers-opens-us116m-photon-counting-sensor-plant-in-germany/",
-        "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-siemens-healthineers-opens-us-116m-photon-counting-sensor-plant-in-germa"
+        "justIn": true,
+        "originalUrl": "https://www.biospectrumasia.com/news/25/28379/shilpa-biologicals-and-spimaco-bio-sign-strategic-license-agreement-for-pd-1-biosimilar-for-mena-market.html",
+        "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-shilpa-biologicals-and-spimaco-bio-sign-strategic-license-agreement-for-"
       },
       {
         "id": "2026-09-13-usfda-issues-two-observations-after-records-assessment-of-dr-reddy-s-mex",
@@ -416,6 +384,23 @@
         "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-usfda-issues-two-observations-after-records-assessment-of-dr-reddy-s-mex"
       },
       {
+        "id": "2026-09-13-who-signs-four-year-accord-with-commonwealth-secretariat-to-boost-health",
+        "title": "WHO signs four-year accord with Commonwealth Secretariat to boost health resilience | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
+        "summary": "It builds on an earlier MoU signed by the two organisations in 2022 and sets out areas for deeper collaboration on health system strengthening and emerging health challenges.",
+        "source": "Healthcare MEA",
+        "sourceHost": "healthcaremea.com",
+        "region": "Middle East",
+        "country": "Middle East",
+        "publishedAt": "2026-09-16T09:03:53.000Z",
+        "publishedLabel": "September 16, 2026",
+        "category": "Manufacturing",
+        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/09/image-1600x900-2026-09-16T115916.539.png",
+        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
+        "justIn": true,
+        "originalUrl": "https://www.healthcaremea.com/2026/09/16/who-signs-four-year-accord-with-commonwealth-secretariat-to-boost-health-resilience/",
+        "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-who-signs-four-year-accord-with-commonwealth-secretariat-to-boost-health"
+      },
+      {
         "id": "2026-09-13-cdsco-warns-against-2-beauty-creams-over-excessive-heavy-metals",
         "title": "CDSCO Warns Against 2 Beauty Creams Over Excessive Heavy Metals",
         "summary": "New Delhi: The Central Drugs Standard Control Organisation (CDSCO) has issued a public health alert advising consumers against purchasing or using Goree Beauty Cream and Chandni Whitening Cream, both...",
@@ -428,7 +413,7 @@
         "category": "Industry Update",
         "image": "https://medicaldialogues.in/h-upload/2025/03/10/277988-tube-with-ointment.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/cdsco/cdsco-warns-against-2-beauty-creams-over-excessive-heavy-metals-179326",
         "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-cdsco-warns-against-2-beauty-creams-over-excessive-heavy-metals"
       },
@@ -445,7 +430,7 @@
         "category": "Industry Update",
         "image": "https://medicaldialogues.in/h-upload/2024/01/25/230934-novo-nordisk-50.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/novo-nordisk-adopts-novo-name-for-day-to-day-business-amid-eli-lilly-challenge-179321",
         "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-novo-nordisk-adopts-novo-name-for-day-to-day-business-amid-eli-lilly-cha"
       },
@@ -462,26 +447,9 @@
         "category": "Market",
         "image": "https://medicaldialogues.in/h-upload/2024/02/20/232620-eli-lilly-50-1.jpg",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/eli-lilly-gains-over-30-share-of-new-us-oral-obesity-patients-with-foundayo-challenges-wegovy-179319",
         "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-eli-lilly-gains-over-30-share-of-new-us-oral-obesity-patients-with-found"
-      },
-      {
-        "id": "2026-09-13-omron-marks-40-years-of-ohasama-study-advancing-home-blood-pressure-moni",
-        "title": "OMRON marks 40 years of Ohasama Study advancing home blood pressure monitoring | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
-        "summary": "Researchers from Tohoku University launched the study in 1986 under Professor Yutaka Imai in response to the high burden of hypertension and stroke in Ohasama, Iwate Prefecture.",
-        "source": "Healthcare MEA",
-        "sourceHost": "healthcaremea.com",
-        "region": "Middle East",
-        "country": "Middle East",
-        "publishedAt": "2026-09-15T07:19:00.000Z",
-        "publishedLabel": "September 15, 2026",
-        "category": "Manufacturing",
-        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/09/image-1600x900-2026-09-15T111925.098.png",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://www.healthcaremea.com/2026/09/15/omron-marks-40-years-of-ohasama-study-advancing-home-blood-pressure-monitoring/",
-        "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-omron-marks-40-years-of-ohasama-study-advancing-home-blood-pressure-moni"
       },
       {
         "id": "2026-09-13-strides-pharma-gets-three-usfda-observations-following-alathur-facility-",
@@ -513,7 +481,7 @@
         "category": "Industry Update",
         "image": "https://medicaldialogues.in/h-upload/2026/06/27/356432-arrest-1.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/pharma-md-arrested-over-alleged-rs-555-cr-fake-itc-gst-refund-fraud-179325",
         "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-pharma-md-arrested-over-alleged-rs-5-55-cr-fake-itc-gst-refund-fraud"
       },
@@ -530,7 +498,7 @@
         "category": "Industry Update",
         "image": "https://medicaldialogues.in/h-upload/2025/07/24/295601-johnson-and-johnson-50-2.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/johnson-johnson-partnered-contineum-depression-drug-fails-mid-stage-trial-179320",
         "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-johnson-and-johnson-partnered-contineum-depression-drug-fails-mid-stage-"
       },
@@ -588,6 +556,23 @@
     ],
     "providers": [
       {
+        "id": "2026-09-13-manipal-hospitals-scouts-for-acquisitions-in-andhra-keralam-delhi-ncr-be",
+        "title": "Manipal Hospitals scouts for acquisitions in Andhra, Keralam, Delhi-NCR; bets on AI-led healthcare",
+        "summary": "Manipal Health Enterprises plans significant expansion across several Indian states. The company is adopting a digital-physical healthcare model driven by Artificial Intelligence. Strategic acquisitions and a new greenfield project in Mumbai are underway....",
+        "source": "ET Healthworld Hospitals",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-09-14T02:07:20.000Z",
+        "publishedLabel": "September 14, 2026",
+        "category": "Expansion",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-134230395,imgsize-156562,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/manipal-hospitals-scouts-for-acquisitions-in-andhra-keralam-delhi-ncr-bets-on-ai-led-healthcare.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": true,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/manipal-hospitals-scouts-for-acquisitions-in-andhra-keralam-delhi-ncr-bets-on-ai-led-healthcare/134230395",
+        "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-manipal-hospitals-scouts-for-acquisitions-in-andhra-keralam-delhi-ncr-be"
+      },
+      {
         "id": "2026-09-13-marengo-asia-hospitals-raises-400-crore-from-leapfrog-investments-to-dou",
         "title": "Marengo Asia Hospitals raises ₹400 crore from LeapFrog Investments to double bed capacity",
         "summary": "Marengo operates five hospitals in India and has a strategic partnership in Saudi Arabia. It has a capacity of 2,000 beds and operates facilities across the National Capital Region, Gujarat and Rajasthan. Its revenues are said to be in the ₹1,000-1,200 crore...",
@@ -605,6 +590,23 @@
         "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-marengo-asia-hospitals-raises-400-crore-from-leapfrog-investments-to-dou"
       },
       {
+        "id": "2026-09-13-marengo-asia-hospitals-raises-40-million-from-leapfrog-investments",
+        "title": "Marengo Asia Hospitals raises $40 million from LeapFrog Investments",
+        "summary": "The investment will support Marengo’s expansion across Tier I and Tier II cities and investments in medical technology, Centres of Excellence and patient experience",
+        "source": "Express Healthcare",
+        "sourceHost": "expresshealthcare.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-09-16T09:13:17.000Z",
+        "publishedLabel": "September 16, 2026",
+        "category": "Expansion",
+        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2024/02/12151611/EP_Funding_01_750.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": true,
+        "originalUrl": "https://www.expresshealthcare.in/news/marengo-asia-hospitals-raises-40-million-from-leapfrog-investments/455152/",
+        "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-marengo-asia-hospitals-raises-40-million-from-leapfrog-investments"
+      },
+      {
         "id": "2026-09-13-expanding-the-reach-of-quality-healthcare",
         "title": "Expanding the reach of quality healthcare",
         "summary": "Sarvodaya’s acquisition of Nayati Hospital comes at a time when consolidation in the hospital sector is gaining pace. What does this acquisition tell us about the opportunities and challenges in the hospital market beyond the major metros? The acquisition...",
@@ -617,7 +619,7 @@
         "category": "Hospital",
         "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/09/15191338/Dr-Rakesh-Gupta-Chairman-Sarvodaya-Healthcare.jpg",
         "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/news/expanding-the-reach-of-quality-healthcare/455140/",
         "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-expanding-the-reach-of-quality-healthcare"
       },
@@ -634,9 +636,26 @@
         "category": "Hospital",
         "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/09/15163855/New-Project-4.jpg",
         "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/news/dr-d-y-patil-medical-college-hospital-and-research-centre-pune-strengthens-healthcare-infrastructure-in-pune/455130/",
         "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-dr-d-y-patil-medical-college-hospital-and-research-centre-pune-strengthe"
+      },
+      {
+        "id": "2026-09-13-uk-nurse-agimol-pradeep-wins-aster-guardians-global-nursing-award-2026",
+        "title": "UK nurse Agimol Pradeep wins Aster Guardians Global Nursing Award 2026",
+        "summary": "Senior Transplant Coordinator at King’s College Hospital receives USD 250,000 prize after being selected from more than 134,000 registrations across 214 countries and economies",
+        "source": "Express Healthcare",
+        "sourceHost": "expresshealthcare.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-09-16T05:22:20.000Z",
+        "publishedLabel": "September 16, 2026",
+        "category": "Hospital",
+        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/09/16104914/EH_Aster_Guardians_750.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": true,
+        "originalUrl": "https://www.expresshealthcare.in/news/uk-nurse-agimol-pradeep-wins-aster-guardians-global-nursing-award-2026/455149/",
+        "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-uk-nurse-agimol-pradeep-wins-aster-guardians-global-nursing-award-2026"
       },
       {
         "id": "2026-09-13-aster-dm-healthcare-to-invest-in-international-modern-hospital-in-dubai",
@@ -654,6 +673,40 @@
         "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/09/15/aster-dm-healthcare-to-invest-in-international-modern-hospital-in-dubai/",
         "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-aster-dm-healthcare-to-invest-in-international-modern-hospital-in-dubai"
+      },
+      {
+        "id": "2026-09-13-m42-to-deploy-oracle-health-data-intelligence-to-advance-ai-powered-heal",
+        "title": "M42 to deploy Oracle Health Data Intelligence to advance AI-powered healthcare in UAE",
+        "summary": "M42 will integrate Oracle Health Data Intelligence with Oracle Health Foundation EHR to create a secure platform that brings together information from multiple healthcare sources.",
+        "source": "Healthcare MEA",
+        "sourceHost": "healthcaremea.com",
+        "region": "Middle East",
+        "country": "United Arab Emirates",
+        "publishedAt": "2026-09-16T08:54:11.000Z",
+        "publishedLabel": "September 16, 2026",
+        "category": "AI Care Delivery",
+        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/09/image-1600x900-2026-09-16T115053.323.png",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": true,
+        "originalUrl": "https://www.healthcaremea.com/2026/09/16/m42-to-deploy-oracle-health-data-intelligence-to-advance-ai-powered-healthcare-in-uae/",
+        "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-m42-to-deploy-oracle-health-data-intelligence-to-advance-ai-powered-heal"
+      },
+      {
+        "id": "2026-09-13-aar-hospital-appoints-maryanne-wambui-kariuki-as-head-of-nursing-service",
+        "title": "AAR Hospital appoints Maryanne Wambui Kariuki as head of nursing services | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
+        "summary": "In her new role, she will help strengthen the hospital’s nursing services while supporting efficient, high-quality patient care.",
+        "source": "Healthcare MEA",
+        "sourceHost": "healthcaremea.com",
+        "region": "Middle East",
+        "country": "Middle East",
+        "publishedAt": "2026-09-16T08:48:22.000Z",
+        "publishedLabel": "September 16, 2026",
+        "category": "Hospital",
+        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/09/image-1600x900-2026-09-09T114031.498-840x480-1.png",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": true,
+        "originalUrl": "https://www.healthcaremea.com/2026/09/16/aar-hospital-appoints-maryanne-wambui-kariuki-as-head-of-nursing-services/",
+        "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-aar-hospital-appoints-maryanne-wambui-kariuki-as-head-of-nursing-service"
       },
       {
         "id": "2026-09-13-king-s-college-hospital-jeddah-to-become-first-emea-hospital-to-adopt-in",
@@ -690,21 +743,21 @@
         "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-pharmacy-manager-booked-over-alleged-diversion-of-rs-1-42-lakh-in-patien"
       },
       {
-        "id": "2026-09-13-uae-mongolia-partner-on-clean-energy-green-hydrogen",
-        "title": "UAE, Mongolia partner on clean energy, green hydrogen",
-        "summary": "Both sides will establish a joint working group to identify priority areas, assess the feasibility of proposed projects and oversee their development",
+        "id": "2026-09-13-cricket-legend-brett-lee-named-chief-celebration-officer-of-the-uae-lott",
+        "title": "Cricket legend Brett Lee named ‘Chief Celebration Officer’ of the UAE Lottery",
+        "summary": "As Chief Celebration Officer, Lee will meet winners across The UAE Lottery's game portfolio",
         "source": "Zawya Pharmaceuticals",
         "sourceHost": "zawya.com",
         "region": "Middle East",
         "country": "United Arab Emirates",
-        "publishedAt": "2026-09-14T05:42:45.015Z",
-        "publishedLabel": "September 14, 2026",
+        "publishedAt": "2026-09-15T06:41:44.093Z",
+        "publishedLabel": "September 15, 2026",
         "category": "Provider Update",
-        "image": "https://assets.zawya.com/prod/assets/arrow-down-fill.d30923dc.svg",
+        "image": "https://media.zawya.com/prod/images/gm_preview/9b4a6addb8cb-the-uae-lottery-brett-lee.jpg",
         "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://www.zawya.com/en/special-coverage/utilities/uae-mongolia-partner-on-clean-energy-green-hydrogen-561238",
-        "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-uae-mongolia-partner-on-clean-energy-green-hydrogen"
+        "justIn": true,
+        "originalUrl": "https://www.zawya.com/en/press-release/people-in-the-news/cricket-legend-brett-lee-named-chief-celebration-officer-of-the-uae-lottery-639711",
+        "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-cricket-legend-brett-lee-named-chief-celebration-officer-of-the-uae-lott"
       },
       {
         "id": "2026-09-13-royal-air-maroc-appoints-merkle-mena-as-seo-content-and-generative-engin",
@@ -722,9 +775,43 @@
         "justIn": false,
         "originalUrl": "https://www.zawya.com/en/press-release/companies-news/royal-air-maroc-appoints-merkle-mena-as-seo-content-and-generative-engine-optimization-partner-637604",
         "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-royal-air-maroc-appoints-merkle-mena-as-seo-content-and-generative-engin"
+      },
+      {
+        "id": "2026-09-13-burjeel-holdings-appoints-reuben-joseph-as-chief-financial-officer-to-le",
+        "title": "Burjeel Holdings appoints Reuben Joseph as Chief Financial Officer to lead group’s next phase of growth",
+        "summary": "The appointment ensures continuity while strengthening financial leadership across the Group",
+        "source": "Zawya Pharmaceuticals",
+        "sourceHost": "zawya.com",
+        "region": "Middle East",
+        "country": "United Arab Emirates",
+        "publishedAt": "2026-09-14T12:48:56.598Z",
+        "publishedLabel": "September 14, 2026",
+        "category": "Provider Update",
+        "image": "https://media.zawya.com/prod/images/gm_preview/6ca2127d8e47-mr-reuben-joseph-newly-appointed-chief-financial-officer-of-burjeel-holdings.jpeg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": true,
+        "originalUrl": "https://www.zawya.com/en/press-release/people-in-the-news/burjeel-holdings-appoints-reuben-joseph-as-chief-financial-officer-to-lead-groups-next-phase-of-growth-622880",
+        "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-burjeel-holdings-appoints-reuben-joseph-as-chief-financial-officer-to-le"
       }
     ],
     "diagnostics": [
+      {
+        "id": "2026-09-13-a-decade-after-mercury-ban-toxic-skin-bleachers-still-offered-on-top-ret",
+        "title": "A decade after mercury ban, toxic skin bleachers still offered on top retailers' websites",
+        "summary": "More than 20 banned skin-bleaching products containing mercury are available for purchase on third-party marketplaces run by Amazon, Temu and TikTok Shop in several countries, despite decades of efforts by health advocates and regulators to prevent their...",
+        "source": "Reuters Healthcare & Pharma",
+        "sourceHost": "reuters.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-09-16T05:03:36.682Z",
+        "publishedLabel": "September 16, 2026",
+        "category": "Lab Network",
+        "image": "https://www.reuters.com/resizer/v2/3AWOLM6YQFP75HLMOEI4DJRVGM.jpg?auth=634de3559fe6446a231bb9ee771320b974c11ee384133ea23b4a73abef33dbe5&height=1005&width=1920&quality=80&smart=true",
+        "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
+        "justIn": true,
+        "originalUrl": "https://www.reuters.com/legal/litigation/decade-after-mercury-ban-toxic-skin-bleachers-still-offered-top-retailers-2026-09-16/",
+        "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-a-decade-after-mercury-ban-toxic-skin-bleachers-still-offered-on-top-ret"
+      },
       {
         "id": "2026-09-13-imported-dialysis-solution-fails-endotoxin-test-ingredient-labelling-iss",
         "title": "Imported Dialysis Solution Fails Endotoxin Test, Ingredient, Labelling Issues Flagged",
@@ -748,6 +835,14 @@
   "thbActions": [
     {
       "segment": "pharma",
+      "articleId": "2026-09-13-gilead-paho-agree-on-hiv-prevention-drug-access-in-latin-america-caribbe",
+      "title": "Gilead, PAHO agree on HIV prevention drug access in Latin America, Caribbean",
+      "source": "Reuters Healthcare & Pharma",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "pharma",
       "articleId": "2026-09-13-dr-reddy-s-launches-nivolumab-biosimilar-in-india",
       "title": "Dr. Reddy's launches nivolumab biosimilar in India",
       "source": "Economic Times Pharma",
@@ -764,33 +859,41 @@
     },
     {
       "segment": "pharma",
-      "articleId": "2026-09-13-haryana-revises-nursing-home-policy-allows-doctors-to-take-residential-p",
-      "title": "Haryana revises nursing home policy, allows doctors to take residential plots on 10-year lease",
+      "articleId": "2026-09-13-tamil-nadu-races-to-vaccinate-7-lakh-girls-before-hpv-doses-expire",
+      "title": "Tamil Nadu races to vaccinate 7 lakh girls before HPV doses expire",
       "source": "ET Healthworld",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
     },
     {
       "segment": "pharma",
-      "articleId": "2026-09-13-potential-new-tb-vaccines-could-save-millions-of-lives-gavi",
-      "title": "Potential new TB vaccines could save millions of lives: Gavi",
+      "articleId": "2026-09-13-fourth-measles-related-death-reported-in-us-as-outbreak-grows",
+      "title": "Fourth measles-related death reported in US as outbreak grows",
       "source": "ET Healthworld",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
     },
     {
-      "segment": "pharma",
-      "articleId": "2026-09-13-new-tb-vaccines-expected-from-2029-could-prevent-7-3-million-deaths-by-2",
-      "title": "New TB vaccines expected from 2029 could prevent 7.3 million deaths by 2050, Gavi says",
-      "source": "Economic Times Pharma",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+      "segment": "providers",
+      "articleId": "2026-09-13-manipal-hospitals-scouts-for-acquisitions-in-andhra-keralam-delhi-ncr-be",
+      "title": "Manipal Hospitals scouts for acquisitions in Andhra, Keralam, Delhi-NCR; bets on AI-led healthcare",
+      "source": "ET Healthworld Hospitals",
+      "solution": "THB Provider CRM",
+      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
     },
     {
       "segment": "providers",
       "articleId": "2026-09-13-marengo-asia-hospitals-raises-400-crore-from-leapfrog-investments-to-dou",
       "title": "Marengo Asia Hospitals raises ₹400 crore from LeapFrog Investments to double bed capacity",
       "source": "ET Healthworld Hospitals",
+      "solution": "THB Provider CRM",
+      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
+    },
+    {
+      "segment": "providers",
+      "articleId": "2026-09-13-marengo-asia-hospitals-raises-40-million-from-leapfrog-investments",
+      "title": "Marengo Asia Hospitals raises $40 million from LeapFrog Investments",
+      "source": "Express Healthcare",
       "solution": "THB Provider CRM",
       "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
     },
@@ -811,20 +914,12 @@
       "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
     },
     {
-      "segment": "providers",
-      "articleId": "2026-09-13-aster-dm-healthcare-to-invest-in-international-modern-hospital-in-dubai",
-      "title": "Aster DM Healthcare to invest in International Modern Hospital in Dubai",
-      "source": "Healthcare MEA",
-      "solution": "THB Provider CRM",
-      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
-    },
-    {
-      "segment": "providers",
-      "articleId": "2026-09-13-king-s-college-hospital-jeddah-to-become-first-emea-hospital-to-adopt-in",
-      "title": "King’s College Hospital Jeddah to become first EMEA hospital to adopt InterSystems IntelliCare",
-      "source": "Healthcare MEA",
-      "solution": "THB Provider CRM",
-      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
+      "segment": "diagnostics",
+      "articleId": "2026-09-13-a-decade-after-mercury-ban-toxic-skin-bleachers-still-offered-on-top-ret",
+      "title": "A decade after mercury ban, toxic skin bleachers still offered on top retailers' websites",
+      "source": "Reuters Healthcare & Pharma",
+      "solution": "THB Diagnostics CRM",
+      "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
     },
     {
       "segment": "diagnostics",
