@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T09:34:59.967Z",
+  "updatedAt": "2026-09-17T17:42:46.717Z",
   "latestIssueKey": "2026-09-13",
   "issues": [
     {
@@ -9,7 +9,7 @@
       "status": "published",
       "coverage": {
         "pharma": 2,
-        "providers": 2,
+        "providers": 1,
         "diagnostics": 0,
         "healthtech": 0
       }
@@ -92,8 +92,8 @@
       "rangeLabel": "Sep 13 - Sep 19, 2026",
       "status": "live",
       "coverage": {
-        "pharma": 38,
-        "providers": 11,
+        "pharma": 40,
+        "providers": 12,
         "diagnostics": 1,
         "healthtech": 1
       }

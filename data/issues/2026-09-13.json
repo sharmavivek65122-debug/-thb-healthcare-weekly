@@ -5,26 +5,44 @@
   "startDate": "2026-09-12T18:30:00.000Z",
   "endDate": "2026-09-18T18:30:00.000Z",
   "status": "live",
-  "updatedAt": "2026-09-17T09:34:59.967Z",
+  "updatedAt": "2026-09-17T17:42:46.717Z",
   "coverage": {
-    "pharma": 38,
-    "providers": 11,
+    "pharma": 40,
+    "providers": 12,
     "diagnostics": 1,
     "healthtech": 1
   },
   "sourcesUsed": [
-    "BioSpectrum Asia Middle East",
     "ET Healthworld",
     "ET Healthworld Hospitals",
     "Economic Times Pharma",
     "Express Healthcare",
     "Healthcare MEA",
     "Janssen India Media",
+    "Lupin Updates",
     "Medical Dialogues Pharma",
+    "Reuters Healthcare & Pharma",
     "Zawya Pharmaceuticals"
   ],
   "segments": {
     "pharma": [
+      {
+        "id": "2026-09-13-longeveron-explores-strategic-options-after-therapy-fails-mid-stage-tria",
+        "title": "Longeveron explores strategic options after therapy fails mid-stage trial for infant heart condition",
+        "summary": "Longeveron on Wednesday said it would explore strategic options after its experimental stem cell therapy failed to meet ​the main goal of a mid-stage trial for a ‌rare infant heart condition.",
+        "source": "Reuters Healthcare & Pharma",
+        "sourceHost": "reuters.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-09-16T22:19:10.643Z",
+        "publishedLabel": "September 17, 2026",
+        "category": "Industry Update",
+        "image": "https://www.reuters.com/resizer/v2/466BJJQ7PVGY5O53NZ3KL65MHM.png?auth=b9c3bf166c40a6778eb5672993fde7c30a15f48329026674eff92afd8da1d0ca&height=1005&width=1920&quality=80&smart=true",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://www.reuters.com/legal/litigation/longeveron-explores-strategic-options-after-therapy-fails-mid-stage-trial-infant-2026-09-16/",
+        "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-longeveron-explores-strategic-options-after-therapy-fails-mid-stage-tria"
+      },
       {
         "id": "2026-09-13-supreme-court-upholds-himachal-hc-ruling-on-drug-regulator-powers-impact",
         "title": "Supreme Court upholds Himachal HC ruling on drug regulator powers, impacting CDSCO enforcement",
@@ -38,7 +56,7 @@
         "category": "Industry Update",
         "image": "https://img.etimg.com/thumb/msid-134296259,width-1200,height-630,imgsize-114152,overlay-economictimes/articleshow.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/supreme-court-upholds-himachal-hc-ruling-on-drug-regulator-powers-impacting-cdsco-enforcement/articleshow/134296240.cms",
         "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-supreme-court-upholds-himachal-hc-ruling-on-drug-regulator-powers-impact"
       },
@@ -77,6 +95,23 @@
         "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-centre-proposes-easier-norms-for-faster-drug-rollout"
       },
       {
+        "id": "2026-09-13-advent-international-joins-india-s-hospital-gold-rush-with-3-150-crore-y",
+        "title": "Advent International joins India’s hospital gold rush with ₹3,150 crore Yatharth bet",
+        "summary": "Advent International will invest Rs 3,150 crore in Yatharth Hospitals for a significant stake. This marks one of the largest private equity investments in India's hospital sector. The investment comes amid rising demand for quality healthcare services....",
+        "source": "ET Healthworld",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-09-17T11:36:46.000Z",
+        "publishedLabel": "September 17, 2026",
+        "category": "Industry Update",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-134310716,imgsize-75440,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/advent-international-joins-indias-hospital-gold-rush-with-rs-3150-crore-yatharth-bet.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/advent-international-joins-indias-hospital-gold-rush-with-rs-3150-crore-yatharth-bet/134310716",
+        "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-advent-international-joins-india-s-hospital-gold-rush-with-3-150-crore-y"
+      },
+      {
         "id": "2026-09-13-dr-reddy-s-inks-pact-with-gilead-for-once-yearly-hiv-prevention-drug-len",
         "title": "Dr Reddy's inks pact with Gilead for once-yearly HIV prevention drug lenacapavir",
         "summary": "Dr Reddy's Laboratories and Gilead Sciences have signed a licensing agreement. This pact involves investigational once-yearly lenacapavir for HIV prevention. The agreement facilitates manufacturing and supply planning for 120 countries. This collaboration...",
@@ -89,7 +124,7 @@
         "category": "Manufacturing",
         "image": "https://img.etimg.com/thumb/msid-134306534,width-1200,height-630,imgsize-52610,overlay-economictimes/articleshow.jpg",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/dr-reddys-inks-pact-with-gilead-for-once-yearly-hiv-prevention-drug-lenacapavir/articleshow/134306473.cms",
         "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-dr-reddy-s-inks-pact-with-gilead-for-once-yearly-hiv-prevention-drug-len"
       },
@@ -106,7 +141,7 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-134304132,imgsize-97686,width-1200,height=627,overlay-ethealth,resizemode-75/policy/keralam-to-back-medical-device-parks-new-enterprises-cm-satheesan.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/policy/keralam-to-back-medical-device-parks-new-enterprises-cm-satheesan/134304132",
         "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-keralam-to-back-medical-device-parks-new-enterprises-cm-satheesan"
       },
@@ -123,7 +158,7 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-134304117,imgsize-82416,width-1200,height=627,overlay-ethealth,resizemode-75/industry/pennsylvania-measles-cases-top-700-after-four-outbreak-related-deaths-reported.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/pennsylvania-measles-cases-top-700-after-four-outbreak-related-deaths-reported/134304117",
         "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-pennsylvania-measles-cases-top-700-after-four-outbreak-related-deaths-re"
       },
@@ -140,7 +175,7 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-134297639,imgsize-93007,width-1200,height=627,overlay-ethealth,resizemode-75/industry/new-dye-for-mri-exams-detects-lung-cancer-earlier.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/new-dye-for-mri-exams-detects-lung-cancer-earlier/134297639",
         "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-new-dye-for-mri-exams-detects-lung-cancer-earlier"
       },
@@ -191,7 +226,7 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-134305974,imgsize-116220,width-1200,height=627,overlay-ethealth,resizemode-75/medical-devices/hospitals-push-back-as-fda-flags-high-markups-on-hospital-consumables.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/medical-devices/hospitals-push-back-as-fda-flags-high-markups-on-hospital-consumables/134305974",
         "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-hospitals-push-back-as-fda-flags-high-markups-on-hospital-consumables"
       },
@@ -208,26 +243,9 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-134297690,imgsize-75879,width-1200,height=627,overlay-ethealth,resizemode-75/policy/chandigarh-health-draft-mandates-4-year-defence-service-for-eligible-doctors.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/policy/chandigarh-health-draft-mandates-4-year-defence-service-for-eligible-doctors/134297690",
         "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-chandigarh-health-draft-mandates-4-year-defence-service-for-eligible-doc"
-      },
-      {
-        "id": "2026-09-13-hcg-colaba-and-aci-announce-strategic-collaboration-to-strengthen-cancer",
-        "title": "HCG Colaba and ACI announce strategic collaboration to strengthen cancer care access",
-        "summary": "According to HCG, the institutes will be leveraging clinical capabilities, infrastructure, technology and professional expertise as part of this collaboration.",
-        "source": "ET Healthworld",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-09-16T15:11:11.000Z",
-        "publishedLabel": "September 16, 2026",
-        "category": "Industry Update",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-134291087,imgsize-236920,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/hcg-colaba-and-aci-announce-strategic-collaboration-to-strengthen-cancer-care-access.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/hcg-colaba-and-aci-announce-strategic-collaboration-to-strengthen-cancer-care-access/134291087",
-        "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-hcg-colaba-and-aci-announce-strategic-collaboration-to-strengthen-cancer"
       },
       {
         "id": "2026-09-13-manipal-hospitals-scouts-for-acquisitions-in-andhra-keralam-delhi-ncr-be",
@@ -247,6 +265,23 @@
         "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-manipal-hospitals-scouts-for-acquisitions-in-andhra-keralam-delhi-ncr-be"
       },
       {
+        "id": "2026-09-13-regenerative-orthopaedics-building-evidence-standardisation-and-precisio",
+        "title": "Regenerative orthopaedics: Building evidence, standardisation and precision in care",
+        "summary": "Niteen Tulpule, Treasurer and Dr Sharmila Tulpule, Chairperson, REGEN 2026 in an interview with Kalyani Sharma, discuss the evolving landscape of regenerative orthopaedics in India, the need for greater standardisation and evidence, and the role of the newly...",
+        "source": "Express Healthcare",
+        "sourceHost": "expresshealthcare.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-09-15T14:51:49.000Z",
+        "publishedLabel": "September 15, 2026",
+        "category": "Industry Update",
+        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/09/15202136/REGEN.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://www.expresshealthcare.in/news/regenerative-orthopaedics-building-evidence-standardisation-and-precision-in-care/455143/",
+        "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-regenerative-orthopaedics-building-evidence-standardisation-and-precisio"
+      },
+      {
         "id": "2026-09-13-ori-biotech-signs-us-120m-cell-therapy-manufacturing-deal-as-cellares-re",
         "title": "Ori Biotech signs US$120M cell therapy manufacturing deal as Cellares restructures | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
         "summary": "Under the new agreement, Ori will work with its partner to modernise the manufacturing process for an autologous cell therapy.",
@@ -259,7 +294,7 @@
         "category": "Manufacturing",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/09/image-1600x900-2026-09-17T094850.879.png",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/09/17/ori-biotech-signs-us120m-cell-therapy-manufacturing-deal-as-cellares-restructures/",
         "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-ori-biotech-signs-us-120m-cell-therapy-manufacturing-deal-as-cellares-re"
       },
@@ -310,7 +345,7 @@
         "category": "Manufacturing",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/09/image-1600x900-2026-09-17T094301.780.png",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/09/17/eli-lilly-bets-on-canadian-biotech-qurcan-in-genetic-medicine-delivery-deal/",
         "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-eli-lilly-bets-on-canadian-biotech-qurcan-in-genetic-medicine-delivery-d"
       },
@@ -344,7 +379,7 @@
         "category": "Manufacturing",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/09/image-1600x900-2026-09-17T091526.038.png",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/09/17/cheplapharm-expands-in-house-manufacturing-capabilities-in-major-sanofi-deal/",
         "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-cheplapharm-expands-in-house-manufacturing-capabilities-in-major-sanofi-"
       },
@@ -412,7 +447,7 @@
         "category": "Manufacturing",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/09/image-1600x900-2026-09-17T105411.587.png",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/09/17/ethiopia-targets-who-maturity-level-3-for-medical-device-oversight/",
         "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-ethiopia-targets-who-maturity-level-3-for-medical-device-oversight-healt"
       },
@@ -429,7 +464,7 @@
         "category": "Manufacturing",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/09/image-1600x900-2026-09-17T092703.933.png",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/09/17/gilead-expands-global-lenacapavir-reach-through-strategic-paho-partnership/",
         "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-gilead-expands-global-lenacapavir-reach-through-strategic-paho-partnersh"
       },
@@ -463,7 +498,7 @@
         "category": "Manufacturing",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/09/image-1600x900-2026-09-16T121749.322.png",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/09/16/sidra-medicine-to-host-pmfg-summit-2026-in-qatar/",
         "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-sidra-medicine-to-host-pmfg-summit-2026-in-qatar-healthcare-middle-east-"
       },
@@ -485,21 +520,38 @@
         "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-piramal-pharma-s-uk-facility-receives-7-usfda-observations"
       },
       {
-        "id": "2026-09-13-indian-patent-office-issues-draft-pharma-patent-examination-guidelines-s",
-        "title": "Indian Patent Office Issues Draft Pharma Patent Examination Guidelines, Seeks Greater Consistency in...",
-        "summary": "New Delhi: The Indian Patent Office (IPO) has proposed updating guidelines for examination of pharmaceutical patent applications to improve the quality, consistency and uniformity of scrutiny, taking...",
+        "id": "2026-09-13-supreme-court-pil-seeks-time-bound-probe-trials-in-fake-medicine-cases",
+        "title": "Supreme Court PIL Seeks Time-Bound Probe, Trials in Fake Medicine Cases",
+        "summary": "The plea also sought a direction to the Centre and states to \"mandatorily do the digital recording and videography of search, seizure, sampling and inventory proceedings\".",
         "source": "Medical Dialogues Pharma",
         "sourceHost": "medicaldialogues.in",
         "region": "India",
         "country": "India",
-        "publishedAt": "2026-09-14T14:56:14.000Z",
-        "publishedLabel": "September 14, 2026",
+        "publishedAt": "2026-09-17T16:52:07.000Z",
+        "publishedLabel": "September 17, 2026",
         "category": "Industry Update",
-        "image": "https://medicaldialogues.in/h-upload/2020/05/12/128639-patented.jpg",
+        "image": "https://medicaldialogues.in/h-upload/2026/05/18/348350-kolkata-hospital-gets-relief-as-supreme-court-quashes-criminal-charges-in-billing-dispute-matter-6.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/indian-patent-office-issues-draft-pharma-patent-examination-guidelines-seeks-greater-consistency-in-scrutiny-179231",
-        "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-indian-patent-office-issues-draft-pharma-patent-examination-guidelines-s"
+        "justIn": true,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/supreme-court-pil-seeks-time-bound-probe-trials-in-fake-medicine-cases-179456",
+        "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-supreme-court-pil-seeks-time-bound-probe-trials-in-fake-medicine-cases"
+      },
+      {
+        "id": "2026-09-13-novartis-drops-experimental-amyotrophic-lateral-sclerosis-drug-after-mid",
+        "title": "Novartis Drops Experimental Amyotrophic Lateral Sclerosis Drug After Mid-Stage Trial Failure",
+        "summary": "Bengaluru: Novartis has halted development of an experimental drug for amyotrophic lateral sclerosis after it failed to meet goals in a mid-stage study, marking the latest disappointment for the Swiss...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-09-17T16:39:58.000Z",
+        "publishedLabel": "September 17, 2026",
+        "category": "Industry Update",
+        "image": "https://medicaldialogues.in/h-upload/2024/02/17/232451-novartis-50.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/novartis-drops-experimental-amyotrophic-lateral-sclerosis-drug-after-mid-stage-trial-failure-179455",
+        "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-novartis-drops-experimental-amyotrophic-lateral-sclerosis-drug-after-mid"
       },
       {
         "id": "2026-09-13-bulk-drugs-allegedly-relabelled-as-premium-brands-in-karnataka-healthcar",
@@ -519,21 +571,21 @@
         "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-bulk-drugs-allegedly-relabelled-as-premium-brands-in-karnataka-healthcar"
       },
       {
-        "id": "2026-09-13-african-health-leaders-gather-in-nairobi-for-who-regional-dementia-summi",
-        "title": "African health leaders gather in Nairobi for WHO regional dementia summit | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
-        "summary": "An estimated 1.9 million people are currently living with dementia in the WHO African Region, with the number expected to increase as populations grow and life expectancy rises.",
-        "source": "Healthcare MEA",
-        "sourceHost": "healthcaremea.com",
-        "region": "Middle East",
-        "country": "Middle East",
-        "publishedAt": "2026-09-17T08:09:32.000Z",
+        "id": "2026-09-13-scientists-develop-a-new-way-to-test-autism-and-epilepsy-treatments-why-",
+        "title": "Scientists develop a new way to test autism & epilepsy treatments: Why traditional mice cannot explain com",
+        "summary": "Scientists have implanted human brain organoids into specially engineered mice. These human cells survived and connected with the animals' existing nervous systems. This new model allows observation of human brain cells within a living organism. It could aid...",
+        "source": "Lupin Updates",
+        "sourceHost": "economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-09-17T17:23:00.000Z",
         "publishedLabel": "September 17, 2026",
-        "category": "Manufacturing",
-        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/09/image-1600x900-2026-09-17T104352.222.png",
-        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
+        "category": "Industry Update",
+        "image": "https://img.etimg.com/thumb/msid-134318107,width-1200,height-630,imgsize-246886,overlay-economictimes/articleshow.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
         "justIn": true,
-        "originalUrl": "https://www.healthcaremea.com/2026/09/17/african-health-leaders-gather-in-nairobi-for-who-regional-dementia-summit/",
-        "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-african-health-leaders-gather-in-nairobi-for-who-regional-dementia-summi"
+        "originalUrl": "https://economictimes.indiatimes.com/news/international/global-trends/scientists-develop-a-new-way-to-test-autism-epilepsy-treatments-using-mice-with-human-brain-tissue-why-traditional-mice-cannot-explain-complex-human-brain-disorders/articleshow/134317897.cms",
+        "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-scientists-develop-a-new-way-to-test-autism-and-epilepsy-treatments-why-"
       },
       {
         "id": "2026-09-13-gsk-to-acquire-chimagen-s-trispecific-cancer-drug-in-deal-worth-up-to-us",
@@ -565,7 +617,7 @@
         "category": "Manufacturing",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/09/image-1600x900-2026-09-16T115916.539.png",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/09/16/who-signs-four-year-accord-with-commonwealth-secretariat-to-boost-health-resilience/",
         "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-who-signs-four-year-accord-with-commonwealth-secretariat-to-boost-health"
       },
@@ -621,23 +673,6 @@
         "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-eli-lilly-gains-over-30-share-of-new-us-oral-obesity-patients-with-found"
       },
       {
-        "id": "2026-09-13-avantor-expands-rim-single-use-portfolio-of-bioprocessing-solutions-acro",
-        "title": "Avantor expands RIM single-use portfolio of bioprocessing solutions across APAC",
-        "summary": "Avantor expands RIM single-use portfolio of bioprocessing solutions across APAC",
-        "source": "BioSpectrum Asia Middle East",
-        "sourceHost": "biospectrumasia.com",
-        "region": "Middle East",
-        "country": "Oman",
-        "publishedAt": "2026-09-16T18:30:00.000Z",
-        "publishedLabel": "September 17, 2026",
-        "category": "Industry Update",
-        "image": "https://www.biospectrumasia.com/uploads/articles/unnamed_13_-28383.jpg?v=20260917090208",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
-        "originalUrl": "https://www.biospectrumasia.com/news/41/28383/avantor-expands-rim-single-use-portfolio-of-bioprocessing-solutions-across-apac.html",
-        "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-avantor-expands-rim-single-use-portfolio-of-bioprocessing-solutions-acro"
-      },
-      {
         "id": "2026-09-13-pharma-md-arrested-over-alleged-rs-5-55-cr-fake-itc-gst-refund-fraud",
         "title": "Pharma MD Arrested Over Alleged Rs 5.55 Cr Fake ITC, GST Refund Fraud",
         "summary": "Sirmaur: The Preventive Wing of the Central Goods and Services Tax (CGST) Commissionerate, Shimla, has uncovered an alleged GST fraud involving input tax credit (ITC) worth around Rs 5.55 crore in...",
@@ -674,6 +709,23 @@
     ],
     "providers": [
       {
+        "id": "2026-09-13-hcg-colaba-and-aci-announce-strategic-collaboration-to-strengthen-cancer",
+        "title": "HCG Colaba and ACI announce strategic collaboration to strengthen cancer care access",
+        "summary": "According to HCG, the institutes will be leveraging clinical capabilities, infrastructure, technology and professional expertise as part of this collaboration.",
+        "source": "ET Healthworld Hospitals",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-09-16T15:11:11.000Z",
+        "publishedLabel": "September 16, 2026",
+        "category": "Provider Update",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-134291087,imgsize-236920,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/hcg-colaba-and-aci-announce-strategic-collaboration-to-strengthen-cancer-care-access.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": true,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/hcg-colaba-and-aci-announce-strategic-collaboration-to-strengthen-cancer-care-access/134291087",
+        "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-hcg-colaba-and-aci-announce-strategic-collaboration-to-strengthen-cancer"
+      },
+      {
         "id": "2026-09-13-marengo-asia-hospitals-raises-400-crore-from-leapfrog-investments-to-dou",
         "title": "Marengo Asia Hospitals raises ₹400 crore from LeapFrog Investments to double bed capacity",
         "summary": "Marengo operates five hospitals in India and has a strategic partnership in Saudi Arabia. It has a capacity of 2,000 beds and operates facilities across the National Capital Region, Gujarat and Rajasthan. Its revenues are said to be in the ₹1,000-1,200 crore...",
@@ -703,7 +755,7 @@
         "category": "Policy",
         "image": "https://etimg.etb2bimg.com/thumb/msid-134276059,imgsize-161056,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/aiims-holds-workshop-on-strengthening-health-education-for-cardiometabolic-diseases.jpg",
         "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/aiims-holds-workshop-on-strengthening-health-education-for-cardiometabolic-diseases/134276059",
         "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-aiims-holds-workshop-on-strengthening-health-education-for-cardiometabol"
       },
@@ -725,6 +777,23 @@
         "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-marengo-asia-hospitals-raises-40-million-from-leapfrog-investments"
       },
       {
+        "id": "2026-09-13-expanding-the-reach-of-quality-healthcare",
+        "title": "Expanding the reach of quality healthcare",
+        "summary": "Sarvodaya’s acquisition of Nayati Hospital comes at a time when consolidation in the hospital sector is gaining pace. What does this acquisition tell us about the opportunities and challenges in the hospital market beyond the major metros? The acquisition...",
+        "source": "Express Healthcare",
+        "sourceHost": "expresshealthcare.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-09-15T13:45:55.000Z",
+        "publishedLabel": "September 15, 2026",
+        "category": "Hospital",
+        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/09/15191338/Dr-Rakesh-Gupta-Chairman-Sarvodaya-Healthcare.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": true,
+        "originalUrl": "https://www.expresshealthcare.in/news/expanding-the-reach-of-quality-healthcare/455140/",
+        "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-expanding-the-reach-of-quality-healthcare"
+      },
+      {
         "id": "2026-09-13-industry-experts-respond-to-maharashtra-fda-review-of-medical-device-pri",
         "title": "Industry experts respond to Maharashtra FDA review of medical device pricing",
         "summary": "Industry players respond to Maharashtra FDA findings on gaps between procurement prices and printed MRPs of hospital consumables",
@@ -737,7 +806,7 @@
         "category": "Hospital",
         "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2021/05/05170911/Money.jpg",
         "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/news/industry-experts-respond-to-maharashtra-fda-review-of-medical-device-pricing/455159/",
         "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-industry-experts-respond-to-maharashtra-fda-review-of-medical-device-pri"
       },
@@ -754,7 +823,7 @@
         "category": "Hospital",
         "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2021/05/13184627/handshake.jpg",
         "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/news/kauvery-hospital-deploys-netsfere-for-secure-clinical-communication/455156/",
         "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-kauvery-hospital-deploys-netsfere-for-secure-clinical-communication"
       },
@@ -776,6 +845,23 @@
         "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-fortis-escorts-hospital-faridabad-launches-dedicated-fever-clinic"
       },
       {
+        "id": "2026-09-13-metaqon-precision-health-launches-reproductive-intelligence-in-india",
+        "title": "MetaQon Precision Health launches Reproductive Intelligence in India",
+        "summary": "Whole-genome based pre-cycle fertility workup is designed to identify genetic and biological risk factors not detected through standard first-line IVF testing",
+        "source": "Express Healthcare",
+        "sourceHost": "expresshealthcare.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-09-17T09:37:59.000Z",
+        "publishedLabel": "September 17, 2026",
+        "category": "Provider Update",
+        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2021/08/18135154/ivf-1514174_640.png",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": true,
+        "originalUrl": "https://www.expresshealthcare.in/news/metaqon-precision-health-launches-reproductive-intelligence-in-india/455164/",
+        "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-metaqon-precision-health-launches-reproductive-intelligence-in-india"
+      },
+      {
         "id": "2026-09-13-uk-nurse-agimol-pradeep-wins-aster-guardians-global-nursing-award-2026",
         "title": "UK nurse Agimol Pradeep wins Aster Guardians Global Nursing Award 2026",
         "summary": "Senior Transplant Coordinator at King’s College Hospital receives USD 250,000 prize after being selected from more than 134,000 registrations across 214 countries and economies",
@@ -793,23 +879,6 @@
         "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-uk-nurse-agimol-pradeep-wins-aster-guardians-global-nursing-award-2026"
       },
       {
-        "id": "2026-09-13-kenya-medical-association-appoints-dr-wendy-kimbui-as-new-ceo-healthcare",
-        "title": "Kenya Medical Association appoints Dr Wendy Kimbui as new CEO | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
-        "summary": "As Chief Executive Officer, Dr Kimbui will lead the Association's operations as it continues to represent doctors and engage on healthcare issues in Kenya.",
-        "source": "Healthcare MEA",
-        "sourceHost": "healthcaremea.com",
-        "region": "Middle East",
-        "country": "Middle East",
-        "publishedAt": "2026-09-17T08:08:28.000Z",
-        "publishedLabel": "September 17, 2026",
-        "category": "Provider Update",
-        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/09/image-1600x900-2026-09-17T110450.491.png",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
-        "originalUrl": "https://www.healthcaremea.com/2026/09/17/kenya-medical-association-appoints-dr-wendy-kimbui-as-new-ceo/",
-        "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-kenya-medical-association-appoints-dr-wendy-kimbui-as-new-ceo-healthcare"
-      },
-      {
         "id": "2026-09-13-edge-and-hanwha-strengthen-strategic-cooperation-on-integrated-air-defen",
         "title": "EDGE and Hanwha strengthen strategic cooperation on integrated air defence",
         "summary": "EDGE and Hanwha sign term sheet in Abu Dhabi, exploring L-SAM, M-SAM and Chunmoo for integrated air defence",
@@ -822,7 +891,7 @@
         "category": "AI Care Delivery",
         "image": "https://media.zawya.com/prod/images/gm_preview/d858c8dd063c-yang-ki-won-ceo-of-hanwha-systems-and-hamad-al-marar-managing-director-and-ceo.jpg",
         "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.zawya.com/en/press-release/companies-news/edge-and-hanwha-strengthen-strategic-cooperation-on-integrated-air-defence-800930",
         "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-edge-and-hanwha-strengthen-strategic-cooperation-on-integrated-air-defen"
       },
@@ -842,42 +911,25 @@
         "justIn": false,
         "originalUrl": "https://www.zawya.com/en/press-release/companies-news/bahrain-international-airport-wins-three-awards-at-the-2026-skytrax-world-airport-awards-682956",
         "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-bahrain-international-airport-wins-three-awards-at-the-2026-skytrax-worl"
-      },
-      {
-        "id": "2026-09-13-driven-properties-appoints-emre-okay-as-new-group-chief-financial-office",
-        "title": "Driven Properties appoints Emre Okay as new Group Chief Financial Officer amid business expansion",
-        "summary": "The appointment comes at a pivotal stage in the transformational journey of Driven Properties",
-        "source": "Zawya Pharmaceuticals",
-        "sourceHost": "zawya.com",
-        "region": "Middle East",
-        "country": "United Arab Emirates",
-        "publishedAt": "2026-09-15T08:41:00.524Z",
-        "publishedLabel": "September 15, 2026",
-        "category": "Expansion",
-        "image": "https://media.zawya.com/prod/images/gm_preview/947a4172d855-emre-image-hd-2.jpg",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
-        "originalUrl": "https://www.zawya.com/en/press-release/people-in-the-news/driven-properties-appoints-emre-okay-as-new-group-chief-financial-officer-amid-business-expansion-667340",
-        "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-driven-properties-appoints-emre-okay-as-new-group-chief-financial-office"
       }
     ],
     "diagnostics": [
       {
-        "id": "2026-09-13-imported-dialysis-solution-fails-endotoxin-test-ingredient-labelling-iss",
-        "title": "Imported Dialysis Solution Fails Endotoxin Test, Ingredient, Labelling Issues Flagged",
-        "summary": "New Delhi: A government laboratory in Himachal Pradesh has classified two batches of an imported peritoneal dialysis solution as Not of Standard Quality after samples failed the bacterial endotoxin...",
-        "source": "Medical Dialogues Pharma",
-        "sourceHost": "medicaldialogues.in",
+        "id": "2026-09-13-a-decade-after-mercury-ban-toxic-skin-bleachers-still-offered-on-top-ret",
+        "title": "A decade after mercury ban, toxic skin bleachers still offered on top retailers' websites",
+        "summary": "More than 20 banned skin-bleaching products containing mercury are available for purchase on third-party marketplaces run by Amazon, Temu and TikTok Shop in several countries, despite decades of efforts by health advocates and regulators to prevent their...",
+        "source": "Reuters Healthcare & Pharma",
+        "sourceHost": "reuters.com",
         "region": "India",
         "country": "India",
-        "publishedAt": "2026-09-14T14:45:52.000Z",
-        "publishedLabel": "September 14, 2026",
+        "publishedAt": "2026-09-16T05:03:36.682Z",
+        "publishedLabel": "September 16, 2026",
         "category": "Lab Network",
-        "image": "https://medicaldialogues.in/h-upload/2024/09/19/253384-not-of-standard-quality.jpg",
+        "image": "https://www.reuters.com/resizer/v2/3AWOLM6YQFP75HLMOEI4DJRVGM.jpg?auth=634de3559fe6446a231bb9ee771320b974c11ee384133ea23b4a73abef33dbe5&height=1005&width=1920&quality=80&smart=true",
         "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
-        "justIn": false,
-        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/imported-dialysis-solution-fails-endotoxin-test-ingredient-labelling-issues-flagged-179239",
-        "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-imported-dialysis-solution-fails-endotoxin-test-ingredient-labelling-iss"
+        "justIn": true,
+        "originalUrl": "https://www.reuters.com/legal/litigation/decade-after-mercury-ban-toxic-skin-bleachers-still-offered-top-retailers-2026-09-16/",
+        "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-a-decade-after-mercury-ban-toxic-skin-bleachers-still-offered-on-top-ret"
       }
     ],
     "healthtech": [
@@ -901,6 +953,14 @@
     ]
   },
   "thbActions": [
+    {
+      "segment": "pharma",
+      "articleId": "2026-09-13-longeveron-explores-strategic-options-after-therapy-fails-mid-stage-tria",
+      "title": "Longeveron explores strategic options after therapy fails mid-stage trial for infant heart condition",
+      "source": "Reuters Healthcare & Pharma",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
     {
       "segment": "pharma",
       "articleId": "2026-09-13-supreme-court-upholds-himachal-hc-ruling-on-drug-regulator-powers-impact",
@@ -927,19 +987,19 @@
     },
     {
       "segment": "pharma",
-      "articleId": "2026-09-13-dr-reddy-s-inks-pact-with-gilead-for-once-yearly-hiv-prevention-drug-len",
-      "title": "Dr Reddy's inks pact with Gilead for once-yearly HIV prevention drug lenacapavir",
-      "source": "Economic Times Pharma",
-      "solution": "THB Commercial Analytics",
-      "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
-    },
-    {
-      "segment": "pharma",
-      "articleId": "2026-09-13-keralam-to-back-medical-device-parks-new-enterprises-cm-satheesan",
-      "title": "Keralam to back medical device parks, new enterprises: CM Satheesan",
+      "articleId": "2026-09-13-advent-international-joins-india-s-hospital-gold-rush-with-3-150-crore-y",
+      "title": "Advent International joins India’s hospital gold rush with ₹3,150 crore Yatharth bet",
       "source": "ET Healthworld",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "providers",
+      "articleId": "2026-09-13-hcg-colaba-and-aci-announce-strategic-collaboration-to-strengthen-cancer",
+      "title": "HCG Colaba and ACI announce strategic collaboration to strengthen cancer care access",
+      "source": "ET Healthworld Hospitals",
+      "solution": "THB Provider CRM",
+      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
     },
     {
       "segment": "providers",
@@ -967,25 +1027,17 @@
     },
     {
       "segment": "providers",
-      "articleId": "2026-09-13-industry-experts-respond-to-maharashtra-fda-review-of-medical-device-pri",
-      "title": "Industry experts respond to Maharashtra FDA review of medical device pricing",
-      "source": "Express Healthcare",
-      "solution": "THB Provider CRM",
-      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
-    },
-    {
-      "segment": "providers",
-      "articleId": "2026-09-13-kauvery-hospital-deploys-netsfere-for-secure-clinical-communication",
-      "title": "Kauvery Hospital deploys NetSfere for secure clinical communication",
+      "articleId": "2026-09-13-expanding-the-reach-of-quality-healthcare",
+      "title": "Expanding the reach of quality healthcare",
       "source": "Express Healthcare",
       "solution": "THB Provider CRM",
       "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
     },
     {
       "segment": "diagnostics",
-      "articleId": "2026-09-13-imported-dialysis-solution-fails-endotoxin-test-ingredient-labelling-iss",
-      "title": "Imported Dialysis Solution Fails Endotoxin Test, Ingredient, Labelling Issues Flagged",
-      "source": "Medical Dialogues Pharma",
+      "articleId": "2026-09-13-a-decade-after-mercury-ban-toxic-skin-bleachers-still-offered-on-top-ret",
+      "title": "A decade after mercury ban, toxic skin bleachers still offered on top retailers' websites",
+      "source": "Reuters Healthcare & Pharma",
       "solution": "THB Diagnostics CRM",
       "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
     }

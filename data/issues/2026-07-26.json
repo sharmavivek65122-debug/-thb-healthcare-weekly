@@ -5,10 +5,10 @@
   "startDate": "2026-07-25T18:30:00.000Z",
   "endDate": "2026-07-31T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-09-17T09:34:59.967Z",
+  "updatedAt": "2026-09-17T17:42:46.717Z",
   "coverage": {
     "pharma": 2,
-    "providers": 2,
+    "providers": 1,
     "diagnostics": 0,
     "healthtech": 0
   },
@@ -70,23 +70,6 @@
         "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/tpg-permira-emerge-as-frontrunners-in-rs-11000-crore-cloudnine-sale/132779459",
         "articlePath": "/article.html?issue=2026-07-26&article=2026-07-26-tpg-permira-emerge-as-frontrunners-in-rs-11-000-crore-cloudnine-sale"
-      },
-      {
-        "id": "2026-07-26-ai-insurance-to-drive-growth-in-indian-hospital-sector-deloitte-survey",
-        "title": "AI, insurance to drive growth in Indian hospital sector: Deloitte survey",
-        "summary": "According to the report, 60 per cent of hospital CXOs surveyed expect the sector to grow 10 to 15 per cent in FY27, supported by rising insurance penetration, growing demand for organised healthcare, and continued bed expansion, with private equity and...",
-        "source": "ET Healthworld Hospitals",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-07-31T09:53:00.000Z",
-        "publishedLabel": "July 31, 2026",
-        "category": "Expansion",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-132763240,imgsize-86354,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/ai-insurance-to-drive-growth-in-indian-hospital-sector-deloitte-survey.jpg",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/ai-insurance-to-drive-growth-in-indian-hospital-sector-deloitte-survey/132763240",
-        "articlePath": "/article.html?issue=2026-07-26&article=2026-07-26-ai-insurance-to-drive-growth-in-indian-hospital-sector-deloitte-survey"
       }
     ],
     "diagnostics": [],
@@ -113,14 +96,6 @@
       "segment": "providers",
       "articleId": "2026-07-26-tpg-permira-emerge-as-frontrunners-in-rs-11-000-crore-cloudnine-sale",
       "title": "TPG, Permira emerge as frontrunners in Rs 11,000 crore Cloudnine sale",
-      "source": "ET Healthworld Hospitals",
-      "solution": "THB Provider CRM",
-      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
-    },
-    {
-      "segment": "providers",
-      "articleId": "2026-07-26-ai-insurance-to-drive-growth-in-indian-hospital-sector-deloitte-survey",
-      "title": "AI, insurance to drive growth in Indian hospital sector: Deloitte survey",
       "source": "ET Healthworld Hospitals",
       "solution": "THB Provider CRM",
       "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
