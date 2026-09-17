@@ -5,38 +5,19 @@
   "startDate": "2026-08-29T18:30:00.000Z",
   "endDate": "2026-09-04T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-09-16T17:42:06.587Z",
+  "updatedAt": "2026-09-17T09:34:59.967Z",
   "coverage": {
-    "pharma": 1,
+    "pharma": 0,
     "providers": 10,
     "diagnostics": 3,
     "healthtech": 0
   },
   "sourcesUsed": [
     "ET Healthworld Diagnostics",
-    "ET Healthworld Hospitals",
-    "Economic Times Pharma"
+    "ET Healthworld Hospitals"
   ],
   "segments": {
-    "pharma": [
-      {
-        "id": "2026-08-30-govt-flags-abhayrab-rabies-vaccine-batch-as-substandard-probes-if-spurio",
-        "title": "Govt flags Abhayrab rabies vaccine batch as substandard, probes if spurious, document shows",
-        "summary": "India's drug regulator has flagged a batch of Abhayrab rabies vaccine as substandard. This finding marks the second time concerns have been raised about counterfeit Abhayrab doses. The government's Central Drugs Laboratory found the vaccine did not meet...",
-        "source": "Economic Times Pharma",
-        "sourceHost": "economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-09-05T00:55:23.000Z",
-        "publishedLabel": "September 5, 2026",
-        "category": "Industry Update",
-        "image": "https://img.etimg.com/thumb/msid-133783122,width-1200,height-630,imgsize-72758,overlay-economictimes/articleshow.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/india-flags-abhayrab-rabies-vaccine-batch-as-substandard-probes-if-spurious-document-shows/articleshow/133783108.cms",
-        "articlePath": "/article.html?issue=2026-08-30&article=2026-08-30-govt-flags-abhayrab-rabies-vaccine-batch-as-substandard-probes-if-spurio"
-      }
-    ],
+    "pharma": [],
     "providers": [
       {
         "id": "2026-08-30-aig-hospitals-to-invest-rs-2000-crore-in-vizag",
@@ -265,14 +246,6 @@
     "healthtech": []
   },
   "thbActions": [
-    {
-      "segment": "pharma",
-      "articleId": "2026-08-30-govt-flags-abhayrab-rabies-vaccine-batch-as-substandard-probes-if-spurio",
-      "title": "Govt flags Abhayrab rabies vaccine batch as substandard, probes if spurious, document shows",
-      "source": "Economic Times Pharma",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
     {
       "segment": "providers",
       "articleId": "2026-08-30-aig-hospitals-to-invest-rs-2000-crore-in-vizag",
