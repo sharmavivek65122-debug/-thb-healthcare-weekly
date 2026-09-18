@@ -5,38 +5,19 @@
   "startDate": "2026-08-29T18:30:00.000Z",
   "endDate": "2026-09-04T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-09-18T09:07:02.048Z",
+  "updatedAt": "2026-09-18T17:09:44.576Z",
   "coverage": {
-    "pharma": 1,
-    "providers": 9,
+    "pharma": 0,
+    "providers": 10,
     "diagnostics": 3,
     "healthtech": 0
   },
   "sourcesUsed": [
-    "ET Healthworld",
     "ET Healthworld Diagnostics",
     "ET Healthworld Hospitals"
   ],
   "segments": {
-    "pharma": [
-      {
-        "id": "2026-08-30-max-saket-adds-400-beds-emerges-as-delhi-s-largest-private-hospital-by-c",
-        "title": "Max Saket adds 400 beds, emerges as Delhi’s largest private hospital by capacity",
-        "summary": "The expansion takes Max Saket’s total bed capacity to approximately 1,200, making it the largest private hospital in Delhi by bed capacity, according to Max Healthcare, as the healthcare major continues to expand its network and target 10,000 beds over the...",
-        "source": "ET Healthworld",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-09-03T12:58:44.000Z",
-        "publishedLabel": "September 3, 2026",
-        "category": "Industry Update",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-133737110,imgsize-214062,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/max-saket-adds-400-beds-emerges-as-delhis-largest-private-hospital-by-capacity.jpg",
-        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/max-saket-adds-400-beds-emerges-as-delhis-largest-private-hospital-by-capacity/133737110",
-        "articlePath": "/article.html?issue=2026-08-30&article=2026-08-30-max-saket-adds-400-beds-emerges-as-delhi-s-largest-private-hospital-by-c"
-      }
-    ],
+    "pharma": [],
     "providers": [
       {
         "id": "2026-08-30-aig-hospitals-to-invest-rs-2000-crore-in-vizag",
@@ -54,6 +35,23 @@
         "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/aig-hospitals-to-invest-rs-2000-crore-in-vizag/133639225",
         "articlePath": "/article.html?issue=2026-08-30&article=2026-08-30-aig-hospitals-to-invest-rs-2000-crore-in-vizag"
+      },
+      {
+        "id": "2026-08-30-max-saket-adds-400-beds-emerges-as-delhi-s-largest-private-hospital-by-c",
+        "title": "Max Saket adds 400 beds, emerges as Delhi’s largest private hospital by capacity",
+        "summary": "The expansion takes Max Saket’s total bed capacity to approximately 1,200, making it the largest private hospital in Delhi by bed capacity, according to Max Healthcare, as the healthcare major continues to expand its network and target 10,000 beds over the...",
+        "source": "ET Healthworld Hospitals",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-09-03T12:58:44.000Z",
+        "publishedLabel": "September 3, 2026",
+        "category": "Expansion",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-133737110,imgsize-214062,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/max-saket-adds-400-beds-emerges-as-delhis-largest-private-hospital-by-capacity.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": false,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/max-saket-adds-400-beds-emerges-as-delhis-largest-private-hospital-by-capacity/133737110",
+        "articlePath": "/article.html?issue=2026-08-30&article=2026-08-30-max-saket-adds-400-beds-emerges-as-delhi-s-largest-private-hospital-by-c"
       },
       {
         "id": "2026-08-30-aiims-bhopal-expands-digi-footprint-as-new-specialised-facilities-take-s",
@@ -249,17 +247,17 @@
   },
   "thbActions": [
     {
-      "segment": "pharma",
-      "articleId": "2026-08-30-max-saket-adds-400-beds-emerges-as-delhi-s-largest-private-hospital-by-c",
-      "title": "Max Saket adds 400 beds, emerges as Delhi’s largest private hospital by capacity",
-      "source": "ET Healthworld",
-      "solution": "THB Commercial Analytics",
-      "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
-    },
-    {
       "segment": "providers",
       "articleId": "2026-08-30-aig-hospitals-to-invest-rs-2000-crore-in-vizag",
       "title": "AIG Hospitals to invest Rs 2000 crore in Vizag",
+      "source": "ET Healthworld Hospitals",
+      "solution": "THB Provider CRM",
+      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
+    },
+    {
+      "segment": "providers",
+      "articleId": "2026-08-30-max-saket-adds-400-beds-emerges-as-delhi-s-largest-private-hospital-by-c",
+      "title": "Max Saket adds 400 beds, emerges as Delhi’s largest private hospital by capacity",
       "source": "ET Healthworld Hospitals",
       "solution": "THB Provider CRM",
       "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
@@ -284,14 +282,6 @@
       "segment": "providers",
       "articleId": "2026-08-30-first-you-want-to-see-occupancy-move-up-ebitda-will-chase-soi-on-max-hea",
       "title": "'First You Want to See Occupancy Move Up, EBITDA Will Chase': Soi on Max Healthcare’s 10,000-Bed Expansion",
-      "source": "ET Healthworld Hospitals",
-      "solution": "THB Provider CRM",
-      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
-    },
-    {
-      "segment": "providers",
-      "articleId": "2026-08-30-nadda-inaugurates-advanced-bladder-diagnostics-pet-ct-spect-ct-facilitie",
-      "title": "Nadda inaugurates advanced bladder diagnostics, PET-CT, SPECT-CT facilities at Safdarjung Hospital",
       "source": "ET Healthworld Hospitals",
       "solution": "THB Provider CRM",
       "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."

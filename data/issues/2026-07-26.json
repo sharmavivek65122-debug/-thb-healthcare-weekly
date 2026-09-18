@@ -5,15 +5,14 @@
   "startDate": "2026-07-25T18:30:00.000Z",
   "endDate": "2026-07-31T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-09-18T09:07:02.048Z",
+  "updatedAt": "2026-09-18T17:09:44.576Z",
   "coverage": {
     "pharma": 2,
-    "providers": 1,
+    "providers": 0,
     "diagnostics": 0,
     "healthtech": 0
   },
   "sourcesUsed": [
-    "ET Healthworld Hospitals",
     "Janssen India Media"
   ],
   "segments": {
@@ -53,25 +52,7 @@
         "articlePath": "/article.html?issue=2026-07-26&article=2026-07-26-johnson-and-johnson-completes-acquisition-of-firefly-bio-inc-to-advance-"
       }
     ],
-    "providers": [
-      {
-        "id": "2026-07-26-tpg-permira-emerge-as-frontrunners-in-rs-11-000-crore-cloudnine-sale",
-        "title": "TPG, Permira emerge as frontrunners in Rs 11,000 crore Cloudnine sale",
-        "summary": "TPG Capital and Permira are leading contenders for a significant minority stake in Cloudnine. The deal is expected to value India's largest maternity and pediatric hospital chain at approximately ₹11,000 crore. Binding bids are anticipated by mid-August after...",
-        "source": "ET Healthworld Hospitals",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-08-01T01:48:44.000Z",
-        "publishedLabel": "August 1, 2026",
-        "category": "Hospital",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-132779459,imgsize-114196,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/tpg-permira-emerge-as-frontrunners-in-rs-11000-crore-cloudnine-sale.jpg",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/tpg-permira-emerge-as-frontrunners-in-rs-11000-crore-cloudnine-sale/132779459",
-        "articlePath": "/article.html?issue=2026-07-26&article=2026-07-26-tpg-permira-emerge-as-frontrunners-in-rs-11-000-crore-cloudnine-sale"
-      }
-    ],
+    "providers": [],
     "diagnostics": [],
     "healthtech": []
   },
@@ -91,14 +72,6 @@
       "source": "Janssen India Media",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
-      "segment": "providers",
-      "articleId": "2026-07-26-tpg-permira-emerge-as-frontrunners-in-rs-11-000-crore-cloudnine-sale",
-      "title": "TPG, Permira emerge as frontrunners in Rs 11,000 crore Cloudnine sale",
-      "source": "ET Healthworld Hospitals",
-      "solution": "THB Provider CRM",
-      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
     }
   ]
 }
