@@ -5,19 +5,17 @@
   "startDate": "2026-09-12T18:30:00.000Z",
   "endDate": "2026-09-18T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-09-20T16:56:38.441Z",
+  "updatedAt": "2026-09-21T10:08:05.762Z",
   "coverage": {
-    "pharma": 29,
-    "providers": 16,
-    "diagnostics": 2,
-    "healthtech": 1
+    "pharma": 25,
+    "providers": 10,
+    "diagnostics": 1,
+    "healthtech": 0
   },
   "sourcesUsed": [
     "ET Healthworld",
     "ET Healthworld Hospitals",
     "Economic Times Pharma",
-    "Express Healthcare",
-    "Healthcare MEA",
     "Janssen India Media",
     "Medical Dialogues Pharma",
     "Zawya Pharmaceuticals"
@@ -178,23 +176,6 @@
         "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-cough-syrup-bottles-may-soon-carry-a-warning-label-in-red"
       },
       {
-        "id": "2026-09-13-fortis-signs-services-agreement-for-400-bed-hospital-in-delhi",
-        "title": "Fortis signs services agreement for 400 bed hospital in Delhi",
-        "summary": "The hospital is located on a 3.1 acre land in Ashok Vihar and will open in a phased manner, providing tertiary, and quaternary healthcare services across key specialties, such as Oncology, Neurosciences, Cardiac Sciences, Gastroenterology, Orthopaedics, Renal...",
-        "source": "ET Healthworld",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-09-18T09:33:33.000Z",
-        "publishedLabel": "September 18, 2026",
-        "category": "Industry Update",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-134331231,imgsize-123491,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/fortis-signs-services-agreement-for-400-bed-hospital-in-delhi.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/fortis-signs-services-agreement-for-400-bed-hospital-in-delhi/134331231",
-        "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-fortis-signs-services-agreement-for-400-bed-hospital-in-delhi"
-      },
-      {
         "id": "2026-09-13-us-names-india-china-pakistan-among-drug-transit-illicit-drug-producing-",
         "title": "US names India, China, Pakistan among drug transit, illicit drug-producing nations for FY27",
         "summary": "The United States has designated India, China, and Pakistan as major drug producing or transit countries. This presidential determination covers twenty-three nations for fiscal year twenty twenty-seven. Afghanistan, Bolivia, Burma, and Colombia were...",
@@ -263,23 +244,6 @@
         "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-manipal-hospitals-scouts-for-acquisitions-in-andhra-keralam-delhi-ncr-be"
       },
       {
-        "id": "2026-09-13-sk-biopharmaceuticals-adds-parkinson-s-disease-drug-to-pipeline-in-us-31",
-        "title": "SK Biopharmaceuticals adds Parkinson’s disease drug to pipeline in US$315M deal | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
-        "summary": "Under the agreement, 1ST Biotherapeutics will receive US$1.8 million upfront and an additional US$1.8 million payment in the near term.",
-        "source": "Healthcare MEA",
-        "sourceHost": "healthcaremea.com",
-        "region": "Middle East",
-        "country": "Middle East",
-        "publishedAt": "2026-09-18T07:55:49.000Z",
-        "publishedLabel": "September 18, 2026",
-        "category": "Manufacturing",
-        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/09/image-1600x900-2026-09-18T105231.700.png",
-        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": false,
-        "originalUrl": "https://www.healthcaremea.com/2026/09/18/sk-biopharmaceuticals-adds-parkinsons-disease-drug-to-pipeline-in-us315m-deal/",
-        "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-sk-biopharmaceuticals-adds-parkinson-s-disease-drug-to-pipeline-in-us-31"
-      },
-      {
         "id": "2026-09-13-usfda-inspection-ends-with-1-observation-at-aurobindo-pharma-s-apitoria-",
         "title": "USFDA Inspection Ends With 1 Observation at Aurobindo Pharma's Apitoria API Facility",
         "summary": "Hyderabad: Aurobindo Pharma Limited has announced the completion of a United States Food and Drug Administration (USFDA) inspection at Unit-II of Apitoria Pharma Private Limited, a wholly owned...",
@@ -346,23 +310,6 @@
         "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/novo-nordisk-orbis-ink-up-to-usd-14-bn-deal-to-develop-oral-cardiometabolic-therapies-179521",
         "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-novo-nordisk-orbis-ink-up-to-usd-1-4-bn-deal-to-develop-oral-cardiometab"
-      },
-      {
-        "id": "2026-09-13-roche-strikes-us-1b-bispecific-antibody-discovery-deal-with-dualitas-the",
-        "title": "Roche strikes US$1B bispecific antibody discovery deal with Dualitas Therapeutics | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
-        "summary": "Roche will take responsibility for subsequent development activities, including preclinical research, and oversee the programmes as they progress towards potential commercialisation.",
-        "source": "Healthcare MEA",
-        "sourceHost": "healthcaremea.com",
-        "region": "Middle East",
-        "country": "Middle East",
-        "publishedAt": "2026-09-18T07:40:43.000Z",
-        "publishedLabel": "September 18, 2026",
-        "category": "Manufacturing",
-        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/09/image-1600x900-2026-09-18T103316.887.png",
-        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": false,
-        "originalUrl": "https://www.healthcaremea.com/2026/09/18/roche-strikes-us1b-bispecific-antibody-discovery-deal-with-dualitas-therapeutics/",
-        "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-roche-strikes-us-1b-bispecific-antibody-discovery-deal-with-dualitas-the"
       },
       {
         "id": "2026-09-13-alembic-pharma-s-vadodara-bioequivalence-facility-gets-usfda-inspection-",
@@ -484,23 +431,6 @@
         "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-dr-reddy-s-confirms-gilead-licence-deal-for-once-yearly-lenacapavir-for-"
       },
       {
-        "id": "2026-09-13-reckitt-announces-us-600m-multi-year-expansion-in-us-operations-healthca",
-        "title": "Reckitt announces US$600M multi-year expansion in US operations | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
-        "summary": "The projects form part of Reckitt’s broader effort to increase production and bring research activities closer to its U.S. commercial operations.",
-        "source": "Healthcare MEA",
-        "sourceHost": "healthcaremea.com",
-        "region": "Middle East",
-        "country": "Middle East",
-        "publishedAt": "2026-09-18T07:50:08.000Z",
-        "publishedLabel": "September 18, 2026",
-        "category": "Manufacturing",
-        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/09/image-1600x900-2026-09-18T104430.794.png",
-        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": false,
-        "originalUrl": "https://www.healthcaremea.com/2026/09/18/reckitt-announces-us600m-multi-year-expansion-in-us-operations/",
-        "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-reckitt-announces-us-600m-multi-year-expansion-in-us-operations-healthca"
-      },
-      {
         "id": "2026-09-13-kanpur-pharma-trader-murder-will-property-distribution-300-calls-put-son",
         "title": "Kanpur Pharma Trader Murder: Will, Property Distribution, 300+ Calls Put Son Under Police Scanner",
         "summary": "Kanpur: The murder of 63-year-old pharmaceutical trader Vineet Minocha in Kanpur is being investigated from multiple angles, with police examining whether a 2022 will and the distribution of his...",
@@ -519,6 +449,23 @@
       }
     ],
     "providers": [
+      {
+        "id": "2026-09-13-fortis-signs-services-agreement-for-400-bed-hospital-in-delhi",
+        "title": "Fortis signs services agreement for 400 bed hospital in Delhi",
+        "summary": "The hospital is located on a 3.1 acre land in Ashok Vihar and will open in a phased manner, providing tertiary, and quaternary healthcare services across key specialties, such as Oncology, Neurosciences, Cardiac Sciences, Gastroenterology, Orthopaedics, Renal...",
+        "source": "ET Healthworld Hospitals",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-09-18T09:33:33.000Z",
+        "publishedLabel": "September 18, 2026",
+        "category": "Hospital",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-134331231,imgsize-123491,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/fortis-signs-services-agreement-for-400-bed-hospital-in-delhi.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": false,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/fortis-signs-services-agreement-for-400-bed-hospital-in-delhi/134331231",
+        "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-fortis-signs-services-agreement-for-400-bed-hospital-in-delhi"
+      },
       {
         "id": "2026-09-13-advent-international-joins-india-s-hospital-gold-rush-with-3-150-crore-y",
         "title": "Advent International joins India’s hospital gold rush with ₹3,150 crore Yatharth bet",
@@ -605,125 +552,6 @@
         "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-fortis-healthcare-moves-supreme-court-against-delhi-hc-forensic-audit-or"
       },
       {
-        "id": "2026-09-13-ahpi-urges-balanced-view-on-medical-product-pricing-calls-for-fact-based",
-        "title": "AHPI urges balanced view on medical product pricing; calls for fact-based approach",
-        "summary": "The Association of Healthcare Providers of India (AHPI) has taken note of recent reports highlighting differences between the procurement cost and prices charged to patients for certain medical consumables and products in hospitals. While affordability and...",
-        "source": "Express Healthcare",
-        "sourceHost": "expresshealthcare.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-09-18T05:33:27.000Z",
-        "publishedLabel": "September 18, 2026",
-        "category": "Hospital",
-        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/09/18110240/healthcare-pricing.jpg",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://www.expresshealthcare.in/news/ahpi-urges-balanced-view-on-medical-product-pricing-calls-for-fact-based-approach/455181/",
-        "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-ahpi-urges-balanced-view-on-medical-product-pricing-calls-for-fact-based"
-      },
-      {
-        "id": "2026-09-13-p-d-hinduja-hospital-and-medical-research-centre-marks-world-patient-saf",
-        "title": "P. D. Hinduja Hospital & Medical Research Centre marks World Patient Safety Day 2026 with public awareness initiative",
-        "summary": "World Patient Safety Day, an annual global initiative of the World Health Organization (WHO), is being observed this year with a focus on strengthening awareness and action around patient safety. To mark the occasion, P. D. Hinduja Hospital & Medical Research...",
-        "source": "Express Healthcare",
-        "sourceHost": "expresshealthcare.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-09-18T08:47:34.000Z",
-        "publishedLabel": "September 18, 2026",
-        "category": "Hospital",
-        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/09/18141727/New-Project-6.jpg",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://www.expresshealthcare.in/news/p-d-hinduja-hospital-medical-research-centre-marks-world-patient-safety-day-2026-with-public-awareness-initiative/455192/",
-        "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-p-d-hinduja-hospital-and-medical-research-centre-marks-world-patient-saf"
-      },
-      {
-        "id": "2026-09-13-industry-experts-respond-to-maharashtra-fda-review-of-medical-device-pri",
-        "title": "Industry experts respond to Maharashtra FDA review of medical device pricing",
-        "summary": "Industry players respond to Maharashtra FDA findings on gaps between procurement prices and printed MRPs of hospital consumables",
-        "source": "Express Healthcare",
-        "sourceHost": "expresshealthcare.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-09-17T08:25:16.000Z",
-        "publishedLabel": "September 17, 2026",
-        "category": "Hospital",
-        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2021/05/05170911/Money.jpg",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://www.expresshealthcare.in/news/industry-experts-respond-to-maharashtra-fda-review-of-medical-device-pricing/455159/",
-        "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-industry-experts-respond-to-maharashtra-fda-review-of-medical-device-pri"
-      },
-      {
-        "id": "2026-09-13-kauvery-hospital-deploys-netsfere-for-secure-clinical-communication",
-        "title": "Kauvery Hospital deploys NetSfere for secure clinical communication",
-        "summary": "Deployment will support secure communication across 12 hospitals and six locations, covering 12,000+ users and 100+ teams over three years",
-        "source": "Express Healthcare",
-        "sourceHost": "expresshealthcare.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-09-17T05:06:58.000Z",
-        "publishedLabel": "September 17, 2026",
-        "category": "Hospital",
-        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2021/05/13184627/handshake.jpg",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://www.expresshealthcare.in/news/kauvery-hospital-deploys-netsfere-for-secure-clinical-communication/455156/",
-        "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-kauvery-hospital-deploys-netsfere-for-secure-clinical-communication"
-      },
-      {
-        "id": "2026-09-13-fortis-escorts-hospital-faridabad-launches-dedicated-fever-clinic",
-        "title": "Fortis Escorts Hospital Faridabad launches Dedicated Fever Clinic",
-        "summary": "The clinic will provide evaluation, diagnosis and treatment for seasonal and infectious illnesses from Monday to Saturday",
-        "source": "Express Healthcare",
-        "sourceHost": "expresshealthcare.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-09-16T09:43:54.000Z",
-        "publishedLabel": "September 16, 2026",
-        "category": "Hospital",
-        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2021/07/01130827/Doctors-consultation.jpg",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://www.expresshealthcare.in/news/fortis-escorts-hospital-faridabad-launches-dedicated-fever-clinic/455154/",
-        "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-fortis-escorts-hospital-faridabad-launches-dedicated-fever-clinic"
-      },
-      {
-        "id": "2026-09-13-s-l-raheja-hospital-launches-women-and-child-care-department",
-        "title": "S.L. Raheja Hospital launches Women & Child Care Department",
-        "summary": "S.L. Raheja Hospital, Mahim, Mumbai – A Fortis Associate has launched its Department of Women & Child Care, bringing together services for women’s health and child healthcare in the presence of trustees Neel Raheja and Akshay Raheja, along with Dr S....",
-        "source": "Express Healthcare",
-        "sourceHost": "expresshealthcare.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-09-18T05:19:58.000Z",
-        "publishedLabel": "September 18, 2026",
-        "category": "Hospital",
-        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/09/18104920/New-Project-5.jpg",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://www.expresshealthcare.in/news/s-l-raheja-hospital-launches-women-child-care-department/455177/",
-        "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-s-l-raheja-hospital-launches-women-and-child-care-department"
-      },
-      {
-        "id": "2026-09-13-metaqon-precision-health-launches-reproductive-intelligence-in-india",
-        "title": "MetaQon Precision Health launches Reproductive Intelligence in India",
-        "summary": "Whole-genome based pre-cycle fertility workup is designed to identify genetic and biological risk factors not detected through standard first-line IVF testing",
-        "source": "Express Healthcare",
-        "sourceHost": "expresshealthcare.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-09-17T09:37:59.000Z",
-        "publishedLabel": "September 17, 2026",
-        "category": "Provider Update",
-        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2021/08/18135154/ivf-1514174_640.png",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://www.expresshealthcare.in/news/metaqon-precision-health-launches-reproductive-intelligence-in-india/455164/",
-        "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-metaqon-precision-health-launches-reproductive-intelligence-in-india"
-      },
-      {
         "id": "2026-09-13-qatar-launches-e-commerce-licence-for-194-business-activities",
         "title": "Qatar launches e-commerce licence for 194 business activities",
         "summary": "The initiative is aimed at supporting the growth of Qatar’s e-commerce sector while providing entrepreneurs with a regulated framework",
@@ -794,23 +622,6 @@
     ],
     "diagnostics": [
       {
-        "id": "2026-09-13-mtrh-expands-cardiac-diagnostics-with-ct-coronary-angiography-services-h",
-        "title": "MTRH expands cardiac diagnostics with CT coronary angiography services | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
-        "summary": "CT Coronary Angiography is a non invasive imaging procedure that uses CT technology to produce detailed images of the coronary arteries, the blood vessels that supply the heart with blood.",
-        "source": "Healthcare MEA",
-        "sourceHost": "healthcaremea.com",
-        "region": "Middle East",
-        "country": "Middle East",
-        "publishedAt": "2026-09-18T08:59:41.000Z",
-        "publishedLabel": "September 18, 2026",
-        "category": "Diagnostics",
-        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/09/image-1600x900-2026-09-18T115504.344.png",
-        "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
-        "justIn": false,
-        "originalUrl": "https://www.healthcaremea.com/2026/09/18/mtrh-expands-cardiac-diagnostics-with-ct-coronary-angiography-services/",
-        "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-mtrh-expands-cardiac-diagnostics-with-ct-coronary-angiography-services-h"
-      },
-      {
         "id": "2026-09-13-nestle-in-fssai-legal-net-after-baby-food-sample-found-substandard-3-cas",
         "title": "Nestle in FSSAI Legal Net After Baby Food Sample Found Substandard, 3 Cases Filed",
         "summary": "The FSSAI said it has also filed cases over two other Nestle baby food products, NAN Excella Pro Stage 1, and Lactogen Pro 1, for making misleading claims in breach of regulations.",
@@ -828,25 +639,7 @@
         "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-nestle-in-fssai-legal-net-after-baby-food-sample-found-substandard-3-cas"
       }
     ],
-    "healthtech": [
-      {
-        "id": "2026-09-13-maharashtra-develops-impact-and-innovation-hub-for-health-system-solutio",
-        "title": "Maharashtra develops Impact and Innovation Hub for health system solutions",
-        "summary": "State-scale platform will bring together government, healthcare providers, academia, innovators and development partners to test and scale health solutions",
-        "source": "Express Healthcare",
-        "sourceHost": "expresshealthcare.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-09-17T08:46:49.000Z",
-        "publishedLabel": "September 17, 2026",
-        "category": "Platform",
-        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2021/07/01130827/Doctors-consultation.jpg",
-        "thbAction": "",
-        "justIn": false,
-        "originalUrl": "https://www.expresshealthcare.in/news/maharashtra-develops-impact-and-innovation-hub-for-health-system-solutions/455162/",
-        "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-maharashtra-develops-impact-and-innovation-hub-for-health-system-solutio"
-      }
-    ]
+    "healthtech": []
   },
   "thbActions": [
     {
@@ -891,6 +684,14 @@
     },
     {
       "segment": "providers",
+      "articleId": "2026-09-13-fortis-signs-services-agreement-for-400-bed-hospital-in-delhi",
+      "title": "Fortis signs services agreement for 400 bed hospital in Delhi",
+      "source": "ET Healthworld Hospitals",
+      "solution": "THB Provider CRM",
+      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
+    },
+    {
+      "segment": "providers",
       "articleId": "2026-09-13-advent-international-joins-india-s-hospital-gold-rush-with-3-150-crore-y",
       "title": "Advent International joins India’s hospital gold rush with ₹3,150 crore Yatharth bet",
       "source": "ET Healthworld Hospitals",
@@ -920,22 +721,6 @@
       "source": "ET Healthworld Hospitals",
       "solution": "THB Provider CRM",
       "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
-    },
-    {
-      "segment": "providers",
-      "articleId": "2026-09-13-fortis-healthcare-moves-supreme-court-against-delhi-hc-forensic-audit-or",
-      "title": "Fortis Healthcare moves Supreme Court against Delhi HC forensic audit order; Axis Bank may follow",
-      "source": "ET Healthworld Hospitals",
-      "solution": "THB Provider CRM",
-      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
-    },
-    {
-      "segment": "diagnostics",
-      "articleId": "2026-09-13-mtrh-expands-cardiac-diagnostics-with-ct-coronary-angiography-services-h",
-      "title": "MTRH expands cardiac diagnostics with CT coronary angiography services | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
-      "source": "Healthcare MEA",
-      "solution": "THB Diagnostics CRM",
-      "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
     },
     {
       "segment": "diagnostics",
