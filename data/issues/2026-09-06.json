@@ -5,9 +5,9 @@
   "startDate": "2026-09-05T18:30:00.000Z",
   "endDate": "2026-09-11T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-09-22T09:24:58.826Z",
+  "updatedAt": "2026-09-22T17:43:04.873Z",
   "coverage": {
-    "pharma": 6,
+    "pharma": 5,
     "providers": 3,
     "diagnostics": 1,
     "healthtech": 0
@@ -20,23 +20,6 @@
   ],
   "segments": {
     "pharma": [
-      {
-        "id": "2026-09-06-sandoz-bets-big-on-biosimilars-aims-to-double-group-sales-by-2035",
-        "title": "Sandoz bets big on biosimilars, aims to double group sales by 2035",
-        "summary": "Sandoz plans to more than double annual net sales by 2035, with biosimilars leading growth. The company will expand its biosimilar portfolio to 100 drugs by 2040. Sandoz targets mid-to-high single-digit sales growth from 2025 to 2030. Its net sales targets...",
-        "source": "Economic Times Pharma",
-        "sourceHost": "economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-09-08T19:14:38.000Z",
-        "publishedLabel": "September 9, 2026",
-        "category": "Industry Update",
-        "image": "https://img.etimg.com/thumb/msid-133939477,width-1200,height-630,imgsize-76722,overlay-economictimes/articleshow.jpg",
-        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": false,
-        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/sandoz-bets-big-on-biosimilars-aims-to-double-group-sales-by-2035/articleshow/133939416.cms",
-        "articlePath": "/article.html?issue=2026-09-06&article=2026-09-06-sandoz-bets-big-on-biosimilars-aims-to-double-group-sales-by-2035"
-      },
       {
         "id": "2026-09-06-tylenol-use-in-pregnancy-may-be-linked-with-uterus-ovary-changes-in-daug",
         "title": "Tylenol use in pregnancy may be linked with uterus, ovary changes in daughters",
@@ -200,14 +183,6 @@
   "thbActions": [
     {
       "segment": "pharma",
-      "articleId": "2026-09-06-sandoz-bets-big-on-biosimilars-aims-to-double-group-sales-by-2035",
-      "title": "Sandoz bets big on biosimilars, aims to double group sales by 2035",
-      "source": "Economic Times Pharma",
-      "solution": "THB Commercial Analytics",
-      "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
-    },
-    {
-      "segment": "pharma",
       "articleId": "2026-09-06-tylenol-use-in-pregnancy-may-be-linked-with-uterus-ovary-changes-in-daug",
       "title": "Tylenol use in pregnancy may be linked with uterus, ovary changes in daughters",
       "source": "Economic Times Pharma",
@@ -237,6 +212,14 @@
       "source": "Economic Times Pharma",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "pharma",
+      "articleId": "2026-09-06-stocks-in-news-tata-motors-rvnl-eicher-motors-mazagon-dock-and-lupin",
+      "title": "Stocks in news: Tata Motors, RVNL, Eicher Motors, Mazagon Dock and Lupin",
+      "source": "Lupin Updates",
+      "solution": "THB Commercial Analytics",
+      "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
     },
     {
       "segment": "providers",
