@@ -5,38 +5,19 @@
   "startDate": "2026-08-01T18:30:00.000Z",
   "endDate": "2026-08-07T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-09-22T17:43:04.873Z",
+  "updatedAt": "2026-09-23T09:25:55.764Z",
   "coverage": {
-    "pharma": 1,
-    "providers": 7,
+    "pharma": 0,
+    "providers": 5,
     "diagnostics": 1,
     "healthtech": 0
   },
   "sourcesUsed": [
     "ET Healthworld Diagnostics",
-    "ET Healthworld Hospitals",
-    "Lupin Updates"
+    "ET Healthworld Hospitals"
   ],
   "segments": {
-    "pharma": [
-      {
-        "id": "2026-08-02-lupin-q1-pat-rises-16-pc-at-rs-1-417-cr",
-        "title": "Lupin Q1 PAT rises 16 pc at Rs 1,417 cr",
-        "summary": "Lupin Ltd has reported a remarkable sixteen percent surge in profit after tax for the first quarter, showcasing their continued success. The firm experienced considerable growth in consolidated total revenue from operations, largely driven by a staggering...",
-        "source": "Lupin Updates",
-        "sourceHost": "economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-08-07T11:06:00.000Z",
-        "publishedLabel": "August 7, 2026",
-        "category": "Industry Update",
-        "image": "https://img.etimg.com/thumb/msid-133032045,width-1200,height-630,imgsize-11896,overlay-etmarkets/articleshow.jpg",
-        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": false,
-        "originalUrl": "https://economictimes.indiatimes.com/markets/stocks/earnings/lupin-q1-pat-rises-16-pc-at-rs-1417-cr/articleshow/133031974.cms",
-        "articlePath": "/article.html?issue=2026-08-02&article=2026-08-02-lupin-q1-pat-rises-16-pc-at-rs-1-417-cr"
-      }
-    ],
+    "pharma": [],
     "providers": [
       {
         "id": "2026-08-02-kkr-deepens-india-healthcare-bet-with-1-39-billion-medicover-acquisition",
@@ -71,23 +52,6 @@
         "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/manipal-hospitals-to-consider-acquisitions-in-areas-of-interest-geographic-expansion/133018699",
         "articlePath": "/article.html?issue=2026-08-02&article=2026-08-02-manipal-hospitals-to-consider-acquisitions-in-areas-of-interest-geograph"
-      },
-      {
-        "id": "2026-08-02-kkr-to-acquire-medicover-india-in-1-5-billion-deal",
-        "title": "KKR to acquire Medicover India in $1.5 billion deal",
-        "summary": "The transaction includes a sale of 100% stake by existing shareholders, as well as a commitment to deploy fresh capital to fund its growth and repay debt. In all, KKR will be spending Rs 13,000-14,000 crore, around quarter of which (Rs 3,000-4,000 crore) will...",
-        "source": "ET Healthworld Hospitals",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-08-06T01:47:43.000Z",
-        "publishedLabel": "August 6, 2026",
-        "category": "Provider Update",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-132978956,imgsize-127874,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/kkr-to-acquire-medicover-india-in-1-5-billion-deal.jpg",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/kkr-to-acquire-medicover-india-in-1-5-billion-deal/132978956",
-        "articlePath": "/article.html?issue=2026-08-02&article=2026-08-02-kkr-to-acquire-medicover-india-in-1-5-billion-deal"
       },
       {
         "id": "2026-08-02-hcg-posts-695-crore-in-q1fy27-profit-up-20",
@@ -139,23 +103,6 @@
         "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/aster-dm-quality-care-posts-2597-crore-in-q1fy27-profit-rises-30/133006741",
         "articlePath": "/article.html?issue=2026-08-02&article=2026-08-02-aster-dm-quality-care-posts-2597-crore-in-q1fy27-profit-rises-30"
-      },
-      {
-        "id": "2026-08-02-blk-max-launches-transplant-programme-to-advance-lung-cancer-care",
-        "title": "BLK-Max launches transplant programme to advance lung cancer care",
-        "summary": "According to the hospital, the programme will provide comprehensive evaluation, surgical treatment, and long-term post-transplant care for patients with irreversible lung diseases where conventional medical treatment is no longer effective.",
-        "source": "ET Healthworld Hospitals",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-08-06T10:50:36.000Z",
-        "publishedLabel": "August 6, 2026",
-        "category": "Hospital",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-132999272,imgsize-118348,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/max-launches-transplant-programme-to-advance-lung-cancer-care.jpg",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/max-launches-transplant-programme-to-advance-lung-cancer-care/132999272",
-        "articlePath": "/article.html?issue=2026-08-02&article=2026-08-02-blk-max-launches-transplant-programme-to-advance-lung-cancer-care"
       }
     ],
     "diagnostics": [
@@ -181,14 +128,6 @@
   },
   "thbActions": [
     {
-      "segment": "pharma",
-      "articleId": "2026-08-02-lupin-q1-pat-rises-16-pc-at-rs-1-417-cr",
-      "title": "Lupin Q1 PAT rises 16 pc at Rs 1,417 cr",
-      "source": "Lupin Updates",
-      "solution": "THB Commercial Analytics",
-      "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
-    },
-    {
       "segment": "providers",
       "articleId": "2026-08-02-kkr-deepens-india-healthcare-bet-with-1-39-billion-medicover-acquisition",
       "title": "KKR deepens India healthcare bet with $1.39 billion Medicover acquisition",
@@ -200,14 +139,6 @@
       "segment": "providers",
       "articleId": "2026-08-02-manipal-hospitals-to-consider-acquisitions-in-areas-of-interest-geograph",
       "title": "Manipal Hospitals to consider acquisitions in areas of interest, geographic expansion",
-      "source": "ET Healthworld Hospitals",
-      "solution": "THB Provider CRM",
-      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
-    },
-    {
-      "segment": "providers",
-      "articleId": "2026-08-02-kkr-to-acquire-medicover-india-in-1-5-billion-deal",
-      "title": "KKR to acquire Medicover India in $1.5 billion deal",
       "source": "ET Healthworld Hospitals",
       "solution": "THB Provider CRM",
       "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
@@ -227,6 +158,14 @@
       "source": "ET Healthworld Hospitals",
       "solution": "THB Provider CRM",
       "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
+    },
+    {
+      "segment": "providers",
+      "articleId": "2026-08-02-aster-dm-quality-care-posts-2597-crore-in-q1fy27-profit-rises-30",
+      "title": "Aster DM Quality Care posts ₹2597 crore in Q1FY27, profit rises 30%",
+      "source": "ET Healthworld Hospitals",
+      "solution": "THB Patient Engagement",
+      "action": "Recommend THB's patient engagement workflows to improve acquisition, follow-up adherence, and post-discharge retention for expanding provider groups."
     },
     {
       "segment": "diagnostics",

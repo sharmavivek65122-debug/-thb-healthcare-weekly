@@ -5,9 +5,9 @@
   "startDate": "2026-09-05T18:30:00.000Z",
   "endDate": "2026-09-11T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-09-22T17:43:04.873Z",
+  "updatedAt": "2026-09-23T09:25:55.764Z",
   "coverage": {
-    "pharma": 5,
+    "pharma": 3,
     "providers": 3,
     "diagnostics": 1,
     "healthtech": 0
@@ -15,28 +15,10 @@
   "sourcesUsed": [
     "ET Healthworld Diagnostics",
     "ET Healthworld Hospitals",
-    "Economic Times Pharma",
-    "Lupin Updates"
+    "Economic Times Pharma"
   ],
   "segments": {
     "pharma": [
-      {
-        "id": "2026-09-06-tylenol-use-in-pregnancy-may-be-linked-with-uterus-ovary-changes-in-daug",
-        "title": "Tylenol use in pregnancy may be linked with uterus, ovary changes in daughters",
-        "summary": "A recent study suggests Tylenol use by mothers during pregnancy may affect infant reproductive organ development. Researchers observed smaller ovaries and uteruses in three-month-old girls exposed to the drug. This exposure was also linked to fewer ovarian...",
-        "source": "Economic Times Pharma",
-        "sourceHost": "economictimes.indiatimes.com",
-        "region": "Middle East",
-        "country": "Oman",
-        "publishedAt": "2026-09-09T04:49:17.000Z",
-        "publishedLabel": "September 9, 2026",
-        "category": "Industry Update",
-        "image": "https://img.etimg.com/thumb/msid-133953347,width-1200,height-630,imgsize-91426,overlay-economictimes/articleshow.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/tylenol-use-in-pregnancy-may-be-linked-with-uterus-ovary-changes-in-daughters/articleshow/133953148.cms",
-        "articlePath": "/article.html?issue=2026-09-06&article=2026-09-06-tylenol-use-in-pregnancy-may-be-linked-with-uterus-ovary-changes-in-daug"
-      },
       {
         "id": "2026-09-06-sun-pharma-incorporates-global-treasury-arm-at-ifsc-gift-city",
         "title": "Sun Pharma incorporates global treasury arm at IFSC, GIFT City",
@@ -87,23 +69,6 @@
         "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/astrazenecas-breast-cancer-drug-fails-in-late-stage-trial/articleshow/134125851.cms",
         "articlePath": "/article.html?issue=2026-09-06&article=2026-09-06-astrazeneca-s-breast-cancer-drug-fails-in-late-stage-trial"
-      },
-      {
-        "id": "2026-09-06-stocks-in-news-tata-motors-rvnl-eicher-motors-mazagon-dock-and-lupin",
-        "title": "Stocks in news: Tata Motors, RVNL, Eicher Motors, Mazagon Dock and Lupin",
-        "summary": "Indian equity markets experienced volatility, with the Nifty 50 extending its losing streak for four weeks. Escalating US-Iran hostilities pushed crude oil prices higher, impacting overall market sentiment. Several companies, including Tata Motors and Rail...",
-        "source": "Lupin Updates",
-        "sourceHost": "economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-09-07T00:30:00.000Z",
-        "publishedLabel": "September 7, 2026",
-        "category": "Market",
-        "image": "https://img.etimg.com/thumb/msid-133845569,width-1200,height-630,imgsize-155154,overlay-etmarkets/articleshow.jpg",
-        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": false,
-        "originalUrl": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-tata-motors-rvnl-eicher-motors-mazagon-dock-and-lupin/articleshow/133844968.cms",
-        "articlePath": "/article.html?issue=2026-09-06&article=2026-09-06-stocks-in-news-tata-motors-rvnl-eicher-motors-mazagon-dock-and-lupin"
       }
     ],
     "providers": [
@@ -183,14 +148,6 @@
   "thbActions": [
     {
       "segment": "pharma",
-      "articleId": "2026-09-06-tylenol-use-in-pregnancy-may-be-linked-with-uterus-ovary-changes-in-daug",
-      "title": "Tylenol use in pregnancy may be linked with uterus, ovary changes in daughters",
-      "source": "Economic Times Pharma",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
-      "segment": "pharma",
       "articleId": "2026-09-06-sun-pharma-incorporates-global-treasury-arm-at-ifsc-gift-city",
       "title": "Sun Pharma incorporates global treasury arm at IFSC, GIFT City",
       "source": "Economic Times Pharma",
@@ -212,14 +169,6 @@
       "source": "Economic Times Pharma",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
-      "segment": "pharma",
-      "articleId": "2026-09-06-stocks-in-news-tata-motors-rvnl-eicher-motors-mazagon-dock-and-lupin",
-      "title": "Stocks in news: Tata Motors, RVNL, Eicher Motors, Mazagon Dock and Lupin",
-      "source": "Lupin Updates",
-      "solution": "THB Commercial Analytics",
-      "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
     },
     {
       "segment": "providers",
