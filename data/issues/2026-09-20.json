@@ -5,12 +5,12 @@
   "startDate": "2026-09-19T18:30:00.000Z",
   "endDate": "2026-09-25T18:30:00.000Z",
   "status": "live",
-  "updatedAt": "2026-09-23T09:25:55.764Z",
+  "updatedAt": "2026-09-23T17:55:27.447Z",
   "coverage": {
-    "pharma": 40,
-    "providers": 14,
-    "diagnostics": 3,
-    "healthtech": 1
+    "pharma": 41,
+    "providers": 10,
+    "diagnostics": 5,
+    "healthtech": 0
   },
   "sourcesUsed": [
     "ET Healthworld",
@@ -19,44 +19,26 @@
     "Express Healthcare",
     "Healthcare MEA",
     "Medical Dialogues Pharma",
-    "Reuters Healthcare & Pharma",
     "Zawya Pharmaceuticals"
   ],
   "segments": {
     "pharma": [
       {
-        "id": "2026-09-20-viking-therapeutics-obesity-drug-shows-durable-weight-loss-benefit-share",
-        "title": "Viking Therapeutics' obesity drug shows durable weight-loss benefit, shares surge",
-        "summary": "Viking Therapeutics on Tuesday said patients shifted to a less frequent dosing regimen of its experimental obesity treatment showed superior ​weight-loss maintenance in a study compared with those on placebo.",
-        "source": "Reuters Healthcare & Pharma",
-        "sourceHost": "reuters.com",
+        "id": "2026-09-20-zydus-gearing-up-for-next-phase-of-growth-eyeing-new-areas-sharvil-patel",
+        "title": "Zydus gearing up for next phase of growth, eyeing new areas: Sharvil Patel, MD",
+        "summary": "From 2030 and beyond, we will see strong earnings from pure discovery-led business, which is our central business, our oncology business and Saroglitazar and maybe something more as well. In the next four to five years we will definitely see meaningful value...",
+        "source": "Economic Times Pharma",
+        "sourceHost": "economictimes.indiatimes.com",
         "region": "India",
         "country": "India",
-        "publishedAt": "2026-09-22T20:10:11.910Z",
+        "publishedAt": "2026-09-23T17:07:13.000Z",
         "publishedLabel": "September 23, 2026",
         "category": "Industry Update",
-        "image": "https://www.reuters.com/resizer/v2/466BJJQ7PVGY5O53NZ3KL65MHM.png?auth=b9c3bf166c40a6778eb5672993fde7c30a15f48329026674eff92afd8da1d0ca&height=1005&width=1920&quality=80&smart=true",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "image": "https://img.etimg.com/thumb/msid-134443120,width-1200,height-630,imgsize-116566,overlay-economictimes/articleshow.jpg",
+        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
         "justIn": true,
-        "originalUrl": "https://www.reuters.com/business/healthcare-pharmaceuticals/viking-therapeutics-obesity-drug-shows-22-weight-loss-study-2026-09-22/",
-        "articlePath": "/article.html?issue=2026-09-20&article=2026-09-20-viking-therapeutics-obesity-drug-shows-durable-weight-loss-benefit-share"
-      },
-      {
-        "id": "2026-09-20-pennsylvania-measles-cases-near-800-as-outbreak-grows",
-        "title": "Pennsylvania measles cases near 800 as outbreak grows",
-        "summary": "The Pennsylvania Department of Health reported 792 measles cases on Monday, 25 more than ​on Friday, as the state's outbreak grew ‌further, remaining at the center of the nation's worst measles resurgence in decades.",
-        "source": "Reuters Healthcare & Pharma",
-        "sourceHost": "reuters.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-09-21T18:40:16.990Z",
-        "publishedLabel": "September 22, 2026",
-        "category": "Industry Update",
-        "image": "https://www.reuters.com/resizer/v2/TDIOPZXTLRMV3JAZUP3KGR667I.jpg?auth=10d0539610b7f5c384b1f84e7f3838c1fdacf97bcd4fca95ef8fed3c52af827d&height=1005&width=1920&quality=80&smart=true",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://www.reuters.com/legal/litigation/pennsylvania-measles-cases-near-800-outbreak-grows-2026-09-21/",
-        "articlePath": "/article.html?issue=2026-09-20&article=2026-09-20-pennsylvania-measles-cases-near-800-as-outbreak-grows"
+        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/zydus-gearing-up-for-next-phase-of-growth-eyeing-new-areas-sharvil-patel-md/articleshow/134442904.cms",
+        "articlePath": "/article.html?issue=2026-09-20&article=2026-09-20-zydus-gearing-up-for-next-phase-of-growth-eyeing-new-areas-sharvil-patel"
       },
       {
         "id": "2026-09-20-aragen-steps-up-investment-in-complex-drug-modalities-plans-500-kl-new-c",
@@ -139,7 +121,7 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-134381799,imgsize-58542,width-1200,height=627,overlay-ethealth,resizemode-75/policy/centre-calls-for-review-of-hospital-consumable-prices-after-maharashtra-fda-commissioner-flags-mrp-gaps-sources.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/policy/centre-calls-for-review-of-hospital-consumable-prices-after-maharashtra-fda-commissioner-flags-mrp-gaps-sources/134381799",
         "articlePath": "/article.html?issue=2026-09-20&article=2026-09-20-centre-calls-for-review-of-hospital-consumable-prices-after-maharashtra-"
       },
@@ -156,7 +138,7 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-134428422,imgsize-176074,width-1200,height=627,overlay-ethealth,resizemode-75/industry/40-years-in-gadchiroli-dr-abhay-bang-on-rural-health-gains-and-what-india-still-gets-wrong.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/40-years-in-gadchiroli-dr-abhay-bang-on-rural-health-gains-and-what-india-still-gets-wrong/134428422",
         "articlePath": "/article.html?issue=2026-09-20&article=2026-09-20-40-years-in-gadchiroli-dr-abhay-bang-on-rural-health-gains-and-what-indi"
       },
@@ -173,7 +155,7 @@
         "category": "Market",
         "image": "https://img.etimg.com/thumb/msid-134419284,width-1200,height-630,imgsize-88258,overlay-economictimes/articleshow.jpg",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/ozempic-maker-novo-nordisk-sets-sights-on-hair-loss-market/articleshow/134419123.cms",
         "articlePath": "/article.html?issue=2026-09-20&article=2026-09-20-ozempic-maker-novo-nordisk-sets-sights-on-hair-loss-market"
       },
@@ -207,7 +189,7 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-134424327,imgsize-169671,width-1200,height=627,overlay-ethealth,resizemode-75/industry/experts-call-for-increasing-alzheimers-awareness-for-early-detection-and-treatment.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/experts-call-for-increasing-alzheimers-awareness-for-early-detection-and-treatment/134424327",
         "articlePath": "/article.html?issue=2026-09-20&article=2026-09-20-experts-call-for-increasing-alzheimer-s-awareness-for-early-detection-an"
       },
@@ -224,7 +206,7 @@
         "category": "Partnership",
         "image": "https://etimg.etb2bimg.com/thumb/msid-134424054,imgsize-92596,width-1200,height=627,overlay-ethealth,resizemode-75/medical-devices/medical-devices-maker-romsons-group-forges-strategic-partnership-with-temasek.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/medical-devices/medical-devices-maker-romsons-group-forges-strategic-partnership-with-temasek/134424054",
         "articlePath": "/article.html?issue=2026-09-20&article=2026-09-20-medical-devices-maker-romsons-group-forges-strategic-partnership-with-te"
       },
@@ -241,43 +223,26 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-134424029,imgsize-69996,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/fortis-investors-flag-legal-overhang-after-delhi-hc-order.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/fortis-investors-flag-legal-overhang-after-delhi-hc-order/134424029",
         "articlePath": "/article.html?issue=2026-09-20&article=2026-09-20-fortis-investors-flag-legal-overhang-after-delhi-hc-order"
       },
       {
-        "id": "2026-09-20-anthropic-openevidence-partner-to-bring-medical-ai-worldwide",
-        "title": "Anthropic, OpenEvidence partner to bring medical AI worldwide",
-        "summary": "Artificial intelligence startup Anthropic and medical knowledge platform OpenEvidence are collaborating to bring AI-powered clinical decision support to physicians",
+        "id": "2026-09-20-ima-and-abbott-push-for-adult-flu-vaccination",
+        "title": "IMA and Abbott push for adult flu vaccination",
+        "summary": "With low adult vaccination coverage, the Indian Medical Association (IMA), in partnership with Abbott, launched Indian Immunization Week from September 21 to 27 to raise awareness about annual influenza vaccination and address barriers to adult immunisation.",
         "source": "ET Healthworld",
         "sourceHost": "health.economictimes.indiatimes.com",
         "region": "India",
         "country": "India",
-        "publishedAt": "2026-09-23T02:10:31.000Z",
+        "publishedAt": "2026-09-23T12:01:48.000Z",
         "publishedLabel": "September 23, 2026",
-        "category": "Industry Update",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-134423977,imgsize-112623,width-1200,height=627,overlay-ethealth,resizemode-75/health-it/anthropic-openevidence-partner-to-bring-medical-ai-worldwide.jpg",
+        "category": "Partnership",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-134436268,imgsize-65938,width-1200,height=627,overlay-ethealth,resizemode-75/industry/ima-and-abbott-push-for-adult-flu-vaccination.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
         "justIn": true,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/health-it/anthropic-openevidence-partner-to-bring-medical-ai-worldwide/134423977",
-        "articlePath": "/article.html?issue=2026-09-20&article=2026-09-20-anthropic-openevidence-partner-to-bring-medical-ai-worldwide"
-      },
-      {
-        "id": "2026-09-20-aiims-study-explores-pmos-prevalence-in-adolescent-school-girls",
-        "title": "AIIMS study explores PMOS prevalence in adolescent school girls",
-        "summary": "The study, being conducted in collaboration with the Society of Endocrine Health in Elderly, Adolescents and Children, was started in October 2023 following the revision of the criteria for diagnosing the condition, said Dr Rajni Sharma, professor of...",
-        "source": "ET Healthworld",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-09-23T02:12:22.000Z",
-        "publishedLabel": "September 23, 2026",
-        "category": "Industry Update",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-134424013,imgsize-96226,width-1200,height=627,overlay-ethealth,resizemode-75/industry/aiims-study-explores-pmos-prevalence-in-adolescent-school-girls.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/aiims-study-explores-pmos-prevalence-in-adolescent-school-girls/134424013",
-        "articlePath": "/article.html?issue=2026-09-20&article=2026-09-20-aiims-study-explores-pmos-prevalence-in-adolescent-school-girls"
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/ima-and-abbott-push-for-adult-flu-vaccination/134436268",
+        "articlePath": "/article.html?issue=2026-09-20&article=2026-09-20-ima-and-abbott-push-for-adult-flu-vaccination"
       },
       {
         "id": "2026-09-20-blood-test-may-help-detect-pancreatic-cancer-in-earliest-stages-research",
@@ -309,7 +274,7 @@
         "category": "Manufacturing",
         "image": "https://etimg.etb2bimg.com/thumb/msid-134424264,imgsize-223416,width-1200,height=627,overlay-ethealth,resizemode-75/medical-devices/ansell-to-set-up-new-60-mn-glove-manufacturing-plant-in-india.jpg",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/medical-devices/ansell-to-set-up-new-60-mn-glove-manufacturing-plant-in-india/134424264",
         "articlePath": "/article.html?issue=2026-09-20&article=2026-09-20-ansell-to-set-up-new-60-mn-glove-manufacturing-plant-in-india"
       },
@@ -326,9 +291,26 @@
         "category": "Industry Update",
         "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/09/23095729/EH_GB_-Cyril_Amarchand_Mangaldas_750.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/news/from-fitness-trackers-to-medical-devices-where-india-draws-the-regulatory-line/455253/",
         "articlePath": "/article.html?issue=2026-09-20&article=2026-09-20-from-fitness-trackers-to-medical-devices-where-india-draws-the-regulator"
+      },
+      {
+        "id": "2026-09-20-making-pet-healthcare-more-affordable-and-accessible",
+        "title": "Making pet healthcare more affordable and accessible",
+        "summary": "India’s pet care market is growing fast, but has pet healthcare kept pace with this growth? Where do you see the biggest gaps today? Honestly, no — pet healthcare hasn’t kept pace. The rest of the pet care industry in India is booming. Food, grooming,...",
+        "source": "Express Healthcare",
+        "sourceHost": "expresshealthcare.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-09-23T11:36:59.000Z",
+        "publishedLabel": "September 23, 2026",
+        "category": "Market",
+        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/09/23170623/Pankaj-Shukla-CEO-QubeHealth-Pay.jpg",
+        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
+        "justIn": true,
+        "originalUrl": "https://www.expresshealthcare.in/news/making-pet-healthcare-more-affordable-and-accessible/455270/",
+        "articlePath": "/article.html?issue=2026-09-20&article=2026-09-20-making-pet-healthcare-more-affordable-and-accessible"
       },
       {
         "id": "2026-09-20-india-s-senior-living-sector-needs-to-shift-from-real-estate-to-integrat",
@@ -343,9 +325,43 @@
         "category": "Industry Update",
         "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2019/11/06175334/medical-e1573043077791.jpg",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/news/indias-senior-living-sector-needs-to-shift-from-real-estate-to-integrated-care-and-operations/455259/",
         "articlePath": "/article.html?issue=2026-09-20&article=2026-09-20-india-s-senior-living-sector-needs-to-shift-from-real-estate-to-integrat"
+      },
+      {
+        "id": "2026-09-20-goa-launches-life-course-immunisation-policy-for-adults",
+        "title": "Goa launches life-course immunisation policy for adults",
+        "summary": "Goa’s 2026–2036 policy will initially focus on pneumococcal, influenza and hepatitis B vaccination for eligible adults",
+        "source": "Express Healthcare",
+        "sourceHost": "expresshealthcare.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-09-23T09:29:46.000Z",
+        "publishedLabel": "September 23, 2026",
+        "category": "Launch",
+        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2021/07/01130827/Doctors-consultation.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://www.expresshealthcare.in/news/goa-launches-life-course-immunisation-policy-for-adults/455263/",
+        "articlePath": "/article.html?issue=2026-09-20&article=2026-09-20-goa-launches-life-course-immunisation-policy-for-adults"
+      },
+      {
+        "id": "2026-09-20-eris-lifesciences-appoints-akhil-awasthi-as-independent-director-for-5-y",
+        "title": "Eris Lifesciences Appoints Akhil Awasthi as Independent Director for 5 Years",
+        "summary": "Ahmedabad: Eris Lifesciences Limited has appointed Akhil Awasthi as an Additional Director (Non-executive, Independent) of the company for a term of five years, effective from September 26, 2026,...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-09-23T10:30:55.000Z",
+        "publishedLabel": "September 23, 2026",
+        "category": "Industry Update",
+        "image": "https://medicaldialogues.in/h-upload/2024/05/11/237942-eris-lifesciences-new-50.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/eris-lifesciences-appoints-akhil-awasthi-as-independent-director-for-5-years-179851",
+        "articlePath": "/article.html?issue=2026-09-20&article=2026-09-20-eris-lifesciences-appoints-akhil-awasthi-as-independent-director-for-5-y"
       },
       {
         "id": "2026-09-20-akums-gets-dcgi-nod-for-triple-therapy-combikit-with-clarithromycin-vono",
@@ -411,26 +427,9 @@
         "category": "Industry Update",
         "image": "https://medicaldialogues.in/h-upload/2024/01/23/230825-cdsco-drug-alert.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/29-drug-batches-including-haloperidol-amikacin-rabeprazole-fail-cdsco-quality-tests-179785",
         "articlePath": "/article.html?issue=2026-09-20&article=2026-09-20-29-drug-batches-including-haloperidol-amikacin-rabeprazole-fail-cdsco-qu"
-      },
-      {
-        "id": "2026-09-20-12-firms-in-race-to-build-cdsco-s-digital-drug-regulatory-system",
-        "title": "12 Firms in Race to Build CDSCO's Digital Drug Regulatory System",
-        "summary": "New Delhi: Twelve companies have submitted bids to develop the Central Drugs Standard Control Organisation's (CDSCO) Digital Drug Regulatory System, as the regulator advances a wider set of reforms...",
-        "source": "Medical Dialogues Pharma",
-        "sourceHost": "medicaldialogues.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-09-20T06:49:23.000Z",
-        "publishedLabel": "September 20, 2026",
-        "category": "Industry Update",
-        "image": "https://medicaldialogues.in/h-upload/2026/05/22/349192-opd.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/12-firms-in-race-to-build-cdscos-digital-drug-regulatory-system-179603",
-        "articlePath": "/article.html?issue=2026-09-20&article=2026-09-20-12-firms-in-race-to-build-cdsco-s-digital-drug-regulatory-system"
       },
       {
         "id": "2026-09-20-karnataka-suspends-assistant-drug-controller-over-alleged-lapses-in-coun",
@@ -501,6 +500,23 @@
         "articlePath": "/article.html?issue=2026-09-20&article=2026-09-20-pfizer-depot-suspended-in-karnataka-fake-drug-probe-16-licences-cancelle"
       },
       {
+        "id": "2026-09-20-cdsco-flags-chronic-kidney-disease-risk-from-indiscriminate-use-of-paink",
+        "title": "CDSCO Flags Chronic Kidney Disease Risk From Indiscriminate Use of Painkillers, Antibiotics",
+        "summary": "The CDSCO also directed pharmacists, retailers and distributors to strictly comply with statutory requirements relating to the sale and distribution of Schedule H, H1 and other prescription drugs.",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-09-23T14:48:45.000Z",
+        "publishedLabel": "September 23, 2026",
+        "category": "Industry Update",
+        "image": "https://medicaldialogues.in/h-upload/2026/09/11/475113-cefepime.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/cdsco/cdsco-flags-chronic-kidney-disease-risk-from-indiscriminate-use-of-painkillers-antibiotics-179847",
+        "articlePath": "/article.html?issue=2026-09-20&article=2026-09-20-cdsco-flags-chronic-kidney-disease-risk-from-indiscriminate-use-of-paink"
+      },
+      {
         "id": "2026-09-20-afrisummit-2026-set-to-convene-african-health-regulators-in-nairobi-heal",
         "title": "AfriSummit 2026 set to convene African health regulators in Nairobi | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
         "summary": "Organisers expect more than 16 national regulatory authorities and notified bodies, alongside more than 100 speakers and 450 decision makers from over 25 countries.",
@@ -513,7 +529,7 @@
         "category": "Manufacturing",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/09/image-1600x900-2026-09-23T091620.030.png",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/09/23/afrisummit-2026-set-to-convene-african-health-regulators-in-nairobi/",
         "articlePath": "/article.html?issue=2026-09-20&article=2026-09-20-afrisummit-2026-set-to-convene-african-health-regulators-in-nairobi-heal"
       },
@@ -569,21 +585,21 @@
         "articlePath": "/article.html?issue=2026-09-20&article=2026-09-20-eli-lilly-s-inluriyo-verzenio-combo-gets-usfda-nod-for-esr1-mutated-meta"
       },
       {
-        "id": "2026-09-20-karnataka-minister-seeks-stricter-criminal-action-against-spurious-drug-",
-        "title": "Karnataka Minister Seeks Stricter Criminal Action Against Spurious Drug Makers, Considers Murder Charges",
-        "summary": "Mangaluru: Karnataka Health and Family Welfare Minister UT Khader has called for stringent criminal action against people involved in manufacturing and trading spurious medicines, stating that...",
+        "id": "2026-09-20-glenmark-receives-usfda-eir-for-goa-facility-with-vai-status",
+        "title": "Glenmark Receives USFDA EIR for Goa Facility With VAI Status",
+        "summary": "New Delhi: Glenmark Pharmaceuticals Ltd (Glenmark), a research-led, global pharmaceutical company has announced that it has received the Establishment Inspection Report (EIR) from the U.S. Food and...",
         "source": "Medical Dialogues Pharma",
         "sourceHost": "medicaldialogues.in",
         "region": "India",
         "country": "India",
-        "publishedAt": "2026-09-20T05:30:31.000Z",
-        "publishedLabel": "September 20, 2026",
-        "category": "Manufacturing",
-        "image": "https://medicaldialogues.in/h-upload/2025/02/24/275685-antimalarial-drugs.jpg",
-        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": false,
-        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/karnataka-minister-seeks-stricter-criminal-action-against-spurious-drug-makers-considers-murder-charges-179594",
-        "articlePath": "/article.html?issue=2026-09-20&article=2026-09-20-karnataka-minister-seeks-stricter-criminal-action-against-spurious-drug-"
+        "publishedAt": "2026-09-23T08:30:00.000Z",
+        "publishedLabel": "September 23, 2026",
+        "category": "Industry Update",
+        "image": "https://medicaldialogues.in/h-upload/2022/11/02/189709-glenmark-new-1.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/glenmark-receives-usfda-eir-for-goa-facility-with-vai-status-179849",
+        "articlePath": "/article.html?issue=2026-09-20&article=2026-09-20-glenmark-receives-usfda-eir-for-goa-facility-with-vai-status"
       },
       {
         "id": "2026-09-20-ksrelief-signs-us-5-3-m-cholera-response-agreement-with-who-for-lake-cha",
@@ -598,7 +614,7 @@
         "category": "Manufacturing",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/09/image-1600x900-2026-09-23T100702.473.png",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/09/23/ksrelief-signs-us5-3-m-cholera-response-agreement-with-who-for-lake-chad-basin/",
         "articlePath": "/article.html?issue=2026-09-20&article=2026-09-20-ksrelief-signs-us-5-3-m-cholera-response-agreement-with-who-for-lake-cha"
       },
@@ -615,7 +631,7 @@
         "category": "Manufacturing",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/09/image-1600x900-2026-09-23T095307.328.png",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/09/23/who-hands-over-us19900-in-ict-equipment-to-university-of-ghana-public-health-school/",
         "articlePath": "/article.html?issue=2026-09-20&article=2026-09-20-who-hands-over-us-19-900-in-ict-equipment-to-university-of-ghana-public-"
       },
@@ -654,21 +670,21 @@
         "articlePath": "/article.html?issue=2026-09-20&article=2026-09-20-astrazeneca-pharma-india-faces-roc-penalty-over-delayed-md-appointment-f"
       },
       {
-        "id": "2026-09-20-ethanol-sanitiser-misuse-ap-dca-seeks-return-of-mandatory-licensing-flag",
-        "title": "Ethanol Sanitiser Misuse: AP DCA Seeks Return of Mandatory Licensing, Flags Public Health Risks",
-        "summary": "Vijayawada: The Andhra Pradesh Drugs Control Administration (DCA) has urged the Central Government to withdraw the licensing exemption for alcohol-based hand sanitisers, citing concerns over their...",
+        "id": "2026-09-20-roche-s-enicepatide-delivers-15-5-weight-loss-improves-blood-sugar-in-di",
+        "title": "Roche's Enicepatide Delivers 15.5% Weight Loss, Improves Blood Sugar in Diabetes Trial",
+        "summary": "New Delhi: Swiss drugmaker Roche said on Tuesday its experimental dual-acting obesity drug helped overweight or obese patients with type 2 ​diabetes lower blood sugar levels and lose an average ‌15.5%...",
         "source": "Medical Dialogues Pharma",
         "sourceHost": "medicaldialogues.in",
         "region": "India",
         "country": "India",
-        "publishedAt": "2026-09-20T05:00:58.000Z",
-        "publishedLabel": "September 20, 2026",
+        "publishedAt": "2026-09-23T07:30:16.000Z",
+        "publishedLabel": "September 23, 2026",
         "category": "Industry Update",
-        "image": "https://medicaldialogues.in/h-upload/2020/12/01/143268-250357web.jpg",
+        "image": "https://medicaldialogues.in/h-upload/2024/01/20/230600-roche-50.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/ethanol-sanitiser-misuse-ap-dca-seeks-return-of-mandatory-licensing-flags-public-health-risks-179593",
-        "articlePath": "/article.html?issue=2026-09-20&article=2026-09-20-ethanol-sanitiser-misuse-ap-dca-seeks-return-of-mandatory-licensing-flag"
+        "justIn": true,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/roches-enicepatide-delivers-155-weight-loss-improves-blood-sugar-in-diabetes-trial-179848",
+        "articlePath": "/article.html?issue=2026-09-20&article=2026-09-20-roche-s-enicepatide-delivers-15-5-weight-loss-improves-blood-sugar-in-di"
       },
       {
         "id": "2026-09-20-fii-institute-announces-bombardier-as-a-strategic-partner",
@@ -683,7 +699,7 @@
         "category": "Industry Update",
         "image": "https://media.zawya.com/prod/images/gm_preview/9acbf02198f6-ac5fa28e-1df5-071f-7370-e0a3135b129a.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.zawya.com/en/press-release/companies-news/fii-institute-announces-bombardier-as-a-strategic-partner-1021661",
         "articlePath": "/article.html?issue=2026-09-20&article=2026-09-20-fii-institute-announces-bombardier-as-a-strategic-partner"
       },
@@ -706,40 +722,6 @@
       }
     ],
     "providers": [
-      {
-        "id": "2026-09-20-celldex-shares-slip-as-safety-concerns-cloud-skin-drug-trial-win",
-        "title": "Celldex shares slip as safety concerns cloud skin drug trial win",
-        "summary": "Celldex Therapeutics said on Tuesday its experimental drug ​significantly reduced disease activity in two late-stage trials of patients with ‌a chronic skin condition, clearing a key hurdle toward a U.S. regulatory filing.",
-        "source": "Reuters Healthcare & Pharma",
-        "sourceHost": "reuters.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-09-22T15:04:07.929Z",
-        "publishedLabel": "September 22, 2026",
-        "category": "Patient Care",
-        "image": "https://www.reuters.com/resizer/v2/466BJJQ7PVGY5O53NZ3KL65MHM.png?auth=b9c3bf166c40a6778eb5672993fde7c30a15f48329026674eff92afd8da1d0ca&height=1005&width=1920&quality=80&smart=true",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://www.reuters.com/business/healthcare-pharmaceuticals/celldexs-skin-disease-drug-meets-goals-two-late-stage-trials-2026-09-22/",
-        "articlePath": "/article.html?issue=2026-09-20&article=2026-09-20-celldex-shares-slip-as-safety-concerns-cloud-skin-drug-trial-win"
-      },
-      {
-        "id": "2026-09-20-us-supreme-court-denies-surrogate-s-bid-to-block-california-parentage-ru",
-        "title": "US Supreme Court denies surrogate's bid to block California parentage ruling",
-        "summary": "The US Supreme Court on Tuesday declined to halt ​a judicial ruling declaring a California couple the legal parents of an infant born ‌to their surrogate who refused their request to terminate the pregnancy after the fetus was diagnosed with a severe cardiac...",
-        "source": "Reuters Healthcare & Pharma",
-        "sourceHost": "reuters.com",
-        "region": "Middle East",
-        "country": "Oman",
-        "publishedAt": "2026-09-22T20:40:12.805Z",
-        "publishedLabel": "September 23, 2026",
-        "category": "Provider Update",
-        "image": "https://www.reuters.com/resizer/v2/ESVQH3J4SNJR3CIPLUWIWI4HH4.jpg?auth=57481fbfb4d5ca684d1b5043789673bf13a7a932a3741e24adb40d408b56a721&height=1005&width=1920&quality=80&smart=true",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
-        "originalUrl": "https://www.reuters.com/world/us-supreme-court-denies-surrogates-bid-block-california-parentage-ruling-2026-09-22/",
-        "articlePath": "/article.html?issue=2026-09-20&article=2026-09-20-us-supreme-court-denies-surrogate-s-bid-to-block-california-parentage-ru"
-      },
       {
         "id": "2026-09-20-private-equity-perception-in-the-public-needs-to-change-b-s-ajaikumar",
         "title": "Private Equity perception in the public needs to change: B.S. Ajaikumar",
@@ -787,26 +769,26 @@
         "category": "Hospital",
         "image": "https://etimg.etb2bimg.com/thumb/msid-134405543,imgsize-147124,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/brainlab-amrita-hospital-faridabad-launches-north-indias-first-brain-and-spine-coe.jpg",
         "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/brainlab-amrita-hospital-faridabad-launches-north-indias-first-brain-and-spine-coe/134405543",
         "articlePath": "/article.html?issue=2026-09-20&article=2026-09-20-brainlab-amrita-hospital-faridabad-launches-north-india-s-first-brain-an"
       },
       {
-        "id": "2026-09-20-beyond-vision-correction-the-next-breakthrough-will-be-the-brain",
-        "title": "Beyond vision correction: The next breakthrough will be the brain",
-        "summary": "Advances in eye care over the last century have seen technology enabling finer and more precise procedures on the eye itself. From removing a clouded lens in a cataract patient and replacing it with a clear artificial intraocular lens to reshaping the cornea...",
+        "id": "2026-09-20-why-patient-safety-must-be-non-negotiable-in-fight-against-ncds",
+        "title": "Why patient safety must be non-negotiable in fight against NCDs",
+        "summary": "A recurring pattern is evident in the management of long-term conditions such as stroke, epilepsy, Parkinson’s disease, and chronic migraine: the greatest risks to patients often stem not from the disease itself, but from gaps in the system meant to treat it...",
         "source": "Express Healthcare",
         "sourceHost": "expresshealthcare.in",
         "region": "India",
         "country": "India",
-        "publishedAt": "2026-09-22T12:06:03.000Z",
-        "publishedLabel": "September 22, 2026",
+        "publishedAt": "2026-09-23T11:43:42.000Z",
+        "publishedLabel": "September 23, 2026",
         "category": "Patient Care",
-        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/09/22173545/Anusha-Venkataraman-Senior-consultant-surgeon-vitreo-retina-and-ocular-oncology-ASG-Vasan-Eye-Care.jpg",
+        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/09/23171333/Dr-Praveen-Gupta-Chairman-Marengo-Asia-International-Institute-of-Neuro-and-Spine-MAIINS-Marengo-Asia-Hospitals.jpg",
         "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://www.expresshealthcare.in/news/beyond-vision-correction-the-next-breakthrough-will-be-the-brain/455245/",
-        "articlePath": "/article.html?issue=2026-09-20&article=2026-09-20-beyond-vision-correction-the-next-breakthrough-will-be-the-brain"
+        "justIn": true,
+        "originalUrl": "https://www.expresshealthcare.in/news/why-patient-safety-must-be-non-negotiable-in-fight-against-ncds/455273/",
+        "articlePath": "/article.html?issue=2026-09-20&article=2026-09-20-why-patient-safety-must-be-non-negotiable-in-fight-against-ncds"
       },
       {
         "id": "2026-09-20-brainlab-amrita-hospital-faridabad-sign-mou-for-brain-and-spine-coe",
@@ -819,45 +801,11 @@
         "publishedAt": "2026-09-23T08:29:50.000Z",
         "publishedLabel": "September 23, 2026",
         "category": "Hospital",
-        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2023/08/31200312/EH-Logo-white.webp",
+        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/09/23135937/New-Project-2-2.jpg",
         "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/news/brainlab-amrita-hospital-faridabad-sign-mou-for-brain-and-spine-coe/455256/",
         "articlePath": "/article.html?issue=2026-09-20&article=2026-09-20-brainlab-amrita-hospital-faridabad-sign-mou-for-brain-and-spine-coe"
-      },
-      {
-        "id": "2026-09-20-apollo-spectra-hospital-delhi-hosts-percon-2026-workshop-on-pcnl",
-        "title": "Apollo Spectra Hospital Delhi hosts PERCON 2026 workshop on PCNL",
-        "summary": "Two-day workshop brought together more than 1,000 participants from 28 countries for live surgical demonstrations, discussions and hands-on training in PCNL",
-        "source": "Express Healthcare",
-        "sourceHost": "expresshealthcare.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-09-22T10:19:59.000Z",
-        "publishedLabel": "September 22, 2026",
-        "category": "Hospital",
-        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2021/07/01130827/Doctors-consultation.jpg",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://www.expresshealthcare.in/news/apollo-spectra-hospital-delhi-hosts-percon-2026-workshop-on-pcnl/455234/",
-        "articlePath": "/article.html?issue=2026-09-20&article=2026-09-20-apollo-spectra-hospital-delhi-hosts-percon-2026-workshop-on-pcnl"
-      },
-      {
-        "id": "2026-09-20-why-elder-care-needs-its-own-accreditation-standard",
-        "title": "Why elder care needs its own accreditation standard",
-        "summary": "A quiet shift is reshaping the Indian eldercare industry right now. Families are spreading across cities and continents, while our elders are living longer. Many households eventually hit a wall. They realize, often with heavy guilt, that they simply cannot...",
-        "source": "Express Healthcare",
-        "sourceHost": "expresshealthcare.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-09-22T11:50:18.000Z",
-        "publishedLabel": "September 22, 2026",
-        "category": "Provider Update",
-        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/09/22173831/Neha-Sinha.jpg",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://www.expresshealthcare.in/news/why-elder-care-needs-its-own-accreditation-standard/455241/",
-        "articlePath": "/article.html?issue=2026-09-20&article=2026-09-20-why-elder-care-needs-its-own-accreditation-standard"
       },
       {
         "id": "2026-09-20-aster-hospital-al-qusais-performs-501-cardiothoracic-procedures-in-20-mo",
@@ -872,7 +820,7 @@
         "category": "Hospital",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/09/image-1600x900-2026-09-23T114427.316.png",
         "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/09/23/aster-hospital-al-qusais-performs-501-cardiothoracic-procedures-in-20-months-in-uae/",
         "articlePath": "/article.html?issue=2026-09-20&article=2026-09-20-aster-hospital-al-qusais-performs-501-cardiothoracic-procedures-in-20-mo"
       },
@@ -906,26 +854,26 @@
         "category": "Provider Update",
         "image": "https://media.zawya.com/prod/images/gm_preview/c726a3f88513-mario-makary-visa-photo.jpg",
         "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.zawya.com/en/press-release/people-in-the-news/visa-appoints-mario-makary-as-vice-president-and-country-manager-for-the-united-arab-emirates-1080527",
         "articlePath": "/article.html?issue=2026-09-20&article=2026-09-20-visa-appoints-mario-makary-as-vice-president-and-country-manager-for-the"
       },
       {
-        "id": "2026-09-20-bmw-group-middle-east-appoints-official-importer-for-bmw-and-mini-in-syr",
-        "title": "BMW Group Middle East appoints official importer for BMW and MINI in Syria, marking a new chapter for the brands in the market",
-        "summary": "“Citadel Premium Motors” appointed as the official importer for BMW and MINI in Syria",
+        "id": "2026-09-20-aji-group-launches-new-facilities-management-arm-aji-fm-in-saudi-arabia-",
+        "title": "AJi Group launches new Facilities Management arm, ‘AJi FM’ in Saudi Arabia to drive the operational efficiency of assets",
+        "summary": "Showcased at the Saudi Facility Management Association (SFMA) Conference & Exhibition, AJi FM underlines the Group’s commitment to supporting the goals of Saudi Vision 2030",
         "source": "Zawya Pharmaceuticals",
         "sourceHost": "zawya.com",
         "region": "Middle East",
-        "country": "Middle East",
-        "publishedAt": "2026-09-22T08:39:49.888Z",
-        "publishedLabel": "September 22, 2026",
+        "country": "Saudi Arabia",
+        "publishedAt": "2026-09-21T12:07:02.582Z",
+        "publishedLabel": "September 21, 2026",
         "category": "Provider Update",
-        "image": "https://media.zawya.com/prod/images/gm_preview/116eafc57cb1-citadel-premium-motorsappointed-as-the-official-importer-for-bmw-and-mini-in-sy.jpg",
+        "image": "https://media.zawya.com/prod/images/gm_preview/b9ade5bb1020-aji-fm-sfma-1st-day-photos-200926-40.jpeg",
         "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
         "justIn": true,
-        "originalUrl": "https://www.zawya.com/en/press-release/companies-news/bmw-group-middle-east-appoints-official-importer-for-bmw-and-mini-in-syria-marking-a-new-chapter-for-the-brands-in-the-market-1064702",
-        "articlePath": "/article.html?issue=2026-09-20&article=2026-09-20-bmw-group-middle-east-appoints-official-importer-for-bmw-and-mini-in-syr"
+        "originalUrl": "https://www.zawya.com/en/press-release/companies-news/aji-group-launches-new-facilities-management-arm-aji-fm-in-saudi-arabia-to-drive-the-operational-efficiency-of-assets-1021729",
+        "articlePath": "/article.html?issue=2026-09-20&article=2026-09-20-aji-group-launches-new-facilities-management-arm-aji-fm-in-saudi-arabia-"
       },
       {
         "id": "2026-09-20-wsp-appoints-sam-abdelfattah-as-mission-critical-lead-in-the-middle-east",
@@ -947,6 +895,40 @@
     ],
     "diagnostics": [
       {
+        "id": "2026-09-20-doctors-warn-of-rising-dementia-burden-even-as-india-gets-first-disease-",
+        "title": "Doctors warn of rising dementia burden even as India gets first disease-modifying Alzheimer’s Drug",
+        "summary": "Even as dementia cases rise sharply across India’s ageing population, doctors say the country’s ability to diagnose and treat Alzheimer’s disease early and not the arrival of new drugs alone will determine whether patients actually benefit from recent medical...",
+        "source": "Express Healthcare",
+        "sourceHost": "expresshealthcare.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-09-23T11:51:30.000Z",
+        "publishedLabel": "September 23, 2026",
+        "category": "Industry Update",
+        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/09/23172111/Dementia.jpg",
+        "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
+        "justIn": true,
+        "originalUrl": "https://www.expresshealthcare.in/news/doctors-warn-of-rising-dementia-burden-even-as-india-gets-first-disease-modifying-alzheimers-drug/455276/",
+        "articlePath": "/article.html?issue=2026-09-20&article=2026-09-20-doctors-warn-of-rising-dementia-burden-even-as-india-gets-first-disease-"
+      },
+      {
+        "id": "2026-09-20-5c-network-launches-remote-centre-of-excellence-for-nuclear-medicine",
+        "title": "5C Network launches remote Centre of Excellence for Nuclear Medicine",
+        "summary": "The Bengaluru-headquartered platform will connect hospital scanners across India with nuclear medicine specialists through remote reading and AI-supported reporting",
+        "source": "Express Healthcare",
+        "sourceHost": "expresshealthcare.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-09-23T09:34:59.000Z",
+        "publishedLabel": "September 23, 2026",
+        "category": "Industry Update",
+        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2019/11/14175754/GettyImages-1047824676-e1573734754447.jpg",
+        "thbAction": "Use this signal to position THB for diagnostics network expansion, channel partner onboarding, and visibility across spoke sites, franchises, and enterprise accounts.",
+        "justIn": true,
+        "originalUrl": "https://www.expresshealthcare.in/news/5c-network-launches-remote-centre-of-excellence-for-nuclear-medicine/455265/",
+        "articlePath": "/article.html?issue=2026-09-20&article=2026-09-20-5c-network-launches-remote-centre-of-excellence-for-nuclear-medicine"
+      },
+      {
         "id": "2026-09-20-abu-dhabi-designates-three-hospitals-as-breast-cancer-oncology-centres-o",
         "title": "Abu Dhabi designates three hospitals as Breast Cancer Oncology Centres of Excellence | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
         "summary": "The designation recognises the hospitals’ specialised capabilities in breast cancer diagnosis and treatment, including multidisciplinary care, advanced technologies, clinical research and patient ...",
@@ -959,7 +941,7 @@
         "category": "Cancer Testing",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/09/image-1600x900-2026-09-23T103518.549.png",
         "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/09/23/abu-dhabi-designates-three-hospitals-as-breast-cancer-oncology-centres-of-excellence/",
         "articlePath": "/article.html?issue=2026-09-20&article=2026-09-20-abu-dhabi-designates-three-hospitals-as-breast-cancer-oncology-centres-o"
       },
@@ -976,7 +958,7 @@
         "category": "Cancer Testing",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/09/image-1600x900-2026-09-23T093848.769.png",
         "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/09/23/roche-expands-breast-cancer-initiatives-across-africa-to-improve-survival-by-2030/",
         "articlePath": "/article.html?issue=2026-09-20&article=2026-09-20-roche-expands-breast-cancer-initiatives-across-africa-to-improve-surviva"
       },
@@ -998,42 +980,16 @@
         "articlePath": "/article.html?issue=2026-09-20&article=2026-09-20-purehealth-to-add-22-seha-clinics-facilities-across-abu-dhabi-in-2026-he"
       }
     ],
-    "healthtech": [
-      {
-        "id": "2026-09-20-the-next-healthcare-ai-revolution-isn-t-chatbots-it-s-responsible-decisi",
-        "title": "The next healthcare AI revolution isn’t chatbots. It’s responsible decision-making",
-        "summary": "For the last few years, much of the conversation around AI in healthcare has centred on chatbots and symptom checkers. I understand why. They are visible, easy to demonstrate, and easy to explain. But they represent only the most obvious layer of what AI can...",
-        "source": "Express Healthcare",
-        "sourceHost": "expresshealthcare.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-09-22T11:20:57.000Z",
-        "publishedLabel": "September 22, 2026",
-        "category": "AI",
-        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/09/22164943/Bhavish-Ramaswamy-Founder-and-CEO-Superclaims.jpg",
-        "thbAction": "",
-        "justIn": false,
-        "originalUrl": "https://www.expresshealthcare.in/news/the-next-healthcare-ai-revolution-isnt-chatbots-its-responsible-decision-making/455233/",
-        "articlePath": "/article.html?issue=2026-09-20&article=2026-09-20-the-next-healthcare-ai-revolution-isn-t-chatbots-it-s-responsible-decisi"
-      }
-    ]
+    "healthtech": []
   },
   "thbActions": [
     {
       "segment": "pharma",
-      "articleId": "2026-09-20-viking-therapeutics-obesity-drug-shows-durable-weight-loss-benefit-share",
-      "title": "Viking Therapeutics' obesity drug shows durable weight-loss benefit, shares surge",
-      "source": "Reuters Healthcare & Pharma",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
-      "segment": "pharma",
-      "articleId": "2026-09-20-pennsylvania-measles-cases-near-800-as-outbreak-grows",
-      "title": "Pennsylvania measles cases near 800 as outbreak grows",
-      "source": "Reuters Healthcare & Pharma",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+      "articleId": "2026-09-20-zydus-gearing-up-for-next-phase-of-growth-eyeing-new-areas-sharvil-patel",
+      "title": "Zydus gearing up for next phase of growth, eyeing new areas: Sharvil Patel, MD",
+      "source": "Economic Times Pharma",
+      "solution": "THB Commercial Analytics",
+      "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
     },
     {
       "segment": "pharma",
@@ -1060,20 +1016,12 @@
       "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
     },
     {
-      "segment": "providers",
-      "articleId": "2026-09-20-celldex-shares-slip-as-safety-concerns-cloud-skin-drug-trial-win",
-      "title": "Celldex shares slip as safety concerns cloud skin drug trial win",
-      "source": "Reuters Healthcare & Pharma",
-      "solution": "THB Provider CRM",
-      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
-    },
-    {
-      "segment": "providers",
-      "articleId": "2026-09-20-us-supreme-court-denies-surrogate-s-bid-to-block-california-parentage-ru",
-      "title": "US Supreme Court denies surrogate's bid to block California parentage ruling",
-      "source": "Reuters Healthcare & Pharma",
-      "solution": "THB Provider CRM",
-      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
+      "segment": "pharma",
+      "articleId": "2026-09-20-drug-regulator-warns-against-prolonged-use-of-painkillers-antibiotics",
+      "title": "Drug regulator warns against prolonged use of painkillers, antibiotics",
+      "source": "Economic Times Pharma",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
     },
     {
       "segment": "providers",
@@ -1098,6 +1046,38 @@
       "source": "ET Healthworld Hospitals",
       "solution": "THB Provider CRM",
       "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
+    },
+    {
+      "segment": "providers",
+      "articleId": "2026-09-20-why-patient-safety-must-be-non-negotiable-in-fight-against-ncds",
+      "title": "Why patient safety must be non-negotiable in fight against NCDs",
+      "source": "Express Healthcare",
+      "solution": "THB Provider CRM",
+      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
+    },
+    {
+      "segment": "providers",
+      "articleId": "2026-09-20-brainlab-amrita-hospital-faridabad-sign-mou-for-brain-and-spine-coe",
+      "title": "Brainlab, Amrita Hospital Faridabad sign MoU for brain and spine CoE",
+      "source": "Express Healthcare",
+      "solution": "THB Provider CRM",
+      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
+    },
+    {
+      "segment": "diagnostics",
+      "articleId": "2026-09-20-doctors-warn-of-rising-dementia-burden-even-as-india-gets-first-disease-",
+      "title": "Doctors warn of rising dementia burden even as India gets first disease-modifying Alzheimer’s Drug",
+      "source": "Express Healthcare",
+      "solution": "THB Diagnostics CRM",
+      "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
+    },
+    {
+      "segment": "diagnostics",
+      "articleId": "2026-09-20-5c-network-launches-remote-centre-of-excellence-for-nuclear-medicine",
+      "title": "5C Network launches remote Centre of Excellence for Nuclear Medicine",
+      "source": "Express Healthcare",
+      "solution": "THB Network Growth",
+      "action": "Use this signal to position THB for diagnostics network expansion, channel partner onboarding, and visibility across spoke sites, franchises, and enterprise accounts."
     },
     {
       "segment": "diagnostics",
