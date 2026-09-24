@@ -5,9 +5,9 @@
   "startDate": "2026-09-05T18:30:00.000Z",
   "endDate": "2026-09-11T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-09-24T09:26:08.199Z",
+  "updatedAt": "2026-09-24T17:55:13.140Z",
   "coverage": {
-    "pharma": 3,
+    "pharma": 1,
     "providers": 3,
     "diagnostics": 1,
     "healthtech": 0
@@ -15,45 +15,10 @@
   "sourcesUsed": [
     "ET Healthworld Diagnostics",
     "ET Healthworld Hospitals",
-    "Economic Times Pharma",
     "Lupin Updates"
   ],
   "segments": {
     "pharma": [
-      {
-        "id": "2026-09-06-alembic-pharma-clears-usfda-inspection-at-vadodara-bioequivalence-facili",
-        "title": "Alembic Pharma clears USFDA inspection at Vadodara bioequivalence facility with nil observations",
-        "summary": "Alembic Pharmaceuticals has reported that its Vadodara facility passed the recent inspection by the United States Food and Drug Administration with flying colors. Conducted from August 31 to September 10, 2026, the inspection resulted in zero observations,...",
-        "source": "Economic Times Pharma",
-        "sourceHost": "economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-09-11T08:45:35.000Z",
-        "publishedLabel": "September 11, 2026",
-        "category": "Industry Update",
-        "image": "https://img.etimg.com/thumb/msid-134056033,width-1200,height-630,imgsize-95092,overlay-economictimes/articleshow.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/alembic-pharma-clears-usfda-inspection-at-vadodara-bioequivalence-facility-with-nil-observations/articleshow/134056005.cms",
-        "articlePath": "/article.html?issue=2026-09-06&article=2026-09-06-alembic-pharma-clears-usfda-inspection-at-vadodara-bioequivalence-facili"
-      },
-      {
-        "id": "2026-09-06-astrazeneca-s-breast-cancer-drug-fails-in-late-stage-trial",
-        "title": "AstraZeneca's breast cancer drug fails in late-stage trial",
-        "summary": "AstraZeneca's breast cancer drug Etcamah did not meet its main goal in a late-stage trial. The drug showed only a numerical improvement when combined with palbociclib. This marks a setback for the recently approved treatment, which received accelerated...",
-        "source": "Economic Times Pharma",
-        "sourceHost": "economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-09-12T10:54:26.000Z",
-        "publishedLabel": "September 12, 2026",
-        "category": "Industry Update",
-        "image": "https://img.etimg.com/thumb/msid-134126190,width-1200,height-630,imgsize-118618,overlay-economictimes/articleshow.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/astrazenecas-breast-cancer-drug-fails-in-late-stage-trial/articleshow/134125851.cms",
-        "articlePath": "/article.html?issue=2026-09-06&article=2026-09-06-astrazeneca-s-breast-cancer-drug-fails-in-late-stage-trial"
-      },
       {
         "id": "2026-09-06-stocks-in-news-tata-motors-rvnl-eicher-motors-mazagon-dock-and-lupin",
         "title": "Stocks in news: Tata Motors, RVNL, Eicher Motors, Mazagon Dock and Lupin",
@@ -147,22 +112,6 @@
     "healthtech": []
   },
   "thbActions": [
-    {
-      "segment": "pharma",
-      "articleId": "2026-09-06-alembic-pharma-clears-usfda-inspection-at-vadodara-bioequivalence-facili",
-      "title": "Alembic Pharma clears USFDA inspection at Vadodara bioequivalence facility with nil observations",
-      "source": "Economic Times Pharma",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
-      "segment": "pharma",
-      "articleId": "2026-09-06-astrazeneca-s-breast-cancer-drug-fails-in-late-stage-trial",
-      "title": "AstraZeneca's breast cancer drug fails in late-stage trial",
-      "source": "Economic Times Pharma",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
     {
       "segment": "pharma",
       "articleId": "2026-09-06-stocks-in-news-tata-motors-rvnl-eicher-motors-mazagon-dock-and-lupin",
