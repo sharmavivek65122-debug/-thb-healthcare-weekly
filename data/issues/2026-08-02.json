@@ -5,10 +5,10 @@
   "startDate": "2026-08-01T18:30:00.000Z",
   "endDate": "2026-08-07T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-09-23T17:55:27.447Z",
+  "updatedAt": "2026-09-24T09:26:08.199Z",
   "coverage": {
     "pharma": 1,
-    "providers": 5,
+    "providers": 4,
     "diagnostics": 1,
     "healthtech": 0
   },
@@ -105,23 +105,6 @@
         "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/fortis-healthcare-posts-2545-crore-in-q1fy27-profit-after-tax-up-2-3/133027129",
         "articlePath": "/article.html?issue=2026-08-02&article=2026-08-02-fortis-healthcare-posts-2545-crore-in-q1fy27-profit-after-tax-up-2-3"
-      },
-      {
-        "id": "2026-08-02-aster-dm-quality-care-posts-2597-crore-in-q1fy27-profit-rises-30",
-        "title": "Aster DM Quality Care posts ₹2597 crore in Q1FY27, profit rises 30%",
-        "summary": "Operating ebitda excluding the group’s operations in Kasargod stood at Rs 576 crore, up 30 per cent YoY, while operating ebitda margin increased 170bps Yoy to 22.2% for the quarter.",
-        "source": "ET Healthworld Hospitals",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-08-06T13:34:25.000Z",
-        "publishedLabel": "August 6, 2026",
-        "category": "Provider Update",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-133006741,imgsize-86664,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/aster-dm-quality-care-posts-2597-crore-in-q1fy27-profit-rises-30.jpg",
-        "thbAction": "Recommend THB's patient engagement workflows to improve acquisition, follow-up adherence, and post-discharge retention for expanding provider groups.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/aster-dm-quality-care-posts-2597-crore-in-q1fy27-profit-rises-30/133006741",
-        "articlePath": "/article.html?issue=2026-08-02&article=2026-08-02-aster-dm-quality-care-posts-2597-crore-in-q1fy27-profit-rises-30"
       }
     ],
     "diagnostics": [
@@ -185,14 +168,6 @@
       "source": "ET Healthworld Hospitals",
       "solution": "THB Provider CRM",
       "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
-    },
-    {
-      "segment": "providers",
-      "articleId": "2026-08-02-aster-dm-quality-care-posts-2597-crore-in-q1fy27-profit-rises-30",
-      "title": "Aster DM Quality Care posts ₹2597 crore in Q1FY27, profit rises 30%",
-      "source": "ET Healthworld Hospitals",
-      "solution": "THB Patient Engagement",
-      "action": "Recommend THB's patient engagement workflows to improve acquisition, follow-up adherence, and post-discharge retention for expanding provider groups."
     },
     {
       "segment": "diagnostics",

@@ -5,10 +5,10 @@
   "startDate": "2026-09-12T18:30:00.000Z",
   "endDate": "2026-09-18T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-09-23T17:55:27.447Z",
+  "updatedAt": "2026-09-24T09:26:08.199Z",
   "coverage": {
-    "pharma": 12,
-    "providers": 7,
+    "pharma": 13,
+    "providers": 6,
     "diagnostics": 0,
     "healthtech": 0
   },
@@ -208,6 +208,23 @@
         "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-hospitals-push-back-as-fda-flags-high-markups-on-hospital-consumables"
       },
       {
+        "id": "2026-09-13-manipal-hospitals-scouts-for-acquisitions-in-andhra-keralam-delhi-ncr-be",
+        "title": "Manipal Hospitals scouts for acquisitions in Andhra, Keralam, Delhi-NCR; bets on AI-led healthcare",
+        "summary": "Manipal Health Enterprises plans significant expansion across several Indian states. The company is adopting a digital-physical healthcare model driven by Artificial Intelligence. Strategic acquisitions and a new greenfield project in Mumbai are underway....",
+        "source": "ET Healthworld",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-09-14T02:07:20.000Z",
+        "publishedLabel": "September 14, 2026",
+        "category": "Industry Update",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-134230395,imgsize-156562,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/manipal-hospitals-scouts-for-acquisitions-in-andhra-keralam-delhi-ncr-bets-on-ai-led-healthcare.jpg",
+        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
+        "justIn": false,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/manipal-hospitals-scouts-for-acquisitions-in-andhra-keralam-delhi-ncr-bets-on-ai-led-healthcare/134230395",
+        "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-manipal-hospitals-scouts-for-acquisitions-in-andhra-keralam-delhi-ncr-be"
+      },
+      {
         "id": "2026-09-13-johnson-and-johnson-s-2026-oncology-care-index-finds-community-oncologis",
         "title": "Johnson & Johnson’s 2026 Oncology Care Index Finds Community Oncologists Confident in AI’s Promise, but Practical Adoption Still Lags",
         "summary": "• Reported AI adoption in oncology has increased from 19% of healthcare providers across all practice settings in 2025 to 49% of community oncologists specifically in 2026 • Meanwhile use of advanced tools like predictive models remains low, at just 19%,...",
@@ -259,23 +276,6 @@
         "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/advent-international-joins-indias-hospital-gold-rush-with-rs-3150-crore-yatharth-bet/134310716",
         "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-advent-international-joins-india-s-hospital-gold-rush-with-3-150-crore-y"
-      },
-      {
-        "id": "2026-09-13-manipal-hospitals-scouts-for-acquisitions-in-andhra-keralam-delhi-ncr-be",
-        "title": "Manipal Hospitals scouts for acquisitions in Andhra, Keralam, Delhi-NCR; bets on AI-led healthcare",
-        "summary": "Manipal Health Enterprises plans significant expansion across several Indian states. The company is adopting a digital-physical healthcare model driven by Artificial Intelligence. Strategic acquisitions and a new greenfield project in Mumbai are underway....",
-        "source": "ET Healthworld Hospitals",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-09-14T02:07:20.000Z",
-        "publishedLabel": "September 14, 2026",
-        "category": "Expansion",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-134230395,imgsize-156562,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/manipal-hospitals-scouts-for-acquisitions-in-andhra-keralam-delhi-ncr-bets-on-ai-led-healthcare.jpg",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/manipal-hospitals-scouts-for-acquisitions-in-andhra-keralam-delhi-ncr-bets-on-ai-led-healthcare/134230395",
-        "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-manipal-hospitals-scouts-for-acquisitions-in-andhra-keralam-delhi-ncr-be"
       },
       {
         "id": "2026-09-13-hcg-colaba-and-aci-announce-strategic-collaboration-to-strengthen-cancer",
@@ -408,14 +408,6 @@
     },
     {
       "segment": "providers",
-      "articleId": "2026-09-13-manipal-hospitals-scouts-for-acquisitions-in-andhra-keralam-delhi-ncr-be",
-      "title": "Manipal Hospitals scouts for acquisitions in Andhra, Keralam, Delhi-NCR; bets on AI-led healthcare",
-      "source": "ET Healthworld Hospitals",
-      "solution": "THB Provider CRM",
-      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
-    },
-    {
-      "segment": "providers",
       "articleId": "2026-09-13-hcg-colaba-and-aci-announce-strategic-collaboration-to-strengthen-cancer",
       "title": "HCG Colaba and ACI announce strategic collaboration to strengthen cancer care access",
       "source": "ET Healthworld Hospitals",
@@ -426,6 +418,14 @@
       "segment": "providers",
       "articleId": "2026-09-13-marengo-asia-hospitals-raises-400-crore-from-leapfrog-investments-to-dou",
       "title": "Marengo Asia Hospitals raises ₹400 crore from LeapFrog Investments to double bed capacity",
+      "source": "ET Healthworld Hospitals",
+      "solution": "THB Provider CRM",
+      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
+    },
+    {
+      "segment": "providers",
+      "articleId": "2026-09-13-aiims-holds-workshop-on-strengthening-health-education-for-cardiometabol",
+      "title": "AIIMS holds workshop on strengthening health education for cardiometabolic diseases",
       "source": "ET Healthworld Hospitals",
       "solution": "THB Provider CRM",
       "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
