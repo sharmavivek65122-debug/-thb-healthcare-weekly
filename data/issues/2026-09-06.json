@@ -5,17 +5,18 @@
   "startDate": "2026-09-05T18:30:00.000Z",
   "endDate": "2026-09-11T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-09-24T17:55:13.140Z",
+  "updatedAt": "2026-09-25T09:43:46.102Z",
   "coverage": {
     "pharma": 1,
-    "providers": 3,
+    "providers": 4,
     "diagnostics": 1,
     "healthtech": 0
   },
   "sourcesUsed": [
     "ET Healthworld Diagnostics",
     "ET Healthworld Hospitals",
-    "Lupin Updates"
+    "Lupin Updates",
+    "Zawya Pharmaceuticals"
   ],
   "segments": {
     "pharma": [
@@ -88,6 +89,23 @@
         "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/park-medi-world-incorporates-subsidiary-to-set-up-550-bed-hospital-in-prayagraj/133948655",
         "articlePath": "/article.html?issue=2026-09-06&article=2026-09-06-park-medi-world-incorporates-subsidiary-to-set-up-550-bed-hospital-in-pr"
+      },
+      {
+        "id": "2026-09-06-fab-sets-aed-100bln-blue-finance-target-and-becomes-first-mena-bank-to-j",
+        "title": "FAB sets AED 100bln blue finance target and becomes first MENA bank to join UN sustainable blue economy finance principles",
+        "summary": "Ahead of the 2026 UN Water Conference",
+        "source": "Zawya Pharmaceuticals",
+        "sourceHost": "zawya.com",
+        "region": "Middle East",
+        "country": "United Arab Emirates",
+        "publishedAt": "2026-09-08T06:38:20.440Z",
+        "publishedLabel": "September 8, 2026",
+        "category": "AI Care Delivery",
+        "image": "https://media.zawya.com/prod/images/gm_preview/d6ddcf96dff2-first-abu-dhabi-bank.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": false,
+        "originalUrl": "https://www.zawya.com/en/press-release/companies-news/fab-sets-aed-100bln-blue-finance-target-and-becomes-first-mena-bank-to-join-un-sustainable-blue-economy-finance-principles-481378",
+        "articlePath": "/article.html?issue=2026-09-06&article=2026-09-06-fab-sets-aed-100bln-blue-finance-target-and-becomes-first-mena-bank-to-j"
       }
     ],
     "diagnostics": [
@@ -141,6 +159,14 @@
       "articleId": "2026-09-06-park-medi-world-incorporates-subsidiary-to-set-up-550-bed-hospital-in-pr",
       "title": "Park Medi World incorporates subsidiary to set up 550-bed hospital in Prayagraj",
       "source": "ET Healthworld Hospitals",
+      "solution": "THB Provider CRM",
+      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
+    },
+    {
+      "segment": "providers",
+      "articleId": "2026-09-06-fab-sets-aed-100bln-blue-finance-target-and-becomes-first-mena-bank-to-j",
+      "title": "FAB sets AED 100bln blue finance target and becomes first MENA bank to join UN sustainable blue economy finance principles",
+      "source": "Zawya Pharmaceuticals",
       "solution": "THB Provider CRM",
       "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
     },

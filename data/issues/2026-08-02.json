@@ -5,16 +5,15 @@
   "startDate": "2026-08-01T18:30:00.000Z",
   "endDate": "2026-08-07T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-09-24T17:55:13.140Z",
+  "updatedAt": "2026-09-25T09:43:46.102Z",
   "coverage": {
     "pharma": 1,
-    "providers": 3,
+    "providers": 0,
     "diagnostics": 1,
     "healthtech": 0
   },
   "sourcesUsed": [
     "ET Healthworld Diagnostics",
-    "ET Healthworld Hospitals",
     "Lupin Updates"
   ],
   "segments": {
@@ -37,59 +36,7 @@
         "articlePath": "/article.html?issue=2026-08-02&article=2026-08-02-lupin-q1-pat-rises-16-pc-at-rs-1-417-cr"
       }
     ],
-    "providers": [
-      {
-        "id": "2026-08-02-kkr-deepens-india-healthcare-bet-with-1-39-billion-medicover-acquisition",
-        "title": "KKR deepens India healthcare bet with $1.39 billion Medicover acquisition",
-        "summary": "Global investment firm KKR has acquired Medicover India's hospital network for $1.39 billion. This acquisition marks KKR's third hospital purchase in recent years. Medicover India operates 24 multi-specialty hospitals across South and West India. The European...",
-        "source": "ET Healthworld Hospitals",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-08-07T01:57:04.000Z",
-        "publishedLabel": "August 7, 2026",
-        "category": "Hospital",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-133018828,imgsize-58600,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/kkr-deepens-india-healthcare-bet-with-1-39-billion-medicover-acquisition.jpg",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/kkr-deepens-india-healthcare-bet-with-1-39-billion-medicover-acquisition/133018828",
-        "articlePath": "/article.html?issue=2026-08-02&article=2026-08-02-kkr-deepens-india-healthcare-bet-with-1-39-billion-medicover-acquisition"
-      },
-      {
-        "id": "2026-08-02-hcg-posts-695-crore-in-q1fy27-profit-up-20",
-        "title": "HCG posts ₹695 crore in Q1FY27, profit up 20%",
-        "summary": "HCG said growth in the quarter was driven by volume growth of 11 per cent YoY, while ARPP increased by 2 percent YoY driven by a favourable payor mix which was partly offset by changes in case mix, including a lower contribution from high-value, low-margin...",
-        "source": "ET Healthworld Hospitals",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-08-07T07:48:20.000Z",
-        "publishedLabel": "August 7, 2026",
-        "category": "AI Care Delivery",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-133027247,imgsize-127050,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/hcg-posts-695-crore-in-q1fy27-profit-up-20.jpg",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/hcg-posts-695-crore-in-q1fy27-profit-up-20/133027247",
-        "articlePath": "/article.html?issue=2026-08-02&article=2026-08-02-hcg-posts-695-crore-in-q1fy27-profit-up-20"
-      },
-      {
-        "id": "2026-08-02-fortis-healthcare-posts-2545-crore-in-q1fy27-profit-after-tax-up-2-3",
-        "title": "Fortis Healthcare posts ₹2545 crore in Q1FY27, profit after tax up 2.3%",
-        "summary": "Operating ebitda stood at Rs 568 crore, reflecting a rise of 15.8 per cent YoY, while profit after tax was Rs 273 crore, up 2.3% from the previous year.",
-        "source": "ET Healthworld Hospitals",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-08-07T07:42:04.000Z",
-        "publishedLabel": "August 7, 2026",
-        "category": "Provider Update",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-133027129,imgsize-70490,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/fortis-healthcare-posts-2545-crore-in-q1fy27-profit-after-tax-up-2-3.jpg",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/fortis-healthcare-posts-2545-crore-in-q1fy27-profit-after-tax-up-2-3/133027129",
-        "articlePath": "/article.html?issue=2026-08-02&article=2026-08-02-fortis-healthcare-posts-2545-crore-in-q1fy27-profit-after-tax-up-2-3"
-      }
-    ],
+    "providers": [],
     "diagnostics": [
       {
         "id": "2026-08-02-molbio-diagnostics-sets-ipo-price-band-at-rs-768-807-issue-to-open-on-au",
@@ -119,30 +66,6 @@
       "source": "Lupin Updates",
       "solution": "THB Commercial Analytics",
       "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
-    },
-    {
-      "segment": "providers",
-      "articleId": "2026-08-02-kkr-deepens-india-healthcare-bet-with-1-39-billion-medicover-acquisition",
-      "title": "KKR deepens India healthcare bet with $1.39 billion Medicover acquisition",
-      "source": "ET Healthworld Hospitals",
-      "solution": "THB Provider CRM",
-      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
-    },
-    {
-      "segment": "providers",
-      "articleId": "2026-08-02-hcg-posts-695-crore-in-q1fy27-profit-up-20",
-      "title": "HCG posts ₹695 crore in Q1FY27, profit up 20%",
-      "source": "ET Healthworld Hospitals",
-      "solution": "THB Provider CRM",
-      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
-    },
-    {
-      "segment": "providers",
-      "articleId": "2026-08-02-fortis-healthcare-posts-2545-crore-in-q1fy27-profit-after-tax-up-2-3",
-      "title": "Fortis Healthcare posts ₹2545 crore in Q1FY27, profit after tax up 2.3%",
-      "source": "ET Healthworld Hospitals",
-      "solution": "THB Provider CRM",
-      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
     },
     {
       "segment": "diagnostics",
