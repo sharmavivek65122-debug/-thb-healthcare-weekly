@@ -5,9 +5,9 @@
   "startDate": "2026-09-05T18:30:00.000Z",
   "endDate": "2026-09-11T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-09-25T09:43:46.102Z",
+  "updatedAt": "2026-09-25T18:01:58.131Z",
   "coverage": {
-    "pharma": 1,
+    "pharma": 0,
     "providers": 4,
     "diagnostics": 1,
     "healthtech": 0
@@ -15,29 +15,10 @@
   "sourcesUsed": [
     "ET Healthworld Diagnostics",
     "ET Healthworld Hospitals",
-    "Lupin Updates",
     "Zawya Pharmaceuticals"
   ],
   "segments": {
-    "pharma": [
-      {
-        "id": "2026-09-06-stocks-in-news-tata-motors-rvnl-eicher-motors-mazagon-dock-and-lupin",
-        "title": "Stocks in news: Tata Motors, RVNL, Eicher Motors, Mazagon Dock and Lupin",
-        "summary": "Indian equity markets experienced volatility, with the Nifty 50 extending its losing streak for four weeks. Escalating US-Iran hostilities pushed crude oil prices higher, impacting overall market sentiment. Several companies, including Tata Motors and Rail...",
-        "source": "Lupin Updates",
-        "sourceHost": "economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-09-07T00:30:00.000Z",
-        "publishedLabel": "September 7, 2026",
-        "category": "Market",
-        "image": "https://img.etimg.com/thumb/msid-133845569,width-1200,height-630,imgsize-155154,overlay-etmarkets/articleshow.jpg",
-        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": false,
-        "originalUrl": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-tata-motors-rvnl-eicher-motors-mazagon-dock-and-lupin/articleshow/133844968.cms",
-        "articlePath": "/article.html?issue=2026-09-06&article=2026-09-06-stocks-in-news-tata-motors-rvnl-eicher-motors-mazagon-dock-and-lupin"
-      }
-    ],
+    "pharma": [],
     "providers": [
       {
         "id": "2026-09-06-fortis-to-install-upright-proton-therapy-system-to-advance-cancer-care",
@@ -64,8 +45,8 @@
         "sourceHost": "health.economictimes.indiatimes.com",
         "region": "India",
         "country": "India",
-        "publishedAt": "2026-09-09T18:30:00.000Z",
-        "publishedLabel": "September 10, 2026",
+        "publishedAt": "2026-09-12T01:47:01.000Z",
+        "publishedLabel": "September 12, 2026",
         "category": "AI Care Delivery",
         "image": "https://etimg.etb2bimg.com/thumb/msid-134101736,imgsize-133203,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/japan-court-dismisses-ihh-subsidiary-northern-tk-ventures-damage-claims-against-daiichi-sankyo.jpg",
         "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
@@ -130,14 +111,6 @@
     "healthtech": []
   },
   "thbActions": [
-    {
-      "segment": "pharma",
-      "articleId": "2026-09-06-stocks-in-news-tata-motors-rvnl-eicher-motors-mazagon-dock-and-lupin",
-      "title": "Stocks in news: Tata Motors, RVNL, Eicher Motors, Mazagon Dock and Lupin",
-      "source": "Lupin Updates",
-      "solution": "THB Commercial Analytics",
-      "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
-    },
     {
       "segment": "providers",
       "articleId": "2026-09-06-fortis-to-install-upright-proton-therapy-system-to-advance-cancer-care",
