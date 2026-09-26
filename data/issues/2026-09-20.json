@@ -5,11 +5,11 @@
   "startDate": "2026-09-19T18:30:00.000Z",
   "endDate": "2026-09-25T18:30:00.000Z",
   "status": "live",
-  "updatedAt": "2026-09-26T09:28:01.641Z",
+  "updatedAt": "2026-09-26T17:21:32.388Z",
   "coverage": {
-    "pharma": 41,
-    "providers": 9,
-    "diagnostics": 6,
+    "pharma": 42,
+    "providers": 13,
+    "diagnostics": 8,
     "healthtech": 0
   },
   "sourcesUsed": [
@@ -17,6 +17,7 @@
     "ET Healthworld Diagnostics",
     "ET Healthworld Hospitals",
     "Economic Times Pharma",
+    "Express Healthcare",
     "Healthcare MEA",
     "Medical Dialogues Pharma",
     "Zawya Pharmaceuticals"
@@ -41,23 +42,6 @@
         "articlePath": "/article.html?issue=2026-09-20&article=2026-09-20-zydus-gearing-up-for-next-phase-of-growth-eyeing-new-areas-sharvil-patel"
       },
       {
-        "id": "2026-09-20-the-biologics-patent-cliff-is-creating-a-new-leadership-talent-war",
-        "title": "The Biologics \"Patent Cliff\" Is Creating a New Leadership Talent War",
-        "summary": "Running alongside the M&A activity is a quieter, harder race: the contest for leadership talent capable of executing the biosimilar opportunity at scale. Demand has already outrun supply.",
-        "source": "ET Healthworld",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-09-25T02:21:45.000Z",
-        "publishedLabel": "September 25, 2026",
-        "category": "Industry Update",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-134457629,imgsize-117456,width-1200,height=627,overlay-ethealth,resizemode-75/industry/the-biologics-patent-cliff-is-creating-a-new-leadership-talent-war.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/the-biologics-patent-cliff-is-creating-a-new-leadership-talent-war/134457629",
-        "articlePath": "/article.html?issue=2026-09-20&article=2026-09-20-the-biologics-patent-cliff-is-creating-a-new-leadership-talent-war"
-      },
-      {
         "id": "2026-09-20-rs-78-400-vs-rs-7-750-medicine-novartis-eli-lilly-oppose-bid-to-cut-brea",
         "title": "Rs 78,400 vs Rs 7,750 medicine: Novartis, Eli Lilly oppose bid to cut breast cancer drug prices in India",
         "summary": "Novartis and Eli Lilly have opposed a Kerala High Court petition seeking government intervention to make two breast cancer drugs cheaper, despite their India sales accounting for less than 0.5% of global revenues. Court submissions have highlighted...",
@@ -70,7 +54,7 @@
         "category": "Industry Update",
         "image": "https://img.etimg.com/thumb/msid-134500624,width-1200,height-630,imgsize-78444,overlay-economictimes/articleshow.jpg",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/rs-78400-vs-rs-7750-medicine-novartis-eli-lilly-oppose-bid-to-cut-breast-cancer-drug-prices-in-india/articleshow/134500531.cms",
         "articlePath": "/article.html?issue=2026-09-20&article=2026-09-20-rs-78-400-vs-rs-7-750-medicine-novartis-eli-lilly-oppose-bid-to-cut-brea"
       },
@@ -279,23 +263,6 @@
         "articlePath": "/article.html?issue=2026-09-20&article=2026-09-20-genetic-discovery-yields-clues-toward-reversal-of-alzheimer-s-brain-dama"
       },
       {
-        "id": "2026-09-20-access-to-cancer-genetic-testing-unequal-worldwide-new-lancet-commission",
-        "title": "Access to cancer genetic testing unequal worldwide: New Lancet Commission",
-        "summary": "It has also identified substantial inequalities in cancer genetic testing research, reporting that only 2 per cent of biomarker-based cancer trials are conducted in low- and middle-income countries (LMICs), compared to almost 81 per cent in high-income...",
-        "source": "ET Healthworld",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-09-25T06:29:49.000Z",
-        "publishedLabel": "September 25, 2026",
-        "category": "Industry Update",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-134476708,imgsize-77674,width-1200,height=627,overlay-ethealth,resizemode-75/industry/access-to-cancer-genetic-testing-unequal-worldwide-new-lancet-commission.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/access-to-cancer-genetic-testing-unequal-worldwide-new-lancet-commission/134476708",
-        "articlePath": "/article.html?issue=2026-09-20&article=2026-09-20-access-to-cancer-genetic-testing-unequal-worldwide-new-lancet-commission"
-      },
-      {
         "id": "2026-09-20-mexico-brazil-uk-see-rising-medical-device-imports-opening-export-opport",
         "title": "Mexico, Brazil, UK see rising medical device imports, opening export opportunities for India: Report",
         "summary": "The study identified overseas markets where medical device imports grew above the global average during 2022-2024 and where the countries accounted for at least a 1 per cent share of global imports in relevant categories.",
@@ -308,7 +275,7 @@
         "category": "Market",
         "image": "https://etimg.etb2bimg.com/thumb/msid-134495636,imgsize-92701,width-1200,height=627,overlay-ethealth,resizemode-75/medical-devices/mexico-brazil-uk-see-rising-medical-device-imports-opening-export-opportunities-for-india-report.jpg",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/medical-devices/mexico-brazil-uk-see-rising-medical-device-imports-opening-export-opportunities-for-india-report/134495636",
         "articlePath": "/article.html?issue=2026-09-20&article=2026-09-20-mexico-brazil-uk-see-rising-medical-device-imports-opening-export-opport"
       },
@@ -362,6 +329,57 @@
         "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/alkem-laboratories-cfo-nitin-agrawal-resigns/articleshow/134480273.cms",
         "articlePath": "/article.html?issue=2026-09-20&article=2026-09-20-alkem-laboratories-cfo-nitin-agrawal-resigns"
+      },
+      {
+        "id": "2026-09-20-two-systems-two-countries-twenty-years-what-building-mental-healthcare-i",
+        "title": "Two systems, two countries, twenty years: What building mental healthcare in India has required me to learn again",
+        "summary": "When I returned to India after training and practising psychiatry in the UK, I assumed the hardest part would be bringing world-class mental healthcare home. I had trained in a system built on strong clinical governance, multidisciplinary teams and...",
+        "source": "Express Healthcare",
+        "sourceHost": "expresshealthcare.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-09-25T10:37:23.000Z",
+        "publishedLabel": "September 25, 2026",
+        "category": "Industry Update",
+        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/09/25160712/Dr-Amit-Malik-Founder-and-CEO-Amaha.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://www.expresshealthcare.in/news/two-systems-two-countries-twenty-years-what-building-mental-healthcare-in-india-has-required-me-to-learn-again/455294/",
+        "articlePath": "/article.html?issue=2026-09-20&article=2026-09-20-two-systems-two-countries-twenty-years-what-building-mental-healthcare-i"
+      },
+      {
+        "id": "2026-09-20-cloudnine-group-of-hospitals-conducts-17-hands-on-simulation-workshops",
+        "title": "Cloudnine Group of Hospitals conducts 17 hands-on simulation workshops",
+        "summary": "Cloudnine Group of Hospitals conducted a series of 17 hands-on simulation and clinical training workshops in New Delhi, aimed at strengthening the practical skills of doctors and healthcare professionals across the perinatal care spectrum. The programme...",
+        "source": "Express Healthcare",
+        "sourceHost": "expresshealthcare.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-09-25T12:33:55.000Z",
+        "publishedLabel": "September 25, 2026",
+        "category": "Industry Update",
+        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/09/25180341/New-Project-2-3.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://www.expresshealthcare.in/news/cloudnine-group-of-hospitals-conducts-17-hands-on-simulation-workshops/455298/",
+        "articlePath": "/article.html?issue=2026-09-20&article=2026-09-20-cloudnine-group-of-hospitals-conducts-17-hands-on-simulation-workshops"
+      },
+      {
+        "id": "2026-09-20-can-emotion-become-a-measurable-vital-of-health",
+        "title": "Can emotion become a measurable vital of health?",
+        "summary": "Emoscape was initially developed for professional and institutional applications. What insights from its use across institutions have informed its evolution? Emoscape was developed for professional and institutional applications, and that continues to be its...",
+        "source": "Express Healthcare",
+        "sourceHost": "expresshealthcare.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-09-25T10:22:26.000Z",
+        "publishedLabel": "September 25, 2026",
+        "category": "Industry Update",
+        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/09/25155212/REEl-397.00_01_49_30.Still030.jpg.jpeg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://www.expresshealthcare.in/news/can-emotion-become-a-measurable-vital-of-health/455291/",
+        "articlePath": "/article.html?issue=2026-09-20&article=2026-09-20-can-emotion-become-a-measurable-vital-of-health"
       },
       {
         "id": "2026-09-20-vertex-expands-partnership-with-mngha-to-advance-gene-therapy-care-in-sa",
@@ -466,6 +484,23 @@
         "articlePath": "/article.html?issue=2026-09-20&article=2026-09-20-akums-gets-dcgi-nod-for-triple-therapy-combikit-with-clarithromycin-vono"
       },
       {
+        "id": "2026-09-20-bombay-hc-quashes-nppa-pricing-order-blocks-rs-13-41-cr-recovery-against",
+        "title": "Bombay HC Quashes NPPA Pricing Order, Blocks Rs 13.41 Cr Recovery Against Pharmed",
+        "summary": "Mumbai: The Bombay High Court has set aside the basis for a Rs13.41 crore recovery demand against Pharmed Limited over the alleged overpricing of its osteoarthritis medicine, Cartigen Forte.In its...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-09-26T14:41:11.000Z",
+        "publishedLabel": "September 26, 2026",
+        "category": "Industry Update",
+        "image": "https://medicaldialogues.in/h-upload/2026/03/09/331821-nbems-opens-drnb-final-examination-2.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/bombay-hc-quashes-nppa-pricing-order-blocks-rs-1341-cr-recovery-against-pharmed-180084",
+        "articlePath": "/article.html?issue=2026-09-20&article=2026-09-20-bombay-hc-quashes-nppa-pricing-order-blocks-rs-13-41-cr-recovery-against"
+      },
+      {
         "id": "2026-09-20-who-supports-ghana-s-clinical-trial-capacity-assessment-across-15-instit",
         "title": "WHO supports Ghana’s clinical trial capacity assessment across 15 institutions | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
         "summary": "Participants included researchers, scientific leaders, women scientists, and private sector representatives, reflecting the diversity of Ghana's research community.",
@@ -515,23 +550,6 @@
         "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/alkem-labs-issues-5445-mn-euros-guarantee-for-step-down-subsidiary-occlutechs-hsbc-loan-179779",
         "articlePath": "/article.html?issue=2026-09-20&article=2026-09-20-alkem-labs-issues-54-45-mn-euros-guarantee-for-step-down-subsidiary-occl"
-      },
-      {
-        "id": "2026-09-20-novo-nordisk-plans-5-blockbuster-launches-by-2030-as-semaglutide-patent-",
-        "title": "Novo Nordisk Plans 5+ Blockbuster Launches by 2030 as Semaglutide Patent Expiry Looms",
-        "summary": "London: Novo Nordisk aims to launch more than five blockbuster drugs by 2030 and to deliver more than 150 billion Danish crowns (USD 23 billion) in pipeline sales in 2035, its CEO Mike Doustdar said...",
-        "source": "Medical Dialogues Pharma",
-        "sourceHost": "medicaldialogues.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-09-22T15:47:53.000Z",
-        "publishedLabel": "September 22, 2026",
-        "category": "Launch",
-        "image": "https://medicaldialogues.in/h-upload/2026/09/22/476504-untitled-design-1png.crdownload",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/novo-nordisk-plans-5-blockbuster-launches-by-2030-as-semaglutide-patent-expiry-looms-179777",
-        "articlePath": "/article.html?issue=2026-09-20&article=2026-09-20-novo-nordisk-plans-5-blockbuster-launches-by-2030-as-semaglutide-patent-"
       },
       {
         "id": "2026-09-20-delhi-based-jagsonpal-pharma-to-acquire-group-pharmaceuticals-wellness-p",
@@ -774,6 +792,23 @@
         "articlePath": "/article.html?issue=2026-09-20&article=2026-09-20-artemis-medicare-shares-gain-26-in-3-months-analysts-see-30-upside"
       },
       {
+        "id": "2026-09-20-adani-group-sets-rs-1-lakh-crore-bengal-investment-target-unveils-rs-4-0",
+        "title": "Adani Group sets Rs 1 lakh crore Bengal investment target, unveils Rs 4,000 crore hospital",
+        "summary": "Gautam Adani announced plans to invest over Rs 4,000 crore in a healthcare facility in West Bengal. This investment will establish a 2,000-bed not-for-profit medical institution by 2035. Of these beds, 1,000 will be allocated for economically weaker sections...",
+        "source": "ET Healthworld Hospitals",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-09-25T06:32:08.000Z",
+        "publishedLabel": "September 25, 2026",
+        "category": "Hospital",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-134477483,imgsize-75659,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/adani-group-sets-rs-1-lakh-crore-bengal-investment-target-unveils-rs-4000-crore-hospital.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": true,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/adani-group-sets-rs-1-lakh-crore-bengal-investment-target-unveils-rs-4000-crore-hospital/134477483",
+        "articlePath": "/article.html?issue=2026-09-20&article=2026-09-20-adani-group-sets-rs-1-lakh-crore-bengal-investment-target-unveils-rs-4-0"
+      },
+      {
         "id": "2026-09-20-brainlab-amrita-hospital-faridabad-launches-north-india-s-first-brain-an",
         "title": "Brainlab, Amrita Hospital Faridabad launches North India's first brain and spine CoE",
         "summary": "“The facility will be used for complex operations on the brain and spine, as well as a platform for clinical training, technology demonstrations and the sharing of knowledge between surgeons and health care professionals,” the two organisations said.",
@@ -789,6 +824,57 @@
         "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/brainlab-amrita-hospital-faridabad-launches-north-indias-first-brain-and-spine-coe/134405543",
         "articlePath": "/article.html?issue=2026-09-20&article=2026-09-20-brainlab-amrita-hospital-faridabad-launches-north-india-s-first-brain-an"
+      },
+      {
+        "id": "2026-09-20-rainbow-children-s-hospital-launches-hip-preservation-clinic-in-bengalur",
+        "title": "Rainbow Children’s Hospital launches Hip Preservation Clinic in Bengaluru",
+        "summary": "Clinic to provide hip preservation care for children, teenagers and young adults and aim to delay or avoid hip replacement",
+        "source": "Express Healthcare",
+        "sourceHost": "expresshealthcare.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-09-24T06:47:44.000Z",
+        "publishedLabel": "September 24, 2026",
+        "category": "Hospital",
+        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2021/07/01130827/Doctors-consultation.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": true,
+        "originalUrl": "https://www.expresshealthcare.in/news/rainbow-childrens-hospital-launches-hip-preservation-clinic-in-bengaluru/455283/",
+        "articlePath": "/article.html?issue=2026-09-20&article=2026-09-20-rainbow-children-s-hospital-launches-hip-preservation-clinic-in-bengalur"
+      },
+      {
+        "id": "2026-09-20-why-patient-safety-must-be-non-negotiable-in-fight-against-ncds",
+        "title": "Why patient safety must be non-negotiable in fight against NCDs",
+        "summary": "A recurring pattern is evident in the management of long-term conditions such as stroke, epilepsy, Parkinson’s disease, and chronic migraine: the greatest risks to patients often stem not from the disease itself, but from gaps in the system meant to treat it...",
+        "source": "Express Healthcare",
+        "sourceHost": "expresshealthcare.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-09-23T11:43:42.000Z",
+        "publishedLabel": "September 23, 2026",
+        "category": "Patient Care",
+        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/09/23171333/Dr-Praveen-Gupta-Chairman-Marengo-Asia-International-Institute-of-Neuro-and-Spine-MAIINS-Marengo-Asia-Hospitals.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": true,
+        "originalUrl": "https://www.expresshealthcare.in/news/why-patient-safety-must-be-non-negotiable-in-fight-against-ncds/455273/",
+        "articlePath": "/article.html?issue=2026-09-20&article=2026-09-20-why-patient-safety-must-be-non-negotiable-in-fight-against-ncds"
+      },
+      {
+        "id": "2026-09-20-upasana-kamineni-konidela-takes-charge-as-apollo-director-projects",
+        "title": "Upasana Kamineni Konidela takes charge as Apollo Director – Projects",
+        "summary": "She will work with Apollo’s leadership, clinical teams and project partners on hospital projects across India",
+        "source": "Express Healthcare",
+        "sourceHost": "expresshealthcare.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-09-24T09:36:47.000Z",
+        "publishedLabel": "September 24, 2026",
+        "category": "Hospital",
+        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/09/24150620/EH_Upasana_Kamineni_750.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": true,
+        "originalUrl": "https://www.expresshealthcare.in/news/upasana-kamineni-konidela-takes-charge-as-apollo-director-projects/455287/",
+        "articlePath": "/article.html?issue=2026-09-20&article=2026-09-20-upasana-kamineni-konidela-takes-charge-as-apollo-director-projects"
       },
       {
         "id": "2026-09-20-mayo-clinic-uncovers-novel-biomarkers-for-lung-adenocarcinoma-treatment-",
@@ -854,7 +940,7 @@
         "category": "Provider Update",
         "image": "https://media.zawya.com/prod/images/gm_preview/4c0001608123-2026-09-23t095712z1591530220rc2sonar6z9vrtrmadp3iran-crisis-oman-hormuz.jpg",
         "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.zawya.com/en/business/commodities/gulf-of-oman-ship-to-ship-oil-transfers-reach-limit-as-saudi-exports-surge-1249952",
         "articlePath": "/article.html?issue=2026-09-20&article=2026-09-20-gulf-of-oman-ship-to-ship-oil-transfers-reach-limit-as-saudi-exports-sur"
       },
@@ -929,6 +1015,40 @@
         "articlePath": "/article.html?issue=2026-09-20&article=2026-09-20-dr-lal-pathlabs-to-acquire-70-pc-stake-in-sn-genelab-for-rs-168-crore"
       },
       {
+        "id": "2026-09-20-doctors-warn-of-rising-dementia-burden-even-as-india-gets-first-disease-",
+        "title": "Doctors warn of rising dementia burden even as India gets first disease-modifying Alzheimer’s Drug",
+        "summary": "Even as dementia cases rise sharply across India’s ageing population, doctors say the country’s ability to diagnose and treat Alzheimer’s disease early and not the arrival of new drugs alone will determine whether patients actually benefit from recent medical...",
+        "source": "Express Healthcare",
+        "sourceHost": "expresshealthcare.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-09-23T11:51:30.000Z",
+        "publishedLabel": "September 23, 2026",
+        "category": "Industry Update",
+        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/09/23172111/Dementia.jpg",
+        "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
+        "justIn": true,
+        "originalUrl": "https://www.expresshealthcare.in/news/doctors-warn-of-rising-dementia-burden-even-as-india-gets-first-disease-modifying-alzheimers-drug/455276/",
+        "articlePath": "/article.html?issue=2026-09-20&article=2026-09-20-doctors-warn-of-rising-dementia-burden-even-as-india-gets-first-disease-"
+      },
+      {
+        "id": "2026-09-20-ai-platform-for-cervical-cancer-screening-to-be-co-designed-with-ashas-i",
+        "title": "AI platform for cervical cancer screening to be co-designed with ASHAs in Assam",
+        "summary": "George Institute and CCHRC workshop brings together around 100 ASHAs to shape an AI-enabled training platform and multilingual voice chatbot",
+        "source": "Express Healthcare",
+        "sourceHost": "expresshealthcare.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-09-24T09:13:05.000Z",
+        "publishedLabel": "September 24, 2026",
+        "category": "Screening",
+        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2019/11/14175754/GettyImages-1047824676-e1573734754447.jpg",
+        "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
+        "justIn": true,
+        "originalUrl": "https://www.expresshealthcare.in/news/ai-platform-for-cervical-cancer-screening-to-be-co-designed-with-ashas-in-assam/455285/",
+        "articlePath": "/article.html?issue=2026-09-20&article=2026-09-20-ai-platform-for-cervical-cancer-screening-to-be-co-designed-with-ashas-i"
+      },
+      {
         "id": "2026-09-20-sidra-medicine-expands-precision-cancer-care-for-children-in-qatar-throu",
         "title": "Sidra Medicine expands precision cancer care for children in Qatar through genomic research",
         "summary": "Over the past five years, the program has expanded its molecular diagnostic capabilities and introduced expedited genomic oncology profiling to provide oncologists with timely information when tre ...",
@@ -993,14 +1113,6 @@
     },
     {
       "segment": "pharma",
-      "articleId": "2026-09-20-the-biologics-patent-cliff-is-creating-a-new-leadership-talent-war",
-      "title": "The Biologics \"Patent Cliff\" Is Creating a New Leadership Talent War",
-      "source": "ET Healthworld",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
-      "segment": "pharma",
       "articleId": "2026-09-20-rs-78-400-vs-rs-7-750-medicine-novartis-eli-lilly-oppose-bid-to-cut-brea",
       "title": "Rs 78,400 vs Rs 7,750 medicine: Novartis, Eli Lilly oppose bid to cut breast cancer drug prices in India",
       "source": "Economic Times Pharma",
@@ -1022,6 +1134,14 @@
       "source": "Economic Times Pharma",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "pharma",
+      "articleId": "2026-09-20-pharma-sector-revenue-to-grow-11-13-pc-in-fy27-on-strong-exports-domesti",
+      "title": "Pharma sector revenue to grow 11-13 pc in FY27 on strong exports, domestic demand: Crisil",
+      "source": "Economic Times Pharma",
+      "solution": "THB Commercial Analytics",
+      "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
     },
     {
       "segment": "providers",
@@ -1049,17 +1169,17 @@
     },
     {
       "segment": "providers",
-      "articleId": "2026-09-20-brainlab-amrita-hospital-faridabad-launches-north-india-s-first-brain-an",
-      "title": "Brainlab, Amrita Hospital Faridabad launches North India's first brain and spine CoE",
+      "articleId": "2026-09-20-adani-group-sets-rs-1-lakh-crore-bengal-investment-target-unveils-rs-4-0",
+      "title": "Adani Group sets Rs 1 lakh crore Bengal investment target, unveils Rs 4,000 crore hospital",
       "source": "ET Healthworld Hospitals",
       "solution": "THB Provider CRM",
       "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
     },
     {
       "segment": "providers",
-      "articleId": "2026-09-20-mayo-clinic-uncovers-novel-biomarkers-for-lung-adenocarcinoma-treatment-",
-      "title": "Mayo Clinic uncovers novel biomarkers for lung adenocarcinoma treatment success | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
-      "source": "Healthcare MEA",
+      "articleId": "2026-09-20-brainlab-amrita-hospital-faridabad-launches-north-india-s-first-brain-an",
+      "title": "Brainlab, Amrita Hospital Faridabad launches North India's first brain and spine CoE",
+      "source": "ET Healthworld Hospitals",
       "solution": "THB Provider CRM",
       "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
     },
@@ -1089,17 +1209,17 @@
     },
     {
       "segment": "diagnostics",
-      "articleId": "2026-09-20-sidra-medicine-expands-precision-cancer-care-for-children-in-qatar-throu",
-      "title": "Sidra Medicine expands precision cancer care for children in Qatar through genomic research",
-      "source": "Healthcare MEA",
+      "articleId": "2026-09-20-doctors-warn-of-rising-dementia-burden-even-as-india-gets-first-disease-",
+      "title": "Doctors warn of rising dementia burden even as India gets first disease-modifying Alzheimer’s Drug",
+      "source": "Express Healthcare",
       "solution": "THB Diagnostics CRM",
       "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
     },
     {
       "segment": "diagnostics",
-      "articleId": "2026-09-20-who-assesses-efda-medicines-laboratory-in-ethiopia-for-global-quality-li",
-      "title": "WHO assesses EFDA Medicines Laboratory in Ethiopia for Global Quality Listing | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
-      "source": "Healthcare MEA",
+      "articleId": "2026-09-20-ai-platform-for-cervical-cancer-screening-to-be-co-designed-with-ashas-i",
+      "title": "AI platform for cervical cancer screening to be co-designed with ASHAs in Assam",
+      "source": "Express Healthcare",
       "solution": "THB Diagnostics CRM",
       "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
     }
