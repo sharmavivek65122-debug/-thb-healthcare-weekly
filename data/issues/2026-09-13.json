@@ -5,10 +5,10 @@
   "startDate": "2026-09-12T18:30:00.000Z",
   "endDate": "2026-09-18T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-09-25T18:01:58.131Z",
+  "updatedAt": "2026-09-26T09:28:01.641Z",
   "coverage": {
     "pharma": 9,
-    "providers": 7,
+    "providers": 8,
     "diagnostics": 0,
     "healthtech": 0
   },
@@ -16,6 +16,7 @@
     "ET Healthworld",
     "ET Healthworld Hospitals",
     "Economic Times Pharma",
+    "Express Healthcare",
     "Janssen India Media"
   ],
   "segments": {
@@ -123,23 +124,6 @@
         "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-cough-syrup-bottles-may-soon-carry-a-warning-label-in-red"
       },
       {
-        "id": "2026-09-13-us-names-india-china-pakistan-among-drug-transit-illicit-drug-producing-",
-        "title": "US names India, China, Pakistan among drug transit, illicit drug-producing nations for FY27",
-        "summary": "The United States has designated India, China, and Pakistan as major drug producing or transit countries. This presidential determination covers twenty-three nations for fiscal year twenty twenty-seven. Afghanistan, Bolivia, Burma, and Colombia were...",
-        "source": "Economic Times Pharma",
-        "sourceHost": "economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-09-16T16:27:39.000Z",
-        "publishedLabel": "September 16, 2026",
-        "category": "Industry Update",
-        "image": "https://img.etimg.com/thumb/msid-134292362,width-1200,height-630,imgsize-88230,overlay-economictimes/articleshow.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/us-names-india-china-pakistan-among-illicit-drug-producing-nations-for-fy27/articleshow/134292301.cms",
-        "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-us-names-india-china-pakistan-among-drug-transit-illicit-drug-producing-"
-      },
-      {
         "id": "2026-09-13-hospitals-push-back-as-fda-flags-high-markups-on-hospital-consumables",
         "title": "Hospitals push back as FDA flags high markups on hospital consumables",
         "summary": "The healthcare body disagreed with the notion of levying a fixed markup on consumables, adding that hospitals should not be considered mere resellers of medical devices. Instead, Nathealth called for an evidence-based and differentiated framework that...",
@@ -155,6 +139,23 @@
         "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/medical-devices/hospitals-push-back-as-fda-flags-high-markups-on-hospital-consumables/134305974",
         "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-hospitals-push-back-as-fda-flags-high-markups-on-hospital-consumables"
+      },
+      {
+        "id": "2026-09-13-regenerative-orthopaedics-building-evidence-standardisation-and-precisio",
+        "title": "Regenerative orthopaedics: Building evidence, standardisation and precision in care",
+        "summary": "Niteen Tulpule, Treasurer and Dr Sharmila Tulpule, Chairperson, REGEN 2026 in an interview with Kalyani Sharma, discuss the evolving landscape of regenerative orthopaedics in India, the need for greater standardisation and evidence, and the role of the newly...",
+        "source": "Express Healthcare",
+        "sourceHost": "expresshealthcare.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-09-15T14:51:49.000Z",
+        "publishedLabel": "September 15, 2026",
+        "category": "Industry Update",
+        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/09/15202136/REGEN.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": false,
+        "originalUrl": "https://www.expresshealthcare.in/news/regenerative-orthopaedics-building-evidence-standardisation-and-precision-in-care/455143/",
+        "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-regenerative-orthopaedics-building-evidence-standardisation-and-precisio"
       },
       {
         "id": "2026-09-13-johnson-and-johnson-s-2026-oncology-care-index-finds-community-oncologis",
@@ -293,6 +294,23 @@
         "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/fortis-healthcare-moves-supreme-court-against-delhi-hc-forensic-audit-order-axis-bank-may-follow/134284254",
         "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-fortis-healthcare-moves-supreme-court-against-delhi-hc-forensic-audit-or"
+      },
+      {
+        "id": "2026-09-13-expanding-the-reach-of-quality-healthcare",
+        "title": "Expanding the reach of quality healthcare",
+        "summary": "Sarvodaya’s acquisition of Nayati Hospital comes at a time when consolidation in the hospital sector is gaining pace. What does this acquisition tell us about the opportunities and challenges in the hospital market beyond the major metros? The acquisition...",
+        "source": "Express Healthcare",
+        "sourceHost": "expresshealthcare.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-09-15T13:45:55.000Z",
+        "publishedLabel": "September 15, 2026",
+        "category": "Hospital",
+        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/09/15191338/Dr-Rakesh-Gupta-Chairman-Sarvodaya-Healthcare.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": false,
+        "originalUrl": "https://www.expresshealthcare.in/news/expanding-the-reach-of-quality-healthcare/455140/",
+        "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-expanding-the-reach-of-quality-healthcare"
       }
     ],
     "diagnostics": [],

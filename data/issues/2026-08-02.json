@@ -5,18 +5,37 @@
   "startDate": "2026-08-01T18:30:00.000Z",
   "endDate": "2026-08-07T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-09-25T18:01:58.131Z",
+  "updatedAt": "2026-09-26T09:28:01.641Z",
   "coverage": {
-    "pharma": 0,
+    "pharma": 1,
     "providers": 0,
     "diagnostics": 1,
     "healthtech": 0
   },
   "sourcesUsed": [
-    "ET Healthworld Diagnostics"
+    "ET Healthworld Diagnostics",
+    "Lupin Updates"
   ],
   "segments": {
-    "pharma": [],
+    "pharma": [
+      {
+        "id": "2026-08-02-lupin-q1-pat-rises-16-pc-at-rs-1-417-cr",
+        "title": "Lupin Q1 PAT rises 16 pc at Rs 1,417 cr",
+        "summary": "Lupin Ltd has reported a remarkable sixteen percent surge in profit after tax for the first quarter, showcasing their continued success. The firm experienced considerable growth in consolidated total revenue from operations, largely driven by a staggering...",
+        "source": "Lupin Updates",
+        "sourceHost": "economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-08-07T11:06:00.000Z",
+        "publishedLabel": "August 7, 2026",
+        "category": "Industry Update",
+        "image": "https://img.etimg.com/thumb/msid-133032045,width-1200,height-630,imgsize-11896,overlay-etmarkets/articleshow.jpg",
+        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
+        "justIn": false,
+        "originalUrl": "https://economictimes.indiatimes.com/markets/stocks/earnings/lupin-q1-pat-rises-16-pc-at-rs-1417-cr/articleshow/133031974.cms",
+        "articlePath": "/article.html?issue=2026-08-02&article=2026-08-02-lupin-q1-pat-rises-16-pc-at-rs-1-417-cr"
+      }
+    ],
     "providers": [],
     "diagnostics": [
       {
@@ -40,6 +59,14 @@
     "healthtech": []
   },
   "thbActions": [
+    {
+      "segment": "pharma",
+      "articleId": "2026-08-02-lupin-q1-pat-rises-16-pc-at-rs-1-417-cr",
+      "title": "Lupin Q1 PAT rises 16 pc at Rs 1,417 cr",
+      "source": "Lupin Updates",
+      "solution": "THB Commercial Analytics",
+      "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
+    },
     {
       "segment": "diagnostics",
       "articleId": "2026-08-02-molbio-diagnostics-sets-ipo-price-band-at-rs-768-807-issue-to-open-on-au",
