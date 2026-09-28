@@ -5,9 +5,9 @@
   "startDate": "2026-09-12T18:30:00.000Z",
   "endDate": "2026-09-18T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-09-28T11:08:07.721Z",
+  "updatedAt": "2026-09-28T20:12:01.041Z",
   "coverage": {
-    "pharma": 6,
+    "pharma": 5,
     "providers": 7,
     "diagnostics": 0,
     "healthtech": 0
@@ -15,7 +15,6 @@
   "sourcesUsed": [
     "ET Healthworld Hospitals",
     "Economic Times Pharma",
-    "Express Healthcare",
     "Janssen India Media"
   ],
   "segments": {
@@ -87,23 +86,6 @@
         "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/cough-syrup-bottles-may-soon-carry-a-warning-label-in-red/articleshow/134342947.cms",
         "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-cough-syrup-bottles-may-soon-carry-a-warning-label-in-red"
-      },
-      {
-        "id": "2026-09-13-regenerative-orthopaedics-building-evidence-standardisation-and-precisio",
-        "title": "Regenerative orthopaedics: Building evidence, standardisation and precision in care",
-        "summary": "Niteen Tulpule, Treasurer and Dr Sharmila Tulpule, Chairperson, REGEN 2026 in an interview with Kalyani Sharma, discuss the evolving landscape of regenerative orthopaedics in India, the need for greater standardisation […]",
-        "source": "Express Healthcare",
-        "sourceHost": "expresshealthcare.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-09-15T14:51:49.000Z",
-        "publishedLabel": "September 15, 2026",
-        "category": "Industry Update",
-        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/09/15202136/REGEN.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://www.expresshealthcare.in/news/regenerative-orthopaedics-building-evidence-standardisation-and-precision-in-care/455143/",
-        "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-regenerative-orthopaedics-building-evidence-standardisation-and-precisio"
       },
       {
         "id": "2026-09-13-johnson-and-johnson-s-2026-oncology-care-index-finds-community-oncologis",
@@ -282,9 +264,9 @@
     },
     {
       "segment": "pharma",
-      "articleId": "2026-09-13-regenerative-orthopaedics-building-evidence-standardisation-and-precisio",
-      "title": "Regenerative orthopaedics: Building evidence, standardisation and precision in care",
-      "source": "Express Healthcare",
+      "articleId": "2026-09-13-johnson-and-johnson-s-2026-oncology-care-index-finds-community-oncologis",
+      "title": "Johnson & Johnson’s 2026 Oncology Care Index Finds Community Oncologists Confident in AI’s Promise, but Practical Adoption Still Lags",
+      "source": "Janssen India Media",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
     },

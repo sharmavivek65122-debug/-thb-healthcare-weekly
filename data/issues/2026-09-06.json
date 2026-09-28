@@ -5,40 +5,19 @@
   "startDate": "2026-09-05T18:30:00.000Z",
   "endDate": "2026-09-11T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-09-28T11:08:07.721Z",
+  "updatedAt": "2026-09-28T20:12:01.041Z",
   "coverage": {
-    "pharma": 1,
-    "providers": 4,
-    "diagnostics": 2,
+    "pharma": 0,
+    "providers": 3,
+    "diagnostics": 1,
     "healthtech": 0
   },
   "sourcesUsed": [
     "ET Healthworld Diagnostics",
-    "ET Healthworld Hospitals",
-    "Express Healthcare",
-    "Lupin Updates",
-    "Zawya Pharmaceuticals"
+    "ET Healthworld Hospitals"
   ],
   "segments": {
-    "pharma": [
-      {
-        "id": "2026-09-06-stocks-in-news-tata-motors-rvnl-eicher-motors-mazagon-dock-and-lupin",
-        "title": "Stocks in news: Tata Motors, RVNL, Eicher Motors, Mazagon Dock and Lupin",
-        "summary": "Indian equity markets experienced volatility, with the Nifty 50 extending its losing streak for four weeks. Escalating US-Iran hostilities pushed crude oil prices higher, impacting overall market sentiment. Several companies, including Tata Motors and Rail...",
-        "source": "Lupin Updates",
-        "sourceHost": "economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-09-07T00:30:00.000Z",
-        "publishedLabel": "September 7, 2026",
-        "category": "Market",
-        "image": "https://img.etimg.com/thumb/msid-133845569,width-1200,height-630,imgsize-155154,overlay-etmarkets/articleshow.jpg",
-        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": false,
-        "originalUrl": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-tata-motors-rvnl-eicher-motors-mazagon-dock-and-lupin/articleshow/133844968.cms",
-        "articlePath": "/article.html?issue=2026-09-06&article=2026-09-06-stocks-in-news-tata-motors-rvnl-eicher-motors-mazagon-dock-and-lupin"
-      }
-    ],
+    "pharma": [],
     "providers": [
       {
         "id": "2026-09-06-fortis-to-install-upright-proton-therapy-system-to-advance-cancer-care",
@@ -90,23 +69,6 @@
         "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/park-medi-world-incorporates-subsidiary-to-set-up-550-bed-hospital-in-prayagraj/133948655",
         "articlePath": "/article.html?issue=2026-09-06&article=2026-09-06-park-medi-world-incorporates-subsidiary-to-set-up-550-bed-hospital-in-pr"
-      },
-      {
-        "id": "2026-09-06-fab-sets-aed-100bln-blue-finance-target-and-becomes-first-mena-bank-to-j",
-        "title": "FAB sets AED 100bln blue finance target and becomes first MENA bank to join UN sustainable blue economy finance principles",
-        "summary": "Ahead of the 2026 UN Water Conference",
-        "source": "Zawya Pharmaceuticals",
-        "sourceHost": "zawya.com",
-        "region": "Middle East",
-        "country": "United Arab Emirates",
-        "publishedAt": "2026-09-08T06:38:20.440Z",
-        "publishedLabel": "September 8, 2026",
-        "category": "AI Care Delivery",
-        "image": "https://media.zawya.com/prod/images/gm_preview/d6ddcf96dff2-first-abu-dhabi-bank.jpg",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://www.zawya.com/en/press-release/companies-news/fab-sets-aed-100bln-blue-finance-target-and-becomes-first-mena-bank-to-join-un-sustainable-blue-economy-finance-principles-481378",
-        "articlePath": "/article.html?issue=2026-09-06&article=2026-09-06-fab-sets-aed-100bln-blue-finance-target-and-becomes-first-mena-bank-to-j"
       }
     ],
     "diagnostics": [
@@ -126,36 +88,11 @@
         "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/diagnostics/molbio-diagnostics-shares-rally-30-in-2-days-jump-80-since-debut-what-lies-ahead/134039061",
         "articlePath": "/article.html?issue=2026-09-06&article=2026-09-06-molbio-diagnostics-shares-rally-30-in-2-days-jump-80-since-debut-what-li"
-      },
-      {
-        "id": "2026-09-06-ai-enabled-medtech-the-next-leap",
-        "title": "AI – Enabled medtech: The next leap",
-        "summary": "AI is taking medical devices beyond data capture, enabling them to interpret, predict and support clinical decisions. The shift could reshape how healthcare is delivered across India",
-        "source": "Express Healthcare",
-        "sourceHost": "expresshealthcare.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-09-11T05:35:37.000Z",
-        "publishedLabel": "September 11, 2026",
-        "category": "Industry Update",
-        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/09/11110043/EH_DigitalIssue_CS_September_2026_Ft_Image_750.jpg",
-        "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
-        "justIn": false,
-        "originalUrl": "https://www.expresshealthcare.in/news/ai-enabled-medtech-the-next-leap/455108/",
-        "articlePath": "/article.html?issue=2026-09-06&article=2026-09-06-ai-enabled-medtech-the-next-leap"
       }
     ],
     "healthtech": []
   },
   "thbActions": [
-    {
-      "segment": "pharma",
-      "articleId": "2026-09-06-stocks-in-news-tata-motors-rvnl-eicher-motors-mazagon-dock-and-lupin",
-      "title": "Stocks in news: Tata Motors, RVNL, Eicher Motors, Mazagon Dock and Lupin",
-      "source": "Lupin Updates",
-      "solution": "THB Commercial Analytics",
-      "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
-    },
     {
       "segment": "providers",
       "articleId": "2026-09-06-fortis-to-install-upright-proton-therapy-system-to-advance-cancer-care",
@@ -181,26 +118,10 @@
       "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
     },
     {
-      "segment": "providers",
-      "articleId": "2026-09-06-fab-sets-aed-100bln-blue-finance-target-and-becomes-first-mena-bank-to-j",
-      "title": "FAB sets AED 100bln blue finance target and becomes first MENA bank to join UN sustainable blue economy finance principles",
-      "source": "Zawya Pharmaceuticals",
-      "solution": "THB Provider CRM",
-      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
-    },
-    {
       "segment": "diagnostics",
       "articleId": "2026-09-06-molbio-diagnostics-shares-rally-30-in-2-days-jump-80-since-debut-what-li",
       "title": "Molbio Diagnostics shares rally 30% in 2 days, jump 80% since debut. What lies ahead?",
       "source": "ET Healthworld Diagnostics",
-      "solution": "THB Diagnostics CRM",
-      "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
-    },
-    {
-      "segment": "diagnostics",
-      "articleId": "2026-09-06-ai-enabled-medtech-the-next-leap",
-      "title": "AI – Enabled medtech: The next leap",
-      "source": "Express Healthcare",
       "solution": "THB Diagnostics CRM",
       "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
     }
