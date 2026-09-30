@@ -5,9 +5,9 @@
   "startDate": "2026-09-12T18:30:00.000Z",
   "endDate": "2026-09-18T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-09-30T10:38:41.936Z",
+  "updatedAt": "2026-09-30T18:31:21.458Z",
   "coverage": {
-    "pharma": 3,
+    "pharma": 2,
     "providers": 7,
     "diagnostics": 0,
     "healthtech": 0
@@ -19,23 +19,6 @@
   ],
   "segments": {
     "pharma": [
-      {
-        "id": "2026-09-13-government-to-ease-ba-be-study-norms-for-domestic-generic-drug-approvals",
-        "title": "Government to ease BA-BE study norms for domestic generic drug approvals, cut import licence timelines",
-        "summary": "Pharmaceutical companies will soon find it easier to conduct drug studies. Applicants can start eligible trials after intimating the drug regulator. This change aims to speed up the launch of generic drugs locally. Import licence applications for new drugs...",
-        "source": "Economic Times Pharma",
-        "sourceHost": "economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-09-18T18:24:56.000Z",
-        "publishedLabel": "September 18, 2026",
-        "category": "Approval",
-        "image": "https://img.etimg.com/thumb/msid-134342371,width-1200,height-630,imgsize-165864,overlay-economictimes/articleshow.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/government-to-ease-ba-be-study-norms-for-domestic-generic-drug-approvals-cut-import-licence-timelines/articleshow/134342263.cms",
-        "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-government-to-ease-ba-be-study-norms-for-domestic-generic-drug-approvals"
-      },
       {
         "id": "2026-09-13-cough-syrup-bottles-may-soon-carry-a-warning-label-in-red",
         "title": "Cough syrup bottles may soon carry a warning label in 'red'",
@@ -196,14 +179,6 @@
     "healthtech": []
   },
   "thbActions": [
-    {
-      "segment": "pharma",
-      "articleId": "2026-09-13-government-to-ease-ba-be-study-norms-for-domestic-generic-drug-approvals",
-      "title": "Government to ease BA-BE study norms for domestic generic drug approvals, cut import licence timelines",
-      "source": "Economic Times Pharma",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
     {
       "segment": "pharma",
       "articleId": "2026-09-13-cough-syrup-bottles-may-soon-carry-a-warning-label-in-red",
