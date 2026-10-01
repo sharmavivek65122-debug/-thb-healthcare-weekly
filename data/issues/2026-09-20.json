@@ -5,15 +5,14 @@
   "startDate": "2026-09-19T18:30:00.000Z",
   "endDate": "2026-09-25T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-10-01T11:06:15.815Z",
+  "updatedAt": "2026-10-01T18:59:14.699Z",
   "coverage": {
-    "pharma": 14,
-    "providers": 7,
+    "pharma": 15,
+    "providers": 6,
     "diagnostics": 3,
-    "healthtech": 1
+    "healthtech": 0
   },
   "sourcesUsed": [
-    "BioSpectrum India Healthcare",
     "ET Healthworld",
     "ET Healthworld Diagnostics",
     "ET Healthworld Hospitals",
@@ -175,6 +174,23 @@
         "articlePath": "/article.html?issue=2026-09-20&article=2026-09-20-drug-regulator-warns-against-prolonged-use-of-painkillers-antibiotics"
       },
       {
+        "id": "2026-09-20-centre-calls-for-review-of-hospital-consumable-prices-after-maharashtra-",
+        "title": "Centre calls for review of Hospital Consumable Prices after Maharashtra FDA Commissioner flags MRP gaps: Sou..",
+        "summary": "The Centre has started discussion with Medical sector and private hospitals on trade margin rationalisation for medical devices, according to sources.",
+        "source": "ET Healthworld",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-09-21T06:17:30.000Z",
+        "publishedLabel": "September 21, 2026",
+        "category": "Industry Update",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-134381799,imgsize-58542,width-1200,height=627,overlay-ethealth,resizemode-75/policy/centre-calls-for-review-of-hospital-consumable-prices-after-maharashtra-fda-commissioner-flags-mrp-gaps-sources.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": false,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/policy/centre-calls-for-review-of-hospital-consumable-prices-after-maharashtra-fda-commissioner-flags-mrp-gaps-sources/134381799",
+        "articlePath": "/article.html?issue=2026-09-20&article=2026-09-20-centre-calls-for-review-of-hospital-consumable-prices-after-maharashtra-"
+      },
+      {
         "id": "2026-09-20-jagsonpal-pharma-to-acquire-group-pharma-s-wellness-portfolio",
         "title": "Jagsonpal Pharma to acquire Group Pharma’s wellness portfolio",
         "summary": "Jagsonpal Pharmaceuticals has signed a business transfer agreement to acquire the wellness portfolio of Group Pharmaceuticals. The acquisition is valued at an initial consideration of Rs 23.7 crore along with an additional amount based on future sales. This...",
@@ -219,7 +235,7 @@
         "publishedAt": "2026-09-20T10:49:59.000Z",
         "publishedLabel": "September 20, 2026",
         "category": "Market",
-        "image": "https://img.etimg.com/thumb/msid-134367047,width-1200,height-630,imgsize-99948,overlay-economictimes/articleshow.jpg",
+        "image": "https://img.etimg.com/thumb/msid-134367047,width-1200,height-900,imgsize-99948,overlay-economictimes/articleshow.jpg",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
         "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/ayurveda-needs-stronger-evidence-safety-monitoring-for-market-adoption-says-ccras/articleshow/134366919.cms",
@@ -362,23 +378,6 @@
         "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/brainlab-amrita-hospital-faridabad-launches-north-indias-first-brain-and-spine-coe/134405543",
         "articlePath": "/article.html?issue=2026-09-20&article=2026-09-20-brainlab-amrita-hospital-faridabad-launches-north-india-s-first-brain-an"
-      },
-      {
-        "id": "2026-09-20-max-deepens-footprint-in-africa-with-new-patient-centre-in-tanzania",
-        "title": "Max deepens footprint in Africa with new patient centre in Tanzania",
-        "summary": "This marks the fourth office of the Indian healthcare major in the continent after Nairobi, Addis Ababa & Lagos.",
-        "source": "ET Healthworld Hospitals",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-09-25T12:12:15.000Z",
-        "publishedLabel": "September 25, 2026",
-        "category": "Patient Care",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-134485117,imgsize-154579,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/max-deepens-footprint-in-africa-with-new-patient-centre-in-tanzania.jpg",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/max-deepens-footprint-in-africa-with-new-patient-centre-in-tanzania/134485117",
-        "articlePath": "/article.html?issue=2026-09-20&article=2026-09-20-max-deepens-footprint-in-africa-with-new-patient-centre-in-tanzania"
       }
     ],
     "diagnostics": [
@@ -434,25 +433,7 @@
         "articlePath": "/article.html?issue=2026-09-20&article=2026-09-20-dr-lal-pathlabs-to-acquire-70-pc-stake-in-sn-genelab-for-rs-168-crore"
       }
     ],
-    "healthtech": [
-      {
-        "id": "2026-09-20-healthark-sets-agenda-for-next-generation-of-life-sciences-and-healthtec",
-        "title": "Healthark sets agenda for Next Generation of Life Sciences and HealthTech GCCs at RISE 2026",
-        "summary": "Healthark sets agenda for Next Generation of Life Sciences and HealthTech GCCs at RISE 2026",
-        "source": "BioSpectrum India Healthcare",
-        "sourceHost": "biospectrumindia.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-09-25T18:30:00.000Z",
-        "publishedLabel": "September 26, 2026",
-        "category": "Industry Update",
-        "image": "https://www.biospectrumindia.com/uploads/articles/picture_01_21_-28542.jpeg",
-        "thbAction": "",
-        "justIn": false,
-        "originalUrl": "https://www.biospectrumindia.com/news/16/28542/healthark-sets-agenda-for-next-generation-of-life-sciences-and-healthtech-gccs-at-rise-2026.html",
-        "articlePath": "/article.html?issue=2026-09-20&article=2026-09-20-healthark-sets-agenda-for-next-generation-of-life-sciences-and-healthtec"
-      }
-    ]
+    "healthtech": []
   },
   "thbActions": [
     {
