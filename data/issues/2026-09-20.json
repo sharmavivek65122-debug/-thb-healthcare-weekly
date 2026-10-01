@@ -5,14 +5,15 @@
   "startDate": "2026-09-19T18:30:00.000Z",
   "endDate": "2026-09-25T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-09-30T18:31:21.458Z",
+  "updatedAt": "2026-10-01T11:06:15.815Z",
   "coverage": {
-    "pharma": 15,
+    "pharma": 14,
     "providers": 7,
     "diagnostics": 3,
-    "healthtech": 0
+    "healthtech": 1
   },
   "sourcesUsed": [
+    "BioSpectrum India Healthcare",
     "ET Healthworld",
     "ET Healthworld Diagnostics",
     "ET Healthworld Hospitals",
@@ -65,7 +66,7 @@
         "publishedAt": "2026-09-20T18:50:12.000Z",
         "publishedLabel": "September 21, 2026",
         "category": "Manufacturing",
-        "image": "https://img.etimg.com/thumb/msid-134374379,width-1200,height-630,imgsize-254126,overlay-economictimes/articleshow.jpg",
+        "image": "https://img.etimg.com/thumb/msid-134374379,width-1200,height-900,imgsize-254126,overlay-economictimes/articleshow.jpg",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
         "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/aragen-steps-up-investment-in-complex-drug-modalities-plans-500-kl-new-cdmo-capacity/articleshow/134374360.cms",
@@ -172,23 +173,6 @@
         "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/drug-regulator-warns-against-prolonged-use-of-painkillers-antibiotics/articleshow/134412912.cms",
         "articlePath": "/article.html?issue=2026-09-20&article=2026-09-20-drug-regulator-warns-against-prolonged-use-of-painkillers-antibiotics"
-      },
-      {
-        "id": "2026-09-20-centre-calls-for-review-of-hospital-consumable-prices-after-maharashtra-",
-        "title": "Centre calls for review of Hospital Consumable Prices after Maharashtra FDA Commissioner flags MRP gaps: Sou..",
-        "summary": "The Centre has started discussion with Medical sector and private hospitals on trade margin rationalisation for medical devices, according to sources.",
-        "source": "ET Healthworld",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-09-21T06:17:30.000Z",
-        "publishedLabel": "September 21, 2026",
-        "category": "Industry Update",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-134381799,imgsize-58542,width-1200,height=627,overlay-ethealth,resizemode-75/policy/centre-calls-for-review-of-hospital-consumable-prices-after-maharashtra-fda-commissioner-flags-mrp-gaps-sources.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/policy/centre-calls-for-review-of-hospital-consumable-prices-after-maharashtra-fda-commissioner-flags-mrp-gaps-sources/134381799",
-        "articlePath": "/article.html?issue=2026-09-20&article=2026-09-20-centre-calls-for-review-of-hospital-consumable-prices-after-maharashtra-"
       },
       {
         "id": "2026-09-20-jagsonpal-pharma-to-acquire-group-pharma-s-wellness-portfolio",
@@ -450,7 +434,25 @@
         "articlePath": "/article.html?issue=2026-09-20&article=2026-09-20-dr-lal-pathlabs-to-acquire-70-pc-stake-in-sn-genelab-for-rs-168-crore"
       }
     ],
-    "healthtech": []
+    "healthtech": [
+      {
+        "id": "2026-09-20-healthark-sets-agenda-for-next-generation-of-life-sciences-and-healthtec",
+        "title": "Healthark sets agenda for Next Generation of Life Sciences and HealthTech GCCs at RISE 2026",
+        "summary": "Healthark sets agenda for Next Generation of Life Sciences and HealthTech GCCs at RISE 2026",
+        "source": "BioSpectrum India Healthcare",
+        "sourceHost": "biospectrumindia.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-09-25T18:30:00.000Z",
+        "publishedLabel": "September 26, 2026",
+        "category": "Industry Update",
+        "image": "https://www.biospectrumindia.com/uploads/articles/picture_01_21_-28542.jpeg",
+        "thbAction": "",
+        "justIn": false,
+        "originalUrl": "https://www.biospectrumindia.com/news/16/28542/healthark-sets-agenda-for-next-generation-of-life-sciences-and-healthtech-gccs-at-rise-2026.html",
+        "articlePath": "/article.html?issue=2026-09-20&article=2026-09-20-healthark-sets-agenda-for-next-generation-of-life-sciences-and-healthtec"
+      }
+    ]
   },
   "thbActions": [
     {

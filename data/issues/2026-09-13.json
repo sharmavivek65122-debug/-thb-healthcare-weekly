@@ -5,7 +5,7 @@
   "startDate": "2026-09-12T18:30:00.000Z",
   "endDate": "2026-09-18T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-09-30T18:31:21.458Z",
+  "updatedAt": "2026-10-01T11:06:15.815Z",
   "coverage": {
     "pharma": 2,
     "providers": 7,
@@ -13,29 +13,12 @@
     "healthtech": 0
   },
   "sourcesUsed": [
+    "BioSpectrum Asia Middle East",
     "ET Healthworld Hospitals",
-    "Economic Times Pharma",
     "Janssen India Media"
   ],
   "segments": {
     "pharma": [
-      {
-        "id": "2026-09-13-cough-syrup-bottles-may-soon-carry-a-warning-label-in-red",
-        "title": "Cough syrup bottles may soon carry a warning label in 'red'",
-        "summary": "The move comes amid continued concerns over the prescribing of cough syrups to infants and young children, despite a directorate general of health services (DGHS) advisory in October 2025 against the practice.",
-        "source": "Economic Times Pharma",
-        "sourceHost": "economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-09-18T18:59:27.000Z",
-        "publishedLabel": "September 19, 2026",
-        "category": "Industry Update",
-        "image": "https://img.etimg.com/thumb/msid-134343008,width-1200,height-630,imgsize-33924,overlay-economictimes/articleshow.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/cough-syrup-bottles-may-soon-carry-a-warning-label-in-red/articleshow/134342947.cms",
-        "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-cough-syrup-bottles-may-soon-carry-a-warning-label-in-red"
-      },
       {
         "id": "2026-09-13-johnson-and-johnson-s-2026-oncology-care-index-finds-community-oncologis",
         "title": "Johnson & Johnson’s 2026 Oncology Care Index Finds Community Oncologists Confident in AI’s Promise, but Practical Adoption Still Lags",
@@ -52,6 +35,23 @@
         "justIn": false,
         "originalUrl": "https://www.jnj.com/media-center/press-releases/johnson-johnsons-2026-oncology-care-index-finds-community-oncologists-confident-in-ais-promise-but-practical-adoption-still-lags",
         "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-johnson-and-johnson-s-2026-oncology-care-index-finds-community-oncologis"
+      },
+      {
+        "id": "2026-09-13-avantor-expands-rim-single-use-portfolio-of-bioprocessing-solutions-acro",
+        "title": "Avantor expands RIM single-use portfolio of bioprocessing solutions across APAC",
+        "summary": "Avantor expands RIM single-use portfolio of bioprocessing solutions across APAC",
+        "source": "BioSpectrum Asia Middle East",
+        "sourceHost": "biospectrumasia.com",
+        "region": "Middle East",
+        "country": "Oman",
+        "publishedAt": "2026-09-16T18:30:00.000Z",
+        "publishedLabel": "September 17, 2026",
+        "category": "Industry Update",
+        "image": "https://www.biospectrumasia.com/uploads/articles/unnamed_13_-28383.jpg?v=20260917090208",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": false,
+        "originalUrl": "https://www.biospectrumasia.com/news/41/28383/avantor-expands-rim-single-use-portfolio-of-bioprocessing-solutions-across-apac.html",
+        "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-avantor-expands-rim-single-use-portfolio-of-bioprocessing-solutions-acro"
       }
     ],
     "providers": [
@@ -181,17 +181,17 @@
   "thbActions": [
     {
       "segment": "pharma",
-      "articleId": "2026-09-13-cough-syrup-bottles-may-soon-carry-a-warning-label-in-red",
-      "title": "Cough syrup bottles may soon carry a warning label in 'red'",
-      "source": "Economic Times Pharma",
+      "articleId": "2026-09-13-johnson-and-johnson-s-2026-oncology-care-index-finds-community-oncologis",
+      "title": "Johnson & Johnson’s 2026 Oncology Care Index Finds Community Oncologists Confident in AI’s Promise, but Practical Adoption Still Lags",
+      "source": "Janssen India Media",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
     },
     {
       "segment": "pharma",
-      "articleId": "2026-09-13-johnson-and-johnson-s-2026-oncology-care-index-finds-community-oncologis",
-      "title": "Johnson & Johnson’s 2026 Oncology Care Index Finds Community Oncologists Confident in AI’s Promise, but Practical Adoption Still Lags",
-      "source": "Janssen India Media",
+      "articleId": "2026-09-13-avantor-expands-rim-single-use-portfolio-of-bioprocessing-solutions-acro",
+      "title": "Avantor expands RIM single-use portfolio of bioprocessing solutions across APAC",
+      "source": "BioSpectrum Asia Middle East",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
     },
