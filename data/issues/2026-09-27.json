@@ -5,10 +5,10 @@
   "startDate": "2026-09-26T18:30:00.000Z",
   "endDate": "2026-10-02T18:30:00.000Z",
   "status": "live",
-  "updatedAt": "2026-10-02T10:39:25.279Z",
+  "updatedAt": "2026-10-02T18:39:16.962Z",
   "coverage": {
     "pharma": 42,
-    "providers": 10,
+    "providers": 11,
     "diagnostics": 3,
     "healthtech": 0
   },
@@ -17,6 +17,7 @@
     "BioSpectrum India Healthcare",
     "ET Healthworld",
     "ET Healthworld Diagnostics",
+    "ET Healthworld Hospitals",
     "Economic Times Pharma",
     "Express Healthcare",
     "Healthcare MEA",
@@ -39,7 +40,7 @@
         "category": "Market",
         "image": "https://img.etimg.com/thumb/msid-134626717,width-1200,height-900,imgsize-73622,overlay-economictimes/articleshow.jpg",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/indias-biotech-ecosystem-holds-tremendous-promise-eli-lilly-ceo/articleshow/134626584.cms",
         "articlePath": "/article.html?issue=2026-09-27&article=2026-09-27-india-s-biotech-ecosystem-holds-tremendous-promise-eli-lilly-ceo"
       },
@@ -56,7 +57,7 @@
         "category": "Market",
         "image": "https://img.etimg.com/thumb/msid-134626993,width-1200,height-900,imgsize-55890,overlay-economictimes/articleshow.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/india-has-biotech-talent-and-know-how-but-funding-ecosystem-lags-lilly-ceo/articleshow/134626945.cms",
         "articlePath": "/article.html?issue=2026-09-27&article=2026-09-27-india-has-biotech-talent-and-know-how-but-funding-ecosystem-lags-lilly-c"
       },
@@ -76,6 +77,23 @@
         "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/chryscapital-to-take-minority-stake-in-linux-laboratories/articleshow/134573591.cms",
         "articlePath": "/article.html?issue=2026-09-27&article=2026-09-27-chryscapital-to-take-minority-stake-in-linux-laboratories"
+      },
+      {
+        "id": "2026-09-27-advent-international-seeks-cci-nod-to-acquire-minority-stake-in-yatharth",
+        "title": "Advent International seeks CCI nod to acquire minority stake in Yatharth Hospitals",
+        "summary": "Noida-based Yatharth Hospital and Trauma Care Services operates a network of super-speciality hospitals in India, providing comprehensive healthcare services, diagnostics, and advanced medical procedures across multiple specialities.",
+        "source": "ET Healthworld",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-10-02T15:38:19.000Z",
+        "publishedLabel": "October 2, 2026",
+        "category": "Industry Update",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-134642697,imgsize-84904,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/advent-international-seeks-cci-nod-to-acquire-minority-stake-in-yatharth-hospitals.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/advent-international-seeks-cci-nod-to-acquire-minority-stake-in-yatharth-hospitals/134642697",
+        "articlePath": "/article.html?issue=2026-09-27&article=2026-09-27-advent-international-seeks-cci-nod-to-acquire-minority-stake-in-yatharth"
       },
       {
         "id": "2026-09-27-from-jab-to-pills-novo-nordisk-eli-lilly-set-to-take-obesity-drug-battle",
@@ -129,6 +147,23 @@
         "articlePath": "/article.html?issue=2026-09-27&article=2026-09-27-cdsco-steps-up-scrutiny-of-pharma-drugs-containing-narcotic-substances"
       },
       {
+        "id": "2026-09-27-robotics-to-expand-beyond-surgery-into-diagnostics-and-multiple-medical-",
+        "title": "Robotics to expand beyond surgery into diagnostics and multiple medical specialities: Jitendra Singh",
+        "summary": "Addressing the inaugural session of the International Conference of the Society of Robotic Surgery, Singh said robotics, along with AI and nanoscience, would create a larger ecosystem for precision health delivery and precision medicine.",
+        "source": "ET Healthworld",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-10-02T15:41:45.000Z",
+        "publishedLabel": "October 2, 2026",
+        "category": "Industry Update",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-134642664,imgsize-55686,width-1200,height=627,overlay-ethealth,resizemode-75/medical-devices/robotics-to-expand-beyond-surgery-into-diagnostics-and-multiple-medical-specialities-jitendra-singh.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/medical-devices/robotics-to-expand-beyond-surgery-into-diagnostics-and-multiple-medical-specialities-jitendra-singh/134642664",
+        "articlePath": "/article.html?issue=2026-09-27&article=2026-09-27-robotics-to-expand-beyond-surgery-into-diagnostics-and-multiple-medical-"
+      },
+      {
         "id": "2026-09-27-govt-extends-import-price-curbs-on-two-pharma-raw-materials",
         "title": "Govt extends import price curbs on two pharma raw materials",
         "summary": "The Directorate General of Foreign Trade has announced an extension of the minimum import price validity period. This extension will apply to two pharmaceutical raw materials, namely ATS-8 and Sulfadiazine API. The minimum import price for ATS-8 will be set...",
@@ -180,38 +215,38 @@
         "articlePath": "/article.html?issue=2026-09-27&article=2026-09-27-sun-pharma-signs-major-deal-with-lib-therapeutics-of-us-gains-access-to-"
       },
       {
-        "id": "2026-09-27-hospital-stocks-fall-as-sc-questions-drug-mark-ups",
-        "title": "Hospital stocks fall as SC questions drug mark-ups",
-        "summary": "The sell-off came after the Supreme Court raised concerns over the wide gap between the price at which hospitals procure medicines and the maximum retail price charged to patients.",
-        "source": "ET Healthworld",
-        "sourceHost": "health.economictimes.indiatimes.com",
+        "id": "2026-09-27-maharashtra-fda-cancels-cipla-s-pune-warehouse-licences-over-reactin-plu",
+        "title": "Maharashtra FDA cancels Cipla's Pune warehouse licences over Reactin Plus packaging claims",
+        "summary": "Maharashtra's Food and Drug Administration has cancelled Cipla Pharma's distribution licenses due to serious violations. The FDA discovered irregularities with Reactin Plus Tablets, including misbranding and unsafe storage practices. Following inspections, it...",
+        "source": "Economic Times Pharma",
+        "sourceHost": "economictimes.indiatimes.com",
         "region": "India",
         "country": "India",
-        "publishedAt": "2026-09-30T11:25:31.000Z",
-        "publishedLabel": "September 30, 2026",
+        "publishedAt": "2026-10-02T13:45:57.000Z",
+        "publishedLabel": "October 2, 2026",
         "category": "Industry Update",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-134592391,imgsize-126122,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/hospital-stocks-fall-as-sc-questions-drug-mark-ups.jpg",
+        "image": "https://img.etimg.com/thumb/msid-134641251,width-1200,height-900,imgsize-174896,overlay-economictimes/articleshow.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/hospital-stocks-fall-as-sc-questions-drug-mark-ups/134592391",
-        "articlePath": "/article.html?issue=2026-09-27&article=2026-09-27-hospital-stocks-fall-as-sc-questions-drug-mark-ups"
+        "justIn": true,
+        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/maharashtra-fda-cancels-cipla-warehouse-licences-over-drug-violations/articleshow/134641214.cms",
+        "articlePath": "/article.html?issue=2026-09-27&article=2026-09-27-maharashtra-fda-cancels-cipla-s-pune-warehouse-licences-over-reactin-plu"
       },
       {
-        "id": "2026-09-27-fifth-measles-associated-death-reported-in-us",
-        "title": "Fifth measles-associated death reported in US",
-        "summary": "Lancaster County health officials confirmed an unvaccinated resident died of the highly contagious disease, without offering further details.",
+        "id": "2026-09-27-hepatitis-c-treatment-duration-may-be-cut-from-12-to-8-weeks",
+        "title": "Hepatitis C treatment duration may be cut from 12 to 8 weeks",
+        "summary": "This follows an Indian Council of Medical Research-funded study, called RESOLVE trial, undertaken by Sanjay Gandhi Post Graduate Institute of Medical Sciences (SGPGIMS), which proved that the effectiveness of the shorter regimen was as good as that of the...",
         "source": "ET Healthworld",
         "sourceHost": "health.economictimes.indiatimes.com",
         "region": "India",
         "country": "India",
-        "publishedAt": "2026-10-01T09:56:19.000Z",
-        "publishedLabel": "October 1, 2026",
+        "publishedAt": "2026-10-02T15:34:48.000Z",
+        "publishedLabel": "October 2, 2026",
         "category": "Industry Update",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-134614841,imgsize-57232,width-1200,height=627,overlay-ethealth,resizemode-75/industry/fifth-measles-associated-death-reported-in-us.jpg",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-134642622,imgsize-75286,width-1200,height=627,overlay-ethealth,resizemode-75/industry/hepatitis-c-treatment-duration-may-be-cut-from-12-to-8-weeks.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/fifth-measles-associated-death-reported-in-us/134614841",
-        "articlePath": "/article.html?issue=2026-09-27&article=2026-09-27-fifth-measles-associated-death-reported-in-us"
+        "justIn": true,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/hepatitis-c-treatment-duration-may-be-cut-from-12-to-8-weeks/134642622",
+        "articlePath": "/article.html?issue=2026-09-27&article=2026-09-27-hepatitis-c-treatment-duration-may-be-cut-from-12-to-8-weeks"
       },
       {
         "id": "2026-09-27-medanta-operator-global-health-buys-ghaziabad-land-for-rs-166-cr-to-buil",
@@ -260,43 +295,9 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-134630263,imgsize-65702,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/quadria-backed-maxivision-confidentially-files-for-india-ipo.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/quadria-backed-maxivision-confidentially-files-for-india-ipo/134630263",
         "articlePath": "/article.html?issue=2026-09-27&article=2026-09-27-quadria-backed-maxivision-confidentially-files-for-india-ipo"
-      },
-      {
-        "id": "2026-09-27-longevity-startup-vytalyou-raises-9-crore-in-pre-series-a-round",
-        "title": "Longevity startup Vytalyou raises ₹9 crore in pre-series A round",
-        "summary": "The deal sets the firm’s valuation at approximately Rs 33 crore and will fund its two new Mumbai centres by the end of this year.",
-        "source": "ET Healthworld",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-10-01T02:11:30.000Z",
-        "publishedLabel": "October 1, 2026",
-        "category": "Deal",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-134606197,imgsize-45268,width-1200,height=627,overlay-ethealth,resizemode-75/industry/longevity-startup-vytalyou-raises-9-crore-in-pre-series-a-round.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/longevity-startup-vytalyou-raises-9-crore-in-pre-series-a-round/134606197",
-        "articlePath": "/article.html?issue=2026-09-27&article=2026-09-27-longevity-startup-vytalyou-raises-9-crore-in-pre-series-a-round"
-      },
-      {
-        "id": "2026-09-27-from-ai-experiments-to-ai-native-hospitals",
-        "title": "From AI experiments to AI-native hospitals",
-        "summary": "Brand Connect Initiative",
-        "source": "ET Healthworld",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-10-01T02:16:28.000Z",
-        "publishedLabel": "October 1, 2026",
-        "category": "Industry Update",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-134606227,imgsize-96496,width-1200,height=627,overlay-ethealth,resizemode-75/industry/from-ai-experiments-to-ai-native-hospitals.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/from-ai-experiments-to-ai-native-hospitals/134606227",
-        "articlePath": "/article.html?issue=2026-09-27&article=2026-09-27-from-ai-experiments-to-ai-native-hospitals"
       },
       {
         "id": "2026-09-27-why-hair-loss-is-arriving-in-the-20s-for-indian-men",
@@ -316,21 +317,21 @@
         "articlePath": "/article.html?issue=2026-09-27&article=2026-09-27-why-hair-loss-is-arriving-in-the-20s-for-indian-men"
       },
       {
-        "id": "2026-09-27-lupin-gets-tentative-usfda-approval-for-apixaban-oral-suspension",
-        "title": "Lupin Gets Tentative USFDA Approval for Apixaban Oral Suspension",
-        "summary": "Mumbai: Lupin Limited has received tentative approval from the United States Food and Drug Administration (USFDA) for its New Drug Application (NDA) for Apixaban Oral Suspension 1.25 mg/mL under the...",
-        "source": "Medical Dialogues Pharma",
-        "sourceHost": "medicaldialogues.in",
+        "id": "2026-09-27-johnson-and-johnson-announces-new-icotyde-icotrokinra-data-in-difficult-",
+        "title": "Johnson & Johnson announces new ICOTYDE® (icotrokinra) data in difficult-to-treat plaque psoriasis with proven durability through 2-years, affirming its use as a powerful first line systemic therapy",
+        "summary": "• Revolutionary IL-23R targeted oral peptide delivers sustained skin clearance and a favorable safety profile in patients with psoriasis affecting sensitive, highly visible areas of the body • 60% of patients with scalp psoriasis and 89% with genital...",
+        "source": "Janssen India Media",
+        "sourceHost": "janssen.com",
         "region": "India",
         "country": "India",
-        "publishedAt": "2026-09-28T12:54:40.000Z",
-        "publishedLabel": "September 28, 2026",
-        "category": "Approval",
-        "image": "https://medicaldialogues.in/h-upload/2023/01/10/197256-lupin-3.jpg",
+        "publishedAt": "2026-10-02T04:42:35.575Z",
+        "publishedLabel": "October 2, 2026",
+        "category": "Industry Update",
+        "image": "https://jnj-content-lab2.brightspotcdn.com/ac/25/bd2078f54d5992dd486ed26140ce/johnson-johnson-logo.svg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/lupin-gets-tentative-usfda-approval-for-apixaban-oral-suspension-180188",
-        "articlePath": "/article.html?issue=2026-09-27&article=2026-09-27-lupin-gets-tentative-usfda-approval-for-apixaban-oral-suspension"
+        "justIn": true,
+        "originalUrl": "https://www.jnj.com/media-center/press-releases/johnson-johnson-announces-new-icotyde-icotrokinra-data-in-difficult-to-treat-plaque-psoriasis-with-proven-durability-through-2-years-affirming-its-use-as-a-powerful-first-line-systemic-therapy",
+        "articlePath": "/article.html?issue=2026-09-27&article=2026-09-27-johnson-and-johnson-announces-new-icotyde-icotrokinra-data-in-difficult-"
       },
       {
         "id": "2026-09-27-akums-secures-first-in-india-dcgi-approval-for-colchicine-0-5-mg-cardiov",
@@ -345,7 +346,7 @@
         "category": "Approval",
         "image": "https://medicaldialogues.in/h-upload/2024/06/10/240683-akums-50.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/akums-secures-first-in-india-dcgi-approval-for-colchicine-05-mg-cardiovascular-therapy-180425",
         "articlePath": "/article.html?issue=2026-09-27&article=2026-09-27-akums-secures-first-in-india-dcgi-approval-for-colchicine-0-5-mg-cardiov"
       },
@@ -379,7 +380,7 @@
         "category": "Manufacturing",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/10/image-1600x900-2026-10-02T093034.188.png",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/10/02/biontech-to-close-three-german-sites-after-failed-sale-efforts/",
         "articlePath": "/article.html?issue=2026-09-27&article=2026-09-27-biontech-to-close-three-german-sites-after-failed-sale-efforts-healthcar"
       },
@@ -396,43 +397,26 @@
         "category": "Manufacturing",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/10/image-1600x900-2026-10-02T091845.219.png",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/10/02/biomarin-partners-with-profluent-to-develop-ai-designed-enzyme-therapies-in-usa/",
         "articlePath": "/article.html?issue=2026-09-27&article=2026-09-27-biomarin-partners-with-profluent-to-develop-ai-designed-enzyme-therapies"
       },
       {
-        "id": "2026-09-27-sun-pharma-inks-global-lerodalcibep-deal-gets-rights-outside-us-china",
-        "title": "Sun Pharma Inks Global Lerodalcibep Deal, Gets Rights Outside US, China",
-        "summary": "Mumbai: Sun Pharmaceutical Industries Limited (Sun Pharma) and LIB Therapeutics Inc. (LIB) have entered into an exclusive licensing agreement granting Sun Pharma rights to commercialize and...",
+        "id": "2026-09-27-macleods-amneal-recall-olanzapine-exenatide-products-in-us-over-quality-",
+        "title": "Macleods, Amneal Recall Olanzapine, Exenatide Products in US Over Quality Issues",
+        "summary": "New Delhi: Macleods Pharmaceuticals Ltd has initiated a voluntary recall of 15,744 bottles of Olanzapine Tablets, USP 2.5 mg in the United States after the product failed impurities and degradation...",
         "source": "Medical Dialogues Pharma",
         "sourceHost": "medicaldialogues.in",
         "region": "India",
         "country": "India",
-        "publishedAt": "2026-09-28T13:15:03.000Z",
-        "publishedLabel": "September 28, 2026",
-        "category": "Deal",
-        "image": "https://medicaldialogues.in/h-upload/2024/01/16/230297-sun-pharma-new-50.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/sun-pharma-inks-global-lerodalcibep-deal-gets-rights-outside-us-china-180191",
-        "articlePath": "/article.html?issue=2026-09-27&article=2026-09-27-sun-pharma-inks-global-lerodalcibep-deal-gets-rights-outside-us-china"
-      },
-      {
-        "id": "2026-09-27-morepen-labs-files-first-us-anda-for-sitagliptin-tablets-in-25mg-50mg-10",
-        "title": "Morepen Labs Files First US ANDA for Sitagliptin Tablets in 25mg, 50mg, 100mg Strengths",
-        "summary": "Gurugram: Morepen Laboratories Limited has submitted its first Abbreviated New Drug Application (ANDA) to the US Food and Drug Administration (USFDA) for Sitagliptin Tablets USP in 25 mg, 50 mg and...",
-        "source": "Medical Dialogues Pharma",
-        "sourceHost": "medicaldialogues.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-09-28T12:46:22.000Z",
-        "publishedLabel": "September 28, 2026",
+        "publishedAt": "2026-10-02T15:43:51.000Z",
+        "publishedLabel": "October 2, 2026",
         "category": "Industry Update",
-        "image": "https://medicaldialogues.in/h-upload/2021/09/30/161294-morepen-labs.jpg",
+        "image": "https://medicaldialogues.in/h-upload/2024/03/09/233933-recall-50-1.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/morepen-labs-files-first-us-anda-for-sitagliptin-tablets-in-25mg-50mg-100mg-strengths-180187",
-        "articlePath": "/article.html?issue=2026-09-27&article=2026-09-27-morepen-labs-files-first-us-anda-for-sitagliptin-tablets-in-25mg-50mg-10"
+        "justIn": true,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/macleods-amneal-recall-olanzapine-exenatide-products-in-us-over-quality-issues-180436",
+        "articlePath": "/article.html?issue=2026-09-27&article=2026-09-27-macleods-amneal-recall-olanzapine-exenatide-products-in-us-over-quality-"
       },
       {
         "id": "2026-09-27-anupam-rasayan-acquires-48-2-stake-in-bliss-gvs-pharma-for-rs-1-750-cror",
@@ -464,7 +448,7 @@
         "category": "Manufacturing",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/10/image-1600x900-2026-10-02T093706.341.png",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/10/02/hub71-partners-with-unilabs-to-accelerate-health-tech-adoption-in-abu-dhabi/",
         "articlePath": "/article.html?issue=2026-09-27&article=2026-09-27-hub71-partners-with-unilabs-to-accelerate-health-tech-adoption-in-abu-dh"
       },
@@ -498,7 +482,7 @@
         "category": "Market",
         "image": "https://medicaldialogues.in/h-upload/2023/01/10/197263-aurobindo-pharma-1.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/aurobindo-arm-acrotech-launches-adquey-in-us-for-atopic-dermatitis-enters-dermatology-market-180423",
         "articlePath": "/article.html?issue=2026-09-27&article=2026-09-27-aurobindo-arm-acrotech-launches-adquey-in-us-for-atopic-dermatitis-enter"
       },
@@ -535,6 +519,23 @@
         "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/kerala-hc-asks-centre-to-assess-cancer-drug-ribociclibs-affordability-before-patent-use-decision-180292",
         "articlePath": "/article.html?issue=2026-09-27&article=2026-09-27-kerala-hc-asks-centre-to-assess-cancer-drug-ribociclib-s-affordability-b"
+      },
+      {
+        "id": "2026-09-27-mankind-pharma-moves-delhi-hc-against-kind-marks-court-restrains-floraki",
+        "title": "Mankind Pharma Moves Delhi HC Against Kind Marks, Court Restrains Florakind, Coskind, 4 Others",
+        "summary": "New Delhi: The Delhi High Court has granted an ex parte ad interim injunction in favour of Mankind Pharma in a trade mark infringement and passing off suit, restraining the defendant from dealing in...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-10-02T09:00:23.000Z",
+        "publishedLabel": "October 2, 2026",
+        "category": "Deal",
+        "image": "https://medicaldialogues.in/h-upload/2024/02/01/231343-mankind-pharma-50.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/mankind-pharma-moves-delhi-hc-against-kind-marks-court-restrains-florakind-coskind-4-others-180437",
+        "articlePath": "/article.html?issue=2026-09-27&article=2026-09-27-mankind-pharma-moves-delhi-hc-against-kind-marks-court-restrains-floraki"
       },
       {
         "id": "2026-09-27-why-not-cap-retail-margins-at-16-sc-seeks-govt-response-on-steep-cancer-",
@@ -588,21 +589,21 @@
         "articlePath": "/article.html?issue=2026-09-27&article=2026-09-27-haryana-fda-arrests-2-more-in-suspected-spurious-telma-am-racket-4-held"
       },
       {
-        "id": "2026-09-27-cdsco-seeks-to-strengthen-oversight-of-medicines-containing-narcotic-psy",
-        "title": "CDSCO Seeks to Strengthen Oversight of Medicines Containing Narcotic, Psychotropic Substances",
-        "summary": "New Delhi: Seeking to curb the illegal diversion of controlled medicines, the CDSCO is reviewing the rules governing pharmaceutical products containing narcotic drugs and psychotropic...",
+        "id": "2026-09-27-piramal-pharma-appoints-viral-gandhi-as-chief-technology-officer",
+        "title": "Piramal Pharma Appoints Viral Gandhi as Chief Technology Officer",
+        "summary": "Mumbai: Piramal Pharma Limited has appointed Viral Gandhi as Chief Technology Officer (CTO) and Senior Management Personnel, effective October 1, 2026, following approval by the company's Board of...",
         "source": "Medical Dialogues Pharma",
         "sourceHost": "medicaldialogues.in",
         "region": "India",
         "country": "India",
-        "publishedAt": "2026-09-28T14:15:06.000Z",
-        "publishedLabel": "September 28, 2026",
-        "category": "Industry Update",
-        "image": "https://medicaldialogues.in/h-upload/2025/08/07/297167-dapagliflozin.jpg",
+        "publishedAt": "2026-10-02T06:45:01.000Z",
+        "publishedLabel": "October 2, 2026",
+        "category": "Approval",
+        "image": "https://medicaldialogues.in/h-upload/2024/03/30/235329-appointment.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/cdsco-seeks-to-strengthen-oversight-of-medicines-containing-narcotic-psychotropic-substances-180202",
-        "articlePath": "/article.html?issue=2026-09-27&article=2026-09-27-cdsco-seeks-to-strengthen-oversight-of-medicines-containing-narcotic-psy"
+        "justIn": true,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/piramal-pharma-appoints-viral-gandhi-as-chief-technology-officer-180434",
+        "articlePath": "/article.html?issue=2026-09-27&article=2026-09-27-piramal-pharma-appoints-viral-gandhi-as-chief-technology-officer"
       },
       {
         "id": "2026-09-27-panacea-biotec-gets-rs-9-82-crore-income-tax-penalty-demand-over-alleged",
@@ -685,7 +686,7 @@
         "category": "Launch",
         "image": "https://www.biospectrumindia.com/uploads/articles/screenshot_29_9_2026_155943_www_linkedin_com-28570.jpeg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.biospectrumindia.com/news/16/28570/techinvention-lifecare-partners-with-institute-of-life-sciences-iit-bhubaneswar-to-expedite-development-of-indigenous-tb-vaccine.html",
         "articlePath": "/article.html?issue=2026-09-27&article=2026-09-27-techinvention-lifecare-partners-with-institute-of-life-sciences-iit-bhub"
       },
@@ -702,7 +703,7 @@
         "category": "Industry Update",
         "image": "https://medicaldialogues.in/h-upload/2023/01/10/197349-pfizer-4.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/pfizer-faces-rs-126-crore-transfer-pricing-penalty-for-fy23-audit-180424",
         "articlePath": "/article.html?issue=2026-09-27&article=2026-09-27-pfizer-faces-rs-1-26-crore-transfer-pricing-penalty-for-fy23-audit"
       },
@@ -736,12 +737,29 @@
         "category": "Deal",
         "image": "https://www.biospectrumasia.com/uploads/articles/screenshot_28_9_2026_123021_www_bing_com-28443.jpeg?v=20260928123043",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.biospectrumasia.com/news/25/28443/chinas-innocare-inks-3-5-b-deal-with-eli-lilly-to-develop-new-medicines.html",
         "articlePath": "/article.html?issue=2026-09-27&article=2026-09-27-china-s-innocare-inks-3-5-b-deal-with-eli-lilly-to-develop-new-medicines"
       }
     ],
     "providers": [
+      {
+        "id": "2026-09-27-hospital-stocks-fall-as-sc-questions-drug-mark-ups",
+        "title": "Hospital stocks fall as SC questions drug mark-ups",
+        "summary": "The sell-off came after the Supreme Court raised concerns over the wide gap between the price at which hospitals procure medicines and the maximum retail price charged to patients.",
+        "source": "ET Healthworld Hospitals",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-09-30T11:25:31.000Z",
+        "publishedLabel": "September 30, 2026",
+        "category": "Hospital",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-134592391,imgsize-126122,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/hospital-stocks-fall-as-sc-questions-drug-mark-ups.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": true,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/hospital-stocks-fall-as-sc-questions-drug-mark-ups/134592391",
+        "articlePath": "/article.html?issue=2026-09-27&article=2026-09-27-hospital-stocks-fall-as-sc-questions-drug-mark-ups"
+      },
       {
         "id": "2026-09-27-ahpi-calls-for-holistic-approach-to-pricing-of-medicines-and-consumables",
         "title": "AHPI calls for holistic approach to pricing of medicines and consumables in hospitals",
@@ -806,7 +824,7 @@
         "category": "Hospital",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/10/image-1600x900-2026-10-01T105034.940.png",
         "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/10/01/adnoc-partners-with-burjeel-holdings-to-expand-integrated-healthcare-services-in-al-dhafra-region/",
         "articlePath": "/article.html?issue=2026-09-27&article=2026-09-27-adnoc-partners-with-burjeel-holdings-to-expand-integrated-healthcare-ser"
       },
@@ -823,7 +841,7 @@
         "category": "Hospital",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/10/image-1600x900-2026-10-02T091205.532.png",
         "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/10/02/hpe-deploys-ai-powered-networking-at-saudi-german-health-uae-to-support-digital-transformation/",
         "articlePath": "/article.html?issue=2026-09-27&article=2026-09-27-hpe-deploys-ai-powered-networking-at-saudi-german-health-uae-to-support-"
       },
@@ -857,7 +875,7 @@
         "category": "Provider Update",
         "image": "https://media.zawya.com/prod/images/gm_preview/dc7a5e53658e-54.jpg",
         "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.zawya.com/en/press-release/companies-news/rosewood-abu-dhabi-to-offer-limited-collection-of-completed-residences-for-private-ownership-on-al-maryah-island-1485976",
         "articlePath": "/article.html?issue=2026-09-27&article=2026-09-27-rosewood-abu-dhabi-to-offer-limited-collection-of-completed-residences-f"
       },
@@ -874,7 +892,7 @@
         "category": "Provider Update",
         "image": "https://media.zawya.com/prod/images/gm_preview/a5c9d7ad8033-gettyimages-2202486442.jpg",
         "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.zawya.com/en/economy/saudi-arabia-estimates-fiscal-deficit-of-3.6-of-gdp-in-2027-finance-ministry-says-1459338",
         "articlePath": "/article.html?issue=2026-09-27&article=2026-09-27-saudi-arabia-estimates-fiscal-deficit-of-3-6-of-gdp-in-2027-finance-mini"
       },
@@ -891,7 +909,7 @@
         "category": "AI Care Delivery",
         "image": "https://media.zawya.com/prod/images/gm_preview/e80a00a7faef-2026-08-13t210906z986779592rc2vohai8qnnrtrmadp3iran-crisis-emirates-adnoc.jpg",
         "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.zawya.com/en/business/indian-sub-continent/adnoc-backed-aiq-secures-deal-to-enter-indian-energy-markets-1458977",
         "articlePath": "/article.html?issue=2026-09-27&article=2026-09-27-adnoc-backed-aiq-secures-deal-to-enter-indian-energy-markets"
       },
@@ -961,7 +979,7 @@
         "category": "Lab Network",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/10/image-1600x900-2026-10-01T104428.138.png",
         "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/10/01/genomalab-to-invest-nearly-us10m-in-oman-healthcare-operations/",
         "articlePath": "/article.html?issue=2026-09-27&article=2026-09-27-genomalab-to-invest-us-10m-in-oman-healthcare-operations"
       }
@@ -995,6 +1013,14 @@
     },
     {
       "segment": "pharma",
+      "articleId": "2026-09-27-advent-international-seeks-cci-nod-to-acquire-minority-stake-in-yatharth",
+      "title": "Advent International seeks CCI nod to acquire minority stake in Yatharth Hospitals",
+      "source": "ET Healthworld",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "pharma",
       "articleId": "2026-09-27-from-jab-to-pills-novo-nordisk-eli-lilly-set-to-take-obesity-drug-battle",
       "title": "From Jab to Pills: Novo Nordisk, Eli Lilly set to take obesity drug battle to India",
       "source": "Economic Times Pharma",
@@ -1002,12 +1028,12 @@
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
     },
     {
-      "segment": "pharma",
-      "articleId": "2026-09-27-sun-pharma-plans-1-billion-local-debt-sale-for-loan-takeout-sources-say",
-      "title": "Sun Pharma plans $1 billion local debt sale for loan takeout, sources say",
-      "source": "Economic Times Pharma",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+      "segment": "providers",
+      "articleId": "2026-09-27-hospital-stocks-fall-as-sc-questions-drug-mark-ups",
+      "title": "Hospital stocks fall as SC questions drug mark-ups",
+      "source": "ET Healthworld Hospitals",
+      "solution": "THB Provider CRM",
+      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
     },
     {
       "segment": "providers",
@@ -1037,14 +1063,6 @@
       "segment": "providers",
       "articleId": "2026-09-27-adnoc-partners-with-burjeel-holdings-to-expand-integrated-healthcare-ser",
       "title": "ADNOC partners with Burjeel Holdings to expand integrated healthcare services in Al Dhafra region",
-      "source": "Healthcare MEA",
-      "solution": "THB Provider CRM",
-      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
-    },
-    {
-      "segment": "providers",
-      "articleId": "2026-09-27-hpe-deploys-ai-powered-networking-at-saudi-german-health-uae-to-support-",
-      "title": "HPE deploys AI-powered networking at Saudi German Health UAE to support digital transformation",
       "source": "Healthcare MEA",
       "solution": "THB Provider CRM",
       "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."

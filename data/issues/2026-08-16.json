@@ -5,10 +5,10 @@
   "startDate": "2026-08-15T18:30:00.000Z",
   "endDate": "2026-08-21T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-10-02T10:39:25.279Z",
+  "updatedAt": "2026-10-02T18:39:16.962Z",
   "coverage": {
     "pharma": 2,
-    "providers": 3,
+    "providers": 2,
     "diagnostics": 2,
     "healthtech": 0
   },
@@ -88,23 +88,6 @@
         "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/india-health-care-services-outlook-strengthens-as-new-beds-patient-volumes-drive-growth/133349775",
         "articlePath": "/article.html?issue=2026-08-16&article=2026-08-16-india-health-care-services-outlook-strengthens-as-new-beds-patient-volum"
-      },
-      {
-        "id": "2026-08-16-aiims-delhi-continuing-medical-education-calls-for-expanding-stroke-care",
-        "title": "AIIMS Delhi continuing medical education calls for expanding stroke care to advanced treatment",
-        "summary": "The CME, titled \"Save the Brain -- Stroke is Preventable and Treatable\", was held on August 6, marking the centenary of cerebral angiography and paying tribute to its pioneer, Egas Moniz.",
-        "source": "ET Healthworld Hospitals",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-08-19T10:05:39.000Z",
-        "publishedLabel": "August 19, 2026",
-        "category": "AI Care Delivery",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-133344014,imgsize-254999,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/aiims-delhi-continuing-medical-education-calls-for-expanding-stroke-care-to-advanced-treatment.jpg",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/aiims-delhi-continuing-medical-education-calls-for-expanding-stroke-care-to-advanced-treatment/133344014",
-        "articlePath": "/article.html?issue=2026-08-16&article=2026-08-16-aiims-delhi-continuing-medical-education-calls-for-expanding-stroke-care"
       }
     ],
     "diagnostics": [
@@ -174,14 +157,6 @@
       "segment": "providers",
       "articleId": "2026-08-16-india-health-care-services-outlook-strengthens-as-new-beds-patient-volum",
       "title": "India health care services outlook strengthens as new beds, patient volumes drive growth",
-      "source": "ET Healthworld Hospitals",
-      "solution": "THB Provider CRM",
-      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
-    },
-    {
-      "segment": "providers",
-      "articleId": "2026-08-16-aiims-delhi-continuing-medical-education-calls-for-expanding-stroke-care",
-      "title": "AIIMS Delhi continuing medical education calls for expanding stroke care to advanced treatment",
       "source": "ET Healthworld Hospitals",
       "solution": "THB Provider CRM",
       "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
