@@ -5,9 +5,9 @@
   "startDate": "2026-09-26T18:30:00.000Z",
   "endDate": "2026-10-02T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-10-04T10:42:14.721Z",
+  "updatedAt": "2026-10-04T17:46:38.304Z",
   "coverage": {
-    "pharma": 41,
+    "pharma": 34,
     "providers": 9,
     "diagnostics": 2,
     "healthtech": 0
@@ -23,10 +23,28 @@
     "Healthcare MEA",
     "Janssen India Media",
     "Medical Dialogues Pharma",
+    "Reuters Healthcare & Pharma",
     "Zawya Pharmaceuticals"
   ],
   "segments": {
     "pharma": [
+      {
+        "id": "2026-09-27-florida-attorney-general-sues-pfizer-and-ceo-over-covid-19-vaccine-claim",
+        "title": "Florida Attorney General sues Pfizer and CEO over COVID-19 vaccine claims",
+        "summary": "Florida Attorney General James Uthmeier on Thursday filed ​a lawsuit against Pfizer and its CEO, Albert Bourla, ‌accusing the drugmaker of misleading consumers about the safety and effectiveness of its COVID-19 vaccine.",
+        "source": "Reuters Healthcare & Pharma",
+        "sourceHost": "reuters.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-10-01T18:08:53.354Z",
+        "publishedLabel": "October 1, 2026",
+        "category": "Industry Update",
+        "image": "https://www.reuters.com/resizer/v2/MVPZ2Q4OI5IDFA5CH2RZWG5C4Y.jpg?auth=0b9cfb969501f94aa89154f9ab5e51a215d007d938aca786a93780fb51d3259e&height=1005&width=1920&quality=80&smart=true",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": false,
+        "originalUrl": "https://www.reuters.com/business/healthcare-pharmaceuticals/florida-attorney-general-sues-pfizer-ceo-over-covid-19-vaccine-claims-2026-10-01/",
+        "articlePath": "/article.html?issue=2026-09-27&article=2026-09-27-florida-attorney-general-sues-pfizer-and-ceo-over-covid-19-vaccine-claim"
+      },
       {
         "id": "2026-09-27-india-s-biotech-ecosystem-holds-tremendous-promise-eli-lilly-ceo",
         "title": "‘India’s biotech ecosystem holds tremendous promise’: Eli Lilly CEO",
@@ -283,40 +301,6 @@
         "articlePath": "/article.html?issue=2026-09-27&article=2026-09-27-medanta-operator-global-health-buys-ghaziabad-land-for-rs-166-cr-to-buil"
       },
       {
-        "id": "2026-09-27-quadria-backed-maxivision-confidentially-files-for-india-ipo",
-        "title": "Quadria-backed Maxivision confidentially files for India IPO",
-        "summary": "India's Maxivision Super Specialty Eye Hospitals, backed by healthcare-focused buyout firm Quadria Capital, has confidentially filed for an initial public offering, a newspaper",
-        "source": "ET Healthworld",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-10-02T02:08:38.000Z",
-        "publishedLabel": "October 2, 2026",
-        "category": "Industry Update",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-134630263,imgsize-65702,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/quadria-backed-maxivision-confidentially-files-for-india-ipo.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/quadria-backed-maxivision-confidentially-files-for-india-ipo/134630263",
-        "articlePath": "/article.html?issue=2026-09-27&article=2026-09-27-quadria-backed-maxivision-confidentially-files-for-india-ipo"
-      },
-      {
-        "id": "2026-09-27-why-hair-loss-is-arriving-in-the-20s-for-indian-men",
-        "title": "Why hair loss is arriving in the 20s for Indian men",
-        "summary": "Brand Connect Initiative",
-        "source": "ET Healthworld",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-10-01T13:12:10.000Z",
-        "publishedLabel": "October 1, 2026",
-        "category": "Industry Update",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-134620276,imgsize-48498,width-1200,height=627,overlay-ethealth,resizemode-75/industry/why-hair-loss-is-arriving-in-the-20s-for-indian-men.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/why-hair-loss-is-arriving-in-the-20s-for-indian-men/134620276",
-        "articlePath": "/article.html?issue=2026-09-27&article=2026-09-27-why-hair-loss-is-arriving-in-the-20s-for-indian-men"
-      },
-      {
         "id": "2026-09-27-johnson-and-johnson-announces-new-icotyde-icotrokinra-data-in-difficult-",
         "title": "Johnson & Johnson announces new ICOTYDE® (icotrokinra) data in difficult-to-treat plaque psoriasis with proven durability through 2-years, affirming its use as a powerful first line systemic therapy",
         "summary": "• Revolutionary IL-23R targeted oral peptide delivers sustained skin clearance and a favorable safety profile in patients with psoriasis affecting sensitive, highly visible areas of the body • 60% of patients with scalp psoriasis and 89% with genital...",
@@ -419,23 +403,6 @@
         "articlePath": "/article.html?issue=2026-09-27&article=2026-09-27-macleods-amneal-recall-olanzapine-exenatide-products-in-us-over-quality-"
       },
       {
-        "id": "2026-09-27-anupam-rasayan-acquires-48-2-stake-in-bliss-gvs-pharma-for-rs-1-750-cror",
-        "title": "Anupam Rasayan Acquires 48.2% Stake in Bliss GVS Pharma for Rs 1,750 Crore",
-        "summary": "New Delhi: Specialty chemicals maker Anupam Rasayan India on Tuesday said it has completed the acquisition of a 48.2 per cent controlling stake in Bliss GVS Pharma for Rs 1,750 crore, marking its push...",
-        "source": "Medical Dialogues Pharma",
-        "sourceHost": "medicaldialogues.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-09-30T13:34:01.000Z",
-        "publishedLabel": "September 30, 2026",
-        "category": "Industry Update",
-        "image": "https://medicaldialogues.in/h-upload/2025/07/17/294935-acquisition-50.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/anupam-rasayan-acquires-482-stake-in-bliss-gvs-pharma-for-rs-1750-crore-180354",
-        "articlePath": "/article.html?issue=2026-09-27&article=2026-09-27-anupam-rasayan-acquires-48-2-stake-in-bliss-gvs-pharma-for-rs-1-750-cror"
-      },
-      {
         "id": "2026-09-27-sun-pharma-announces-leqselvi-safety-and-efficacy-findings-at-eadv-2026",
         "title": "Sun Pharma Announces LEQSELVI Safety and Efficacy Findings at EADV 2026",
         "summary": "New Delhi: Sun Pharmaceutical Industries has announced long-term safety and efficacy findings for LEQSELVI (deuruxolitinib) will be featured in seven presentations at the 2026 European Academy of...",
@@ -504,23 +471,6 @@
         "articlePath": "/article.html?issue=2026-09-27&article=2026-09-27-aurobindo-arm-acrotech-launches-adquey-in-us-for-atopic-dermatitis-enter"
       },
       {
-        "id": "2026-09-27-sun-pharma-eyes-rs-10-000-crore-bond-sale-to-fund-organon-acquisition-lo",
-        "title": "Sun Pharma Eyes Rs 10,000 Crore Bond Sale to Fund Organon Acquisition Loan",
-        "summary": "Mumbai: Sun Pharmaceutical Industries is planning to raise around 100 billion rupees (USD1.04 billion) via a rupee-denominated debt sale to partly fund a bridge loan it took to acquire US healthcare...",
-        "source": "Medical Dialogues Pharma",
-        "sourceHost": "medicaldialogues.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-09-30T13:24:43.000Z",
-        "publishedLabel": "September 30, 2026",
-        "category": "Industry Update",
-        "image": "https://medicaldialogues.in/h-upload/2024/06/04/240154-sun-pharma-new-50-1.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/sun-pharma-eyes-rs-10000-crore-bond-sale-to-fund-organon-acquisition-loan-180353",
-        "articlePath": "/article.html?issue=2026-09-27&article=2026-09-27-sun-pharma-eyes-rs-10-000-crore-bond-sale-to-fund-organon-acquisition-lo"
-      },
-      {
         "id": "2026-09-27-mankind-pharma-moves-delhi-hc-against-kind-marks-court-restrains-floraki",
         "title": "Mankind Pharma Moves Delhi HC Against Kind Marks, Court Restrains Florakind, Coskind, 4 Others",
         "summary": "New Delhi: The Delhi High Court has granted an ex parte ad interim injunction in favour of Mankind Pharma in a trade mark infringement and passing off suit, restraining the defendant from dealing in...",
@@ -553,23 +503,6 @@
         "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/why-not-cap-retail-margins-at-16-sc-seeks-govt-response-on-steep-cancer-drug-markups-180361",
         "articlePath": "/article.html?issue=2026-09-27&article=2026-09-27-why-not-cap-retail-margins-at-16-sc-seeks-govt-response-on-steep-cancer-"
-      },
-      {
-        "id": "2026-09-27-zydus-lifesciences-ahmedabad-plant-gets-1-usfda-observation",
-        "title": "Zydus Lifesciences Ahmedabad Plant Gets 1 USFDA Observation",
-        "summary": "Ahmedabad: The United States Food and Drug Administration (USFDA) has concluded a current Good Manufacturing Practices (cGMP) inspection at Zydus Lifesciences' manufacturing plant at SEZ II,...",
-        "source": "Medical Dialogues Pharma",
-        "sourceHost": "medicaldialogues.in",
-        "region": "Middle East",
-        "country": "United Arab Emirates",
-        "publishedAt": "2026-09-30T13:39:06.000Z",
-        "publishedLabel": "September 30, 2026",
-        "category": "Manufacturing",
-        "image": "https://medicaldialogues.in/h-upload/2023/06/09/211499-zydus-lifesciences-2.jpg",
-        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": false,
-        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/zydus-lifesciences-ahmedabad-plant-gets-1-usfda-observation-180355",
-        "articlePath": "/article.html?issue=2026-09-27&article=2026-09-27-zydus-lifesciences-ahmedabad-plant-gets-1-usfda-observation"
       },
       {
         "id": "2026-09-27-reactin-plus-violations-maharashtra-fda-cancels-cipla-warehouse-licences",
@@ -606,23 +539,6 @@
         "articlePath": "/article.html?issue=2026-09-27&article=2026-09-27-novartis-india-gets-new-name-evonile-pharma-limited"
       },
       {
-        "id": "2026-09-27-sobha-realty-expands-into-us-and-australia-with-land-secured",
-        "title": "Sobha Realty expands into US and Australia with land secured",
-        "summary": "The expansion marks the next stage of the developer’s international growth, with a phased approach shaped by local housing needs and delivery partnerships in each market",
-        "source": "Zawya Pharmaceuticals",
-        "sourceHost": "zawya.com",
-        "region": "Middle East",
-        "country": "United Arab Emirates",
-        "publishedAt": "2026-10-02T09:26:41.210Z",
-        "publishedLabel": "October 2, 2026",
-        "category": "Partnership",
-        "image": "https://assets.zawya.com/prod/assets/arrow-down-fill.d30923dc.svg",
-        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": false,
-        "originalUrl": "https://www.zawya.com/en/business/construction/sobha-realty-expands-into-us-and-australia-with-land-secured-1487000",
-        "articlePath": "/article.html?issue=2026-09-27&article=2026-09-27-sobha-realty-expands-into-us-and-australia-with-land-secured"
-      },
-      {
         "id": "2026-09-27-piramal-pharma-appoints-viral-gandhi-as-chief-technology-officer",
         "title": "Piramal Pharma Appoints Viral Gandhi as Chief Technology Officer",
         "summary": "Mumbai: Piramal Pharma Limited has appointed Viral Gandhi as Chief Technology Officer (CTO) and Senior Management Personnel, effective October 1, 2026, following approval by the company's Board of...",
@@ -638,40 +554,6 @@
         "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/piramal-pharma-appoints-viral-gandhi-as-chief-technology-officer-180434",
         "articlePath": "/article.html?issue=2026-09-27&article=2026-09-27-piramal-pharma-appoints-viral-gandhi-as-chief-technology-officer"
-      },
-      {
-        "id": "2026-09-27-panacea-biotec-gets-rs-9-82-crore-income-tax-penalty-demand-over-alleged",
-        "title": "Panacea Biotec Gets Rs 9.82 Crore Income Tax Penalty Demand Over Alleged Income Misreporting",
-        "summary": "New Delhi: Panacea Biotec Limited has received four demand orders from the Office of the Assistant Commissioner of Income Tax, Delhi, imposing an aggregate penalty demand of approximately Rs 9.82...",
-        "source": "Medical Dialogues Pharma",
-        "sourceHost": "medicaldialogues.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-09-29T17:45:04.000Z",
-        "publishedLabel": "September 29, 2026",
-        "category": "Industry Update",
-        "image": "https://medicaldialogues.in/h-upload/2020/09/07/134195-panacea.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/panacea-biotec-gets-rs-982-crore-income-tax-penalty-demand-over-alleged-income-misreporting-180291",
-        "articlePath": "/article.html?issue=2026-09-27&article=2026-09-27-panacea-biotec-gets-rs-9-82-crore-income-tax-penalty-demand-over-alleged"
-      },
-      {
-        "id": "2026-09-27-biontech-shuts-germany-singapore-sites-as-covid-vaccine-production-winds",
-        "title": "BioNTech Shuts Germany, Singapore Sites as COVID Vaccine Production Winds Down",
-        "summary": "Frankfurt: German COVID-19 vaccine maker BioNTech said on Monday it would close sites in Germany and Singapore because it failed to find buyers after pivoting away from pandemic-era...",
-        "source": "Medical Dialogues Pharma",
-        "sourceHost": "medicaldialogues.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-09-30T12:54:01.000Z",
-        "publishedLabel": "September 30, 2026",
-        "category": "Industry Update",
-        "image": "https://medicaldialogues.in/h-upload/2022/10/08/187372-biontech-1500-900.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/biontech-shuts-germany-singapore-sites-as-covid-vaccine-production-winds-down-180351",
-        "articlePath": "/article.html?issue=2026-09-27&article=2026-09-27-biontech-shuts-germany-singapore-sites-as-covid-vaccine-production-winds"
       },
       {
         "id": "2026-09-27-techinvention-lifecare-partners-with-institute-of-life-sciences-iit-bhub",
@@ -921,6 +803,14 @@
   "thbActions": [
     {
       "segment": "pharma",
+      "articleId": "2026-09-27-florida-attorney-general-sues-pfizer-and-ceo-over-covid-19-vaccine-claim",
+      "title": "Florida Attorney General sues Pfizer and CEO over COVID-19 vaccine claims",
+      "source": "Reuters Healthcare & Pharma",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "pharma",
       "articleId": "2026-09-27-india-s-biotech-ecosystem-holds-tremendous-promise-eli-lilly-ceo",
       "title": "‘India’s biotech ecosystem holds tremendous promise’: Eli Lilly CEO",
       "source": "Economic Times Pharma",
@@ -948,14 +838,6 @@
       "articleId": "2026-09-27-advent-international-seeks-cci-nod-to-acquire-minority-stake-in-yatharth",
       "title": "Advent International seeks CCI nod to acquire minority stake in Yatharth Hospitals",
       "source": "ET Healthworld",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
-      "segment": "pharma",
-      "articleId": "2026-09-27-from-jab-to-pills-novo-nordisk-eli-lilly-set-to-take-obesity-drug-battle",
-      "title": "From Jab to Pills: Novo Nordisk, Eli Lilly set to take obesity drug battle to India",
-      "source": "Economic Times Pharma",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
     },
