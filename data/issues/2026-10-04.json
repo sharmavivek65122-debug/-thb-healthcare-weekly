@@ -5,19 +5,74 @@
   "startDate": "2026-10-03T18:30:00.000Z",
   "endDate": "2026-10-09T18:30:00.000Z",
   "status": "live",
-  "updatedAt": "2026-10-04T17:46:38.304Z",
+  "updatedAt": "2026-10-05T11:44:20.565Z",
   "coverage": {
-    "pharma": 10,
-    "providers": 0,
+    "pharma": 17,
+    "providers": 2,
     "diagnostics": 0,
     "healthtech": 0
   },
   "sourcesUsed": [
     "ET Healthworld",
-    "Medical Dialogues Pharma"
+    "Express Healthcare",
+    "Healthcare MEA",
+    "Medical Dialogues Pharma",
+    "Reuters Healthcare & Pharma",
+    "Zawya Pharmaceuticals"
   ],
   "segments": {
     "pharma": [
+      {
+        "id": "2026-10-04-csl-strikes-rare-disease-drug-deal-worth-up-to-1-6-billion-with-swiss-fi",
+        "title": "CSL strikes rare disease drug deal worth up to $1.6 billion with Swiss firm Alentis",
+        "summary": "Australia's CSL said on Monday it had entered into an agreement with ​Swiss drugmaker Alentis Therapeutics to co-develop and co-promote a treatment for ‌rare kidney and liver diseases, in a deal worth up to $1.6 billion, excluding development funding.",
+        "source": "Reuters Healthcare & Pharma",
+        "sourceHost": "reuters.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-10-05T00:49:20.421Z",
+        "publishedLabel": "October 5, 2026",
+        "category": "Deal",
+        "image": "https://www.reuters.com/resizer/v2/466BJJQ7PVGY5O53NZ3KL65MHM.png?auth=b9c3bf166c40a6778eb5672993fde7c30a15f48329026674eff92afd8da1d0ca&height=1005&width=1920&quality=80&smart=true",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://www.reuters.com/business/healthcare-pharmaceuticals/csl-strikes-rare-disease-drug-deal-worth-up-16-billion-with-swiss-firm-alentis-2026-10-04/",
+        "articlePath": "/article.html?issue=2026-10-04&article=2026-10-04-csl-strikes-rare-disease-drug-deal-worth-up-to-1-6-billion-with-swiss-fi"
+      },
+      {
+        "id": "2026-10-04-vaxcyte-shares-surge-as-pneumococcal-vaccine-meets-main-trial-goals",
+        "title": "Vaxcyte shares surge as pneumococcal vaccine meets main trial goals",
+        "summary": "Vaxcyte said on Monday its experimental pneumococcal vaccine met its main goals in a late-stage study ​in adults aged 50 and older, sending ‌its shares up 91% before the bell.",
+        "source": "Reuters Healthcare & Pharma",
+        "sourceHost": "reuters.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-10-05T10:37:54.634Z",
+        "publishedLabel": "October 5, 2026",
+        "category": "Industry Update",
+        "image": "https://www.reuters.com/resizer/v2/466BJJQ7PVGY5O53NZ3KL65MHM.png?auth=b9c3bf166c40a6778eb5672993fde7c30a15f48329026674eff92afd8da1d0ca&height=1005&width=1920&quality=80&smart=true",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://www.reuters.com/business/healthcare-pharmaceuticals/vaxcyte-shares-surge-pneumococcal-vaccine-meets-main-trial-goals-2026-10-05/",
+        "articlePath": "/article.html?issue=2026-10-04&article=2026-10-04-vaxcyte-shares-surge-as-pneumococcal-vaccine-meets-main-trial-goals"
+      },
+      {
+        "id": "2026-10-04-selution-slr-deb-wins-us-fda-approval-for-in-stent-restenosis-cofounder-",
+        "title": "SELUTION SLR™ DEB Wins US FDA Approval for In-Stent Restenosis -Cofounder Amit Bohora Calls It \"A Defining..",
+        "summary": "Brand Connect Initiative",
+        "source": "ET Healthworld",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-10-05T10:27:00.000Z",
+        "publishedLabel": "October 5, 2026",
+        "category": "Approval",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-134699059,imgsize-78680,width-1200,height=627,overlay-ethealth,resizemode-75/industry/selution-slr-deb-wins-us-fda-approval-for-in-stent-restenosis-cofounder-amit-bohora-calls-it-a-defining-milestone-for-stentless-cardiaccare.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/selution-slr-deb-wins-us-fda-approval-for-in-stent-restenosis-cofounder-amit-bohora-calls-it-a-defining-milestone-for-stentless-cardiaccare/134699059",
+        "articlePath": "/article.html?issue=2026-10-04&article=2026-10-04-selution-slr-deb-wins-us-fda-approval-for-in-stent-restenosis-cofounder-"
+      },
       {
         "id": "2026-10-04-odisha-intensifies-malaria-surveillance-after-37-899-cases-9-deaths",
         "title": "Odisha intensifies malaria surveillance after 37,899 cases, 9 deaths",
@@ -31,26 +86,26 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-134678739,imgsize-46142,width-1200,height=627,overlay-ethealth,resizemode-75/policy/odisha-intensifies-malaria-surveillance-after-37899-cases-9-deaths.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/policy/odisha-intensifies-malaria-surveillance-after-37899-cases-9-deaths/134678739",
         "articlePath": "/article.html?issue=2026-10-04&article=2026-10-04-odisha-intensifies-malaria-surveillance-after-37-899-cases-9-deaths"
       },
       {
-        "id": "2026-10-04-nearly-half-of-india-s-medical-colleges-fail-to-comply-with-nmc-disabili",
-        "title": "Nearly half of India’s medical colleges fail to comply with NMC disability-unit directive",
-        "summary": "The NMC circular does not prescribe a doctor or clinical faculty member as the single point of contact. It does, however, assign the Enabling Unit responsibility for reasonable accommodation, academic and clinical support, barrier-free access, coordination,...",
+        "id": "2026-10-04-wall-street-s-10-billion-india-hospital-bet-sparks-a-fight-over-bills",
+        "title": "Wall Street’s $10 billion India hospital bet sparks a fight over bills",
+        "summary": "Wall Street has poured about $10 billion into Indian hospital chains over the past five years, with investors including Blackstone, KKR, TPG and General Atlantic betting on India’s huge shortage of hospital beds and rising demand for specialised care.",
         "source": "ET Healthworld",
         "sourceHost": "health.economictimes.indiatimes.com",
         "region": "India",
         "country": "India",
-        "publishedAt": "2026-10-04T17:29:02.000Z",
-        "publishedLabel": "October 4, 2026",
+        "publishedAt": "2026-10-05T06:11:53.000Z",
+        "publishedLabel": "October 5, 2026",
         "category": "Industry Update",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-134678367,imgsize-105402,width-1200,height=627,overlay-ethealth,resizemode-75/education/nearly-half-of-indias-medical-colleges-fail-to-comply-with-nmc-disability-unit-directive.jpg",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-134687300,imgsize-144502,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/wall-streets-10-billion-india-hospital-bet-sparks-a-fight-over-bills.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
         "justIn": true,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/education/nearly-half-of-indias-medical-colleges-fail-to-comply-with-nmc-disability-unit-directive/134678367",
-        "articlePath": "/article.html?issue=2026-10-04&article=2026-10-04-nearly-half-of-india-s-medical-colleges-fail-to-comply-with-nmc-disabili"
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/wall-streets-10-billion-india-hospital-bet-sparks-a-fight-over-bills/134687300",
+        "articlePath": "/article.html?issue=2026-10-04&article=2026-10-04-wall-street-s-10-billion-india-hospital-bet-sparks-a-fight-over-bills"
       },
       {
         "id": "2026-10-04-robotic-surgery-gains-rapid-ground-in-india-delhi-ncr-leads-experts",
@@ -65,7 +120,7 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-134673705,imgsize-42481,width-1200,height=627,overlay-ethealth,resizemode-75/industry/robotic-surgery-gains-rapid-ground-in-india-delhi-ncr-leads-experts.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/robotic-surgery-gains-rapid-ground-in-india-delhi-ncr-leads-experts/134673705",
         "articlePath": "/article.html?issue=2026-10-04&article=2026-10-04-robotic-surgery-gains-rapid-ground-in-india-delhi-ncr-leads-experts"
       },
@@ -82,7 +137,7 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-134678434,imgsize-67616,width-1200,height=627,overlay-ethealth,resizemode-75/industry/indian-study-finds-21-new-gene-types-that-could-help-diagnose-endometriosis-earlier.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/indian-study-finds-21-new-gene-types-that-could-help-diagnose-endometriosis-earlier/134678434",
         "articlePath": "/article.html?issue=2026-10-04&article=2026-10-04-indian-study-finds-21-new-gene-types-that-could-help-diagnose-endometrio"
       },
@@ -99,7 +154,7 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-134673879,imgsize-35964,width-1200,height=627,overlay-ethealth,resizemode-75/insurance/insurance-companies-want-policyholders-to-pay-10-of-health-claims.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/insurance/insurance-companies-want-policyholders-to-pay-10-of-health-claims/134673879",
         "articlePath": "/article.html?issue=2026-10-04&article=2026-10-04-insurance-companies-want-policyholders-to-pay-10-of-health-claims"
       },
@@ -116,9 +171,26 @@
         "category": "Deal",
         "image": "https://medicaldialogues.in/h-upload/2024/02/17/232451-novartis-50.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/novartis-signs-licensing-deal-worth-up-to-78-billion-with-abogen-for-mrna-therapies-180522",
         "articlePath": "/article.html?issue=2026-10-04&article=2026-10-04-novartis-signs-licensing-deal-worth-up-to-7-8-billion-with-abogen-for-mr"
+      },
+      {
+        "id": "2026-10-04-everest-medicines-receives-priority-review-for-local-velsipity-manufactu",
+        "title": "Everest Medicines receives priority review for local VELSIPITY manufacturing in China | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
+        "summary": "The NMPA approved VELSIPITY in February 2026 for adults with moderately to severely active ulcerative colitis (UC) who had an inadequate response, lost response or were intolerant to conventional ...",
+        "source": "Healthcare MEA",
+        "sourceHost": "healthcaremea.com",
+        "region": "Middle East",
+        "country": "Middle East",
+        "publishedAt": "2026-10-04T07:32:39.000Z",
+        "publishedLabel": "October 4, 2026",
+        "category": "Manufacturing",
+        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/10/image-1600x900-2026-10-04T102846.655.png",
+        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
+        "justIn": true,
+        "originalUrl": "https://www.healthcaremea.com/2026/10/04/everest-medicines-receives-priority-review-for-local-velsipity-manufacturing-in-china/",
+        "articlePath": "/article.html?issue=2026-10-04&article=2026-10-04-everest-medicines-receives-priority-review-for-local-velsipity-manufactu"
       },
       {
         "id": "2026-10-04-astrazeneca-gets-cdsco-panel-nod-to-import-market-camizestrant-for-breas",
@@ -133,7 +205,7 @@
         "category": "Market",
         "image": "https://medicaldialogues.in/h-upload/2024/06/17/241275-astrazeneca-50.jpg",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/astrazeneca-gets-cdsco-panel-nod-to-import-market-camizestrant-for-breast-cancer-180524",
         "articlePath": "/article.html?issue=2026-10-04&article=2026-10-04-astrazeneca-gets-cdsco-panel-nod-to-import-market-camizestrant-for-breas"
       },
@@ -150,9 +222,26 @@
         "category": "Manufacturing",
         "image": "https://medicaldialogues.in/h-upload/2024/01/13/230070-novo-nordisk-new-50.jpg",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/us-fda-extends-review-of-novo-nordisks-hemophilia-drug-amid-manufacturing-remediation-180526",
         "articlePath": "/article.html?issue=2026-10-04&article=2026-10-04-us-fda-extends-review-of-novo-nordisk-s-hemophilia-drug-amid-manufacturi"
+      },
+      {
+        "id": "2026-10-04-bayer-to-invest-us-2-2b-in-new-manufacturing-site-in-ohio-healthcare-mid",
+        "title": "Bayer to invest US$2.2B in new manufacturing site in Ohio | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
+        "summary": "The planned campus at the New Albany International Business Park will use a flexible, modular design combining drug substance and drug product manufacturing with digital and automation technologies.",
+        "source": "Healthcare MEA",
+        "sourceHost": "healthcaremea.com",
+        "region": "Middle East",
+        "country": "Middle East",
+        "publishedAt": "2026-10-04T07:43:20.000Z",
+        "publishedLabel": "October 4, 2026",
+        "category": "Manufacturing",
+        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/10/image-1600x900-2026-10-04T104101.486.png",
+        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
+        "justIn": true,
+        "originalUrl": "https://www.healthcaremea.com/2026/10/04/bayer-to-invest-us2-2b-in-new-manufacturing-site-in-ohio/",
+        "articlePath": "/article.html?issue=2026-10-04&article=2026-10-04-bayer-to-invest-us-2-2b-in-new-manufacturing-site-in-ohio-healthcare-mid"
       },
       {
         "id": "2026-10-04-summit-astrazeneca-and-daiichi-sankyo-plan-phase-iii-trial-in-triple-neg",
@@ -167,9 +256,26 @@
         "category": "Clinical Trial",
         "image": "https://medicaldialogues.in/h-upload/2025/12/06/313075-202512073599136.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/summit-astrazeneca-and-daiichi-sankyo-plan-phase-iii-trial-in-triple-negative-breast-cancer-180525",
         "articlePath": "/article.html?issue=2026-10-04&article=2026-10-04-summit-astrazeneca-and-daiichi-sankyo-plan-phase-iii-trial-in-triple-neg"
+      },
+      {
+        "id": "2026-10-04-novartis-listed-entity-renamed-to-evonile-pharma-limited",
+        "title": "Novartis' listed entity renamed to Evonile Pharma Limited",
+        "summary": "Mumbai: Novartis' listed entity renamed to Evonile Pharma Limited with effect from October 1, 2026, following approval from the Ministry of Corporate Affairs (MCA), Government of India.The name change...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-10-05T09:14:25.000Z",
+        "publishedLabel": "October 5, 2026",
+        "category": "Approval",
+        "image": "https://medicaldialogues.in/h-upload/2026/10/05/478360-name-updated.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/novartis-india-gets-new-name-evonile-pharma-limited-180502",
+        "articlePath": "/article.html?issue=2026-10-04&article=2026-10-04-novartis-listed-entity-renamed-to-evonile-pharma-limited"
       },
       {
         "id": "2026-10-04-regeneron-s-experimental-drug-shows-muscle-preserving-benefit-with-semag",
@@ -184,16 +290,92 @@
         "category": "Industry Update",
         "image": "https://medicaldialogues.in/h-upload/2022/11/19/191467-regeneron.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/trevogrumab-semaglutide-combination-reduces-muscle-loss-during-weight-reduction-trial-180521",
         "articlePath": "/article.html?issue=2026-10-04&article=2026-10-04-regeneron-s-experimental-drug-shows-muscle-preserving-benefit-with-semag"
+      },
+      {
+        "id": "2026-10-04-7th-emirates-oncology-society-annual-conference-opens-in-dubai",
+        "title": "7th Emirates Oncology Society Annual Conference opens in Dubai",
+        "summary": "With 800 experts and specialists from 20 countries",
+        "source": "Zawya Pharmaceuticals",
+        "sourceHost": "zawya.com",
+        "region": "Middle East",
+        "country": "United Arab Emirates",
+        "publishedAt": "2026-10-04T07:23:04.940Z",
+        "publishedLabel": "October 4, 2026",
+        "category": "Industry Update",
+        "image": "https://media.zawya.com/prod/images/gm_preview/cf22351a4002-eos-7146.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://www.zawya.com/en/press-release/events-conferences/7th-emirates-oncology-society-annual-conference-opens-in-dubai-1498366",
+        "articlePath": "/article.html?issue=2026-10-04&article=2026-10-04-7th-emirates-oncology-society-annual-conference-opens-in-dubai"
       }
     ],
-    "providers": [],
+    "providers": [
+      {
+        "id": "2026-10-04-india-s-longevity-economy-why-senior-healthcare-is-becoming-more-than-a-",
+        "title": "India’s longevity economy: Why senior healthcare is becoming more than a medical sector",
+        "summary": "India is getting older. The more interesting story, however, is that it is also beginning to think differently about what growing older should look like UNFPA’s India Ageing Report 2023, prepared with the International Institute for Population Sciences,...",
+        "source": "Express Healthcare",
+        "sourceHost": "expresshealthcare.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-10-05T06:31:59.000Z",
+        "publishedLabel": "October 5, 2026",
+        "category": "Provider Update",
+        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/10/05120150/Arudradev-Rao-Founder-Amaya-Senior-Living.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": false,
+        "originalUrl": "https://www.expresshealthcare.in/news/indias-longevity-economy-why-senior-healthcare-is-becoming-more-than-a-medical-sector/455404/",
+        "articlePath": "/article.html?issue=2026-10-04&article=2026-10-04-india-s-longevity-economy-why-senior-healthcare-is-becoming-more-than-a-"
+      },
+      {
+        "id": "2026-10-04-kec-signs-exclusive-brokerage-agreements-at-future-hospitality-summit-wo",
+        "title": "KEC signs exclusive brokerage agreements at Future Hospitality Summit World 2026 as it strengthens investor engagement",
+        "summary": "Agreements with Keller Williams Saudi Arabia and RE/MAX Smart Concept cover 368 Al Alyaa residences",
+        "source": "Zawya Pharmaceuticals",
+        "sourceHost": "zawya.com",
+        "region": "Middle East",
+        "country": "United Arab Emirates",
+        "publishedAt": "2026-10-04T13:57:13.315Z",
+        "publishedLabel": "October 4, 2026",
+        "category": "Hospital",
+        "image": "https://media.zawya.com/prod/images/gm_preview/5a7cd3cb978a-111.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": false,
+        "originalUrl": "https://www.zawya.com/en/press-release/companies-news/kec-signs-exclusive-brokerage-agreements-at-future-hospitality-summit-world-2026-as-it-strengthens-investor-engagement-1498497",
+        "articlePath": "/article.html?issue=2026-10-04&article=2026-10-04-kec-signs-exclusive-brokerage-agreements-at-future-hospitality-summit-wo"
+      }
+    ],
     "diagnostics": [],
     "healthtech": []
   },
   "thbActions": [
+    {
+      "segment": "pharma",
+      "articleId": "2026-10-04-csl-strikes-rare-disease-drug-deal-worth-up-to-1-6-billion-with-swiss-fi",
+      "title": "CSL strikes rare disease drug deal worth up to $1.6 billion with Swiss firm Alentis",
+      "source": "Reuters Healthcare & Pharma",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "pharma",
+      "articleId": "2026-10-04-vaxcyte-shares-surge-as-pneumococcal-vaccine-meets-main-trial-goals",
+      "title": "Vaxcyte shares surge as pneumococcal vaccine meets main trial goals",
+      "source": "Reuters Healthcare & Pharma",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "pharma",
+      "articleId": "2026-10-04-selution-slr-deb-wins-us-fda-approval-for-in-stent-restenosis-cofounder-",
+      "title": "SELUTION SLR™ DEB Wins US FDA Approval for In-Stent Restenosis -Cofounder Amit Bohora Calls It \"A Defining..",
+      "source": "ET Healthworld",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
     {
       "segment": "pharma",
       "articleId": "2026-10-04-odisha-intensifies-malaria-surveillance-after-37-899-cases-9-deaths",
@@ -204,35 +386,27 @@
     },
     {
       "segment": "pharma",
-      "articleId": "2026-10-04-nearly-half-of-india-s-medical-colleges-fail-to-comply-with-nmc-disabili",
-      "title": "Nearly half of India’s medical colleges fail to comply with NMC disability-unit directive",
+      "articleId": "2026-10-04-wall-street-s-10-billion-india-hospital-bet-sparks-a-fight-over-bills",
+      "title": "Wall Street’s $10 billion India hospital bet sparks a fight over bills",
       "source": "ET Healthworld",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
     },
     {
-      "segment": "pharma",
-      "articleId": "2026-10-04-robotic-surgery-gains-rapid-ground-in-india-delhi-ncr-leads-experts",
-      "title": "Robotic surgery gains rapid ground in India, Delhi NCR leads: Experts",
-      "source": "ET Healthworld",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+      "segment": "providers",
+      "articleId": "2026-10-04-india-s-longevity-economy-why-senior-healthcare-is-becoming-more-than-a-",
+      "title": "India’s longevity economy: Why senior healthcare is becoming more than a medical sector",
+      "source": "Express Healthcare",
+      "solution": "THB Provider CRM",
+      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
     },
     {
-      "segment": "pharma",
-      "articleId": "2026-10-04-indian-study-finds-21-new-gene-types-that-could-help-diagnose-endometrio",
-      "title": "Indian study finds 21 new gene types that could help diagnose endometriosis earlier",
-      "source": "ET Healthworld",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
-      "segment": "pharma",
-      "articleId": "2026-10-04-insurance-companies-want-policyholders-to-pay-10-of-health-claims",
-      "title": "Insurance companies want policyholders to pay 10% of health claims",
-      "source": "ET Healthworld",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+      "segment": "providers",
+      "articleId": "2026-10-04-kec-signs-exclusive-brokerage-agreements-at-future-hospitality-summit-wo",
+      "title": "KEC signs exclusive brokerage agreements at Future Hospitality Summit World 2026 as it strengthens investor engagement",
+      "source": "Zawya Pharmaceuticals",
+      "solution": "THB Provider CRM",
+      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
     }
   ]
 }

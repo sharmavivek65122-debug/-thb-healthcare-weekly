@@ -5,10 +5,10 @@
   "startDate": "2026-09-26T18:30:00.000Z",
   "endDate": "2026-10-02T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-10-04T17:46:38.304Z",
+  "updatedAt": "2026-10-05T11:44:20.565Z",
   "coverage": {
-    "pharma": 34,
-    "providers": 9,
+    "pharma": 29,
+    "providers": 7,
     "diagnostics": 2,
     "healthtech": 0
   },
@@ -23,28 +23,10 @@
     "Healthcare MEA",
     "Janssen India Media",
     "Medical Dialogues Pharma",
-    "Reuters Healthcare & Pharma",
     "Zawya Pharmaceuticals"
   ],
   "segments": {
     "pharma": [
-      {
-        "id": "2026-09-27-florida-attorney-general-sues-pfizer-and-ceo-over-covid-19-vaccine-claim",
-        "title": "Florida Attorney General sues Pfizer and CEO over COVID-19 vaccine claims",
-        "summary": "Florida Attorney General James Uthmeier on Thursday filed ​a lawsuit against Pfizer and its CEO, Albert Bourla, ‌accusing the drugmaker of misleading consumers about the safety and effectiveness of its COVID-19 vaccine.",
-        "source": "Reuters Healthcare & Pharma",
-        "sourceHost": "reuters.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-10-01T18:08:53.354Z",
-        "publishedLabel": "October 1, 2026",
-        "category": "Industry Update",
-        "image": "https://www.reuters.com/resizer/v2/MVPZ2Q4OI5IDFA5CH2RZWG5C4Y.jpg?auth=0b9cfb969501f94aa89154f9ab5e51a215d007d938aca786a93780fb51d3259e&height=1005&width=1920&quality=80&smart=true",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://www.reuters.com/business/healthcare-pharmaceuticals/florida-attorney-general-sues-pfizer-ceo-over-covid-19-vaccine-claims-2026-10-01/",
-        "articlePath": "/article.html?issue=2026-09-27&article=2026-09-27-florida-attorney-general-sues-pfizer-and-ceo-over-covid-19-vaccine-claim"
-      },
       {
         "id": "2026-09-27-india-s-biotech-ecosystem-holds-tremendous-promise-eli-lilly-ceo",
         "title": "‘India’s biotech ecosystem holds tremendous promise’: Eli Lilly CEO",
@@ -95,23 +77,6 @@
         "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/chryscapital-to-take-minority-stake-in-linux-laboratories/articleshow/134573591.cms",
         "articlePath": "/article.html?issue=2026-09-27&article=2026-09-27-chryscapital-to-take-minority-stake-in-linux-laboratories"
-      },
-      {
-        "id": "2026-09-27-advent-international-seeks-cci-nod-to-acquire-minority-stake-in-yatharth",
-        "title": "Advent International seeks CCI nod to acquire minority stake in Yatharth Hospitals",
-        "summary": "Noida-based Yatharth Hospital and Trauma Care Services operates a network of super-speciality hospitals in India, providing comprehensive healthcare services, diagnostics, and advanced medical procedures across multiple specialities.",
-        "source": "ET Healthworld",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-10-02T15:38:19.000Z",
-        "publishedLabel": "October 2, 2026",
-        "category": "Industry Update",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-134642697,imgsize-84904,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/advent-international-seeks-cci-nod-to-acquire-minority-stake-in-yatharth-hospitals.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/advent-international-seeks-cci-nod-to-acquire-minority-stake-in-yatharth-hospitals/134642697",
-        "articlePath": "/article.html?issue=2026-09-27&article=2026-09-27-advent-international-seeks-cci-nod-to-acquire-minority-stake-in-yatharth"
       },
       {
         "id": "2026-09-27-from-jab-to-pills-novo-nordisk-eli-lilly-set-to-take-obesity-drug-battle",
@@ -233,23 +198,6 @@
         "articlePath": "/article.html?issue=2026-09-27&article=2026-09-27-sun-pharma-signs-major-deal-with-lib-therapeutics-of-us-gains-access-to-"
       },
       {
-        "id": "2026-09-27-grail-s-cancer-blood-test-nears-landmark-fda-approval-but-insurance-cove",
-        "title": "Grail's cancer blood test nears landmark FDA approval, but insurance coverage looms",
-        "summary": "An advisory panel to the US Food and Drug Administration handed Grail's Galleri blood test a milestone win last week, saying the early cancer detection test's potential benefits outweigh its risks and bringing it a step closer to approval.",
-        "source": "ET Healthworld",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-10-02T19:09:05.000Z",
-        "publishedLabel": "October 3, 2026",
-        "category": "Approval",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-134645828,imgsize-56653,width-1200,height=627,overlay-ethealth,resizemode-75/diagnostics/grails-cancer-blood-test-nears-landmark-fda-approval-but-insurance-coverage-looms.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/diagnostics/grails-cancer-blood-test-nears-landmark-fda-approval-but-insurance-coverage-looms/134645828",
-        "articlePath": "/article.html?issue=2026-09-27&article=2026-09-27-grail-s-cancer-blood-test-nears-landmark-fda-approval-but-insurance-cove"
-      },
-      {
         "id": "2026-09-27-maharashtra-fda-cancels-cipla-s-pune-warehouse-licences-over-reactin-plu",
         "title": "Maharashtra FDA cancels Cipla's Pune warehouse licences over Reactin Plus packaging claims",
         "summary": "Maharashtra's Food and Drug Administration has cancelled Cipla Pharma's distribution licenses due to serious violations. The FDA discovered irregularities with Reactin Plus Tablets, including misbranding and unsafe storage practices. Following inspections, it...",
@@ -267,21 +215,21 @@
         "articlePath": "/article.html?issue=2026-09-27&article=2026-09-27-maharashtra-fda-cancels-cipla-s-pune-warehouse-licences-over-reactin-plu"
       },
       {
-        "id": "2026-09-27-hepatitis-c-treatment-duration-may-be-cut-from-12-to-8-weeks",
-        "title": "Hepatitis C treatment duration may be cut from 12 to 8 weeks",
-        "summary": "This follows an Indian Council of Medical Research-funded study, called RESOLVE trial, undertaken by Sanjay Gandhi Post Graduate Institute of Medical Sciences (SGPGIMS), which proved that the effectiveness of the shorter regimen was as good as that of the...",
+        "id": "2026-09-27-hospital-stocks-fall-as-sc-questions-drug-mark-ups",
+        "title": "Hospital stocks fall as SC questions drug mark-ups",
+        "summary": "The sell-off came after the Supreme Court raised concerns over the wide gap between the price at which hospitals procure medicines and the maximum retail price charged to patients.",
         "source": "ET Healthworld",
         "sourceHost": "health.economictimes.indiatimes.com",
         "region": "India",
         "country": "India",
-        "publishedAt": "2026-10-02T15:34:48.000Z",
-        "publishedLabel": "October 2, 2026",
+        "publishedAt": "2026-09-30T11:25:31.000Z",
+        "publishedLabel": "September 30, 2026",
         "category": "Industry Update",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-134642622,imgsize-75286,width-1200,height=627,overlay-ethealth,resizemode-75/industry/hepatitis-c-treatment-duration-may-be-cut-from-12-to-8-weeks.jpg",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-134592391,imgsize-126122,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/hospital-stocks-fall-as-sc-questions-drug-mark-ups.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
         "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/hepatitis-c-treatment-duration-may-be-cut-from-12-to-8-weeks/134642622",
-        "articlePath": "/article.html?issue=2026-09-27&article=2026-09-27-hepatitis-c-treatment-duration-may-be-cut-from-12-to-8-weeks"
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/hospital-stocks-fall-as-sc-questions-drug-mark-ups/134592391",
+        "articlePath": "/article.html?issue=2026-09-27&article=2026-09-27-hospital-stocks-fall-as-sc-questions-drug-mark-ups"
       },
       {
         "id": "2026-09-27-medanta-operator-global-health-buys-ghaziabad-land-for-rs-166-cr-to-buil",
@@ -352,23 +300,6 @@
         "articlePath": "/article.html?issue=2026-09-27&article=2026-09-27-johnson-and-johnson-presents-new-data-reinforcing-sustained-disease-cont"
       },
       {
-        "id": "2026-09-27-biontech-to-close-three-german-sites-after-failed-sale-efforts-healthcar",
-        "title": "BioNTech to close three German sites after failed sale efforts | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
-        "summary": "The Mainz-based biopharmaceutical company said the closures will affect about 1,800 employees at sites in Tübingen, Marburg and Idar-Oberstein.",
-        "source": "Healthcare MEA",
-        "sourceHost": "healthcaremea.com",
-        "region": "Middle East",
-        "country": "Middle East",
-        "publishedAt": "2026-10-02T06:36:16.000Z",
-        "publishedLabel": "October 2, 2026",
-        "category": "Manufacturing",
-        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/10/image-1600x900-2026-10-02T093034.188.png",
-        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": false,
-        "originalUrl": "https://www.healthcaremea.com/2026/10/02/biontech-to-close-three-german-sites-after-failed-sale-efforts/",
-        "articlePath": "/article.html?issue=2026-09-27&article=2026-09-27-biontech-to-close-three-german-sites-after-failed-sale-efforts-healthcar"
-      },
-      {
         "id": "2026-09-27-biomarin-partners-with-profluent-to-develop-ai-designed-enzyme-therapies",
         "title": "BioMarin partners with Profluent to develop AI-designed enzyme therapies in USA | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
         "summary": "Profluent will conduct the computational design work using its Profluent Protein Atlas, a dataset containing more than 115 billion unique protein sequences.",
@@ -418,23 +349,6 @@
         "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/sun-pharma-announces-leqselvi-safety-and-efficacy-findings-at-eadv-2026-180500",
         "articlePath": "/article.html?issue=2026-09-27&article=2026-09-27-sun-pharma-announces-leqselvi-safety-and-efficacy-findings-at-eadv-2026"
-      },
-      {
-        "id": "2026-09-27-hub71-partners-with-unilabs-to-accelerate-health-tech-adoption-in-abu-dh",
-        "title": "Hub71 partners with Unilabs to accelerate health tech adoption in Abu Dhabi | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
-        "summary": "Through the partnership, startups will gain opportunities to work with Unilabs on technology integration, proof-of-concept projects, and commercial partnerships.",
-        "source": "Healthcare MEA",
-        "sourceHost": "healthcaremea.com",
-        "region": "Middle East",
-        "country": "United Arab Emirates",
-        "publishedAt": "2026-10-02T06:41:36.000Z",
-        "publishedLabel": "October 2, 2026",
-        "category": "Manufacturing",
-        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/10/image-1600x900-2026-10-02T093706.341.png",
-        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": false,
-        "originalUrl": "https://www.healthcaremea.com/2026/10/02/hub71-partners-with-unilabs-to-accelerate-health-tech-adoption-in-abu-dhabi/",
-        "articlePath": "/article.html?issue=2026-09-27&article=2026-09-27-hub71-partners-with-unilabs-to-accelerate-health-tech-adoption-in-abu-dh"
       },
       {
         "id": "2026-09-27-govt-extends-minimum-import-price-for-two-apis-ats-8-sulfadiazine",
@@ -522,23 +436,6 @@
         "articlePath": "/article.html?issue=2026-09-27&article=2026-09-27-reactin-plus-violations-maharashtra-fda-cancels-cipla-warehouse-licences"
       },
       {
-        "id": "2026-09-27-novartis-india-gets-new-name-evonile-pharma-limited",
-        "title": "Novartis India Gets New Name: Evonile Pharma Limited",
-        "summary": "Mumbai: Novartis India Limited has officially changed its name to Evonile Pharma Limited with effect from October 1, 2026, following approval from the Ministry of Corporate Affairs (MCA), Government...",
-        "source": "Medical Dialogues Pharma",
-        "sourceHost": "medicaldialogues.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-10-03T15:30:58.000Z",
-        "publishedLabel": "October 3, 2026",
-        "category": "Approval",
-        "image": "https://medicaldialogues.in/h-upload/2024/02/17/232451-novartis-50.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/novartis-india-gets-new-name-evonile-pharma-limited-180502",
-        "articlePath": "/article.html?issue=2026-09-27&article=2026-09-27-novartis-india-gets-new-name-evonile-pharma-limited"
-      },
-      {
         "id": "2026-09-27-piramal-pharma-appoints-viral-gandhi-as-chief-technology-officer",
         "title": "Piramal Pharma Appoints Viral Gandhi as Chief Technology Officer",
         "summary": "Mumbai: Piramal Pharma Limited has appointed Viral Gandhi as Chief Technology Officer (CTO) and Senior Management Personnel, effective October 1, 2026, following approval by the company's Board of...",
@@ -605,25 +502,42 @@
         "justIn": false,
         "originalUrl": "https://www.biospectrumasia.com/news/25/28443/chinas-innocare-inks-3-5-b-deal-with-eli-lilly-to-develop-new-medicines.html",
         "articlePath": "/article.html?issue=2026-09-27&article=2026-09-27-china-s-innocare-inks-3-5-b-deal-with-eli-lilly-to-develop-new-medicines"
+      },
+      {
+        "id": "2026-09-27-siemens-energy-s-full-supervisory-and-executive-boards-meet-in-saudi-ara",
+        "title": "Siemens Energy’s full Supervisory and Executive Boards meet in Saudi Arabia",
+        "summary": "Underscoring the Kingdom’s strategic importance to Siemens Energy",
+        "source": "Zawya Pharmaceuticals",
+        "sourceHost": "zawya.com",
+        "region": "Middle East",
+        "country": "Saudi Arabia",
+        "publishedAt": "2026-10-01T09:29:17.007Z",
+        "publishedLabel": "October 1, 2026",
+        "category": "Industry Update",
+        "image": "https://media.zawya.com/prod/images/gm_preview/a03ba1fd2a79-130dsc7013.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": false,
+        "originalUrl": "https://www.zawya.com/en/press-release/companies-news/siemens-energys-full-supervisory-and-executive-boards-meet-in-saudi-arabia-1460407",
+        "articlePath": "/article.html?issue=2026-09-27&article=2026-09-27-siemens-energy-s-full-supervisory-and-executive-boards-meet-in-saudi-ara"
       }
     ],
     "providers": [
       {
-        "id": "2026-09-27-hospital-stocks-fall-as-sc-questions-drug-mark-ups",
-        "title": "Hospital stocks fall as SC questions drug mark-ups",
-        "summary": "The sell-off came after the Supreme Court raised concerns over the wide gap between the price at which hospitals procure medicines and the maximum retail price charged to patients.",
+        "id": "2026-09-27-advent-international-seeks-cci-nod-to-acquire-minority-stake-in-yatharth",
+        "title": "Advent International seeks CCI nod to acquire minority stake in Yatharth Hospitals",
+        "summary": "Noida-based Yatharth Hospital and Trauma Care Services operates a network of super-speciality hospitals in India, providing comprehensive healthcare services, diagnostics, and advanced medical procedures across multiple specialities.",
         "source": "ET Healthworld Hospitals",
         "sourceHost": "health.economictimes.indiatimes.com",
         "region": "India",
         "country": "India",
-        "publishedAt": "2026-09-30T11:25:31.000Z",
-        "publishedLabel": "September 30, 2026",
+        "publishedAt": "2026-10-02T15:38:19.000Z",
+        "publishedLabel": "October 2, 2026",
         "category": "Hospital",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-134592391,imgsize-126122,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/hospital-stocks-fall-as-sc-questions-drug-mark-ups.jpg",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-134642697,imgsize-84904,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/advent-international-seeks-cci-nod-to-acquire-minority-stake-in-yatharth-hospitals.jpg",
         "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
         "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/hospital-stocks-fall-as-sc-questions-drug-mark-ups/134592391",
-        "articlePath": "/article.html?issue=2026-09-27&article=2026-09-27-hospital-stocks-fall-as-sc-questions-drug-mark-ups"
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/advent-international-seeks-cci-nod-to-acquire-minority-stake-in-yatharth-hospitals/134642697",
+        "articlePath": "/article.html?issue=2026-09-27&article=2026-09-27-advent-international-seeks-cci-nod-to-acquire-minority-stake-in-yatharth"
       },
       {
         "id": "2026-09-27-ahpi-calls-for-holistic-approach-to-pricing-of-medicines-and-consumables",
@@ -711,40 +625,6 @@
         "articlePath": "/article.html?issue=2026-09-27&article=2026-09-27-rosewood-abu-dhabi-to-offer-limited-collection-of-completed-residences-f"
       },
       {
-        "id": "2026-09-27-air-arabia-signs-group-level-distribution-agreement-with-amadeus",
-        "title": "Air Arabia signs group-level distribution agreement with Amadeus",
-        "summary": "The agreement will enable the airline to extend its presence across Amadeus’ global travel seller network,",
-        "source": "Zawya Pharmaceuticals",
-        "sourceHost": "zawya.com",
-        "region": "Middle East",
-        "country": "United Arab Emirates",
-        "publishedAt": "2026-10-02T06:35:16.593Z",
-        "publishedLabel": "October 2, 2026",
-        "category": "AI Care Delivery",
-        "image": "https://media.zawya.com/prod/images/gm_preview/c50dd90bc304-image.jpg",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://www.zawya.com/en/press-release/companies-news/air-arabia-signs-group-level-distribution-agreement-with-amadeus-1486806",
-        "articlePath": "/article.html?issue=2026-09-27&article=2026-09-27-air-arabia-signs-group-level-distribution-agreement-with-amadeus"
-      },
-      {
-        "id": "2026-09-27-h-h-sheikh-nahyan-bin-zayed-al-nahyan-inaugurates-redwood-nursery-and-ki",
-        "title": "H.H. Sheikh Nahyan bin Zayed Al Nahyan inaugurates Redwood Nursery and Kindergarten on Jubail Island",
-        "summary": "The opening sets a new standard for early childhood education in Abu Dhabi",
-        "source": "Zawya Pharmaceuticals",
-        "sourceHost": "zawya.com",
-        "region": "Middle East",
-        "country": "United Arab Emirates",
-        "publishedAt": "2026-10-02T11:54:10.110Z",
-        "publishedLabel": "October 2, 2026",
-        "category": "AI Care Delivery",
-        "image": "https://media.zawya.com/prod/images/gm_preview/8316746a41c7-hh-sheikh-nahyan-bin-zayed-al-nahyan-inaugurates-redwood-nursery-and-kindergar.jpeg",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://www.zawya.com/en/press-release/government-news/h.h.-sheikh-nahyan-bin-zayed-al-nahyan-inaugurates-redwood-nursery-and-kindergarten-on-jubail-island-1488369",
-        "articlePath": "/article.html?issue=2026-09-27&article=2026-09-27-h-h-sheikh-nahyan-bin-zayed-al-nahyan-inaugurates-redwood-nursery-and-ki"
-      },
-      {
         "id": "2026-09-27-saudi-arabia-undertook-10-privatisation-ppp-projects-in-h1-2026",
         "title": "Saudi Arabia undertook 10 privatisation, PPP projects in H1 2026",
         "summary": "NPS aims to attract $64bln in private-sector capital investment by 2030",
@@ -803,14 +683,6 @@
   "thbActions": [
     {
       "segment": "pharma",
-      "articleId": "2026-09-27-florida-attorney-general-sues-pfizer-and-ceo-over-covid-19-vaccine-claim",
-      "title": "Florida Attorney General sues Pfizer and CEO over COVID-19 vaccine claims",
-      "source": "Reuters Healthcare & Pharma",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
-      "segment": "pharma",
       "articleId": "2026-09-27-india-s-biotech-ecosystem-holds-tremendous-promise-eli-lilly-ceo",
       "title": "‘India’s biotech ecosystem holds tremendous promise’: Eli Lilly CEO",
       "source": "Economic Times Pharma",
@@ -835,16 +707,24 @@
     },
     {
       "segment": "pharma",
-      "articleId": "2026-09-27-advent-international-seeks-cci-nod-to-acquire-minority-stake-in-yatharth",
-      "title": "Advent International seeks CCI nod to acquire minority stake in Yatharth Hospitals",
-      "source": "ET Healthworld",
+      "articleId": "2026-09-27-from-jab-to-pills-novo-nordisk-eli-lilly-set-to-take-obesity-drug-battle",
+      "title": "From Jab to Pills: Novo Nordisk, Eli Lilly set to take obesity drug battle to India",
+      "source": "Economic Times Pharma",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "pharma",
+      "articleId": "2026-09-27-sun-pharma-plans-1-billion-local-debt-sale-for-loan-takeout-sources-say",
+      "title": "Sun Pharma plans $1 billion local debt sale for loan takeout, sources say",
+      "source": "Economic Times Pharma",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
     },
     {
       "segment": "providers",
-      "articleId": "2026-09-27-hospital-stocks-fall-as-sc-questions-drug-mark-ups",
-      "title": "Hospital stocks fall as SC questions drug mark-ups",
+      "articleId": "2026-09-27-advent-international-seeks-cci-nod-to-acquire-minority-stake-in-yatharth",
+      "title": "Advent International seeks CCI nod to acquire minority stake in Yatharth Hospitals",
       "source": "ET Healthworld Hospitals",
       "solution": "THB Provider CRM",
       "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
