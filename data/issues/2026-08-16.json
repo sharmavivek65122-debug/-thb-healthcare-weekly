@@ -5,16 +5,15 @@
   "startDate": "2026-08-15T18:30:00.000Z",
   "endDate": "2026-08-21T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-10-05T21:17:36.602Z",
+  "updatedAt": "2026-10-06T11:25:35.752Z",
   "coverage": {
     "pharma": 2,
-    "providers": 1,
+    "providers": 0,
     "diagnostics": 2,
     "healthtech": 0
   },
   "sourcesUsed": [
     "ET Healthworld Diagnostics",
-    "ET Healthworld Hospitals",
     "Lupin Updates"
   ],
   "segments": {
@@ -54,25 +53,7 @@
         "articlePath": "/article.html?issue=2026-08-16&article=2026-08-16-stocks-in-news-airtel-paytm-spicejet-ongc-and-zee"
       }
     ],
-    "providers": [
-      {
-        "id": "2026-08-16-manipal-hospitals-post-3-091-crore-in-q1fy27-ebitda-climbs-26",
-        "title": "Manipal Hospitals post ₹3,091 crore in Q1FY27, ebitda climbs 26%",
-        "summary": "The healthcare major’s Inpatient and outpatient volumes grew 38.8 per cent and 26.0 per cent, respectively, during the quarter, while occupancy improved by 290 basis points year on year to 65 per cent.",
-        "source": "ET Healthworld Hospitals",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-08-21T01:27:35.000Z",
-        "publishedLabel": "August 21, 2026",
-        "category": "Hospital",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-133390607,imgsize-173464,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/manipal-hospitals-post-3091-crore-in-q1fy27-ebitda-climbs-26.jpg",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/manipal-hospitals-post-3091-crore-in-q1fy27-ebitda-climbs-26/133390607",
-        "articlePath": "/article.html?issue=2026-08-16&article=2026-08-16-manipal-hospitals-post-3-091-crore-in-q1fy27-ebitda-climbs-26"
-      }
-    ],
+    "providers": [],
     "diagnostics": [
       {
         "id": "2026-08-16-tata-capital-healthcare-fund-iii-invests-30-million-in-tenet-diagnostics",
@@ -127,14 +108,6 @@
       "source": "Lupin Updates",
       "solution": "THB Commercial Analytics",
       "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
-    },
-    {
-      "segment": "providers",
-      "articleId": "2026-08-16-manipal-hospitals-post-3-091-crore-in-q1fy27-ebitda-climbs-26",
-      "title": "Manipal Hospitals post ₹3,091 crore in Q1FY27, ebitda climbs 26%",
-      "source": "ET Healthworld Hospitals",
-      "solution": "THB Provider CRM",
-      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
     },
     {
       "segment": "diagnostics",
