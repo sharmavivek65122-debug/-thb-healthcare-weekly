@@ -5,20 +5,18 @@
   "startDate": "2026-10-03T18:30:00.000Z",
   "endDate": "2026-10-09T18:30:00.000Z",
   "status": "live",
-  "updatedAt": "2026-10-06T11:25:35.752Z",
+  "updatedAt": "2026-10-06T19:00:14.481Z",
   "coverage": {
-    "pharma": 24,
-    "providers": 7,
+    "pharma": 27,
+    "providers": 8,
     "diagnostics": 2,
     "healthtech": 0
   },
   "sourcesUsed": [
     "ET Healthworld",
-    "ET Healthworld Diagnostics",
     "ET Healthworld Hospitals",
     "Economic Times Pharma",
     "Express Healthcare",
-    "Healthcare MEA",
     "Medical Dialogues Pharma",
     "Zawya Pharmaceuticals"
   ],
@@ -54,7 +52,7 @@
         "category": "Launch",
         "image": "https://img.etimg.com/thumb/msid-134727798,width-1200,height-900,imgsize-90586,overlay-economictimes/articleshow.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/lupin-launches-fixed-dose-triple-combination-inhaler-for-copd-in-india/articleshow/134727570.cms",
         "articlePath": "/article.html?issue=2026-10-04&article=2026-10-04-lupin-launches-fixed-dose-triple-combination-inhaler-for-copd-in-india"
       },
@@ -88,7 +86,7 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-134720757,imgsize-106861,width-1200,height=627,overlay-ethealth,resizemode-75/industry/new-york-declares-first-us-measles-disaster-emergency-since-2025-surge.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/new-york-declares-first-us-measles-disaster-emergency-since-2025-surge/134720757",
         "articlePath": "/article.html?issue=2026-10-04&article=2026-10-04-new-york-declares-first-us-measles-disaster-emergency-since-2025-surge"
       },
@@ -105,7 +103,7 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-134725454,imgsize-72374,width-1200,height=627,overlay-ethealth,resizemode-75/medical-devices/kkr-owned-healthium-temasek-backed-romsons-in-race-to-buy-70-80-stake-in-bl-lifesciences.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/medical-devices/kkr-owned-healthium-temasek-backed-romsons-in-race-to-buy-70-80-stake-in-bl-lifesciences/134725454",
         "articlePath": "/article.html?issue=2026-10-04&article=2026-10-04-kkr-owned-healthium-temasek-backed-romsons-in-race-to-buy-70-80-stake-in"
       },
@@ -122,9 +120,26 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-134738120,imgsize-69152,width-1200,height=627,overlay-ethealth,resizemode-75/medical-devices/iiser-develops-sensor-for-faster-detection-of-diabetic-kidney-disease.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/medical-devices/iiser-develops-sensor-for-faster-detection-of-diabetic-kidney-disease/134738120",
         "articlePath": "/article.html?issue=2026-10-04&article=2026-10-04-iiser-develops-sensor-for-faster-detection-of-diabetic-kidney-disease"
+      },
+      {
+        "id": "2026-10-04-pennsylvania-measles-cases-rise-to-1-004-as-outbreak-spreads",
+        "title": "Pennsylvania measles cases rise to 1,004 as outbreak spreads",
+        "summary": "Pennsylvania's health department reported 1,004 measles cases as of Monday, as the state grapples with a fast-growing outbreak. Five Pennsylvania residents have died after",
+        "source": "ET Healthworld",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-10-06T02:08:06.000Z",
+        "publishedLabel": "October 6, 2026",
+        "category": "Industry Update",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-134720919,imgsize-57232,width-1200,height=627,overlay-ethealth,resizemode-75/industry/pennsylvania-measles-cases-rise-to-1004-as-outbreak-spreads.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/pennsylvania-measles-cases-rise-to-1004-as-outbreak-spreads/134720919",
+        "articlePath": "/article.html?issue=2026-10-04&article=2026-10-04-pennsylvania-measles-cases-rise-to-1-004-as-outbreak-spreads"
       },
       {
         "id": "2026-10-04-integration-is-the-real-barrier-to-ai-in-hospitals-experts",
@@ -139,7 +154,7 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-134730467,imgsize-182760,width-1200,height=627,overlay-ethealth,resizemode-75/industry/integration-is-the-real-barrier-to-ai-in-hospitals-experts.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/integration-is-the-real-barrier-to-ai-in-hospitals-experts/134730467",
         "articlePath": "/article.html?issue=2026-10-04&article=2026-10-04-integration-is-the-real-barrier-to-ai-in-hospitals-experts"
       },
@@ -156,7 +171,7 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-134720958,imgsize-111615,width-1200,height=627,overlay-ethealth,resizemode-75/medical-devices/uk-says-it-will-monitor-ai-based-medical-devices-continually.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/medical-devices/uk-says-it-will-monitor-ai-based-medical-devices-continually/134720958",
         "articlePath": "/article.html?issue=2026-10-04&article=2026-10-04-uk-says-it-will-monitor-ai-based-medical-devices-continually"
       },
@@ -173,9 +188,26 @@
         "category": "Industry Update",
         "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/10/06112637/EH_Aksigen.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/news/aksigen-ivf-presents-patient-voice-research-at-ispor-asia-pacific-summit-2026/455413/",
         "articlePath": "/article.html?issue=2026-10-04&article=2026-10-04-aksigen-ivf-presents-patient-voice-research-at-ispor-asia-pacific-summit"
+      },
+      {
+        "id": "2026-10-04-zydus-msn-launch-first-generic-of-adempas-riociguat-in-us-across-5-stren",
+        "title": "Zydus, MSN Launch First Generic of Adempas (Riociguat) in US Across 5 Strengths",
+        "summary": "New Delhi: Zydus Lifesciences Limited, in partnership with MSN Laboratories Private Limited, has launched the first generic version of Adempas (riociguat) in the United States across five strengths,...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-10-06T15:31:12.000Z",
+        "publishedLabel": "October 6, 2026",
+        "category": "Partnership",
+        "image": "https://medicaldialogues.in/h-upload/2024/02/09/231917-zydus-lifesciences-50.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/zydus-msn-launch-first-generic-of-adempas-riociguat-in-us-across-5-strengths-180701",
+        "articlePath": "/article.html?issue=2026-10-04&article=2026-10-04-zydus-msn-launch-first-generic-of-adempas-riociguat-in-us-across-5-stren"
       },
       {
         "id": "2026-10-04-novartis-signs-licensing-deal-worth-up-to-7-8-billion-with-abogen-for-mr",
@@ -212,40 +244,6 @@
         "articlePath": "/article.html?issue=2026-10-04&article=2026-10-04-aurobindo-pharma-gets-usfda-nod-for-epilepsy-drug-perampanel-targets-usd"
       },
       {
-        "id": "2026-10-04-everest-medicines-receives-priority-review-for-local-velsipity-manufactu",
-        "title": "Everest Medicines receives priority review for local VELSIPITY manufacturing in China | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
-        "summary": "The NMPA approved VELSIPITY in February 2026 for adults with moderately to severely active ulcerative colitis (UC) who had an inadequate response, lost response or were intolerant to conventional ...",
-        "source": "Healthcare MEA",
-        "sourceHost": "healthcaremea.com",
-        "region": "Middle East",
-        "country": "Middle East",
-        "publishedAt": "2026-10-04T07:32:39.000Z",
-        "publishedLabel": "October 4, 2026",
-        "category": "Manufacturing",
-        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/10/image-1600x900-2026-10-04T102846.655.png",
-        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": false,
-        "originalUrl": "https://www.healthcaremea.com/2026/10/04/everest-medicines-receives-priority-review-for-local-velsipity-manufacturing-in-china/",
-        "articlePath": "/article.html?issue=2026-10-04&article=2026-10-04-everest-medicines-receives-priority-review-for-local-velsipity-manufactu"
-      },
-      {
-        "id": "2026-10-04-asahi-kasei-unifies-global-pharma-business-to-target-us-1-9b-in-revenue-",
-        "title": "Asahi Kasei unifies global pharma business to target US$1.9B in revenue by 2030 | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
-        "summary": "It is now integrating those businesses under Asahi Kasei Therapeutics, the name of its existing Japanese pharmaceutical unit.",
-        "source": "Healthcare MEA",
-        "sourceHost": "healthcaremea.com",
-        "region": "Middle East",
-        "country": "Middle East",
-        "publishedAt": "2026-10-04T07:21:00.000Z",
-        "publishedLabel": "October 4, 2026",
-        "category": "Manufacturing",
-        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/10/image-1600x900-2026-10-04T105329.807.png",
-        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": false,
-        "originalUrl": "https://www.healthcaremea.com/2026/10/04/asahi-kasei-unifies-global-pharma-business-to-target-us1-9b-in-revenue-by-2030/",
-        "articlePath": "/article.html?issue=2026-10-04&article=2026-10-04-asahi-kasei-unifies-global-pharma-business-to-target-us-1-9b-in-revenue-"
-      },
-      {
         "id": "2026-10-04-gland-pharma-to-invest-usd-21-mn-in-us-expansion-acquire-60-stake-in-nov",
         "title": "Gland Pharma to Invest USD 21 Mn in US Expansion, Acquire 60% Stake in Novelstar Pharma",
         "summary": "New Delhi: Gland Pharma Limited has approved an investment of USD 21 million in its proposed wholly owned subsidiary Gland Pharma USA Inc. (Gland USA), which will use the funds to acquire a 60% stake...",
@@ -278,6 +276,40 @@
         "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/astrazeneca-gets-cdsco-panel-nod-to-import-market-camizestrant-for-breast-cancer-180524",
         "articlePath": "/article.html?issue=2026-10-04&article=2026-10-04-astrazeneca-gets-cdsco-panel-nod-to-import-market-camizestrant-for-breas"
+      },
+      {
+        "id": "2026-10-04-cdsco-seeks-to-list-bullous-pemphigoid-as-teneligliptin-adverse-reaction",
+        "title": "CDSCO Seeks to List Bullous Pemphigoid as Teneligliptin Adverse Reaction",
+        "summary": "New Delhi: The Central Drugs Standard Control Organization (CDSCO) has asked all State and Union Territory licensing authorities to direct manufacturers of Teneligliptin formulations to include...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-10-06T15:30:55.000Z",
+        "publishedLabel": "October 6, 2026",
+        "category": "Industry Update",
+        "image": "https://medicaldialogues.in/h-upload/2026/09/23/476673-glp-1-drug-4.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/cdsco-seeks-to-list-bullous-pemphigoid-as-teneligliptin-adverse-reaction-180705",
+        "articlePath": "/article.html?issue=2026-10-04&article=2026-10-04-cdsco-seeks-to-list-bullous-pemphigoid-as-teneligliptin-adverse-reaction"
+      },
+      {
+        "id": "2026-10-04-glenmark-launches-adapalene-gel-pump-packs-in-us-eyes-usd-45-8-mn-otc-ma",
+        "title": "Glenmark Launches Adapalene Gel Pump Packs in US, Eyes USD 45.8 Mn OTC Market",
+        "summary": "New Delhi: Glenmark Therapeutics Inc., USA, a subsidiary of Glenmark Pharmaceuticals, has launched new pump-pack presentations of Adapalene Gel USP, 0.1% (OTC) in the United States.Glenmark’s...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-10-06T15:19:44.000Z",
+        "publishedLabel": "October 6, 2026",
+        "category": "Market",
+        "image": "https://medicaldialogues.in/h-upload/2024/02/28/233261-glenmark-50.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/glenmark-launches-adapalene-gel-pump-packs-in-us-eyes-usd-458-mn-otc-market-180700",
+        "articlePath": "/article.html?issue=2026-10-04&article=2026-10-04-glenmark-launches-adapalene-gel-pump-packs-in-us-eyes-usd-45-8-mn-otc-ma"
       },
       {
         "id": "2026-10-04-serum-institute-s-indigenous-hpv-vaccine-cervavac-gets-who-prequalificat",
@@ -314,21 +346,21 @@
         "articlePath": "/article.html?issue=2026-10-04&article=2026-10-04-us-fda-extends-review-of-novo-nordisk-s-hemophilia-drug-amid-manufacturi"
       },
       {
-        "id": "2026-10-04-bayer-to-invest-us-2-2b-in-new-manufacturing-site-in-ohio-healthcare-mid",
-        "title": "Bayer to invest US$2.2B in new manufacturing site in Ohio | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
-        "summary": "The planned campus at the New Albany International Business Park will use a flexible, modular design combining drug substance and drug product manufacturing with digital and automation technologies.",
-        "source": "Healthcare MEA",
-        "sourceHost": "healthcaremea.com",
-        "region": "Middle East",
-        "country": "Middle East",
-        "publishedAt": "2026-10-04T07:43:20.000Z",
-        "publishedLabel": "October 4, 2026",
-        "category": "Manufacturing",
-        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/10/image-1600x900-2026-10-04T104101.486.png",
-        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": false,
-        "originalUrl": "https://www.healthcaremea.com/2026/10/04/bayer-to-invest-us2-2b-in-new-manufacturing-site-in-ohio/",
-        "articlePath": "/article.html?issue=2026-10-04&article=2026-10-04-bayer-to-invest-us-2-2b-in-new-manufacturing-site-in-ohio-healthcare-mid"
+        "id": "2026-10-04-aurobindo-pharma-s-apitoria-acquires-80-stake-in-a1-biochem-labs-india",
+        "title": "Aurobindo Pharma's Apitoria Acquires 80% Stake in A1 Biochem Labs India",
+        "summary": "Hyderabad: Aurobindo Pharma Limited has completed the acquisition of the Contract Research Services business of A1 Biochem Group through its wholly owned subsidiary Apitoria Pharma Private Limited...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-10-06T05:30:02.000Z",
+        "publishedLabel": "October 6, 2026",
+        "category": "Industry Update",
+        "image": "https://medicaldialogues.in/h-upload/2023/01/10/197262-aurobindo-pharma.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/aurobindo-pharmas-apitoria-acquires-80-stake-in-a1-biochem-labs-india-180704",
+        "articlePath": "/article.html?issue=2026-10-04&article=2026-10-04-aurobindo-pharma-s-apitoria-acquires-80-stake-in-a1-biochem-labs-india"
       },
       {
         "id": "2026-10-04-summit-astrazeneca-and-daiichi-sankyo-plan-phase-iii-trial-in-triple-neg",
@@ -431,6 +463,23 @@
         "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/trevogrumab-semaglutide-combination-reduces-muscle-loss-during-weight-reduction-trial-180521",
         "articlePath": "/article.html?issue=2026-10-04&article=2026-10-04-regeneron-s-experimental-drug-shows-muscle-preserving-benefit-with-semag"
+      },
+      {
+        "id": "2026-10-04-sun-pharma-advanced-research-wins-cestat-ruling-secures-rs-27-51-cr-cenv",
+        "title": "Sun Pharma Advanced Research Wins CESTAT Ruling, Secures Rs 27.51 Cr CENVAT Refund",
+        "summary": "Mumbai: Sun Pharma Advanced Research Company Limited (SPARC) has won a litigation before the Customs, Excise & Service Tax Appellate Tribunal (CESTAT), Mumbai, with the Tribunal upholding the...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-10-06T07:15:30.000Z",
+        "publishedLabel": "October 6, 2026",
+        "category": "Industry Update",
+        "image": "https://medicaldialogues.in/h-upload/2025/03/31/280933-sparc-50.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/sun-pharma-advanced-research-wins-cestat-ruling-secures-rs-2751-cr-cenvat-refund-180702",
+        "articlePath": "/article.html?issue=2026-10-04&article=2026-10-04-sun-pharma-advanced-research-wins-cestat-ruling-secures-rs-27-51-cr-cenv"
       }
     ],
     "providers": [
@@ -447,7 +496,7 @@
         "category": "Hospital",
         "image": "https://etimg.etb2bimg.com/thumb/msid-134687300,imgsize-144502,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/wall-streets-10-billion-india-hospital-bet-sparks-a-fight-over-bills.jpg",
         "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/wall-streets-10-billion-india-hospital-bet-sparks-a-fight-over-bills/134687300",
         "articlePath": "/article.html?issue=2026-10-04&article=2026-10-04-wall-street-s-10-billion-india-hospital-bet-sparks-a-fight-over-bills"
       },
@@ -464,7 +513,7 @@
         "category": "Hospital",
         "image": "https://etimg.etb2bimg.com/thumb/msid-134720737,imgsize-79041,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/hospital-pricing-part-of-wider-value-chain-max-md.jpg",
         "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/hospital-pricing-part-of-wider-value-chain-max-md/134720737",
         "articlePath": "/article.html?issue=2026-10-04&article=2026-10-04-hospital-pricing-part-of-wider-value-chain-max-md"
       },
@@ -498,7 +547,7 @@
         "category": "Expansion",
         "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2021/05/07184056/investment-1.jpg",
         "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/news/blacksoil-invests-%e2%82%b9110-crore-in-regency-hospital/455424/",
         "articlePath": "/article.html?issue=2026-10-04&article=2026-10-04-blacksoil-invests-110-crore-in-regency-hospital"
       },
@@ -515,9 +564,26 @@
         "category": "AI Care Delivery",
         "image": "https://media.zawya.com/prod/images/gm_preview/11a9b17ebb4f-image-emsteelhq-jpg.webp",
         "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.zawya.com/en/zawya-green/emsteel-reappointed-as-co-chair-of-alliance-for-industry-decarbonisation-1510473",
         "articlePath": "/article.html?issue=2026-10-04&article=2026-10-04-emsteel-reappointed-as-co-chair-of-alliance-for-industry-decarbonisation"
+      },
+      {
+        "id": "2026-10-04-agreement-signed-for-mro-at-muscat-international-airport",
+        "title": "Agreement signed for MRO at Muscat International Airport",
+        "summary": "The company provides one stop aircraft maintenance services, including airframe, engine, component, line maintenance, and cabin maintenance",
+        "source": "Zawya Pharmaceuticals",
+        "sourceHost": "zawya.com",
+        "region": "Middle East",
+        "country": "Oman",
+        "publishedAt": "2026-10-05T09:14:23.617Z",
+        "publishedLabel": "October 5, 2026",
+        "category": "AI Care Delivery",
+        "image": "https://assets.zawya.com/prod/assets/arrow-down-fill.d30923dc.svg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": true,
+        "originalUrl": "https://www.zawya.com/en/business/agreement-signed-for-mro-at-muscat-international-airport-1503203",
+        "articlePath": "/article.html?issue=2026-10-04&article=2026-10-04-agreement-signed-for-mro-at-muscat-international-airport"
       },
       {
         "id": "2026-10-04-neopay-enters-into-definitive-agreement-to-acquire-65-stake-in-noon-paym",
@@ -556,23 +622,6 @@
     ],
     "diagnostics": [
       {
-        "id": "2026-10-04-pgi-partners-with-iit-delhi-for-ai-powered-breast-cancer-detection",
-        "title": "PGI partners with IIT Delhi for AI powered breast cancer detection",
-        "summary": "“Breast cancer in Indian women often develops at a younger age — frequently appearing in their 20s and 30s — and is typically characterised by denser breast tissue, making standard mammography less effective,” said Prof Veenu Singla of the department of...",
-        "source": "ET Healthworld Diagnostics",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-10-04T17:38:06.000Z",
-        "publishedLabel": "October 4, 2026",
-        "category": "Cancer Testing",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-134678758,imgsize-78386,width-1200,height=627,overlay-ethealth,resizemode-75/diagnostics/pgi-partners-with-iit-delhi-for-ai-powered-breast-cancer-detection.jpg",
-        "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
-        "justIn": true,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/diagnostics/pgi-partners-with-iit-delhi-for-ai-powered-breast-cancer-detection/134678758",
-        "articlePath": "/article.html?issue=2026-10-04&article=2026-10-04-pgi-partners-with-iit-delhi-for-ai-powered-breast-cancer-detection"
-      },
-      {
         "id": "2026-10-04-building-a-stronger-care-pathway-for-thalassemia",
         "title": "Building a stronger care pathway for thalassemia",
         "summary": "TSCS has built a model covering transfusion, diagnosis, counselling, and prevention. What are the key elements of this model, and what lessons can it offer for strengthening thalassemia care across India? At the Thalassemia and Sickle Cell Society (TSCS) in...",
@@ -588,6 +637,23 @@
         "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/news/building-a-stronger-care-pathway-for-thalassemia/455410/",
         "articlePath": "/article.html?issue=2026-10-04&article=2026-10-04-building-a-stronger-care-pathway-for-thalassemia"
+      },
+      {
+        "id": "2026-10-04-piramal-pharma-opens-new-microbiology-lab-at-us-sterile-injectables-faci",
+        "title": "Piramal Pharma Opens New Microbiology Lab at US Sterile Injectables Facility",
+        "summary": "New Delhi: Piramal Pharma Solutions (PPS), the Contract Development and Manufacturing Organization (CDMO) arm of Piramal Pharma Limited, has opened a new microbiology laboratory at its sterile...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-10-06T06:00:54.000Z",
+        "publishedLabel": "October 6, 2026",
+        "category": "Lab Network",
+        "image": "https://medicaldialogues.in/h-upload/2023/05/06/208981-piramal-pharma-solutions.jpg",
+        "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
+        "justIn": true,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/piramal-pharma-opens-new-microbiology-lab-at-us-sterile-injectables-facility-180703",
+        "articlePath": "/article.html?issue=2026-10-04&article=2026-10-04-piramal-pharma-opens-new-microbiology-lab-at-us-sterile-injectables-faci"
       }
     ],
     "healthtech": []
@@ -675,17 +741,17 @@
     },
     {
       "segment": "diagnostics",
-      "articleId": "2026-10-04-pgi-partners-with-iit-delhi-for-ai-powered-breast-cancer-detection",
-      "title": "PGI partners with IIT Delhi for AI powered breast cancer detection",
-      "source": "ET Healthworld Diagnostics",
+      "articleId": "2026-10-04-building-a-stronger-care-pathway-for-thalassemia",
+      "title": "Building a stronger care pathway for thalassemia",
+      "source": "Express Healthcare",
       "solution": "THB Diagnostics CRM",
       "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
     },
     {
       "segment": "diagnostics",
-      "articleId": "2026-10-04-building-a-stronger-care-pathway-for-thalassemia",
-      "title": "Building a stronger care pathway for thalassemia",
-      "source": "Express Healthcare",
+      "articleId": "2026-10-04-piramal-pharma-opens-new-microbiology-lab-at-us-sterile-injectables-faci",
+      "title": "Piramal Pharma Opens New Microbiology Lab at US Sterile Injectables Facility",
+      "source": "Medical Dialogues Pharma",
       "solution": "THB Diagnostics CRM",
       "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
     }
