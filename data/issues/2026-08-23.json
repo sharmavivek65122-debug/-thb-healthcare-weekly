@@ -5,14 +5,15 @@
   "startDate": "2026-08-22T18:30:00.000Z",
   "endDate": "2026-08-28T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-10-06T19:00:14.481Z",
+  "updatedAt": "2026-10-07T11:15:40.437Z",
   "coverage": {
     "pharma": 1,
-    "providers": 0,
+    "providers": 5,
     "diagnostics": 0,
     "healthtech": 0
   },
   "sourcesUsed": [
+    "ET Healthworld Hospitals",
     "Janssen India Media"
   ],
   "segments": {
@@ -35,7 +36,93 @@
         "articlePath": "/article.html?issue=2026-08-23&article=2026-08-23-fda-approves-imaavy-nipocalimab-aahu-as-first-ever-treatment-for-warm-au"
       }
     ],
-    "providers": [],
+    "providers": [
+      {
+        "id": "2026-08-23-anhvl-to-invest-rs-2-200-crore-to-expand-bed-capacity-to-2-500-in-4-5-ye",
+        "title": "ANHVL to invest Rs 2,200 crore to expand bed capacity to 2,500 in 4-5 years",
+        "summary": "As part of the expansion, the healthcare arm of the Ambuja Neotia Group announced an investment of around Rs 150 crore to set up a 120-bed woman and child care facility in Howrah under its flagship Neotia Bhagirathi Woman and Child Care Centre network, which...",
+        "source": "ET Healthworld Hospitals",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-08-28T18:40:35.000Z",
+        "publishedLabel": "August 29, 2026",
+        "category": "Expansion",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-133597871,imgsize-62188,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/anhvl-to-invest-rs-2200-crore-to-expand-bed-capacity-to-2500-in-4-5-years.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": false,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/anhvl-to-invest-rs-2200-crore-to-expand-bed-capacity-to-2500-in-4-5-years/133597871",
+        "articlePath": "/article.html?issue=2026-08-23&article=2026-08-23-anhvl-to-invest-rs-2-200-crore-to-expand-bed-capacity-to-2-500-in-4-5-ye"
+      },
+      {
+        "id": "2026-08-23-yatharth-hospitals-draws-interest-from-aster-advent-as-healthcare-consol",
+        "title": "Yatharth Hospitals draws interest from Aster, Advent as healthcare consolidation heats up",
+        "summary": "Aster DM Quality Care is negotiating to acquire a controlling stake in Yatharth Hospitals. This potential acquisition aims to consolidate the hospital sector amid private equity interest. Yatharth Hospitals' stock has seen a significant rise in anticipation...",
+        "source": "ET Healthworld Hospitals",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-08-28T01:44:37.000Z",
+        "publishedLabel": "August 28, 2026",
+        "category": "Hospital",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-133580996,imgsize-108445,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/yatharth-hospitals-draws-interest-from-aster-advent-as-healthcare-consolidation-heats-up.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": false,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/yatharth-hospitals-draws-interest-from-aster-advent-as-healthcare-consolidation-heats-up/133580996",
+        "articlePath": "/article.html?issue=2026-08-23&article=2026-08-23-yatharth-hospitals-draws-interest-from-aster-advent-as-healthcare-consol"
+      },
+      {
+        "id": "2026-08-23-fortis-launches-respiratory-care-clinics-in-delhi",
+        "title": "Fortis launches respiratory care clinics in Delhi",
+        "summary": "The corporate hospital chain said the clinics will focus on the complete management of advanced lung failure, including evaluation for lung transplantation, and provide patients with access to multidisciplinary, end-to-end respiratory care.",
+        "source": "ET Healthworld Hospitals",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-08-27T08:58:16.000Z",
+        "publishedLabel": "August 27, 2026",
+        "category": "Hospital",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-133562783,imgsize-151681,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/fortis-launches-respiratory-care-clinics-in-delhi.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": false,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/fortis-launches-respiratory-care-clinics-in-delhi/133562783",
+        "articlePath": "/article.html?issue=2026-08-23&article=2026-08-23-fortis-launches-respiratory-care-clinics-in-delhi"
+      },
+      {
+        "id": "2026-08-23-medicover-india-hospitals-to-be-profitable-in-18-months-eyes-20-25-margi",
+        "title": "Medicover India hospitals to be profitable in 18 months, eyes 20-25% margins",
+        "summary": "Earlier this month, global ‌investment firm ⁠KKR ⁠signed a deal to buy Medicover's India business for €1.2 billion ($1.40 billion), pending ​regulatory approvals.",
+        "source": "ET Healthworld Hospitals",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-08-26T12:38:57.000Z",
+        "publishedLabel": "August 26, 2026",
+        "category": "Hospital",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-133541272,imgsize-126910,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/medicover-india-hospitals-to-be-profitable-in-18-months-eyes-20-25-margins.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": false,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/medicover-india-hospitals-to-be-profitable-in-18-months-eyes-20-25-margins/133541272",
+        "articlePath": "/article.html?issue=2026-08-23&article=2026-08-23-medicover-india-hospitals-to-be-profitable-in-18-months-eyes-20-25-margi"
+      },
+      {
+        "id": "2026-08-23-7-member-panel-to-probe-amravati-hospital-fire-submit-report-in-8-days",
+        "title": "7-Member Panel To Probe Amravati Hospital Fire, Submit Report In 8 Days",
+        "summary": "Terming the incident “unfortunate”, Abitkar said the expert committee will examine all aspects of the tragedy and pinpoint the exact fault. “The committee will also look into irregularities, which prima facie appear to be of a serious nature, and suggest...",
+        "source": "ET Healthworld Hospitals",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-08-26T06:13:59.000Z",
+        "publishedLabel": "August 26, 2026",
+        "category": "Hospital",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-133531939,imgsize-117217,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/7-member-panel-to-probe-amravati-hospital-fire-submit-report-in-8-days.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": false,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/7-member-panel-to-probe-amravati-hospital-fire-submit-report-in-8-days/133531939",
+        "articlePath": "/article.html?issue=2026-08-23&article=2026-08-23-7-member-panel-to-probe-amravati-hospital-fire-submit-report-in-8-days"
+      }
+    ],
     "diagnostics": [],
     "healthtech": []
   },
@@ -47,6 +134,46 @@
       "source": "Janssen India Media",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "providers",
+      "articleId": "2026-08-23-anhvl-to-invest-rs-2-200-crore-to-expand-bed-capacity-to-2-500-in-4-5-ye",
+      "title": "ANHVL to invest Rs 2,200 crore to expand bed capacity to 2,500 in 4-5 years",
+      "source": "ET Healthworld Hospitals",
+      "solution": "THB Provider CRM",
+      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
+    },
+    {
+      "segment": "providers",
+      "articleId": "2026-08-23-yatharth-hospitals-draws-interest-from-aster-advent-as-healthcare-consol",
+      "title": "Yatharth Hospitals draws interest from Aster, Advent as healthcare consolidation heats up",
+      "source": "ET Healthworld Hospitals",
+      "solution": "THB Provider CRM",
+      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
+    },
+    {
+      "segment": "providers",
+      "articleId": "2026-08-23-fortis-launches-respiratory-care-clinics-in-delhi",
+      "title": "Fortis launches respiratory care clinics in Delhi",
+      "source": "ET Healthworld Hospitals",
+      "solution": "THB Provider CRM",
+      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
+    },
+    {
+      "segment": "providers",
+      "articleId": "2026-08-23-medicover-india-hospitals-to-be-profitable-in-18-months-eyes-20-25-margi",
+      "title": "Medicover India hospitals to be profitable in 18 months, eyes 20-25% margins",
+      "source": "ET Healthworld Hospitals",
+      "solution": "THB Provider CRM",
+      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
+    },
+    {
+      "segment": "providers",
+      "articleId": "2026-08-23-7-member-panel-to-probe-amravati-hospital-fire-submit-report-in-8-days",
+      "title": "7-Member Panel To Probe Amravati Hospital Fire, Submit Report In 8 Days",
+      "source": "ET Healthworld Hospitals",
+      "solution": "THB Provider CRM",
+      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
     }
   ]
 }

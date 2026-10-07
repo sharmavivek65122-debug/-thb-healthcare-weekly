@@ -5,11 +5,11 @@
   "startDate": "2026-09-19T18:30:00.000Z",
   "endDate": "2026-09-25T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-10-06T19:00:14.481Z",
+  "updatedAt": "2026-10-07T11:15:40.437Z",
   "coverage": {
     "pharma": 6,
-    "providers": 6,
-    "diagnostics": 2,
+    "providers": 7,
+    "diagnostics": 3,
     "healthtech": 1
   },
   "sourcesUsed": [
@@ -125,6 +125,23 @@
       }
     ],
     "providers": [
+      {
+        "id": "2026-09-20-how-india-s-smaller-hospitals-are-becoming-the-next-big-digital-health-m",
+        "title": "How India’s smaller hospitals are becoming the next big digital health market",
+        "summary": "Smaller hospitals in India are becoming the new digital health market. As the Ayushman Bharat Digital Mission expands, the demand for digital solutions had increased. Healthcare tech companies are focusing on providing solutions tailored to smaller providers....",
+        "source": "ET Healthworld Hospitals",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-09-24T02:00:29.000Z",
+        "publishedLabel": "September 24, 2026",
+        "category": "Hospital",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-134449229,imgsize-85467,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/how-indias-smaller-hospitals-are-becoming-the-next-big-digital-health-market.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": false,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/how-indias-smaller-hospitals-are-becoming-the-next-big-digital-health-market/134449229",
+        "articlePath": "/article.html?issue=2026-09-20&article=2026-09-20-how-india-s-smaller-hospitals-are-becoming-the-next-big-digital-health-m"
+      },
       {
         "id": "2026-09-20-apollo-hospitals-appoints-upasana-konidela-as-director-of-projects",
         "title": "Apollo Hospitals appoints Upasana Konidela as director of projects",
@@ -262,6 +279,23 @@
         "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/diagnostics/thyrocare-launches-new-diagnostics-lab-in-jamsedhpur/134437268",
         "articlePath": "/article.html?issue=2026-09-20&article=2026-09-20-thyrocare-launches-new-diagnostics-lab-in-jamsedhpur"
+      },
+      {
+        "id": "2026-09-20-dr-lal-pathlabs-to-acquire-70-pc-stake-in-sn-genelab-for-rs-168-crore",
+        "title": "Dr Lal PathLabs to acquire 70 pc stake in SN Genelab for Rs 168 crore",
+        "summary": "Dr Lal PathLabs Ltd is set to acquire a 70% stake in SN Genelab for around Rs 168 crore, expanding its capabilities in genomics and diagnostic services. This move includes a potential earn-out of Rs 31.5 crore tied to performance. With the deal expected to...",
+        "source": "ET Healthworld Diagnostics",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-09-25T01:59:47.000Z",
+        "publishedLabel": "September 25, 2026",
+        "category": "Diagnostics",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-134472915,imgsize-90862,width-1200,height=627,overlay-ethealth,resizemode-75/diagnostics/dr-lal-pathlabs-to-acquire-70-pc-stake-in-sn-genelab-for-rs-168-crore.jpg",
+        "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
+        "justIn": false,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/diagnostics/dr-lal-pathlabs-to-acquire-70-pc-stake-in-sn-genelab-for-rs-168-crore/134472915",
+        "articlePath": "/article.html?issue=2026-09-20&article=2026-09-20-dr-lal-pathlabs-to-acquire-70-pc-stake-in-sn-genelab-for-rs-168-crore"
       }
     ],
     "healthtech": [
@@ -327,6 +361,14 @@
     },
     {
       "segment": "providers",
+      "articleId": "2026-09-20-how-india-s-smaller-hospitals-are-becoming-the-next-big-digital-health-m",
+      "title": "How India’s smaller hospitals are becoming the next big digital health market",
+      "source": "ET Healthworld Hospitals",
+      "solution": "THB Provider CRM",
+      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
+    },
+    {
+      "segment": "providers",
       "articleId": "2026-09-20-apollo-hospitals-appoints-upasana-konidela-as-director-of-projects",
       "title": "Apollo Hospitals appoints Upasana Konidela as director of projects",
       "source": "ET Healthworld Hospitals",
@@ -358,14 +400,6 @@
       "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
     },
     {
-      "segment": "providers",
-      "articleId": "2026-09-20-brainlab-amrita-hospital-faridabad-launches-north-india-s-first-brain-an",
-      "title": "Brainlab, Amrita Hospital Faridabad launches North India's first brain and spine CoE",
-      "source": "ET Healthworld Hospitals",
-      "solution": "THB Provider CRM",
-      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
-    },
-    {
       "segment": "diagnostics",
       "articleId": "2026-09-20-thyrocare-to-exit-radiology-arm-nueclear-healthcare-for-rs-141-core",
       "title": "Thyrocare to exit radiology arm Nueclear Healthcare for Rs 141 core",
@@ -377,6 +411,14 @@
       "segment": "diagnostics",
       "articleId": "2026-09-20-thyrocare-launches-new-diagnostics-lab-in-jamsedhpur",
       "title": "Thyrocare launches new diagnostics lab in Jamsedhpur",
+      "source": "ET Healthworld Diagnostics",
+      "solution": "THB Diagnostics CRM",
+      "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
+    },
+    {
+      "segment": "diagnostics",
+      "articleId": "2026-09-20-dr-lal-pathlabs-to-acquire-70-pc-stake-in-sn-genelab-for-rs-168-crore",
+      "title": "Dr Lal PathLabs to acquire 70 pc stake in SN Genelab for Rs 168 crore",
       "source": "ET Healthworld Diagnostics",
       "solution": "THB Diagnostics CRM",
       "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."

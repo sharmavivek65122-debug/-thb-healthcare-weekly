@@ -5,10 +5,10 @@
   "startDate": "2026-09-12T18:30:00.000Z",
   "endDate": "2026-09-18T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-10-06T19:00:14.481Z",
+  "updatedAt": "2026-10-07T11:15:40.437Z",
   "coverage": {
     "pharma": 2,
-    "providers": 5,
+    "providers": 7,
     "diagnostics": 0,
     "healthtech": 0
   },
@@ -55,6 +55,23 @@
       }
     ],
     "providers": [
+      {
+        "id": "2026-09-13-fortis-signs-services-agreement-for-400-bed-hospital-in-delhi",
+        "title": "Fortis signs services agreement for 400 bed hospital in Delhi",
+        "summary": "The hospital is located on a 3.1 acre land in Ashok Vihar and will open in a phased manner, providing tertiary, and quaternary healthcare services across key specialties, such as Oncology, Neurosciences, Cardiac Sciences, Gastroenterology, Orthopaedics, Renal...",
+        "source": "ET Healthworld Hospitals",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-09-18T09:33:33.000Z",
+        "publishedLabel": "September 18, 2026",
+        "category": "Hospital",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-134331231,imgsize-123491,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/fortis-signs-services-agreement-for-400-bed-hospital-in-delhi.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": false,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/fortis-signs-services-agreement-for-400-bed-hospital-in-delhi/134331231",
+        "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-fortis-signs-services-agreement-for-400-bed-hospital-in-delhi"
+      },
       {
         "id": "2026-09-13-advent-international-joins-india-s-hospital-gold-rush-with-3-150-crore-y",
         "title": "Advent International joins India’s hospital gold rush with ₹3,150 crore Yatharth bet",
@@ -139,6 +156,23 @@
         "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/aiims-holds-workshop-on-strengthening-health-education-for-cardiometabolic-diseases/134276059",
         "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-aiims-holds-workshop-on-strengthening-health-education-for-cardiometabol"
+      },
+      {
+        "id": "2026-09-13-fortis-healthcare-moves-supreme-court-against-delhi-hc-forensic-audit-or",
+        "title": "Fortis Healthcare moves Supreme Court against Delhi HC forensic audit order; Axis Bank may follow",
+        "summary": "In a significant legal move, Fortis Healthcare has appealed to the Supreme Court against a Delhi High Court decision requiring a forensic audit of its dealings with IHH Healthcare. This case is part of larger litigation concerning Daiichi Sankyo Company. IHH...",
+        "source": "ET Healthworld Hospitals",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-09-16T09:52:59.000Z",
+        "publishedLabel": "September 16, 2026",
+        "category": "AI Care Delivery",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-134284254,imgsize-123491,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/fortis-healthcare-moves-supreme-court-against-delhi-hc-forensic-audit-order-axis-bank-may-follow.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": false,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/fortis-healthcare-moves-supreme-court-against-delhi-hc-forensic-audit-order-axis-bank-may-follow/134284254",
+        "articlePath": "/article.html?issue=2026-09-13&article=2026-09-13-fortis-healthcare-moves-supreme-court-against-delhi-hc-forensic-audit-or"
       }
     ],
     "diagnostics": [],
@@ -160,6 +194,14 @@
       "source": "BioSpectrum Asia Middle East",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "providers",
+      "articleId": "2026-09-13-fortis-signs-services-agreement-for-400-bed-hospital-in-delhi",
+      "title": "Fortis signs services agreement for 400 bed hospital in Delhi",
+      "source": "ET Healthworld Hospitals",
+      "solution": "THB Provider CRM",
+      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
     },
     {
       "segment": "providers",
@@ -189,14 +231,6 @@
       "segment": "providers",
       "articleId": "2026-09-13-marengo-asia-hospitals-raises-400-crore-from-leapfrog-investments-to-dou",
       "title": "Marengo Asia Hospitals raises ₹400 crore from LeapFrog Investments to double bed capacity",
-      "source": "ET Healthworld Hospitals",
-      "solution": "THB Provider CRM",
-      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
-    },
-    {
-      "segment": "providers",
-      "articleId": "2026-09-13-aiims-holds-workshop-on-strengthening-health-education-for-cardiometabol",
-      "title": "AIIMS holds workshop on strengthening health education for cardiometabolic diseases",
       "source": "ET Healthworld Hospitals",
       "solution": "THB Provider CRM",
       "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
