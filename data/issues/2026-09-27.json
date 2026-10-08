@@ -5,10 +5,10 @@
   "startDate": "2026-09-26T18:30:00.000Z",
   "endDate": "2026-10-02T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-10-07T19:27:54.182Z",
+  "updatedAt": "2026-10-08T11:31:58.678Z",
   "coverage": {
-    "pharma": 20,
-    "providers": 1,
+    "pharma": 19,
+    "providers": 2,
     "diagnostics": 1,
     "healthtech": 0
   },
@@ -69,7 +69,7 @@
         "publishedAt": "2026-09-29T19:43:12.000Z",
         "publishedLabel": "September 30, 2026",
         "category": "Industry Update",
-        "image": "https://img.etimg.com/thumb/msid-134573611,width-1200,height-630,imgsize-82464,overlay-economictimes/articleshow.jpg",
+        "image": "https://img.etimg.com/thumb/msid-134573611,width-1200,height-900,imgsize-82464,overlay-economictimes/articleshow.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
         "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/chryscapital-to-take-minority-stake-in-linux-laboratories/articleshow/134573591.cms",
@@ -210,23 +210,6 @@
         "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/maharashtra-fda-cancels-cipla-warehouse-licences-over-drug-violations/articleshow/134641214.cms",
         "articlePath": "/article.html?issue=2026-09-27&article=2026-09-27-maharashtra-fda-cancels-cipla-s-pune-warehouse-licences-over-reactin-plu"
-      },
-      {
-        "id": "2026-09-27-hospital-stocks-fall-as-sc-questions-drug-mark-ups",
-        "title": "Hospital stocks fall as SC questions drug mark-ups",
-        "summary": "The sell-off came after the Supreme Court raised concerns over the wide gap between the price at which hospitals procure medicines and the maximum retail price charged to patients.",
-        "source": "ET Healthworld",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-09-30T11:25:31.000Z",
-        "publishedLabel": "September 30, 2026",
-        "category": "Industry Update",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-134592391,imgsize-126122,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/hospital-stocks-fall-as-sc-questions-drug-mark-ups.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/hospital-stocks-fall-as-sc-questions-drug-mark-ups/134592391",
-        "articlePath": "/article.html?issue=2026-09-27&article=2026-09-27-hospital-stocks-fall-as-sc-questions-drug-mark-ups"
       },
       {
         "id": "2026-09-27-medanta-operator-global-health-buys-ghaziabad-land-for-rs-166-cr-to-buil",
@@ -382,6 +365,23 @@
         "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/advent-international-seeks-cci-nod-to-acquire-minority-stake-in-yatharth-hospitals/134642697",
         "articlePath": "/article.html?issue=2026-09-27&article=2026-09-27-advent-international-seeks-cci-nod-to-acquire-minority-stake-in-yatharth"
+      },
+      {
+        "id": "2026-09-27-hospital-stocks-fall-as-sc-questions-drug-mark-ups",
+        "title": "Hospital stocks fall as SC questions drug mark-ups",
+        "summary": "The sell-off came after the Supreme Court raised concerns over the wide gap between the price at which hospitals procure medicines and the maximum retail price charged to patients.",
+        "source": "ET Healthworld Hospitals",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-09-30T11:25:31.000Z",
+        "publishedLabel": "September 30, 2026",
+        "category": "Hospital",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-134592391,imgsize-126122,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/hospital-stocks-fall-as-sc-questions-drug-mark-ups.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": false,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/hospital-stocks-fall-as-sc-questions-drug-mark-ups/134592391",
+        "articlePath": "/article.html?issue=2026-09-27&article=2026-09-27-hospital-stocks-fall-as-sc-questions-drug-mark-ups"
       }
     ],
     "diagnostics": [
@@ -450,6 +450,14 @@
       "segment": "providers",
       "articleId": "2026-09-27-advent-international-seeks-cci-nod-to-acquire-minority-stake-in-yatharth",
       "title": "Advent International seeks CCI nod to acquire minority stake in Yatharth Hospitals",
+      "source": "ET Healthworld Hospitals",
+      "solution": "THB Provider CRM",
+      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
+    },
+    {
+      "segment": "providers",
+      "articleId": "2026-09-27-hospital-stocks-fall-as-sc-questions-drug-mark-ups",
+      "title": "Hospital stocks fall as SC questions drug mark-ups",
       "source": "ET Healthworld Hospitals",
       "solution": "THB Provider CRM",
       "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
