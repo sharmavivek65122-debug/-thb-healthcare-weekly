@@ -5,37 +5,18 @@
   "startDate": "2026-08-22T18:30:00.000Z",
   "endDate": "2026-08-28T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-10-08T19:22:37.558Z",
+  "updatedAt": "2026-10-09T11:27:11.686Z",
   "coverage": {
-    "pharma": 1,
+    "pharma": 0,
     "providers": 4,
     "diagnostics": 0,
     "healthtech": 0
   },
   "sourcesUsed": [
-    "ET Healthworld Hospitals",
-    "Janssen India Media"
+    "ET Healthworld Hospitals"
   ],
   "segments": {
-    "pharma": [
-      {
-        "id": "2026-08-23-fda-approves-imaavy-nipocalimab-aahu-as-first-ever-treatment-for-warm-au",
-        "title": "FDA approves IMAAVY® (nipocalimab-aahu) as first-ever treatment for warm autoimmune hemolytic anemia (wAIHA), representing a landmark advancement for patients",
-        "summary": "· IMAAVY is an immunoselective FcRn blocker designed to target and reduce pathogenic immunoglobulin G (IgG) autoantibodies while also preserving B-cell function · Warm autoimmune hemolytic anemia is a rare, life-threatening disease in which autoantibodies...",
-        "source": "Janssen India Media",
-        "sourceHost": "janssen.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-08-24T16:56:56.088Z",
-        "publishedLabel": "August 24, 2026",
-        "category": "Industry Update",
-        "image": "https://jnj-content-lab2.brightspotcdn.com/ac/25/bd2078f54d5992dd486ed26140ce/johnson-johnson-logo.svg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://www.jnj.com/media-center/press-releases/fda-approves-imaavy-nipocalimab-aahu-as-first-ever-treatment-for-warm-autoimmune-hemolytic-anemia-waiha-representing-a-landmark-advancement-for-patients",
-        "articlePath": "/article.html?issue=2026-08-23&article=2026-08-23-fda-approves-imaavy-nipocalimab-aahu-as-first-ever-treatment-for-warm-au"
-      }
-    ],
+    "pharma": [],
     "providers": [
       {
         "id": "2026-08-23-anhvl-to-invest-rs-2-200-crore-to-expand-bed-capacity-to-2-500-in-4-5-ye",
@@ -110,14 +91,6 @@
     "healthtech": []
   },
   "thbActions": [
-    {
-      "segment": "pharma",
-      "articleId": "2026-08-23-fda-approves-imaavy-nipocalimab-aahu-as-first-ever-treatment-for-warm-au",
-      "title": "FDA approves IMAAVY® (nipocalimab-aahu) as first-ever treatment for warm autoimmune hemolytic anemia (wAIHA), representing a landmark advancement for patients",
-      "source": "Janssen India Media",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
     {
       "segment": "providers",
       "articleId": "2026-08-23-anhvl-to-invest-rs-2-200-crore-to-expand-bed-capacity-to-2-500-in-4-5-ye",

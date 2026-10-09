@@ -5,9 +5,9 @@
   "startDate": "2026-09-19T18:30:00.000Z",
   "endDate": "2026-09-25T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-10-08T19:22:37.558Z",
+  "updatedAt": "2026-10-09T11:27:11.686Z",
   "coverage": {
-    "pharma": 2,
+    "pharma": 1,
     "providers": 7,
     "diagnostics": 3,
     "healthtech": 1
@@ -16,28 +16,10 @@
     "BioSpectrum India Healthcare",
     "ET Healthworld",
     "ET Healthworld Diagnostics",
-    "ET Healthworld Hospitals",
-    "Economic Times Pharma"
+    "ET Healthworld Hospitals"
   ],
   "segments": {
     "pharma": [
-      {
-        "id": "2026-09-20-rs-78-400-vs-rs-7-750-medicine-novartis-eli-lilly-oppose-bid-to-cut-brea",
-        "title": "Rs 78,400 vs Rs 7,750 medicine: Novartis, Eli Lilly oppose bid to cut breast cancer drug prices in India",
-        "summary": "Novartis and Eli Lilly have opposed a Kerala High Court petition seeking government intervention to make two breast cancer drugs cheaper, despite their India sales accounting for less than 0.5% of global revenues. Court submissions have highlighted...",
-        "source": "Economic Times Pharma",
-        "sourceHost": "economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-09-26T08:26:11.000Z",
-        "publishedLabel": "September 26, 2026",
-        "category": "Industry Update",
-        "image": "https://img.etimg.com/thumb/msid-134500624,width-1200,height-900,imgsize-78444,overlay-economictimes/articleshow.jpg",
-        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": false,
-        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/rs-78400-vs-rs-7750-medicine-novartis-eli-lilly-oppose-bid-to-cut-breast-cancer-drug-prices-in-india/articleshow/134500531.cms",
-        "articlePath": "/article.html?issue=2026-09-20&article=2026-09-20-rs-78-400-vs-rs-7-750-medicine-novartis-eli-lilly-oppose-bid-to-cut-brea"
-      },
       {
         "id": "2026-09-20-hospitals-body-rejects-hotel-analogy-for-room-charges-urges-balanced-app",
         "title": "Hospitals’ body rejects hotel analogy for room charges, urges balanced approach to affordability",
@@ -251,14 +233,6 @@
     ]
   },
   "thbActions": [
-    {
-      "segment": "pharma",
-      "articleId": "2026-09-20-rs-78-400-vs-rs-7-750-medicine-novartis-eli-lilly-oppose-bid-to-cut-brea",
-      "title": "Rs 78,400 vs Rs 7,750 medicine: Novartis, Eli Lilly oppose bid to cut breast cancer drug prices in India",
-      "source": "Economic Times Pharma",
-      "solution": "THB Commercial Analytics",
-      "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
-    },
     {
       "segment": "pharma",
       "articleId": "2026-09-20-hospitals-body-rejects-hotel-analogy-for-room-charges-urges-balanced-app",
