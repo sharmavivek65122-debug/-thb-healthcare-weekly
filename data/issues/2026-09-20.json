@@ -5,15 +5,14 @@
   "startDate": "2026-09-19T18:30:00.000Z",
   "endDate": "2026-09-25T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-10-09T11:27:11.686Z",
+  "updatedAt": "2026-10-09T18:56:12.979Z",
   "coverage": {
     "pharma": 1,
     "providers": 7,
     "diagnostics": 3,
-    "healthtech": 1
+    "healthtech": 0
   },
   "sourcesUsed": [
-    "BioSpectrum India Healthcare",
     "ET Healthworld",
     "ET Healthworld Diagnostics",
     "ET Healthworld Hospitals"
@@ -212,25 +211,7 @@
         "articlePath": "/article.html?issue=2026-09-20&article=2026-09-20-dr-lal-pathlabs-to-acquire-70-pc-stake-in-sn-genelab-for-rs-168-crore"
       }
     ],
-    "healthtech": [
-      {
-        "id": "2026-09-20-healthark-sets-agenda-for-next-generation-of-life-sciences-and-healthtec",
-        "title": "Healthark sets agenda for Next Generation of Life Sciences and HealthTech GCCs at RISE 2026",
-        "summary": "Healthark sets agenda for Next Generation of Life Sciences and HealthTech GCCs at RISE 2026",
-        "source": "BioSpectrum India Healthcare",
-        "sourceHost": "biospectrumindia.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-09-25T18:30:00.000Z",
-        "publishedLabel": "September 26, 2026",
-        "category": "Industry Update",
-        "image": "https://www.biospectrumindia.com/uploads/articles/picture_01_21_-28542.jpeg",
-        "thbAction": "",
-        "justIn": false,
-        "originalUrl": "https://www.biospectrumindia.com/news/16/28542/healthark-sets-agenda-for-next-generation-of-life-sciences-and-healthtech-gccs-at-rise-2026.html",
-        "articlePath": "/article.html?issue=2026-09-20&article=2026-09-20-healthark-sets-agenda-for-next-generation-of-life-sciences-and-healthtec"
-      }
-    ]
+    "healthtech": []
   },
   "thbActions": [
     {
