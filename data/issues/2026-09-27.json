@@ -5,20 +5,23 @@
   "startDate": "2026-09-26T18:30:00.000Z",
   "endDate": "2026-10-02T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-10-09T18:56:12.979Z",
+  "updatedAt": "2026-10-10T10:44:33.595Z",
   "coverage": {
-    "pharma": 17,
-    "providers": 2,
+    "pharma": 19,
+    "providers": 3,
     "diagnostics": 1,
     "healthtech": 0
   },
   "sourcesUsed": [
+    "BioSpectrum Asia Middle East",
+    "BioSpectrum India Healthcare",
     "ET Healthworld",
     "ET Healthworld Diagnostics",
     "ET Healthworld Hospitals",
     "Economic Times Pharma",
     "Healthcare MEA",
-    "Janssen India Media"
+    "Janssen India Media",
+    "Zawya Pharmaceuticals"
   ],
   "segments": {
     "pharma": [
@@ -159,23 +162,6 @@
         "articlePath": "/article.html?issue=2026-09-27&article=2026-09-27-govt-extends-import-price-curbs-on-two-pharma-raw-materials"
       },
       {
-        "id": "2026-09-27-this-is-carnage-says-sc-on-markup-of-10-times-on-cancer-drugs-by-hospita",
-        "title": "'This is carnage', says SC on markup of 10 times on cancer drugs by hospitals",
-        "summary": "A bench of Justices Vikram Nath and Sandeep Mehta asked the Centre to look into the issue of hospitals mandating the purchase of medicines from their chemists and said it is the common man who suffers from this system.",
-        "source": "ET Healthworld",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-09-29T16:12:53.000Z",
-        "publishedLabel": "September 29, 2026",
-        "category": "Industry Update",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-134570266,imgsize-121428,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/this-is-carnage-says-sc-on-markup-of-10-times-on-cancer-drugs-by-hospitals.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/this-is-carnage-says-sc-on-markup-of-10-times-on-cancer-drugs-by-hospitals/134570266",
-        "articlePath": "/article.html?issue=2026-09-27&article=2026-09-27-this-is-carnage-says-sc-on-markup-of-10-times-on-cancer-drugs-by-hospita"
-      },
-      {
         "id": "2026-09-27-sun-pharma-signs-major-deal-with-lib-therapeutics-of-us-gains-access-to-",
         "title": "Sun Pharma signs major deal with LIB Therapeutics of US, gains access to $3.7-bn global market for bad cho",
         "summary": "Sun Pharma has signed an exclusive agreement with LIB Therapeutics for Lerodalcibep, a cholesterol-lowering medication. This deal covers all markets globally except for the United States and China. Lerodalcibep, a once-monthly PCSK9 inhibitor, will be...",
@@ -310,6 +296,57 @@
         "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/10/02/hub71-partners-with-unilabs-to-accelerate-health-tech-adoption-in-abu-dhabi/",
         "articlePath": "/article.html?issue=2026-09-27&article=2026-09-27-hub71-partners-with-unilabs-to-accelerate-health-tech-adoption-in-abu-dh"
+      },
+      {
+        "id": "2026-09-27-china-s-gotion-high-tech-wins-6gwh-battery-storage-contracts-in-saudi-ar",
+        "title": "China’s Gotion High-Tech wins 6GWh battery storage contracts in Saudi Arabia",
+        "summary": "The Chinese company will supply battery storage systems for three 500MW/2GWh projects under SPPC’s first utility-scale BESS procurement programme.",
+        "source": "Zawya Pharmaceuticals",
+        "sourceHost": "zawya.com",
+        "region": "Middle East",
+        "country": "Saudi Arabia",
+        "publishedAt": "2026-09-28T16:28:31.202Z",
+        "publishedLabel": "September 28, 2026",
+        "category": "Industry Update",
+        "image": "https://assets.zawya.com/prod/assets/arrow-down-fill.d30923dc.svg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": false,
+        "originalUrl": "https://www.zawya.com/en/projects/robust-project-partnerships/chinas-gotion-high-tech-wins-6gwh-battery-storage-contracts-in-saudi-arabia-1369001",
+        "articlePath": "/article.html?issue=2026-09-27&article=2026-09-27-china-s-gotion-high-tech-wins-6gwh-battery-storage-contracts-in-saudi-ar"
+      },
+      {
+        "id": "2026-09-27-techinvention-lifecare-partners-with-institute-of-life-sciences-iit-bhub",
+        "title": "TechInvention Lifecare partners with Institute of Life Sciences, IIT Bhubaneswar to expedite development of indigenous TB vaccine",
+        "summary": "Institute of Life Sciences, IIT Bhubaneswar, TechInvention Lifecare partner to launch India’s indigenous TB vaccine",
+        "source": "BioSpectrum India Healthcare",
+        "sourceHost": "biospectrumindia.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-09-28T18:30:00.000Z",
+        "publishedLabel": "September 29, 2026",
+        "category": "Launch",
+        "image": "https://www.biospectrumindia.com/uploads/articles/screenshot_29_9_2026_155943_www_linkedin_com-28570.jpeg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": false,
+        "originalUrl": "https://www.biospectrumindia.com/news/16/28570/techinvention-lifecare-partners-with-institute-of-life-sciences-iit-bhubaneswar-to-expedite-development-of-indigenous-tb-vaccine.html",
+        "articlePath": "/article.html?issue=2026-09-27&article=2026-09-27-techinvention-lifecare-partners-with-institute-of-life-sciences-iit-bhub"
+      },
+      {
+        "id": "2026-09-27-china-s-innocare-inks-3-5-b-deal-with-eli-lilly-to-develop-new-medicines",
+        "title": "China's InnoCare inks $3.5 B deal with Eli Lilly to develop new medicines",
+        "summary": "InnoCare inks $3.5billion deal with Lilly to Develop New Medicines",
+        "source": "BioSpectrum Asia Middle East",
+        "sourceHost": "biospectrumasia.com",
+        "region": "Middle East",
+        "country": "Oman",
+        "publishedAt": "2026-09-27T18:30:00.000Z",
+        "publishedLabel": "September 28, 2026",
+        "category": "Deal",
+        "image": "https://www.biospectrumasia.com/uploads/articles/screenshot_28_9_2026_123021_www_bing_com-28443.jpeg?v=20260928123043",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": false,
+        "originalUrl": "https://www.biospectrumasia.com/news/25/28443/chinas-innocare-inks-3-5-b-deal-with-eli-lilly-to-develop-new-medicines.html",
+        "articlePath": "/article.html?issue=2026-09-27&article=2026-09-27-china-s-innocare-inks-3-5-b-deal-with-eli-lilly-to-develop-new-medicines"
       }
     ],
     "providers": [
@@ -346,6 +383,23 @@
         "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/hospital-stocks-fall-as-sc-questions-drug-mark-ups/134592391",
         "articlePath": "/article.html?issue=2026-09-27&article=2026-09-27-hospital-stocks-fall-as-sc-questions-drug-mark-ups"
+      },
+      {
+        "id": "2026-09-27-rosewood-abu-dhabi-to-offer-limited-collection-of-completed-residences-f",
+        "title": "Rosewood Abu Dhabi to offer limited collection of completed residences for private ownership on Al Maryah Island",
+        "summary": "Release builds on Mubadala and Rosewood’s long-standing partnership on Al Maryah Island",
+        "source": "Zawya Pharmaceuticals",
+        "sourceHost": "zawya.com",
+        "region": "Middle East",
+        "country": "United Arab Emirates",
+        "publishedAt": "2026-10-01T14:32:52.687Z",
+        "publishedLabel": "October 1, 2026",
+        "category": "Provider Update",
+        "image": "https://media.zawya.com/prod/images/gm_preview/dc7a5e53658e-54.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": false,
+        "originalUrl": "https://www.zawya.com/en/press-release/companies-news/rosewood-abu-dhabi-to-offer-limited-collection-of-completed-residences-for-private-ownership-on-al-maryah-island-1485976",
+        "articlePath": "/article.html?issue=2026-09-27&article=2026-09-27-rosewood-abu-dhabi-to-offer-limited-collection-of-completed-residences-f"
       }
     ],
     "diagnostics": [
@@ -423,6 +477,14 @@
       "articleId": "2026-09-27-hospital-stocks-fall-as-sc-questions-drug-mark-ups",
       "title": "Hospital stocks fall as SC questions drug mark-ups",
       "source": "ET Healthworld Hospitals",
+      "solution": "THB Provider CRM",
+      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
+    },
+    {
+      "segment": "providers",
+      "articleId": "2026-09-27-rosewood-abu-dhabi-to-offer-limited-collection-of-completed-residences-f",
+      "title": "Rosewood Abu Dhabi to offer limited collection of completed residences for private ownership on Al Maryah Island",
+      "source": "Zawya Pharmaceuticals",
       "solution": "THB Provider CRM",
       "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
     },
