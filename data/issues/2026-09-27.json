@@ -5,14 +5,16 @@
   "startDate": "2026-09-26T18:30:00.000Z",
   "endDate": "2026-10-02T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-10-10T17:56:59.944Z",
+  "updatedAt": "2026-10-11T10:57:28.025Z",
   "coverage": {
-    "pharma": 16,
+    "pharma": 17,
     "providers": 4,
     "diagnostics": 1,
     "healthtech": 0
   },
   "sourcesUsed": [
+    "BioSpectrum Asia Middle East",
+    "BioSpectrum India Healthcare",
     "ET Healthworld",
     "ET Healthworld Diagnostics",
     "ET Healthworld Hospitals",
@@ -107,23 +109,6 @@
         "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/sun-pharma-plans-1-billion-local-debt-sale-for-loan-takeout-sources-say/articleshow/134562569.cms",
         "articlePath": "/article.html?issue=2026-09-27&article=2026-09-27-sun-pharma-plans-1-billion-local-debt-sale-for-loan-takeout-sources-say"
-      },
-      {
-        "id": "2026-09-27-cdsco-steps-up-scrutiny-of-pharma-drugs-containing-narcotic-substances",
-        "title": "CDSCO steps up scrutiny of pharma drugs containing narcotic substances",
-        "summary": "The Central Drugs Standard Control Organisation is addressing regulatory gaps related to the illegal diversion of pharmaceutical drugs. Following the National Committee for Coordination on Drug Trafficking meeting, specific targets have been assigned to...",
-        "source": "Economic Times Pharma",
-        "sourceHost": "economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-09-27T19:11:32.000Z",
-        "publishedLabel": "September 28, 2026",
-        "category": "Industry Update",
-        "image": "https://img.etimg.com/thumb/msid-134525705,width-1200,height-630,imgsize-390632,overlay-economictimes/articleshow.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/cdsco-steps-up-scrutiny-of-pharma-drugs-containing-narcotic-substances/articleshow/134525250.cms",
-        "articlePath": "/article.html?issue=2026-09-27&article=2026-09-27-cdsco-steps-up-scrutiny-of-pharma-drugs-containing-narcotic-substances"
       },
       {
         "id": "2026-09-27-robotics-to-expand-beyond-surgery-into-diagnostics-and-multiple-medical-",
@@ -294,6 +279,40 @@
         "justIn": false,
         "originalUrl": "https://www.zawya.com/en/projects/robust-project-partnerships/chinas-gotion-high-tech-wins-6gwh-battery-storage-contracts-in-saudi-arabia-1369001",
         "articlePath": "/article.html?issue=2026-09-27&article=2026-09-27-china-s-gotion-high-tech-wins-6gwh-battery-storage-contracts-in-saudi-ar"
+      },
+      {
+        "id": "2026-09-27-techinvention-lifecare-partners-with-institute-of-life-sciences-iit-bhub",
+        "title": "TechInvention Lifecare partners with Institute of Life Sciences, IIT Bhubaneswar to expedite development of indigenous TB vaccine",
+        "summary": "Institute of Life Sciences, IIT Bhubaneswar, TechInvention Lifecare partner to launch India’s indigenous TB vaccine",
+        "source": "BioSpectrum India Healthcare",
+        "sourceHost": "biospectrumindia.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-09-28T18:30:00.000Z",
+        "publishedLabel": "September 29, 2026",
+        "category": "Launch",
+        "image": "https://www.biospectrumindia.com/uploads/articles/screenshot_29_9_2026_155943_www_linkedin_com-28570.jpeg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": false,
+        "originalUrl": "https://www.biospectrumindia.com/news/16/28570/techinvention-lifecare-partners-with-institute-of-life-sciences-iit-bhubaneswar-to-expedite-development-of-indigenous-tb-vaccine.html",
+        "articlePath": "/article.html?issue=2026-09-27&article=2026-09-27-techinvention-lifecare-partners-with-institute-of-life-sciences-iit-bhub"
+      },
+      {
+        "id": "2026-09-27-china-s-innocare-inks-3-5-b-deal-with-eli-lilly-to-develop-new-medicines",
+        "title": "China's InnoCare inks $3.5 B deal with Eli Lilly to develop new medicines",
+        "summary": "InnoCare inks $3.5billion deal with Lilly to Develop New Medicines",
+        "source": "BioSpectrum Asia Middle East",
+        "sourceHost": "biospectrumasia.com",
+        "region": "Middle East",
+        "country": "Oman",
+        "publishedAt": "2026-09-27T18:30:00.000Z",
+        "publishedLabel": "September 28, 2026",
+        "category": "Deal",
+        "image": "https://www.biospectrumasia.com/uploads/articles/screenshot_28_9_2026_123021_www_bing_com-28443.jpeg?v=20260928123043",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": false,
+        "originalUrl": "https://www.biospectrumasia.com/news/25/28443/chinas-innocare-inks-3-5-b-deal-with-eli-lilly-to-develop-new-medicines.html",
+        "articlePath": "/article.html?issue=2026-09-27&article=2026-09-27-china-s-innocare-inks-3-5-b-deal-with-eli-lilly-to-develop-new-medicines"
       }
     ],
     "providers": [
