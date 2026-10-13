@@ -5,9 +5,9 @@
   "startDate": "2026-09-26T18:30:00.000Z",
   "endDate": "2026-10-02T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-10-13T12:02:14.723Z",
+  "updatedAt": "2026-10-13T19:55:58.919Z",
   "coverage": {
-    "pharma": 10,
+    "pharma": 9,
     "providers": 4,
     "diagnostics": 1,
     "healthtech": 0
@@ -56,23 +56,6 @@
         "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/india-has-biotech-talent-and-know-how-but-funding-ecosystem-lags-lilly-ceo/articleshow/134626945.cms",
         "articlePath": "/article.html?issue=2026-09-27&article=2026-09-27-india-has-biotech-talent-and-know-how-but-funding-ecosystem-lags-lilly-c"
-      },
-      {
-        "id": "2026-09-27-chryscapital-to-take-minority-stake-in-linux-laboratories",
-        "title": "ChrysCapital to take minority stake in Linux laboratories",
-        "summary": "Linux Laboratories has secured $70 million in equity funding from ChrysCapital and Tata Capital Healthcare Fund III. This investment involves both primary capital and a secondary purchase, marking Tata Capital Healthcare Fund II's full exit. The funding will...",
-        "source": "Economic Times Pharma",
-        "sourceHost": "economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-09-29T19:43:12.000Z",
-        "publishedLabel": "September 30, 2026",
-        "category": "Industry Update",
-        "image": "https://img.etimg.com/thumb/msid-134573611,width-1200,height-900,imgsize-82464,overlay-economictimes/articleshow.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/chryscapital-to-take-minority-stake-in-linux-laboratories/articleshow/134573591.cms",
-        "articlePath": "/article.html?issue=2026-09-27&article=2026-09-27-chryscapital-to-take-minority-stake-in-linux-laboratories"
       },
       {
         "id": "2026-09-27-from-jab-to-pills-novo-nordisk-eli-lilly-set-to-take-obesity-drug-battle",
@@ -304,14 +287,6 @@
     },
     {
       "segment": "pharma",
-      "articleId": "2026-09-27-chryscapital-to-take-minority-stake-in-linux-laboratories",
-      "title": "ChrysCapital to take minority stake in Linux laboratories",
-      "source": "Economic Times Pharma",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
-      "segment": "pharma",
       "articleId": "2026-09-27-from-jab-to-pills-novo-nordisk-eli-lilly-set-to-take-obesity-drug-battle",
       "title": "From Jab to Pills: Novo Nordisk, Eli Lilly set to take obesity drug battle to India",
       "source": "Economic Times Pharma",
@@ -322,6 +297,14 @@
       "segment": "pharma",
       "articleId": "2026-09-27-govt-extends-import-price-curbs-on-two-pharma-raw-materials",
       "title": "Govt extends import price curbs on two pharma raw materials",
+      "source": "Economic Times Pharma",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "pharma",
+      "articleId": "2026-09-27-maharashtra-fda-cancels-cipla-s-pune-warehouse-licences-over-reactin-plu",
+      "title": "Maharashtra FDA cancels Cipla's Pune warehouse licences over Reactin Plus packaging claims",
       "source": "Economic Times Pharma",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
