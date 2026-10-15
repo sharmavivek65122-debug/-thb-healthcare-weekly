@@ -5,7 +5,7 @@
   "startDate": "2026-09-26T18:30:00.000Z",
   "endDate": "2026-10-02T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-10-14T18:07:52.928Z",
+  "updatedAt": "2026-10-15T09:17:36.973Z",
   "coverage": {
     "pharma": 8,
     "providers": 4,
@@ -74,23 +74,6 @@
         "articlePath": "/article.html?issue=2026-09-27&article=2026-09-27-from-jab-to-pills-novo-nordisk-eli-lilly-set-to-take-obesity-drug-battle"
       },
       {
-        "id": "2026-09-27-govt-extends-import-price-curbs-on-two-pharma-raw-materials",
-        "title": "Govt extends import price curbs on two pharma raw materials",
-        "summary": "The Directorate General of Foreign Trade has announced an extension of the minimum import price validity period. This extension will apply to two pharmaceutical raw materials, namely ATS-8 and Sulfadiazine API. The minimum import price for ATS-8 will be set...",
-        "source": "Economic Times Pharma",
-        "sourceHost": "economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-09-30T15:15:16.000Z",
-        "publishedLabel": "September 30, 2026",
-        "category": "Industry Update",
-        "image": "https://img.etimg.com/thumb/msid-134597728,width-1200,height-900,imgsize-68442,overlay-economictimes/articleshow.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/govt-extends-import-price-curbs-on-two-pharma-raw-materials/articleshow/134597668.cms",
-        "articlePath": "/article.html?issue=2026-09-27&article=2026-09-27-govt-extends-import-price-curbs-on-two-pharma-raw-materials"
-      },
-      {
         "id": "2026-09-27-maharashtra-fda-cancels-cipla-s-pune-warehouse-licences-over-reactin-plu",
         "title": "Maharashtra FDA cancels Cipla's Pune warehouse licences over Reactin Plus packaging claims",
         "summary": "Maharashtra's Food and Drug Administration has cancelled Cipla Pharma's distribution licenses due to serious violations. The FDA discovered irregularities with Reactin Plus Tablets, including misbranding and unsafe storage practices. Following inspections, it...",
@@ -106,6 +89,23 @@
         "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/maharashtra-fda-cancels-cipla-warehouse-licences-over-drug-violations/articleshow/134641214.cms",
         "articlePath": "/article.html?issue=2026-09-27&article=2026-09-27-maharashtra-fda-cancels-cipla-s-pune-warehouse-licences-over-reactin-plu"
+      },
+      {
+        "id": "2026-09-27-johnson-and-johnson-announces-new-icotyde-icotrokinra-data-in-difficult-",
+        "title": "Johnson & Johnson announces new ICOTYDE® (icotrokinra) data in difficult-to-treat plaque psoriasis with proven durability through 2-years, affirming its use as a powerful first line systemic therapy",
+        "summary": "• Revolutionary IL-23R targeted oral peptide delivers sustained skin clearance and a favorable safety profile in patients with psoriasis affecting sensitive, highly visible areas of the body • 60% of patients with scalp psoriasis and 89% with genital...",
+        "source": "Janssen India Media",
+        "sourceHost": "janssen.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-10-02T04:42:35.575Z",
+        "publishedLabel": "October 2, 2026",
+        "category": "Industry Update",
+        "image": "https://jnj-content-lab2.brightspotcdn.com/ac/25/bd2078f54d5992dd486ed26140ce/johnson-johnson-logo.svg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": false,
+        "originalUrl": "https://www.jnj.com/media-center/press-releases/johnson-johnson-announces-new-icotyde-icotrokinra-data-in-difficult-to-treat-plaque-psoriasis-with-proven-durability-through-2-years-affirming-its-use-as-a-powerful-first-line-systemic-therapy",
+        "articlePath": "/article.html?issue=2026-09-27&article=2026-09-27-johnson-and-johnson-announces-new-icotyde-icotrokinra-data-in-difficult-"
       },
       {
         "id": "2026-09-27-johnson-and-johnson-presents-new-data-reinforcing-sustained-disease-cont",
@@ -277,17 +277,17 @@
     },
     {
       "segment": "pharma",
-      "articleId": "2026-09-27-govt-extends-import-price-curbs-on-two-pharma-raw-materials",
-      "title": "Govt extends import price curbs on two pharma raw materials",
+      "articleId": "2026-09-27-maharashtra-fda-cancels-cipla-s-pune-warehouse-licences-over-reactin-plu",
+      "title": "Maharashtra FDA cancels Cipla's Pune warehouse licences over Reactin Plus packaging claims",
       "source": "Economic Times Pharma",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
     },
     {
       "segment": "pharma",
-      "articleId": "2026-09-27-maharashtra-fda-cancels-cipla-s-pune-warehouse-licences-over-reactin-plu",
-      "title": "Maharashtra FDA cancels Cipla's Pune warehouse licences over Reactin Plus packaging claims",
-      "source": "Economic Times Pharma",
+      "articleId": "2026-09-27-johnson-and-johnson-announces-new-icotyde-icotrokinra-data-in-difficult-",
+      "title": "Johnson & Johnson announces new ICOTYDE® (icotrokinra) data in difficult-to-treat plaque psoriasis with proven durability through 2-years, affirming its use as a powerful first line systemic therapy",
+      "source": "Janssen India Media",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
     },
