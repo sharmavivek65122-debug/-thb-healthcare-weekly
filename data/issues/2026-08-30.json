@@ -5,10 +5,10 @@
   "startDate": "2026-08-29T18:30:00.000Z",
   "endDate": "2026-09-04T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-10-15T09:17:36.973Z",
+  "updatedAt": "2026-10-15T17:50:49.148Z",
   "coverage": {
     "pharma": 0,
-    "providers": 9,
+    "providers": 8,
     "diagnostics": 3,
     "healthtech": 0
   },
@@ -19,23 +19,6 @@
   "segments": {
     "pharma": [],
     "providers": [
-      {
-        "id": "2026-08-30-aig-hospitals-to-invest-rs-2000-crore-in-vizag",
-        "title": "AIG Hospitals to invest Rs 2000 crore in Vizag",
-        "summary": "AIG Hospitals, part of the Asian Institute of Gastroenterology, will also establish a nursing college on 2.5 acres. The campus will integrate healthcare, medical education, training and research, besides providing facilities for patients and their attendants.",
-        "source": "ET Healthworld Hospitals",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-08-31T01:21:57.000Z",
-        "publishedLabel": "August 31, 2026",
-        "category": "Hospital",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-133639225,imgsize-65766,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/aig-hospitals-to-invest-rs-2000-crore-in-vizag.jpg",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/aig-hospitals-to-invest-rs-2000-crore-in-vizag/133639225",
-        "articlePath": "/article.html?issue=2026-08-30&article=2026-08-30-aig-hospitals-to-invest-rs-2000-crore-in-vizag"
-      },
       {
         "id": "2026-08-30-max-saket-adds-400-beds-emerges-as-delhi-s-largest-private-hospital-by-c",
         "title": "Max Saket adds 400 beds, emerges as Delhi’s largest private hospital by capacity",
@@ -231,14 +214,6 @@
   "thbActions": [
     {
       "segment": "providers",
-      "articleId": "2026-08-30-aig-hospitals-to-invest-rs-2000-crore-in-vizag",
-      "title": "AIG Hospitals to invest Rs 2000 crore in Vizag",
-      "source": "ET Healthworld Hospitals",
-      "solution": "THB Provider CRM",
-      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
-    },
-    {
-      "segment": "providers",
       "articleId": "2026-08-30-max-saket-adds-400-beds-emerges-as-delhi-s-largest-private-hospital-by-c",
       "title": "Max Saket adds 400 beds, emerges as Delhi’s largest private hospital by capacity",
       "source": "ET Healthworld Hospitals",
@@ -265,6 +240,14 @@
       "segment": "providers",
       "articleId": "2026-08-30-nadda-inaugurates-advanced-bladder-diagnostics-pet-ct-spect-ct-facilitie",
       "title": "Nadda inaugurates advanced bladder diagnostics, PET-CT, SPECT-CT facilities at Safdarjung Hospital",
+      "source": "ET Healthworld Hospitals",
+      "solution": "THB Provider CRM",
+      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
+    },
+    {
+      "segment": "providers",
+      "articleId": "2026-08-30-aiims-eye-bank-adds-three-hospitals-to-cornea-retrieval-network",
+      "title": "AIIMS eye bank adds three hospitals to cornea retrieval network",
       "source": "ET Healthworld Hospitals",
       "solution": "THB Provider CRM",
       "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
