@@ -5,15 +5,14 @@
   "startDate": "2026-10-10T18:30:00.000Z",
   "endDate": "2026-10-16T18:30:00.000Z",
   "status": "live",
-  "updatedAt": "2026-10-17T08:43:18.361Z",
+  "updatedAt": "2026-10-17T16:36:27.577Z",
   "coverage": {
-    "pharma": 38,
-    "providers": 16,
+    "pharma": 36,
+    "providers": 14,
     "diagnostics": 5,
     "healthtech": 1
   },
   "sourcesUsed": [
-    "BioSpectrum Asia Middle East",
     "ET Healthworld",
     "ET Healthworld Diagnostics",
     "ET Healthworld Hospitals",
@@ -44,6 +43,23 @@
         "articlePath": "/article.html?issue=2026-10-11&article=2026-10-11-indian-pharma-s-risk-aversion-holding-back-innovation-kiran-mazumdar-sha"
       },
       {
+        "id": "2026-10-11-nppa-caps-trade-margins-on-137-cancer-drugs-at-30-revised-prices-from-no",
+        "title": "NPPA caps trade margins on 137 cancer drugs at 30%, revised prices from Nov 9",
+        "summary": "India's National Pharmaceutical Pricing Authority has capped trade margins for 137 anti-cancer drugs at 30% of their maximum retail price. This cap, effective from November 9, applies to all listed drugs, including Atezolizumab and Bevacizumab. Manufacturers...",
+        "source": "Economic Times Pharma",
+        "sourceHost": "economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-10-17T14:22:02.000Z",
+        "publishedLabel": "October 17, 2026",
+        "category": "Industry Update",
+        "image": "https://img.etimg.com/thumb/msid-135015821,width-1200,height-900,imgsize-84552,overlay-economictimes/articleshow.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/nppa-caps-trade-margins-on-137-cancer-drugs-at-30-revised-prices-from-nov-9/articleshow/135015811.cms",
+        "articlePath": "/article.html?issue=2026-10-11&article=2026-10-11-nppa-caps-trade-margins-on-137-cancer-drugs-at-30-revised-prices-from-no"
+      },
+      {
         "id": "2026-10-11-niti-aayog-explores-policies-to-boost-india-s-medical-and-dental-device-",
         "title": "NITI Aayog explores policies to boost India's medical and dental device manufacturing industry",
         "summary": "NITI Aayog is exploring policy measures to improve the manufacturing capabilities of medical and dental devices in India. The meeting included domestic manufacturers, government officials, and experts from IIT Delhi and IIT Mumbai. Key challenges such as...",
@@ -56,7 +72,7 @@
         "category": "Manufacturing",
         "image": "https://etimg.etb2bimg.com/thumb/msid-135005857,imgsize-221484,width-1200,height=627,overlay-ethealth,resizemode-75/policy/niti-aayog-explores-policies-to-boost-indias-medical-and-dental-device-manufacturing-industry.jpg",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/policy/niti-aayog-explores-policies-to-boost-indias-medical-and-dental-device-manufacturing-industry/135005857",
         "articlePath": "/article.html?issue=2026-10-11&article=2026-10-11-niti-aayog-explores-policies-to-boost-india-s-medical-and-dental-device-"
       },
@@ -158,9 +174,26 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-135005883,imgsize-54239,width-1200,height=627,overlay-ethealth,resizemode-75/industry/glucose-monitoring-devices-for-type-2-diabetes-benefit-even-those-not-on-insulin.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/glucose-monitoring-devices-for-type-2-diabetes-benefit-even-those-not-on-insulin/135005883",
         "articlePath": "/article.html?issue=2026-10-11&article=2026-10-11-glucose-monitoring-devices-for-type-2-diabetes-benefit-even-those-not-on"
+      },
+      {
+        "id": "2026-10-11-fortis-says-corrective-measures-underway-after-maharashtra-fda-suspends-",
+        "title": "Fortis says corrective measures underway after Maharashtra FDA suspends kitchen licence",
+        "summary": "Fortis Hospital, Mulund, said it is working with its third-party catering provider to address food safety concerns flagged by the Maharashtra FDA and is making alternative arrangements, wherever required, to ensure uninterrupted meals for patients and...",
+        "source": "ET Healthworld",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-10-17T15:41:15.000Z",
+        "publishedLabel": "October 17, 2026",
+        "category": "Industry Update",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-135016559,imgsize-89535,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/fortis-says-corrective-measures-underway-after-maharashtra-fda-suspends-kitchen-licence.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/fortis-says-corrective-measures-underway-after-maharashtra-fda-suspends-kitchen-licence/135016559",
+        "articlePath": "/article.html?issue=2026-10-11&article=2026-10-11-fortis-says-corrective-measures-underway-after-maharashtra-fda-suspends-"
       },
       {
         "id": "2026-10-11-icmr-picks-7-centres-to-develop-priority-medical-devices-diagnostics",
@@ -299,23 +332,6 @@
         "articlePath": "/article.html?issue=2026-10-11&article=2026-10-11-nppa-recruitment-2026-seven-vacancies-monthly-pay-up-to-rs-65000"
       },
       {
-        "id": "2026-10-11-world-health-expo-to-showcase-trillion-dollar-growth-across-pharma-biote",
-        "title": "World Health Expo to showcase trillion-dollar growth across pharma, biotech, longevity and wellness at 2027 edition",
-        "summary": "World Health Expo 2027 expands into pharma, biotech, longevity and wellness, bringing healthcare leaders and investors together in Dubai on 25–28 January.",
-        "source": "BioSpectrum Asia Middle East",
-        "sourceHost": "biospectrumasia.com",
-        "region": "Middle East",
-        "country": "United Arab Emirates",
-        "publishedAt": "2026-10-14T18:30:00.000Z",
-        "publishedLabel": "October 15, 2026",
-        "category": "Industry Update",
-        "image": "https://www.biospectrumasia.com/uploads/articles/whx_dubai_2027_white_3_-28534.png?v=20261015212046",
-        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": false,
-        "originalUrl": "https://www.biospectrumasia.com/news/25/28534/world-health-expo-to-showcase-trillion-dollar-growth-across-pharma-biotech-longevity-and-wellness-at-2027-edition.html",
-        "articlePath": "/article.html?issue=2026-10-11&article=2026-10-11-world-health-expo-to-showcase-trillion-dollar-growth-across-pharma-biote"
-      },
-      {
         "id": "2026-10-11-nppa-issues-rs-52-75-crore-demand-notice-to-akums-drugs-subsidiary-heter",
         "title": "NPPA Issues Rs 52.75 Crore Demand Notice to Akums Drugs Subsidiary, Hetero, Abaris Over Lanol Injection",
         "summary": "New Delhi: The National Pharmaceutical Pricing Authority (NPPA) has issued a demand notice totalling Rs 527468193 to Hetero Healthcare Limited, Pure and Cure Healthcare Private Limited and Abaris...",
@@ -328,7 +344,7 @@
         "category": "Industry Update",
         "image": "https://medicaldialogues.in/h-upload/2024/04/08/235832-injection-50-1.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/nppa-issues-rs-5275-crore-demand-notice-to-akums-drugs-subsidiary-hetero-abaris-over-lanol-injection-181464",
         "articlePath": "/article.html?issue=2026-10-11&article=2026-10-11-nppa-issues-rs-52-75-crore-demand-notice-to-akums-drugs-subsidiary-heter"
       },
@@ -486,40 +502,6 @@
         "articlePath": "/article.html?issue=2026-10-11&article=2026-10-11-biontech-s-experimental-cancer-therapy-fails-key-trial-goal"
       },
       {
-        "id": "2026-10-11-cinfa-opens-uae-scientific-office-to-advance-pharmaceutical-localization",
-        "title": "Cinfa opens UAE Scientific Office to advance pharmaceutical localization | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
-        "summary": "The approach will allow Cinfa to build its regional operations incrementally while developing expertise and infrastructure within the UAE.",
-        "source": "Healthcare MEA",
-        "sourceHost": "healthcaremea.com",
-        "region": "Middle East",
-        "country": "United Arab Emirates",
-        "publishedAt": "2026-10-16T08:37:29.000Z",
-        "publishedLabel": "October 16, 2026",
-        "category": "Manufacturing",
-        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/10/image-1600x900-2026-10-16T113501.484.png",
-        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": false,
-        "originalUrl": "https://www.healthcaremea.com/2026/10/16/cinfa-opens-uae-scientific-office-to-advance-pharmaceutical-localization/",
-        "articlePath": "/article.html?issue=2026-10-11&article=2026-10-11-cinfa-opens-uae-scientific-office-to-advance-pharmaceutical-localization"
-      },
-      {
-        "id": "2026-10-11-kenya-mobilises-ebola-supplies-as-health-ministry-strengthens-outbreak-p",
-        "title": "Kenya mobilises Ebola supplies as health ministry strengthens outbreak preparedness | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
-        "summary": "The Ministry of Health will coordinate distribution to counties, while the Mission for Essential Drugs and Supplies will deliver the commodities after allocations are confirmed.",
-        "source": "Healthcare MEA",
-        "sourceHost": "healthcaremea.com",
-        "region": "Middle East",
-        "country": "Middle East",
-        "publishedAt": "2026-10-16T08:16:06.000Z",
-        "publishedLabel": "October 16, 2026",
-        "category": "Manufacturing",
-        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/10/image-1600x900-2026-10-16T110918.425.png",
-        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": false,
-        "originalUrl": "https://www.healthcaremea.com/2026/10/16/kenya-mobilises-ebola-supplies-as-health-ministry-strengthens-outbreak-preparedness/",
-        "articlePath": "/article.html?issue=2026-10-11&article=2026-10-11-kenya-mobilises-ebola-supplies-as-health-ministry-strengthens-outbreak-p"
-      },
-      {
         "id": "2026-10-11-gilead-vir-biotechnology-sign-usd-1-88-billion-deal-to-develop-cancer-tr",
         "title": "Gilead, Vir Biotechnology Sign USD 1.88 Billion Deal to Develop Cancer Treatments",
         "summary": "Bengaluru: Vir Biotechnology said on Wednesday it had signed a collaboration agreement worth up to USD 1.88 billion with Gilead Sciences to discover and develop new cancer treatments for solid...",
@@ -535,23 +517,6 @@
         "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/gilead-vir-biotechnology-sign-usd-188-billion-deal-to-develop-cancer-treatments-181355",
         "articlePath": "/article.html?issue=2026-10-11&article=2026-10-11-gilead-vir-biotechnology-sign-usd-1-88-billion-deal-to-develop-cancer-tr"
-      },
-      {
-        "id": "2026-10-11-purehealth-retains-msci-aaa-esg-rating-as-2025-sustainability-investment",
-        "title": "PureHealth retains MSCI AAA ESG rating as 2025 sustainability investment expands | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
-        "summary": "Its 2025 Sustainability and Social Impact Report outlines performance against its environmental targets, social investment commitments and economic development priorities.",
-        "source": "Healthcare MEA",
-        "sourceHost": "healthcaremea.com",
-        "region": "Middle East",
-        "country": "United Arab Emirates",
-        "publishedAt": "2026-10-16T08:20:48.000Z",
-        "publishedLabel": "October 16, 2026",
-        "category": "Manufacturing",
-        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/10/image-1600x900-2026-10-16T111734.176.png",
-        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": false,
-        "originalUrl": "https://www.healthcaremea.com/2026/10/16/purehealth-retains-msci-aaa-esg-rating-as-2025-sustainability-investment-expands/",
-        "articlePath": "/article.html?issue=2026-10-11&article=2026-10-11-purehealth-retains-msci-aaa-esg-rating-as-2025-sustainability-investment"
       },
       {
         "id": "2026-10-11-cipla-recalls-uti-treatment-drug-fosfomycin-tromethamine-granules-in-us",
@@ -675,23 +640,6 @@
     ],
     "providers": [
       {
-        "id": "2026-10-11-pb-health-opens-first-hospital-in-gurugram",
-        "title": "PB Health opens first hospital in Gurugram",
-        "summary": "The 100-bed multispecialty hospital marks PB Health’s entry into physical healthcare delivery, as the company looks to build a hospital network across Delhi-NCR and expand nationally through acquisitions and franchise partnerships.",
-        "source": "ET Healthworld Hospitals",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-10-14T09:48:32.000Z",
-        "publishedLabel": "October 14, 2026",
-        "category": "Hospital",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-134938265,imgsize-241542,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/pb-health-opens-first-hospital-in-gurugram.jpg",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/pb-health-opens-first-hospital-in-gurugram/134938265",
-        "articlePath": "/article.html?issue=2026-10-11&article=2026-10-11-pb-health-opens-first-hospital-in-gurugram"
-      },
-      {
         "id": "2026-10-11-novo-holdings-gic-axight-look-to-back-aig-hospitals-founders-aim-to-pare",
         "title": "Novo Holdings, GIC, Axight look to back AIG Hospitals; Founders aim to pare 10-12% stake at Rs 24,000 cr val..",
         "summary": "Novo Holdings and GIC are discussing investing Rs 2,000-2,500 crore in AIG Hospitals based in Hyderabad. The investment reflects a growing interest among private equity firms in Indian healthcare. Founders of AIG Hospitals, Duvvur Nageshwar Reddy and Penmetsa...",
@@ -755,7 +703,7 @@
         "category": "Hospital",
         "image": "https://etimg.etb2bimg.com/thumb/msid-134963013,imgsize-159070,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/lilavati-hospital-launches-da-vinci-xi-surgical-robot-system.jpg",
         "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/lilavati-hospital-launches-da-vinci-xi-surgical-robot-system/134963013",
         "articlePath": "/article.html?issue=2026-10-11&article=2026-10-11-lilavati-hospital-launches-da-vinci-xi-surgical-robot-system"
       },
@@ -925,26 +873,9 @@
         "category": "AI Care Delivery",
         "image": "https://media.zawya.com/prod/images/gm_preview/f0a7965d216e-2026-09-21t094937z1226425608rc2lnnau5kxwrtrmadp3emirates-tourism-emaar-1.jpg",
         "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.zawya.com/en/business/uae-realty-market/emaars-sales-backlog-stands-at-around-49bln-collection-rate-at-98-1694608",
         "articlePath": "/article.html?issue=2026-10-11&article=2026-10-11-emaar-s-sales-backlog-stands-at-around-49bln-collection-rate-at-98"
-      },
-      {
-        "id": "2026-10-11-gulf-cost-edge-keeps-chemical-buyers-hooked-despite-hormuz-risks",
-        "title": "Gulf cost edge keeps chemical buyers hooked despite Hormuz risks",
-        "summary": "Diversification is rising, not replacement",
-        "source": "Zawya Pharmaceuticals",
-        "sourceHost": "zawya.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-10-15T15:35:52.042Z",
-        "publishedLabel": "October 15, 2026",
-        "category": "Provider Update",
-        "image": "https://assets.zawya.com/prod/assets/arrow-down-fill.d30923dc.svg",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
-        "originalUrl": "https://www.zawya.com/en/business/middle-east/gulf-cost-edge-keeps-chemical-buyers-hooked-despite-hormuz-risks-1684066",
-        "articlePath": "/article.html?issue=2026-10-11&article=2026-10-11-gulf-cost-edge-keeps-chemical-buyers-hooked-despite-hormuz-risks"
       }
     ],
     "diagnostics": [
@@ -995,7 +926,7 @@
         "category": "Industry Update",
         "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/10/16142501/EH_Dr_Huzaifa_Khorakiwala_Trustee_CEO_Wockhardt_Foundation_750.jpg",
         "thbAction": "Use this signal to position THB for diagnostics network expansion, channel partner onboarding, and visibility across spoke sites, franchises, and enterprise accounts.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/news/india-has-built-the-healthcare-network-now-it-must-build-the-last-mile/455592/",
         "articlePath": "/article.html?issue=2026-10-11&article=2026-10-11-india-has-built-the-healthcare-network-now-it-must-build-the-last-mile"
       },
@@ -1065,6 +996,14 @@
     },
     {
       "segment": "pharma",
+      "articleId": "2026-10-11-nppa-caps-trade-margins-on-137-cancer-drugs-at-30-revised-prices-from-no",
+      "title": "NPPA caps trade margins on 137 cancer drugs at 30%, revised prices from Nov 9",
+      "source": "Economic Times Pharma",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "pharma",
       "articleId": "2026-10-11-niti-aayog-explores-policies-to-boost-india-s-medical-and-dental-device-",
       "title": "NITI Aayog explores policies to boost India's medical and dental device manufacturing industry",
       "source": "ET Healthworld",
@@ -1086,22 +1025,6 @@
       "source": "ET Healthworld",
       "solution": "THB Commercial Analytics",
       "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
-    },
-    {
-      "segment": "pharma",
-      "articleId": "2026-10-11-panel-to-finalise-cancer-drugs-for-30-trade-margin-cap-rs-2-500-crore-an",
-      "title": "Panel to finalise cancer drugs for 30% trade margin cap; Rs 2,500 crore annual savings possible",
-      "source": "Economic Times Pharma",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
-      "segment": "providers",
-      "articleId": "2026-10-11-pb-health-opens-first-hospital-in-gurugram",
-      "title": "PB Health opens first hospital in Gurugram",
-      "source": "ET Healthworld Hospitals",
-      "solution": "THB Provider CRM",
-      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
     },
     {
       "segment": "providers",
@@ -1132,6 +1055,14 @@
       "articleId": "2026-10-11-lilavati-hospital-launches-da-vinci-xi-surgical-robot-system",
       "title": "Lilavati Hospital launches Da Vinci Xi surgical robot system",
       "source": "ET Healthworld Hospitals",
+      "solution": "THB Provider CRM",
+      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
+    },
+    {
+      "segment": "providers",
+      "articleId": "2026-10-11-india-needs-2-9-mn-additional-hospital-beds-by-2035-to-meet-the-global-b",
+      "title": "India needs 2.9 mn additional hospital beds by 2035 to meet the global benchmark: CBRE",
+      "source": "Express Healthcare",
       "solution": "THB Provider CRM",
       "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
     },
