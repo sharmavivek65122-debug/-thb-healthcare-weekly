@@ -5,10 +5,10 @@
   "startDate": "2026-10-17T18:30:00.000Z",
   "endDate": "2026-10-23T18:30:00.000Z",
   "status": "live",
-  "updatedAt": "2026-10-19T10:08:18.149Z",
+  "updatedAt": "2026-10-19T19:25:40.035Z",
   "coverage": {
-    "pharma": 18,
-    "providers": 4,
+    "pharma": 29,
+    "providers": 5,
     "diagnostics": 2,
     "healthtech": 0
   },
@@ -19,12 +19,30 @@
     "Economic Times Pharma",
     "Express Healthcare",
     "Healthcare MEA",
+    "Janssen India Media",
     "Lupin Updates",
     "Medical Dialogues Pharma",
     "Zawya Pharmaceuticals"
   ],
   "segments": {
     "pharma": [
+      {
+        "id": "2026-10-18-healthcare-pharma-hiring-requests-rise-20-pc-as-firms-seek-specialised-t",
+        "title": "Healthcare, pharma hiring requests rise 20 pc as firms seek specialised talent: Report",
+        "summary": "Professionals with 4-8 years of experience drove most demand, with regulatory affairs, data analytics, AI/ML, operational excellence, complex generic R&D, supply chain, and global capability centres (GCCs) emerging as key drivers, according to the report by...",
+        "source": "ET Healthworld",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-10-19T10:43:45.000Z",
+        "publishedLabel": "October 19, 2026",
+        "category": "Industry Update",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-135046536,imgsize-38646,width-1200,height=627,overlay-ethealth,resizemode-75/industry/healthcare-pharma-hiring-requests-rise-20-pc-as-firms-seek-specialised-talent-report.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/healthcare-pharma-hiring-requests-rise-20-pc-as-firms-seek-specialised-talent-report/135046536",
+        "articlePath": "/article.html?issue=2026-10-18&article=2026-10-18-healthcare-pharma-hiring-requests-rise-20-pc-as-firms-seek-specialised-t"
+      },
       {
         "id": "2026-10-18-natco-pharma-subsidiary-launches-carboplatin-in-us-market-to-address-sho",
         "title": "NATCO Pharma subsidiary launches Carboplatin in US market to address shortages",
@@ -38,9 +56,43 @@
         "category": "Manufacturing",
         "image": "https://img.etimg.com/thumb/msid-135045080,width-1200,height-900,imgsize-72026,overlay-economictimes/articleshow.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/natco-pharma-subsidiary-launches-carboplatin-in-us-market-to-address-shortages/articleshow/135044938.cms",
         "articlePath": "/article.html?issue=2026-10-18&article=2026-10-18-natco-pharma-subsidiary-launches-carboplatin-in-us-market-to-address-sho"
+      },
+      {
+        "id": "2026-10-18-rare-disease-patients-seek-pm-s-intervention-to-secure-additional-funds-",
+        "title": "Rare disease patients seek PM’s intervention to secure additional funds for treatment",
+        "summary": "LSDSS said patients with progressive, potentially life-threatening conditions were facing treatment interruptions after exhausting their sanctioned financial assistance.",
+        "source": "ET Healthworld",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-10-19T11:36:59.000Z",
+        "publishedLabel": "October 19, 2026",
+        "category": "Industry Update",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-135047625,imgsize-37340,width-1200,height=627,overlay-ethealth,resizemode-75/industry/rare-disease-patients-seek-pms-intervention-to-secure-additional-funds-for-treatment.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/rare-disease-patients-seek-pms-intervention-to-secure-additional-funds-for-treatment/135047625",
+        "articlePath": "/article.html?issue=2026-10-18&article=2026-10-18-rare-disease-patients-seek-pm-s-intervention-to-secure-additional-funds-"
+      },
+      {
+        "id": "2026-10-18-relief-for-cancer-patients-as-pet-ct-scan-comes-under-maharashtra-health",
+        "title": "Relief for cancer patients as PET-CT scan comes under Maharashtra health cover",
+        "summary": "The public health department issued a govt resolution (GR) on Oct 15 adding PET-CT as an “add-on diagnostic procedure” in 63 cancer treatment packages, up from 44 earlier. It will now be available as a standalone or primary diagnostic procedure for 13 cancer...",
+        "source": "ET Healthworld",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-10-19T10:46:17.000Z",
+        "publishedLabel": "October 19, 2026",
+        "category": "Industry Update",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-135046680,imgsize-100238,width-1200,height=627,overlay-ethealth,resizemode-75/policy/relief-for-cancer-patients-as-pet-ct-scan-comes-under-maharashtra-health-cover.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/policy/relief-for-cancer-patients-as-pet-ct-scan-comes-under-maharashtra-health-cover/135046680",
+        "articlePath": "/article.html?issue=2026-10-18&article=2026-10-18-relief-for-cancer-patients-as-pet-ct-scan-comes-under-maharashtra-health"
       },
       {
         "id": "2026-10-18-fssai-issues-notices-to-nestle-india-hindustan-unilever-for-misleading-c",
@@ -55,7 +107,7 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-135032171,imgsize-114143,width-1200,height=627,overlay-ethealth,resizemode-75/policy/fssai-issues-notices-to-nestle-india-hindustan-unilever-for-misleading-claims.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/policy/fssai-issues-notices-to-nestle-india-hindustan-unilever-for-misleading-claims/135032171",
         "articlePath": "/article.html?issue=2026-10-18&article=2026-10-18-fssai-issues-notices-to-nestle-india-hindustan-unilever-for-misleading-c"
       },
@@ -72,7 +124,7 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-135041910,imgsize-76362,width-1200,height=627,overlay-ethealth,resizemode-75/industry/hospitals-body-backs-nmc-move-on-remote-authentication-of-medical-records.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/hospitals-body-backs-nmc-move-on-remote-authentication-of-medical-records/135041910",
         "articlePath": "/article.html?issue=2026-10-18&article=2026-10-18-hospitals-body-backs-nmc-move-on-remote-authentication-of-medical-record"
       },
@@ -89,7 +141,7 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-135041139,imgsize-111615,width-1200,height=627,overlay-ethealth,resizemode-75/policy/meity-backed-conclave-explores-ai-applications-in-healthcare-assistive-technologies.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/policy/meity-backed-conclave-explores-ai-applications-in-healthcare-assistive-technologies/135041139",
         "articlePath": "/article.html?issue=2026-10-18&article=2026-10-18-meity-backed-conclave-explores-ai-applications-in-healthcare-assistive-t"
       },
@@ -111,6 +163,40 @@
         "articlePath": "/article.html?issue=2026-10-18&article=2026-10-18-zydus-presents-saroglitazar-analysis-from-epics-iii-trial-at-acg-2026"
       },
       {
+        "id": "2026-10-18-cdsco-clears-lupin-to-manufacture-market-nivolumab-biosimilar-for-cancer",
+        "title": "CDSCO Clears Lupin to Manufacture, Market Nivolumab Biosimilar for Cancer Treatment",
+        "summary": "New Delhi: Lupin Limited has received approval to manufacture and market a biosimilar version of nivolumab, Bristol Myers Squibb's blockbuster cancer immunotherapy, in India.According to the recent...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-10-19T13:15:12.000Z",
+        "publishedLabel": "October 19, 2026",
+        "category": "Approval",
+        "image": "https://medicaldialogues.in/h-upload/2024/01/15/230110-lupin-50-2.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/cdsco-clears-lupin-to-manufacture-market-nivolumab-biosimilar-for-cancer-treatment-181639",
+        "articlePath": "/article.html?issue=2026-10-18&article=2026-10-18-cdsco-clears-lupin-to-manufacture-market-nivolumab-biosimilar-for-cancer"
+      },
+      {
+        "id": "2026-10-18-natco-pharma-launches-generic-carboplatin-injection-in-us",
+        "title": "NATCO Pharma Launches Generic Carboplatin Injection in US",
+        "summary": "Hyderabad: NATCO Pharma Limited has announced the launch of Carboplatin Injection, a generic version of Paraplatin, in the US market through its US subsidiary, NATCO Pharma USA LLC.The product is...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-10-19T13:47:25.000Z",
+        "publishedLabel": "October 19, 2026",
+        "category": "Market",
+        "image": "https://medicaldialogues.in/h-upload/2024/11/16/260985-natco-pharma-50-1.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/natco-pharma-launches-generic-carboplatin-injection-in-us-181634",
+        "articlePath": "/article.html?issue=2026-10-18&article=2026-10-18-natco-pharma-launches-generic-carboplatin-injection-in-us"
+      },
+      {
         "id": "2026-10-18-orbimed-raises-us-3b-across-two-funds-to-back-global-life-sciences-compa",
         "title": "OrbiMed raises US$3B across two funds to back global life sciences companies | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
         "summary": "The firm secured capital from a broad investor base, including medical institutions, pension funds, family offices, sovereign wealth funds and university endowments.",
@@ -123,7 +209,7 @@
         "category": "Manufacturing",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/10/image-1600x900-2026-10-19T113702.030.png",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/10/19/orbimed-raises-us3b-across-two-funds-to-back-global-life-sciences-companies/",
         "articlePath": "/article.html?issue=2026-10-18&article=2026-10-18-orbimed-raises-us-3b-across-two-funds-to-back-global-life-sciences-compa"
       },
@@ -140,7 +226,7 @@
         "category": "Manufacturing",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/10/image-1600x900-2026-10-19T111602.865.png",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/10/19/astrazeneca-strikes-us1-5b-ai-drug-discovery-deal-with-insitro-for-cardiometabolic-diseases/",
         "articlePath": "/article.html?issue=2026-10-18&article=2026-10-18-astrazeneca-strikes-us-1-5b-deal-with-insitro-for-cardiometabolic-diseas"
       },
@@ -157,9 +243,26 @@
         "category": "Manufacturing",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/10/image-1600x900-2026-10-19T115353.171.png",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/10/19/gilead-strikes-us1-9b-deal-with-vir-to-develop-solid-tumour-cancer-therapies/",
         "articlePath": "/article.html?issue=2026-10-18&article=2026-10-18-gilead-strikes-us-1-9b-deal-with-vir-to-develop-solid-tumour-cancer-ther"
+      },
+      {
+        "id": "2026-10-18-johnson-and-johnson-announces-new-data-showing-tremfya-guselkumab-is-the",
+        "title": "Johnson & Johnson announces new data showing TREMFYA® (guselkumab) is the only IL-23 to deliver durable fistula remission through 48 weeks in Crohn’s disease with perianal fistula",
+        "summary": "· TREMFYA maintained combined fistula remission through Week 48 across both maintenance dose regimens, including an increase from 28% at Week 24 to 35% at Week 48 in the 100 mg dose group · These findings build on the Phase 3 clinical program, demonstrating...",
+        "source": "Janssen India Media",
+        "sourceHost": "janssen.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-10-19T06:31:00.000Z",
+        "publishedLabel": "October 19, 2026",
+        "category": "Industry Update",
+        "image": "https://jnj-content-lab2.brightspotcdn.com/ac/25/bd2078f54d5992dd486ed26140ce/johnson-johnson-logo.svg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://www.jnj.com/media-center/press-releases/johnson-johnson-announces-new-data-showing-tremfya-guselkumab-is-the-only-il-23-to-deliver-durable-fistula-remission-through-48-weeks-in-crohns-disease-with-perianal-fistula",
+        "articlePath": "/article.html?issue=2026-10-18&article=2026-10-18-johnson-and-johnson-announces-new-data-showing-tremfya-guselkumab-is-the"
       },
       {
         "id": "2026-10-18-137-cancer-drugs-including-pembrolizumab-osimertinib-to-get-cheaper-pric",
@@ -191,7 +294,7 @@
         "category": "Manufacturing",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/10/image-1600x900-2026-10-19T114230.723.png",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/10/19/pfizer-inks-us500m-licensing-deal-with-enodia-therapeutics-for-sec61-inhibitors/",
         "articlePath": "/article.html?issue=2026-10-18&article=2026-10-18-pfizer-inks-us-500m-licensing-deal-with-enodia-therapeutics-for-sec61-in"
       },
@@ -208,7 +311,7 @@
         "category": "Industry Update",
         "image": "https://www.biospectrumasia.com/uploads/articles/images-28542.jpeg?v=20261019111042",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.biospectrumasia.com/news/25/28542/s2n-bio-begins-alzheimers-cell-therapy-technology-transfer-to-cell-therapies-melbourne-gmp-facility.html",
         "articlePath": "/article.html?issue=2026-10-18&article=2026-10-18-s2n-bio-begins-alzheimer-s-cell-therapy-technology-transfer-to-cell-ther"
       },
@@ -242,7 +345,7 @@
         "category": "Approval",
         "image": "https://medicaldialogues.in/h-upload/2022/11/01/189542-alembic-pharma-new.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/alembic-pharma-bags-usfda-approval-for-usd-110-million-generic-ear-infection-drug-181574",
         "articlePath": "/article.html?issue=2026-10-18&article=2026-10-18-alembic-pharma-bags-usfda-approval-for-usd-110-million-generic-ear-infec"
       },
@@ -293,7 +396,7 @@
         "category": "Industry Update",
         "image": "https://img.etimg.com/thumb/msid-135037280,width-1200,height-900,imgsize-337605,overlay-etmarkets/articleshow.jpg",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/markets/stocks/earnings/indias-pharmaceutical-companies-to-report-mixed-results-as-domestic-growth-offsets-pricing-pressures/articleshow/135037267.cms",
         "articlePath": "/article.html?issue=2026-10-18&article=2026-10-18-pharma-q2-outlook-pricing-pressure-us-competition-to-weigh-on-select-pla"
       },
@@ -315,6 +418,40 @@
         "articlePath": "/article.html?issue=2026-10-18&article=2026-10-18-olympus-to-launch-caddie-plus-ai-colonoscopy-solution-in-europe-in-novem"
       },
       {
+        "id": "2026-10-18-gujarat-pharma-firm-hit-by-cyberattack-rs-30-crore-ransom-demanded",
+        "title": "Gujarat Pharma Firm Hit by Cyberattack, Rs 30 Crore Ransom Demanded",
+        "summary": "Ahmedabad: A pharmaceutical company in Gujarat has reportedly been targeted in a major cyberattack, with hackers demanding a ransom of Rs 30 crore to restore access to compromised data.As per police...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-10-19T14:19:28.000Z",
+        "publishedLabel": "October 19, 2026",
+        "category": "Industry Update",
+        "image": "https://medicaldialogues.in/h-upload/2026/06/22/355517-cyber-fraud.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/gujarat-pharma-firm-hit-by-cyberattack-rs-30-crore-ransom-demanded-181638",
+        "articlePath": "/article.html?issue=2026-10-18&article=2026-10-18-gujarat-pharma-firm-hit-by-cyberattack-rs-30-crore-ransom-demanded"
+      },
+      {
+        "id": "2026-10-18-torrent-pharma-executive-director-amal-kelshikar-resigns",
+        "title": "Torrent Pharma Executive Director Amal Kelshikar Resigns",
+        "summary": "Ahmedabad: Torrent Pharmaceuticals Limited has announced the resignation of Amal Kelshikar from the position of Executive Director and Senior Management Personnel (SMP), effective from the close of...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-10-19T12:18:56.000Z",
+        "publishedLabel": "October 19, 2026",
+        "category": "Industry Update",
+        "image": "https://medicaldialogues.in/h-upload/2023/01/11/197479-torrent-pharma-3.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/torrent-pharma-executive-director-amal-kelshikar-resigns-181628",
+        "articlePath": "/article.html?issue=2026-10-18&article=2026-10-18-torrent-pharma-executive-director-amal-kelshikar-resigns"
+      },
+      {
         "id": "2026-10-18-evonile-pharma-approves-fundraising-of-up-to-rs-900-crore-through-rights",
         "title": "Evonile Pharma Approves Fundraising of Up to Rs 900 Crore Through Rights Issue",
         "summary": "Mumbai: Evonile Pharma Limited, formerly known as Novartis India Limited, has approved a proposal to raise funds of up to Rs 900 crore through a rights issue of partly paid-up equity shares.The...",
@@ -330,6 +467,57 @@
         "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/evonile-pharma-approves-fundraising-of-up-to-rs-900-crore-through-rights-issue-181528",
         "articlePath": "/article.html?issue=2026-10-18&article=2026-10-18-evonile-pharma-approves-fundraising-of-up-to-rs-900-crore-through-rights"
+      },
+      {
+        "id": "2026-10-18-eu-medicines-agency-recommends-revolution-medicines-rasonque-for-advance",
+        "title": "EU Medicines Agency Recommends Revolution Medicines' Rasonque for Advanced Pancreatic Cancer",
+        "summary": "Bengaluru: A European Medicines Agency committee on Thursday recommended approval of Revolution Medicines' Rasonque in the EU for adults with pancreatic cancer that has spread and worsened after at...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-10-19T12:12:14.000Z",
+        "publishedLabel": "October 19, 2026",
+        "category": "Approval",
+        "image": "https://medicaldialogues.in/h-upload/2026/05/05/345465-revolution-medicines.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/eu-medicines-agency-recommends-revolution-medicines-rasonque-for-advanced-pancreatic-cancer-181627",
+        "articlePath": "/article.html?issue=2026-10-18&article=2026-10-18-eu-medicines-agency-recommends-revolution-medicines-rasonque-for-advance"
+      },
+      {
+        "id": "2026-10-18-novartis-terminates-mid-stage-fabhalta-trial-for-lupus-nephritis",
+        "title": "Novartis Terminates Mid-Stage Fabhalta Trial for Lupus Nephritis",
+        "summary": "Bengaluru: Swiss drugmaker Novartis has terminated a mid-stage study testing its drug Fabhalta in patients with a serious kidney condition, citing \"strategic considerations\", according to a federal...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-10-19T12:04:54.000Z",
+        "publishedLabel": "October 19, 2026",
+        "category": "Industry Update",
+        "image": "https://medicaldialogues.in/h-upload/2024/02/17/232451-novartis-50.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/novartis-terminates-mid-stage-fabhalta-trial-for-lupus-nephritis-181624",
+        "articlePath": "/article.html?issue=2026-10-18&article=2026-10-18-novartis-terminates-mid-stage-fabhalta-trial-for-lupus-nephritis"
+      },
+      {
+        "id": "2026-10-18-dubai-s-gdp-reaches-129bln-in-h1-2026",
+        "title": "Dubai's GDP reaches $129bln in H1 2026",
+        "summary": "The H1 2026 results showed continued expansion in financial and insurance activities, which recorded 8.8% real growth",
+        "source": "Zawya Pharmaceuticals",
+        "sourceHost": "zawya.com",
+        "region": "Middle East",
+        "country": "United Arab Emirates",
+        "publishedAt": "2026-10-19T03:22:07.011Z",
+        "publishedLabel": "October 19, 2026",
+        "category": "Industry Update",
+        "image": "https://media.zawya.com/prod/images/gm_preview/edfeb9836cce-gettyimages-1309800132.jpg",
+        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
+        "justIn": true,
+        "originalUrl": "https://www.zawya.com/en/economy/dubais-gdp-reaches-129bln-in-h1-2026-1739504",
+        "articlePath": "/article.html?issue=2026-10-18&article=2026-10-18-dubai-s-gdp-reaches-129bln-in-h1-2026"
       }
     ],
     "providers": [
@@ -383,6 +571,23 @@
         "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/10/19/rwanda-plans-nationwide-expansion-of-legal-abortion-services-after-health-centre-pilot/",
         "articlePath": "/article.html?issue=2026-10-18&article=2026-10-18-rwanda-plans-nationwide-expansion-of-legal-abortion-services-after-healt"
+      },
+      {
+        "id": "2026-10-18-mideast-stocks-oil-lifts-saudi-bourse-egypt-tumbles-on-regional-tensions",
+        "title": "Mideast Stocks: Oil lifts Saudi bourse; Egypt tumbles on regional tensions",
+        "summary": "Saudi Arabia's benchmark index rose 0.8%",
+        "source": "Zawya Pharmaceuticals",
+        "sourceHost": "zawya.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-10-19T03:04:47.086Z",
+        "publishedLabel": "October 19, 2026",
+        "category": "Provider Update",
+        "image": "https://media.zawya.com/prod/images/gm_preview/e14b00fe12d2-150803032425kppb-jpg.webp",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": true,
+        "originalUrl": "https://www.zawya.com/en/capital-markets/mideast-stocks-oil-lifts-saudi-bourse-egypt-tumbles-on-regional-tensions-1739862",
+        "articlePath": "/article.html?issue=2026-10-18&article=2026-10-18-mideast-stocks-oil-lifts-saudi-bourse-egypt-tumbles-on-regional-tensions"
       },
       {
         "id": "2026-10-18-dubai-based-popcorn-ai-studio-secures-pre-seed-1mln-in-funding-to-redefi",
@@ -443,6 +648,14 @@
   "thbActions": [
     {
       "segment": "pharma",
+      "articleId": "2026-10-18-healthcare-pharma-hiring-requests-rise-20-pc-as-firms-seek-specialised-t",
+      "title": "Healthcare, pharma hiring requests rise 20 pc as firms seek specialised talent: Report",
+      "source": "ET Healthworld",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "pharma",
       "articleId": "2026-10-18-natco-pharma-subsidiary-launches-carboplatin-in-us-market-to-address-sho",
       "title": "NATCO Pharma subsidiary launches Carboplatin in US market to address shortages",
       "source": "Economic Times Pharma",
@@ -451,33 +664,25 @@
     },
     {
       "segment": "pharma",
+      "articleId": "2026-10-18-rare-disease-patients-seek-pm-s-intervention-to-secure-additional-funds-",
+      "title": "Rare disease patients seek PM’s intervention to secure additional funds for treatment",
+      "source": "ET Healthworld",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "pharma",
+      "articleId": "2026-10-18-relief-for-cancer-patients-as-pet-ct-scan-comes-under-maharashtra-health",
+      "title": "Relief for cancer patients as PET-CT scan comes under Maharashtra health cover",
+      "source": "ET Healthworld",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "pharma",
       "articleId": "2026-10-18-fssai-issues-notices-to-nestle-india-hindustan-unilever-for-misleading-c",
       "title": "FSSAI issues notices to Nestle India, Hindustan Unilever for misleading claims",
       "source": "ET Healthworld",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
-      "segment": "pharma",
-      "articleId": "2026-10-18-hospitals-body-backs-nmc-move-on-remote-authentication-of-medical-record",
-      "title": "Hospitals body backs NMC move on remote authentication of medical records",
-      "source": "ET Healthworld",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
-      "segment": "pharma",
-      "articleId": "2026-10-18-meity-backed-conclave-explores-ai-applications-in-healthcare-assistive-t",
-      "title": "MeitY-backed conclave explores AI applications in healthcare, assistive technologies",
-      "source": "ET Healthworld",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
-      "segment": "pharma",
-      "articleId": "2026-10-18-zydus-presents-saroglitazar-analysis-from-epics-iii-trial-at-acg-2026",
-      "title": "Zydus Presents Saroglitazar Analysis from EPICS-III Trial at ACG 2026",
-      "source": "Medical Dialogues Pharma",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
     },
@@ -502,6 +707,14 @@
       "articleId": "2026-10-18-rwanda-plans-nationwide-expansion-of-legal-abortion-services-after-healt",
       "title": "Rwanda plans nationwide expansion of legal abortion services after health centre pilot | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
       "source": "Healthcare MEA",
+      "solution": "THB Provider CRM",
+      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
+    },
+    {
+      "segment": "providers",
+      "articleId": "2026-10-18-mideast-stocks-oil-lifts-saudi-bourse-egypt-tumbles-on-regional-tensions",
+      "title": "Mideast Stocks: Oil lifts Saudi bourse; Egypt tumbles on regional tensions",
+      "source": "Zawya Pharmaceuticals",
       "solution": "THB Provider CRM",
       "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
     },
