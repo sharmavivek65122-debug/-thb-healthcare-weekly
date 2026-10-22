@@ -5,9 +5,9 @@
   "startDate": "2026-09-26T18:30:00.000Z",
   "endDate": "2026-10-02T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-10-21T18:12:17.434Z",
+  "updatedAt": "2026-10-22T09:32:29.535Z",
   "coverage": {
-    "pharma": 4,
+    "pharma": 3,
     "providers": 4,
     "diagnostics": 1,
     "healthtech": 0
@@ -17,28 +17,10 @@
     "BioSpectrum India Healthcare",
     "ET Healthworld Diagnostics",
     "ET Healthworld Hospitals",
-    "Economic Times Pharma",
     "Janssen India Media"
   ],
   "segments": {
     "pharma": [
-      {
-        "id": "2026-09-27-maharashtra-fda-cancels-cipla-s-pune-warehouse-licences-over-reactin-plu",
-        "title": "Maharashtra FDA cancels Cipla's Pune warehouse licences over Reactin Plus packaging claims",
-        "summary": "Maharashtra's Food and Drug Administration has cancelled Cipla Pharma's distribution licenses due to serious violations. The FDA discovered irregularities with Reactin Plus Tablets, including misbranding and unsafe storage practices. Following inspections, it...",
-        "source": "Economic Times Pharma",
-        "sourceHost": "economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-10-02T13:45:57.000Z",
-        "publishedLabel": "October 2, 2026",
-        "category": "Industry Update",
-        "image": "https://img.etimg.com/thumb/msid-134641251,width-1200,height-900,imgsize-174896,overlay-economictimes/articleshow.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/maharashtra-fda-cancels-cipla-warehouse-licences-over-drug-violations/articleshow/134641214.cms",
-        "articlePath": "/article.html?issue=2026-09-27&article=2026-09-27-maharashtra-fda-cancels-cipla-s-pune-warehouse-licences-over-reactin-plu"
-      },
       {
         "id": "2026-09-27-johnson-and-johnson-announces-new-icotyde-icotrokinra-data-in-difficult-",
         "title": "Johnson & Johnson announces new ICOTYDE® (icotrokinra) data in difficult-to-treat plaque psoriasis with proven durability through 2-years, affirming its use as a powerful first line systemic therapy",
@@ -183,14 +165,6 @@
     "healthtech": []
   },
   "thbActions": [
-    {
-      "segment": "pharma",
-      "articleId": "2026-09-27-maharashtra-fda-cancels-cipla-s-pune-warehouse-licences-over-reactin-plu",
-      "title": "Maharashtra FDA cancels Cipla's Pune warehouse licences over Reactin Plus packaging claims",
-      "source": "Economic Times Pharma",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
     {
       "segment": "pharma",
       "articleId": "2026-09-27-johnson-and-johnson-announces-new-icotyde-icotrokinra-data-in-difficult-",
