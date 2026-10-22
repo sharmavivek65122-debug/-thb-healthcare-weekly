@@ -5,10 +5,10 @@
   "startDate": "2026-08-29T18:30:00.000Z",
   "endDate": "2026-09-04T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-10-22T09:32:29.535Z",
+  "updatedAt": "2026-10-22T18:07:13.600Z",
   "coverage": {
     "pharma": 0,
-    "providers": 4,
+    "providers": 3,
     "diagnostics": 3,
     "healthtech": 0
   },
@@ -69,23 +69,6 @@
         "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/nadda-inaugurates-advanced-bladder-diagnostics-pet-ct-spect-ct-facilities-at-safdarjung-hospital/133753984",
         "articlePath": "/article.html?issue=2026-08-30&article=2026-08-30-nadda-inaugurates-advanced-bladder-diagnostics-pet-ct-spect-ct-facilitie"
-      },
-      {
-        "id": "2026-08-30-aiims-eye-bank-adds-three-hospitals-to-cornea-retrieval-network",
-        "title": "AIIMS eye bank adds three hospitals to cornea retrieval network",
-        "summary": "The eye bank has signed MoUs with Atal Bihari Vajpayee Institute of Medical Sciences and Dr RML Hospital, Indira Gandhi Hospital in Dwarka and Northern Railway Central Hospital for corneal tissue procurement, research and training under the AIIMS-Delhi...",
-        "source": "ET Healthworld Hospitals",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-09-02T06:38:12.000Z",
-        "publishedLabel": "September 2, 2026",
-        "category": "Hospital",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-133699138,imgsize-116342,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/aiims-eye-bank-adds-three-hospitals-to-cornea-retrieval-network.jpg",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/aiims-eye-bank-adds-three-hospitals-to-cornea-retrieval-network/133699138",
-        "articlePath": "/article.html?issue=2026-08-30&article=2026-08-30-aiims-eye-bank-adds-three-hospitals-to-cornea-retrieval-network"
       }
     ],
     "diagnostics": [
@@ -164,14 +147,6 @@
       "segment": "providers",
       "articleId": "2026-08-30-nadda-inaugurates-advanced-bladder-diagnostics-pet-ct-spect-ct-facilitie",
       "title": "Nadda inaugurates advanced bladder diagnostics, PET-CT, SPECT-CT facilities at Safdarjung Hospital",
-      "source": "ET Healthworld Hospitals",
-      "solution": "THB Provider CRM",
-      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
-    },
-    {
-      "segment": "providers",
-      "articleId": "2026-08-30-aiims-eye-bank-adds-three-hospitals-to-cornea-retrieval-network",
-      "title": "AIIMS eye bank adds three hospitals to cornea retrieval network",
       "source": "ET Healthworld Hospitals",
       "solution": "THB Provider CRM",
       "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
