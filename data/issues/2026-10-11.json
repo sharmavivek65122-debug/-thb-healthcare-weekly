@@ -5,10 +5,10 @@
   "startDate": "2026-10-10T18:30:00.000Z",
   "endDate": "2026-10-16T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-10-26T10:22:58.758Z",
+  "updatedAt": "2026-10-26T19:29:54.406Z",
   "coverage": {
-    "pharma": 9,
-    "providers": 6,
+    "pharma": 8,
+    "providers": 7,
     "diagnostics": 2,
     "healthtech": 0
   },
@@ -142,23 +142,6 @@
         "articlePath": "/article.html?issue=2026-10-11&article=2026-10-11-assessing-products-to-counter-side-effects-of-glp-1-says-bayer-s-triana"
       },
       {
-        "id": "2026-10-11-fortis-says-corrective-measures-underway-after-maharashtra-fda-suspends-",
-        "title": "Fortis says corrective measures underway after Maharashtra FDA suspends kitchen licence",
-        "summary": "Fortis Hospital, Mulund, said it is working with its third-party catering provider to address food safety concerns flagged by the Maharashtra FDA and is making alternative arrangements, wherever required, to ensure uninterrupted meals for patients and...",
-        "source": "ET Healthworld",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-10-17T15:41:15.000Z",
-        "publishedLabel": "October 17, 2026",
-        "category": "Industry Update",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-135016559,imgsize-89535,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/fortis-says-corrective-measures-underway-after-maharashtra-fda-suspends-kitchen-licence.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/fortis-says-corrective-measures-underway-after-maharashtra-fda-suspends-kitchen-licence/135016559",
-        "articlePath": "/article.html?issue=2026-10-11&article=2026-10-11-fortis-says-corrective-measures-underway-after-maharashtra-fda-suspends-"
-      },
-      {
         "id": "2026-10-11-tremfya-guselkumab-demonstrated-sustained-clinical-and-endoscopic-remiss",
         "title": "TREMFYA® (guselkumab) demonstrated sustained clinical and endoscopic remission through 3 years in moderately to severely active Crohn’s disease",
         "summary": "· New long-term data showed clinical remission rates of up to 94% and endoscopic remission rates of up to 61% in adults with moderately to severely active Crohn’s disease · 88% of patients achieved 90-day corticosteroid-free clinical remission",
@@ -193,6 +176,23 @@
         "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/pb-health-opens-first-hospital-in-gurugram/134938265",
         "articlePath": "/article.html?issue=2026-10-11&article=2026-10-11-pb-health-opens-first-hospital-in-gurugram"
+      },
+      {
+        "id": "2026-10-11-fortis-says-corrective-measures-underway-after-maharashtra-fda-suspends-",
+        "title": "Fortis says corrective measures underway after Maharashtra FDA suspends kitchen licence",
+        "summary": "Fortis Hospital, Mulund, said it is working with its third-party catering provider to address food safety concerns flagged by the Maharashtra FDA and is making alternative arrangements, wherever required, to ensure uninterrupted meals for patients and...",
+        "source": "ET Healthworld Hospitals",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-10-17T15:41:15.000Z",
+        "publishedLabel": "October 17, 2026",
+        "category": "Hospital",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-135016559,imgsize-89535,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/fortis-says-corrective-measures-underway-after-maharashtra-fda-suspends-kitchen-licence.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": false,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/fortis-says-corrective-measures-underway-after-maharashtra-fda-suspends-kitchen-licence/135016559",
+        "articlePath": "/article.html?issue=2026-10-11&article=2026-10-11-fortis-says-corrective-measures-underway-after-maharashtra-fda-suspends-"
       },
       {
         "id": "2026-10-11-novo-holdings-gic-axight-look-to-back-aig-hospitals-founders-aim-to-pare",
@@ -369,6 +369,14 @@
     },
     {
       "segment": "providers",
+      "articleId": "2026-10-11-fortis-says-corrective-measures-underway-after-maharashtra-fda-suspends-",
+      "title": "Fortis says corrective measures underway after Maharashtra FDA suspends kitchen licence",
+      "source": "ET Healthworld Hospitals",
+      "solution": "THB Provider CRM",
+      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
+    },
+    {
+      "segment": "providers",
       "articleId": "2026-10-11-novo-holdings-gic-axight-look-to-back-aig-hospitals-founders-aim-to-pare",
       "title": "Novo Holdings, GIC, Axight look to back AIG Hospitals; Founders aim to pare 10-12% stake at Rs 24,000 cr val..",
       "source": "ET Healthworld Hospitals",
@@ -387,14 +395,6 @@
       "segment": "providers",
       "articleId": "2026-10-11-magnet-hospitals-launches-campaign-to-highlight-emergency-nurses-role",
       "title": "Magnet Hospitals launches campaign to highlight emergency nurses’ role",
-      "source": "ET Healthworld Hospitals",
-      "solution": "THB Provider CRM",
-      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
-    },
-    {
-      "segment": "providers",
-      "articleId": "2026-10-11-lilavati-hospital-launches-da-vinci-xi-surgical-robot-system",
-      "title": "Lilavati Hospital launches Da Vinci Xi surgical robot system",
       "source": "ET Healthworld Hospitals",
       "solution": "THB Provider CRM",
       "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."

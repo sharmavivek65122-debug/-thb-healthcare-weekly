@@ -5,9 +5,9 @@
   "startDate": "2026-10-03T18:30:00.000Z",
   "endDate": "2026-10-09T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-10-26T10:22:58.758Z",
+  "updatedAt": "2026-10-26T19:29:54.406Z",
   "coverage": {
-    "pharma": 2,
+    "pharma": 1,
     "providers": 3,
     "diagnostics": 3,
     "healthtech": 0
@@ -15,28 +15,10 @@
   "sourcesUsed": [
     "ET Healthworld Diagnostics",
     "ET Healthworld Hospitals",
-    "Economic Times Pharma",
     "Janssen India Media"
   ],
   "segments": {
     "pharma": [
-      {
-        "id": "2026-10-04-our-central-mission-must-be-patient-centric-innovation-jp-nadda",
-        "title": "Our central mission must be patient-centric innovation: JP Nadda",
-        "summary": "J P Nadda urges industry to take discoveries ‘from bench to bedside as the FICCI–Lilly Bharat Life Sciences Award backs its inaugural cohort with ₹7 crore in grants",
-        "source": "Economic Times Pharma",
-        "sourceHost": "economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-10-09T09:57:52.000Z",
-        "publishedLabel": "October 9, 2026",
-        "category": "Industry Update",
-        "image": "https://img.etimg.com/thumb/msid-134829843,width-1200,height-900,imgsize-1645290,overlay-economictimes/articleshow.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/our-central-mission-must-be-patient-centric-innovation-jp-nadda/articleshow/134829619.cms",
-        "articlePath": "/article.html?issue=2026-10-04&article=2026-10-04-our-central-mission-must-be-patient-centric-innovation-jp-nadda"
-      },
       {
         "id": "2026-10-04-new-johnson-and-johnson-icotyde-icotrokinra-long-term-data-demonstrate-r",
         "title": "New Johnson & Johnson ICOTYDE® (icotrokinra) long-term data demonstrate robust 2-year results in the treatment of adults and adolescents with plaque psoriasis",
@@ -164,14 +146,6 @@
     "healthtech": []
   },
   "thbActions": [
-    {
-      "segment": "pharma",
-      "articleId": "2026-10-04-our-central-mission-must-be-patient-centric-innovation-jp-nadda",
-      "title": "Our central mission must be patient-centric innovation: JP Nadda",
-      "source": "Economic Times Pharma",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
     {
       "segment": "pharma",
       "articleId": "2026-10-04-new-johnson-and-johnson-icotyde-icotrokinra-long-term-data-demonstrate-r",
