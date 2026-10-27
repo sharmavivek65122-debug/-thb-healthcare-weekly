@@ -5,18 +5,17 @@
   "startDate": "2026-09-26T18:30:00.000Z",
   "endDate": "2026-10-02T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-10-27T09:57:10.230Z",
+  "updatedAt": "2026-10-27T18:51:46.813Z",
   "coverage": {
     "pharma": 2,
-    "providers": 3,
+    "providers": 0,
     "diagnostics": 1,
     "healthtech": 0
   },
   "sourcesUsed": [
     "BioSpectrum Asia Middle East",
     "BioSpectrum India Healthcare",
-    "ET Healthworld Diagnostics",
-    "ET Healthworld Hospitals"
+    "ET Healthworld Diagnostics"
   ],
   "segments": {
     "pharma": [
@@ -55,59 +54,7 @@
         "articlePath": "/article.html?issue=2026-09-27&article=2026-09-27-china-s-innocare-inks-3-5-b-deal-with-eli-lilly-to-develop-new-medicines"
       }
     ],
-    "providers": [
-      {
-        "id": "2026-09-27-advent-international-seeks-cci-nod-to-acquire-minority-stake-in-yatharth",
-        "title": "Advent International seeks CCI nod to acquire minority stake in Yatharth Hospitals",
-        "summary": "Noida-based Yatharth Hospital and Trauma Care Services operates a network of super-speciality hospitals in India, providing comprehensive healthcare services, diagnostics, and advanced medical procedures across multiple specialities.",
-        "source": "ET Healthworld Hospitals",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-10-02T15:38:19.000Z",
-        "publishedLabel": "October 2, 2026",
-        "category": "Hospital",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-134642697,imgsize-84904,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/advent-international-seeks-cci-nod-to-acquire-minority-stake-in-yatharth-hospitals.jpg",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/advent-international-seeks-cci-nod-to-acquire-minority-stake-in-yatharth-hospitals/134642697",
-        "articlePath": "/article.html?issue=2026-09-27&article=2026-09-27-advent-international-seeks-cci-nod-to-acquire-minority-stake-in-yatharth"
-      },
-      {
-        "id": "2026-09-27-hospital-stocks-fall-as-sc-questions-drug-mark-ups",
-        "title": "Hospital stocks fall as SC questions drug mark-ups",
-        "summary": "The sell-off came after the Supreme Court raised concerns over the wide gap between the price at which hospitals procure medicines and the maximum retail price charged to patients.",
-        "source": "ET Healthworld Hospitals",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-09-30T11:25:31.000Z",
-        "publishedLabel": "September 30, 2026",
-        "category": "Hospital",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-134592391,imgsize-126122,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/hospital-stocks-fall-as-sc-questions-drug-mark-ups.jpg",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/hospital-stocks-fall-as-sc-questions-drug-mark-ups/134592391",
-        "articlePath": "/article.html?issue=2026-09-27&article=2026-09-27-hospital-stocks-fall-as-sc-questions-drug-mark-ups"
-      },
-      {
-        "id": "2026-09-27-medanta-operator-global-health-buys-ghaziabad-land-for-rs-166-cr-to-buil",
-        "title": "Medanta operator Global Health buys Ghaziabad land for Rs 166 cr to build 350-bed hospital",
-        "summary": "Global Health Limited has acquired a land parcel in Ghaziabad for approximately Rs 165.82 crore. This project will consist of a 350-plus bed hospital aimed at increasing healthcare services. The hospital will serve Ghaziabad and nearby regions, including...",
-        "source": "ET Healthworld Hospitals",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-09-30T02:10:12.000Z",
-        "publishedLabel": "September 30, 2026",
-        "category": "Hospital",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-134577220,imgsize-119975,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/medanta-operator-global-health-buys-ghaziabad-land-for-rs-166-cr-to-build-350-bed-hospital.jpg",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/medanta-operator-global-health-buys-ghaziabad-land-for-rs-166-cr-to-build-350-bed-hospital/134577220",
-        "articlePath": "/article.html?issue=2026-09-27&article=2026-09-27-medanta-operator-global-health-buys-ghaziabad-land-for-rs-166-cr-to-buil"
-      }
-    ],
+    "providers": [],
     "diagnostics": [
       {
         "id": "2026-09-27-lung-cancer-deaths-down-16-with-low-dose-ct-screening-iarc",
@@ -145,30 +92,6 @@
       "source": "BioSpectrum Asia Middle East",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
-      "segment": "providers",
-      "articleId": "2026-09-27-advent-international-seeks-cci-nod-to-acquire-minority-stake-in-yatharth",
-      "title": "Advent International seeks CCI nod to acquire minority stake in Yatharth Hospitals",
-      "source": "ET Healthworld Hospitals",
-      "solution": "THB Provider CRM",
-      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
-    },
-    {
-      "segment": "providers",
-      "articleId": "2026-09-27-hospital-stocks-fall-as-sc-questions-drug-mark-ups",
-      "title": "Hospital stocks fall as SC questions drug mark-ups",
-      "source": "ET Healthworld Hospitals",
-      "solution": "THB Provider CRM",
-      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
-    },
-    {
-      "segment": "providers",
-      "articleId": "2026-09-27-medanta-operator-global-health-buys-ghaziabad-land-for-rs-166-cr-to-buil",
-      "title": "Medanta operator Global Health buys Ghaziabad land for Rs 166 cr to build 350-bed hospital",
-      "source": "ET Healthworld Hospitals",
-      "solution": "THB Provider CRM",
-      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
     },
     {
       "segment": "diagnostics",
