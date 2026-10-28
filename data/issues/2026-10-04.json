@@ -5,10 +5,10 @@
   "startDate": "2026-10-03T18:30:00.000Z",
   "endDate": "2026-10-09T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-10-27T18:51:46.813Z",
+  "updatedAt": "2026-10-28T10:43:40.785Z",
   "coverage": {
     "pharma": 1,
-    "providers": 1,
+    "providers": 3,
     "diagnostics": 3,
     "healthtech": 0
   },
@@ -38,6 +38,40 @@
       }
     ],
     "providers": [
+      {
+        "id": "2026-10-04-wall-street-s-10-billion-india-hospital-bet-sparks-a-fight-over-bills",
+        "title": "Wall Street’s $10 billion India hospital bet sparks a fight over bills",
+        "summary": "Wall Street has poured about $10 billion into Indian hospital chains over the past five years, with investors including Blackstone, KKR, TPG and General Atlantic betting on India’s huge shortage of hospital beds and rising demand for specialised care.",
+        "source": "ET Healthworld Hospitals",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-10-05T06:11:53.000Z",
+        "publishedLabel": "October 5, 2026",
+        "category": "Hospital",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-134687300,imgsize-144502,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/wall-streets-10-billion-india-hospital-bet-sparks-a-fight-over-bills.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": false,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/wall-streets-10-billion-india-hospital-bet-sparks-a-fight-over-bills/134687300",
+        "articlePath": "/article.html?issue=2026-10-04&article=2026-10-04-wall-street-s-10-billion-india-hospital-bet-sparks-a-fight-over-bills"
+      },
+      {
+        "id": "2026-10-04-hospital-pricing-part-of-wider-value-chain-max-md",
+        "title": "Hospital pricing part of wider value chain: Max MD",
+        "summary": "Soi's comments come against the backdrop of Maharashtra scrutinising steep markups on hospital consumables and the Supreme Court's recent observation on a cancer drug carrying a markup of 10 times with patients required to procure it through in-hospital...",
+        "source": "ET Healthworld Hospitals",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-10-06T01:59:14.000Z",
+        "publishedLabel": "October 6, 2026",
+        "category": "Hospital",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-134720737,imgsize-79041,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/hospital-pricing-part-of-wider-value-chain-max-md.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": false,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/hospital-pricing-part-of-wider-value-chain-max-md/134720737",
+        "articlePath": "/article.html?issue=2026-10-04&article=2026-10-04-hospital-pricing-part-of-wider-value-chain-max-md"
+      },
       {
         "id": "2026-10-04-blacksoil-invest-110-crore-in-regency-hospital-in-up",
         "title": "BlackSoil invest ₹110 crore in Regency Hospital in UP",
@@ -119,6 +153,22 @@
       "source": "Janssen India Media",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "providers",
+      "articleId": "2026-10-04-wall-street-s-10-billion-india-hospital-bet-sparks-a-fight-over-bills",
+      "title": "Wall Street’s $10 billion India hospital bet sparks a fight over bills",
+      "source": "ET Healthworld Hospitals",
+      "solution": "THB Provider CRM",
+      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
+    },
+    {
+      "segment": "providers",
+      "articleId": "2026-10-04-hospital-pricing-part-of-wider-value-chain-max-md",
+      "title": "Hospital pricing part of wider value chain: Max MD",
+      "source": "ET Healthworld Hospitals",
+      "solution": "THB Provider CRM",
+      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
     },
     {
       "segment": "providers",

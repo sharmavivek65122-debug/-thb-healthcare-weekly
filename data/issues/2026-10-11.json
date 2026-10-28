@@ -5,9 +5,9 @@
   "startDate": "2026-10-10T18:30:00.000Z",
   "endDate": "2026-10-16T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-10-27T18:51:46.813Z",
+  "updatedAt": "2026-10-28T10:43:40.785Z",
   "coverage": {
-    "pharma": 8,
+    "pharma": 6,
     "providers": 6,
     "diagnostics": 2,
     "healthtech": 0
@@ -21,23 +21,6 @@
   ],
   "segments": {
     "pharma": [
-      {
-        "id": "2026-10-11-indian-pharma-s-risk-aversion-holding-back-innovation-kiran-mazumdar-sha",
-        "title": "Indian pharma's risk aversion holding back innovation: Kiran Mazumdar-Shaw",
-        "summary": "Biocon chairperson Kiran Mazumdar-Shaw calls for greater use of digital technology to speed up drug development, as industry leaders push for a shift beyond generics.",
-        "source": "Economic Times Pharma",
-        "sourceHost": "economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-10-10T18:43:41.000Z",
-        "publishedLabel": "October 11, 2026",
-        "category": "Industry Update",
-        "image": "https://img.etimg.com/thumb/msid-134860250,width-1200,height-900,imgsize-44534,overlay-economictimes/articleshow.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/indian-pharmas-risk-aversion-holding-back-innovation-kiran-mazumdar-shaw/articleshow/134860200.cms",
-        "articlePath": "/article.html?issue=2026-10-11&article=2026-10-11-indian-pharma-s-risk-aversion-holding-back-innovation-kiran-mazumdar-sha"
-      },
       {
         "id": "2026-10-11-biocon-founder-kiran-mazumdar-shaw-says-india-must-shift-pharma-industry",
         "title": "Biocon founder Kiran Mazumdar Shaw says India must shift pharma industry from generics to innovation-led g",
@@ -122,23 +105,6 @@
         "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/biocon-clears-path-for-cancer-drug-launch/articleshow/134949891.cms",
         "articlePath": "/article.html?issue=2026-10-11&article=2026-10-11-biocon-clears-path-for-cancer-drug-launch"
-      },
-      {
-        "id": "2026-10-11-assessing-products-to-counter-side-effects-of-glp-1-says-bayer-s-triana",
-        "title": "Assessing products to counter side effects of GLP-1, says Bayer's Triana",
-        "summary": "Bayer AG plans to expand its consumer health business in India significantly by 2030. The company aims to triple its revenue in the Indian market during this period. Bayer is specifically targeting opportunities in digestive health, nutrition, and...",
-        "source": "Economic Times Pharma",
-        "sourceHost": "economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-10-11T20:03:50.000Z",
-        "publishedLabel": "October 12, 2026",
-        "category": "Market",
-        "image": "https://img.etimg.com/thumb/msid-134877115,width-1200,height-900,imgsize-920532,overlay-economictimes/articleshow.jpg",
-        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": false,
-        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/assessing-products-to-counter-side-effects-of-glp-1-says-bayers-triana/articleshow/134877042.cms",
-        "articlePath": "/article.html?issue=2026-10-11&article=2026-10-11-assessing-products-to-counter-side-effects-of-glp-1-says-bayer-s-triana"
       },
       {
         "id": "2026-10-11-tremfya-guselkumab-demonstrated-sustained-clinical-and-endoscopic-remiss",
@@ -303,14 +269,6 @@
   "thbActions": [
     {
       "segment": "pharma",
-      "articleId": "2026-10-11-indian-pharma-s-risk-aversion-holding-back-innovation-kiran-mazumdar-sha",
-      "title": "Indian pharma's risk aversion holding back innovation: Kiran Mazumdar-Shaw",
-      "source": "Economic Times Pharma",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
-      "segment": "pharma",
       "articleId": "2026-10-11-biocon-founder-kiran-mazumdar-shaw-says-india-must-shift-pharma-industry",
       "title": "Biocon founder Kiran Mazumdar Shaw says India must shift pharma industry from generics to innovation-led g",
       "source": "Economic Times Pharma",
@@ -337,6 +295,14 @@
       "segment": "pharma",
       "articleId": "2026-10-11-panel-to-finalise-cancer-drugs-for-30-trade-margin-cap-rs-2-500-crore-an",
       "title": "Panel to finalise cancer drugs for 30% trade margin cap; Rs 2,500 crore annual savings possible",
+      "source": "Economic Times Pharma",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "pharma",
+      "articleId": "2026-10-11-biocon-clears-path-for-cancer-drug-launch",
+      "title": "Biocon clears path for cancer drug launch",
       "source": "Economic Times Pharma",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
