@@ -5,19 +5,21 @@
   "startDate": "2026-10-24T18:30:00.000Z",
   "endDate": "2026-10-30T18:30:00.000Z",
   "status": "live",
-  "updatedAt": "2026-10-28T10:43:40.785Z",
+  "updatedAt": "2026-10-28T19:01:27.596Z",
   "coverage": {
-    "pharma": 34,
-    "providers": 9,
-    "diagnostics": 4,
+    "pharma": 38,
+    "providers": 13,
+    "diagnostics": 3,
     "healthtech": 0
   },
   "sourcesUsed": [
+    "BioSpectrum Asia Middle East",
     "ET Healthworld",
     "ET Healthworld Hospitals",
     "Economic Times Pharma",
     "Express Healthcare",
     "Healthcare MEA",
+    "Lupin Updates",
     "Medical Dialogues Pharma",
     "Zawya Pharmaceuticals"
   ],
@@ -58,6 +60,23 @@
         "articlePath": "/article.html?issue=2026-10-25&article=2026-10-25-mankind-pharma-shares-key-business-developments-from-q2-and-h1-of-fy27"
       },
       {
+        "id": "2026-10-25-healthcare-pricing-regulate-the-problem-not-the-entire-market",
+        "title": "Healthcare Pricing: Regulate the Problem, Not the Entire Market",
+        "summary": "India's healthcare system strives to deliver quality medical care while tackling the challenge of excessive pricing. To achieve this balance, regulatory measures must ensure that healthcare remains affordable and accessible. Engaging stakeholders in...",
+        "source": "ET Healthworld",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-10-28T11:58:32.000Z",
+        "publishedLabel": "October 28, 2026",
+        "category": "Market",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-135264409,imgsize-74326,width-1200,height=627,overlay-ethealth,resizemode-75/industry/healthcare-pricing-regulate-the-problem-not-the-entire-market.jpg",
+        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
+        "justIn": true,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/healthcare-pricing-regulate-the-problem-not-the-entire-market/135264409",
+        "articlePath": "/article.html?issue=2026-10-25&article=2026-10-25-healthcare-pricing-regulate-the-problem-not-the-entire-market"
+      },
+      {
         "id": "2026-10-25-cipla-sets-sights-on-first-wave-gains-from-rollout-of-keytruda-biosimila",
         "title": "Cipla sets sights on first-wave gains from rollout of Keytruda Biosimilar",
         "summary": "Cipla has partnered with Qilu Pharmaceutical to commercialize a biosimilar of Keytruda, which is a major cancer treatment. The patent for this drug is expected to expire around 2029, allowing for potential market entry. Cipla anticipates capturing a...",
@@ -70,7 +89,7 @@
         "category": "Market",
         "image": "https://img.etimg.com/thumb/msid-135244356,width-1200,height-900,imgsize-248756,overlay-economictimes/articleshow.jpg",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/cipla-sets-sights-on-first-wave-gains-from-rollout-of-keytruda-biosimilar/articleshow/135244225.cms",
         "articlePath": "/article.html?issue=2026-10-25&article=2026-10-25-cipla-sets-sights-on-first-wave-gains-from-rollout-of-keytruda-biosimila"
       },
@@ -104,7 +123,7 @@
         "category": "Industry Update",
         "image": "https://img.etimg.com/thumb/msid-135244866,width-1200,height-900,imgsize-76844,overlay-economictimes/articleshow.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/cancer-drug-price-cuts-leave-costly-brands-untouched/articleshow/135244832.cms",
         "articlePath": "/article.html?issue=2026-10-25&article=2026-10-25-cancer-drug-price-cuts-leave-costly-brands-untouched"
       },
@@ -138,9 +157,26 @@
         "category": "Manufacturing",
         "image": "https://etimg.etb2bimg.com/thumb/msid-135252705,imgsize-355148,width-1200,height=627,overlay-ethealth,resizemode-75/industry/theon-group-expands-its-pharmaceutical-manufacturing-footprint-through-the-slump-sale-acquisition-of-maneesh-pharma-unit-vi-in-baddi.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/theon-group-expands-its-pharmaceutical-manufacturing-footprint-through-the-slump-sale-acquisition-of-maneesh-pharma-unit-vi-in-baddi/135252705",
         "articlePath": "/article.html?issue=2026-10-25&article=2026-10-25-theon-group-expands-its-pharmaceutical-manufacturing-footprint-through-t"
+      },
+      {
+        "id": "2026-10-25-bd-launches-ultracor-twirl-breast-tissue-markers-in-india",
+        "title": "BD launches UltraCor Twirl breast tissue markers in India",
+        "summary": "Breast tissue markers are implanted during or after a biopsy to mark the location of suspicious lesions and facilitate accurate future localization for surgery, imaging follow-up, and treatment planning, particularly when lesions are no longer visible...",
+        "source": "ET Healthworld",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-10-28T12:44:46.000Z",
+        "publishedLabel": "October 28, 2026",
+        "category": "Launch",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-135265977,imgsize-63406,width-1200,height=627,overlay-ethealth,resizemode-75/medical-devices/bd-launches-ultracor-twirl-breast-tissue-markers-in-india.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/medical-devices/bd-launches-ultracor-twirl-breast-tissue-markers-in-india/135265977",
+        "articlePath": "/article.html?issue=2026-10-25&article=2026-10-25-bd-launches-ultracor-twirl-breast-tissue-markers-in-india"
       },
       {
         "id": "2026-10-25-4-in-10-brain-tb-patients-continue-treatment-despite-recovery-study",
@@ -155,26 +191,9 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-135249239,imgsize-77958,width-1200,height=627,overlay-ethealth,resizemode-75/industry/4-in-10-brain-tb-patients-continue-treatment-despite-recovery-study.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/4-in-10-brain-tb-patients-continue-treatment-despite-recovery-study/135249239",
         "articlePath": "/article.html?issue=2026-10-25&article=2026-10-25-4-in-10-brain-tb-patients-continue-treatment-despite-recovery-study"
-      },
-      {
-        "id": "2026-10-25-partner-with-global-research-institutions-to-boost-medical-research-vice",
-        "title": "Partner with global research institutions to boost medical research: Vice President",
-        "summary": "Radhakrishnan also underlined the growing role of artificial intelligence and telemedicine in healthcare. While technology could improve diagnosis, treatment and access to medical services, doctors should not lose sight of the human touch in patient care, he...",
-        "source": "ET Healthworld",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-10-27T08:49:04.000Z",
-        "publishedLabel": "October 27, 2026",
-        "category": "Industry Update",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-135229082,imgsize-107904,width-1200,height=627,overlay-ethealth,resizemode-75/policy/partner-with-global-research-institutions-to-boost-medical-research-vice-president.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/policy/partner-with-global-research-institutions-to-boost-medical-research-vice-president/135229082",
-        "articlePath": "/article.html?issue=2026-10-25&article=2026-10-25-partner-with-global-research-institutions-to-boost-medical-research-vice"
       },
       {
         "id": "2026-10-25-what-will-drive-the-next-phase-of-growth-in-india-s-animal-health-sector",
@@ -194,21 +213,21 @@
         "articlePath": "/article.html?issue=2026-10-25&article=2026-10-25-what-will-drive-the-next-phase-of-growth-in-india-s-animal-health-sector"
       },
       {
-        "id": "2026-10-25-esteve-cdmo-invests-us-80m-to-expand-manufacturing-operations-in-china-h",
-        "title": "Esteve CDMO invests US$80M to expand manufacturing operations in China | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
-        "summary": "Once expanded, the facility could have a total reactor volume exceeding 400 m³, increasing the company's capacity to develop and manufacture active pharmaceutical ingredients (APIs).",
-        "source": "Healthcare MEA",
-        "sourceHost": "healthcaremea.com",
-        "region": "Middle East",
-        "country": "Middle East",
-        "publishedAt": "2026-10-28T06:15:42.000Z",
+        "id": "2026-10-25-every-minute-matters-in-stroke-care-as-delays-can-cost-lives-and-even-pe",
+        "title": "Every minute matters in stroke care as delays can cost lives and even permanent paralysis",
+        "summary": "A stroke is a medical emergency in which every passing minute can determine whether a person survives, recovers or lives with permanent disability. It occurs when the blood supply to a part of the brain is interrupted by a blocked blood vessel or when a blood...",
+        "source": "Express Healthcare",
+        "sourceHost": "expresshealthcare.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-10-28T12:09:06.000Z",
         "publishedLabel": "October 28, 2026",
-        "category": "Manufacturing",
-        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/10/image-1600x900-2026-10-28T090503.762.png",
-        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
+        "category": "Industry Update",
+        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/10/28173857/New-Project-7.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
         "justIn": true,
-        "originalUrl": "https://www.healthcaremea.com/2026/10/28/esteve-cdmo-invests-us80m-to-expand-manufacturing-operations-in-china/",
-        "articlePath": "/article.html?issue=2026-10-25&article=2026-10-25-esteve-cdmo-invests-us-80m-to-expand-manufacturing-operations-in-china-h"
+        "originalUrl": "https://www.expresshealthcare.in/news/every-minute-matters-in-stroke-care-as-delays-can-cost-lives-and-even-permanent-paralysis/455687/",
+        "articlePath": "/article.html?issue=2026-10-25&article=2026-10-25-every-minute-matters-in-stroke-care-as-delays-can-cost-lives-and-even-pe"
       },
       {
         "id": "2026-10-25-regeneron-extends-us-ebola-drug-supply-contract-by-us-270m-through-2031-",
@@ -223,7 +242,7 @@
         "category": "Manufacturing",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/10/image-1600x900-2026-10-28T095514.115.png",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/10/28/regeneron-extends-us-ebola-drug-supply-contract-by-us270m-through-2031/",
         "articlePath": "/article.html?issue=2026-10-25&article=2026-10-25-regeneron-extends-us-ebola-drug-supply-contract-by-us-270m-through-2031-"
       },
@@ -262,6 +281,23 @@
         "articlePath": "/article.html?issue=2026-10-25&article=2026-10-25-torrent-pharma-eyes-brazil-semaglutide-launch-as-q2-revenue-surges-38"
       },
       {
+        "id": "2026-10-25-alembic-pharma-gets-usfda-final-approval-for-generic-valganciclovir-oral",
+        "title": "Alembic Pharma Gets USFDA Final Approval for Generic Valganciclovir Oral Solution",
+        "summary": "New Delhi: Alembic Pharmaceuticals Limited (Alembic) has announced that it has received final approval from the US Food & Drug Administration (USFDA) for its Abbreviated New Drug Application (ANDA)...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-10-28T15:00:58.000Z",
+        "publishedLabel": "October 28, 2026",
+        "category": "Approval",
+        "image": "https://medicaldialogues.in/h-upload/2023/01/10/197272-alembic-pharma-2.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/alembic-pharma-gets-usfda-final-approval-for-generic-valganciclovir-oral-solution-182169",
+        "articlePath": "/article.html?issue=2026-10-25&article=2026-10-25-alembic-pharma-gets-usfda-final-approval-for-generic-valganciclovir-oral"
+      },
+      {
         "id": "2026-10-25-doh-collaborates-with-novartis-to-launch-clinical-trials-hub-to-expand-g",
         "title": "DoH collaborates with Novartis to launch clinical trials Hub to expand global Phase 3 research",
         "summary": "The initiative builds on two years of collaboration following a memorandum of understanding signed by DoH and Novartis on 5 June 2024.",
@@ -274,7 +310,7 @@
         "category": "Clinical Trial",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/10/image-1600x900-2026-10-28T092917.019.png",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/10/28/doh-collaborates-with-novartis-to-launch-clinical-trials-hub-to-expand-global-phase-3-research/",
         "articlePath": "/article.html?issue=2026-10-25&article=2026-10-25-doh-collaborates-with-novartis-to-launch-clinical-trials-hub-to-expand-g"
       },
@@ -398,38 +434,21 @@
         "articlePath": "/article.html?issue=2026-10-25&article=2026-10-25-dr-reddy-s-expands-ozempic-generic-portfolio-with-obeda-pro-obeda-plus-a"
       },
       {
-        "id": "2026-10-25-novartis-ms-drug-cuts-relapses-by-up-to-35-falls-short-of-analyst-expect",
-        "title": "Novartis MS Drug Cuts Relapses by Up to 35%, Falls Short of Analyst Expectations",
-        "summary": "London: Swiss drugmaker Novartis' oral multiple sclerosis (MS) drug remibrutinib meaningfully reduced relapses in patients, according to data presented at a medical conference in Toronto on Friday,...",
+        "id": "2026-10-25-gsk-eyes-nearly-doubling-cancer-drug-pipeline-in-2027-targets-19-20-late",
+        "title": "GSK Eyes Nearly Doubling Cancer Drug Pipeline in 2027, Targets 19-20 Late-Stage Studies",
+        "summary": "Bengaluru: GSK expects to nearly double the number of cancer medicines it is testing in clinical trials next year, the Wall Street Journal reported on Tuesday, citing an interview with a scientist at...",
         "source": "Medical Dialogues Pharma",
         "sourceHost": "medicaldialogues.in",
         "region": "India",
         "country": "India",
-        "publishedAt": "2026-10-25T05:01:07.000Z",
-        "publishedLabel": "October 25, 2026",
-        "category": "Industry Update",
-        "image": "https://medicaldialogues.in/h-upload/2024/02/17/232451-novartis-50.jpg",
+        "publishedAt": "2026-10-28T14:28:28.000Z",
+        "publishedLabel": "October 28, 2026",
+        "category": "Clinical Trial",
+        "image": "https://medicaldialogues.in/h-upload/2024/02/01/231367-gsk-50.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/novartis-ms-drug-cuts-relapses-by-up-to-35-falls-short-of-analyst-expectations-181952",
-        "articlePath": "/article.html?issue=2026-10-25&article=2026-10-25-novartis-ms-drug-cuts-relapses-by-up-to-35-falls-short-of-analyst-expect"
-      },
-      {
-        "id": "2026-10-25-moderna-shares-crash-25-wiping-out-usd-24-billion-despite-promising-canc",
-        "title": "Moderna Shares Crash 25%, Wiping Out USD 24 Billion Despite Promising Cancer Vaccine Results",
-        "summary": "Bengaluru: Moderna's shares sank over 25% on Thursday as late-stage trial data for its personalized melanoma vaccine, developed with Merck, triggered what analysts called a \"sell-the-news\" reaction...",
-        "source": "Medical Dialogues Pharma",
-        "sourceHost": "medicaldialogues.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-10-25T04:31:02.000Z",
-        "publishedLabel": "October 25, 2026",
-        "category": "Industry Update",
-        "image": "https://medicaldialogues.in/h-upload/2023/01/11/197594-moderna-3.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/moderna-shares-crash-25-wiping-out-usd-24-billion-despite-promising-cancer-vaccine-results-181951",
-        "articlePath": "/article.html?issue=2026-10-25&article=2026-10-25-moderna-shares-crash-25-wiping-out-usd-24-billion-despite-promising-canc"
+        "justIn": true,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/gsk-eyes-nearly-doubling-cancer-drug-pipeline-in-2027-targets-19-20-late-stage-studies-182166",
+        "articlePath": "/article.html?issue=2026-10-25&article=2026-10-25-gsk-eyes-nearly-doubling-cancer-drug-pipeline-in-2027-targets-19-20-late"
       },
       {
         "id": "2026-10-25-african-union-validates-continental-health-data-governance-framework-in-",
@@ -444,7 +463,7 @@
         "category": "Manufacturing",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/10/image-1600x900-2026-10-28T091810.951.png",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/10/28/african-union-validates-continental-health-data-governance-framework-in-ethiopia/",
         "articlePath": "/article.html?issue=2026-10-25&article=2026-10-25-african-union-validates-continental-health-data-governance-framework-in-"
       },
@@ -461,7 +480,7 @@
         "category": "Manufacturing",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/10/image-1600x900-2026-10-28T094542.522.png",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/10/28/unaids-board-backs-restructuring-to-maintain-hiv-services-amid-un-reforms/",
         "articlePath": "/article.html?issue=2026-10-25&article=2026-10-25-unaids-board-backs-restructuring-to-maintain-hiv-services-amid-un-reform"
       },
@@ -478,7 +497,7 @@
         "category": "Manufacturing",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/10/image-1600x900-2026-10-28T093708.759.png",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/10/28/schneider-electric-supports-purehealths-net-zero-2040-goal-through-energy-management/",
         "articlePath": "/article.html?issue=2026-10-25&article=2026-10-25-schneider-electric-supports-purehealth-s-net-zero-2040-goal-through-ener"
       },
@@ -517,6 +536,23 @@
         "articlePath": "/article.html?issue=2026-10-25&article=2026-10-25-fake-pharma-firms-bogus-purchase-orders-ahmedabad-businessman-allegedly-"
       },
       {
+        "id": "2026-10-25-5-000-us-soldiers-were-made-test-subjects-in-a-mind-altering-drug-progra",
+        "title": "5,000 US soldiers were made test subjects in a mind-altering drug programme. It was done to find a chemica",
+        "summary": "During the Cold War, the US Army exposed around 5,000 soldiers to LSD, nerve agents and other dangerous chemicals at a secret Maryland facility. Researchers wanted to find out whether mind-altering drugs could incapacitate enemy troops without killing them....",
+        "source": "Lupin Updates",
+        "sourceHost": "economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-10-28T18:28:00.000Z",
+        "publishedLabel": "October 28, 2026",
+        "category": "Industry Update",
+        "image": "https://img.etimg.com/thumb/msid-135277903,width-1200,height-900,imgsize-181307,overlay-etpanache/articleshow.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://economictimes.indiatimes.com/magazines/panache/5000-us-soldiers-were-made-test-subjects-in-a-mind-altering-drug-programme-it-was-done-to-find-a-chemical-that-could-disable-enemies-during-cold-war/articleshow/135276479.cms",
+        "articlePath": "/article.html?issue=2026-10-25&article=2026-10-25-5-000-us-soldiers-were-made-test-subjects-in-a-mind-altering-drug-progra"
+      },
+      {
         "id": "2026-10-25-senseonics-begins-first-human-study-of-freedom-transmitter-free-cgm-syst",
         "title": "Senseonics begins first human study of Freedom Transmitter-Free CGM System | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
         "summary": "Freedom builds on the sensing technology used in Senseonics’ Eversense 365 CGM system.",
@@ -529,7 +565,7 @@
         "category": "Manufacturing",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/10/Untitled-design-3.png",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/10/28/senseonics-begins-first-human-study-of-freedom-transmitter-free-cgm-system/",
         "articlePath": "/article.html?issue=2026-10-25&article=2026-10-25-senseonics-begins-first-human-study-of-freedom-transmitter-free-cgm-syst"
       },
@@ -549,6 +585,40 @@
         "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/lupin-receives-one-usfda-observation-for-goa-facility-182009",
         "articlePath": "/article.html?issue=2026-10-25&article=2026-10-25-lupin-receives-one-usfda-observation-for-goa-facility"
+      },
+      {
+        "id": "2026-10-25-piramal-pharma-swings-to-rs-5-crore-q2-profit-from-rs-99-crore-loss-reve",
+        "title": "Piramal Pharma Swings to Rs 5 Crore Q2 Profit from Rs 99 Crore Loss, Revenue Jumps 28%",
+        "summary": "New Delhi: Piramal Pharma on Thursday reported a consolidated net profit of Rs 5 crore in the July-September period of the current fiscal year.The pharma company had posted a loss of Rs 99.22 crore in...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-10-28T14:54:59.000Z",
+        "publishedLabel": "October 28, 2026",
+        "category": "Industry Update",
+        "image": "https://medicaldialogues.in/h-upload/2022/08/13/183218-piramal.jpg",
+        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
+        "justIn": true,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/piramal-pharma-swings-to-rs-5-crore-q2-profit-from-rs-99-crore-loss-revenue-jumps-28-182168",
+        "articlePath": "/article.html?issue=2026-10-25&article=2026-10-25-piramal-pharma-swings-to-rs-5-crore-q2-profit-from-rs-99-crore-loss-reve"
+      },
+      {
+        "id": "2026-10-25-abu-dhabi-and-novartis-activate-clinical-trials-hub-through-global-phase",
+        "title": "Abu Dhabi and Novartis activate Clinical Trials Hub through global Phase 3 programmes",
+        "summary": "Abu Dhabi and Novartis activate Clinical Trials Hub through global Phase 3 programmes",
+        "source": "BioSpectrum Asia Middle East",
+        "sourceHost": "biospectrumasia.com",
+        "region": "Middle East",
+        "country": "United Arab Emirates",
+        "publishedAt": "2026-10-27T18:30:00.000Z",
+        "publishedLabel": "October 28, 2026",
+        "category": "Clinical Trial",
+        "image": "https://www.biospectrumasia.com/uploads/articles/screenshot_28_10_2026_161948_www_zawya_com-28596.jpeg?v=20261028162014",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://www.biospectrumasia.com/news/25/28596/abu-dhabi-and-novartis-activate-clinical-trials-hub-through-global-phase-3-programmes.html",
+        "articlePath": "/article.html?issue=2026-10-25&article=2026-10-25-abu-dhabi-and-novartis-activate-clinical-trials-hub-through-global-phase"
       },
       {
         "id": "2026-10-25-dcgi-cuts-blood-bank-licensing-time-from-over-a-year-to-four-months-thro",
@@ -621,21 +691,55 @@
         "articlePath": "/article.html?issue=2026-10-25&article=2026-10-25-rml-hospital-s-666-bed-super-speciality-block-gets-fire-safety-clearance"
       },
       {
-        "id": "2026-10-25-from-first-response-to-system-ownership",
-        "title": "From first response to system ownership",
-        "summary": "Dr Sandeep Gore, Director-Emergency Medicine, Fortis Hospital Mulund, Mumbai, and Chairman, Emergency Medicine Council, Fortis Healthcare, speaks to Kalyani Sharma about the evolution of emergency medicine in India, the need for trained manpower and stronger...",
+        "id": "2026-10-25-world-stroke-day-up-to-75-per-cent-of-post-stroke-needs-are-financial",
+        "title": "World Stroke Day: Up to 75 per cent of post-stroke needs are financial",
+        "summary": "A stroke happens in minutes. Recovery takes months, sometimes years. And most of that recovery does not happen in a hospital ward. It happens at home, in a bedroom that has been rearranged around a patient, with a family member who has suddenly become a...",
         "source": "Express Healthcare",
         "sourceHost": "expresshealthcare.in",
         "region": "India",
         "country": "India",
-        "publishedAt": "2026-10-26T10:05:59.000Z",
-        "publishedLabel": "October 26, 2026",
+        "publishedAt": "2026-10-28T12:03:48.000Z",
+        "publishedLabel": "October 28, 2026",
         "category": "Hospital",
-        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/10/26153542/EH_Dr_Sandeep_Gore_Director_HOD_Emergency_Fortis_Hospital_Mulund_750.jpg",
+        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2022/10/27112727/stroke-1.jpg",
         "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://www.expresshealthcare.in/interviews/from-first-response-to-system-ownership/455650/",
-        "articlePath": "/article.html?issue=2026-10-25&article=2026-10-25-from-first-response-to-system-ownership"
+        "justIn": true,
+        "originalUrl": "https://www.expresshealthcare.in/news/world-stroke-day-up-to-75-per-cent-of-post-stroke-needs-are-financial/455685/",
+        "articlePath": "/article.html?issue=2026-10-25&article=2026-10-25-world-stroke-day-up-to-75-per-cent-of-post-stroke-needs-are-financial"
+      },
+      {
+        "id": "2026-10-25-nu-hospitals-unveils-advanced-ams-edge-robotic-surgical-system-in-bengal",
+        "title": "NU Hospitals unveils advanced AMS EDGE robotic surgical system in Bengaluru",
+        "summary": "NU Hospitals also unveils the NU App to simplify healthcare access and The Link 2024 - 26, showcasing its journey, achievements and vision for the future",
+        "source": "Express Healthcare",
+        "sourceHost": "expresshealthcare.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-10-28T11:32:39.000Z",
+        "publishedLabel": "October 28, 2026",
+        "category": "Hospital",
+        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/10/28170209/EH_NU-Hospital.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": true,
+        "originalUrl": "https://www.expresshealthcare.in/news/nu-hospitals-unveils-advanced-ams-edge-robotic-surgical-system-in-bengaluru/455682/",
+        "articlePath": "/article.html?issue=2026-10-25&article=2026-10-25-nu-hospitals-unveils-advanced-ams-edge-robotic-surgical-system-in-bengal"
+      },
+      {
+        "id": "2026-10-25-dpu-super-specialty-hospital-inaugurates-multi-organ-transplant-centre-o",
+        "title": "DPU Super Specialty Hospital inaugurates multi-organ transplant centre of excellence in Maharashtra",
+        "summary": "Purpose-built transplant facility with dedicated air-handling and infection-control systems; Centre has performed 562 transplants across multiple organ categories",
+        "source": "Express Healthcare",
+        "sourceHost": "expresshealthcare.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-10-28T11:27:12.000Z",
+        "publishedLabel": "October 28, 2026",
+        "category": "Hospital",
+        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/10/28165659/EH_DY-Patil.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": true,
+        "originalUrl": "https://www.expresshealthcare.in/news/dpu-super-specialty-hospital-inaugurates-multi-organ-transplant-centre-of-excellence-in-maharashtra/455679/",
+        "articlePath": "/article.html?issue=2026-10-25&article=2026-10-25-dpu-super-specialty-hospital-inaugurates-multi-organ-transplant-centre-o"
       },
       {
         "id": "2026-10-25-surya-hospitals-appoints-dr-santy-sajan-as-group-ceo",
@@ -684,9 +788,26 @@
         "category": "Hospital",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/10/image-1600x900-2026-10-28T101811.995.png",
         "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/10/28/radnet-to-acquire-onrad-for-us355m-to-expand-us-hospital-radiology-services/",
         "articlePath": "/article.html?issue=2026-10-25&article=2026-10-25-radnet-to-acquire-onrad-for-us-355m-to-expand-us-hospital-radiology-serv"
+      },
+      {
+        "id": "2026-10-25-kenya-calls-for-affordable-cancer-care-across-africa-as-breast-cancer-su",
+        "title": "Kenya calls for affordable cancer care across Africa as breast cancer survival rates lag",
+        "summary": "A 2026 review of more than 42,000 breast cancer patients across 28 sub-Saharan African countries found that 63% were diagnosed at an advanced stage.",
+        "source": "Healthcare MEA",
+        "sourceHost": "healthcaremea.com",
+        "region": "Middle East",
+        "country": "Oman",
+        "publishedAt": "2026-10-28T12:57:44.000Z",
+        "publishedLabel": "October 28, 2026",
+        "category": "Patient Care",
+        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/10/image-1600x900-2026-10-28T155137.566.png",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": true,
+        "originalUrl": "https://www.healthcaremea.com/2026/10/28/kenya-calls-for-affordable-cancer-care-across-africa-as-breast-cancer-survival-rates-lag/",
+        "articlePath": "/article.html?issue=2026-10-25&article=2026-10-25-kenya-calls-for-affordable-cancer-care-across-africa-as-breast-cancer-su"
       },
       {
         "id": "2026-10-25-nuqaim-and-tmtc-put-uae-at-the-centre-of-global-medical-travel-connectin",
@@ -718,9 +839,26 @@
         "category": "Provider Update",
         "image": "https://media.zawya.com/prod/images/gm_preview/4305a2c984e2-art-fertility-clinics-signs-strategic-mou-with-conceivable-life-sciences-to-expl.jpg",
         "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.zawya.com/en/press-release/companies-news/art-fertility-clinics-signs-strategic-mou-with-conceivable-life-sciences-to-explore-automation-assisted-ivf-technology-at-ivi-institute-1852631",
         "articlePath": "/article.html?issue=2026-10-25&article=2026-10-25-art-fertility-clinics-signs-strategic-mou-with-conceivable-life-sciences"
+      },
+      {
+        "id": "2026-10-25-nppa-seems-totally-defunct-sc-asks-if-drugmakers-can-be-allowed-to-run-a",
+        "title": "NPPA Seems Totally Defunct: SC Asks If Drugmakers Can Be Allowed to 'Run Amok' Over Medicine Pricing",
+        "summary": "New Delhi: Flagging the \"massive difference\" between the MRP of medicines and the price to retailers, the Supreme Court on Tuesday slammed the Centre asking if it can provide \"any justification for...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-10-28T15:16:41.000Z",
+        "publishedLabel": "October 28, 2026",
+        "category": "AI Care Delivery",
+        "image": "https://medicaldialogues.in/h-upload/2026/10/05/478361-kolkata-hospital-gets-relief-as-supreme-court-quashes-criminal-charges-in-billing-dispute-matter-6.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": true,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/nppa-seems-totally-defunct-sc-asks-if-drugmakers-can-be-allowed-to-run-amok-over-medicine-pricing-182170",
+        "articlePath": "/article.html?issue=2026-10-25&article=2026-10-25-nppa-seems-totally-defunct-sc-asks-if-drugmakers-can-be-allowed-to-run-a"
       },
       {
         "id": "2026-10-25-investcorp-acquires-significant-minority-through-its-saudi-pre-ipo-growt",
@@ -735,7 +873,7 @@
         "category": "Provider Update",
         "image": "https://media.zawya.com/prod/images/gm_preview/5e784079f1be-walid-majdalani-investcorp.jpg",
         "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.zawya.com/en/press-release/investcorp-acquires-significant-minority-through-its-saudi-pre-ipo-growth-fund-alongside-altouq-group-consortium-to-acquire-reda-gulf-holding-1852256",
         "articlePath": "/article.html?issue=2026-10-25&article=2026-10-25-investcorp-acquires-significant-minority-through-its-saudi-pre-ipo-growt"
       },
@@ -776,23 +914,6 @@
         "articlePath": "/article.html?issue=2026-10-25&article=2026-10-25-point-of-care-diagnostics-clinical-utility-and-implementation-challenges"
       },
       {
-        "id": "2026-10-25-mulk-technology-launches-ai-powered-digital-hospital-platform-for-india",
-        "title": "Mulk Technology launches AI-powered digital hospital platform for India",
-        "summary": "Mulk Technology has announced an AI-enabled digital healthcare platform for India and international markets, following a strategic partnership with OnClarity USA signed in Dubai on 23 October 2026. The platform combines Mulk Technology’s Hospital Management...",
-        "source": "Express Healthcare",
-        "sourceHost": "expresshealthcare.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-10-26T12:53:11.000Z",
-        "publishedLabel": "October 26, 2026",
-        "category": "Industry Update",
-        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/10/26182303/New-Project-6.jpg",
-        "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
-        "justIn": false,
-        "originalUrl": "https://www.expresshealthcare.in/news/mulk-technology-launches-ai-powered-digital-hospital-platform-for-india/455655/",
-        "articlePath": "/article.html?issue=2026-10-25&article=2026-10-25-mulk-technology-launches-ai-powered-digital-hospital-platform-for-india"
-      },
-      {
         "id": "2026-10-25-nmc-mandates-patient-safety-cells-across-medical-institutions-a-move-tow",
         "title": "NMC mandates patient safety cells across medical institutions – A move towards compliance culture",
         "summary": "Institute of Medicine & Law highlights NMC’s directive mandating Patient Safety Committees and Nodal Officers in medical institutions, explaining how the move aims to reduce medical errors, strengthen accountability, and promote a non-punitive patient safety...",
@@ -805,7 +926,7 @@
         "category": "Industry Update",
         "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/10/28135139/EH_IML_Article-10.jpg",
         "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/medico-legal/nmc-mandates-patient-safety-cells-across-medical-institutions-a-move-towards-compliance-culture/455676/",
         "articlePath": "/article.html?issue=2026-10-25&article=2026-10-25-nmc-mandates-patient-safety-cells-across-medical-institutions-a-move-tow"
       },
@@ -822,7 +943,7 @@
         "category": "Cancer Testing",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/10/image-1600x900-2026-10-28T102729.223.png",
         "thbAction": "Use this signal to position THB for diagnostics network expansion, channel partner onboarding, and visibility across spoke sites, franchises, and enterprise accounts.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/10/28/abbott-launches-next-generation-oncodetect-cancer-test-in-us/",
         "articlePath": "/article.html?issue=2026-10-25&article=2026-10-25-abbott-launches-next-generation-oncodetect-cancer-test-in-us-healthcare-"
       }
@@ -848,6 +969,14 @@
     },
     {
       "segment": "pharma",
+      "articleId": "2026-10-25-healthcare-pricing-regulate-the-problem-not-the-entire-market",
+      "title": "Healthcare Pricing: Regulate the Problem, Not the Entire Market",
+      "source": "ET Healthworld",
+      "solution": "THB Commercial Analytics",
+      "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
+    },
+    {
+      "segment": "pharma",
       "articleId": "2026-10-25-cipla-sets-sights-on-first-wave-gains-from-rollout-of-keytruda-biosimila",
       "title": "Cipla sets sights on first-wave gains from rollout of Keytruda Biosimilar",
       "source": "Economic Times Pharma",
@@ -863,14 +992,6 @@
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
     },
     {
-      "segment": "pharma",
-      "articleId": "2026-10-25-cancer-drug-price-cuts-leave-costly-brands-untouched",
-      "title": "Cancer drug price cuts leave costly brands untouched",
-      "source": "Economic Times Pharma",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
       "segment": "providers",
       "articleId": "2026-10-25-rml-hospital-s-666-bed-super-speciality-block-gets-fire-safety-clearance",
       "title": "RML Hospital's 666-bed super speciality block gets fire safety clearance",
@@ -880,8 +1001,24 @@
     },
     {
       "segment": "providers",
-      "articleId": "2026-10-25-from-first-response-to-system-ownership",
-      "title": "From first response to system ownership",
+      "articleId": "2026-10-25-world-stroke-day-up-to-75-per-cent-of-post-stroke-needs-are-financial",
+      "title": "World Stroke Day: Up to 75 per cent of post-stroke needs are financial",
+      "source": "Express Healthcare",
+      "solution": "THB Provider CRM",
+      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
+    },
+    {
+      "segment": "providers",
+      "articleId": "2026-10-25-nu-hospitals-unveils-advanced-ams-edge-robotic-surgical-system-in-bengal",
+      "title": "NU Hospitals unveils advanced AMS EDGE robotic surgical system in Bengaluru",
+      "source": "Express Healthcare",
+      "solution": "THB Provider CRM",
+      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
+    },
+    {
+      "segment": "providers",
+      "articleId": "2026-10-25-dpu-super-specialty-hospital-inaugurates-multi-organ-transplant-centre-o",
+      "title": "DPU Super Specialty Hospital inaugurates multi-organ transplant centre of excellence in Maharashtra",
       "source": "Express Healthcare",
       "solution": "THB Provider CRM",
       "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
@@ -895,33 +1032,9 @@
       "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
     },
     {
-      "segment": "providers",
-      "articleId": "2026-10-25-hosmac-develops-hospital-energy-analysis-tool-to-support-energy-planning",
-      "title": "HOSMAC develops Hospital Energy Analysis Tool to support energy planning of healthcare infrastructure",
-      "source": "Express Healthcare",
-      "solution": "THB Provider CRM",
-      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
-    },
-    {
-      "segment": "providers",
-      "articleId": "2026-10-25-radnet-to-acquire-onrad-for-us-355m-to-expand-us-hospital-radiology-serv",
-      "title": "RadNet to acquire ONRAD for US$355M to expand US hospital radiology services | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
-      "source": "Healthcare MEA",
-      "solution": "THB Provider CRM",
-      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
-    },
-    {
       "segment": "diagnostics",
       "articleId": "2026-10-25-point-of-care-diagnostics-clinical-utility-and-implementation-challenges",
       "title": "Point-of-care diagnostics: Clinical utility and implementation challenges",
-      "source": "Express Healthcare",
-      "solution": "THB Diagnostics CRM",
-      "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
-    },
-    {
-      "segment": "diagnostics",
-      "articleId": "2026-10-25-mulk-technology-launches-ai-powered-digital-hospital-platform-for-india",
-      "title": "Mulk Technology launches AI-powered digital hospital platform for India",
       "source": "Express Healthcare",
       "solution": "THB Diagnostics CRM",
       "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."

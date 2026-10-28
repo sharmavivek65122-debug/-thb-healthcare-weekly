@@ -5,11 +5,11 @@
   "startDate": "2026-10-17T18:30:00.000Z",
   "endDate": "2026-10-23T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-10-28T10:43:40.785Z",
+  "updatedAt": "2026-10-28T19:01:27.596Z",
   "coverage": {
     "pharma": 16,
-    "providers": 5,
-    "diagnostics": 4,
+    "providers": 4,
+    "diagnostics": 3,
     "healthtech": 0
   },
   "sourcesUsed": [
@@ -17,10 +17,8 @@
     "ET Healthworld Diagnostics",
     "ET Healthworld Hospitals",
     "Economic Times Pharma",
-    "Express Healthcare",
     "Janssen India Media",
-    "Lupin Updates",
-    "Medical Dialogues Pharma"
+    "Lupin Updates"
   ],
   "segments": {
     "pharma": [
@@ -178,6 +176,23 @@
         "articlePath": "/article.html?issue=2026-10-18&article=2026-10-18-centre-directs-states-to-enforce-ban-on-reuse-of-single-use-medical-devi"
       },
       {
+        "id": "2026-10-18-stricter-diagnostic-lab-rules-for-cghs-fuel-double-standards-charge",
+        "title": "Stricter diagnostic lab rules for CGHS fuel double standards charge",
+        "summary": "Under the Clinical Establishment Rules, laboratories are divided into three categories - basic composite, medium and advanced. The standards prescribe the scope of services, infrastructure, equipment, human resources, record maintenance and other operational...",
+        "source": "ET Healthworld",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-10-22T05:50:37.000Z",
+        "publishedLabel": "October 22, 2026",
+        "category": "Industry Update",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-135108829,imgsize-82680,width-1200,height=627,overlay-ethealth,resizemode-75/diagnostics/stricter-diagnostic-lab-rules-for-cghs-fuel-double-standards-charge.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": false,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/diagnostics/stricter-diagnostic-lab-rules-for-cghs-fuel-double-standards-charge/135108829",
+        "articlePath": "/article.html?issue=2026-10-18&article=2026-10-18-stricter-diagnostic-lab-rules-for-cghs-fuel-double-standards-charge"
+      },
+      {
         "id": "2026-10-18-microsoft-develops-ai-tool-that-can-diagnose-sequentially-like-a-doctor",
         "title": "Microsoft develops AI tool that can diagnose 'sequentially' like a doctor",
         "summary": "The model identifies and coordinates the questions that should be asked of a patient, as well as the exams and tests that should be ordered, using an \"orchestrator\" that organizes how AI will tackle a problem by employing a simulated panel of clinical experts...",
@@ -244,23 +259,6 @@
         "justIn": false,
         "originalUrl": "https://www.jnj.com/media-center/press-releases/johnson-johnson-showcases-breadth-of-rheumatology-innovation-at-acr-convergence-2026-with-43-presentations-including-late-breaking-data-on-icotyde-icotrokinra-in-psoriatic-arthritis",
         "articlePath": "/article.html?issue=2026-10-18&article=2026-10-18-johnson-and-johnson-showcases-breadth-of-rheumatology-innovation-at-acr-"
-      },
-      {
-        "id": "2026-10-18-telangana-pharma-unit-shut-after-chloroform-leak-kills-two-employees",
-        "title": "Telangana Pharma Unit Shut After Chloroform Leak Kills Two Employees",
-        "summary": "Sangareddy: Two employees of Saraca Laboratories Limited died after allegedly inhaling chloroform vapours that leaked during a manufacturing process at the company's facility in the Gaddapotharam...",
-        "source": "Medical Dialogues Pharma",
-        "sourceHost": "medicaldialogues.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-10-24T15:31:20.000Z",
-        "publishedLabel": "October 24, 2026",
-        "category": "Manufacturing",
-        "image": "https://medicaldialogues.in/h-upload/2026/05/30/350969-death-1.jpg",
-        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": false,
-        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/telangana-pharma-unit-shut-after-chloroform-leak-kills-two-employees-181949",
-        "articlePath": "/article.html?issue=2026-10-18&article=2026-10-18-telangana-pharma-unit-shut-after-chloroform-leak-kills-two-employees"
       },
       {
         "id": "2026-10-18-johnson-and-johnson-announces-new-data-showing-tremfya-guselkumab-is-the",
@@ -365,23 +363,6 @@
         "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/supreme-court-dismisses-appeals-by-dcb-bank-and-ubs-against-fortis-audit/135032219",
         "articlePath": "/article.html?issue=2026-10-18&article=2026-10-18-supreme-court-dismisses-appeals-by-dcb-bank-and-ubs-against-fortis-audit"
-      },
-      {
-        "id": "2026-10-18-building-a-more-transparent-fertility-care-model",
-        "title": "Building a more transparent fertility care model",
-        "summary": "Luma Fertility’s first centre reached break-even within its first year. What were the key operational and business decisions that helped achieve this? At the outset, it is important to understand what we were trying to differentiate because fertility is a...",
-        "source": "Express Healthcare",
-        "sourceHost": "expresshealthcare.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-10-24T05:04:01.000Z",
-        "publishedLabel": "October 24, 2026",
-        "category": "Provider Update",
-        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/10/23144223/EH_Neha-Motwani.jpg",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://www.expresshealthcare.in/interviews/building-a-more-transparent-fertility-care-model/455645/",
-        "articlePath": "/article.html?issue=2026-10-18&article=2026-10-18-building-a-more-transparent-fertility-care-model"
       }
     ],
     "diagnostics": [
@@ -401,23 +382,6 @@
         "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/diagnostics/indian-ai-based-test-helps-identify-early-stage-breast-cancer-patients-who-may-avoid-chemotherapy/135091135",
         "articlePath": "/article.html?issue=2026-10-18&article=2026-10-18-indian-ai-based-test-helps-identify-early-stage-breast-cancer-patients-w"
-      },
-      {
-        "id": "2026-10-18-stricter-diagnostic-lab-rules-for-cghs-fuel-double-standards-charge",
-        "title": "Stricter diagnostic lab rules for CGHS fuel double standards charge",
-        "summary": "Under the Clinical Establishment Rules, laboratories are divided into three categories - basic composite, medium and advanced. The standards prescribe the scope of services, infrastructure, equipment, human resources, record maintenance and other operational...",
-        "source": "ET Healthworld Diagnostics",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-10-22T05:50:37.000Z",
-        "publishedLabel": "October 22, 2026",
-        "category": "Diagnostics",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-135108829,imgsize-82680,width-1200,height=627,overlay-ethealth,resizemode-75/diagnostics/stricter-diagnostic-lab-rules-for-cghs-fuel-double-standards-charge.jpg",
-        "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/diagnostics/stricter-diagnostic-lab-rules-for-cghs-fuel-double-standards-charge/135108829",
-        "articlePath": "/article.html?issue=2026-10-18&article=2026-10-18-stricter-diagnostic-lab-rules-for-cghs-fuel-double-standards-charge"
       },
       {
         "id": "2026-10-18-buyout-firm-eqt-to-acquire-qiagen-for-10-8-billion",
@@ -530,25 +494,9 @@
       "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
     },
     {
-      "segment": "providers",
-      "articleId": "2026-10-18-building-a-more-transparent-fertility-care-model",
-      "title": "Building a more transparent fertility care model",
-      "source": "Express Healthcare",
-      "solution": "THB Provider CRM",
-      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
-    },
-    {
       "segment": "diagnostics",
       "articleId": "2026-10-18-indian-ai-based-test-helps-identify-early-stage-breast-cancer-patients-w",
       "title": "Indian AI-based test helps identify early-stage breast cancer patients who may avoid chemotherapy",
-      "source": "ET Healthworld Diagnostics",
-      "solution": "THB Diagnostics CRM",
-      "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
-    },
-    {
-      "segment": "diagnostics",
-      "articleId": "2026-10-18-stricter-diagnostic-lab-rules-for-cghs-fuel-double-standards-charge",
-      "title": "Stricter diagnostic lab rules for CGHS fuel double standards charge",
       "source": "ET Healthworld Diagnostics",
       "solution": "THB Diagnostics CRM",
       "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
