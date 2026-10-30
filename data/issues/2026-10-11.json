@@ -5,9 +5,9 @@
   "startDate": "2026-10-10T18:30:00.000Z",
   "endDate": "2026-10-16T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-10-29T19:08:22.359Z",
+  "updatedAt": "2026-10-30T10:58:20.899Z",
   "coverage": {
-    "pharma": 5,
+    "pharma": 2,
     "providers": 6,
     "diagnostics": 2,
     "healthtech": 0
@@ -16,45 +16,10 @@
     "ET Healthworld",
     "ET Healthworld Diagnostics",
     "ET Healthworld Hospitals",
-    "Economic Times Pharma",
     "Janssen India Media"
   ],
   "segments": {
     "pharma": [
-      {
-        "id": "2026-10-11-biocon-founder-kiran-mazumdar-shaw-says-india-must-shift-pharma-industry",
-        "title": "Biocon founder Kiran Mazumdar Shaw says India must shift pharma industry from generics to innovation-led g",
-        "summary": "Kiran Mazumdar-Shaw emphasized the importance of building an innovation-driven pharmaceutical industry in India. She highlighted the need for continued investment in research and regulatory reforms to enhance drug development. The industry must focus on...",
-        "source": "Economic Times Pharma",
-        "sourceHost": "economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-10-13T13:32:20.000Z",
-        "publishedLabel": "October 13, 2026",
-        "category": "Industry Update",
-        "image": "https://img.etimg.com/thumb/msid-134919463,width-1200,height-900,imgsize-44534,overlay-economictimes/articleshow.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/biocon-founder-kiran-mazumdar-shaw-says-india-must-shift-pharma-industry-from-generics-to-innovation-led-growth/articleshow/134919070.cms",
-        "articlePath": "/article.html?issue=2026-10-11&article=2026-10-11-biocon-founder-kiran-mazumdar-shaw-says-india-must-shift-pharma-industry"
-      },
-      {
-        "id": "2026-10-11-nppa-caps-trade-margins-on-137-cancer-drugs-at-30-revised-prices-from-no",
-        "title": "NPPA caps trade margins on 137 cancer drugs at 30%, revised prices from Nov 9",
-        "summary": "India's National Pharmaceutical Pricing Authority has capped trade margins for 137 anti-cancer drugs at 30% of their maximum retail price. This cap, effective from November 9, applies to all listed drugs, including Atezolizumab and Bevacizumab. Manufacturers...",
-        "source": "Economic Times Pharma",
-        "sourceHost": "economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-10-17T14:22:02.000Z",
-        "publishedLabel": "October 17, 2026",
-        "category": "Industry Update",
-        "image": "https://img.etimg.com/thumb/msid-135015821,width-1200,height-900,imgsize-84552,overlay-economictimes/articleshow.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/nppa-caps-trade-margins-on-137-cancer-drugs-at-30-revised-prices-from-nov-9/articleshow/135015811.cms",
-        "articlePath": "/article.html?issue=2026-10-11&article=2026-10-11-nppa-caps-trade-margins-on-137-cancer-drugs-at-30-revised-prices-from-no"
-      },
       {
         "id": "2026-10-11-medical-devices-emerge-as-pe-s-next-big-healthcare-bet",
         "title": "Medical devices emerge as PE’s next big healthcare bet",
@@ -71,23 +36,6 @@
         "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/medical-devices/medical-devices-emerge-as-pes-next-big-healthcare-bet/134990862",
         "articlePath": "/article.html?issue=2026-10-11&article=2026-10-11-medical-devices-emerge-as-pe-s-next-big-healthcare-bet"
-      },
-      {
-        "id": "2026-10-11-biocon-clears-path-for-cancer-drug-launch",
-        "title": "Biocon clears path for cancer drug launch",
-        "summary": "Biocon has finalized a global settlement and license agreement with Genentech for its drug Pebrilzo. This agreement addresses all ongoing legal disputes between the two companies in jurisdictions such as the US and Canada. Under the terms, Biocon can launch...",
-        "source": "Economic Times Pharma",
-        "sourceHost": "economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-10-14T18:54:24.000Z",
-        "publishedLabel": "October 15, 2026",
-        "category": "Launch",
-        "image": "https://img.etimg.com/thumb/msid-134950270,width-1200,height-900,imgsize-65896,overlay-economictimes/articleshow.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/biocon-clears-path-for-cancer-drug-launch/articleshow/134949891.cms",
-        "articlePath": "/article.html?issue=2026-10-11&article=2026-10-11-biocon-clears-path-for-cancer-drug-launch"
       },
       {
         "id": "2026-10-11-tremfya-guselkumab-demonstrated-sustained-clinical-and-endoscopic-remiss",
@@ -252,35 +200,11 @@
   "thbActions": [
     {
       "segment": "pharma",
-      "articleId": "2026-10-11-biocon-founder-kiran-mazumdar-shaw-says-india-must-shift-pharma-industry",
-      "title": "Biocon founder Kiran Mazumdar Shaw says India must shift pharma industry from generics to innovation-led g",
-      "source": "Economic Times Pharma",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
-      "segment": "pharma",
-      "articleId": "2026-10-11-nppa-caps-trade-margins-on-137-cancer-drugs-at-30-revised-prices-from-no",
-      "title": "NPPA caps trade margins on 137 cancer drugs at 30%, revised prices from Nov 9",
-      "source": "Economic Times Pharma",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
-      "segment": "pharma",
       "articleId": "2026-10-11-medical-devices-emerge-as-pe-s-next-big-healthcare-bet",
       "title": "Medical devices emerge as PE’s next big healthcare bet",
       "source": "ET Healthworld",
       "solution": "THB Commercial Analytics",
       "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
-    },
-    {
-      "segment": "pharma",
-      "articleId": "2026-10-11-biocon-clears-path-for-cancer-drug-launch",
-      "title": "Biocon clears path for cancer drug launch",
-      "source": "Economic Times Pharma",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
     },
     {
       "segment": "pharma",
