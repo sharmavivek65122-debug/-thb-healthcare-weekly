@@ -5,9 +5,9 @@
   "startDate": "2026-10-17T18:30:00.000Z",
   "endDate": "2026-10-23T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-11-01T18:29:26.172Z",
+  "updatedAt": "2026-11-02T12:45:28.845Z",
   "coverage": {
-    "pharma": 13,
+    "pharma": 11,
     "providers": 4,
     "diagnostics": 5,
     "healthtech": 0
@@ -23,23 +23,6 @@
   ],
   "segments": {
     "pharma": [
-      {
-        "id": "2026-10-18-from-nasal-delivery-to-sterile-injectables-biodeal-pharmaceuticals-expan",
-        "title": "From nasal delivery to sterile injectables: Biodeal Pharmaceuticals’ expansion plans",
-        "summary": "Biodeal Pharmaceuticals is set to broaden its horizons with a state-of-the-art sterile injectables plant in Himachal Pradesh. This venture will notably elevate its production capacities and diversify its contract development and manufacturing services....",
-        "source": "Economic Times Pharma",
-        "sourceHost": "economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-10-23T07:04:12.000Z",
-        "publishedLabel": "October 23, 2026",
-        "category": "Manufacturing",
-        "image": "https://img.etimg.com/thumb/msid-135137952,width-1200,height-900,imgsize-62152,overlay-economictimes/articleshow.jpg",
-        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": false,
-        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/from-nasal-delivery-to-sterile-injectables-biodeal-pharmaceuticals-expansion-plans/articleshow/135137663.cms",
-        "articlePath": "/article.html?issue=2026-10-18&article=2026-10-18-from-nasal-delivery-to-sterile-injectables-biodeal-pharmaceuticals-expan"
-      },
       {
         "id": "2026-10-18-indian-pharma-unethical-practices-marketing-rules-under-lens-new-review-",
         "title": "Indian pharma: Unethical practices, marketing rules under lens; new review body set up",
@@ -107,23 +90,6 @@
         "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/jubilant-pharmova-eyes-150-million-through-rupee-debt-sale-bankers-say/articleshow/135141652.cms",
         "articlePath": "/article.html?issue=2026-10-18&article=2026-10-18-jubilant-pharmova-eyes-150-million-through-rupee-debt-sale-bankers-say"
-      },
-      {
-        "id": "2026-10-18-cipla-subsidiary-clears-usfda-inspection-with-zero-observations",
-        "title": "Cipla subsidiary clears USFDA inspection with zero observations",
-        "summary": "Cipla on Friday said a routine US Food and Drug Administration (USFDA) inspection at its wholly owned subsidiary InvaGen Pharmaceuticals' manufacturing facility in Hauppauge, Long Island, New York.",
-        "source": "Economic Times Pharma",
-        "sourceHost": "economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-10-23T03:43:45.000Z",
-        "publishedLabel": "October 23, 2026",
-        "category": "Manufacturing",
-        "image": "https://img.etimg.com/thumb/msid-135133642,width-1200,height-900,imgsize-43956,overlay-economictimes/articleshow.jpg",
-        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": false,
-        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/cipla-subsidiary-clears-usfda-inspection-with-zero-observations/articleshow/135133614.cms",
-        "articlePath": "/article.html?issue=2026-10-18&article=2026-10-18-cipla-subsidiary-clears-usfda-inspection-with-zero-observations"
       },
       {
         "id": "2026-10-18-centre-directs-states-to-enforce-ban-on-reuse-of-single-use-medical-devi",
@@ -407,14 +373,6 @@
   "thbActions": [
     {
       "segment": "pharma",
-      "articleId": "2026-10-18-from-nasal-delivery-to-sterile-injectables-biodeal-pharmaceuticals-expan",
-      "title": "From nasal delivery to sterile injectables: Biodeal Pharmaceuticals’ expansion plans",
-      "source": "Economic Times Pharma",
-      "solution": "THB Commercial Analytics",
-      "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
-    },
-    {
-      "segment": "pharma",
       "articleId": "2026-10-18-indian-pharma-unethical-practices-marketing-rules-under-lens-new-review-",
       "title": "Indian pharma: Unethical practices, marketing rules under lens; new review body set up",
       "source": "Economic Times Pharma",
@@ -442,6 +400,14 @@
       "articleId": "2026-10-18-jubilant-pharmova-eyes-150-million-through-rupee-debt-sale-bankers-say",
       "title": "Jubilant Pharmova eyes $150 million through rupee debt sale, bankers say",
       "source": "Economic Times Pharma",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "pharma",
+      "articleId": "2026-10-18-centre-directs-states-to-enforce-ban-on-reuse-of-single-use-medical-devi",
+      "title": "Centre directs states to enforce ban on reuse of single-use medical devices",
+      "source": "ET Healthworld",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
     },
