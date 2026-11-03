@@ -5,16 +5,15 @@
   "startDate": "2026-10-17T18:30:00.000Z",
   "endDate": "2026-10-23T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-11-02T22:26:31.844Z",
+  "updatedAt": "2026-11-03T12:11:13.335Z",
   "coverage": {
-    "pharma": 10,
+    "pharma": 8,
     "providers": 4,
     "diagnostics": 5,
     "healthtech": 0
   },
   "sourcesUsed": [
     "BioSpectrum India Healthcare",
-    "ET Healthworld",
     "ET Healthworld Diagnostics",
     "ET Healthworld Hospitals",
     "Economic Times Pharma",
@@ -56,40 +55,6 @@
         "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/glp-1-boom-in-china-india-brazil-could-create-22-billion-market-by-2035-j-p-morgan-says/articleshow/135142581.cms",
         "articlePath": "/article.html?issue=2026-10-18&article=2026-10-18-glp-1-boom-in-china-india-brazil-could-create-22-billion-market-by-2035-"
-      },
-      {
-        "id": "2026-10-18-dr-reddy-s-rolls-out-new-generic-ozempic-brands-amid-obeda-supply-disrup",
-        "title": "Dr Reddy's rolls out new generic Ozempic brands amid Obeda supply disruption",
-        "summary": "Dr Reddys Laboratories has expanded its generic semaglutide portfolio with Obeda Pro and Obeda Plus after supplies of its original Obeda injection were halted in July for technical evaluation. The new brands are manufactured by Hetero Labs, while distributors...",
-        "source": "Economic Times Pharma",
-        "sourceHost": "economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-10-23T09:49:31.000Z",
-        "publishedLabel": "October 23, 2026",
-        "category": "Industry Update",
-        "image": "https://img.etimg.com/thumb/msid-135142031,width-1200,height-900,imgsize-52610,overlay-economictimes/articleshow.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/dr-reddys-rolls-out-new-generic-ozempic-brands-amid-obeda-supply-disruption/articleshow/135141859.cms",
-        "articlePath": "/article.html?issue=2026-10-18&article=2026-10-18-dr-reddy-s-rolls-out-new-generic-ozempic-brands-amid-obeda-supply-disrup"
-      },
-      {
-        "id": "2026-10-18-centre-directs-states-to-enforce-ban-on-reuse-of-single-use-medical-devi",
-        "title": "Centre directs states to enforce ban on reuse of single-use medical devices",
-        "summary": "The move comes after the Directorate General of Health Services (DGHS) found that certain private and corporate hospitals were sterilising such products and using them on more than one patient, despite their being designated for single use only.",
-        "source": "ET Healthworld",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-10-23T10:24:52.000Z",
-        "publishedLabel": "October 23, 2026",
-        "category": "Industry Update",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-135142674,imgsize-97018,width-1200,height=627,overlay-ethealth,resizemode-75/policy/centre-directs-states-to-enforce-ban-on-reuse-of-single-use-medical-devices.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/policy/centre-directs-states-to-enforce-ban-on-reuse-of-single-use-medical-devices/135142674",
-        "articlePath": "/article.html?issue=2026-10-18&article=2026-10-18-centre-directs-states-to-enforce-ban-on-reuse-of-single-use-medical-devi"
       },
       {
         "id": "2026-10-18-bharat-biotech-slashes-price-of-malaria-vaccine-mosqivac-by-40",
@@ -372,25 +337,25 @@
     },
     {
       "segment": "pharma",
-      "articleId": "2026-10-18-dr-reddy-s-rolls-out-new-generic-ozempic-brands-amid-obeda-supply-disrup",
-      "title": "Dr Reddy's rolls out new generic Ozempic brands amid Obeda supply disruption",
-      "source": "Economic Times Pharma",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
-      "segment": "pharma",
-      "articleId": "2026-10-18-centre-directs-states-to-enforce-ban-on-reuse-of-single-use-medical-devi",
-      "title": "Centre directs states to enforce ban on reuse of single-use medical devices",
-      "source": "ET Healthworld",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
-      "segment": "pharma",
       "articleId": "2026-10-18-bharat-biotech-slashes-price-of-malaria-vaccine-mosqivac-by-40",
       "title": "Bharat Biotech slashes price of malaria vaccine MOSQIVAC by 40%",
       "source": "Economic Times Pharma",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "pharma",
+      "articleId": "2026-10-18-johnson-and-johnson-s-prostate-cancer-drug-shrinks-tumors-in-early-stage",
+      "title": "Johnson & Johnson's prostate cancer drug shrinks tumors in early-stage trial",
+      "source": "Economic Times Pharma",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "pharma",
+      "articleId": "2026-10-18-johnson-and-johnson-showcases-breadth-of-rheumatology-innovation-at-acr-",
+      "title": "Johnson & Johnson showcases breadth of rheumatology innovation at ACR Convergence 2026 with 43 presentations, including late-breaking data on ICOTYDE® (icotrokinra) in psoriatic arthritis",
+      "source": "Janssen India Media",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
     },
