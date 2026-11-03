@@ -5,16 +5,17 @@
   "startDate": "2026-10-31T18:30:00.000Z",
   "endDate": "2026-11-06T18:30:00.000Z",
   "status": "live",
-  "updatedAt": "2026-11-03T12:11:13.335Z",
+  "updatedAt": "2026-11-03T20:14:03.671Z",
   "coverage": {
-    "pharma": 24,
-    "providers": 7,
+    "pharma": 32,
+    "providers": 11,
     "diagnostics": 2,
     "healthtech": 0
   },
   "sourcesUsed": [
     "BioSpectrum Asia Middle East",
     "ET Healthworld",
+    "ET Healthworld Hospitals",
     "Economic Times Pharma",
     "Express Healthcare",
     "Healthcare MEA",
@@ -70,9 +71,26 @@
         "category": "Approval",
         "image": "https://img.etimg.com/thumb/msid-135494668,width-1200,height-900,imgsize-92220,overlay-economictimes/articleshow.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/alkem-laboratories-appoints-amrut-naik-as-ceo/articleshow/135494576.cms",
         "articlePath": "/article.html?issue=2026-11-01&article=2026-11-01-alkem-laboratories-appoints-amrut-naik-as-ceo"
+      },
+      {
+        "id": "2026-11-01-wockhardt-seeks-14-year-data-shield-for-india-made-drugs",
+        "title": "Wockhardt seeks 14-year data shield for India-made drugs",
+        "summary": "Mumbai-based Wockhardt has struck success in its innovative research on a range of antibiotic drugs, bridging a global pipeline gap for difficult-to-treat infections. In May this year, the company secured approvals from Indian and US drug regulators for a...",
+        "source": "Economic Times Pharma",
+        "sourceHost": "economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-11-03T19:29:36.000Z",
+        "publishedLabel": "November 4, 2026",
+        "category": "Approval",
+        "image": "https://img.etimg.com/thumb/msid-135512202,width-1200,height-900,imgsize-1750652,overlay-economictimes/articleshow.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/wockhardt-seeks-14-year-data-shield-for-india-made-drugs/articleshow/135512126.cms",
+        "articlePath": "/article.html?issue=2026-11-01&article=2026-11-01-wockhardt-seeks-14-year-data-shield-for-india-made-drugs"
       },
       {
         "id": "2026-11-01-weight-loss-injections-are-not-pmos-cure-experts-caution-against-self-me",
@@ -104,9 +122,26 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-135478532,imgsize-87972,width-1200,height=627,overlay-ethealth,resizemode-75/policy/nadda-inaugurates-advanced-radiotherapy-facility-at-aiims-rajkot.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/policy/nadda-inaugurates-advanced-radiotherapy-facility-at-aiims-rajkot/135478532",
         "articlePath": "/article.html?issue=2026-11-01&article=2026-11-01-nadda-inaugurates-advanced-radiotherapy-facility-at-aiims-rajkot"
+      },
+      {
+        "id": "2026-11-01-hrv-pharma-buys-germany-s-phatebo",
+        "title": "HRV Pharma buys Germany's Phatebo",
+        "summary": "The acquisition marks virtual pharmaceutical company HRV's entry beyond active pharmaceutical ingredients (APIs) into finished formulations, giving it its first finished formulations business alongside a licenced operating entity in Germany.",
+        "source": "Economic Times Pharma",
+        "sourceHost": "economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-11-03T19:24:58.000Z",
+        "publishedLabel": "November 4, 2026",
+        "category": "Industry Update",
+        "image": "https://img.etimg.com/thumb/msid-135512101,width-1200,height-900,imgsize-532235,overlay-economictimes/articleshow.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/hrv-pharma-buys-germanys-phatebo/articleshow/135511975.cms",
+        "articlePath": "/article.html?issue=2026-11-01&article=2026-11-01-hrv-pharma-buys-germany-s-phatebo"
       },
       {
         "id": "2026-11-01-high-court-restrains-nppa-from-action-against-astrazeneca",
@@ -143,6 +178,23 @@
         "articlePath": "/article.html?issue=2026-11-01&article=2026-11-01-assam-signs-rs-600-crore-deal-for-india-s-first-state-run-proton-therapy"
       },
       {
+        "id": "2026-11-01-nppa-updates-list-of-reduced-mrp-of-1-085-anti-cancer-drugs",
+        "title": "NPPA updates list of reduced MRP of 1,085 anti-cancer drugs",
+        "summary": "The National Pharmaceutical Pricing Authority updated the maximum retail price for 1,085 anti-cancer medicines. This revision follows a previous decrease of prices for 543 anti-cancer drugs announced on October 28. The updated list contains prices based on...",
+        "source": "Economic Times Pharma",
+        "sourceHost": "economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-11-03T17:09:18.000Z",
+        "publishedLabel": "November 3, 2026",
+        "category": "Industry Update",
+        "image": "https://img.etimg.com/thumb/msid-135507754,width-1200,height-900,imgsize-120432,overlay-economictimes/articleshow.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/nppa-updates-list-of-reduced-mrp-of-1085-anti-cancer-drugs/articleshow/135506787.cms",
+        "articlePath": "/article.html?issue=2026-11-01&article=2026-11-01-nppa-updates-list-of-reduced-mrp-of-1-085-anti-cancer-drugs"
+      },
+      {
         "id": "2026-11-01-experts-say-health-technology-preventive-healthcare-at-inflection-point-",
         "title": "Experts say health technology, preventive healthcare at inflection point, India ready to leverage",
         "summary": "With a focus on preventive healthcare and wellness, India is on the verge of harnessing new technological innovations. Sangita Reddy from Apollo Hospitals stresses the significance of wearable devices in spotting health issues early on. In collaboration with...",
@@ -155,14 +207,14 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-135478510,imgsize-95544,width-1200,height=627,overlay-ethealth,resizemode-75/industry/experts-say-health-technology-preventive-healthcare-at-inflection-point-india-ready-to-leverage.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/experts-say-health-technology-preventive-healthcare-at-inflection-point-india-ready-to-leverage/135478510",
         "articlePath": "/article.html?issue=2026-11-01&article=2026-11-01-experts-say-health-technology-preventive-healthcare-at-inflection-point-"
       },
       {
         "id": "2026-11-01-max-oncology-inpatient-revenue-falls-after-chemotherapy-drug-discontinua",
         "title": "Max oncology inpatient revenue falls after chemotherapy drug discontinuation for CGHS patients",
-        "summary": "Speaking during the company’s second-quarter earnings call, Soi attributed the drop to revisions in CGHS rates.",
+        "summary": "Speaking at the company’s second-quarter earnings call, Soi attributed the drop to revisions in CGHS rates.",
         "source": "ET Healthworld",
         "sourceHost": "health.economictimes.indiatimes.com",
         "region": "India",
@@ -172,7 +224,7 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-135491305,imgsize-139163,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/max-oncology-inpatient-revenue-falls-after-chemotherapy-drug-discontinuation-for-cghs-patients.jpg",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/max-oncology-inpatient-revenue-falls-after-chemotherapy-drug-discontinuation-for-cghs-patients/135491305",
         "articlePath": "/article.html?issue=2026-11-01&article=2026-11-01-max-oncology-inpatient-revenue-falls-after-chemotherapy-drug-discontinua"
       },
@@ -189,7 +241,7 @@
         "category": "Industry Update",
         "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/11/03110824/Dr-Sulakshna-Dahiya-Consultant-Neurologist-Kailash-Hospital-Greater-Noida-a-unit-of-Kailash-Healthcare-Group.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/news/drug-resistant-brain-tb-in-children-early-diagnosis-to-prevent-neurological-damage/455739/",
         "articlePath": "/article.html?issue=2026-11-01&article=2026-11-01-drug-resistant-brain-tb-in-children-early-diagnosis-to-prevent-neurologi"
       },
@@ -206,9 +258,26 @@
         "category": "Manufacturing",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/11/image-1600x900-11.png",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/11/03/fresenius-partners-with-wuxi-biologics-to-expand-biosimilar-pipeline-to-66-molecules/",
         "articlePath": "/article.html?issue=2026-11-01&article=2026-11-01-fresenius-partners-with-wuxi-biologics-to-expand-biosimilar-pipeline-to-"
+      },
+      {
+        "id": "2026-11-01-wockhardt-reports-24-revenue-growth-to-rs-969-crore-in-q2-fy27-pat-rises",
+        "title": "Wockhardt Reports 24% Revenue Growth to Rs 969 Crore in Q2 FY27, PAT Rises to Rs 73 Crore",
+        "summary": "Mumbai: Pharmaceutical and biotechnology company Wockhardt Limited has reported a Profit After Tax (PAT) of Rs 73 crore for the second quarter of FY 2026-27, registering a 24% year-on-year increase in...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-11-03T13:57:52.000Z",
+        "publishedLabel": "November 3, 2026",
+        "category": "Industry Update",
+        "image": "https://medicaldialogues.in/h-upload/2022/03/05/171728-wockhardt.jpg",
+        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
+        "justIn": true,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/wockhardt-reports-24-revenue-growth-to-rs-969-crore-in-q2-fy27-pat-rises-to-rs-73-crore-182669",
+        "articlePath": "/article.html?issue=2026-11-01&article=2026-11-01-wockhardt-reports-24-revenue-growth-to-rs-969-crore-in-q2-fy27-pat-rises"
       },
       {
         "id": "2026-11-01-biocon-ranks-13th-among-world-s-top-20-biopharma-employers-in-science-ma",
@@ -240,7 +309,7 @@
         "category": "Manufacturing",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/11/image-1600x900-15.png",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/11/03/teva-terminates-mid-stage-trial-of-emrusolmin-in-patients-with-multiple-system-atrophy/",
         "articlePath": "/article.html?issue=2026-11-01&article=2026-11-01-teva-terminates-mid-stage-trial-of-emrusolmin-in-patients-with-multiple-"
       },
@@ -279,6 +348,23 @@
         "articlePath": "/article.html?issue=2026-11-01&article=2026-11-01-vertex-deploys-casgevy-gene-editing-platform-across-authorized-nhs-treat"
       },
       {
+        "id": "2026-11-01-lupin-gets-usfda-nod-for-generic-firdapse-tablets-qualifies-for-180-day-",
+        "title": "Lupin Gets USFDA Nod for Generic Firdapse Tablets, Qualifies for 180-Day Shared Exclusivity",
+        "summary": "Mumbai: Global pharma major Lupin Limited (Lupin) has announced that it has received approval from the United States Food and Drug Administration (USFDA) for its Abbreviated New Drug Applications...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-11-03T13:50:54.000Z",
+        "publishedLabel": "November 3, 2026",
+        "category": "Approval",
+        "image": "https://medicaldialogues.in/h-upload/2025/03/24/279930-lupin-digital-health-50-5.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/lupin-gets-usfda-nod-for-generic-firdapse-tablets-qualifies-for-180-day-shared-exclusivity-182668",
+        "articlePath": "/article.html?issue=2026-11-01&article=2026-11-01-lupin-gets-usfda-nod-for-generic-firdapse-tablets-qualifies-for-180-day-"
+      },
+      {
         "id": "2026-11-01-aspen-pharmacare-agrees-to-us-220m-ovestin-deal-as-it-refocuses-on-emerg",
         "title": "Aspen Pharmacare agrees to US$220M Ovestin deal as it refocuses on emerging markets | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
         "summary": "Ennogen, which focuses on European markets, will acquire the rights and intellectual property, while Aspen will retain a manufacturing and supply role under long-term agreements.",
@@ -291,9 +377,26 @@
         "category": "Manufacturing",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/11/image-1600x900-19.png",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/11/03/aspen-pharmacare-agrees-to-us220m-ovestin-deal-as-it-refocuses-on-emerging-markets/",
         "articlePath": "/article.html?issue=2026-11-01&article=2026-11-01-aspen-pharmacare-agrees-to-us-220m-ovestin-deal-as-it-refocuses-on-emerg"
+      },
+      {
+        "id": "2026-11-01-akums-drugs-acquires-oriflame-india-s-manufacturing-business-for-rs-56-c",
+        "title": "Akums Drugs Acquires Oriflame India's Manufacturing Business for Rs 56 Crore, Reports 168% Surge in Q2...",
+        "summary": "New Delhi: Akums Drugs & Pharmaceuticals Ltd., India's largest Contract Development and Manufacturing Organisation (CDMO), announced its consolidated financial results for the quarter ended September...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-11-03T13:34:03.000Z",
+        "publishedLabel": "November 3, 2026",
+        "category": "Manufacturing",
+        "image": "https://medicaldialogues.in/h-upload/2022/11/26/192112-akums-pharma-new.jpg",
+        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
+        "justIn": true,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/akums-drugs-acquires-oriflame-indias-manufacturing-business-for-rs-56-crore-reports-168-surge-in-q2-fy27-net-profit-182666",
+        "articlePath": "/article.html?issue=2026-11-01&article=2026-11-01-akums-drugs-acquires-oriflame-india-s-manufacturing-business-for-rs-56-c"
       },
       {
         "id": "2026-11-01-sun-pharma-secures-cdsco-approval-for-generic-semaglutide-pill",
@@ -376,9 +479,26 @@
         "category": "Manufacturing",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/11/image-1600x900-13.png",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/11/03/nigeria-partners-with-biovana-to-build-national-cancer-biobank-network/",
         "articlePath": "/article.html?issue=2026-11-01&article=2026-11-01-nigeria-partners-with-biovana-to-build-national-cancer-biobank-network-h"
+      },
+      {
+        "id": "2026-11-01-dr-reddy-s-generic-lenacapavir-to-cost-around-rs-3-800-annually-offers-a",
+        "title": "Dr. Reddy's Generic Lenacapavir to Cost Around Rs 3,800 Annually, Offers Affordable HIV Prevention Option",
+        "summary": "New Delhi: Dr Reddy's said on Monday that the US FDA has tentatively approved a generic version of a new and highly effective HIV prevention drug, paving the way for ​sales in many low- and...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-11-03T13:45:44.000Z",
+        "publishedLabel": "November 3, 2026",
+        "category": "Industry Update",
+        "image": "https://medicaldialogues.in/h-upload/2023/01/11/197518-dr-reddy-labs-2.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/dr-reddys-generic-lenacapavir-to-cost-around-rs-3800-annually-offers-affordable-hiv-prevention-option-182667",
+        "articlePath": "/article.html?issue=2026-11-01&article=2026-11-01-dr-reddy-s-generic-lenacapavir-to-cost-around-rs-3-800-annually-offers-a"
       },
       {
         "id": "2026-11-01-ethiopia-hosts-first-who-emergency-medical-teams-global-meeting-in-addis",
@@ -393,7 +513,7 @@
         "category": "Manufacturing",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/11/image-1600x900-14.png",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/11/03/ethiopia-hosts-first-who-emergency-medical-teams-global-meeting-in-africa/",
         "articlePath": "/article.html?issue=2026-11-01&article=2026-11-01-ethiopia-hosts-first-who-emergency-medical-teams-global-meeting-in-addis"
       },
@@ -430,9 +550,43 @@
         "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/gland-pharma-appoints-ajay-sahni-as-ceo-of-singapore-based-international-subsidiary-182429",
         "articlePath": "/article.html?issue=2026-11-01&article=2026-11-01-gland-pharma-appoints-ajay-sahni-as-ceo-of-singapore-based-international"
+      },
+      {
+        "id": "2026-11-01-astrazeneca-gets-delhi-hc-relief-in-rs-151-crore-nppa-overcharging-case",
+        "title": "AstraZeneca Gets Delhi HC Relief in Rs 151 Crore NPPA Overcharging Case",
+        "summary": "New Delhi: The Delhi High Court has directed the National Pharmaceutical Pricing Authority (NPPA) not to take coercive steps against AstraZeneca Pharma India Limited until January 11, 2027, in a...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-11-03T18:44:23.000Z",
+        "publishedLabel": "November 4, 2026",
+        "category": "Industry Update",
+        "image": "https://medicaldialogues.in/images/logo.png",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/astrazeneca-gets-delhi-hc-relief-in-rs-151-crore-nppa-overcharging-case-182679",
+        "articlePath": "/article.html?issue=2026-11-01&article=2026-11-01-astrazeneca-gets-delhi-hc-relief-in-rs-151-crore-nppa-overcharging-case"
       }
     ],
     "providers": [
+      {
+        "id": "2026-11-01-gujarat-cm-inaugurates-cancer-hospital-in-patan",
+        "title": "Gujarat CM inaugurates cancer hospital in Patan",
+        "summary": "Addressing the gathering, Patel said the facility will make specialised cancer care more accessible to patients in Patan and neighbouring regions. The statement added that the hospital will also provide PET scan services, a facility that was previously...",
+        "source": "ET Healthworld Hospitals",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-11-02T08:44:46.000Z",
+        "publishedLabel": "November 2, 2026",
+        "category": "Hospital",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-135452027,imgsize-42682,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/gujarat-cm-inaugurates-cancer-hospital-in-patan.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": true,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/gujarat-cm-inaugurates-cancer-hospital-in-patan/135452027",
+        "articlePath": "/article.html?issue=2026-11-01&article=2026-11-01-gujarat-cm-inaugurates-cancer-hospital-in-patan"
+      },
       {
         "id": "2026-11-01-the-growing-role-of-medical-equipment-rentals-in-making-healthcare-more-",
         "title": "The growing role of medical equipment rentals in making healthcare more accessible",
@@ -446,7 +600,7 @@
         "category": "AI Care Delivery",
         "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/11/03110441/EH_Vishal-Lathwal_750.jpg",
         "thbAction": "Recommend THB's patient engagement workflows to improve acquisition, follow-up adherence, and post-discharge retention for expanding provider groups.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/news/the-growing-role-of-medical-equipment-rentals-in-making-healthcare-more-accessible/455738/",
         "articlePath": "/article.html?issue=2026-11-01&article=2026-11-01-the-growing-role-of-medical-equipment-rentals-in-making-healthcare-more-"
       },
@@ -468,6 +622,40 @@
         "articlePath": "/article.html?issue=2026-11-01&article=2026-11-01-aartas-clinishare-expands-managed-opd-infrastructure-model-across-delhi-"
       },
       {
+        "id": "2026-11-01-ahh-commits-rs-100-crore-to-expand-ainu-s-healthcare-facilities-in-odish",
+        "title": "AHH commits Rs 100 crore to expand AINU’s healthcare facilities in Odisha",
+        "summary": "Asia Healthcare Holdings (AHH) has committed Rs 100 crore towards the expansion of its single-speciality healthcare enterprises in Odisha, including a new super-specialised uro-nephrology hospital operated by the Asian Institute of Nephrology and Urology...",
+        "source": "Express Healthcare",
+        "sourceHost": "expresshealthcare.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-11-03T12:16:08.000Z",
+        "publishedLabel": "November 3, 2026",
+        "category": "Expansion",
+        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/11/03174554/New-Project-1.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": true,
+        "originalUrl": "https://www.expresshealthcare.in/news/ahh-commits-rs-100-crore-to-expand-ainus-healthcare-facilities-in-odisha/455754/",
+        "articlePath": "/article.html?issue=2026-11-01&article=2026-11-01-ahh-commits-rs-100-crore-to-expand-ainu-s-healthcare-facilities-in-odish"
+      },
+      {
+        "id": "2026-11-01-seven-medical-associations-join-un-bloc-to-discuss-ai-adoption-in-clinic",
+        "title": "Seven medical associations join UN:BLOC to discuss AI adoption in clinical practice",
+        "summary": "The Indian Medical Association (IMA) Gurgaon and six other medical associations participated in a conference organised by UN to discuss the role of AI and emerging technologies in clinical practice. Titled Clinicians of the Future, the conference was held at...",
+        "source": "Express Healthcare",
+        "sourceHost": "expresshealthcare.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-11-03T12:12:03.000Z",
+        "publishedLabel": "November 3, 2026",
+        "category": "AI Care Delivery",
+        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/11/03174149/New-Project.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": true,
+        "originalUrl": "https://www.expresshealthcare.in/news/seven-medical-associations-join-unbloc-to-discuss-ai-adoption-in-clinical-practice/455751/",
+        "articlePath": "/article.html?issue=2026-11-01&article=2026-11-01-seven-medical-associations-join-un-bloc-to-discuss-ai-adoption-in-clinic"
+      },
+      {
         "id": "2026-11-01-prof-debraj-shome-reappointed-to-american-college-of-surgeons-board-of-g",
         "title": "Prof Debraj Shome reappointed to American College of Surgeons Board of Governors",
         "summary": "The reappointment marks his second consecutive three-year term as Governor-at-Large, representing the ACS India Chapter",
@@ -480,9 +668,26 @@
         "category": "Provider Update",
         "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2021/06/24162547/signing-agreement.jpg",
         "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/news/prof-debraj-shome-reappointed-to-american-college-of-surgeons-board-of-governors/455744/",
         "articlePath": "/article.html?issue=2026-11-01&article=2026-11-01-prof-debraj-shome-reappointed-to-american-college-of-surgeons-board-of-g"
+      },
+      {
+        "id": "2026-11-01-professor-dr-debraj-shome-reappointed-to-american-college-of-surgeons-bo",
+        "title": "Professor Dr Debraj Shome Reappointed to American College of Surgeons Board of Governors for Second Term",
+        "summary": "Mumbai: Professor Dr. Debraj Shome has been reappointed to the Board of Governors of the American College of Surgeons (ACS) for a second consecutive three-year term, extending his tenure through the...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-11-03T13:23:14.000Z",
+        "publishedLabel": "November 3, 2026",
+        "category": "AI Care Delivery",
+        "image": "https://medicaldialogues.in/h-upload/2026/11/03/481903-dr-debraj.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": true,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/professor-dr-debraj-shome-reappointed-to-american-college-of-surgeons-board-of-governors-for-second-term-182665",
+        "articlePath": "/article.html?issue=2026-11-01&article=2026-11-01-professor-dr-debraj-shome-reappointed-to-american-college-of-surgeons-bo"
       },
       {
         "id": "2026-11-01-asia-pacific-unites-to-rewrite-the-breast-cancer-equation",
@@ -567,7 +772,7 @@
         "category": "Lab Network",
         "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2024/04/29143233/Pregnancy.jpg",
         "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/news/thyrocare-enters-pregnancy-testing-segment-appoints-yami-gautam-as-brand-ambassador/455746/",
         "articlePath": "/article.html?issue=2026-11-01&article=2026-11-01-thyrocare-enters-pregnancy-testing-segment-appoints-yami-gautam-as-brand"
       },
@@ -618,6 +823,14 @@
     },
     {
       "segment": "pharma",
+      "articleId": "2026-11-01-wockhardt-seeks-14-year-data-shield-for-india-made-drugs",
+      "title": "Wockhardt seeks 14-year data shield for India-made drugs",
+      "source": "Economic Times Pharma",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "pharma",
       "articleId": "2026-11-01-weight-loss-injections-are-not-pmos-cure-experts-caution-against-self-me",
       "title": "Weight-loss injections are not PMOS cure; experts caution against self-medication",
       "source": "ET Healthworld",
@@ -625,12 +838,12 @@
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
     },
     {
-      "segment": "pharma",
-      "articleId": "2026-11-01-nadda-inaugurates-advanced-radiotherapy-facility-at-aiims-rajkot",
-      "title": "Nadda inaugurates advanced radiotherapy facility at AIIMS Rajkot",
-      "source": "ET Healthworld",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+      "segment": "providers",
+      "articleId": "2026-11-01-gujarat-cm-inaugurates-cancer-hospital-in-patan",
+      "title": "Gujarat CM inaugurates cancer hospital in Patan",
+      "source": "ET Healthworld Hospitals",
+      "solution": "THB Provider CRM",
+      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
     },
     {
       "segment": "providers",
@@ -650,25 +863,17 @@
     },
     {
       "segment": "providers",
-      "articleId": "2026-11-01-prof-debraj-shome-reappointed-to-american-college-of-surgeons-board-of-g",
-      "title": "Prof Debraj Shome reappointed to American College of Surgeons Board of Governors",
+      "articleId": "2026-11-01-ahh-commits-rs-100-crore-to-expand-ainu-s-healthcare-facilities-in-odish",
+      "title": "AHH commits Rs 100 crore to expand AINU’s healthcare facilities in Odisha",
       "source": "Express Healthcare",
       "solution": "THB Provider CRM",
       "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
     },
     {
       "segment": "providers",
-      "articleId": "2026-11-01-asia-pacific-unites-to-rewrite-the-breast-cancer-equation",
-      "title": "Asia Pacific Unites to Rewrite the Breast Cancer Equation",
-      "source": "BioSpectrum Asia Middle East",
-      "solution": "THB Provider CRM",
-      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
-    },
-    {
-      "segment": "providers",
-      "articleId": "2026-11-01-adnoc-signs-landmark-partnership-agreement-with-openai-and-g42-becoming-",
-      "title": "ADNOC signs landmark partnership agreement with OpenAI and G42, becoming first energy company to deploy OpenAI Frontier technology",
-      "source": "Zawya Pharmaceuticals",
+      "articleId": "2026-11-01-seven-medical-associations-join-un-bloc-to-discuss-ai-adoption-in-clinic",
+      "title": "Seven medical associations join UN:BLOC to discuss AI adoption in clinical practice",
+      "source": "Express Healthcare",
       "solution": "THB Provider CRM",
       "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
     },
