@@ -5,15 +5,16 @@
   "startDate": "2026-10-17T18:30:00.000Z",
   "endDate": "2026-10-23T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-11-03T20:14:03.671Z",
+  "updatedAt": "2026-11-04T12:23:21.603Z",
   "coverage": {
-    "pharma": 5,
+    "pharma": 6,
     "providers": 4,
     "diagnostics": 5,
     "healthtech": 0
   },
   "sourcesUsed": [
     "BioSpectrum India Healthcare",
+    "ET Healthworld",
     "ET Healthworld Diagnostics",
     "ET Healthworld Hospitals",
     "Economic Times Pharma",
@@ -22,6 +23,23 @@
   ],
   "segments": {
     "pharma": [
+      {
+        "id": "2026-10-18-centre-directs-states-to-enforce-ban-on-reuse-of-single-use-medical-devi",
+        "title": "Centre directs states to enforce ban on reuse of single-use medical devices",
+        "summary": "The move comes after the Directorate General of Health Services (DGHS) found that certain private and corporate hospitals were sterilising such products and using them on more than one patient, despite their being designated for single use only.",
+        "source": "ET Healthworld",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-10-23T10:24:52.000Z",
+        "publishedLabel": "October 23, 2026",
+        "category": "Industry Update",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-135142674,imgsize-97018,width-1200,height=627,overlay-ethealth,resizemode-75/policy/centre-directs-states-to-enforce-ban-on-reuse-of-single-use-medical-devices.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": false,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/policy/centre-directs-states-to-enforce-ban-on-reuse-of-single-use-medical-devices/135142674",
+        "articlePath": "/article.html?issue=2026-10-18&article=2026-10-18-centre-directs-states-to-enforce-ban-on-reuse-of-single-use-medical-devi"
+      },
       {
         "id": "2026-10-18-johnson-and-johnson-s-prostate-cancer-drug-shrinks-tumors-in-early-stage",
         "title": "Johnson & Johnson's prostate cancer drug shrinks tumors in early-stage trial",
@@ -270,6 +288,14 @@
   "thbActions": [
     {
       "segment": "pharma",
+      "articleId": "2026-10-18-centre-directs-states-to-enforce-ban-on-reuse-of-single-use-medical-devi",
+      "title": "Centre directs states to enforce ban on reuse of single-use medical devices",
+      "source": "ET Healthworld",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "pharma",
       "articleId": "2026-10-18-johnson-and-johnson-s-prostate-cancer-drug-shrinks-tumors-in-early-stage",
       "title": "Johnson & Johnson's prostate cancer drug shrinks tumors in early-stage trial",
       "source": "Economic Times Pharma",
@@ -299,14 +325,6 @@
       "source": "Lupin Updates",
       "solution": "THB Commercial Analytics",
       "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
-    },
-    {
-      "segment": "pharma",
-      "articleId": "2026-10-18-royal-sandur-forays-into-medical-devices-and-consumables-business",
-      "title": "Royal Sandur forays into Medical Devices and Consumables business",
-      "source": "BioSpectrum India Healthcare",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
     },
     {
       "segment": "providers",

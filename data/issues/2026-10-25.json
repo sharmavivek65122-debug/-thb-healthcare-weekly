@@ -5,11 +5,11 @@
   "startDate": "2026-10-24T18:30:00.000Z",
   "endDate": "2026-10-30T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-11-03T20:14:03.671Z",
+  "updatedAt": "2026-11-04T12:23:21.603Z",
   "coverage": {
-    "pharma": 19,
+    "pharma": 18,
     "providers": 4,
-    "diagnostics": 2,
+    "diagnostics": 1,
     "healthtech": 0
   },
   "sourcesUsed": [
@@ -17,7 +17,6 @@
     "ET Healthworld Diagnostics",
     "ET Healthworld Hospitals",
     "Economic Times Pharma",
-    "Express Healthcare",
     "Medical Dialogues Pharma",
     "Zawya Pharmaceuticals"
   ],
@@ -279,23 +278,6 @@
         "articlePath": "/article.html?issue=2026-10-25&article=2026-10-25-fortis-acquires-110-bed-suguna-hospital-in-bengaluru"
       },
       {
-        "id": "2026-10-25-omron-bets-on-india-with-chennai-factory-targets-10-fold-capacity-expans",
-        "title": "Omron bets on India with Chennai factory, targets 10-fold capacity expansion by 2028",
-        "summary": "The Japanese medical device maker has begun full-scale production of blood pressure monitors, with plans to expand capacity, serve global markets and add respiratory care devices.",
-        "source": "Express Healthcare",
-        "sourceHost": "expresshealthcare.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-10-31T09:16:04.000Z",
-        "publishedLabel": "October 31, 2026",
-        "category": "Market",
-        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/10/31144425/omron_collage_750x400_product_launch_factory_slide.jpg",
-        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": false,
-        "originalUrl": "https://www.expresshealthcare.in/archive/market/omron-bets-on-india-with-chennai-factory-targets-10-fold-capacity-expansion-by-2028/455729/",
-        "articlePath": "/article.html?issue=2026-10-25&article=2026-10-25-omron-bets-on-india-with-chennai-factory-targets-10-fold-capacity-expans"
-      },
-      {
         "id": "2026-10-25-granules-india-receives-11-usfda-observations-at-gagillapur-facility",
         "title": "Granules India Receives 11 USFDA Observations at Gagillapur Facility",
         "summary": "New Delhi: Granules India Limited has announced that the United States Food and Drug Administration (USFDA) has concluded a current Good Manufacturing Practice inspection of its finished dosage...",
@@ -434,23 +416,6 @@
         "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/diagnostics/thyrocare-posts-270-cr-in-q2-fy27-on-strong-pathology-performance/135339036",
         "articlePath": "/article.html?issue=2026-10-25&article=2026-10-25-thyrocare-posts-270-cr-in-q2-fy27-on-strong-pathology-performance"
-      },
-      {
-        "id": "2026-10-25-siemens-healthineers-signs-letter-of-intent-with-egyptian-ministry-of-fo",
-        "title": "Siemens Healthineers signs Letter of Intent with Egyptian Ministry of Foreign Affairs",
-        "summary": "To advance capacity building and training for Egyptian radiographers",
-        "source": "Zawya Pharmaceuticals",
-        "sourceHost": "zawya.com",
-        "region": "Middle East",
-        "country": "Middle East",
-        "publishedAt": "2026-10-29T12:38:38.941Z",
-        "publishedLabel": "October 29, 2026",
-        "category": "Industry Update",
-        "image": "https://media.zawya.com/prod/images/gm_preview/8bf7d0741e68-photo-2026-10-29-14-32-29.jpg",
-        "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
-        "justIn": false,
-        "originalUrl": "https://www.zawya.com/en/press-release/events-conferences/siemens-healthineers-signs-letter-of-intent-with-egyptian-ministry-of-foreign-affairs-1856348",
-        "articlePath": "/article.html?issue=2026-10-25&article=2026-10-25-siemens-healthineers-signs-letter-of-intent-with-egyptian-ministry-of-fo"
       }
     ],
     "healthtech": []
@@ -533,14 +498,6 @@
       "articleId": "2026-10-25-thyrocare-posts-270-cr-in-q2-fy27-on-strong-pathology-performance",
       "title": "Thyrocare posts ₹270 cr in Q2 FY27 on strong pathology performance",
       "source": "ET Healthworld Diagnostics",
-      "solution": "THB Diagnostics CRM",
-      "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
-    },
-    {
-      "segment": "diagnostics",
-      "articleId": "2026-10-25-siemens-healthineers-signs-letter-of-intent-with-egyptian-ministry-of-fo",
-      "title": "Siemens Healthineers signs Letter of Intent with Egyptian Ministry of Foreign Affairs",
-      "source": "Zawya Pharmaceuticals",
       "solution": "THB Diagnostics CRM",
       "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
     }
