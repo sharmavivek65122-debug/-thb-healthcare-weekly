@@ -5,38 +5,19 @@
   "startDate": "2026-10-03T18:30:00.000Z",
   "endDate": "2026-10-09T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-11-05T20:46:32.527Z",
+  "updatedAt": "2026-11-06T12:20:42.059Z",
   "coverage": {
-    "pharma": 1,
+    "pharma": 0,
     "providers": 3,
     "diagnostics": 3,
     "healthtech": 0
   },
   "sourcesUsed": [
     "ET Healthworld Diagnostics",
-    "ET Healthworld Hospitals",
-    "Janssen India Media"
+    "ET Healthworld Hospitals"
   ],
   "segments": {
-    "pharma": [
-      {
-        "id": "2026-10-04-new-johnson-and-johnson-icotyde-icotrokinra-long-term-data-demonstrate-r",
-        "title": "New Johnson & Johnson ICOTYDE® (icotrokinra) long-term data demonstrate robust 2-year results in the treatment of adults and adolescents with plaque psoriasis",
-        "summary": "· Phase 3 data presented at Fall Clinical Dermatology show high, sustained response rates in adults and adolescents, with nearly three-quarters achieving clear or almost clear skin at two years and a continued favorable safety profile",
-        "source": "Janssen India Media",
-        "sourceHost": "janssen.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-10-09T05:31:23.343Z",
-        "publishedLabel": "October 9, 2026",
-        "category": "Industry Update",
-        "image": "https://jnj-content-lab2.brightspotcdn.com/ac/25/bd2078f54d5992dd486ed26140ce/johnson-johnson-logo.svg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://www.jnj.com/media-center/press-releases/new-johnson-johnson-icotyde-icotrokinra-long-term-data-demonstrate-robust-2-year-results-in-the-treatment-of-adults-and-adolescents-with-plaque-psoriasis",
-        "articlePath": "/article.html?issue=2026-10-04&article=2026-10-04-new-johnson-and-johnson-icotyde-icotrokinra-long-term-data-demonstrate-r"
-      }
-    ],
+    "pharma": [],
     "providers": [
       {
         "id": "2026-10-04-wall-street-s-10-billion-india-hospital-bet-sparks-a-fight-over-bills",
@@ -146,14 +127,6 @@
     "healthtech": []
   },
   "thbActions": [
-    {
-      "segment": "pharma",
-      "articleId": "2026-10-04-new-johnson-and-johnson-icotyde-icotrokinra-long-term-data-demonstrate-r",
-      "title": "New Johnson & Johnson ICOTYDE® (icotrokinra) long-term data demonstrate robust 2-year results in the treatment of adults and adolescents with plaque psoriasis",
-      "source": "Janssen India Media",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
     {
       "segment": "providers",
       "articleId": "2026-10-04-wall-street-s-10-billion-india-hospital-bet-sparks-a-fight-over-bills",
