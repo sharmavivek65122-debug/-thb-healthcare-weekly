@@ -5,38 +5,19 @@
   "startDate": "2026-10-10T18:30:00.000Z",
   "endDate": "2026-10-16T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-11-07T11:14:56.060Z",
+  "updatedAt": "2026-11-07T18:12:46.885Z",
   "coverage": {
-    "pharma": 1,
+    "pharma": 0,
     "providers": 6,
     "diagnostics": 2,
     "healthtech": 0
   },
   "sourcesUsed": [
     "ET Healthworld Diagnostics",
-    "ET Healthworld Hospitals",
-    "Janssen India Media"
+    "ET Healthworld Hospitals"
   ],
   "segments": {
-    "pharma": [
-      {
-        "id": "2026-10-11-tremfya-guselkumab-demonstrated-sustained-clinical-and-endoscopic-remiss",
-        "title": "TREMFYA® (guselkumab) demonstrated sustained clinical and endoscopic remission through 3 years in moderately to severely active Crohn’s disease",
-        "summary": "· New long-term data showed clinical remission rates of up to 94% and endoscopic remission rates of up to 61% in adults with moderately to severely active Crohn’s disease · 88% of patients achieved 90-day corticosteroid-free clinical remission",
-        "source": "Janssen India Media",
-        "sourceHost": "janssen.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-10-13T14:39:44.333Z",
-        "publishedLabel": "October 13, 2026",
-        "category": "Industry Update",
-        "image": "https://jnj-content-lab2.brightspotcdn.com/ac/25/bd2078f54d5992dd486ed26140ce/johnson-johnson-logo.svg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://www.jnj.com/media-center/press-releases/tremfya-guselkumab-demonstrated-sustained-clinical-and-endoscopic-remission-through-3-years-in-moderately-to-severely-active-crohns-disease",
-        "articlePath": "/article.html?issue=2026-10-11&article=2026-10-11-tremfya-guselkumab-demonstrated-sustained-clinical-and-endoscopic-remiss"
-      }
-    ],
+    "pharma": [],
     "providers": [
       {
         "id": "2026-10-11-pb-health-opens-first-hospital-in-gurugram",
@@ -180,14 +161,6 @@
     "healthtech": []
   },
   "thbActions": [
-    {
-      "segment": "pharma",
-      "articleId": "2026-10-11-tremfya-guselkumab-demonstrated-sustained-clinical-and-endoscopic-remiss",
-      "title": "TREMFYA® (guselkumab) demonstrated sustained clinical and endoscopic remission through 3 years in moderately to severely active Crohn’s disease",
-      "source": "Janssen India Media",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
     {
       "segment": "providers",
       "articleId": "2026-10-11-pb-health-opens-first-hospital-in-gurugram",

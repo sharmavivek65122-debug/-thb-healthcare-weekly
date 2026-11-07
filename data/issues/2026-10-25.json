@@ -5,9 +5,9 @@
   "startDate": "2026-10-24T18:30:00.000Z",
   "endDate": "2026-10-30T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-11-07T11:14:56.060Z",
+  "updatedAt": "2026-11-07T18:12:46.885Z",
   "coverage": {
-    "pharma": 9,
+    "pharma": 8,
     "providers": 4,
     "diagnostics": 1,
     "healthtech": 0
@@ -20,23 +20,6 @@
   ],
   "segments": {
     "pharma": [
-      {
-        "id": "2026-10-25-india-s-pharma-exports-rise-4-9-to-usd-16-14-bn-in-h1-shipments-to-europ",
-        "title": "India's pharma exports rise 4.9% to USD 16.14 bn in H1; shipments to Europe up nearly 10%: Pharmexcil",
-        "summary": "India's pharmaceutical exports increased nearly 5 percent, reaching USD 16.13 billion in the first half of the fiscal year. Growth was driven by strong demand from Europe, ASEAN, and Latin America. Shipments included drug formulations, biologicals, bulk...",
-        "source": "Economic Times Pharma",
-        "sourceHost": "economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-10-29T15:33:14.000Z",
-        "publishedLabel": "October 29, 2026",
-        "category": "Industry Update",
-        "image": "https://img.etimg.com/thumb/msid-135322089,width-1200,height-900,imgsize-88260,overlay-economictimes/articleshow.jpg",
-        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": false,
-        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/indias-pharma-exports-rise-4-9-to-usd-16-14-bn-in-h1-shipments-to-europe-up-nearly-10-pharmexcil/articleshow/135321960.cms",
-        "articlePath": "/article.html?issue=2026-10-25&article=2026-10-25-india-s-pharma-exports-rise-4-9-to-usd-16-14-bn-in-h1-shipments-to-europ"
-      },
       {
         "id": "2026-10-25-cancer-drug-prices-fell-in-2019-too-but-mark-ups-of-up-to-700-are-back",
         "title": "Cancer drug prices fell in 2019 too, but mark-ups of up to 700% are back",
@@ -268,14 +251,6 @@
   "thbActions": [
     {
       "segment": "pharma",
-      "articleId": "2026-10-25-india-s-pharma-exports-rise-4-9-to-usd-16-14-bn-in-h1-shipments-to-europ",
-      "title": "India's pharma exports rise 4.9% to USD 16.14 bn in H1; shipments to Europe up nearly 10%: Pharmexcil",
-      "source": "Economic Times Pharma",
-      "solution": "THB Commercial Analytics",
-      "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
-    },
-    {
-      "segment": "pharma",
       "articleId": "2026-10-25-cancer-drug-prices-fell-in-2019-too-but-mark-ups-of-up-to-700-are-back",
       "title": "Cancer drug prices fell in 2019 too, but mark-ups of up to 700% are back",
       "source": "Economic Times Pharma",
@@ -303,6 +278,14 @@
       "articleId": "2026-10-25-theon-group-expands-its-pharmaceutical-manufacturing-footprint-through-t",
       "title": "Theon Group Expands Its Pharmaceutical Manufacturing Footprint through the Slump Sale Acquisition of Maneesh..",
       "source": "ET Healthworld",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "pharma",
+      "articleId": "2026-10-25-karnataka-govt-pauses-circular-on-medicine-price-disclosure-by-hospitals",
+      "title": "Karnataka govt pauses circular on medicine price disclosure by hospitals",
+      "source": "Economic Times Pharma",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
     },
