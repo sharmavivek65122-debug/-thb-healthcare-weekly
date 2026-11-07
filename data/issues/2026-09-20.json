@@ -5,10 +5,10 @@
   "startDate": "2026-09-19T18:30:00.000Z",
   "endDate": "2026-09-25T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-11-06T20:01:47.424Z",
+  "updatedAt": "2026-11-07T11:14:56.060Z",
   "coverage": {
     "pharma": 0,
-    "providers": 5,
+    "providers": 3,
     "diagnostics": 3,
     "healthtech": 0
   },
@@ -19,40 +19,6 @@
   "segments": {
     "pharma": [],
     "providers": [
-      {
-        "id": "2026-09-20-how-india-s-smaller-hospitals-are-becoming-the-next-big-digital-health-m",
-        "title": "How India’s smaller hospitals are becoming the next big digital health market",
-        "summary": "Smaller hospitals in India are becoming the new digital health market. As the Ayushman Bharat Digital Mission expands, the demand for digital solutions had increased. Healthcare tech companies are focusing on providing solutions tailored to smaller providers....",
-        "source": "ET Healthworld Hospitals",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-09-24T02:00:29.000Z",
-        "publishedLabel": "September 24, 2026",
-        "category": "Hospital",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-134449229,imgsize-85467,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/how-indias-smaller-hospitals-are-becoming-the-next-big-digital-health-market.jpg",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/how-indias-smaller-hospitals-are-becoming-the-next-big-digital-health-market/134449229",
-        "articlePath": "/article.html?issue=2026-09-20&article=2026-09-20-how-india-s-smaller-hospitals-are-becoming-the-next-big-digital-health-m"
-      },
-      {
-        "id": "2026-09-20-hospitals-body-rejects-hotel-analogy-for-room-charges-urges-balanced-app",
-        "title": "Hospitals’ body rejects hotel analogy for room charges, urges balanced approach to affordability",
-        "summary": "In a response to the Parliamentary Standing Committee report on “Affordability and Accessibility of Healthcare Facilities in Public and Private Sector”, AHPI said it welcomes the overall intent and several recommendations while calling for a balanced,...",
-        "source": "ET Healthworld Hospitals",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-09-24T12:47:58.000Z",
-        "publishedLabel": "September 24, 2026",
-        "category": "Hospital",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-134462894,imgsize-83573,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/hospitals-body-rejects-hotel-analogy-for-room-charges-urges-balanced-approach-to-affordability.jpg",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/hospitals-body-rejects-hotel-analogy-for-room-charges-urges-balanced-approach-to-affordability/134462894",
-        "articlePath": "/article.html?issue=2026-09-20&article=2026-09-20-hospitals-body-rejects-hotel-analogy-for-room-charges-urges-balanced-app"
-      },
       {
         "id": "2026-09-20-apollo-hospitals-appoints-upasana-konidela-as-director-of-projects",
         "title": "Apollo Hospitals appoints Upasana Konidela as director of projects",
@@ -161,22 +127,6 @@
     "healthtech": []
   },
   "thbActions": [
-    {
-      "segment": "providers",
-      "articleId": "2026-09-20-how-india-s-smaller-hospitals-are-becoming-the-next-big-digital-health-m",
-      "title": "How India’s smaller hospitals are becoming the next big digital health market",
-      "source": "ET Healthworld Hospitals",
-      "solution": "THB Provider CRM",
-      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
-    },
-    {
-      "segment": "providers",
-      "articleId": "2026-09-20-hospitals-body-rejects-hotel-analogy-for-room-charges-urges-balanced-app",
-      "title": "Hospitals’ body rejects hotel analogy for room charges, urges balanced approach to affordability",
-      "source": "ET Healthworld Hospitals",
-      "solution": "THB Provider CRM",
-      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
-    },
     {
       "segment": "providers",
       "articleId": "2026-09-20-apollo-hospitals-appoints-upasana-konidela-as-director-of-projects",
