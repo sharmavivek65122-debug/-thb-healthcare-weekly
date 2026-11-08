@@ -4,11 +4,11 @@
   "rangeLabel": "Nov 1 - Nov 7, 2026",
   "startDate": "2026-10-31T18:30:00.000Z",
   "endDate": "2026-11-06T18:30:00.000Z",
-  "status": "live",
-  "updatedAt": "2026-11-07T18:12:46.885Z",
+  "status": "published",
+  "updatedAt": "2026-11-08T11:26:44.477Z",
   "coverage": {
-    "pharma": 41,
-    "providers": 18,
+    "pharma": 40,
+    "providers": 14,
     "diagnostics": 3,
     "healthtech": 0
   },
@@ -26,6 +26,23 @@
   ],
   "segments": {
     "pharma": [
+      {
+        "id": "2026-11-01-more-than-family-business-drugmakers-make-costly-long-term-strategic-shi",
+        "title": "More than family business: Drugmakers make costly, long-term strategic shifts as next generation steps int",
+        "summary": "India's family-run pharmaceutical companies are entering a new phase as the next generation takes on larger leadership roles and steers businesses towards complex generics, peptides, biologics, contract manufacturing and advanced therapeutics. Laurus Labs,...",
+        "source": "Economic Times Pharma",
+        "sourceHost": "economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-11-07T18:14:05.000Z",
+        "publishedLabel": "November 7, 2026",
+        "category": "Manufacturing",
+        "image": "https://img.etimg.com/thumb/msid-135644431,width-1200,height-900,imgsize-98606,overlay-economictimes/articleshow.jpg",
+        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
+        "justIn": false,
+        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/more-than-family-business-drugmakers-make-costly-long-term-strategic-shifts-as-next-generation-steps-into-bigger-roles/articleshow/135644313.cms",
+        "articlePath": "/article.html?issue=2026-11-01&article=2026-11-01-more-than-family-business-drugmakers-make-costly-long-term-strategic-shi"
+      },
       {
         "id": "2026-11-01-wockhardt-expands-novel-antibiotic-miqnaf-s-access-q2-revenue-rises-24",
         "title": "Wockhardt expands novel antibiotic Miqnaf's access; Q2 revenue rises 24%",
@@ -107,7 +124,7 @@
         "category": "Industry Update",
         "image": "https://img.etimg.com/thumb/msid-135636930,width-1200,height-900,imgsize-120426,overlay-economictimes/articleshow.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/cancer-drug-prices-to-fall-by-up-to-96-from-november-9-consumers-set-to-save-rs-3502-crore-annually/articleshow/135636768.cms",
         "articlePath": "/article.html?issue=2026-11-01&article=2026-11-01-cancer-drug-prices-to-fall-by-up-to-96-from-november-9-consumers-set-to-"
       },
@@ -265,6 +282,40 @@
         "articlePath": "/article.html?issue=2026-11-01&article=2026-11-01-high-court-restrains-nppa-from-action-against-astrazeneca"
       },
       {
+        "id": "2026-11-01-aiims-awantipora-opd-services-likely-to-begin-before-dec-nadda",
+        "title": "AIIMS Awantipora OPD services likely to begin before Dec: Nadda",
+        "summary": "The inpatient department (IPD) services are proposed to begin in July 2027, while MBBS classes are expected to commence in the 2027-28 academic session, according to the Health ministry.",
+        "source": "ET Healthworld",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-11-06T02:18:44.000Z",
+        "publishedLabel": "November 6, 2026",
+        "category": "Industry Update",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-135590630,imgsize-112472,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/aiims-awantipora-opd-services-likely-to-begin-before-dec-nadda.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": false,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/aiims-awantipora-opd-services-likely-to-begin-before-dec-nadda/135590630",
+        "articlePath": "/article.html?issue=2026-11-01&article=2026-11-01-aiims-awantipora-opd-services-likely-to-begin-before-dec-nadda"
+      },
+      {
+        "id": "2026-11-01-paras-health-reports-510-9-crore-in-q2-fy27-profit-rises-3-times",
+        "title": "Paras Health reports ₹510.9 crore in Q2 FY27, profit rises 3 times",
+        "summary": "Ebitda grew 42.5 per cent YoY to Rs 126.6 crore, while PAT jumped 3.3 times to Rs 40.4 crore as compared to Rs 12.4 crore last year with PAT margin improving to 7.8 per cent from 2.7 percent.",
+        "source": "ET Healthworld",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-11-06T02:12:17.000Z",
+        "publishedLabel": "November 6, 2026",
+        "category": "Industry Update",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-135590496,imgsize-140360,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/paras-health-reports-510-9-crore-in-q2-fy27-profit-rises-3-times.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": false,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/paras-health-reports-510-9-crore-in-q2-fy27-profit-rises-3-times/135590496",
+        "articlePath": "/article.html?issue=2026-11-01&article=2026-11-01-paras-health-reports-510-9-crore-in-q2-fy27-profit-rises-3-times"
+      },
+      {
         "id": "2026-11-01-fortis-posts-2735-crore-in-q2-fy27-profit-dips-2-5",
         "title": "Fortis posts ₹2735 crore in Q2 FY27, profit dips 2.5%",
         "summary": "Revenue of Fortis’ hospital business grew 18.6 per cent YoY to Rs 2,340 crore, while PAT fell 1.1 per cent YoY to Rs 284 crore. Occupancy rose slightly to 72 per cent in Q2 FY27 from 71 per cent last year.",
@@ -345,26 +396,9 @@
         "category": "Industry Update",
         "image": "https://jnj-content-lab2.brightspotcdn.com/ac/25/bd2078f54d5992dd486ed26140ce/johnson-johnson-logo.svg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.jnj.com/media-center/press-releases/johnson-johnson-announces-icotyde-icotrokinra-delivers-significant-improvement-in-psoriatic-arthritis-disease-activity-among-biologic-naive-patients-with-once-daily-targeted-oral-peptide",
         "articlePath": "/article.html?issue=2026-11-01&article=2026-11-01-johnson-and-johnson-announces-icotyde-icotrokinra-delivers-significant-i"
-      },
-      {
-        "id": "2026-11-01-abbvie-expands-oxford-r-and-d-facility-signs-us-1-37b-ibd-drug-deal-with",
-        "title": "AbbVie expands Oxford R&D facility, signs US$1.37B IBD drug deal with Nxera | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
-        "summary": "The new site will expand AbbVie’s research capabilities and strengthen its presence in one of the UK’s established life sciences clusters.",
-        "source": "Healthcare MEA",
-        "sourceHost": "healthcaremea.com",
-        "region": "Middle East",
-        "country": "Middle East",
-        "publishedAt": "2026-11-06T06:17:43.000Z",
-        "publishedLabel": "November 6, 2026",
-        "category": "Manufacturing",
-        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/11/image-1600x900-36.png",
-        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": false,
-        "originalUrl": "https://www.healthcaremea.com/2026/11/06/abbvie-expands-oxford-rd-facility-signs-us1-37b-ibd-drug-deal-with-nxera/",
-        "articlePath": "/article.html?issue=2026-11-01&article=2026-11-01-abbvie-expands-oxford-r-and-d-facility-signs-us-1-37b-ibd-drug-deal-with"
       },
       {
         "id": "2026-11-01-pills-are-paying-off-pharma-stocks-lead-2026-rally-with-up-to-112-return",
@@ -396,7 +430,7 @@
         "category": "Industry Update",
         "image": "https://jnj-content-lab2.brightspotcdn.com/ac/25/bd2078f54d5992dd486ed26140ce/johnson-johnson-logo.svg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.jnj.com/media-center/press-releases/johnson-johnson-announces-new-phase-2-nipocalimab-study-data-in-sjogrens-disease-that-reveal-insights-on-importance-of-symptom-improvements-most-valued-by-patients",
         "articlePath": "/article.html?issue=2026-11-01&article=2026-11-01-johnson-and-johnson-announces-new-phase-2-nipocalimab-study-data-in-sj-g"
       },
@@ -498,7 +532,7 @@
         "category": "Industry Update",
         "image": "https://medicaldialogues.in/h-upload/2026/01/31/324694-gland-pharma.jpg",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/gland-pharma-q2-results-net-profit-surges-58-to-rs-291-crore-revenue-jumps-23-182917",
         "articlePath": "/article.html?issue=2026-11-01&article=2026-11-01-gland-pharma-q2-results-net-profit-surges-58-to-rs-291-crore-revenue-jum"
       },
@@ -571,57 +605,6 @@
         "articlePath": "/article.html?issue=2026-11-01&article=2026-11-01-nppa-grants-biodeal-s-midazolam-nasal-spray-5-year-price-control-exempti"
       },
       {
-        "id": "2026-11-01-nppa-fixes-retail-prices-of-34-drug-formulations-including-gemcitabine-c",
-        "title": "NPPA Fixes Retail Prices of 34 Drug Formulations Including Gemcitabine, Carbimazole",
-        "summary": "New Delhi: Through a recent notification, the National Pharmaceutical Pricing Authority (NPPA), Ministry of Chemicals and Fertilizers, Government of India, has fixed the retail prices of 34 drug...",
-        "source": "Medical Dialogues Pharma",
-        "sourceHost": "medicaldialogues.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-11-04T15:45:31.000Z",
-        "publishedLabel": "November 4, 2026",
-        "category": "Industry Update",
-        "image": "https://medicaldialogues.in/h-upload/2024/06/07/240451-price-fixation-4.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/nppa-fixes-retail-prices-of-34-drug-formulations-including-gemcitabine-carbimazole-182738",
-        "articlePath": "/article.html?issue=2026-11-01&article=2026-11-01-nppa-fixes-retail-prices-of-34-drug-formulations-including-gemcitabine-c"
-      },
-      {
-        "id": "2026-11-01-lupin-appoints-akhil-gupta-as-independent-director",
-        "title": "Lupin Appoints Akhil Gupta as Independent Director",
-        "summary": "Mumbai: Global pharmaceutical company Lupin Limited has appointed Akhil Gupta as an Additional Director (Non-Executive, Independent) to its Board, with effect from November 3, 2026. He will serve as...",
-        "source": "Medical Dialogues Pharma",
-        "sourceHost": "medicaldialogues.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-11-04T13:11:21.000Z",
-        "publishedLabel": "November 4, 2026",
-        "category": "Industry Update",
-        "image": "https://medicaldialogues.in/h-upload/2023/01/10/197256-lupin-3.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/lupin-appoints-akhil-gupta-as-independent-director-182730",
-        "articlePath": "/article.html?issue=2026-11-01&article=2026-11-01-lupin-appoints-akhil-gupta-as-independent-director"
-      },
-      {
-        "id": "2026-11-01-gland-pharma-secures-usfda-approval-for-methylprednisolone-injection-wit",
-        "title": "Gland Pharma Secures USFDA Approval for Methylprednisolone Injection with USD 214 Million US Market...",
-        "summary": "New Delhi: Gland Pharma Limited (Gland or Company), a generic injectable & ophthalmic focused pharmaceutical company, has received approval from the United States Food and Drug Administration (USFDA)...",
-        "source": "Medical Dialogues Pharma",
-        "sourceHost": "medicaldialogues.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-11-04T12:54:54.000Z",
-        "publishedLabel": "November 4, 2026",
-        "category": "Approval",
-        "image": "https://medicaldialogues.in/h-upload/2026/01/31/324694-gland-pharma.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/gland-pharma-secures-usfda-approval-for-methylprednisolone-injection-with-usd-214-million-us-market-potential-182728",
-        "articlePath": "/article.html?issue=2026-11-01&article=2026-11-01-gland-pharma-secures-usfda-approval-for-methylprednisolone-injection-wit"
-      },
-      {
         "id": "2026-11-01-cdsco-flags-gmp-concerns-at-uttarakhand-pharma-unit-recommends-immediate",
         "title": "CDSCO Flags GMP Concerns at Uttarakhand Pharma Unit, Recommends Immediate Halt to Production",
         "summary": "Dehradun: Daffohils Laboratories Private Limited, a pharmaceutical manufacturing facility in Uttarakhand's Selaqui industrial area, has reportedly continued its operations months after a joint...",
@@ -634,9 +617,26 @@
         "category": "Manufacturing",
         "image": "https://medicaldialogues.in/h-upload/2026/09/11/475113-cefepime.jpg",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/cdsco-flags-gmp-concerns-at-uttarakhand-pharma-unit-recommends-immediate-halt-to-production-182918",
         "articlePath": "/article.html?issue=2026-11-01&article=2026-11-01-cdsco-flags-gmp-concerns-at-uttarakhand-pharma-unit-recommends-immediate"
+      },
+      {
+        "id": "2026-11-01-zydus-pembrolizumab-trial-cdsco-panel-seeks-protocol-changes",
+        "title": "Zydus' Pembrolizumab Trial: CDSCO Panel Seeks Protocol Changes",
+        "summary": "New Delhi: The Subject Expert Committee (SEC) under the Central Drugs Standard Control Organisation (CDSCO) has recommended four modifications to Zydus Life Sciences Limited's proposed Phase I/III...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-11-07T13:00:57.000Z",
+        "publishedLabel": "November 7, 2026",
+        "category": "Industry Update",
+        "image": "https://medicaldialogues.in/h-upload/2024/02/09/231917-zydus-lifesciences-50.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": false,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/zydus-pembrolizumab-trial-cdsco-panel-seeks-protocol-changes-182924",
+        "articlePath": "/article.html?issue=2026-11-01&article=2026-11-01-zydus-pembrolizumab-trial-cdsco-panel-seeks-protocol-changes"
       },
       {
         "id": "2026-11-01-80-of-indian-pharma-plants-face-batch-release-delays-due-to-pending-manu",
@@ -656,23 +656,6 @@
         "articlePath": "/article.html?issue=2026-11-01&article=2026-11-01-80-of-indian-pharma-plants-face-batch-release-delays-due-to-pending-manu"
       },
       {
-        "id": "2026-11-01-syngene-reports-13-quarterly-revenue-growth-boosts-ebitda-margin-to-18-i",
-        "title": "Syngene Reports 13% Quarterly Revenue Growth, Boosts EBITDA Margin to 18% in Q2 FY27",
-        "summary": "Bengaluru: Syngene International Limited has reported a 13% sequential increase in revenue from operations to Rs 833 crore in the second quarter of FY27, compared with Rs 736 crore in the preceding...",
-        "source": "Medical Dialogues Pharma",
-        "sourceHost": "medicaldialogues.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-11-04T13:04:16.000Z",
-        "publishedLabel": "November 4, 2026",
-        "category": "Industry Update",
-        "image": "https://medicaldialogues.in/h-upload/2024/03/18/234550-syngene-50.jpg",
-        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": false,
-        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/syngene-reports-13-quarterly-revenue-growth-boosts-ebitda-margin-to-18-in-q2-fy27-182729",
-        "articlePath": "/article.html?issue=2026-11-01&article=2026-11-01-syngene-reports-13-quarterly-revenue-growth-boosts-ebitda-margin-to-18-i"
-      },
-      {
         "id": "2026-11-01-dabur-india-faces-sebi-warning-for-delay-in-reporting-usfda-regulatory-l",
         "title": "Dabur India Faces SEBI Warning for Delay in Reporting USFDA Regulatory Letter",
         "summary": "New Delhi: The Securities and Exchange Board of India (SEBI) has issued an administrative warning to Dabur India Limited for delaying the disclosure of a warning letter received from the United States...",
@@ -685,7 +668,7 @@
         "category": "Industry Update",
         "image": "https://medicaldialogues.in/h-upload/2023/08/05/215824-dabur-india.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/dabur-india-faces-sebi-warning-for-delay-in-reporting-usfda-regulatory-letter-182919",
         "articlePath": "/article.html?issue=2026-11-01&article=2026-11-01-dabur-india-faces-sebi-warning-for-delay-in-reporting-usfda-regulatory-l"
       },
@@ -702,7 +685,7 @@
         "category": "Industry Update",
         "image": "https://medicaldialogues.in/h-upload/2025/07/15/294626-gsk-new-50.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/gsk-moderna-settle-global-patent-dispute-over-covid-19-rsv-vaccines-182916",
         "articlePath": "/article.html?issue=2026-11-01&article=2026-11-01-gsk-moderna-settle-global-patent-dispute-over-covid-19-rsv-vaccines"
       },
@@ -741,40 +724,6 @@
         "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/apollo-posts-7615-crore-in-q2-fy27-profit-increases-32/135556112",
         "articlePath": "/article.html?issue=2026-11-01&article=2026-11-01-apollo-posts-7615-crore-in-q2-fy27-profit-increases-32"
-      },
-      {
-        "id": "2026-11-01-hcg-posts-731-8-crore-in-q2-fy27-pat-falls-9-3",
-        "title": "HCG posts ₹731.8 crore in Q2 FY27, PAT falls 9.3 %",
-        "summary": "HCG said the YoY decline in adjusted PAT primarily reflects a favourable one-time deferred tax adjustment in Q2 FY26 against brought-forward losses and unabsorbed depreciation at Baroda",
-        "source": "ET Healthworld Hospitals",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-11-06T02:14:26.000Z",
-        "publishedLabel": "November 6, 2026",
-        "category": "AI Care Delivery",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-135590485,imgsize-131369,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/hcg-posts-731-8-crore-in-q2-fy27-pat-falls-9-3-.jpg",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/hcg-posts-731-8-crore-in-q2-fy27-pat-falls-9-3-/135590485",
-        "articlePath": "/article.html?issue=2026-11-01&article=2026-11-01-hcg-posts-731-8-crore-in-q2-fy27-pat-falls-9-3"
-      },
-      {
-        "id": "2026-11-01-paras-health-reports-510-9-crore-in-q2-fy27-profit-rises-3-times",
-        "title": "Paras Health reports ₹510.9 crore in Q2 FY27, profit rises 3 times",
-        "summary": "Ebitda grew 42.5 per cent YoY to Rs 126.6 crore, while PAT jumped 3.3 times to Rs 40.4 crore as compared to Rs 12.4 crore last year with PAT margin improving to 7.8 per cent from 2.7 percent.",
-        "source": "ET Healthworld Hospitals",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-11-06T02:12:17.000Z",
-        "publishedLabel": "November 6, 2026",
-        "category": "Provider Update",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-135590496,imgsize-140360,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/paras-health-reports-510-9-crore-in-q2-fy27-profit-rises-3-times.jpg",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/paras-health-reports-510-9-crore-in-q2-fy27-profit-rises-3-times/135590496",
-        "articlePath": "/article.html?issue=2026-11-01&article=2026-11-01-paras-health-reports-510-9-crore-in-q2-fy27-profit-rises-3-times"
       },
       {
         "id": "2026-11-01-gujarat-cm-inaugurates-cancer-hospital-in-patan",
@@ -947,40 +896,6 @@
         "articlePath": "/article.html?issue=2026-11-01&article=2026-11-01-asia-pacific-unites-to-rewrite-the-breast-cancer-equation"
       },
       {
-        "id": "2026-11-01-jp-morgan-to-add-saudi-arabia-and-philippines-to-key-em-bond-index-over-",
-        "title": "JP Morgan to add Saudi Arabia and Philippines to key EM bond index over 10 months",
-        "summary": "The inclusion will bring Saudi riyal-denominated sovereign sukuk into the US investment bank's widely tracked GBI-EM index series",
-        "source": "Zawya Pharmaceuticals",
-        "sourceHost": "zawya.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-11-06T03:20:09.080Z",
-        "publishedLabel": "November 6, 2026",
-        "category": "Provider Update",
-        "image": "https://media.zawya.com/prod/images/gm_preview/1079fbb179b7-gettyimages-1180761837.jpg",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://www.zawya.com/en/capital-markets/islamic-economy/jp-morgan-to-add-saudi-arabia-and-philippines-to-key-em-bond-index-over-10-months-2039088",
-        "articlePath": "/article.html?issue=2026-11-01&article=2026-11-01-jp-morgan-to-add-saudi-arabia-and-philippines-to-key-em-bond-index-over-"
-      },
-      {
-        "id": "2026-11-01-dubai-s-emaar-plans-to-delist-construction-arm-after-buyout-offer",
-        "title": "Dubai's Emaar plans to delist construction arm after buyout offer",
-        "summary": "Emaar plans to offer 15 dirhams per share for the outstanding stake, valuing Emaar Development at $16.3bln",
-        "source": "Zawya Pharmaceuticals",
-        "sourceHost": "zawya.com",
-        "region": "Middle East",
-        "country": "United Arab Emirates",
-        "publishedAt": "2026-11-06T03:13:07.498Z",
-        "publishedLabel": "November 6, 2026",
-        "category": "AI Care Delivery",
-        "image": "https://media.zawya.com/prod/images/gm_preview/f0a7965d216e-2026-09-21t094937z1226425608rc2lnnau5kxwrtrmadp3emirates-tourism-emaar-1.jpg",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://www.zawya.com/en/capital-markets/real-estate/dubais-emaar-plans-todelist-construction-arm-after-buyout-offer-2033066",
-        "articlePath": "/article.html?issue=2026-11-01&article=2026-11-01-dubai-s-emaar-plans-to-delist-construction-arm-after-buyout-offer"
-      },
-      {
         "id": "2026-11-01-epinova-health-and-the-malaria-club-join-forces-to-strengthen-malaria-su",
         "title": "Epinova Health and The Malaria Club join forces to strengthen Malaria Surveillance",
         "summary": "Target high-risk communities and advance outbreak preparedness across Africa",
@@ -1090,6 +1005,14 @@
   "thbActions": [
     {
       "segment": "pharma",
+      "articleId": "2026-11-01-more-than-family-business-drugmakers-make-costly-long-term-strategic-shi",
+      "title": "More than family business: Drugmakers make costly, long-term strategic shifts as next generation steps int",
+      "source": "Economic Times Pharma",
+      "solution": "THB Commercial Analytics",
+      "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
+    },
+    {
+      "segment": "pharma",
       "articleId": "2026-11-01-wockhardt-expands-novel-antibiotic-miqnaf-s-access-q2-revenue-rises-24",
       "title": "Wockhardt expands novel antibiotic Miqnaf's access; Q2 revenue rises 24%",
       "source": "Economic Times Pharma",
@@ -1121,33 +1044,9 @@
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
     },
     {
-      "segment": "pharma",
-      "articleId": "2026-11-01-cancer-drug-prices-to-fall-by-up-to-96-from-november-9-consumers-set-to-",
-      "title": "Cancer drug prices to fall by up to 96% from November 9; consumers set to save Rs 3,502 crore annually",
-      "source": "Economic Times Pharma",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
       "segment": "providers",
       "articleId": "2026-11-01-apollo-posts-7615-crore-in-q2-fy27-profit-increases-32",
       "title": "Apollo posts ₹7615 crore in Q2 FY27, profit increases 32%",
-      "source": "ET Healthworld Hospitals",
-      "solution": "THB Provider CRM",
-      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
-    },
-    {
-      "segment": "providers",
-      "articleId": "2026-11-01-hcg-posts-731-8-crore-in-q2-fy27-pat-falls-9-3",
-      "title": "HCG posts ₹731.8 crore in Q2 FY27, PAT falls 9.3 %",
-      "source": "ET Healthworld Hospitals",
-      "solution": "THB Provider CRM",
-      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
-    },
-    {
-      "segment": "providers",
-      "articleId": "2026-11-01-paras-health-reports-510-9-crore-in-q2-fy27-profit-rises-3-times",
-      "title": "Paras Health reports ₹510.9 crore in Q2 FY27, profit rises 3 times",
       "source": "ET Healthworld Hospitals",
       "solution": "THB Provider CRM",
       "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
@@ -1164,6 +1063,22 @@
       "segment": "providers",
       "articleId": "2026-11-01-ainu-opens-uro-nephrology-hospital-in-bhubaneswar-marks-entry-into-odish",
       "title": "AINU opens uro-nephrology hospital in Bhubaneswar, marks entry into Odisha",
+      "source": "Express Healthcare",
+      "solution": "THB Provider CRM",
+      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
+    },
+    {
+      "segment": "providers",
+      "articleId": "2026-11-01-ahh-commits-rs-100-crore-to-expand-ainu-s-healthcare-facilities-in-odish",
+      "title": "AHH commits Rs 100 crore to expand AINU’s healthcare facilities in Odisha",
+      "source": "Express Healthcare",
+      "solution": "THB Provider CRM",
+      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
+    },
+    {
+      "segment": "providers",
+      "articleId": "2026-11-01-seven-medical-associations-join-un-bloc-to-discuss-ai-adoption-in-clinic",
+      "title": "Seven medical associations join UN:BLOC to discuss AI adoption in clinical practice",
       "source": "Express Healthcare",
       "solution": "THB Provider CRM",
       "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
