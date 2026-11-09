@@ -5,15 +5,17 @@
   "startDate": "2026-11-07T18:30:00.000Z",
   "endDate": "2026-11-13T18:30:00.000Z",
   "status": "live",
-  "updatedAt": "2026-11-09T13:12:34.185Z",
+  "updatedAt": "2026-11-09T23:06:13.980Z",
   "coverage": {
-    "pharma": 26,
-    "providers": 5,
-    "diagnostics": 1,
+    "pharma": 27,
+    "providers": 6,
+    "diagnostics": 2,
     "healthtech": 0
   },
   "sourcesUsed": [
+    "BioSpectrum Asia Middle East",
     "ET Healthworld",
+    "ET Healthworld Diagnostics",
     "Economic Times Pharma",
     "Express Healthcare",
     "Healthcare MEA",
@@ -22,6 +24,40 @@
   ],
   "segments": {
     "pharma": [
+      {
+        "id": "2026-11-08-over-1-300-anti-cancer-drugs-to-get-cheaper",
+        "title": "Over 1,300 anti-cancer drugs to get cheaper",
+        "summary": "India's National Pharmaceutical Pricing Authority is set to cap trade margins on anti-cancer drugs starting November 2026. The initiative aims to save around ₹2,500 crore annually for cancer patients. The list includes 1,366 drug brands, with substantial...",
+        "source": "Economic Times Pharma",
+        "sourceHost": "economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-11-09T19:30:41.000Z",
+        "publishedLabel": "November 10, 2026",
+        "category": "Industry Update",
+        "image": "https://img.etimg.com/thumb/msid-135692221,width-1200,height-900,imgsize-91772,overlay-economictimes/articleshow.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/over-1300-anti-cancer-drugs-to-get-cheaper/articleshow/135692180.cms",
+        "articlePath": "/article.html?issue=2026-11-08&article=2026-11-08-over-1-300-anti-cancer-drugs-to-get-cheaper"
+      },
+      {
+        "id": "2026-11-08-bdr-pharma-to-acquire-acme-s-oral-solid-formulations-business",
+        "title": "BDR Pharma to acquire Acme’s oral solid formulations business",
+        "summary": "BDR Pharma will acquire a controlling stake in Acme Formulations oral solid formulations business from existing shareholders, led by private equity firm PAG. The deal will strengthen BDRs contract development and manufacturing (CDMO) platform by adding...",
+        "source": "Economic Times Pharma",
+        "sourceHost": "economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-11-09T14:35:21.000Z",
+        "publishedLabel": "November 9, 2026",
+        "category": "Manufacturing",
+        "image": "https://img.etimg.com/thumb/msid-135685176,width-1200,height-900,imgsize-49734,overlay-economictimes/articleshow.jpg",
+        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
+        "justIn": true,
+        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/bdr-pharma-to-acquire-acmes-oral-solid-formulations-business/articleshow/135685101.cms",
+        "articlePath": "/article.html?issue=2026-11-08&article=2026-11-08-bdr-pharma-to-acquire-acme-s-oral-solid-formulations-business"
+      },
       {
         "id": "2026-11-08-new-blood-test-matches-gold-standard-for-liver-disease-diagnosis",
         "title": "New blood test matches gold standard for liver disease diagnosis",
@@ -35,26 +71,9 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-135664801,imgsize-77684,width-1200,height=627,overlay-ethealth,resizemode-75/industry/new-blood-test-matches-gold-standard-for-liver-disease-diagnosis.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/new-blood-test-matches-gold-standard-for-liver-disease-diagnosis/135664801",
         "articlePath": "/article.html?issue=2026-11-08&article=2026-11-08-new-blood-test-matches-gold-standard-for-liver-disease-diagnosis"
-      },
-      {
-        "id": "2026-11-08-liquid-biopsy-can-significantly-ease-financial-burden-for-cancer-patient",
-        "title": "'Liquid Biopsy can Significantly Ease Financial Burden for Cancer Patients'",
-        "summary": "Liquid biopsy, a blood-based test that detects and analyses cancer-related biomarkers, is gaining ground as a tool to monitor disease progression and guide treatment decisions. Scientists Catherine Alix-Panabieres and Klaus Pantel, who coined the term in...",
-        "source": "ET Healthworld",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-11-09T05:16:40.000Z",
-        "publishedLabel": "November 9, 2026",
-        "category": "Industry Update",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-135671766,imgsize-23300,width-1200,height=627,overlay-ethealth,resizemode-75/diagnostics/liquid-biopsy-can-significantly-ease-financial-burden-for-cancer-patients.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/diagnostics/liquid-biopsy-can-significantly-ease-financial-burden-for-cancer-patients/135671766",
-        "articlePath": "/article.html?issue=2026-11-08&article=2026-11-08-liquid-biopsy-can-significantly-ease-financial-burden-for-cancer-patient"
       },
       {
         "id": "2026-11-08-cardiologists-seek-review-of-curbs-on-reprocessing-select-medical-device",
@@ -69,7 +88,7 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-135664846,imgsize-103,width-1200,height=627,overlay-ethealth,resizemode-75/industry/cardiologists-seek-review-of-curbs-on-reprocessing-select-medical-devices-to-cut-angioplasty-costs.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/cardiologists-seek-review-of-curbs-on-reprocessing-select-medical-devices-to-cut-angioplasty-costs/135664846",
         "articlePath": "/article.html?issue=2026-11-08&article=2026-11-08-cardiologists-seek-review-of-curbs-on-reprocessing-select-medical-device"
       },
@@ -86,7 +105,7 @@
         "category": "Market",
         "image": "https://img.etimg.com/thumb/msid-135672224,width-1200,height-900,imgsize-511568,overlay-economictimes/articleshow.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/morepen-laboratories-launches-desloratadine-rx-generic-drug-product-in-us-market/articleshow/135672036.cms",
         "articlePath": "/article.html?issue=2026-11-08&article=2026-11-08-morepen-laboratories-launches-desloratadine-rx-generic-drug-product-in-u"
       },
@@ -103,7 +122,7 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-135675880,imgsize-77958,width-1200,height=627,overlay-ethealth,resizemode-75/industry/tamil-nadus-tb-care-initiative-records-at-least-38-reduction-in-deaths.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/tamil-nadus-tb-care-initiative-records-at-least-38-reduction-in-deaths/135675880",
         "articlePath": "/article.html?issue=2026-11-08&article=2026-11-08-tamil-nadu-s-tb-care-initiative-records-at-least-38-reduction-in-deaths"
       },
@@ -120,7 +139,7 @@
         "category": "Partnership",
         "image": "https://etimg.etb2bimg.com/thumb/msid-135671864,imgsize-95460,width-1200,height=627,overlay-ethealth,resizemode-75/industry/healthcare-needs-stronger-partnerships-between-hospitals-and-insurers.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/healthcare-needs-stronger-partnerships-between-hospitals-and-insurers/135671864",
         "articlePath": "/article.html?issue=2026-11-08&article=2026-11-08-healthcare-needs-stronger-partnerships-between-hospitals-and-insurers"
       },
@@ -137,26 +156,9 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-135664919,imgsize-66348,width-1200,height=627,overlay-ethealth,resizemode-75/policy/preventive-healthcare-technology-to-shape-future-of-medicine-jitendra-singh.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/policy/preventive-healthcare-technology-to-shape-future-of-medicine-jitendra-singh/135664919",
         "articlePath": "/article.html?issue=2026-11-08&article=2026-11-08-preventive-healthcare-technology-to-shape-future-of-medicine-jitendra-si"
-      },
-      {
-        "id": "2026-11-08-nmc-sounds-alarm-over-fake-medical-colleges-warns-students-against-payin",
-        "title": "NMC sounds alarm over fake medical colleges, warns students against paying admission fees without verificati..",
-        "summary": "In an advisory, the medical regulator said some institutions were offering medical and allied courses without the requisite statutory approval or recognition. Misleading advertisements, websites, social media promotions and unauthorised admission offers could...",
-        "source": "ET Healthworld",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-11-08T19:21:16.000Z",
-        "publishedLabel": "November 9, 2026",
-        "category": "Approval",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-135664796,imgsize-105403,width-1200,height=627,overlay-ethealth,resizemode-75/education/nmc-sounds-alarm-over-fake-medical-colleges-warns-students-against-paying-admission-fees-without-verification.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/education/nmc-sounds-alarm-over-fake-medical-colleges-warns-students-against-paying-admission-fees-without-verification/135664796",
-        "articlePath": "/article.html?issue=2026-11-08&article=2026-11-08-nmc-sounds-alarm-over-fake-medical-colleges-warns-students-against-payin"
       },
       {
         "id": "2026-11-08-zydus-saroglitazar-shows-promising-phase-2b-results-in-mash-patients",
@@ -188,7 +190,7 @@
         "category": "Manufacturing",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/11/image-1600x900-57.png",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/11/09/rwanda-begins-lenacapavir-rollout-across-12-health-centers-to-expand-hiv-prevention/",
         "articlePath": "/article.html?issue=2026-11-08&article=2026-11-08-rwanda-begins-lenacapavir-rollout-across-12-health-centers-to-expand-hiv"
       },
@@ -205,7 +207,7 @@
         "category": "Manufacturing",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/11/image-1600x900-56.png",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/11/09/armada-acquisition-to-merge-with-brains-bioceutical-in-us750m-nasdaq-deal/",
         "articlePath": "/article.html?issue=2026-11-08&article=2026-11-08-armada-acquisition-to-merge-with-brains-bioceutical-in-us-750m-nasdaq-de"
       },
@@ -222,7 +224,7 @@
         "category": "Approval",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/11/image-1600x900-50.png",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/11/09/jj-wins-fda-approval-for-rybrevant-faspro-in-advanced-head-and-neck-cancer/",
         "articlePath": "/article.html?issue=2026-11-08&article=2026-11-08-j-and-j-wins-fda-approval-for-rybrevant-faspro-in-advanced-head-and-neck"
       },
@@ -239,7 +241,7 @@
         "category": "Market",
         "image": "https://medicaldialogues.in/h-upload/2021/09/30/161294-morepen-labs.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/morepen-labs-launches-desloratadine-in-us-files-first-anda-for-sitagliptin-182973",
         "articlePath": "/article.html?issue=2026-11-08&article=2026-11-08-morepen-labs-launches-desloratadine-in-us-files-first-anda-for-sitaglipt"
       },
@@ -256,7 +258,7 @@
         "category": "Industry Update",
         "image": "https://medicaldialogues.in/h-upload/2025/02/05/272890-direct-acting-antiviral-drugs.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/domestic-api-push-gains-momentum-as-india-seeks-to-reduce-dependence-on-chinese-imports-182965",
         "articlePath": "/article.html?issue=2026-11-08&article=2026-11-08-domestic-api-push-gains-momentum-as-india-seeks-to-reduce-dependence-on-"
       },
@@ -273,7 +275,7 @@
         "category": "Approval",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/11/image-1600x900-55.png",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/11/09/alfasigma-secures-eu-approval-for-jyseleca-to-treat-axial-spondyloarthritis/",
         "articlePath": "/article.html?issue=2026-11-08&article=2026-11-08-alfasigma-secures-eu-approval-for-jyseleca-to-treat-axial-spondyloarthri"
       },
@@ -324,7 +326,7 @@
         "category": "Industry Update",
         "image": "https://medicaldialogues.in/h-upload/2024/02/16/232395-gland-pharma-50.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/gland-pharma-appoints-xiao-le-as-cio-sets-sights-on-global-ma-opportunities-in-us-china-182958",
         "articlePath": "/article.html?issue=2026-11-08&article=2026-11-08-gland-pharma-appoints-xiao-le-as-cio-sets-sights-on-global-m-and-a-oppor"
       },
@@ -341,7 +343,7 @@
         "category": "Manufacturing",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/11/image-1600x900-52.png",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/11/09/genedx-partners-with-mirum-to-improve-early-diagnosis-of-rare-genetic-diseases-in-us/",
         "articlePath": "/article.html?issue=2026-11-08&article=2026-11-08-genedx-partners-with-mirum-to-improve-early-diagnosis-of-rare-genetic-di"
       },
@@ -363,6 +365,40 @@
         "articlePath": "/article.html?issue=2026-11-08&article=2026-11-08-generic-medicines-relabelled-as-pfizer-s-zavicefta-emblaveo-uncovered-in"
       },
       {
+        "id": "2026-11-08-adcan-pharma-and-m42-to-collaborate-on-advanced-oncology-manufacturing-a",
+        "title": "ADCAN Pharma and M42 to collaborate on advanced oncology manufacturing and clinical research in the UAE",
+        "summary": "ADCAN Pharma and M42 to collaborate on advanced oncology manufacturing and clinical research in the UAE",
+        "source": "BioSpectrum Asia Middle East",
+        "sourceHost": "biospectrumasia.com",
+        "region": "Middle East",
+        "country": "United Arab Emirates",
+        "publishedAt": "2026-11-08T18:30:00.000Z",
+        "publishedLabel": "November 9, 2026",
+        "category": "Manufacturing",
+        "image": "https://www.biospectrumasia.com/uploads/articles/screenshot_9_11_2026_23267_www_zawya_com-28658.jpeg?v=20261109232617",
+        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
+        "justIn": true,
+        "originalUrl": "https://www.biospectrumasia.com/news/25/28658/adcan-pharma-and-m42-to-collaborate-on-advanced-oncology-manufacturing-and-clinical-research-in-the-uae.html",
+        "articlePath": "/article.html?issue=2026-11-08&article=2026-11-08-adcan-pharma-and-m42-to-collaborate-on-advanced-oncology-manufacturing-a"
+      },
+      {
+        "id": "2026-11-08-health-ministry-proposes-immediate-licence-suspension-for-substandard-dr",
+        "title": "Health Ministry Proposes Immediate Licence Suspension for Substandard Drugs, Details",
+        "summary": "New Delhi: The Ministry of Health and Family Welfare has proposed changes to the Drugs Rules, 1945, to immediately suspend the manufacturing licence for a drug if a government analyst finds specified...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-11-09T13:45:53.000Z",
+        "publishedLabel": "November 9, 2026",
+        "category": "Manufacturing",
+        "image": "https://medicaldialogues.in/h-upload/2024/09/19/253384-not-of-standard-quality.jpg",
+        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
+        "justIn": true,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/health-ministry-proposes-immediate-licence-suspension-for-substandard-drugs-details-182976",
+        "articlePath": "/article.html?issue=2026-11-08&article=2026-11-08-health-ministry-proposes-immediate-licence-suspension-for-substandard-dr"
+      },
+      {
         "id": "2026-11-08-usfda-probes-cancer-risk-linked-to-novartis-zolgensma-nine-tumour-report",
         "title": "USFDA Probes Cancer Risk Linked to Novartis' Zolgensma, Nine Tumour Reports Recorded",
         "summary": "Zurich: The US Food and Drug Administration said on Friday it was investigating a risk of neoplasia, or tumour formation including malignancy, associated with Novartis' gene therapy Zolgensma.The...",
@@ -375,7 +411,7 @@
         "category": "Industry Update",
         "image": "https://medicaldialogues.in/h-upload/2024/02/17/232451-novartis-50.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/usfda-probes-cancer-risk-linked-to-novartis-zolgensma-nine-tumour-reports-recorded-182961",
         "articlePath": "/article.html?issue=2026-11-08&article=2026-11-08-usfda-probes-cancer-risk-linked-to-novartis-zolgensma-nine-tumour-report"
       },
@@ -426,7 +462,7 @@
         "category": "Industry Update",
         "image": "https://medicaldialogues.in/h-upload/2023/10/23/223619-astellas-pharma.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/astellas-pharma-employee-jailed-in-china-for-espionage-set-for-release-in-december-182960",
         "articlePath": "/article.html?issue=2026-11-08&article=2026-11-08-astellas-pharma-employee-jailed-in-china-for-espionage-set-for-release-i"
       },
@@ -446,23 +482,6 @@
         "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/health-investments/bayer-to-invest-rs-200-crore-in-new-rd-centre-near-bengaluru-182935",
         "articlePath": "/article.html?issue=2026-11-08&article=2026-11-08-bayer-to-invest-rs-200-crore-in-new-r-and-d-centre-near-bengaluru"
-      },
-      {
-        "id": "2026-11-08-business-wheel-puts-employee-built-ai-agents-to-work-as-the-uae-moves-to",
-        "title": "Business Wheel puts employee-built AI agents to work as the UAE moves to agentic AI",
-        "summary": "37 agents built by staff in six departments have delivered an estimated 152 hours of verified work for about $100 in AI costs, and are designed to carry more than a full-time role’s workload",
-        "source": "Zawya Pharmaceuticals",
-        "sourceHost": "zawya.com",
-        "region": "Middle East",
-        "country": "United Arab Emirates",
-        "publishedAt": "2026-11-08T09:36:12.164Z",
-        "publishedLabel": "November 8, 2026",
-        "category": "Industry Update",
-        "image": "https://media.zawya.com/prod/images/gm_preview/520006407172-business-wheel-employee-built-ai-en-300dpi.png",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
-        "originalUrl": "https://www.zawya.com/en/press-release/companies-news/business-wheel-puts-employee-built-ai-agents-to-work-as-the-uae-moves-to-agentic-ai-2126298",
-        "articlePath": "/article.html?issue=2026-11-08&article=2026-11-08-business-wheel-puts-employee-built-ai-agents-to-work-as-the-uae-moves-to"
       }
     ],
     "providers": [
@@ -484,6 +503,23 @@
         "articlePath": "/article.html?issue=2026-11-08&article=2026-11-08-ab-pm-jay-and-abdm-implementation-reviewed-by-centre-and-states-at-natio"
       },
       {
+        "id": "2026-11-08-gulf-cryo-set-to-triple-co2-production-capacity-in-regional-expansion-dr",
+        "title": "Gulf Cryo set to triple CO2 production capacity in regional expansion drive",
+        "summary": "The Dubai-headquartered industrial gases company is expanding across the Gulf, with additional investments planned in Egypt, Turkey",
+        "source": "Zawya Pharmaceuticals",
+        "sourceHost": "zawya.com",
+        "region": "Middle East",
+        "country": "United Arab Emirates",
+        "publishedAt": "2026-11-08T17:36:08.033Z",
+        "publishedLabel": "November 8, 2026",
+        "category": "Expansion",
+        "image": "https://media.zawya.com/prod/images/gm_preview/fafb641aaacf-carbon-capture-plant-ksa.png",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": true,
+        "originalUrl": "https://www.zawya.com/en/projects/industry/gulf-cryo-set-to-triple-co2-production-capacity-in-regional-expansion-drive-2126497",
+        "articlePath": "/article.html?issue=2026-11-08&article=2026-11-08-gulf-cryo-set-to-triple-co2-production-capacity-in-regional-expansion-dr"
+      },
+      {
         "id": "2026-11-08-uae-national-rehabilitation-center-promotes-addiction-prevention-at-al-d",
         "title": "UAE National Rehabilitation Center promotes addiction prevention at Al Dhafra Health Forum 2026",
         "summary": "NRC participated for the fifth consecutive year, serving as a Strategic Partner and Diamond Sponsor.",
@@ -501,21 +537,38 @@
         "articlePath": "/article.html?issue=2026-11-08&article=2026-11-08-uae-national-rehabilitation-center-promotes-addiction-prevention-at-al-d"
       },
       {
-        "id": "2026-11-08-proptech-association-and-changer-club-to-invest-in-technologies-behind-d",
-        "title": "Proptech Association and Changer Club to invest in technologies behind Dubai’s real estate next chapter",
-        "summary": "Changer Club named the official investment partner of Dubai PropTech Business Group",
+        "id": "2026-11-08-fab-acquires-yasira-financial-services-strengthening-regional-fund-servi",
+        "title": "FAB acquires Yasira Financial Services, strengthening regional fund services capabilities",
+        "summary": "Acquisition will enhance FAB’s fund administration and trust services offering, expanding its capabilities to support asset managers and institutional investors across public and private markets",
         "source": "Zawya Pharmaceuticals",
         "sourceHost": "zawya.com",
         "region": "Middle East",
         "country": "United Arab Emirates",
-        "publishedAt": "2026-11-08T03:24:48.428Z",
-        "publishedLabel": "November 8, 2026",
-        "category": "AI Care Delivery",
-        "image": "https://media.zawya.com/prod/images/gm_preview/071b9942c648-changer-proptech-signing.jpg",
+        "publishedAt": "2026-11-09T07:43:27.931Z",
+        "publishedLabel": "November 9, 2026",
+        "category": "Provider Update",
+        "image": "https://media.zawya.com/prod/images/gm_preview/10da39a38a8a-first-abu-dhabi-bank.jpg",
         "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://www.zawya.com/en/press-release/companies-news/proptech-association-and-changer-club-to-invest-in-technologies-behind-dubais-real-estate-next-chapter-2126251",
-        "articlePath": "/article.html?issue=2026-11-08&article=2026-11-08-proptech-association-and-changer-club-to-invest-in-technologies-behind-d"
+        "justIn": true,
+        "originalUrl": "https://www.zawya.com/en/press-release/companies-news/fab-acquires-yasira-financial-services-strengthening-regional-fund-services-capabilities-2127580",
+        "articlePath": "/article.html?issue=2026-11-08&article=2026-11-08-fab-acquires-yasira-financial-services-strengthening-regional-fund-servi"
+      },
+      {
+        "id": "2026-11-08-dubai-square-business-district-the-address-of-ambition",
+        "title": "Dubai Square Business District: The address of ambition",
+        "summary": "A new commercial and office district of 300,000 square metres, with a total development value of AED 12 billion",
+        "source": "Zawya Pharmaceuticals",
+        "sourceHost": "zawya.com",
+        "region": "Middle East",
+        "country": "United Arab Emirates",
+        "publishedAt": "2026-11-09T10:23:50.633Z",
+        "publishedLabel": "November 9, 2026",
+        "category": "AI Care Delivery",
+        "image": "https://media.zawya.com/prod/images/gm_preview/2ff592b760e6-eyelevel.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": true,
+        "originalUrl": "https://www.zawya.com/en/press-release/companies-news/dubai-square-business-district-the-address-of-ambition-2127879",
+        "articlePath": "/article.html?issue=2026-11-08&article=2026-11-08-dubai-square-business-district-the-address-of-ambition"
       },
       {
         "id": "2026-11-08-uae-non-oil-foreign-trade-nears-817bln-in-nine-months-as-exports-reach-h",
@@ -533,26 +586,26 @@
         "justIn": false,
         "originalUrl": "https://www.zawya.com/en/economy/uae-non-oil-foreign-trade-nears-817bln-in-nine-months-as-exports-reach-historic-highs-2126500",
         "articlePath": "/article.html?issue=2026-11-08&article=2026-11-08-uae-non-oil-foreign-trade-nears-817bln-in-nine-months-as-exports-reach-h"
-      },
-      {
-        "id": "2026-11-08-jazeera-airways-commences-in-house-ground-handling-operations-at-kuwait-",
-        "title": "Jazeera Airways commences in-house ground handling operations at Kuwait International Airport",
-        "summary": "Strategic milestone strengthens operational control, enhances customer experience and drives long-term cost efficiency",
-        "source": "Zawya Pharmaceuticals",
-        "sourceHost": "zawya.com",
-        "region": "Middle East",
-        "country": "Saudi Arabia",
-        "publishedAt": "2026-11-08T03:24:50.305Z",
-        "publishedLabel": "November 8, 2026",
-        "category": "AI Care Delivery",
-        "image": "https://media.zawya.com/prod/images/gm_preview/3a6174026856-jazeera-ground-handling-operations.jpeg",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://www.zawya.com/en/press-release/companies-news/jazeera-airways-commences-in-house-ground-handling-operations-at-kuwait-international-airport-2126253",
-        "articlePath": "/article.html?issue=2026-11-08&article=2026-11-08-jazeera-airways-commences-in-house-ground-handling-operations-at-kuwait-"
       }
     ],
     "diagnostics": [
+      {
+        "id": "2026-11-08-liquid-biopsy-can-significantly-ease-financial-burden-for-cancer-patient",
+        "title": "'Liquid Biopsy can Significantly Ease Financial Burden for Cancer Patients'",
+        "summary": "Liquid biopsy, a blood-based test that detects and analyses cancer-related biomarkers, is gaining ground as a tool to monitor disease progression and guide treatment decisions. Scientists Catherine Alix-Panabieres and Klaus Pantel, who coined the term in...",
+        "source": "ET Healthworld Diagnostics",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-11-09T05:16:40.000Z",
+        "publishedLabel": "November 9, 2026",
+        "category": "Cancer Testing",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-135671766,imgsize-23300,width-1200,height=627,overlay-ethealth,resizemode-75/diagnostics/liquid-biopsy-can-significantly-ease-financial-burden-for-cancer-patients.jpg",
+        "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
+        "justIn": true,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/diagnostics/liquid-biopsy-can-significantly-ease-financial-burden-for-cancer-patients/135671766",
+        "articlePath": "/article.html?issue=2026-11-08&article=2026-11-08-liquid-biopsy-can-significantly-ease-financial-burden-for-cancer-patient"
+      },
       {
         "id": "2026-11-08-max-lab-expands-diagnostic-services-in-uttar-pradesh-with-moradabad-labo",
         "title": "Max Lab expands diagnostic services in Uttar Pradesh with Moradabad laboratory",
@@ -576,16 +629,24 @@
   "thbActions": [
     {
       "segment": "pharma",
-      "articleId": "2026-11-08-new-blood-test-matches-gold-standard-for-liver-disease-diagnosis",
-      "title": "New blood test matches gold standard for liver disease diagnosis",
-      "source": "ET Healthworld",
+      "articleId": "2026-11-08-over-1-300-anti-cancer-drugs-to-get-cheaper",
+      "title": "Over 1,300 anti-cancer drugs to get cheaper",
+      "source": "Economic Times Pharma",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
     },
     {
       "segment": "pharma",
-      "articleId": "2026-11-08-liquid-biopsy-can-significantly-ease-financial-burden-for-cancer-patient",
-      "title": "'Liquid Biopsy can Significantly Ease Financial Burden for Cancer Patients'",
+      "articleId": "2026-11-08-bdr-pharma-to-acquire-acme-s-oral-solid-formulations-business",
+      "title": "BDR Pharma to acquire Acme’s oral solid formulations business",
+      "source": "Economic Times Pharma",
+      "solution": "THB Commercial Analytics",
+      "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
+    },
+    {
+      "segment": "pharma",
+      "articleId": "2026-11-08-new-blood-test-matches-gold-standard-for-liver-disease-diagnosis",
+      "title": "New blood test matches gold standard for liver disease diagnosis",
       "source": "ET Healthworld",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
@@ -607,20 +668,20 @@
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
     },
     {
-      "segment": "pharma",
-      "articleId": "2026-11-08-tamil-nadu-s-tb-care-initiative-records-at-least-38-reduction-in-deaths",
-      "title": "Tamil Nadu's TB care initiative records at least 38% reduction in deaths",
-      "source": "ET Healthworld",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
       "segment": "providers",
       "articleId": "2026-11-08-ab-pm-jay-and-abdm-implementation-reviewed-by-centre-and-states-at-natio",
       "title": "AB PM-JAY and ABDM implementation reviewed by Centre and States at national meeting",
       "source": "Express Healthcare",
       "solution": "THB Patient Engagement",
       "action": "Recommend THB's patient engagement workflows to improve acquisition, follow-up adherence, and post-discharge retention for expanding provider groups."
+    },
+    {
+      "segment": "providers",
+      "articleId": "2026-11-08-gulf-cryo-set-to-triple-co2-production-capacity-in-regional-expansion-dr",
+      "title": "Gulf Cryo set to triple CO2 production capacity in regional expansion drive",
+      "source": "Zawya Pharmaceuticals",
+      "solution": "THB Provider CRM",
+      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
     },
     {
       "segment": "providers",
@@ -632,27 +693,27 @@
     },
     {
       "segment": "providers",
-      "articleId": "2026-11-08-proptech-association-and-changer-club-to-invest-in-technologies-behind-d",
-      "title": "Proptech Association and Changer Club to invest in technologies behind Dubai’s real estate next chapter",
+      "articleId": "2026-11-08-fab-acquires-yasira-financial-services-strengthening-regional-fund-servi",
+      "title": "FAB acquires Yasira Financial Services, strengthening regional fund services capabilities",
       "source": "Zawya Pharmaceuticals",
       "solution": "THB Provider CRM",
       "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
     },
     {
       "segment": "providers",
-      "articleId": "2026-11-08-uae-non-oil-foreign-trade-nears-817bln-in-nine-months-as-exports-reach-h",
-      "title": "UAE non-oil foreign trade nears $817bln in nine months as exports reach historic highs",
+      "articleId": "2026-11-08-dubai-square-business-district-the-address-of-ambition",
+      "title": "Dubai Square Business District: The address of ambition",
       "source": "Zawya Pharmaceuticals",
       "solution": "THB Provider CRM",
       "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
     },
     {
-      "segment": "providers",
-      "articleId": "2026-11-08-jazeera-airways-commences-in-house-ground-handling-operations-at-kuwait-",
-      "title": "Jazeera Airways commences in-house ground handling operations at Kuwait International Airport",
-      "source": "Zawya Pharmaceuticals",
-      "solution": "THB Provider CRM",
-      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
+      "segment": "diagnostics",
+      "articleId": "2026-11-08-liquid-biopsy-can-significantly-ease-financial-burden-for-cancer-patient",
+      "title": "'Liquid Biopsy can Significantly Ease Financial Burden for Cancer Patients'",
+      "source": "ET Healthworld Diagnostics",
+      "solution": "THB Diagnostics CRM",
+      "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
     },
     {
       "segment": "diagnostics",
