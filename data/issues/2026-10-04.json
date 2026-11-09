@@ -5,17 +5,16 @@
   "startDate": "2026-10-03T18:30:00.000Z",
   "endDate": "2026-10-09T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-11-08T18:26:24.617Z",
+  "updatedAt": "2026-11-09T13:12:34.185Z",
   "coverage": {
     "pharma": 0,
-    "providers": 4,
+    "providers": 3,
     "diagnostics": 3,
     "healthtech": 0
   },
   "sourcesUsed": [
     "ET Healthworld Diagnostics",
-    "ET Healthworld Hospitals",
-    "Zawya Pharmaceuticals"
+    "ET Healthworld Hospitals"
   ],
   "segments": {
     "pharma": [],
@@ -70,23 +69,6 @@
         "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/blacksoil-invest-110-crore-in-regency-hospital-in-up/134763388",
         "articlePath": "/article.html?issue=2026-10-04&article=2026-10-04-blacksoil-invest-110-crore-in-regency-hospital-in-up"
-      },
-      {
-        "id": "2026-10-04-le-m-ridien-al-aqah-beach-resort-welcomes-two-new-senior-leaders",
-        "title": "Le Méridien Al Aqah Beach Resort welcomes two new senior leaders",
-        "summary": "As the resort enters its next chapter",
-        "source": "Zawya Pharmaceuticals",
-        "sourceHost": "zawya.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-10-06T13:37:20.197Z",
-        "publishedLabel": "October 6, 2026",
-        "category": "Provider Update",
-        "image": "https://media.zawya.com/prod/images/gm_preview/6b91c3396ae4-ruchira-bandara.jpg",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://www.zawya.com/en/press-release/people-in-the-news/le-meridien-al-aqah-beach-resort-welcomes-two-new-senior-leaders-1532071",
-        "articlePath": "/article.html?issue=2026-10-04&article=2026-10-04-le-m-ridien-al-aqah-beach-resort-welcomes-two-new-senior-leaders"
       }
     ],
     "diagnostics": [
@@ -166,14 +148,6 @@
       "articleId": "2026-10-04-blacksoil-invest-110-crore-in-regency-hospital-in-up",
       "title": "BlackSoil invest ₹110 crore in Regency Hospital in UP",
       "source": "ET Healthworld Hospitals",
-      "solution": "THB Provider CRM",
-      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
-    },
-    {
-      "segment": "providers",
-      "articleId": "2026-10-04-le-m-ridien-al-aqah-beach-resort-welcomes-two-new-senior-leaders",
-      "title": "Le Méridien Al Aqah Beach Resort welcomes two new senior leaders",
-      "source": "Zawya Pharmaceuticals",
       "solution": "THB Provider CRM",
       "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
     },
