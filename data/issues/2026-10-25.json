@@ -5,38 +5,20 @@
   "startDate": "2026-10-24T18:30:00.000Z",
   "endDate": "2026-10-30T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-11-10T20:33:23.517Z",
+  "updatedAt": "2026-11-11T12:01:14.180Z",
   "coverage": {
-    "pharma": 3,
-    "providers": 5,
+    "pharma": 2,
+    "providers": 4,
     "diagnostics": 1,
     "healthtech": 0
   },
   "sourcesUsed": [
     "ET Healthworld",
     "ET Healthworld Diagnostics",
-    "ET Healthworld Hospitals",
-    "Economic Times Pharma"
+    "ET Healthworld Hospitals"
   ],
   "segments": {
     "pharma": [
-      {
-        "id": "2026-10-25-cancer-drug-prices-fell-in-2019-too-but-mark-ups-of-up-to-700-are-back",
-        "title": "Cancer drug prices fell in 2019 too, but mark-ups of up to 700% are back",
-        "summary": "The government's latest cancer drug price cuts may offer patients some relief, but the impact could be short-lived. An analysis of medicines covered in the 2019 exercise found that mark-ups had risen to as much as 700% by 2026, raising questions about whether...",
-        "source": "Economic Times Pharma",
-        "sourceHost": "economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-10-31T07:10:42.000Z",
-        "publishedLabel": "October 31, 2026",
-        "category": "Industry Update",
-        "image": "https://img.etimg.com/thumb/msid-135392469,width-1200,height-900,imgsize-120374,overlay-economictimes/articleshow.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/cancer-drug-prices-fell-in-2019-too-but-mark-ups-of-up-to-700-are-back/articleshow/135392129.cms",
-        "articlePath": "/article.html?issue=2026-10-25&article=2026-10-25-cancer-drug-prices-fell-in-2019-too-but-mark-ups-of-up-to-700-are-back"
-      },
       {
         "id": "2026-10-25-theon-group-expands-its-pharmaceutical-manufacturing-footprint-through-t",
         "title": "Theon Group Expands Its Pharmaceutical Manufacturing Footprint through the Slump Sale Acquisition of Maneesh..",
@@ -108,23 +90,6 @@
         "articlePath": "/article.html?issue=2026-10-25&article=2026-10-25-max-healthcare-posts-3-219-cr-in-q2-fy27-profit-climbs-10"
       },
       {
-        "id": "2026-10-25-apollo-launches-ai-assisted-stroke-care-programme",
-        "title": "Apollo launches AI-assisted stroke care programme",
-        "summary": "\"The 360 degree stroke care programme integrates emergency assessment, advanced neuro-intensive care, rehabilitation and home-based follow-up to provide patients with a connected pathway to recovery,\" said Dr Suresh Girgani, Consultant Neurointerventional...",
-        "source": "ET Healthworld Hospitals",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-10-29T08:41:22.000Z",
-        "publishedLabel": "October 29, 2026",
-        "category": "Patient Care",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-135297731,imgsize-199650,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/apollo-launches-ai-assisted-stroke-care-programme.jpg",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/apollo-launches-ai-assisted-stroke-care-programme/135297731",
-        "articlePath": "/article.html?issue=2026-10-25&article=2026-10-25-apollo-launches-ai-assisted-stroke-care-programme"
-      },
-      {
         "id": "2026-10-25-indira-ivf-in-talks-to-acquire-sabine-in-nearly-rs-1-300-crore-deal",
         "title": "Indira IVF in talks to acquire Sabine in nearly Rs 1,300 crore deal",
         "summary": "The proposed transaction is likely to value CX Partners-owned Sabine at ₹1,200-1,300 crore, said the people. CX Partners had acquired about 54% stake in Sabine in 2024 at a valuation of $100 million (about ₹835 crore).",
@@ -183,14 +148,6 @@
   "thbActions": [
     {
       "segment": "pharma",
-      "articleId": "2026-10-25-cancer-drug-prices-fell-in-2019-too-but-mark-ups-of-up-to-700-are-back",
-      "title": "Cancer drug prices fell in 2019 too, but mark-ups of up to 700% are back",
-      "source": "Economic Times Pharma",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
-      "segment": "pharma",
       "articleId": "2026-10-25-theon-group-expands-its-pharmaceutical-manufacturing-footprint-through-t",
       "title": "Theon Group Expands Its Pharmaceutical Manufacturing Footprint through the Slump Sale Acquisition of Maneesh..",
       "source": "ET Healthworld",
@@ -217,14 +174,6 @@
       "segment": "providers",
       "articleId": "2026-10-25-max-healthcare-posts-3-219-cr-in-q2-fy27-profit-climbs-10",
       "title": "Max Healthcare posts ₹3,219 cr in Q2 FY27, profit climbs 10%",
-      "source": "ET Healthworld Hospitals",
-      "solution": "THB Provider CRM",
-      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
-    },
-    {
-      "segment": "providers",
-      "articleId": "2026-10-25-apollo-launches-ai-assisted-stroke-care-programme",
-      "title": "Apollo launches AI-assisted stroke care programme",
       "source": "ET Healthworld Hospitals",
       "solution": "THB Provider CRM",
       "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
