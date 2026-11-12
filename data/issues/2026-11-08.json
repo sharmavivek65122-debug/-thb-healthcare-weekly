@@ -5,9 +5,9 @@
   "startDate": "2026-11-07T18:30:00.000Z",
   "endDate": "2026-11-13T18:30:00.000Z",
   "status": "live",
-  "updatedAt": "2026-11-12T13:04:55.907Z",
+  "updatedAt": "2026-11-12T21:01:01.907Z",
   "coverage": {
-    "pharma": 41,
+    "pharma": 42,
     "providers": 8,
     "diagnostics": 5,
     "healthtech": 0
@@ -37,7 +37,7 @@
         "category": "Clinical Trial",
         "image": "https://img.etimg.com/thumb/msid-135747953,width-1200,height-900,imgsize-79528,overlay-economictimes/articleshow.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/india-may-open-doors-to-multinational-pharma-firms-for-first-in-human-phase-i-trials/articleshow/135747898.cms",
         "articlePath": "/article.html?issue=2026-11-08&article=2026-11-08-india-may-open-doors-to-multinational-pharma-firms-for-first-in-human-ph"
       },
@@ -54,7 +54,7 @@
         "category": "Launch",
         "image": "https://img.etimg.com/thumb/msid-135758859,width-1200,height-900,imgsize-76068,overlay-economictimes/articleshow.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/lupin-partner-sandoz-launches-ranluspectm-across-europe-for-retinal-disease-treatment/articleshow/135758397.cms",
         "articlePath": "/article.html?issue=2026-11-08&article=2026-11-08-lupin-partner-sandoz-launches-ranluspectm-across-europe-for-retinal-dise"
       },
@@ -105,7 +105,7 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-135752180,imgsize-72694,width-1200,height=627,overlay-ethealth,resizemode-75/diagnostics/new-blood-test-finds-early-risk-for-ovarian-cancer.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/diagnostics/new-blood-test-finds-early-risk-for-ovarian-cancer/135752180",
         "articlePath": "/article.html?issue=2026-11-08&article=2026-11-08-new-blood-test-finds-early-risk-for-ovarian-cancer"
       },
@@ -224,7 +224,7 @@
         "category": "Industry Update",
         "image": "https://img.etimg.com/thumb/msid-135744048,width-1200,height-900,imgsize-443859,overlay-economictimes/articleshow.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/usfda-classifies-aurobindo-pharmas-us-facility-as-official-action-indicated/articleshow/135743453.cms",
         "articlePath": "/article.html?issue=2026-11-08&article=2026-11-08-usfda-classifies-aurobindo-pharma-s-us-facility-as-official-action-indic"
       },
@@ -246,6 +246,23 @@
         "articlePath": "/article.html?issue=2026-11-08&article=2026-11-08-morepen-laboratories-launches-desloratadine-rx-generic-drug-product-in-u"
       },
       {
+        "id": "2026-11-08-iit-kanpur-study-finds-how-pancreatic-immune-cells-suppress-insulin-prod",
+        "title": "IIT Kanpur study finds how pancreatic immune cells suppress insulin production",
+        "summary": "The study published in the Journal of Clinical Investigation, found that pancreatic immune cells called macrophages can directly communicate with insulin-producing beta cells and reduce insulin release. The researchers also confirmed that the same pathway is...",
+        "source": "ET Healthworld",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-11-12T13:31:16.000Z",
+        "publishedLabel": "November 12, 2026",
+        "category": "Industry Update",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-135771537,imgsize-56697,width-1200,height=627,overlay-ethealth,resizemode-75/industry/iit-kanpur-study-finds-how-pancreatic-immune-cells-suppress-insulin-production.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/iit-kanpur-study-finds-how-pancreatic-immune-cells-suppress-insulin-production/135771537",
+        "articlePath": "/article.html?issue=2026-11-08&article=2026-11-08-iit-kanpur-study-finds-how-pancreatic-immune-cells-suppress-insulin-prod"
+      },
+      {
         "id": "2026-11-08-iit-kharagpur-becomes-first-iit-in-country-to-introduce-pg-medical-cours",
         "title": "IIT Kharagpur becomes first IIT in country to introduce PG medical courses; gets NMC nod",
         "summary": "Beginning with the academic session 2026-27, the institute will welcome its inaugural cohort of MD students at the Dr B C Roy Multi-Speciality Medical Research Centre, marking a transformative expansion of the IIT system into postgraduate (PG) medical...",
@@ -258,7 +275,7 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-135768032,imgsize-313192,width-1200,height=627,overlay-ethealth,resizemode-75/education/iit-kharagpur-becomes-first-iit-in-country-to-introduce-pg-medical-courses-gets-nmc-nod.jpg",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/education/iit-kharagpur-becomes-first-iit-in-country-to-introduce-pg-medical-courses-gets-nmc-nod/135768032",
         "articlePath": "/article.html?issue=2026-11-08&article=2026-11-08-iit-kharagpur-becomes-first-iit-in-country-to-introduce-pg-medical-cours"
       },
@@ -275,7 +292,7 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-135768155,imgsize-53957,width-1200,height=627,overlay-ethealth,resizemode-75/industry/diabetes-linked-with-53-higher-risk-of-alzheimers-review-finds.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/diabetes-linked-with-53-higher-risk-of-alzheimers-review-finds/135768155",
         "articlePath": "/article.html?issue=2026-11-08&article=2026-11-08-diabetes-linked-with-53-higher-risk-of-alzheimer-s-review-finds"
       },
@@ -292,7 +309,7 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-135752170,imgsize-68317,width-1200,height=627,overlay-ethealth,resizemode-75/industry/study-suggests-not-all-obesity-means-ill-health.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/study-suggests-not-all-obesity-means-ill-health/135752170",
         "articlePath": "/article.html?issue=2026-11-08&article=2026-11-08-study-suggests-not-all-obesity-means-ill-health"
       },
@@ -309,7 +326,7 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-135736770,imgsize-38760,width-1200,height=627,overlay-ethealth,resizemode-75/policy/centre-proposes-provisional-registration-framework-for-allied-healthcare-professionals.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/policy/centre-proposes-provisional-registration-framework-for-allied-healthcare-professionals/135736770",
         "articlePath": "/article.html?issue=2026-11-08&article=2026-11-08-centre-proposes-provisional-registration-framework-for-allied-healthcare"
       },
@@ -326,7 +343,7 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-135722784,imgsize-85613,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/new-aiims-hospitals-record-over-6-crore-opd-consultations-since-2021-22.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/new-aiims-hospitals-record-over-6-crore-opd-consultations-since-2021-22/135722784",
         "articlePath": "/article.html?issue=2026-11-08&article=2026-11-08-new-aiims-hospitals-record-over-6-crore-opd-consultations-since-2021-22"
       },
@@ -360,9 +377,43 @@
         "category": "Industry Update",
         "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/11/12152012/Research.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/news/iit-kanpur-discover-how-immune-cells-silence-insulin-a-new-clue-in-the-fight-against-diabetes/455819/",
         "articlePath": "/article.html?issue=2026-11-08&article=2026-11-08-iit-kanpur-discover-how-immune-cells-silence-insulin-a-new-clue-in-the-f"
+      },
+      {
+        "id": "2026-11-08-lupin-sandoz-launch-ranibizumab-biosimilar-ranluspec-across-europe-exclu",
+        "title": "Lupin-Sandoz Launch Ranibizumab Biosimilar Ranluspec Across Europe, Excluding Germany",
+        "summary": "Mumbai: Global pharma major Lupin Limited (Lupin) has announced that its commercial partner, Sandoz has launched RanluspecTM, Lupin's biosimilar Ranibizumab, across Europe, excluding Germany.The...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-11-12T14:41:54.000Z",
+        "publishedLabel": "November 12, 2026",
+        "category": "Launch",
+        "image": "https://medicaldialogues.in/h-upload/2025/03/24/279930-lupin-digital-health-50-5.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/lupin-sandoz-launch-ranibizumab-biosimilar-ranluspec-across-europe-excluding-germany-183110",
+        "articlePath": "/article.html?issue=2026-11-08&article=2026-11-08-lupin-sandoz-launch-ranibizumab-biosimilar-ranluspec-across-europe-exclu"
+      },
+      {
+        "id": "2026-11-08-nppa-sets-sun-pharma-s-diclofenac-gel-price-at-rs-6-25-per-gram",
+        "title": "NPPA Sets Sun Pharma's Diclofenac Gel Price at Rs 6.25 Per Gram",
+        "summary": "New Delhi: The National Pharmaceutical Pricing Authority (NPPA) has specified a retail price of Rs. 6.25 per gram for Sun Pharmaceutical Industries Limited's Diclofenac, Methyl Salicylate and Menthol...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-11-12T14:45:52.000Z",
+        "publishedLabel": "November 12, 2026",
+        "category": "Industry Update",
+        "image": "https://medicaldialogues.in/h-upload/2024/01/16/230297-sun-pharma-new-50.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/nppa-sets-sun-pharmas-diclofenac-gel-price-at-rs-625-per-gram-183113",
+        "articlePath": "/article.html?issue=2026-11-08&article=2026-11-08-nppa-sets-sun-pharma-s-diclofenac-gel-price-at-rs-6-25-per-gram"
       },
       {
         "id": "2026-11-08-nppa-revises-ceiling-price-of-cancer-drug-oxaliplatin-details",
@@ -377,7 +428,7 @@
         "category": "Industry Update",
         "image": "https://medicaldialogues.in/h-upload/2026/02/09/326373-medicine.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/nppa-revises-ceiling-price-of-cancer-drug-oxaliplatin-details-183056",
         "articlePath": "/article.html?issue=2026-11-08&article=2026-11-08-nppa-revises-ceiling-price-of-cancer-drug-oxaliplatin-details"
       },
@@ -433,40 +484,6 @@
         "articlePath": "/article.html?issue=2026-11-08&article=2026-11-08-domestic-api-push-gains-momentum-as-india-seeks-to-reduce-dependence-on-"
       },
       {
-        "id": "2026-11-08-supriya-lifescience-sales-and-marketing-gm-sreekant-sreedharan-granted-b",
-        "title": "Supriya Lifescience Sales & Marketing GM Sreekant Sreedharan Granted Bail in NDPS Act Case",
-        "summary": "New Delhi: Supriya Lifescience Limited's General Manager - Sales & Marketing, Sreekant Sreedharan, has been granted bail by the Sessions Court in connection with judicial proceedings under the...",
-        "source": "Medical Dialogues Pharma",
-        "sourceHost": "medicaldialogues.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-11-08T11:48:19.000Z",
-        "publishedLabel": "November 8, 2026",
-        "category": "Market",
-        "image": "https://medicaldialogues.in/h-upload/2026/04/23/343309-study-links-obesity-driven-organ-enlargement-to-increased-risk-of-cancer-development-2026-04-23t163919186.jpg",
-        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": false,
-        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/supriya-lifescience-sales-marketing-gm-sreekant-sreedharan-granted-bail-in-ndps-act-case-182946",
-        "articlePath": "/article.html?issue=2026-11-08&article=2026-11-08-supriya-lifescience-sales-and-marketing-gm-sreekant-sreedharan-granted-b"
-      },
-      {
-        "id": "2026-11-08-pharma-industry-seeks-cdsco-clarity-on-batch-wise-solvent-clearance-flag",
-        "title": "Pharma Industry Seeks CDSCO Clarity on Batch-Wise Solvent Clearance, Flags Risk of Medicine Supply...",
-        "summary": "New Delhi: The Indian pharmaceutical industry has sought clarification from the Central Drugs Standard Control Organisation (CDSCO) on whether the Centre's newly introduced batch-wise digital...",
-        "source": "Medical Dialogues Pharma",
-        "sourceHost": "medicaldialogues.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-11-08T11:28:29.000Z",
-        "publishedLabel": "November 8, 2026",
-        "category": "Industry Update",
-        "image": "https://medicaldialogues.in/h-upload/2025/02/24/275685-antimalarial-drugs.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://medicaldialogues.in/news/industry/industry-perspective/pharma-industry-seeks-cdsco-clarity-on-batch-wise-solvent-clearance-flags-risk-of-medicine-supply-disruptions-182944",
-        "articlePath": "/article.html?issue=2026-11-08&article=2026-11-08-pharma-industry-seeks-cdsco-clarity-on-batch-wise-solvent-clearance-flag"
-      },
-      {
         "id": "2026-11-08-astrazeneca-acquires-omniose-to-strengthen-vaccine-development-against-s",
         "title": "AstraZeneca Acquires Omniose to Strengthen Vaccine Development Against Serious Bacterial Infections",
         "summary": "Bengaluru: AstraZeneca has acquired Omniose, an early-stage biotechnology firm developing vaccines ‌against serious bacterial infections, and folded the ‌business into its infectious diseases...",
@@ -484,38 +501,21 @@
         "articlePath": "/article.html?issue=2026-11-08&article=2026-11-08-astrazeneca-acquires-omniose-to-strengthen-vaccine-development-against-s"
       },
       {
-        "id": "2026-11-08-gland-pharma-appoints-xiao-le-as-cio-sets-sights-on-global-m-and-a-oppor",
-        "title": "Gland Pharma Appoints Xiao Le as CIO, Sets Sights on Global M&A Opportunities in US, China",
-        "summary": "Hyderabad: Gland Pharma Limited has appointed Xiao Le as the Chief Investment Officer (CIO) of its wholly owned subsidiary, Gland Pharma International Pte. Ltd., Singapore, effective November 9,...",
-        "source": "Medical Dialogues Pharma",
-        "sourceHost": "medicaldialogues.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-11-09T10:26:05.000Z",
-        "publishedLabel": "November 9, 2026",
-        "category": "Industry Update",
-        "image": "https://medicaldialogues.in/h-upload/2024/02/16/232395-gland-pharma-50.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/gland-pharma-appoints-xiao-le-as-cio-sets-sights-on-global-ma-opportunities-in-us-china-182958",
-        "articlePath": "/article.html?issue=2026-11-08&article=2026-11-08-gland-pharma-appoints-xiao-le-as-cio-sets-sights-on-global-m-and-a-oppor"
-      },
-      {
-        "id": "2026-11-08-generic-medicines-relabelled-as-pfizer-s-zavicefta-emblaveo-uncovered-in",
-        "title": "Generic Medicines Relabelled as Pfizer's Zavicefta, Emblaveo Uncovered in Bengaluru ED Raids",
-        "summary": "Bengaluru: The Directorate of Enforcement (ED), Bengaluru, has conducted searches at five premises linked to a counterfeit medicine racket involving the repackaging and relabelling of generic...",
-        "source": "Medical Dialogues Pharma",
-        "sourceHost": "medicaldialogues.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-11-08T11:10:53.000Z",
-        "publishedLabel": "November 8, 2026",
-        "category": "Industry Update",
-        "image": "https://medicaldialogues.in/h-upload/2024/10/28/258550-directorate-of-enforcement.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/generic-medicines-relabelled-as-pfizers-zavicefta-emblaveo-uncovered-in-bengaluru-ed-raids-182941",
-        "articlePath": "/article.html?issue=2026-11-08&article=2026-11-08-generic-medicines-relabelled-as-pfizer-s-zavicefta-emblaveo-uncovered-in"
+        "id": "2026-11-08-nafdac-introduces-measures-to-cut-product-registration-costs-for-nigeria",
+        "title": "NAFDAC introduces measures to cut product registration costs for Nigerian MSMEs | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
+        "summary": "By reducing registration barriers, NAFDAC aims to encourage more small manufacturers to formalise their operations and bring products into the regulated market.",
+        "source": "Healthcare MEA",
+        "sourceHost": "healthcaremea.com",
+        "region": "Middle East",
+        "country": "Middle East",
+        "publishedAt": "2026-11-12T06:26:47.000Z",
+        "publishedLabel": "November 12, 2026",
+        "category": "Manufacturing",
+        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/11/image-1600x900-82.png",
+        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
+        "justIn": true,
+        "originalUrl": "https://www.healthcaremea.com/2026/11/12/nafdac-introduces-measures-to-cut-product-registration-costs-for-nigerian-msmes/",
+        "articlePath": "/article.html?issue=2026-11-08&article=2026-11-08-nafdac-introduces-measures-to-cut-product-registration-costs-for-nigeria"
       },
       {
         "id": "2026-11-08-wockhardt-independent-director-vinesh-kumar-jairath-steps-down",
@@ -552,6 +552,23 @@
         "articlePath": "/article.html?issue=2026-11-08&article=2026-11-08-health-ministry-proposes-immediate-licence-suspension-for-substandard-dr"
       },
       {
+        "id": "2026-11-08-aurobindo-s-lannett-facility-gets-usfda-oai-classification-after-4-obser",
+        "title": "Aurobindo's Lannett Facility Gets USFDA OAI Classification After 4 Observations",
+        "summary": "Hyderabad: Aurobindo Pharma Limited has announced that the US Food and Drug Administration (USFDA) has classified the inspection of its wholly owned step-down subsidiary, Lannett Company LLC, as...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-11-12T17:22:13.000Z",
+        "publishedLabel": "November 12, 2026",
+        "category": "Industry Update",
+        "image": "https://medicaldialogues.in/h-upload/2023/06/30/213176-aurobindo-pharma.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/aurobindos-lannett-facility-gets-usfda-oai-classification-after-4-observations-183111",
+        "articlePath": "/article.html?issue=2026-11-08&article=2026-11-08-aurobindo-s-lannett-facility-gets-usfda-oai-classification-after-4-obser"
+      },
+      {
         "id": "2026-11-08-nppa-lists-1-366-cancer-drug-brands-including-palbopro-hertumab-under-30",
         "title": "NPPA Lists 1,366 Cancer Drug Brands Including Palbopro, Hertumab Under 30% Trade Margin Cap",
         "summary": "New Delhi: The National Pharmaceutical Pricing Authority (NPPA) has listed 1366 anti-cancer drug brands for a 30% trade margin cap, scheduled to take effect on November 9,2026.Its initial list, issued...",
@@ -586,23 +603,6 @@
         "articlePath": "/article.html?issue=2026-11-08&article=2026-11-08-usfda-probes-cancer-risk-linked-to-novartis-zolgensma-nine-tumour-report"
       },
       {
-        "id": "2026-11-08-gufic-biosciences-gets-itat-relief-as-rs-11-88-crore-tax-dispute-sent-ba",
-        "title": "Gufic Biosciences Gets ITAT Relief as Rs 11.88 Crore Tax Dispute Sent Back for Fresh Assessment",
-        "summary": "Mumbai: Gufic Biosciences Limited has received an order from the Income Tax Appellate Tribunal (ITAT), Mumbai, setting aside the findings of the Commissioner of Income Tax (Appeals) [CIT(A)] and...",
-        "source": "Medical Dialogues Pharma",
-        "sourceHost": "medicaldialogues.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-11-08T11:36:45.000Z",
-        "publishedLabel": "November 8, 2026",
-        "category": "Industry Update",
-        "image": "https://medicaldialogues.in/h-upload/2022/12/30/195536-gufic-new.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/gufic-biosciences-gets-itat-relief-as-rs-1188-crore-tax-dispute-sent-back-for-fresh-assessment-182945",
-        "articlePath": "/article.html?issue=2026-11-08&article=2026-11-08-gufic-biosciences-gets-itat-relief-as-rs-11-88-crore-tax-dispute-sent-ba"
-      },
-      {
         "id": "2026-11-08-usfda-issues-vai-classification-for-aurobindo-pharma-s-apitoria-facility",
         "title": "USFDA Issues VAI Classification for Aurobindo Pharma's Apitoria Facility",
         "summary": "New Delhi: Drug maker Aurobindo Pharma on Wednesday said its wholly owned subsidiary, Apitoria Pharma, received a \"Voluntary Action Indicated\" classification for its Telangana API facility from the US...",
@@ -620,6 +620,40 @@
         "articlePath": "/article.html?issue=2026-11-08&article=2026-11-08-usfda-issues-vai-classification-for-aurobindo-pharma-s-apitoria-facility"
       },
       {
+        "id": "2026-11-08-aurobindo-s-eugia-recalls-vancomycin-injection-lot-over-risk-of-blood-cl",
+        "title": "Aurobindo's Eugia Recalls Vancomycin Injection Lot Over Risk of Blood Clots, Organ Damage",
+        "summary": "New Delhi: Eugia US LLC, formerly known as Auro Medics Pharma LLC, has announced a voluntary nationwide recall of Vancomycin Hydrochloride for Injection USP 1.25 g/Vial-30 mL (Single Dose Vial) after...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-11-12T17:31:41.000Z",
+        "publishedLabel": "November 12, 2026",
+        "category": "Industry Update",
+        "image": "https://medicaldialogues.in/h-upload/2025/06/07/289931-drug-repurposing.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/aurobindos-eugia-recalls-vancomycin-injection-lot-over-risk-of-blood-clots-organ-damage-183112",
+        "articlePath": "/article.html?issue=2026-11-08&article=2026-11-08-aurobindo-s-eugia-recalls-vancomycin-injection-lot-over-risk-of-blood-cl"
+      },
+      {
+        "id": "2026-11-08-hikma-pharma-appoints-former-cipla-ceo-umang-vohra-as-independent-direct",
+        "title": "Hikma Pharma Appoints Former Cipla CEO Umang Vohra as Independent Director",
+        "summary": "London: Hikma Pharmaceuticals PLC (Hikma) announces the appointment of Umang Vohra as an independent Non-Executive Director with effect from 1 December 2026. Umang will also be appointed a member of...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-11-12T14:26:36.000Z",
+        "publishedLabel": "November 12, 2026",
+        "category": "Industry Update",
+        "image": "https://medicaldialogues.in/h-upload/2021/03/24/150583-umang-vohra.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/hikma-pharma-appoints-former-cipla-ceo-umang-vohra-as-independent-director-183108",
+        "articlePath": "/article.html?issue=2026-11-08&article=2026-11-08-hikma-pharma-appoints-former-cipla-ceo-umang-vohra-as-independent-direct"
+      },
+      {
         "id": "2026-11-08-sidra-medicine-advances-neonatal-ai-imaging-research-through-global-stud",
         "title": "Sidra Medicine advances neonatal AI imaging research through global study | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
         "summary": "Led through the Medical AI Data for All (MAIDA) initiative at Harvard Medical School, the study explored ways to adapt existing AI technologies to neonatal care without requiring hospitals to shar ...",
@@ -632,7 +666,7 @@
         "category": "Manufacturing",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/11/image-1600x900-78.png",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/11/12/sidra-medicine-advances-neonatal-ai-imaging-research-through-global-study/",
         "articlePath": "/article.html?issue=2026-11-08&article=2026-11-08-sidra-medicine-advances-neonatal-ai-imaging-research-through-global-stud"
       },
@@ -649,7 +683,7 @@
         "category": "Manufacturing",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/11/image-1600x900-87.png",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/11/12/rosti-group-acquires-alvi-group-to-expand-medical-device-manufacturing-capabilities/",
         "articlePath": "/article.html?issue=2026-11-08&article=2026-11-08-rosti-group-acquires-alvi-group-to-expand-medical-device-manufacturing-c"
       },
@@ -688,23 +722,6 @@
         "articlePath": "/article.html?issue=2026-11-08&article=2026-11-08-cdsco-seeks-urgent-action-from-states-uts-to-complete-sugam-labs-onboard"
       },
       {
-        "id": "2026-11-08-astellas-pharma-employee-jailed-in-china-for-espionage-set-for-release-i",
-        "title": "Astellas Pharma Employee Jailed in China for Espionage Set for Release in December",
-        "summary": "Tokyo: A Japanese employee of Astellas Pharma, sentenced to three years and six months ​in prison for espionage in China is ‌set to be released in mid-December and returned to Japan, Japanese media...",
-        "source": "Medical Dialogues Pharma",
-        "sourceHost": "medicaldialogues.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-11-09T10:43:16.000Z",
-        "publishedLabel": "November 9, 2026",
-        "category": "Industry Update",
-        "image": "https://medicaldialogues.in/h-upload/2023/10/23/223619-astellas-pharma.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/astellas-pharma-employee-jailed-in-china-for-espionage-set-for-release-in-december-182960",
-        "articlePath": "/article.html?issue=2026-11-08&article=2026-11-08-astellas-pharma-employee-jailed-in-china-for-espionage-set-for-release-i"
-      },
-      {
         "id": "2026-11-08-fab-board-of-directors-approves-proposed-aed-15bln-rights-issue-at-aed-1",
         "title": "FAB Board of Directors approves proposed AED 15bln rights issue at AED 13.52 per share representing a 30% discount",
         "summary": "To accelerate next phase of growth and superior returns",
@@ -717,7 +734,7 @@
         "category": "Industry Update",
         "image": "https://media.zawya.com/prod/images/gm_preview/02b613208cf5-fab-chairman-hh-sheikh-tahnoon-bin-zayed-al-nahyan.png",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.zawya.com/en/press-release/companies-news/fab-board-of-directors-approves-proposed-aed-15bln-rights-issue-at-aed-13.52-per-share-representing-a-30-discount-2224187",
         "articlePath": "/article.html?issue=2026-11-08&article=2026-11-08-fab-board-of-directors-approves-proposed-aed-15bln-rights-issue-at-aed-1"
       }
@@ -736,7 +753,7 @@
         "category": "Expansion",
         "image": "https://etimg.etb2bimg.com/thumb/msid-135757927,imgsize-113492,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/metropolis-3-0-to-build-a-profitable-business-through-capacity-science-and-technology-investments.jpg",
         "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/metropolis-3-0-to-build-a-profitable-business-through-capacity-science-and-technology-investments/135757927",
         "articlePath": "/article.html?issue=2026-11-08&article=2026-11-08-metropolis-3-0-to-build-a-profitable-business-through-capacity-science-a"
       },
@@ -753,7 +770,7 @@
         "category": "Hospital",
         "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/11/12101556/Mayank-Banerjee-Co-founder-Even-Healthcare.jpg",
         "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/news/building-a-connected-model-of-healthcare-delivery/455810/",
         "articlePath": "/article.html?issue=2026-11-08&article=2026-11-08-building-a-connected-model-of-healthcare-delivery"
       },
@@ -804,7 +821,7 @@
         "category": "AI Care Delivery",
         "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/11/12113214/Dr-Santosh-Kumar-Dora-Senior-Interventional-Cardiologist-Asian-Heart-Institute.jpg",
         "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/news/can-next-generation-lipid-therapies-help-indian-men-under-40-protect-their-hearts/455813/",
         "articlePath": "/article.html?issue=2026-11-08&article=2026-11-08-can-next-generation-lipid-therapies-help-indian-men-under-40-protect-the"
       },
@@ -855,7 +872,7 @@
         "category": "Provider Update",
         "image": "https://assets.zawya.com/prod/assets/arrow-down-fill.d30923dc.svg",
         "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.zawya.com/en/press-release/companies-news/saudi-venture-capital-invests-in-jadwa-investments-flagship-private-credit-fund-2211633",
         "articlePath": "/article.html?issue=2026-11-08&article=2026-11-08-saudi-venture-capital-invests-in-jadwa-investment-s-flagship-private-cre"
       }
@@ -908,7 +925,7 @@
         "category": "Lab Network",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/11/image-1600x900-80.png",
         "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/11/12/art-fertility-clinics-partners-with-conceivable-life-sciences-to-explore-robotic-ivf-technology-in-abu-dhabi/",
         "articlePath": "/article.html?issue=2026-11-08&article=2026-11-08-art-fertility-clinics-partners-with-conceivable-life-sciences-to-explore"
       },
@@ -942,7 +959,7 @@
         "category": "Industry Update",
         "image": "https://assets.zawya.com/prod/assets/arrow-down-fill.d30923dc.svg",
         "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.zawya.com/en/press-release/team-behind-smart-salem-launch-innovative-dna-driven-longevity-platform-2144995",
         "articlePath": "/article.html?issue=2026-11-08&article=2026-11-08-team-behind-smart-salem-launch-innovative-dna-driven-longevity-platform"
       }

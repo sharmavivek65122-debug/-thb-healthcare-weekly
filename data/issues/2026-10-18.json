@@ -5,9 +5,9 @@
   "startDate": "2026-10-17T18:30:00.000Z",
   "endDate": "2026-10-23T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-11-12T13:04:55.907Z",
+  "updatedAt": "2026-11-12T21:01:01.907Z",
   "coverage": {
-    "pharma": 2,
+    "pharma": 3,
     "providers": 4,
     "diagnostics": 5,
     "healthtech": 0
@@ -16,10 +16,28 @@
     "BioSpectrum India Healthcare",
     "ET Healthworld Diagnostics",
     "ET Healthworld Hospitals",
+    "Janssen India Media",
     "Lupin Updates"
   ],
   "segments": {
     "pharma": [
+      {
+        "id": "2026-10-18-johnson-and-johnson-showcases-breadth-of-rheumatology-innovation-at-acr-",
+        "title": "Johnson & Johnson showcases breadth of rheumatology innovation at ACR Convergence 2026 with 43 presentations, including late-breaking data on ICOTYDE® (icotrokinra) in psoriatic arthritis",
+        "summary": "Patient data from the Phase 2 study of nipocalimab in Sjögren’s disease identify improvements in most core patient-relevant symptoms, with associated improvements in health-related quality of life Positive Phase 2 data support continued development of...",
+        "source": "Janssen India Media",
+        "sourceHost": "janssen.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-10-22T06:35:00.000Z",
+        "publishedLabel": "October 22, 2026",
+        "category": "Industry Update",
+        "image": "https://jnj-content-lab2.brightspotcdn.com/ac/25/bd2078f54d5992dd486ed26140ce/johnson-johnson-logo.svg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": false,
+        "originalUrl": "https://www.jnj.com/media-center/press-releases/johnson-johnson-showcases-breadth-of-rheumatology-innovation-at-acr-convergence-2026-with-43-presentations-including-late-breaking-data-on-icotyde-icotrokinra-in-psoriatic-arthritis",
+        "articlePath": "/article.html?issue=2026-10-18&article=2026-10-18-johnson-and-johnson-showcases-breadth-of-rheumatology-innovation-at-acr-"
+      },
       {
         "id": "2026-10-18-pharma-q2-outlook-pricing-pressure-us-competition-to-weigh-on-select-pla",
         "title": "Pharma Q2 Outlook: Pricing pressure, US competition to weigh on select players",
@@ -215,6 +233,14 @@
     "healthtech": []
   },
   "thbActions": [
+    {
+      "segment": "pharma",
+      "articleId": "2026-10-18-johnson-and-johnson-showcases-breadth-of-rheumatology-innovation-at-acr-",
+      "title": "Johnson & Johnson showcases breadth of rheumatology innovation at ACR Convergence 2026 with 43 presentations, including late-breaking data on ICOTYDE® (icotrokinra) in psoriatic arthritis",
+      "source": "Janssen India Media",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
     {
       "segment": "pharma",
       "articleId": "2026-10-18-pharma-q2-outlook-pricing-pressure-us-competition-to-weigh-on-select-pla",
