@@ -5,21 +5,20 @@
   "startDate": "2026-10-31T18:30:00.000Z",
   "endDate": "2026-11-06T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-11-11T12:01:14.180Z",
+  "updatedAt": "2026-11-12T13:04:55.907Z",
   "coverage": {
-    "pharma": 20,
-    "providers": 9,
+    "pharma": 13,
+    "providers": 10,
     "diagnostics": 1,
     "healthtech": 0
   },
   "sourcesUsed": [
+    "BioSpectrum Asia Middle East",
     "ET Healthworld",
     "ET Healthworld Hospitals",
     "Economic Times Pharma",
     "Express Healthcare",
-    "Janssen India Media",
-    "Lupin Updates",
-    "Zawya Pharmaceuticals"
+    "Lupin Updates"
   ],
   "segments": {
     "pharma": [
@@ -41,23 +40,6 @@
         "articlePath": "/article.html?issue=2026-11-01&article=2026-11-01-more-than-family-business-drugmakers-make-costly-long-term-strategic-shi"
       },
       {
-        "id": "2026-11-01-wockhardt-expands-novel-antibiotic-miqnaf-s-access-q2-revenue-rises-24",
-        "title": "Wockhardt expands novel antibiotic Miqnaf's access; Q2 revenue rises 24%",
-        "summary": "Wockhardt has expanded its marketing access for Miqnaf in India following the removal of a supply condition. The company's biotechnology sector recorded significant revenue growth, indicating strong demand for its products. Zaynich received US FDA approval...",
-        "source": "Economic Times Pharma",
-        "sourceHost": "economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-11-02T11:57:36.000Z",
-        "publishedLabel": "November 2, 2026",
-        "category": "Approval",
-        "image": "https://img.etimg.com/thumb/msid-135461125,width-1200,height-900,imgsize-152840,overlay-economictimes/articleshow.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/wockhardt-expands-novel-antibiotic-miqnafs-access-q2-revenue-rises-24/articleshow/135460959.cms",
-        "articlePath": "/article.html?issue=2026-11-01&article=2026-11-01-wockhardt-expands-novel-antibiotic-miqnaf-s-access-q2-revenue-rises-24"
-      },
-      {
         "id": "2026-11-01-fda-flags-persistent-data-integrity-lapses-insanitary-conditions-at-indi",
         "title": "FDA flags persistent data-integrity lapses, insanitary conditions at Indian drug facilities",
         "summary": "The US FDA continues to identify serious data integrity issues in Indian pharmaceutical manufacturing facilities. During inspections, inspectors found discarded documents related to key manufacturing processes, highlighting compliance concerns. To ensure safe...",
@@ -73,40 +55,6 @@
         "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/fda-flags-persistent-data-integrity-lapses-insanitary-conditions-at-indian-drug-facilities/articleshow/135584126.cms",
         "articlePath": "/article.html?issue=2026-11-01&article=2026-11-01-fda-flags-persistent-data-integrity-lapses-insanitary-conditions-at-indi"
-      },
-      {
-        "id": "2026-11-01-india-s-medicine-sales-grow-in-double-digits-for-four-straight-quarters-",
-        "title": "India’s medicine sales grow in double digits for four straight quarters, led by chronic care drugs",
-        "summary": "Over the past four quarters, India's medicine sales have increased significantly due to rising demand in chronic care segments. The growth rate reached 12% year-on-year in the September quarter, showing a positive trend in the industry. Larger pharmaceutical...",
-        "source": "Economic Times Pharma",
-        "sourceHost": "economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-11-01T18:37:30.000Z",
-        "publishedLabel": "November 2, 2026",
-        "category": "Industry Update",
-        "image": "https://img.etimg.com/thumb/msid-135435683,width-1200,height-900,imgsize-75370,overlay-economictimes/articleshow.jpg",
-        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": false,
-        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/indias-medicine-sales-grow-in-double-digits-for-four-straight-quarters-led-by-chronic-care-drugs/articleshow/135435486.cms",
-        "articlePath": "/article.html?issue=2026-11-01&article=2026-11-01-india-s-medicine-sales-grow-in-double-digits-for-four-straight-quarters-"
-      },
-      {
-        "id": "2026-11-01-alkem-laboratories-appoints-amrut-naik-as-ceo",
-        "title": "Alkem Laboratories appoints Amrut Naik as CEO",
-        "summary": "Alkem Laboratories announced the appointment of Amrut Naik as its new Chief Executive Officer. His appointment is effective from November 11, following board approval and nomination committee recommendations. Naik has more than 26 years of experience in...",
-        "source": "Economic Times Pharma",
-        "sourceHost": "economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-11-03T11:25:44.000Z",
-        "publishedLabel": "November 3, 2026",
-        "category": "Approval",
-        "image": "https://img.etimg.com/thumb/msid-135494668,width-1200,height-900,imgsize-92220,overlay-economictimes/articleshow.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/alkem-laboratories-appoints-amrut-naik-as-ceo/articleshow/135494576.cms",
-        "articlePath": "/article.html?issue=2026-11-01&article=2026-11-01-alkem-laboratories-appoints-amrut-naik-as-ceo"
       },
       {
         "id": "2026-11-01-cancer-drug-prices-to-fall-by-up-to-96-from-november-9-consumers-set-to-",
@@ -245,23 +193,6 @@
         "articlePath": "/article.html?issue=2026-11-01&article=2026-11-01-hrv-pharma-buys-germany-s-phatebo"
       },
       {
-        "id": "2026-11-01-high-court-restrains-nppa-from-action-against-astrazeneca",
-        "title": "High Court restrains NPPA from action against AstraZeneca",
-        "summary": "The Delhi High Court has issued a temporary restraining order against the NPPA's actions toward AstraZeneca Pharma. This order remains in effect until the next hearing date, January 11. AstraZeneca has argued that its product may not fall under controlled...",
-        "source": "Economic Times Pharma",
-        "sourceHost": "economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-11-02T19:18:19.000Z",
-        "publishedLabel": "November 3, 2026",
-        "category": "Industry Update",
-        "image": "https://img.etimg.com/thumb/msid-135472980,width-1200,height-900,imgsize-118622,overlay-economictimes/articleshow.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/high-court-restrains-nppa-from-action-against-astrazeneca/articleshow/135472551.cms",
-        "articlePath": "/article.html?issue=2026-11-01&article=2026-11-01-high-court-restrains-nppa-from-action-against-astrazeneca"
-      },
-      {
         "id": "2026-11-01-manipal-bags-gurugram-land-lease-for-new-multi-speciality-hospital",
         "title": "Manipal bags Gurugram land lease for new multi-speciality hospital",
         "summary": "The healthcare major said it had entered into a long term arrangement with Thakral Corporation structured as a long-term land lease for an initial period of approximately 30 years. The first phase of the proposed hospital is expected to have up to 500 beds.",
@@ -296,23 +227,6 @@
         "articlePath": "/article.html?issue=2026-11-01&article=2026-11-01-max-oncology-inpatient-revenue-falls-after-chemotherapy-drug-discontinua"
       },
       {
-        "id": "2026-11-01-johnson-and-johnson-announces-icotyde-icotrokinra-delivers-significant-i",
-        "title": "Johnson & Johnson announces ICOTYDE® (icotrokinra) delivers significant improvement in psoriatic arthritis disease activity among biologic-naive patients with once-daily targeted oral peptide",
-        "summary": "· Late-breaking data from Phase 3 investigational study presented at the American College of Rheumatology Convergence show 58% of ICOTYDE-treated patients achieved an ACR20 response and 29% achieved an ACR50 response at Week 16 · ICOTYDE is a first-in-class...",
-        "source": "Janssen India Media",
-        "sourceHost": "janssen.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-11-07T09:41:22.578Z",
-        "publishedLabel": "November 7, 2026",
-        "category": "Industry Update",
-        "image": "https://jnj-content-lab2.brightspotcdn.com/ac/25/bd2078f54d5992dd486ed26140ce/johnson-johnson-logo.svg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://www.jnj.com/media-center/press-releases/johnson-johnson-announces-icotyde-icotrokinra-delivers-significant-improvement-in-psoriatic-arthritis-disease-activity-among-biologic-naive-patients-with-once-daily-targeted-oral-peptide",
-        "articlePath": "/article.html?issue=2026-11-01&article=2026-11-01-johnson-and-johnson-announces-icotyde-icotrokinra-delivers-significant-i"
-      },
-      {
         "id": "2026-11-01-pills-are-paying-off-pharma-stocks-lead-2026-rally-with-up-to-112-return",
         "title": "Pills are paying off! Pharma stocks lead 2026 rally with up to 112% return",
         "summary": "In 2026, India's pharmaceutical stocks are making headlines with impressive year-to-date gains. This surge is driven by strong domestic demand alongside enhanced profitability from new product launches. Notable players like Laurus Labs and Gland Pharma have...",
@@ -328,43 +242,26 @@
         "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/markets/stocks/news/pills-are-paying-off-pharma-stocks-lead-2026-rally-with-up-to-112-return/articleshow/135561757.cms",
         "articlePath": "/article.html?issue=2026-11-01&article=2026-11-01-pills-are-paying-off-pharma-stocks-lead-2026-rally-with-up-to-112-return"
-      },
-      {
-        "id": "2026-11-01-johnson-and-johnson-announces-new-phase-2-nipocalimab-study-data-in-sj-g",
-        "title": "Johnson & Johnson announces new Phase 2 nipocalimab study data in Sjögren’s disease that reveal insights on importance of symptom improvements most valued by patients",
-        "summary": "· New patient experience dataa to be presented at ACR 2026 show mouth dryness was reported as the most important symptom to improve, followed by eye dryness, fatigue and joint pain · Patient insights complement Phase 2 study results demonstrating a 50%...",
-        "source": "Janssen India Media",
-        "sourceHost": "janssen.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-11-07T09:44:42.920Z",
-        "publishedLabel": "November 7, 2026",
-        "category": "Industry Update",
-        "image": "https://jnj-content-lab2.brightspotcdn.com/ac/25/bd2078f54d5992dd486ed26140ce/johnson-johnson-logo.svg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://www.jnj.com/media-center/press-releases/johnson-johnson-announces-new-phase-2-nipocalimab-study-data-in-sjogrens-disease-that-reveal-insights-on-importance-of-symptom-improvements-most-valued-by-patients",
-        "articlePath": "/article.html?issue=2026-11-01&article=2026-11-01-johnson-and-johnson-announces-new-phase-2-nipocalimab-study-data-in-sj-g"
-      },
-      {
-        "id": "2026-11-01-johnson-and-johnson-announces-u-s-fda-approval-of-rybrevant-faspro-amiva",
-        "title": "Johnson & Johnson announces U.S. FDA Approval of RYBREVANT FASPRO™ (amivantamab and hyaluronidase-lpuj) as First and Only Dual-Targeted Therapy for Advanced Head and Neck Cancer",
-        "summary": "· Accelerated approval based on data demonstrating clinically meaningful efficacy, including a 42 percent overall response rate (95 percent confidence interval, 32–52 percent)1 · First advancement in the second-line treatment setting for recurrent or...",
-        "source": "Janssen India Media",
-        "sourceHost": "janssen.com",
-        "region": "Middle East",
-        "country": "Oman",
-        "publishedAt": "2026-11-05T17:29:32.968Z",
-        "publishedLabel": "November 5, 2026",
-        "category": "Approval",
-        "image": "https://jnj-content-lab2.brightspotcdn.com/ac/25/bd2078f54d5992dd486ed26140ce/johnson-johnson-logo.svg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://www.jnj.com/media-center/press-releases/johnson-johnson-announces-u-s-fda-approval-of-rybrevant-faspro-amivantamab-and-hyaluronidase-lpuj-as-first-and-only-dual-targeted-therapy-for-advanced-head-and-neck-cancer",
-        "articlePath": "/article.html?issue=2026-11-01&article=2026-11-01-johnson-and-johnson-announces-u-s-fda-approval-of-rybrevant-faspro-amiva"
       }
     ],
     "providers": [
+      {
+        "id": "2026-11-01-apollo-posts-7615-crore-in-q2-fy27-profit-increases-32",
+        "title": "Apollo posts ₹7615 crore in Q2 FY27, profit increases 32%",
+        "summary": "Hospital occupancy was at 73 per cent in Q2 FY27, compared with 69 per cent in Q2 FY26 while ARPP stood at Rs. 1,86,880 an increase of 8 per cent YoY.",
+        "source": "ET Healthworld Hospitals",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-11-05T02:28:12.000Z",
+        "publishedLabel": "November 5, 2026",
+        "category": "Hospital",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-135556112,imgsize-86733,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/apollo-posts-7615-crore-in-q2-fy27-profit-increases-32.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": false,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/apollo-posts-7615-crore-in-q2-fy27-profit-increases-32/135556112",
+        "articlePath": "/article.html?issue=2026-11-01&article=2026-11-01-apollo-posts-7615-crore-in-q2-fy27-profit-increases-32"
+      },
       {
         "id": "2026-11-01-aster-dm-quality-care-posts-2-829-cr-in-q2-fy27-pat-rises-34",
         "title": "Aster DM Quality Care posts ₹2,829 cr in Q2 FY27, PAT rises 34%",
@@ -381,6 +278,23 @@
         "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/aster-dm-quality-care-posts-2829-cr-in-q2-fy27-pat-rises-34/135624391",
         "articlePath": "/article.html?issue=2026-11-01&article=2026-11-01-aster-dm-quality-care-posts-2-829-cr-in-q2-fy27-pat-rises-34"
+      },
+      {
+        "id": "2026-11-01-hcg-posts-731-8-crore-in-q2-fy27-pat-falls-9-3",
+        "title": "HCG posts ₹731.8 crore in Q2 FY27, PAT falls 9.3 %",
+        "summary": "HCG said the YoY decline in adjusted PAT primarily reflects a favourable one-time deferred tax adjustment in Q2 FY26 against brought-forward losses and unabsorbed depreciation at Baroda",
+        "source": "ET Healthworld Hospitals",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-11-06T02:14:26.000Z",
+        "publishedLabel": "November 6, 2026",
+        "category": "AI Care Delivery",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-135590485,imgsize-131369,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/hcg-posts-731-8-crore-in-q2-fy27-pat-falls-9-3-.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": false,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/hcg-posts-731-8-crore-in-q2-fy27-pat-falls-9-3-/135590485",
+        "articlePath": "/article.html?issue=2026-11-01&article=2026-11-01-hcg-posts-731-8-crore-in-q2-fy27-pat-falls-9-3"
       },
       {
         "id": "2026-11-01-paras-health-reports-510-9-crore-in-q2-fy27-profit-rises-3-times",
@@ -434,6 +348,23 @@
         "articlePath": "/article.html?issue=2026-11-01&article=2026-11-01-forensic-audit-no-hurdle-to-ihh-increasing-stake-in-fortis-dr-raghuvansh"
       },
       {
+        "id": "2026-11-01-healthcare-is-not-a-cost-plus-model-govt-needs-sensitising-suneeta-reddy",
+        "title": "Healthcare is not a cost-plus model, govt needs sensitising: Suneeta Reddy",
+        "summary": "Speaking at the company’s second quarter earnings call on the recent regulatory changes on the healthcare sector, Reddy said “We need to continue to sensitise them (the government). They are looking at it in terms of the costs of cancer medicines or...",
+        "source": "ET Healthworld Hospitals",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-11-05T12:17:06.000Z",
+        "publishedLabel": "November 5, 2026",
+        "category": "AI Care Delivery",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-135573022,imgsize-77058,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/healthcare-is-not-a-cost-plus-model-govt-needs-sensitising-suneeta-reddy.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": false,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/healthcare-is-not-a-cost-plus-model-govt-needs-sensitising-suneeta-reddy/135573022",
+        "articlePath": "/article.html?issue=2026-11-01&article=2026-11-01-healthcare-is-not-a-cost-plus-model-govt-needs-sensitising-suneeta-reddy"
+      },
+      {
         "id": "2026-11-01-gujarat-cm-inaugurates-cancer-hospital-in-patan",
         "title": "Gujarat CM inaugurates cancer hospital in Patan",
         "summary": "Addressing the gathering, Patel said the facility will make specialised cancer care more accessible to patients in Patan and neighbouring regions. The statement added that the hospital will also provide PET scan services, a facility that was previously...",
@@ -468,74 +399,40 @@
         "articlePath": "/article.html?issue=2026-11-01&article=2026-11-01-are-trade-margin-caps-and-sud-bans-the-full-answer"
       },
       {
-        "id": "2026-11-01-why-standardisation-is-becoming-the-next-priority-in-india-s-ivf-industr",
-        "title": "Why standardisation is becoming the next priority in India’s IVF Industry",
-        "summary": "A few weeks ago, a couple from Gwalior sat across my table with a plastic folder so full it wouldn’t close. Two IVF attempts. Two cities. Two clinics. The wife took the papers out one by one, smoothed each page with her palm, and then asked me the question...",
-        "source": "Express Healthcare",
-        "sourceHost": "expresshealthcare.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-11-04T05:17:09.000Z",
-        "publishedLabel": "November 4, 2026",
-        "category": "Provider Update",
-        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/11/04104558/Dr-Richika-Sahay-Shukla-Co-Founder-and-Medical-Director-IndiaIVF.jpg",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://www.expresshealthcare.in/news/why-standardisation-is-becoming-the-next-priority-in-indias-ivf-industry/455762/",
-        "articlePath": "/article.html?issue=2026-11-01&article=2026-11-01-why-standardisation-is-becoming-the-next-priority-in-india-s-ivf-industr"
-      },
-      {
-        "id": "2026-11-01-medical-cost-growth-in-india-expected-to-slow-to-10-1-per-cent-in-2027-r",
-        "title": "Medical cost growth in India expected to slow to 10.1 per cent in 2027: Report",
-        "summary": "Aon has released its 2027 Global Medical Trend Rates Report, which projects that medical costs in India will increase by 10.1 per cent in 2027, down from 11.5 per cent in 2026. While healthcare cost growth is slowing, it remains well above India’s projected...",
-        "source": "Express Healthcare",
-        "sourceHost": "expresshealthcare.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-11-05T07:43:33.000Z",
-        "publishedLabel": "November 5, 2026",
-        "category": "AI Care Delivery",
-        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/11/05131314/Medical-cost.jpg",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://www.expresshealthcare.in/news/medical-cost-growth-in-india-expected-to-slow-to-10-1-per-cent-in-2027-report/455769/",
-        "articlePath": "/article.html?issue=2026-11-01&article=2026-11-01-medical-cost-growth-in-india-expected-to-slow-to-10-1-per-cent-in-2027-r"
-      },
-      {
-        "id": "2026-11-01-bahrain-airport-company-renews-partnership-with-uk-group-analogic",
-        "title": "Bahrain Airport Company renews partnership with UK group Analogic",
-        "summary": "Under the renewed agreement, Analogic will continue to provide maintenance and support for BIA’s security screening equipment",
-        "source": "Zawya Pharmaceuticals",
-        "sourceHost": "zawya.com",
+        "id": "2026-11-01-asia-pacific-unites-to-rewrite-the-breast-cancer-equation",
+        "title": "Asia Pacific Unites to Rewrite the Breast Cancer Equation",
+        "summary": "Asia Pacific Unites to Rewrite the Breast Cancer Equation",
+        "source": "BioSpectrum Asia Middle East",
+        "sourceHost": "biospectrumasia.com",
         "region": "Middle East",
-        "country": "Bahrain",
-        "publishedAt": "2026-11-03T03:15:14.662Z",
-        "publishedLabel": "November 3, 2026",
-        "category": "AI Care Delivery",
-        "image": "https://assets.zawya.com/prod/assets/arrow-down-fill.d30923dc.svg",
+        "country": "Oman",
+        "publishedAt": "2026-10-31T18:30:00.000Z",
+        "publishedLabel": "November 1, 2026",
+        "category": "Provider Update",
+        "image": "https://www.biospectrumasia.com/uploads/articles/ahmed_elhusseiny_headshot-28609.jpg?v=20261029230800",
         "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
         "justIn": false,
-        "originalUrl": "https://www.zawya.com/en/business/bahrain-airport-company-renews-partnership-with-uk-group-analogic-1882566",
-        "articlePath": "/article.html?issue=2026-11-01&article=2026-11-01-bahrain-airport-company-renews-partnership-with-uk-group-analogic"
+        "originalUrl": "https://www.biospectrumasia.com/opinion/29/28609/asia-pacific-unites-to-rewrite-the-breast-cancer-equation-.html",
+        "articlePath": "/article.html?issue=2026-11-01&article=2026-11-01-asia-pacific-unites-to-rewrite-the-breast-cancer-equation"
       }
     ],
     "diagnostics": [
       {
-        "id": "2026-11-01-clinics-on-cloud-secures-usd-12-5-million-in-series-a-funding",
-        "title": "Clinics On Cloud secures USD 12.5 million in Series A funding",
-        "summary": "Pune-based health-tech startup, Clinics On Cloud has secured USD 12.5 million in Series A funding from Dubai-based investors through Model42, powered by Enlightened Minds Investments. The investment marks an important milestone for the company, which started...",
-        "source": "Express Healthcare",
-        "sourceHost": "expresshealthcare.in",
+        "id": "2026-11-01-the-algorithm-gap-why-ai-is-failing-asian-women-and-what-must-change",
+        "title": "The Algorithm Gap: Why AI is Failing Asian Women and What Must Change",
+        "summary": "The Algorithm Gap: Why AI is Failing Asian Women and What Must Change",
+        "source": "BioSpectrum Asia Middle East",
+        "sourceHost": "biospectrumasia.com",
         "region": "India",
         "country": "India",
-        "publishedAt": "2026-11-04T06:48:09.000Z",
-        "publishedLabel": "November 4, 2026",
+        "publishedAt": "2026-10-31T18:30:00.000Z",
+        "publishedLabel": "November 1, 2026",
         "category": "Industry Update",
-        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/11/04121800/New-Project-2.jpg",
+        "image": "https://www.biospectrumasia.com/uploads/articles/reenita-28608.png?v=20261029230511",
         "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
         "justIn": false,
-        "originalUrl": "https://www.expresshealthcare.in/news/clinics-on-cloud-secures-usd-12-5-million-in-series-a-funding/455765/",
-        "articlePath": "/article.html?issue=2026-11-01&article=2026-11-01-clinics-on-cloud-secures-usd-12-5-million-in-series-a-funding"
+        "originalUrl": "https://www.biospectrumasia.com/opinion/29/28608/the-algorithm-gap-why-ai-is-failing-asian-women-and-what-must-change.html",
+        "articlePath": "/article.html?issue=2026-11-01&article=2026-11-01-the-algorithm-gap-why-ai-is-failing-asian-women-and-what-must-change"
       }
     ],
     "healthtech": []
@@ -551,14 +448,6 @@
     },
     {
       "segment": "pharma",
-      "articleId": "2026-11-01-wockhardt-expands-novel-antibiotic-miqnaf-s-access-q2-revenue-rises-24",
-      "title": "Wockhardt expands novel antibiotic Miqnaf's access; Q2 revenue rises 24%",
-      "source": "Economic Times Pharma",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
-      "segment": "pharma",
       "articleId": "2026-11-01-fda-flags-persistent-data-integrity-lapses-insanitary-conditions-at-indi",
       "title": "FDA flags persistent data-integrity lapses, insanitary conditions at Indian drug facilities",
       "source": "Economic Times Pharma",
@@ -567,24 +456,48 @@
     },
     {
       "segment": "pharma",
-      "articleId": "2026-11-01-india-s-medicine-sales-grow-in-double-digits-for-four-straight-quarters-",
-      "title": "India’s medicine sales grow in double digits for four straight quarters, led by chronic care drugs",
-      "source": "Economic Times Pharma",
-      "solution": "THB Commercial Analytics",
-      "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
-    },
-    {
-      "segment": "pharma",
-      "articleId": "2026-11-01-alkem-laboratories-appoints-amrut-naik-as-ceo",
-      "title": "Alkem Laboratories appoints Amrut Naik as CEO",
+      "articleId": "2026-11-01-cancer-drug-prices-to-fall-by-up-to-96-from-november-9-consumers-set-to-",
+      "title": "Cancer drug prices to fall by up to 96% from November 9; consumers set to save Rs 3,502 crore annually",
       "source": "Economic Times Pharma",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
     },
     {
+      "segment": "pharma",
+      "articleId": "2026-11-01-dr-reddy-s-laboratories-receives-anvisa-approval-for-generic-semaglutide",
+      "title": "Dr Reddy's Laboratories receives ANVISA approval for generic semaglutide injection in Brazil",
+      "source": "Economic Times Pharma",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "pharma",
+      "articleId": "2026-11-01-zydus-q2-profit-falls-27-despite-29-revenue-growth-consumer-wellness-sal",
+      "title": "Zydus Q2 profit falls 27% despite 29% revenue growth; consumer wellness sales surge 76%",
+      "source": "Economic Times Pharma",
+      "solution": "THB Commercial Analytics",
+      "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
+    },
+    {
+      "segment": "providers",
+      "articleId": "2026-11-01-apollo-posts-7615-crore-in-q2-fy27-profit-increases-32",
+      "title": "Apollo posts ₹7615 crore in Q2 FY27, profit increases 32%",
+      "source": "ET Healthworld Hospitals",
+      "solution": "THB Provider CRM",
+      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
+    },
+    {
       "segment": "providers",
       "articleId": "2026-11-01-aster-dm-quality-care-posts-2-829-cr-in-q2-fy27-pat-rises-34",
       "title": "Aster DM Quality Care posts ₹2,829 cr in Q2 FY27, PAT rises 34%",
+      "source": "ET Healthworld Hospitals",
+      "solution": "THB Provider CRM",
+      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
+    },
+    {
+      "segment": "providers",
+      "articleId": "2026-11-01-hcg-posts-731-8-crore-in-q2-fy27-pat-falls-9-3",
+      "title": "HCG posts ₹731.8 crore in Q2 FY27, PAT falls 9.3 %",
       "source": "ET Healthworld Hospitals",
       "solution": "THB Provider CRM",
       "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
@@ -606,26 +519,10 @@
       "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
     },
     {
-      "segment": "providers",
-      "articleId": "2026-11-01-forensic-audit-no-hurdle-to-ihh-increasing-stake-in-fortis-dr-raghuvansh",
-      "title": "Forensic audit no hurdle to IHH increasing stake in Fortis: Dr Raghuvanshi",
-      "source": "ET Healthworld Hospitals",
-      "solution": "THB Provider CRM",
-      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
-    },
-    {
-      "segment": "providers",
-      "articleId": "2026-11-01-gujarat-cm-inaugurates-cancer-hospital-in-patan",
-      "title": "Gujarat CM inaugurates cancer hospital in Patan",
-      "source": "ET Healthworld Hospitals",
-      "solution": "THB Provider CRM",
-      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
-    },
-    {
       "segment": "diagnostics",
-      "articleId": "2026-11-01-clinics-on-cloud-secures-usd-12-5-million-in-series-a-funding",
-      "title": "Clinics On Cloud secures USD 12.5 million in Series A funding",
-      "source": "Express Healthcare",
+      "articleId": "2026-11-01-the-algorithm-gap-why-ai-is-failing-asian-women-and-what-must-change",
+      "title": "The Algorithm Gap: Why AI is Failing Asian Women and What Must Change",
+      "source": "BioSpectrum Asia Middle East",
       "solution": "THB Diagnostics CRM",
       "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
     }
