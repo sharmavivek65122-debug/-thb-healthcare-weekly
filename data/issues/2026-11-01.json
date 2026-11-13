@@ -5,10 +5,10 @@
   "startDate": "2026-10-31T18:30:00.000Z",
   "endDate": "2026-11-06T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-11-12T21:01:01.907Z",
+  "updatedAt": "2026-11-13T12:28:43.303Z",
   "coverage": {
-    "pharma": 15,
-    "providers": 11,
+    "pharma": 16,
+    "providers": 10,
     "diagnostics": 1,
     "healthtech": 0
   },
@@ -17,9 +17,9 @@
     "ET Healthworld",
     "ET Healthworld Hospitals",
     "Economic Times Pharma",
-    "Express Healthcare",
     "Janssen India Media",
-    "Lupin Updates"
+    "Lupin Updates",
+    "Zawya Pharmaceuticals"
   ],
   "segments": {
     "pharma": [
@@ -277,6 +277,23 @@
         "justIn": false,
         "originalUrl": "https://www.jnj.com/media-center/press-releases/johnson-johnson-announces-u-s-fda-approval-of-rybrevant-faspro-amivantamab-and-hyaluronidase-lpuj-as-first-and-only-dual-targeted-therapy-for-advanced-head-and-neck-cancer",
         "articlePath": "/article.html?issue=2026-11-01&article=2026-11-01-johnson-and-johnson-announces-u-s-fda-approval-of-rybrevant-faspro-amiva"
+      },
+      {
+        "id": "2026-11-01-john-crane-strengthens-reliability-at-phosphate-mining-and-processing-op",
+        "title": "John Crane strengthens reliability at phosphate mining and processing operations",
+        "summary": "Three-year agreement will provide onsite expertise, predictable maintenance and technical training to support a major Saudi Arabian producer",
+        "source": "Zawya Pharmaceuticals",
+        "sourceHost": "zawya.com",
+        "region": "Middle East",
+        "country": "United Arab Emirates",
+        "publishedAt": "2026-11-03T09:52:39.751Z",
+        "publishedLabel": "November 3, 2026",
+        "category": "Industry Update",
+        "image": "https://media.zawya.com/prod/images/gm_preview/231428382252-6f8fd6c5-6acc-4e25-9346-5538b3188d18.png",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": false,
+        "originalUrl": "https://www.zawya.com/en/press-release/companies-news/john-crane-strengthens-reliability-at-phosphate-mining-and-processing-operations-1887532",
+        "articlePath": "/article.html?issue=2026-11-01&article=2026-11-01-john-crane-strengthens-reliability-at-phosphate-mining-and-processing-op"
       }
     ],
     "providers": [
@@ -366,23 +383,6 @@
         "articlePath": "/article.html?issue=2026-11-01&article=2026-11-01-fortis-posts-2735-crore-in-q2-fy27-profit-dips-2-5"
       },
       {
-        "id": "2026-11-01-ahh-launches-hospital-in-bhubaneswar-as-part-of-100-cr-odisha-expansion",
-        "title": "AHH launches hospital in Bhubaneswar as part of ₹100 cr Odisha expansion",
-        "summary": "AHH it aims to close this financial year with a network of 10 hospitals as part of Asian Institute of Nephrology and Urology’s (AINU) expansion.",
-        "source": "ET Healthworld Hospitals",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-11-03T13:17:27.000Z",
-        "publishedLabel": "November 3, 2026",
-        "category": "Expansion",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-135501188,imgsize-295622,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/ahh-launches-hospital-in-bhubaneswar-as-part-of-100-cr-odisha-expansion.jpg",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/ahh-launches-hospital-in-bhubaneswar-as-part-of-100-cr-odisha-expansion/135501188",
-        "articlePath": "/article.html?issue=2026-11-01&article=2026-11-01-ahh-launches-hospital-in-bhubaneswar-as-part-of-100-cr-odisha-expansion"
-      },
-      {
         "id": "2026-11-01-forensic-audit-no-hurdle-to-ihh-increasing-stake-in-fortis-dr-raghuvansh",
         "title": "Forensic audit no hurdle to IHH increasing stake in Fortis: Dr Raghuvanshi",
         "summary": "Speaking at the healthcare major’s second quarter earnings call, Fortis Management said its parent company, Malaysia-based, IHH Healthcare has expressed openly that it wants to increase its stake to above 50 per cent at the current market price.",
@@ -398,6 +398,23 @@
         "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/forensic-audit-no-hurdle-to-ihh-increasing-stake-in-fortis-dr-raghuvanshi/135601766",
         "articlePath": "/article.html?issue=2026-11-01&article=2026-11-01-forensic-audit-no-hurdle-to-ihh-increasing-stake-in-fortis-dr-raghuvansh"
+      },
+      {
+        "id": "2026-11-01-healthcare-is-not-a-cost-plus-model-govt-needs-sensitising-suneeta-reddy",
+        "title": "Healthcare is not a cost-plus model, govt needs sensitising: Suneeta Reddy",
+        "summary": "Speaking at the company’s second quarter earnings call on the recent regulatory changes on the healthcare sector, Reddy said “We need to continue to sensitise them (the government). They are looking at it in terms of the costs of cancer medicines or...",
+        "source": "ET Healthworld Hospitals",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-11-05T12:17:06.000Z",
+        "publishedLabel": "November 5, 2026",
+        "category": "AI Care Delivery",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-135573022,imgsize-77058,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/healthcare-is-not-a-cost-plus-model-govt-needs-sensitising-suneeta-reddy.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": false,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/healthcare-is-not-a-cost-plus-model-govt-needs-sensitising-suneeta-reddy/135573022",
+        "articlePath": "/article.html?issue=2026-11-01&article=2026-11-01-healthcare-is-not-a-cost-plus-model-govt-needs-sensitising-suneeta-reddy"
       },
       {
         "id": "2026-11-01-max-oncology-inpatient-revenue-falls-after-chemotherapy-drug-discontinua",
@@ -432,23 +449,6 @@
         "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/gujarat-cm-inaugurates-cancer-hospital-in-patan/135452027",
         "articlePath": "/article.html?issue=2026-11-01&article=2026-11-01-gujarat-cm-inaugurates-cancer-hospital-in-patan"
-      },
-      {
-        "id": "2026-11-01-are-trade-margin-caps-and-sud-bans-the-full-answer",
-        "title": "Are trade margin caps and SUD bans the full answer?",
-        "summary": "All stakeholders need to find a balance between India’s socioeconomic and clinical realities, aiming for patient safety, affordability, access, and environmental sustainability",
-        "source": "Express Healthcare",
-        "sourceHost": "expresshealthcare.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-11-06T06:06:12.000Z",
-        "publishedLabel": "November 6, 2026",
-        "category": "Patient Care",
-        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/11/06113444/EH_EditorsBlog_Nov_2026_750.jpg",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://www.expresshealthcare.in/news/are-trade-margin-caps-and-sud-bans-the-full-answer/455786/",
-        "articlePath": "/article.html?issue=2026-11-01&article=2026-11-01-are-trade-margin-caps-and-sud-bans-the-full-answer"
       },
       {
         "id": "2026-11-01-asia-pacific-unites-to-rewrite-the-breast-cancer-equation",
