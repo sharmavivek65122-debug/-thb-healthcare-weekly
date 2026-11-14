@@ -5,12 +5,12 @@
   "startDate": "2026-11-07T18:30:00.000Z",
   "endDate": "2026-11-13T18:30:00.000Z",
   "status": "live",
-  "updatedAt": "2026-11-13T20:37:01.509Z",
+  "updatedAt": "2026-11-14T11:40:10.309Z",
   "coverage": {
-    "pharma": 46,
-    "providers": 11,
+    "pharma": 49,
+    "providers": 10,
     "diagnostics": 3,
-    "healthtech": 1
+    "healthtech": 0
   },
   "sourcesUsed": [
     "BioSpectrum Asia Middle East",
@@ -55,7 +55,7 @@
         "category": "Industry Update",
         "image": "https://img.etimg.com/thumb/msid-135815414,width-1200,height-900,imgsize-99390,overlay-economictimes/articleshow.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/compulsory-licensing-of-drugs-only-after-exhausting-all-other-measures-department-of-pharmaceuticals-secretary-manoj-joshi/articleshow/135815415.cms",
         "articlePath": "/article.html?issue=2026-11-08&article=2026-11-08-compulsory-licensing-of-drugs-only-after-exhausting-all-other-measures-d"
       },
@@ -111,23 +111,6 @@
         "articlePath": "/article.html?issue=2026-11-08&article=2026-11-08-bdr-pharma-to-acquire-acme-s-oral-solid-formulations-business"
       },
       {
-        "id": "2026-11-08-new-blood-test-finds-early-risk-for-ovarian-cancer",
-        "title": "New blood test finds early risk for ovarian cancer",
-        "summary": "For decades, efforts to detect ovarian cancer earlier have focused on finding smaller tumors, the researchers noted in their report published on Tuesday in Nature Medicine.",
-        "source": "ET Healthworld",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-11-12T02:04:21.000Z",
-        "publishedLabel": "November 12, 2026",
-        "category": "Industry Update",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-135752180,imgsize-72694,width-1200,height=627,overlay-ethealth,resizemode-75/diagnostics/new-blood-test-finds-early-risk-for-ovarian-cancer.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/diagnostics/new-blood-test-finds-early-risk-for-ovarian-cancer/135752180",
-        "articlePath": "/article.html?issue=2026-11-08&article=2026-11-08-new-blood-test-finds-early-risk-for-ovarian-cancer"
-      },
-      {
         "id": "2026-11-08-new-blood-test-matches-gold-standard-for-liver-disease-diagnosis",
         "title": "New blood test matches gold standard for liver disease diagnosis",
         "summary": "The test's performance on routine blood samples matched that of magnetic resonance elastography, the most accurate non-invasive method for assessing liver disease.",
@@ -157,7 +140,7 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-135793733,imgsize-166760,width-1200,height=627,overlay-ethealth,resizemode-75/industry/cellular-atlas-created-for-the-basal-ganglia-a-key-brain-region.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/cellular-atlas-created-for-the-basal-ganglia-a-key-brain-region/135793733",
         "articlePath": "/article.html?issue=2026-11-08&article=2026-11-08-cellular-atlas-created-for-the-basal-ganglia-a-key-brain-region"
       },
@@ -177,6 +160,23 @@
         "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/aurobindo-pharma-arm-gets-voluntary-action-indicated-classification-for-telengana-facility-from-usfda/articleshow/135731486.cms",
         "articlePath": "/article.html?issue=2026-11-08&article=2026-11-08-aurobindo-pharma-arm-gets-voluntary-action-indicated-classification-for-"
+      },
+      {
+        "id": "2026-11-08-blood-brain-barrier-discovery-could-lead-to-new-alzheimer-s-disease-appr",
+        "title": "Blood-brain barrier discovery could lead to new Alzheimer's disease approach",
+        "summary": "Working in mice, the researchers used protein-labeling chemistry to tag 861 mouse blood proteins that were re-injected into the bloodstream. Brain tissue analyses showed 92 had been allowed to cross the blood-brain barrier.",
+        "source": "ET Healthworld",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-11-14T02:14:35.000Z",
+        "publishedLabel": "November 14, 2026",
+        "category": "Industry Update",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-135820248,imgsize-64144,width-1200,height=627,overlay-ethealth,resizemode-75/industry/blood-brain-barrier-discovery-could-lead-to-new-alzheimers-disease-approach.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/blood-brain-barrier-discovery-could-lead-to-new-alzheimers-disease-approach/135820248",
+        "articlePath": "/article.html?issue=2026-11-08&article=2026-11-08-blood-brain-barrier-discovery-could-lead-to-new-alzheimer-s-disease-appr"
       },
       {
         "id": "2026-11-08-government-invites-fresh-applications-under-rs-2-700-crore-medical-devic",
@@ -208,7 +208,7 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-135664846,imgsize-103,width-1200,height=627,overlay-ethealth,resizemode-75/industry/cardiologists-seek-review-of-curbs-on-reprocessing-select-medical-devices-to-cut-angioplasty-costs.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/cardiologists-seek-review-of-curbs-on-reprocessing-select-medical-devices-to-cut-angioplasty-costs/135664846",
         "articlePath": "/article.html?issue=2026-11-08&article=2026-11-08-cardiologists-seek-review-of-curbs-on-reprocessing-select-medical-device"
       },
@@ -245,6 +245,23 @@
         "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/morepen-laboratories-launches-desloratadine-rx-generic-drug-product-in-us-market/articleshow/135672036.cms",
         "articlePath": "/article.html?issue=2026-11-08&article=2026-11-08-morepen-laboratories-launches-desloratadine-rx-generic-drug-product-in-u"
+      },
+      {
+        "id": "2026-11-08-us-loses-measles-free-status-after-continued-spread-of-the-disease-wsj-r",
+        "title": "US loses measles-free status after continued spread of the disease, WSJ reports",
+        "summary": "The international health body did not immediately respond to a request from Reuters for comment on the report, which cited people familiar with the matter.",
+        "source": "ET Healthworld",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-11-14T02:08:05.000Z",
+        "publishedLabel": "November 14, 2026",
+        "category": "Industry Update",
+        "image": "https://etimg.etb2bimg.com/thumb/img-size-73906/135820336.cms?width=1200&height=627",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/us-loses-measles-free-status-after-continued-spread-of-the-disease-wsj-reports/135820203",
+        "articlePath": "/article.html?issue=2026-11-08&article=2026-11-08-us-loses-measles-free-status-after-continued-spread-of-the-disease-wsj-r"
       },
       {
         "id": "2026-11-08-urine-biomarker-may-offer-new-way-to-flag-cancer-risk-in-india-study-sug",
@@ -332,6 +349,23 @@
         "articlePath": "/article.html?issue=2026-11-08&article=2026-11-08-manipal-posts-3-399-cr-in-q2-fy27-net-profit-rises-21-6"
       },
       {
+        "id": "2026-11-08-max-lab-opens-new-laboratory-in-moradabad",
+        "title": "Max Lab opens new laboratory in Moradabad",
+        "summary": "The new facility is equipped with advanced diagnostic technology ranging from routine pathology investigations to specialised tests, including advanced genomics and oncology diagnostics, the diagnostic firm said.",
+        "source": "ET Healthworld",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-11-13T08:43:48.000Z",
+        "publishedLabel": "November 13, 2026",
+        "category": "Industry Update",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-135796048,imgsize-144014,width-1200,height=627,overlay-ethealth,resizemode-75/diagnostics/max-lab-opens-new-laboratory-in-moradabad.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/diagnostics/max-lab-opens-new-laboratory-in-moradabad/135796048",
+        "articlePath": "/article.html?issue=2026-11-08&article=2026-11-08-max-lab-opens-new-laboratory-in-moradabad"
+      },
+      {
         "id": "2026-11-08-india-records-38-decline-in-tb-mortality-treatment-success-rate-rises-to",
         "title": "India records 38% decline in TB mortality, treatment success rate rises to 94%: Centre",
         "summary": "India's estimated TB mortality rate declined from 28 per lakh population in 2015 to 18 per lakh in 2025.",
@@ -347,6 +381,23 @@
         "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/india-records-38-decline-in-tb-mortality-treatment-success-rate-rises-to-94-who/135786683",
         "articlePath": "/article.html?issue=2026-11-08&article=2026-11-08-india-records-38-decline-in-tb-mortality-treatment-success-rate-rises-to"
+      },
+      {
+        "id": "2026-11-08-why-india-needs-a-new-model-of-diabetes-care",
+        "title": "Why India Needs a New Model of Diabetes Care",
+        "summary": "Diabetes Is One Condition, but Never Just One Risk",
+        "source": "ET Healthworld",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-11-14T07:33:11.000Z",
+        "publishedLabel": "November 14, 2026",
+        "category": "Industry Update",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-135826135,imgsize-53957,width-1200,height=627,overlay-ethealth,resizemode-75/industry/why-india-needs-a-new-model-of-diabetes-care.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/why-india-needs-a-new-model-of-diabetes-care/135826135",
+        "articlePath": "/article.html?issue=2026-11-08&article=2026-11-08-why-india-needs-a-new-model-of-diabetes-care"
       },
       {
         "id": "2026-11-08-iit-kanpur-discover-how-immune-cells-silence-insulin-a-new-clue-in-the-f",
@@ -395,7 +446,7 @@
         "category": "Clinical Trial",
         "image": "https://medicaldialogues.in/h-upload/2026/09/11/475113-cefepime.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/india-mulls-allowing-mncs-to-conduct-first-in-human-phase-i-clinical-trials-183183",
         "articlePath": "/article.html?issue=2026-11-08&article=2026-11-08-india-mulls-allowing-mncs-to-conduct-first-in-human-phase-i-clinical-tri"
       },
@@ -565,7 +616,7 @@
         "category": "Industry Update",
         "image": "https://medicaldialogues.in/h-upload/2024/03/05/233643-delhi-high-court-50.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/delhi-hc-grants-finecure-interim-relief-over-alleged-copying-of-website-business-credentials-183198",
         "articlePath": "/article.html?issue=2026-11-08&article=2026-11-08-delhi-hc-grants-finecure-interim-relief-over-alleged-copying-of-website-"
       },
@@ -769,7 +820,7 @@
         "category": "Industry Update",
         "image": "https://medicaldialogues.in/h-upload/2026/09/04/474168-cohance-lifesciences.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/cohance-lifesciences-pashamylaram-facility-gets-usfda-eir-with-vai-status-183182",
         "articlePath": "/article.html?issue=2026-11-08&article=2026-11-08-cohance-lifesciences-pashamylaram-facility-gets-usfda-eir-with-vai-statu"
       },
@@ -946,6 +997,23 @@
         "articlePath": "/article.html?issue=2026-11-08&article=2026-11-08-hsbc-announces-intention-to-wind-down-business-in-algerian-market"
       },
       {
+        "id": "2026-11-08-how-omani-smes-can-turn-ai-into-a-competitive-advantage",
+        "title": "How Omani SMEs can turn AI into a competitive Advantage ?",
+        "summary": "Ultimately, the competitive advantage of AI will not belong only to businesses that adopt the most advanced technology",
+        "source": "Zawya Pharmaceuticals",
+        "sourceHost": "zawya.com",
+        "region": "Middle East",
+        "country": "Oman",
+        "publishedAt": "2026-11-13T07:09:47.721Z",
+        "publishedLabel": "November 13, 2026",
+        "category": "AI Care Delivery",
+        "image": "https://assets.zawya.com/prod/assets/arrow-down-fill.d30923dc.svg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": true,
+        "originalUrl": "https://www.zawya.com/en/special-coverage/technology-telecom/how-omani-smes-can-turn-ai-into-a-competitive-advantage-2267476",
+        "articlePath": "/article.html?issue=2026-11-08&article=2026-11-08-how-omani-smes-can-turn-ai-into-a-competitive-advantage"
+      },
+      {
         "id": "2026-11-08-adnoc-s-second-pipeline-to-be-completed-by-around-january-inpex-executiv",
         "title": "ADNOC's second pipeline to be completed by around January, Inpex executive says",
         "summary": "A third pipeline is also planned, with completion expected around 2029",
@@ -958,43 +1026,9 @@
         "category": "Provider Update",
         "image": "https://media.zawya.com/prod/images/gm_preview/d6a739af44f4-2026-11-02t112455z1597407774rc2nfoawrrwlrtrmadp3emirates-energy-adipec.jpg",
         "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.zawya.com/en/business/oil-gas/adnocs-second-pipeline-to-be-completed-by-around-january-inpex-executive-says-2267802",
         "articlePath": "/article.html?issue=2026-11-08&article=2026-11-08-adnoc-s-second-pipeline-to-be-completed-by-around-january-inpex-executiv"
-      },
-      {
-        "id": "2026-11-08-global-ai-stocks-sink-as-nvidia-ceo-s-exit-deepens-sector-selloff",
-        "title": "Global AI stocks sink as Nvidia CEO's exit deepens sector selloff",
-        "summary": "Nvidia set to slip below $4 trillion market value",
-        "source": "Zawya Pharmaceuticals",
-        "sourceHost": "zawya.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-11-12T14:32:45.290Z",
-        "publishedLabel": "November 12, 2026",
-        "category": "AI Care Delivery",
-        "image": "https://media.zawya.com/prod/images/gm_preview/a9dca9a1f77b-2026-11-10t170959z1569271509rc22loaogz54rtrmadp3usa-stocks.jpg",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://www.zawya.com/en/capital-markets/global-ai-stocks-sink-as-nvidia-ceos-exit-deepens-sector-selloff-2261966",
-        "articlePath": "/article.html?issue=2026-11-08&article=2026-11-08-global-ai-stocks-sink-as-nvidia-ceo-s-exit-deepens-sector-selloff"
-      },
-      {
-        "id": "2026-11-08-binghatti-holding-limited-9m-2026-financial-results",
-        "title": "Binghatti Holding Limited 9M 2026 financial results",
-        "summary": "Binghatti delivers record results in the nine months to 30 September 2026",
-        "source": "Zawya Pharmaceuticals",
-        "sourceHost": "zawya.com",
-        "region": "Middle East",
-        "country": "United Arab Emirates",
-        "publishedAt": "2026-11-12T10:25:49.157Z",
-        "publishedLabel": "November 12, 2026",
-        "category": "Provider Update",
-        "image": "https://media.zawya.com/prod/images/gm_preview/6cdc40bb689c-binghatti-9m-2026-results.jpeg",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://www.zawya.com/en/press-release/companies-news/binghatti-holding-limited-9m-2026-financial-results-2246720",
-        "articlePath": "/article.html?issue=2026-11-08&article=2026-11-08-binghatti-holding-limited-9m-2026-financial-results"
       }
     ],
     "diagnostics": [
@@ -1050,25 +1084,7 @@
         "articlePath": "/article.html?issue=2026-11-08&article=2026-11-08-grace-cancer-foundation-lists-1-crore-zczp-issue-on-nse-social-stock-exc"
       }
     ],
-    "healthtech": [
-      {
-        "id": "2026-11-08-uae-crescent-enterprises-ce-ventures-invests-in-london-startup-oyster-th",
-        "title": "UAE Crescent Enterprises’ CE-Ventures invests in London startup Oyster Therapeutics",
-        "summary": "Funding to help advance targeted protein degraders for neurodegenerative diseases",
-        "source": "Zawya Pharmaceuticals",
-        "sourceHost": "zawya.com",
-        "region": "Middle East",
-        "country": "United Arab Emirates",
-        "publishedAt": "2026-11-12T03:24:29.468Z",
-        "publishedLabel": "November 12, 2026",
-        "category": "Funding",
-        "image": "https://media.zawya.com/prod/images/gm_preview/7619c2311c71-gettyimages-2279064002.jpg",
-        "thbAction": "",
-        "justIn": false,
-        "originalUrl": "https://www.zawya.com/en/business/uae-crescent-enterprises-ce-ventures-invests-in-london-startup-oyster-therapeutics-2246192",
-        "articlePath": "/article.html?issue=2026-11-08&article=2026-11-08-uae-crescent-enterprises-ce-ventures-invests-in-london-startup-oyster-th"
-      }
-    ]
+    "healthtech": []
   },
   "thbActions": [
     {

@@ -5,16 +5,15 @@
   "startDate": "2026-10-31T18:30:00.000Z",
   "endDate": "2026-11-06T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-11-13T20:37:01.509Z",
+  "updatedAt": "2026-11-14T11:40:10.309Z",
   "coverage": {
-    "pharma": 14,
-    "providers": 9,
+    "pharma": 13,
+    "providers": 12,
     "diagnostics": 1,
     "healthtech": 0
   },
   "sourcesUsed": [
     "BioSpectrum Asia Middle East",
-    "ET Healthworld",
     "ET Healthworld Hospitals",
     "Economic Times Pharma",
     "Janssen India Media",
@@ -176,23 +175,6 @@
         "articlePath": "/article.html?issue=2026-11-01&article=2026-11-01-hrv-pharma-buys-germany-s-phatebo"
       },
       {
-        "id": "2026-11-01-manipal-bags-gurugram-land-lease-for-new-multi-speciality-hospital",
-        "title": "Manipal bags Gurugram land lease for new multi-speciality hospital",
-        "summary": "The healthcare major said it had entered into a long term arrangement with Thakral Corporation structured as a long-term land lease for an initial period of approximately 30 years. The first phase of the proposed hospital is expected to have up to 500 beds.",
-        "source": "ET Healthworld",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-11-05T02:20:47.000Z",
-        "publishedLabel": "November 5, 2026",
-        "category": "Industry Update",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-135556076,imgsize-156003,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/manipal-bags-gurugram-land-lease-for-new-multi-speciality-hospital.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/manipal-bags-gurugram-land-lease-for-new-multi-speciality-hospital/135556076",
-        "articlePath": "/article.html?issue=2026-11-01&article=2026-11-01-manipal-bags-gurugram-land-lease-for-new-multi-speciality-hospital"
-      },
-      {
         "id": "2026-11-01-johnson-and-johnson-announces-icotyde-icotrokinra-delivers-significant-i",
         "title": "Johnson & Johnson announces ICOTYDE® (icotrokinra) delivers significant improvement in psoriatic arthritis disease activity among biologic-naive patients with once-daily targeted oral peptide",
         "summary": "· Late-breaking data from Phase 3 investigational study presented at the American College of Rheumatology Convergence show 58% of ICOTYDE-treated patients achieved an ACR20 response and 29% achieved an ACR50 response at Week 16 · ICOTYDE is a first-in-class...",
@@ -280,6 +262,23 @@
         "articlePath": "/article.html?issue=2026-11-01&article=2026-11-01-apollo-posts-7615-crore-in-q2-fy27-profit-increases-32"
       },
       {
+        "id": "2026-11-01-manipal-bags-gurugram-land-lease-for-new-multi-speciality-hospital",
+        "title": "Manipal bags Gurugram land lease for new multi-speciality hospital",
+        "summary": "The healthcare major said it had entered into a long term arrangement with Thakral Corporation structured as a long-term land lease for an initial period of approximately 30 years. The first phase of the proposed hospital is expected to have up to 500 beds.",
+        "source": "ET Healthworld Hospitals",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-11-05T02:20:47.000Z",
+        "publishedLabel": "November 5, 2026",
+        "category": "Hospital",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-135556076,imgsize-156003,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/manipal-bags-gurugram-land-lease-for-new-multi-speciality-hospital.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": false,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/manipal-bags-gurugram-land-lease-for-new-multi-speciality-hospital/135556076",
+        "articlePath": "/article.html?issue=2026-11-01&article=2026-11-01-manipal-bags-gurugram-land-lease-for-new-multi-speciality-hospital"
+      },
+      {
         "id": "2026-11-01-aster-dm-quality-care-posts-2-829-cr-in-q2-fy27-pat-rises-34",
         "title": "Aster DM Quality Care posts ₹2,829 cr in Q2 FY27, PAT rises 34%",
         "summary": "The healthcare major said it served 2.2 million patients in the quarter, with total patient volume increasing by 12 per cent YoY led by Neurosciences, Oncology, Orthopedics and Gastroenterology.",
@@ -346,6 +345,40 @@
         "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/fortis-posts-2735-crore-in-q2-fy27-profit-dips-2-5/135590500",
         "articlePath": "/article.html?issue=2026-11-01&article=2026-11-01-fortis-posts-2735-crore-in-q2-fy27-profit-dips-2-5"
+      },
+      {
+        "id": "2026-11-01-ahh-launches-hospital-in-bhubaneswar-as-part-of-100-cr-odisha-expansion",
+        "title": "AHH launches hospital in Bhubaneswar as part of ₹100 cr Odisha expansion",
+        "summary": "AHH it aims to close this financial year with a network of 10 hospitals as part of Asian Institute of Nephrology and Urology’s (AINU) expansion.",
+        "source": "ET Healthworld Hospitals",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-11-03T13:17:27.000Z",
+        "publishedLabel": "November 3, 2026",
+        "category": "Expansion",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-135501188,imgsize-295622,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/ahh-launches-hospital-in-bhubaneswar-as-part-of-100-cr-odisha-expansion.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": false,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/ahh-launches-hospital-in-bhubaneswar-as-part-of-100-cr-odisha-expansion/135501188",
+        "articlePath": "/article.html?issue=2026-11-01&article=2026-11-01-ahh-launches-hospital-in-bhubaneswar-as-part-of-100-cr-odisha-expansion"
+      },
+      {
+        "id": "2026-11-01-forensic-audit-no-hurdle-to-ihh-increasing-stake-in-fortis-dr-raghuvansh",
+        "title": "Forensic audit no hurdle to IHH increasing stake in Fortis: Dr Raghuvanshi",
+        "summary": "Speaking at the healthcare major’s second quarter earnings call, Fortis Management said its parent company, Malaysia-based, IHH Healthcare has expressed openly that it wants to increase its stake to above 50 per cent at the current market price.",
+        "source": "ET Healthworld Hospitals",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-11-06T09:25:17.000Z",
+        "publishedLabel": "November 6, 2026",
+        "category": "AI Care Delivery",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-135601766,imgsize-121874,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/forensic-audit-no-hurdle-to-ihh-increasing-stake-in-fortis-dr-raghuvanshi.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": false,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/forensic-audit-no-hurdle-to-ihh-increasing-stake-in-fortis-dr-raghuvanshi/135601766",
+        "articlePath": "/article.html?issue=2026-11-01&article=2026-11-01-forensic-audit-no-hurdle-to-ihh-increasing-stake-in-fortis-dr-raghuvansh"
       },
       {
         "id": "2026-11-01-healthcare-is-not-a-cost-plus-model-govt-needs-sensitising-suneeta-reddy",
@@ -488,6 +521,14 @@
     },
     {
       "segment": "providers",
+      "articleId": "2026-11-01-manipal-bags-gurugram-land-lease-for-new-multi-speciality-hospital",
+      "title": "Manipal bags Gurugram land lease for new multi-speciality hospital",
+      "source": "ET Healthworld Hospitals",
+      "solution": "THB Provider CRM",
+      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
+    },
+    {
+      "segment": "providers",
       "articleId": "2026-11-01-aster-dm-quality-care-posts-2-829-cr-in-q2-fy27-pat-rises-34",
       "title": "Aster DM Quality Care posts ₹2,829 cr in Q2 FY27, PAT rises 34%",
       "source": "ET Healthworld Hospitals",
@@ -506,14 +547,6 @@
       "segment": "providers",
       "articleId": "2026-11-01-paras-health-reports-510-9-crore-in-q2-fy27-profit-rises-3-times",
       "title": "Paras Health reports ₹510.9 crore in Q2 FY27, profit rises 3 times",
-      "source": "ET Healthworld Hospitals",
-      "solution": "THB Provider CRM",
-      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
-    },
-    {
-      "segment": "providers",
-      "articleId": "2026-11-01-fortis-posts-2735-crore-in-q2-fy27-profit-dips-2-5",
-      "title": "Fortis posts ₹2735 crore in Q2 FY27, profit dips 2.5%",
       "source": "ET Healthworld Hospitals",
       "solution": "THB Provider CRM",
       "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
