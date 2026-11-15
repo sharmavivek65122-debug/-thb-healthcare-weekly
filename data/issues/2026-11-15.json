@@ -5,19 +5,226 @@
   "startDate": "2026-11-14T18:30:00.000Z",
   "endDate": "2026-11-20T18:30:00.000Z",
   "status": "live",
-  "updatedAt": "2026-11-14T18:48:20.304Z",
+  "updatedAt": "2026-11-15T12:08:49.454Z",
   "coverage": {
-    "pharma": 0,
-    "providers": 0,
-    "diagnostics": 0,
+    "pharma": 5,
+    "providers": 2,
+    "diagnostics": 1,
     "healthtech": 0
   },
-  "sourcesUsed": [],
+  "sourcesUsed": [
+    "Healthcare MEA",
+    "Medical Dialogues Pharma"
+  ],
   "segments": {
-    "pharma": [],
-    "providers": [],
-    "diagnostics": [],
+    "pharma": [
+      {
+        "id": "2026-11-15-apifa-biotech-advances-plans-for-us-216m-life-sciences-park-in-kenya-hea",
+        "title": "Apifa Biotech advances plans for US$216M life sciences park in Kenya | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
+        "summary": "The project, structured as a public-private partnership (PPP) between Apifa Biotech and the Konza Technopolis Development Authority, received approval in April 2026 to proceed to the development p ...",
+        "source": "Healthcare MEA",
+        "sourceHost": "healthcaremea.com",
+        "region": "Middle East",
+        "country": "Middle East",
+        "publishedAt": "2026-11-15T08:25:01.000Z",
+        "publishedLabel": "November 15, 2026",
+        "category": "Approval",
+        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/11/image-1600x900-98.png",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": false,
+        "originalUrl": "https://www.healthcaremea.com/2026/11/15/apifa-biotech-advances-plans-for-us216m-life-sciences-park-in-kenya/",
+        "articlePath": "/article.html?issue=2026-11-15&article=2026-11-15-apifa-biotech-advances-plans-for-us-216m-life-sciences-park-in-kenya-hea"
+      },
+      {
+        "id": "2026-11-15-gilead-s-18-lenacapavir-patent-applications-in-india-raise-concerns-over",
+        "title": "Gilead's 18 Lenacapavir Patent Applications in India Raise Concerns Over Delayed HIV Drug Generics",
+        "summary": "New Delhi: A total of 18 patent applications filed in India for lenacapavir, a breakthrough long-acting HIV medicine, have triggered concerns among patient advocacy groups and civil society...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-11-15T07:00:23.000Z",
+        "publishedLabel": "November 15, 2026",
+        "category": "Industry Update",
+        "image": "https://medicaldialogues.in/h-upload/2023/01/10/197340-gilead-sciences-2.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": false,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/gileads-18-lenacapavir-patent-applications-in-india-raise-concerns-over-delayed-hiv-drug-generics-183265",
+        "articlePath": "/article.html?issue=2026-11-15&article=2026-11-15-gilead-s-18-lenacapavir-patent-applications-in-india-raise-concerns-over"
+      },
+      {
+        "id": "2026-11-15-amwill-health-care-to-import-market-private-label-hair-colour-products-f",
+        "title": "Amwill Health Care to Import, Market Private-Label Hair Colour Products From Thailand",
+        "summary": "Bengaluru: Amwill Health Care Limited has entered into an exclusive manufacturing, private label supply, import and non-disclosure agreement with a leading pharmaceutical manufacturing company based...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-11-15T06:30:49.000Z",
+        "publishedLabel": "November 15, 2026",
+        "category": "Manufacturing",
+        "image": "https://medicaldialogues.in/h-upload/2024/02/29/233327-agreement-50-1.jpg",
+        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
+        "justIn": false,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/amwill-health-care-to-import-market-private-label-hair-colour-products-from-thailand-183264",
+        "articlePath": "/article.html?issue=2026-11-15&article=2026-11-15-amwill-health-care-to-import-market-private-label-hair-colour-products-f"
+      },
+      {
+        "id": "2026-11-15-eli-lilly-breaks-ground-on-us-3-5b-obesity-drug-manufacturing-facility-i",
+        "title": "Eli Lilly breaks ground on US$3.5B obesity drug manufacturing facility in Pennsylvania | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
+        "summary": "The Lehigh Valley facility is expected to become operational by 2031.",
+        "source": "Healthcare MEA",
+        "sourceHost": "healthcaremea.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-11-15T08:36:56.000Z",
+        "publishedLabel": "November 15, 2026",
+        "category": "Manufacturing",
+        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/11/image-1600x900-100.png",
+        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
+        "justIn": false,
+        "originalUrl": "https://www.healthcaremea.com/2026/11/15/eli-lilly-breaks-ground-on-us3-5b-obesity-drug-manufacturing-facility-in-pennsylvania/",
+        "articlePath": "/article.html?issue=2026-11-15&article=2026-11-15-eli-lilly-breaks-ground-on-us-3-5b-obesity-drug-manufacturing-facility-i"
+      },
+      {
+        "id": "2026-11-15-bristol-myers-squibb-merges-research-and-development-teams-under-cmo-cri",
+        "title": "Bristol Myers Squibb Merges Research and Development Teams Under CMO Cristian Massacesi",
+        "summary": "Bengaluru: Bristol Myers Squibb said on Thursday it will combine its scientific and clinical expertise teams into an end-to-end research and development department under current Chief Medical Officer...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-11-15T05:00:38.000Z",
+        "publishedLabel": "November 15, 2026",
+        "category": "Industry Update",
+        "image": "https://medicaldialogues.in/h-upload/2022/03/02/171516-bristol-myers-squibb.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": false,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/bristol-myers-squibb-merges-research-and-development-teams-under-cmo-cristian-massacesi-183262",
+        "articlePath": "/article.html?issue=2026-11-15&article=2026-11-15-bristol-myers-squibb-merges-research-and-development-teams-under-cmo-cri"
+      }
+    ],
+    "providers": [
+      {
+        "id": "2026-11-15-aga-khan-university-hospital-performs-first-documented-full-arm-replanta",
+        "title": "Aga Khan University Hospital performs first documented full-arm replantation in East Africa",
+        "summary": "The procedure involved specialists from Plastic and Reconstructive Surgery, Orthopaedic Surgery, Vascular Surgery, Anaesthesia and Critical Care.",
+        "source": "Healthcare MEA",
+        "sourceHost": "healthcaremea.com",
+        "region": "Middle East",
+        "country": "Oman",
+        "publishedAt": "2026-11-15T08:07:41.000Z",
+        "publishedLabel": "November 15, 2026",
+        "category": "Hospital",
+        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/11/image-1600x900-97.png",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": false,
+        "originalUrl": "https://www.healthcaremea.com/2026/11/15/aga-khan-university-hospital-performs-first-documented-full-arm-replantation-in-east-africa/",
+        "articlePath": "/article.html?issue=2026-11-15&article=2026-11-15-aga-khan-university-hospital-performs-first-documented-full-arm-replanta"
+      },
+      {
+        "id": "2026-11-15-mayo-clinic-maps-deep-brain-region-to-improve-epilepsy-stimulation-targe",
+        "title": "Mayo Clinic maps deep brain region to improve epilepsy stimulation targeting | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
+        "summary": "To investigate these connections, researchers studied 30 people with drug-resistant epilepsy who already had temporary electrodes implanted as part of their clinical care.",
+        "source": "Healthcare MEA",
+        "sourceHost": "healthcaremea.com",
+        "region": "Middle East",
+        "country": "Middle East",
+        "publishedAt": "2026-11-15T08:29:26.000Z",
+        "publishedLabel": "November 15, 2026",
+        "category": "AI Care Delivery",
+        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/11/image-1600x900-99.png",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": false,
+        "originalUrl": "https://www.healthcaremea.com/2026/11/15/mayo-clinic-maps-deep-brain-region-to-improve-epilepsy-stimulation-targeting/",
+        "articlePath": "/article.html?issue=2026-11-15&article=2026-11-15-mayo-clinic-maps-deep-brain-region-to-improve-epilepsy-stimulation-targe"
+      }
+    ],
+    "diagnostics": [
+      {
+        "id": "2026-11-15-valeo-health-launches-unlock-longevity-programme-in-uae-to-advance-preve",
+        "title": "Valeo Health launches UNLOCK longevity programme in UAE to advance preventive healthcare",
+        "summary": "The programme combines comprehensive blood testing, medical interpretation and personalised recommendations to give members a broader understanding of their health.",
+        "source": "Healthcare MEA",
+        "sourceHost": "healthcaremea.com",
+        "region": "Middle East",
+        "country": "United Arab Emirates",
+        "publishedAt": "2026-11-15T08:51:27.000Z",
+        "publishedLabel": "November 15, 2026",
+        "category": "Industry Update",
+        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/11/image-1600x900-2026-11-15T114816.486.png",
+        "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
+        "justIn": false,
+        "originalUrl": "https://www.healthcaremea.com/2026/11/15/valeo-health-launches-unlock-longevity-programme-in-uae-to-advance-preventive-healthcare/",
+        "articlePath": "/article.html?issue=2026-11-15&article=2026-11-15-valeo-health-launches-unlock-longevity-programme-in-uae-to-advance-preve"
+      }
+    ],
     "healthtech": []
   },
-  "thbActions": []
+  "thbActions": [
+    {
+      "segment": "pharma",
+      "articleId": "2026-11-15-apifa-biotech-advances-plans-for-us-216m-life-sciences-park-in-kenya-hea",
+      "title": "Apifa Biotech advances plans for US$216M life sciences park in Kenya | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
+      "source": "Healthcare MEA",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "pharma",
+      "articleId": "2026-11-15-gilead-s-18-lenacapavir-patent-applications-in-india-raise-concerns-over",
+      "title": "Gilead's 18 Lenacapavir Patent Applications in India Raise Concerns Over Delayed HIV Drug Generics",
+      "source": "Medical Dialogues Pharma",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "pharma",
+      "articleId": "2026-11-15-amwill-health-care-to-import-market-private-label-hair-colour-products-f",
+      "title": "Amwill Health Care to Import, Market Private-Label Hair Colour Products From Thailand",
+      "source": "Medical Dialogues Pharma",
+      "solution": "THB Commercial Analytics",
+      "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
+    },
+    {
+      "segment": "pharma",
+      "articleId": "2026-11-15-eli-lilly-breaks-ground-on-us-3-5b-obesity-drug-manufacturing-facility-i",
+      "title": "Eli Lilly breaks ground on US$3.5B obesity drug manufacturing facility in Pennsylvania | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
+      "source": "Healthcare MEA",
+      "solution": "THB Commercial Analytics",
+      "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
+    },
+    {
+      "segment": "pharma",
+      "articleId": "2026-11-15-bristol-myers-squibb-merges-research-and-development-teams-under-cmo-cri",
+      "title": "Bristol Myers Squibb Merges Research and Development Teams Under CMO Cristian Massacesi",
+      "source": "Medical Dialogues Pharma",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "providers",
+      "articleId": "2026-11-15-aga-khan-university-hospital-performs-first-documented-full-arm-replanta",
+      "title": "Aga Khan University Hospital performs first documented full-arm replantation in East Africa",
+      "source": "Healthcare MEA",
+      "solution": "THB Provider CRM",
+      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
+    },
+    {
+      "segment": "providers",
+      "articleId": "2026-11-15-mayo-clinic-maps-deep-brain-region-to-improve-epilepsy-stimulation-targe",
+      "title": "Mayo Clinic maps deep brain region to improve epilepsy stimulation targeting | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
+      "source": "Healthcare MEA",
+      "solution": "THB Provider CRM",
+      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
+    },
+    {
+      "segment": "diagnostics",
+      "articleId": "2026-11-15-valeo-health-launches-unlock-longevity-programme-in-uae-to-advance-preve",
+      "title": "Valeo Health launches UNLOCK longevity programme in UAE to advance preventive healthcare",
+      "source": "Healthcare MEA",
+      "solution": "THB Diagnostics CRM",
+      "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
+    }
+  ]
 }
