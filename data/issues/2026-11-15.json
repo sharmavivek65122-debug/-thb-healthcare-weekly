@@ -5,21 +5,75 @@
   "startDate": "2026-11-14T18:30:00.000Z",
   "endDate": "2026-11-20T18:30:00.000Z",
   "status": "live",
-  "updatedAt": "2026-11-15T19:26:26.451Z",
+  "updatedAt": "2026-11-16T13:02:01.967Z",
   "coverage": {
-    "pharma": 7,
-    "providers": 3,
-    "diagnostics": 1,
+    "pharma": 13,
+    "providers": 9,
+    "diagnostics": 2,
     "healthtech": 0
   },
   "sourcesUsed": [
+    "BioSpectrum Asia Middle East",
+    "ET Healthworld",
     "Economic Times Pharma",
+    "Express Healthcare",
     "Healthcare MEA",
     "Medical Dialogues Pharma",
     "Zawya Pharmaceuticals"
   ],
   "segments": {
     "pharma": [
+      {
+        "id": "2026-11-15-biocon-gets-usfda-nod-for-breast-cancer-biosimilar-pebrilzo",
+        "title": "Biocon gets USFDA nod for breast cancer biosimilar Pebrilzo",
+        "summary": "Biocon Ltd has announced receiving US FDA approval for their biosimilar Pebrilzo, which treats HER2-positive breast cancer. This milestone adds to Biocon's portfolio, increasing their number of oncology biosimilars approved in the United States to five. The...",
+        "source": "Economic Times Pharma",
+        "sourceHost": "economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-11-16T08:09:50.000Z",
+        "publishedLabel": "November 16, 2026",
+        "category": "Approval",
+        "image": "https://img.etimg.com/thumb/msid-135878138,width-1200,height-900,imgsize-95850,overlay-economictimes/articleshow.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/biocon-receives-usfda-approval-for-breast-cancer-biosimilar-pebrilzo-expanding-access-to-affordable-treatment/articleshow/135878009.cms",
+        "articlePath": "/article.html?issue=2026-11-15&article=2026-11-15-biocon-gets-usfda-nod-for-breast-cancer-biosimilar-pebrilzo"
+      },
+      {
+        "id": "2026-11-15-glp-1-therapies-in-india-need-tailored-treatment-protocols-as-weight-los",
+        "title": "GLP-1 Therapies in India Need Tailored Treatment Protocols as Weight Loss Alone Cannot Define Success: Dr Sh..",
+        "summary": "GLP-1 therapies are changing the treatment of diabetes and obesity, but their growing use also raises questions about nutritional deficiencies, muscle loss, bone health and long-term adherence. Dr Shashank R. Joshi, Department of Diabetology and...",
+        "source": "ET Healthworld",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-11-16T05:47:09.000Z",
+        "publishedLabel": "November 16, 2026",
+        "category": "Industry Update",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-135874659,imgsize-62562,width-1200,height=627,overlay-ethealth,resizemode-75/industry/glp-1-therapies-in-india-need-tailored-treatment-protocols-as-weight-loss-alone-cannot-define-success-dr-shashank-joshi.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/glp-1-therapies-in-india-need-tailored-treatment-protocols-as-weight-loss-alone-cannot-define-success-dr-shashank-joshi/135874659",
+        "articlePath": "/article.html?issue=2026-11-15&article=2026-11-15-glp-1-therapies-in-india-need-tailored-treatment-protocols-as-weight-los"
+      },
+      {
+        "id": "2026-11-15-maharashtra-fda-seizes-rs-1-39-crore-nutraceuticals-containing-rejected-",
+        "title": "Maharashtra FDA seizes Rs 1.39 crore nutraceuticals containing rejected ingredients",
+        "summary": "A major seizure was made at a warehouse in Bhiwandi in Thane district, where stock worth Rs 47.65 lakh was confiscated, one of the highest values seized at a single establishment during the drive.",
+        "source": "ET Healthworld",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-11-16T01:53:52.000Z",
+        "publishedLabel": "November 16, 2026",
+        "category": "Industry Update",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-135869521,imgsize-80990,width-1200,height=627,overlay-ethealth,resizemode-75/policy/maharashtra-fda-seizes-rs-1-39-crore-nutraceuticals-containing-rejected-ingredients.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/policy/maharashtra-fda-seizes-rs-1-39-crore-nutraceuticals-containing-rejected-ingredients/135869521",
+        "articlePath": "/article.html?issue=2026-11-15&article=2026-11-15-maharashtra-fda-seizes-rs-1-39-crore-nutraceuticals-containing-rejected-"
+      },
       {
         "id": "2026-11-15-sun-pharma-eyes-4-billion-loan-for-organon-buy-five-banks-likely-to-anch",
         "title": "Sun Pharma eyes $4 billion loan for Organon buy, five banks likely to anchor refinancing",
@@ -31,11 +85,45 @@
         "publishedAt": "2026-11-15T18:54:58.000Z",
         "publishedLabel": "November 16, 2026",
         "category": "Industry Update",
-        "image": "https://img.etimg.com/thumb/msid-135864433,width-1200,height-900,imgsize-31523,overlay-economictimes/articleshow.jpg",
+        "image": "https://img.etimg.com/thumb/msid-135864470,width-1200,height-900,imgsize-62874,overlay-economictimes/articleshow.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/sun-pharma-eyes-4-billion-loan-for-organon-buy-five-banks-likely-to-anchor-refinancing/articleshow/135864434.cms",
         "articlePath": "/article.html?issue=2026-11-15&article=2026-11-15-sun-pharma-eyes-4-billion-loan-for-organon-buy-five-banks-likely-to-anch"
+      },
+      {
+        "id": "2026-11-15-aiims-plans-national-registry-to-track-poisoning-cases",
+        "title": "AIIMS plans national registry to track poisoning cases",
+        "summary": "The proposal envisages transforming the National Poisons Information Centre (NPIC) from a 24x7 telephone advisory service into a national nodal network for toxicology, with satellite units connected digitally to the AIIMS centre.",
+        "source": "ET Healthworld",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-11-16T01:49:35.000Z",
+        "publishedLabel": "November 16, 2026",
+        "category": "Industry Update",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-135869474,imgsize-177751,width-1200,height=627,overlay-ethealth,resizemode-75/policy/aiims-plans-national-registry-to-track-poisoning-cases.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/policy/aiims-plans-national-registry-to-track-poisoning-cases/135869474",
+        "articlePath": "/article.html?issue=2026-11-15&article=2026-11-15-aiims-plans-national-registry-to-track-poisoning-cases"
+      },
+      {
+        "id": "2026-11-15-who-says-antimicrobial-resistance-efforts-improve-globally-but-remain-of",
+        "title": "WHO says antimicrobial resistance efforts improve globally but remain off track for 2030 goals",
+        "summary": "Of 183 countries surveyed, 173 reported having a national action plan to tackle AMR, up from 79 in 2017. Only 42, however, said their plans were financed and implemented.",
+        "source": "ET Healthworld",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-11-16T10:30:43.000Z",
+        "publishedLabel": "November 16, 2026",
+        "category": "Industry Update",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-135882494,imgsize-105265,width-1200,height=627,overlay-ethealth,resizemode-75/industry/who-says-antimicrobial-resistance-efforts-improve-globally-but-remain-off-track-for-2030-goals.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/who-says-antimicrobial-resistance-efforts-improve-globally-but-remain-off-track-for-2030-goals/135882494",
+        "articlePath": "/article.html?issue=2026-11-15&article=2026-11-15-who-says-antimicrobial-resistance-efforts-improve-globally-but-remain-of"
       },
       {
         "id": "2026-11-15-apifa-biotech-advances-plans-for-us-216m-life-sciences-park-in-kenya-hea",
@@ -67,7 +155,7 @@
         "category": "Industry Update",
         "image": "https://medicaldialogues.in/h-upload/2024/03/05/233643-delhi-high-court-50.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/delhi-hc-rules-against-arlak-biotech-kuresia-pharma-in-contin-trademark-dispute-183286",
         "articlePath": "/article.html?issue=2026-11-15&article=2026-11-15-pharma-firm-secures-delhi-hc-decree-over-z-contin-mark"
       },
@@ -123,6 +211,23 @@
         "articlePath": "/article.html?issue=2026-11-15&article=2026-11-15-eli-lilly-breaks-ground-on-us-3-5b-obesity-drug-manufacturing-facility-i"
       },
       {
+        "id": "2026-11-15-india-s-alkem-laboratories-incorporates-saudi-arabia-subsidiary-to-expan",
+        "title": "India's Alkem Laboratories incorporates Saudi Arabia subsidiary to expand international presence",
+        "summary": "India's Alkem Laboratories incorporates Saudi Arabia subsidiary to expand international presence",
+        "source": "BioSpectrum Asia Middle East",
+        "sourceHost": "biospectrumasia.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-11-15T18:30:00.000Z",
+        "publishedLabel": "November 16, 2026",
+        "category": "Industry Update",
+        "image": "https://www.biospectrumasia.com/uploads/articles/alkem-28683.jpg?v=20261116133800",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://www.biospectrumasia.com/news/25/28683/indias-alkem-laboratories-incorporates-saudi-arabia-subsidiary-to-expand-international-presence.html",
+        "articlePath": "/article.html?issue=2026-11-15&article=2026-11-15-india-s-alkem-laboratories-incorporates-saudi-arabia-subsidiary-to-expan"
+      },
+      {
         "id": "2026-11-15-bristol-myers-squibb-merges-research-and-development-teams-under-cmo-cri",
         "title": "Bristol Myers Squibb Merges Research and Development Teams Under CMO Cristian Massacesi",
         "summary": "Bengaluru: Bristol Myers Squibb said on Thursday it will combine its scientific and clinical expertise teams into an end-to-end research and development department under current Chief Medical Officer...",
@@ -141,6 +246,74 @@
       }
     ],
     "providers": [
+      {
+        "id": "2026-11-15-why-the-next-challenge-is-building-a-care-ecosystem-not-just-senior-hous",
+        "title": "Why the next challenge is building a care ecosystem, not just senior housing",
+        "summary": "India is aging faster than the systems built to look after its elders, and the Association of Senior Living India’s Silver Surge 2.0 report doesn’t shy away from saying so. For years the sector has measured progress in homes built. The harder question now is...",
+        "source": "Express Healthcare",
+        "sourceHost": "expresshealthcare.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-11-16T09:49:47.000Z",
+        "publishedLabel": "November 16, 2026",
+        "category": "Provider Update",
+        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/11/16151936/Neha-Sinha-Dementia-Specialist-Clinical-Psychologist-CEO-and-Co-Founder-Epoch-Elder-Care.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": true,
+        "originalUrl": "https://www.expresshealthcare.in/news/why-the-next-challenge-is-building-a-care-ecosystem-not-just-senior-housing/455854/",
+        "articlePath": "/article.html?issue=2026-11-15&article=2026-11-15-why-the-next-challenge-is-building-a-care-ecosystem-not-just-senior-hous"
+      },
+      {
+        "id": "2026-11-15-why-being-insured-does-not-mean-being-fully-protected",
+        "title": "Why being insured does not mean being fully protected",
+        "summary": "Abhishek Bansal, CEO, Insurance Business, InsuranceDekho, explains why understanding policy exclusions, co-payments, waiting periods and claim conditions is essential to assessing whether a health insurance plan offers adequate financial protection.",
+        "source": "Express Healthcare",
+        "sourceHost": "expresshealthcare.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-11-16T11:16:14.000Z",
+        "publishedLabel": "November 16, 2026",
+        "category": "Policy",
+        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/11/16164504/EP_GB_-Abhishek_Bansal_750-1.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": true,
+        "originalUrl": "https://www.expresshealthcare.in/news/why-being-insured-does-not-mean-being-fully-protected/455860/",
+        "articlePath": "/article.html?issue=2026-11-15&article=2026-11-15-why-being-insured-does-not-mean-being-fully-protected"
+      },
+      {
+        "id": "2026-11-15-torrent-hospitals-appoints-saurabh-gupta-as-ceo-west",
+        "title": "Torrent Hospitals appoints Saurabh Gupta as CEO – West",
+        "summary": "Gupta, who has over 20 years of experience across KIMS Hospitals, Medanta, Fortis Healthcare, McKinsey & Company and PwC, will lead the Group’s hospital operations in the western region",
+        "source": "Express Healthcare",
+        "sourceHost": "expresshealthcare.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-11-16T10:40:12.000Z",
+        "publishedLabel": "November 16, 2026",
+        "category": "Hospital",
+        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/01/05122630/EH_Saurabh-Gupta_750.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": true,
+        "originalUrl": "https://www.expresshealthcare.in/news/torrent-hospitals-appoints-saurabh-gupta-as-ceo-west/455858/",
+        "articlePath": "/article.html?issue=2026-11-15&article=2026-11-15-torrent-hospitals-appoints-saurabh-gupta-as-ceo-west"
+      },
+      {
+        "id": "2026-11-15-aster-dm-quality-care-to-open-300-bed-hyderabad-hospital-in-march-2027",
+        "title": "Aster DM Quality Care to open 300-bed Hyderabad hospital in March 2027",
+        "summary": "The ₹500-crore Kondapur facility will take the Group's bed capacity in Hyderabad to over 1,700",
+        "source": "Express Healthcare",
+        "sourceHost": "expresshealthcare.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-11-16T06:53:46.000Z",
+        "publishedLabel": "November 16, 2026",
+        "category": "Hospital",
+        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/11/16122117/EP_Aster_DM_750.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": true,
+        "originalUrl": "https://www.expresshealthcare.in/news/aster-dm-quality-care-to-open-300-bed-hyderabad-hospital-in-march-2027/455845/",
+        "articlePath": "/article.html?issue=2026-11-15&article=2026-11-15-aster-dm-quality-care-to-open-300-bed-hyderabad-hospital-in-march-2027"
+      },
       {
         "id": "2026-11-15-aga-khan-university-hospital-performs-first-documented-full-arm-replanta",
         "title": "Aga Khan University Hospital performs first documented full-arm replantation in East Africa",
@@ -176,6 +349,23 @@
         "articlePath": "/article.html?issue=2026-11-15&article=2026-11-15-mayo-clinic-maps-deep-brain-region-to-improve-epilepsy-stimulation-targe"
       },
       {
+        "id": "2026-11-15-logitech-brings-logi-work-to-the-uae-and-saudi-arabia",
+        "title": "Logitech brings Logi Work to the UAE and Saudi Arabia",
+        "summary": "The campaign offers significant discounts from leading retail and e-commerce partners, dedicated hands-on experience zones",
+        "source": "Zawya Pharmaceuticals",
+        "sourceHost": "zawya.com",
+        "region": "Middle East",
+        "country": "United Arab Emirates",
+        "publishedAt": "2026-11-15T15:39:02.175Z",
+        "publishedLabel": "November 15, 2026",
+        "category": "AI Care Delivery",
+        "image": "https://media.zawya.com/prod/images/gm_preview/3a0358403e98-logi-work.png",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": true,
+        "originalUrl": "https://www.zawya.com/en/press-release/companies-news/logitech-brings-logi-work-to-the-uae-and-saudi-arabia-2277708",
+        "articlePath": "/article.html?issue=2026-11-15&article=2026-11-15-logitech-brings-logi-work-to-the-uae-and-saudi-arabia"
+      },
+      {
         "id": "2026-11-15-alshaya-group-opens-15-brand-stores-at-aventura-mall-kuwait-s-newest-sho",
         "title": "Alshaya Group opens 15 brand stores at Aventura Mall - Kuwait’s newest shopping destination",
         "summary": "The opening featured a diverse mix of prominent global brands",
@@ -188,12 +378,46 @@
         "category": "AI Care Delivery",
         "image": "https://media.zawya.com/prod/images/gm_preview/ebba95c31666-img1745.jpeg",
         "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.zawya.com/en/press-release/companies-news/alshaya-group-opens-15-brand-stores-at-aventura-mall-kuwaits-newest-shopping-destination-2277541",
         "articlePath": "/article.html?issue=2026-11-15&article=2026-11-15-alshaya-group-opens-15-brand-stores-at-aventura-mall-kuwait-s-newest-sho"
+      },
+      {
+        "id": "2026-11-15-saudi-economy-to-rebound-in-2027-as-oil-output-recovers-says-moody-s",
+        "title": "Saudi economy to rebound in 2027 as oil output recovers, says Moody’s",
+        "summary": "The agency forecasts brent crude prices to average $90 per barrel in 2027",
+        "source": "Zawya Pharmaceuticals",
+        "sourceHost": "zawya.com",
+        "region": "Middle East",
+        "country": "Saudi Arabia",
+        "publishedAt": "2026-11-16T03:26:51.631Z",
+        "publishedLabel": "November 16, 2026",
+        "category": "Provider Update",
+        "image": "https://media.zawya.com/prod/images/gm_preview/b605b778de98-gettyimages-1234035001.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": true,
+        "originalUrl": "https://www.zawya.com/en/economy/saudi-economy-to-rebound-in-2027-as-oil-output-recovers-says-moodys-2277142",
+        "articlePath": "/article.html?issue=2026-11-15&article=2026-11-15-saudi-economy-to-rebound-in-2027-as-oil-output-recovers-says-moody-s"
       }
     ],
     "diagnostics": [
+      {
+        "id": "2026-11-15-government-health-spending-triples-out-of-pocket-expenditure-falls-to-42",
+        "title": "Government health spending triples, out-of-pocket expenditure falls to 42.7%",
+        "summary": "National Health Accounts 2023–24 estimates show a 21.5 percentage point decline in the share of out-of-pocket expenditure over a decade, alongside an increase in government spending on healthcare",
+        "source": "Express Healthcare",
+        "sourceHost": "expresshealthcare.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-11-16T05:56:42.000Z",
+        "publishedLabel": "November 16, 2026",
+        "category": "Industry Update",
+        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2021/10/29141126/growth.jpg",
+        "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
+        "justIn": true,
+        "originalUrl": "https://www.expresshealthcare.in/news/government-health-spending-triples-out-of-pocket-expenditure-falls-to-42-7/455840/",
+        "articlePath": "/article.html?issue=2026-11-15&article=2026-11-15-government-health-spending-triples-out-of-pocket-expenditure-falls-to-42"
+      },
       {
         "id": "2026-11-15-valeo-health-launches-unlock-longevity-programme-in-uae-to-advance-preve",
         "title": "Valeo Health launches UNLOCK longevity programme in UAE to advance preventive healthcare",
@@ -217,6 +441,30 @@
   "thbActions": [
     {
       "segment": "pharma",
+      "articleId": "2026-11-15-biocon-gets-usfda-nod-for-breast-cancer-biosimilar-pebrilzo",
+      "title": "Biocon gets USFDA nod for breast cancer biosimilar Pebrilzo",
+      "source": "Economic Times Pharma",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "pharma",
+      "articleId": "2026-11-15-glp-1-therapies-in-india-need-tailored-treatment-protocols-as-weight-los",
+      "title": "GLP-1 Therapies in India Need Tailored Treatment Protocols as Weight Loss Alone Cannot Define Success: Dr Sh..",
+      "source": "ET Healthworld",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "pharma",
+      "articleId": "2026-11-15-maharashtra-fda-seizes-rs-1-39-crore-nutraceuticals-containing-rejected-",
+      "title": "Maharashtra FDA seizes Rs 1.39 crore nutraceuticals containing rejected ingredients",
+      "source": "ET Healthworld",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "pharma",
       "articleId": "2026-11-15-sun-pharma-eyes-4-billion-loan-for-organon-buy-five-banks-likely-to-anch",
       "title": "Sun Pharma eyes $4 billion loan for Organon buy, five banks likely to anchor refinancing",
       "source": "Economic Times Pharma",
@@ -225,35 +473,43 @@
     },
     {
       "segment": "pharma",
-      "articleId": "2026-11-15-apifa-biotech-advances-plans-for-us-216m-life-sciences-park-in-kenya-hea",
-      "title": "Apifa Biotech advances plans for US$216M life sciences park in Kenya | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
-      "source": "Healthcare MEA",
+      "articleId": "2026-11-15-aiims-plans-national-registry-to-track-poisoning-cases",
+      "title": "AIIMS plans national registry to track poisoning cases",
+      "source": "ET Healthworld",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
     },
     {
-      "segment": "pharma",
-      "articleId": "2026-11-15-pharma-firm-secures-delhi-hc-decree-over-z-contin-mark",
-      "title": "Pharma Firm Secures Delhi HC Decree Over Z-CONTIN Mark",
-      "source": "Medical Dialogues Pharma",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+      "segment": "providers",
+      "articleId": "2026-11-15-why-the-next-challenge-is-building-a-care-ecosystem-not-just-senior-hous",
+      "title": "Why the next challenge is building a care ecosystem, not just senior housing",
+      "source": "Express Healthcare",
+      "solution": "THB Provider CRM",
+      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
     },
     {
-      "segment": "pharma",
-      "articleId": "2026-11-15-gilead-s-18-lenacapavir-patent-applications-in-india-raise-concerns-over",
-      "title": "Gilead's 18 Lenacapavir Patent Applications in India Raise Concerns Over Delayed HIV Drug Generics",
-      "source": "Medical Dialogues Pharma",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+      "segment": "providers",
+      "articleId": "2026-11-15-why-being-insured-does-not-mean-being-fully-protected",
+      "title": "Why being insured does not mean being fully protected",
+      "source": "Express Healthcare",
+      "solution": "THB Provider CRM",
+      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
     },
     {
-      "segment": "pharma",
-      "articleId": "2026-11-15-amwill-health-care-to-import-market-private-label-hair-colour-products-f",
-      "title": "Amwill Health Care to Import, Market Private-Label Hair Colour Products From Thailand",
-      "source": "Medical Dialogues Pharma",
-      "solution": "THB Commercial Analytics",
-      "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
+      "segment": "providers",
+      "articleId": "2026-11-15-torrent-hospitals-appoints-saurabh-gupta-as-ceo-west",
+      "title": "Torrent Hospitals appoints Saurabh Gupta as CEO – West",
+      "source": "Express Healthcare",
+      "solution": "THB Provider CRM",
+      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
+    },
+    {
+      "segment": "providers",
+      "articleId": "2026-11-15-aster-dm-quality-care-to-open-300-bed-hyderabad-hospital-in-march-2027",
+      "title": "Aster DM Quality Care to open 300-bed Hyderabad hospital in March 2027",
+      "source": "Express Healthcare",
+      "solution": "THB Provider CRM",
+      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
     },
     {
       "segment": "providers",
@@ -264,20 +520,12 @@
       "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
     },
     {
-      "segment": "providers",
-      "articleId": "2026-11-15-mayo-clinic-maps-deep-brain-region-to-improve-epilepsy-stimulation-targe",
-      "title": "Mayo Clinic maps deep brain region to improve epilepsy stimulation targeting | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
-      "source": "Healthcare MEA",
-      "solution": "THB Provider CRM",
-      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
-    },
-    {
-      "segment": "providers",
-      "articleId": "2026-11-15-alshaya-group-opens-15-brand-stores-at-aventura-mall-kuwait-s-newest-sho",
-      "title": "Alshaya Group opens 15 brand stores at Aventura Mall - Kuwait’s newest shopping destination",
-      "source": "Zawya Pharmaceuticals",
-      "solution": "THB Provider CRM",
-      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
+      "segment": "diagnostics",
+      "articleId": "2026-11-15-government-health-spending-triples-out-of-pocket-expenditure-falls-to-42",
+      "title": "Government health spending triples, out-of-pocket expenditure falls to 42.7%",
+      "source": "Express Healthcare",
+      "solution": "THB Diagnostics CRM",
+      "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
     },
     {
       "segment": "diagnostics",
