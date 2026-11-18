@@ -5,38 +5,19 @@
   "startDate": "2026-10-24T18:30:00.000Z",
   "endDate": "2026-10-30T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-11-17T21:51:58.849Z",
+  "updatedAt": "2026-11-18T13:18:27.908Z",
   "coverage": {
-    "pharma": 1,
-    "providers": 5,
+    "pharma": 0,
+    "providers": 6,
     "diagnostics": 1,
     "healthtech": 0
   },
   "sourcesUsed": [
-    "ET Healthworld",
     "ET Healthworld Diagnostics",
     "ET Healthworld Hospitals"
   ],
   "segments": {
-    "pharma": [
-      {
-        "id": "2026-10-25-fortis-acquires-110-bed-suguna-hospital-in-bengaluru",
-        "title": "Fortis acquires 110-bed Suguna Hospital in Bengaluru",
-        "summary": "The acquisition was undertaken by Fortis’ wholly-owned subsidiary International Hospital Limited (IHL) with the transaction being completed on October 28.",
-        "source": "ET Healthworld",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-10-29T02:14:43.000Z",
-        "publishedLabel": "October 29, 2026",
-        "category": "Industry Update",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-135286526,imgsize-83568,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/fortis-acquires-110-bed-suguna-hospital-in-bengaluru.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/fortis-acquires-110-bed-suguna-hospital-in-bengaluru/135286526",
-        "articlePath": "/article.html?issue=2026-10-25&article=2026-10-25-fortis-acquires-110-bed-suguna-hospital-in-bengaluru"
-      }
-    ],
+    "pharma": [],
     "providers": [
       {
         "id": "2026-10-25-rml-hospital-s-666-bed-super-speciality-block-gets-fire-safety-clearance",
@@ -71,6 +52,23 @@
         "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/max-healthcare-posts-3219-cr-in-q2-fy27-profit-climbs-10/135384706",
         "articlePath": "/article.html?issue=2026-10-25&article=2026-10-25-max-healthcare-posts-3-219-cr-in-q2-fy27-profit-climbs-10"
+      },
+      {
+        "id": "2026-10-25-fortis-acquires-110-bed-suguna-hospital-in-bengaluru",
+        "title": "Fortis acquires 110-bed Suguna Hospital in Bengaluru",
+        "summary": "The acquisition was undertaken by Fortis’ wholly-owned subsidiary International Hospital Limited (IHL) with the transaction being completed on October 28.",
+        "source": "ET Healthworld Hospitals",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-10-29T02:14:43.000Z",
+        "publishedLabel": "October 29, 2026",
+        "category": "Hospital",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-135286526,imgsize-83568,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/fortis-acquires-110-bed-suguna-hospital-in-bengaluru.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": false,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/fortis-acquires-110-bed-suguna-hospital-in-bengaluru/135286526",
+        "articlePath": "/article.html?issue=2026-10-25&article=2026-10-25-fortis-acquires-110-bed-suguna-hospital-in-bengaluru"
       },
       {
         "id": "2026-10-25-apollo-launches-ai-assisted-stroke-care-programme",
@@ -147,14 +145,6 @@
   },
   "thbActions": [
     {
-      "segment": "pharma",
-      "articleId": "2026-10-25-fortis-acquires-110-bed-suguna-hospital-in-bengaluru",
-      "title": "Fortis acquires 110-bed Suguna Hospital in Bengaluru",
-      "source": "ET Healthworld",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
       "segment": "providers",
       "articleId": "2026-10-25-rml-hospital-s-666-bed-super-speciality-block-gets-fire-safety-clearance",
       "title": "RML Hospital's 666-bed super speciality block gets fire safety clearance",
@@ -172,6 +162,14 @@
     },
     {
       "segment": "providers",
+      "articleId": "2026-10-25-fortis-acquires-110-bed-suguna-hospital-in-bengaluru",
+      "title": "Fortis acquires 110-bed Suguna Hospital in Bengaluru",
+      "source": "ET Healthworld Hospitals",
+      "solution": "THB Provider CRM",
+      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
+    },
+    {
+      "segment": "providers",
       "articleId": "2026-10-25-apollo-launches-ai-assisted-stroke-care-programme",
       "title": "Apollo launches AI-assisted stroke care programme",
       "source": "ET Healthworld Hospitals",
@@ -182,14 +180,6 @@
       "segment": "providers",
       "articleId": "2026-10-25-indira-ivf-in-talks-to-acquire-sabine-in-nearly-rs-1-300-crore-deal",
       "title": "Indira IVF in talks to acquire Sabine in nearly Rs 1,300 crore deal",
-      "source": "ET Healthworld Hospitals",
-      "solution": "THB Provider CRM",
-      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
-    },
-    {
-      "segment": "providers",
-      "articleId": "2026-10-25-centrally-sponsored-insurance-must-be-periodically-revised-fortis-md",
-      "title": "Centrally sponsored insurance must be periodically revised: Fortis MD",
       "source": "ET Healthworld Hospitals",
       "solution": "THB Provider CRM",
       "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
