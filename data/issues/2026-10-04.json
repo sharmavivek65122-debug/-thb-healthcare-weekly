@@ -5,11 +5,11 @@
   "startDate": "2026-10-03T18:30:00.000Z",
   "endDate": "2026-10-09T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-11-19T21:43:40.442Z",
+  "updatedAt": "2026-11-20T13:26:04.185Z",
   "coverage": {
     "pharma": 0,
     "providers": 3,
-    "diagnostics": 3,
+    "diagnostics": 2,
     "healthtech": 0
   },
   "sourcesUsed": [
@@ -73,23 +73,6 @@
     ],
     "diagnostics": [
       {
-        "id": "2026-10-04-pgi-partners-with-iit-delhi-for-ai-powered-breast-cancer-detection",
-        "title": "PGI partners with IIT Delhi for AI powered breast cancer detection",
-        "summary": "“Breast cancer in Indian women often develops at a younger age — frequently appearing in their 20s and 30s — and is typically characterised by denser breast tissue, making standard mammography less effective,” said Prof Veenu Singla of the department of...",
-        "source": "ET Healthworld Diagnostics",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-10-04T17:38:06.000Z",
-        "publishedLabel": "October 4, 2026",
-        "category": "Cancer Testing",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-134678758,imgsize-78386,width-1200,height=627,overlay-ethealth,resizemode-75/diagnostics/pgi-partners-with-iit-delhi-for-ai-powered-breast-cancer-detection.jpg",
-        "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/diagnostics/pgi-partners-with-iit-delhi-for-ai-powered-breast-cancer-detection/134678758",
-        "articlePath": "/article.html?issue=2026-10-04&article=2026-10-04-pgi-partners-with-iit-delhi-for-ai-powered-breast-cancer-detection"
-      },
-      {
         "id": "2026-10-04-neuberg-diagnostics-merges-maharashtra-operations-with-nm-medical",
         "title": "Neuberg Diagnostics merges Maharashtra operations with NM Medical",
         "summary": "The Maharashtra platform will be led by Dr. Nilesh Shah as Chairman while Rahil Shah will serve as CEO, Maharashtra, Preventive Wellness and Africa Operations, Neuberg Group.",
@@ -150,14 +133,6 @@
       "source": "ET Healthworld Hospitals",
       "solution": "THB Provider CRM",
       "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
-    },
-    {
-      "segment": "diagnostics",
-      "articleId": "2026-10-04-pgi-partners-with-iit-delhi-for-ai-powered-breast-cancer-detection",
-      "title": "PGI partners with IIT Delhi for AI powered breast cancer detection",
-      "source": "ET Healthworld Diagnostics",
-      "solution": "THB Diagnostics CRM",
-      "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
     },
     {
       "segment": "diagnostics",
