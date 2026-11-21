@@ -5,11 +5,11 @@
   "startDate": "2026-11-14T18:30:00.000Z",
   "endDate": "2026-11-20T18:30:00.000Z",
   "status": "live",
-  "updatedAt": "2026-11-20T21:27:07.693Z",
+  "updatedAt": "2026-11-21T12:54:00.951Z",
   "coverage": {
-    "pharma": 42,
-    "providers": 11,
-    "diagnostics": 3,
+    "pharma": 44,
+    "providers": 12,
+    "diagnostics": 4,
     "healthtech": 2
   },
   "sourcesUsed": [
@@ -111,23 +111,6 @@
         "articlePath": "/article.html?issue=2026-11-15&article=2026-11-15-india-needs-policy-predictability-to-speed-up-drug-approvals-and-boost-p"
       },
       {
-        "id": "2026-11-15-beyond-the-meal-plan-ai-digital-twin-driven-precision-nutrition",
-        "title": "Beyond the Meal Plan: AI Digital Twin–Driven Precision Nutrition",
-        "summary": "A calorie-tracking app, or a meal plan from a coach, dietitian or nutritionist, is personalisation by preference and periodic assessment. True precision nutrition is personalisation by physiology — a continuously updated model of how each person’s body...",
-        "source": "ET Healthworld",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-11-20T11:39:25.000Z",
-        "publishedLabel": "November 20, 2026",
-        "category": "Industry Update",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-136025325,imgsize-172913,width-1200,height=627,overlay-ethealth,resizemode-75/health-it/beyond-the-meal-plan-ai-digital-twindriven-precision-nutrition.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/health-it/beyond-the-meal-plan-ai-digital-twindriven-precision-nutrition/136025325",
-        "articlePath": "/article.html?issue=2026-11-15&article=2026-11-15-beyond-the-meal-plan-ai-digital-twin-driven-precision-nutrition"
-      },
-      {
         "id": "2026-11-15-centre-proposes-tighter-regulatory-oversight-of-antimicrobials-to-tackle",
         "title": "Centre proposes tighter regulatory oversight of antimicrobials to tackle drug resistance",
         "summary": "The Health Ministry has proposed amending the New Drugs and Clinical Trials Rules, 2019, to bring antimicrobials under Central regulatory oversight. The move would require manufacturers to secure prior approval from the Central Licensing Authority, addressing...",
@@ -162,6 +145,40 @@
         "articlePath": "/article.html?issue=2026-11-15&article=2026-11-15-glp-1-therapies-in-india-need-tailored-treatment-protocols-as-weight-los"
       },
       {
+        "id": "2026-11-15-maha-fda-warns-of-action-on-misleading-claims-with-nutraceuticals-mandat",
+        "title": "Maha FDA warns of action on misleading claims with Nutraceuticals; mandates license",
+        "summary": "The order mandates stricter regulatory oversight and is applicable with immediate effect to manufacturers, brand owners, importers, distributors, warehouses, retailers, pharmacies, gymnasiums, hospital suppliers and e-commerce entities, FDA said in a...",
+        "source": "ET Healthworld",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-11-21T02:41:01.000Z",
+        "publishedLabel": "November 21, 2026",
+        "category": "Industry Update",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-136043188,imgsize-83810,width-1200,height=627,overlay-ethealth,resizemode-75/policy/maha-fda-warns-of-action-on-misleading-claims-with-nutraceuticals-mandates-license.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/policy/maha-fda-warns-of-action-on-misleading-claims-with-nutraceuticals-mandates-license/136043188",
+        "articlePath": "/article.html?issue=2026-11-15&article=2026-11-15-maha-fda-warns-of-action-on-misleading-claims-with-nutraceuticals-mandat"
+      },
+      {
+        "id": "2026-11-15-karnataka-launches-five-year-plan-to-tackle-antibiotic-resistance",
+        "title": "Karnataka launches five-year plan to tackle antibiotic resistance",
+        "summary": "The Karnataka State Action Plan for Containment of Antimicrobial Resistance (K-SAPCAR) 2026-2030 was unveiled at a state-level workshop in the city Thursday.",
+        "source": "ET Healthworld",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-11-21T02:03:55.000Z",
+        "publishedLabel": "November 21, 2026",
+        "category": "Launch",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-136042785,imgsize-94444,width-1200,height=627,overlay-ethealth,resizemode-75/policy/karnataka-launches-five-year-plan-to-tackle-antibiotic-resistance.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/policy/karnataka-launches-five-year-plan-to-tackle-antibiotic-resistance/136042785",
+        "articlePath": "/article.html?issue=2026-11-15&article=2026-11-15-karnataka-launches-five-year-plan-to-tackle-antibiotic-resistance"
+      },
+      {
         "id": "2026-11-15-sun-pharma-eyes-4-billion-loan-for-organon-buy-five-banks-likely-to-anch",
         "title": "Sun Pharma eyes $4 billion loan for Organon buy, five banks likely to anchor refinancing",
         "summary": "Sun Pharmaceutical Industries is gearing up to secure a substantial $4 billion syndicated loan aimed at refining its financial structure. This initiative is focused on refinancing a portion of the bridge financing used for its acquisition of Organon & Co. The...",
@@ -191,9 +208,26 @@
         "category": "Manufacturing",
         "image": "https://etimg.etb2bimg.com/thumb/msid-136028735,imgsize-121234,width-1200,height=627,overlay-ethealth,resizemode-75/industry/beta-drugs-enters-joint-venture-with-algerias-imgsa-groupe-to-expand-global-oncology-manufacturing-footprint.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/beta-drugs-enters-joint-venture-with-algerias-imgsa-groupe-to-expand-global-oncology-manufacturing-footprint/136028735",
         "articlePath": "/article.html?issue=2026-11-15&article=2026-11-15-beta-drugs-enters-joint-venture-with-algeria-s-imgsa-groupe-to-expand-gl"
+      },
+      {
+        "id": "2026-11-15-glp-1-drugs-tied-to-heart-improvements-in-patients-with-obesity-and-hear",
+        "title": "GLP-1 drugs tied to heart improvements in patients with obesity and heart failure",
+        "summary": "Everyone in the study had heart failure with reduced ejection fraction, meaning the heart's left ventricle was only weakly pushing blood out toward the body.",
+        "source": "ET Healthworld",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-11-21T02:00:45.000Z",
+        "publishedLabel": "November 21, 2026",
+        "category": "Industry Update",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-136042730,imgsize-119862,width-1200,height=627,overlay-ethealth,resizemode-75/industry/glp-1-drugs-tied-to-heart-improvements-in-patients-with-obesity-and-heart-failure.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/glp-1-drugs-tied-to-heart-improvements-in-patients-with-obesity-and-heart-failure/136042730",
+        "articlePath": "/article.html?issue=2026-11-15&article=2026-11-15-glp-1-drugs-tied-to-heart-improvements-in-patients-with-obesity-and-hear"
       },
       {
         "id": "2026-11-15-substantiation-cannot-be-an-afterthought-in-nutraceutical-advertising-as",
@@ -225,9 +259,26 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-135962817,imgsize-100737,width-1200,height=627,overlay-ethealth,resizemode-75/diagnostics/new-blood-test-measures-alzheimers-progression.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/diagnostics/new-blood-test-measures-alzheimers-progression/135962817",
         "articlePath": "/article.html?issue=2026-11-15&article=2026-11-15-new-blood-test-measures-alzheimer-s-progression"
+      },
+      {
+        "id": "2026-11-15-us-drug-regulator-classifies-aurobindo-pharma-arm-s-andhra-facility-as-v",
+        "title": "US drug regulator classifies Aurobindo Pharma arm's Andhra facility as 'voluntary action indicated'",
+        "summary": "Aurobindo Pharma Limited has announced that its subsidiary, Apitoria Pharma Pvt Ltd, received a VAI classification for its facility. The classification indicates that some objectionable conditions were found, but no regulatory actions will occur. The...",
+        "source": "Economic Times Pharma",
+        "sourceHost": "economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-11-21T08:19:00.000Z",
+        "publishedLabel": "November 21, 2026",
+        "category": "Industry Update",
+        "image": "https://img.etimg.com/thumb/msid-136048922,width-1200,height-900,imgsize-56022,overlay-economictimes/articleshow.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/us-drug-regulator-classifies-aurobindo-pharma-arms-andhra-facility-as-voluntary-action-indicated/articleshow/136048904.cms",
+        "articlePath": "/article.html?issue=2026-11-15&article=2026-11-15-us-drug-regulator-classifies-aurobindo-pharma-arm-s-andhra-facility-as-v"
       },
       {
         "id": "2026-11-15-dr-jyoti-bajpai-redefining-cancer-care-through-precision-purpose-and-com",
@@ -242,7 +293,7 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-136029436,imgsize-64114,width-1200,height=627,overlay-ethealth,resizemode-75/industry/dr-jyoti-bajpai-redefining-cancer-care-through-precision-purpose-and-compassion.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/dr-jyoti-bajpai-redefining-cancer-care-through-precision-purpose-and-compassion/136029436",
         "articlePath": "/article.html?issue=2026-11-15&article=2026-11-15-dr-jyoti-bajpai-redefining-cancer-care-through-precision-purpose-and-com"
       },
@@ -264,6 +315,23 @@
         "articlePath": "/article.html?issue=2026-11-15&article=2026-11-15-india-needs-sustained-public-campaigns-to-improve-nutrition-awareness-dr"
       },
       {
+        "id": "2026-11-15-usfda-issues-7-observations-to-natco-pharma-s-hyderabad-facility",
+        "title": "USFDA issues 7 observations to NATCO Pharma's Hyderabad facility",
+        "summary": "NATCO Pharma Limited reported receiving seven observations from the USFDA following an inspection of its manufacturing facility. The inspection took place from November 12 to November 20 in Hyderabad. The company stated that the issued Form 483 highlights...",
+        "source": "Economic Times Pharma",
+        "sourceHost": "economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-11-21T10:14:00.000Z",
+        "publishedLabel": "November 21, 2026",
+        "category": "Manufacturing",
+        "image": "https://img.etimg.com/thumb/msid-136051175,width-1200,height-900,imgsize-72026,overlay-economictimes/articleshow.jpg",
+        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
+        "justIn": true,
+        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/usfda-issues-7-observations-to-natco-pharmas-hyderabad-facility/articleshow/136049608.cms",
+        "articlePath": "/article.html?issue=2026-11-15&article=2026-11-15-usfda-issues-7-observations-to-natco-pharma-s-hyderabad-facility"
+      },
+      {
         "id": "2026-11-15-ai-powered-diet-plans-needs-a-clinical-reality-check",
         "title": "AI-Powered Diet Plans needs a Clinical Reality Check",
         "summary": "Are you enrolled in an AI-powered diet programme or paying for a personalised nutrition plan? Tracking every meal, counting calories and following app-generated recommendations, but are they actually making you healthier? As digital nutrition platforms make...",
@@ -279,40 +347,6 @@
         "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/ai-powered-diet-plans-needs-a-clinical-reality-check/136026767",
         "articlePath": "/article.html?issue=2026-11-15&article=2026-11-15-ai-powered-diet-plans-needs-a-clinical-reality-check"
-      },
-      {
-        "id": "2026-11-15-india-s-nutrition-paradox-why-are-we-eating-more-but-nourishing-less",
-        "title": "India’s Nutrition Paradox: Why Are We Eating More but Nourishing Less?",
-        "summary": "The patients who sit across from me, whether they are a young professional with fatty liver, a new mother with severe fatigue or a child who is overweight but anaemic, tell the same story: We are eating more than ever but we are not nourishing ourselves...",
-        "source": "ET Healthworld",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-11-20T11:47:45.000Z",
-        "publishedLabel": "November 20, 2026",
-        "category": "Industry Update",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-136025459,imgsize-129916,width-1200,height=627,overlay-ethealth,resizemode-75/industry/indias-nutrition-paradox-why-are-we-eating-more-but-nourishing-less.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/indias-nutrition-paradox-why-are-we-eating-more-but-nourishing-less/136025459",
-        "articlePath": "/article.html?issue=2026-11-15&article=2026-11-15-india-s-nutrition-paradox-why-are-we-eating-more-but-nourishing-less"
-      },
-      {
-        "id": "2026-11-15-white-blood-cell-dna-may-strengthen-not-dilute-cancer-signals-in-blood-t",
-        "title": "White blood cell DNA may strengthen, not dilute, cancer signals in blood tests: Indian Study",
-        "summary": "A four-year study spanning 43 hospitals across India has uncovered an unexpected biological link between tumour DNA and immune-cell activity, offering new insights into blood-based early cancer detection. Published in the Proceedings of the National Academy...",
-        "source": "ET Healthworld",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-11-19T07:17:03.000Z",
-        "publishedLabel": "November 19, 2026",
-        "category": "Industry Update",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-135981120,imgsize-83934,width-1200,height=627,overlay-ethealth,resizemode-75/diagnostics/white-blood-cell-dna-may-strengthen-not-dilute-cancer-signals-in-blood-tests-indian-study.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/diagnostics/white-blood-cell-dna-may-strengthen-not-dilute-cancer-signals-in-blood-tests-indian-study/135981120",
-        "articlePath": "/article.html?issue=2026-11-15&article=2026-11-15-white-blood-cell-dna-may-strengthen-not-dilute-cancer-signals-in-blood-t"
       },
       {
         "id": "2026-11-15-delhi-health-minister-calls-for-stronger-bilateral-collaboration",
@@ -395,7 +429,7 @@
         "category": "Industry Update",
         "image": "https://medicaldialogues.in/h-upload/2023/02/01/200249-alkem-new.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/alkem-labs-gets-usfda-warning-letter-for-daman-plant-earlier-classified-oai-183682",
         "articlePath": "/article.html?issue=2026-11-15&article=2026-11-15-alkem-labs-gets-usfda-warning-letter-for-daman-plant-earlier-classified-"
       },
@@ -412,7 +446,7 @@
         "category": "Manufacturing",
         "image": "https://medicaldialogues.in/h-upload/2024/11/16/260985-natco-pharma-50-1.jpg",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/natco-pharma-gets-usfda-eir-for-visakhapatnam-plant-after-4-observations-classified-vai-183681",
         "articlePath": "/article.html?issue=2026-11-15&article=2026-11-15-natco-pharma-gets-usfda-eir-for-visakhapatnam-plant-after-4-observations"
       },
@@ -514,7 +548,7 @@
         "category": "Clinical Trial",
         "image": "https://medicaldialogues.in/h-upload/2024/02/14/232297-antimicrobials.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/govt-seeks-tighter-oversight-of-antimicrobials-through-draft-rule-change-183686",
         "articlePath": "/article.html?issue=2026-11-15&article=2026-11-15-govt-seeks-tighter-oversight-of-antimicrobials-through-draft-rule-change"
       },
@@ -701,7 +735,7 @@
         "category": "Manufacturing",
         "image": "https://medicaldialogues.in/h-upload/2026/10/07/478684-agrasen.jpg",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/health-investments/aragen-to-invest-rs-150-crore-to-expand-crdmo-capacity-ahead-of-ipo-183678",
         "articlePath": "/article.html?issue=2026-11-15&article=2026-11-15-aragen-to-invest-rs-150-crore-to-expand-crdmo-capacity-ahead-of-ipo"
       },
@@ -844,6 +878,23 @@
         "articlePath": "/article.html?issue=2026-11-15&article=2026-11-15-yas-clinic-adscc-performs-world-s-fifth-bone-marrow-transplant-for-nik-d"
       },
       {
+        "id": "2026-11-15-dubai-department-of-economy-and-tourism-and-xiaohongshu-sign-strategic-c",
+        "title": "Dubai Department of Economy and Tourism and Xiaohongshu sign strategic collaboration to inspire new ways to discover Dubai",
+        "summary": "Marking the brand’s first strategic partnership in the Middle East. This major agreement strengthens Dubai’s ‘China Ready’ strategy,",
+        "source": "Zawya Pharmaceuticals",
+        "sourceHost": "zawya.com",
+        "region": "Middle East",
+        "country": "United Arab Emirates",
+        "publishedAt": "2026-11-20T08:16:36.329Z",
+        "publishedLabel": "November 20, 2026",
+        "category": "AI Care Delivery",
+        "image": "https://media.zawya.com/prod/images/gm_preview/2b87f9a19e41-dubai-department-of-economy-and-tourism-and-xiaohongshu-sign-strategic-collabora.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": true,
+        "originalUrl": "https://www.zawya.com/en/press-release/government-news/dubai-department-of-economy-and-tourism-and-xiaohongshu-sign-strategic-collaboration-to-inspire-new-ways-to-discover-dubai-2421378",
+        "articlePath": "/article.html?issue=2026-11-15&article=2026-11-15-dubai-department-of-economy-and-tourism-and-xiaohongshu-sign-strategic-c"
+      },
+      {
         "id": "2026-11-15-hsbc-launches-hsbcnio-in-the-uae-to-transform-transaction-banking",
         "title": "HSBC launches HSBCnio in the UAE to transform transaction banking",
         "summary": "New transaction banking capability helps UAE clients integrate banking services with their own channels and workflows based on their preferences",
@@ -856,9 +907,26 @@
         "category": "Provider Update",
         "image": "https://media.zawya.com/prod/images/gm_preview/29571bcc1161-kyle-boag-small.jpg",
         "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.zawya.com/en/press-release/companies-news/hsbc-launches-hsbcnio-in-the-uae-to-transform-transaction-banking-2392323",
         "articlePath": "/article.html?issue=2026-11-15&article=2026-11-15-hsbc-launches-hsbcnio-in-the-uae-to-transform-transaction-banking"
+      },
+      {
+        "id": "2026-11-15-mannesmann-energy-signs-epc-agreement-with-adnoc-onshore-for-neb-facilit",
+        "title": "Mannesmann Energy signs EPC agreement with ADNOC Onshore for NEB Facilities Upgrade Project – Phase II",
+        "summary": "Agreement signed at ADIPEC 2026 covers brownfield upgrades at Al Nouf and Rumaitha/Shanayel facilities, reinforcing Mannesmann Energy’s role in supporting the development of the UAE’s energy infrastructure",
+        "source": "Zawya Pharmaceuticals",
+        "sourceHost": "zawya.com",
+        "region": "Middle East",
+        "country": "United Arab Emirates",
+        "publishedAt": "2026-11-18T07:08:20.092Z",
+        "publishedLabel": "November 18, 2026",
+        "category": "AI Care Delivery",
+        "image": "https://media.zawya.com/prod/images/gm_preview/ee12d3fcc45d-image-1.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": true,
+        "originalUrl": "https://www.zawya.com/en/press-release/mannesmann-energy-signs-epc-agreement-with-adnoc-onshore-for-neb-facilities-upgrade-project-phase-ii-2333713",
+        "articlePath": "/article.html?issue=2026-11-15&article=2026-11-15-mannesmann-energy-signs-epc-agreement-with-adnoc-onshore-for-neb-facilit"
       },
       {
         "id": "2026-11-15-chemist-booked-for-culpable-homicide-after-teen-dies-following-alleged-w",
@@ -890,7 +958,7 @@
         "category": "Provider Update",
         "image": "https://media.zawya.com/prod/images/gm_preview/8deeabb3af4c-saleem-alblooshi-chief-technology-officer-du.jpg",
         "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.zawya.com/en/press-release/companies-news/du-achieves-5-gbps-single-user-record-speed-on-commericial-u6ghz-network-advancing-uaes-10g-nation-vision-2419278",
         "articlePath": "/article.html?issue=2026-11-15&article=2026-11-15-du-achieves-5-gbps-single-user-record-speed-on-commericial-u6ghz-network"
       },
@@ -907,29 +975,29 @@
         "category": "Provider Update",
         "image": "https://media.zawya.com/prod/images/gm_preview/494b1d940635-dsc06093.jpg",
         "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.zawya.com/en/press-release/energy-oman-and-exxonmobil-sign-concession-agreement-2417077",
         "articlePath": "/article.html?issue=2026-11-15&article=2026-11-15-energy-oman-and-exxonmobil-sign-concession-agreement"
-      },
-      {
-        "id": "2026-11-15-gcc-at-cop31-strategic-agreement-with-t-rkiye-s-energy-exchange",
-        "title": "GCC at COP31: Strategic agreement with Türkiye's Energy Exchange",
-        "summary": "To advance carbon credit trading and market development",
-        "source": "Zawya Pharmaceuticals",
-        "sourceHost": "zawya.com",
-        "region": "Middle East",
-        "country": "Qatar",
-        "publishedAt": "2026-11-15T15:19:10.030Z",
-        "publishedLabel": "November 15, 2026",
-        "category": "Provider Update",
-        "image": "https://media.zawya.com/prod/images/gm_preview/7b428a10297b-gcc-x-epias-agreement-2.jpg",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
-        "originalUrl": "https://www.zawya.com/en/press-release/companies-news/gcc-at-cop31-strategic-agreement-with-turkiyes-energy-exchange-2277697",
-        "articlePath": "/article.html?issue=2026-11-15&article=2026-11-15-gcc-at-cop31-strategic-agreement-with-t-rkiye-s-energy-exchange"
       }
     ],
     "diagnostics": [
+      {
+        "id": "2026-11-15-white-blood-cell-dna-may-strengthen-not-dilute-cancer-signals-in-blood-t",
+        "title": "White blood cell DNA may strengthen, not dilute, cancer signals in blood tests: Indian Study",
+        "summary": "A four-year study spanning 43 hospitals across India has uncovered an unexpected biological link between tumour DNA and immune-cell activity, offering new insights into blood-based early cancer detection. Published in the Proceedings of the National Academy...",
+        "source": "ET Healthworld Diagnostics",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-11-19T07:17:03.000Z",
+        "publishedLabel": "November 19, 2026",
+        "category": "Cancer Testing",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-135981120,imgsize-83934,width-1200,height=627,overlay-ethealth,resizemode-75/diagnostics/white-blood-cell-dna-may-strengthen-not-dilute-cancer-signals-in-blood-tests-indian-study.jpg",
+        "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
+        "justIn": true,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/diagnostics/white-blood-cell-dna-may-strengthen-not-dilute-cancer-signals-in-blood-tests-indian-study/135981120",
+        "articlePath": "/article.html?issue=2026-11-15&article=2026-11-15-white-blood-cell-dna-may-strengthen-not-dilute-cancer-signals-in-blood-t"
+      },
       {
         "id": "2026-11-15-max-lab-opens-new-diagnostic-laboratory-in-panipat",
         "title": "Max Lab opens new diagnostic laboratory in Panipat",
@@ -1099,6 +1167,14 @@
       "source": "Express Healthcare",
       "solution": "THB Provider CRM",
       "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
+    },
+    {
+      "segment": "diagnostics",
+      "articleId": "2026-11-15-white-blood-cell-dna-may-strengthen-not-dilute-cancer-signals-in-blood-t",
+      "title": "White blood cell DNA may strengthen, not dilute, cancer signals in blood tests: Indian Study",
+      "source": "ET Healthworld Diagnostics",
+      "solution": "THB Diagnostics CRM",
+      "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
     },
     {
       "segment": "diagnostics",
