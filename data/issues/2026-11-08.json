@@ -5,10 +5,10 @@
   "startDate": "2026-11-07T18:30:00.000Z",
   "endDate": "2026-11-13T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-11-21T12:54:00.951Z",
+  "updatedAt": "2026-11-21T20:12:28.181Z",
   "coverage": {
-    "pharma": 9,
-    "providers": 2,
+    "pharma": 8,
+    "providers": 3,
     "diagnostics": 2,
     "healthtech": 0
   },
@@ -140,23 +140,6 @@
         "articlePath": "/article.html?issue=2026-11-08&article=2026-11-08-usfda-classifies-aurobindo-pharma-s-us-facility-as-official-action-indic"
       },
       {
-        "id": "2026-11-08-metropolis-3-0-to-build-a-profitable-business-through-capacity-science-a",
-        "title": "Metropolis 3.0 to Build a Profitable Business Through Capacity, Science and Technology Investments",
-        "summary": "Metropolis Healthcare is banking on a richer test mix, higher network utilisation and operational efficiencies to drive growth and margin expansion, following a 10 per cent rise in patient volumes and 11 per cent growth in test volumes without a price...",
-        "source": "ET Healthworld",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-11-12T06:14:05.000Z",
-        "publishedLabel": "November 12, 2026",
-        "category": "Industry Update",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-135757927,imgsize-113492,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/metropolis-3-0-to-build-a-profitable-business-through-capacity-science-and-technology-investments.jpg",
-        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/metropolis-3-0-to-build-a-profitable-business-through-capacity-science-and-technology-investments/135757927",
-        "articlePath": "/article.html?issue=2026-11-08&article=2026-11-08-metropolis-3-0-to-build-a-profitable-business-through-capacity-science-a"
-      },
-      {
         "id": "2026-11-08-manipal-posts-3-399-cr-in-q2-fy27-net-profit-rises-21-6",
         "title": "Manipal posts ₹ 3,399 cr in Q2 FY27, net profit rises 21.6%",
         "summary": "Consolidated ARPOB stood at Rs 70,600 per day; excluding Sahyadri, ARPOB was Rs 76,600 per day, up 8.5 per cent. Inpatient volumes grew 35.0 per cent to approximately 169,000 and outpatient volumes rose 27.2 per cent to approximately 1.74 million.",
@@ -175,6 +158,23 @@
       }
     ],
     "providers": [
+      {
+        "id": "2026-11-08-metropolis-3-0-to-build-a-profitable-business-through-capacity-science-a",
+        "title": "Metropolis 3.0 to Build a Profitable Business Through Capacity, Science and Technology Investments",
+        "summary": "Metropolis Healthcare is banking on a richer test mix, higher network utilisation and operational efficiencies to drive growth and margin expansion, following a 10 per cent rise in patient volumes and 11 per cent growth in test volumes without a price...",
+        "source": "ET Healthworld Hospitals",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-11-12T06:14:05.000Z",
+        "publishedLabel": "November 12, 2026",
+        "category": "Expansion",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-135757927,imgsize-113492,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/metropolis-3-0-to-build-a-profitable-business-through-capacity-science-and-technology-investments.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": false,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/metropolis-3-0-to-build-a-profitable-business-through-capacity-science-and-technology-investments/135757927",
+        "articlePath": "/article.html?issue=2026-11-08&article=2026-11-08-metropolis-3-0-to-build-a-profitable-business-through-capacity-science-a"
+      },
       {
         "id": "2026-11-08-cci-clears-advent-international-s-rs-3-150-crore-investment-in-yatharth-",
         "title": "CCI clears Advent International's Rs 3,150 crore investment in Yatharth Hospital",
@@ -288,6 +288,14 @@
       "source": "ET Healthworld",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "providers",
+      "articleId": "2026-11-08-metropolis-3-0-to-build-a-profitable-business-through-capacity-science-a",
+      "title": "Metropolis 3.0 to Build a Profitable Business Through Capacity, Science and Technology Investments",
+      "source": "ET Healthworld Hospitals",
+      "solution": "THB Provider CRM",
+      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
     },
     {
       "segment": "providers",
