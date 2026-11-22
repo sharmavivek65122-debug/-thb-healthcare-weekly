@@ -5,19 +5,209 @@
   "startDate": "2026-11-21T18:30:00.000Z",
   "endDate": "2026-11-27T18:30:00.000Z",
   "status": "live",
-  "updatedAt": "2026-11-21T20:12:28.181Z",
+  "updatedAt": "2026-11-22T12:46:23.532Z",
   "coverage": {
-    "pharma": 0,
-    "providers": 0,
+    "pharma": 7,
+    "providers": 1,
     "diagnostics": 0,
     "healthtech": 0
   },
-  "sourcesUsed": [],
+  "sourcesUsed": [
+    "Healthcare MEA",
+    "Medical Dialogues Pharma"
+  ],
   "segments": {
-    "pharma": [],
-    "providers": [],
+    "pharma": [
+      {
+        "id": "2026-11-22-upfsda-busts-fake-mankind-pharma-drug-racket-uncovers-illegal-manufactur",
+        "title": "UPFSDA Busts Fake Mankind Pharma Drug Racket, Uncovers Illegal Manufacturing Units in Himachal",
+        "summary": "Lucknow: An investigation into the circulation of counterfeit medicines in Uttar Pradesh has exposed an alleged interstate pharmaceutical manufacturing and distribution network, leading authorities to...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-11-22T07:30:24.000Z",
+        "publishedLabel": "November 22, 2026",
+        "category": "Manufacturing",
+        "image": "https://medicaldialogues.in/h-upload/2025/10/28/305875-fake.jpg",
+        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
+        "justIn": false,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/upfsda-busts-fake-mankind-pharma-drug-racket-uncovers-illegal-manufacturing-units-in-himachal-183754",
+        "articlePath": "/article.html?issue=2026-11-22&article=2026-11-22-upfsda-busts-fake-mankind-pharma-drug-racket-uncovers-illegal-manufactur"
+      },
+      {
+        "id": "2026-11-22-usfda-sets-up-new-safety-council-to-strengthen-post-market-monitoring-of",
+        "title": "USFDA Sets Up New Safety Council to Strengthen Post-Market Monitoring of Biologics",
+        "summary": "Bengaluru: The US Food and Drug Administration said on Thursday it had established a new internal safety body within its biologics center, formalizing independent oversight of approved products such...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-11-22T05:31:07.000Z",
+        "publishedLabel": "November 22, 2026",
+        "category": "Market",
+        "image": "https://medicaldialogues.in/h-upload/2024/11/13/260536-usfda.jpg",
+        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
+        "justIn": false,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/usfda-sets-up-new-safety-council-to-strengthen-post-market-monitoring-of-biologics-183748",
+        "articlePath": "/article.html?issue=2026-11-22&article=2026-11-22-usfda-sets-up-new-safety-council-to-strengthen-post-market-monitoring-of"
+      },
+      {
+        "id": "2026-11-22-pfizer-strikes-usd-2-6-billion-deal-with-china-s-starna-therapeutics-for",
+        "title": "Pfizer Strikes USD 2.6 Billion Deal With China's Starna Therapeutics for CAR-T Autoimmune Therapies",
+        "summary": "Bengaluru: Pfizer said on Wednesday it had struck an exclusive licensing agreement with China's Starna Therapeutics to develop three CAR-T therapies for autoimmune diseases, in a deal worth up to USD...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-11-22T06:45:48.000Z",
+        "publishedLabel": "November 22, 2026",
+        "category": "Deal",
+        "image": "https://medicaldialogues.in/h-upload/2024/01/22/230672-pfizer-50.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": false,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/pfizer-strikes-usd-26-billion-deal-with-chinas-starna-therapeutics-for-car-t-autoimmune-therapies-183752",
+        "articlePath": "/article.html?issue=2026-11-22&article=2026-11-22-pfizer-strikes-usd-2-6-billion-deal-with-china-s-starna-therapeutics-for"
+      },
+      {
+        "id": "2026-11-22-health-cs-aden-duale-opens-ninth-kenya-international-cancer-conference-i",
+        "title": "Health CS Aden Duale opens ninth Kenya International Cancer Conference in Mombasa | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
+        "summary": "Kenya records 35,867 new cancer cases and 22,888 related deaths annually.",
+        "source": "Healthcare MEA",
+        "sourceHost": "healthcaremea.com",
+        "region": "Middle East",
+        "country": "Middle East",
+        "publishedAt": "2026-11-22T08:08:36.000Z",
+        "publishedLabel": "November 22, 2026",
+        "category": "Manufacturing",
+        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/11/image-1600x900-2026-11-22T124442.349.png",
+        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
+        "justIn": false,
+        "originalUrl": "https://www.healthcaremea.com/2026/11/22/health-cs-aden-duale-opens-ninth-kenya-international-cancer-conference-in-mombasa/",
+        "articlePath": "/article.html?issue=2026-11-22&article=2026-11-22-health-cs-aden-duale-opens-ninth-kenya-international-cancer-conference-i"
+      },
+      {
+        "id": "2026-11-22-merck-s-experimental-cancer-drug-extends-survival-in-advanced-stomach-es",
+        "title": "Merck's Experimental Cancer Drug Extends Survival in Advanced Stomach, Esophageal Cancer Trial",
+        "summary": "Bengaluru: Merck said on Friday that its experimental cancer drug helped patients with advanced stomach and esophageal cancers live longer than standard treatment options in a late-stage trial.The...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-11-22T06:01:12.000Z",
+        "publishedLabel": "November 22, 2026",
+        "category": "Industry Update",
+        "image": "https://medicaldialogues.in/h-upload/2024/02/03/231498-merck-50.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": false,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/mercks-experimental-cancer-drug-extends-survival-in-advanced-stomach-esophageal-cancer-trial-183751",
+        "articlePath": "/article.html?issue=2026-11-22&article=2026-11-22-merck-s-experimental-cancer-drug-extends-survival-in-advanced-stomach-es"
+      },
+      {
+        "id": "2026-11-22-kenya-launches-2026-2027-campaign-to-distribute-10-79m-malaria-preventio",
+        "title": "Kenya launches 2026/2027 campaign to distribute 10.79M malaria prevention nets | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
+        "summary": "The campaign aims to distribute approximately 10.79 million mosquito nets across 18 counties and 99 sub-counties to strengthen malaria prevention and support the country's malaria elimination ...",
+        "source": "Healthcare MEA",
+        "sourceHost": "healthcaremea.com",
+        "region": "Middle East",
+        "country": "Middle East",
+        "publishedAt": "2026-11-22T08:29:50.000Z",
+        "publishedLabel": "November 22, 2026",
+        "category": "Manufacturing",
+        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/11/image-1600x900-2026-11-22T112157.974.png",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": false,
+        "originalUrl": "https://www.healthcaremea.com/2026/11/22/kenya-launches-2026-2027-campaign-to-distribute-10-79m-malaria-prevention-nets/",
+        "articlePath": "/article.html?issue=2026-11-22&article=2026-11-22-kenya-launches-2026-2027-campaign-to-distribute-10-79m-malaria-preventio"
+      },
+      {
+        "id": "2026-11-22-mp-fda-flags-pakistani-whitening-creams-for-toxic-mercury-orders-consume",
+        "title": "MP FDA Flags Pakistani Whitening Creams for Toxic Mercury, Orders Consumers to Stop Use",
+        "summary": "Bhopal: The Madhya Pradesh Food and Drug Administration (FDA) has issued a public health warning against two Pakistan-manufactured skin-lightening creams, Gori Beauty Cream and Chandni Whitening...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-11-22T07:16:22.000Z",
+        "publishedLabel": "November 22, 2026",
+        "category": "Industry Update",
+        "image": "https://medicaldialogues.in/h-upload/2025/03/10/277988-tube-with-ointment.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": false,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/mp-fda-flags-pakistani-whitening-creams-for-toxic-mercury-orders-consumers-to-stop-use-183753",
+        "articlePath": "/article.html?issue=2026-11-22&article=2026-11-22-mp-fda-flags-pakistani-whitening-creams-for-toxic-mercury-orders-consume"
+      }
+    ],
+    "providers": [
+      {
+        "id": "2026-11-22-fakeeh-health-hosts-international-medical-experts-in-dubai-to-advance-pr",
+        "title": "Fakeeh Health hosts international medical experts in Dubai to advance precision surgery",
+        "summary": "The conference comes as healthcare providers increasingly adopt AI-powered tools, robotic-assisted procedures and minimally invasive techniques to improve diagnosis, surgical planning and patient ...",
+        "source": "Healthcare MEA",
+        "sourceHost": "healthcaremea.com",
+        "region": "Middle East",
+        "country": "United Arab Emirates",
+        "publishedAt": "2026-11-22T08:13:37.000Z",
+        "publishedLabel": "November 22, 2026",
+        "category": "Patient Care",
+        "image": "https://www.healthcaremea.com/wp-content/uploads/2026/11/image-1600x900-2026-11-22T111052.546.png",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": false,
+        "originalUrl": "https://www.healthcaremea.com/2026/11/22/fakeeh-health-hosts-international-medical-experts-in-dubai-to-advance-precision-surgery/",
+        "articlePath": "/article.html?issue=2026-11-22&article=2026-11-22-fakeeh-health-hosts-international-medical-experts-in-dubai-to-advance-pr"
+      }
+    ],
     "diagnostics": [],
     "healthtech": []
   },
-  "thbActions": []
+  "thbActions": [
+    {
+      "segment": "pharma",
+      "articleId": "2026-11-22-upfsda-busts-fake-mankind-pharma-drug-racket-uncovers-illegal-manufactur",
+      "title": "UPFSDA Busts Fake Mankind Pharma Drug Racket, Uncovers Illegal Manufacturing Units in Himachal",
+      "source": "Medical Dialogues Pharma",
+      "solution": "THB Commercial Analytics",
+      "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
+    },
+    {
+      "segment": "pharma",
+      "articleId": "2026-11-22-usfda-sets-up-new-safety-council-to-strengthen-post-market-monitoring-of",
+      "title": "USFDA Sets Up New Safety Council to Strengthen Post-Market Monitoring of Biologics",
+      "source": "Medical Dialogues Pharma",
+      "solution": "THB Commercial Analytics",
+      "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
+    },
+    {
+      "segment": "pharma",
+      "articleId": "2026-11-22-pfizer-strikes-usd-2-6-billion-deal-with-china-s-starna-therapeutics-for",
+      "title": "Pfizer Strikes USD 2.6 Billion Deal With China's Starna Therapeutics for CAR-T Autoimmune Therapies",
+      "source": "Medical Dialogues Pharma",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "pharma",
+      "articleId": "2026-11-22-health-cs-aden-duale-opens-ninth-kenya-international-cancer-conference-i",
+      "title": "Health CS Aden Duale opens ninth Kenya International Cancer Conference in Mombasa | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
+      "source": "Healthcare MEA",
+      "solution": "THB Commercial Analytics",
+      "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
+    },
+    {
+      "segment": "pharma",
+      "articleId": "2026-11-22-merck-s-experimental-cancer-drug-extends-survival-in-advanced-stomach-es",
+      "title": "Merck's Experimental Cancer Drug Extends Survival in Advanced Stomach, Esophageal Cancer Trial",
+      "source": "Medical Dialogues Pharma",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "providers",
+      "articleId": "2026-11-22-fakeeh-health-hosts-international-medical-experts-in-dubai-to-advance-pr",
+      "title": "Fakeeh Health hosts international medical experts in Dubai to advance precision surgery",
+      "source": "Healthcare MEA",
+      "solution": "THB Provider CRM",
+      "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
+    }
+  ]
 }
