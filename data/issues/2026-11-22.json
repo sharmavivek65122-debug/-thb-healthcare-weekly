@@ -5,9 +5,9 @@
   "startDate": "2026-11-21T18:30:00.000Z",
   "endDate": "2026-11-27T18:30:00.000Z",
   "status": "live",
-  "updatedAt": "2026-11-22T12:46:23.532Z",
+  "updatedAt": "2026-11-22T20:26:46.283Z",
   "coverage": {
-    "pharma": 7,
+    "pharma": 8,
     "providers": 1,
     "diagnostics": 0,
     "healthtech": 0
@@ -51,6 +51,23 @@
         "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/usfda-sets-up-new-safety-council-to-strengthen-post-market-monitoring-of-biologics-183748",
         "articlePath": "/article.html?issue=2026-11-22&article=2026-11-22-usfda-sets-up-new-safety-council-to-strengthen-post-market-monitoring-of"
+      },
+      {
+        "id": "2026-11-22-govt-proposes-relaxing-schedule-m-requirements-for-medicinal-gases-capsu",
+        "title": "Govt Proposes Relaxing Schedule M Requirements for Medicinal Gases, Capsules and Disinfectants",
+        "summary": "New Delhi: The Ministry of Health and Family Welfare has proposed allowing licensing authorities to modify Schedule M requirements for certain products, including medicinal gases, empty gelatin...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-11-22T13:45:44.000Z",
+        "publishedLabel": "November 22, 2026",
+        "category": "Industry Update",
+        "image": "https://medicaldialogues.in/h-upload/2025/11/08/307501-202511083569346.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/govt-proposes-relaxing-schedule-m-requirements-for-medicinal-gases-capsules-and-disinfectants-183774",
+        "articlePath": "/article.html?issue=2026-11-22&article=2026-11-22-govt-proposes-relaxing-schedule-m-requirements-for-medicinal-gases-capsu"
       },
       {
         "id": "2026-11-22-pfizer-strikes-usd-2-6-billion-deal-with-china-s-starna-therapeutics-for",
@@ -179,6 +196,14 @@
     },
     {
       "segment": "pharma",
+      "articleId": "2026-11-22-govt-proposes-relaxing-schedule-m-requirements-for-medicinal-gases-capsu",
+      "title": "Govt Proposes Relaxing Schedule M Requirements for Medicinal Gases, Capsules and Disinfectants",
+      "source": "Medical Dialogues Pharma",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "pharma",
       "articleId": "2026-11-22-pfizer-strikes-usd-2-6-billion-deal-with-china-s-starna-therapeutics-for",
       "title": "Pfizer Strikes USD 2.6 Billion Deal With China's Starna Therapeutics for CAR-T Autoimmune Therapies",
       "source": "Medical Dialogues Pharma",
@@ -192,14 +217,6 @@
       "source": "Healthcare MEA",
       "solution": "THB Commercial Analytics",
       "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
-    },
-    {
-      "segment": "pharma",
-      "articleId": "2026-11-22-merck-s-experimental-cancer-drug-extends-survival-in-advanced-stomach-es",
-      "title": "Merck's Experimental Cancer Drug Extends Survival in Advanced Stomach, Esophageal Cancer Trial",
-      "source": "Medical Dialogues Pharma",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
     },
     {
       "segment": "providers",
