@@ -5,15 +5,14 @@
   "startDate": "2026-11-07T18:30:00.000Z",
   "endDate": "2026-11-13T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-11-22T20:26:46.283Z",
+  "updatedAt": "2026-11-23T15:09:13.965Z",
   "coverage": {
-    "pharma": 7,
+    "pharma": 5,
     "providers": 4,
     "diagnostics": 2,
     "healthtech": 0
   },
   "sourcesUsed": [
-    "ET Healthworld",
     "ET Healthworld Diagnostics",
     "ET Healthworld Hospitals",
     "Economic Times Pharma"
@@ -89,23 +88,6 @@
         "articlePath": "/article.html?issue=2026-11-08&article=2026-11-08-bdr-pharma-to-acquire-acme-s-oral-solid-formulations-business"
       },
       {
-        "id": "2026-11-08-centre-extends-medical-device-pli-scheme-to-2036-eases-entry-barriers",
-        "title": "Centre extends medical device PLI Scheme to 2036, eases entry barriers",
-        "summary": "Under the new guidelines, minimum sales threshold requirement to claim incentive has been discontinued, while minimum investment requirement has also been trimmed and made more investor friendly.",
-        "source": "ET Healthworld",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-11-11T02:40:54.000Z",
-        "publishedLabel": "November 11, 2026",
-        "category": "Industry Update",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-135723201,imgsize-57428,width-1200,height=627,overlay-ethealth,resizemode-75/policy/centre-extends-medical-device-pli-scheme-to-2036-invites-fresh-applications.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/policy/centre-extends-medical-device-pli-scheme-to-2036-invites-fresh-applications/135723201",
-        "articlePath": "/article.html?issue=2026-11-08&article=2026-11-08-centre-extends-medical-device-pli-scheme-to-2036-eases-entry-barriers"
-      },
-      {
         "id": "2026-11-08-aurobindo-pharma-arm-gets-voluntary-action-indicated-classification-for-",
         "title": "Aurobindo Pharma arm gets 'Voluntary Action Indicated' classification for Telengana facility from USFDA",
         "summary": "Following an inspection from September 7 to September 15, 2026, the US FDA granted Apitoria Pharma, a subsidiary of Aurobindo Pharma, a Voluntary Action Indicated classification. This classification indicates that although objectionable conditions were found...",
@@ -121,23 +103,6 @@
         "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/aurobindo-pharma-arm-gets-voluntary-action-indicated-classification-for-telengana-facility-from-usfda/articleshow/135731486.cms",
         "articlePath": "/article.html?issue=2026-11-08&article=2026-11-08-aurobindo-pharma-arm-gets-voluntary-action-indicated-classification-for-"
-      },
-      {
-        "id": "2026-11-08-usfda-classifies-aurobindo-pharma-s-us-facility-as-official-action-indic",
-        "title": "USFDA classifies Aurobindo Pharma's US facility as 'official action indicated'",
-        "summary": "The facility belongs to Lannett Company LLC, a wholly owned step-down subsidiary of Aurobindo Pharma. The US Food and Drug Administration (USFDA) conducted the inspection at the Seymour facility from August 17-21, 2026, Aurobindo Pharma said in a regulatory...",
-        "source": "Economic Times Pharma",
-        "sourceHost": "economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-11-11T16:40:00.000Z",
-        "publishedLabel": "November 11, 2026",
-        "category": "Industry Update",
-        "image": "https://img.etimg.com/thumb/msid-135744048,width-1200,height-900,imgsize-443859,overlay-economictimes/articleshow.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/usfda-classifies-aurobindo-pharmas-us-facility-as-official-action-indicated/articleshow/135743453.cms",
-        "articlePath": "/article.html?issue=2026-11-08&article=2026-11-08-usfda-classifies-aurobindo-pharma-s-us-facility-as-official-action-indic"
       }
     ],
     "providers": [
@@ -283,9 +248,9 @@
     },
     {
       "segment": "pharma",
-      "articleId": "2026-11-08-centre-extends-medical-device-pli-scheme-to-2036-eases-entry-barriers",
-      "title": "Centre extends medical device PLI Scheme to 2036, eases entry barriers",
-      "source": "ET Healthworld",
+      "articleId": "2026-11-08-aurobindo-pharma-arm-gets-voluntary-action-indicated-classification-for-",
+      "title": "Aurobindo Pharma arm gets 'Voluntary Action Indicated' classification for Telengana facility from USFDA",
+      "source": "Economic Times Pharma",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
     },
