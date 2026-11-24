@@ -5,14 +5,15 @@
   "startDate": "2026-10-31T18:30:00.000Z",
   "endDate": "2026-11-06T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-11-24T15:06:37.319Z",
+  "updatedAt": "2026-11-24T23:13:11.310Z",
   "coverage": {
-    "pharma": 7,
-    "providers": 11,
-    "diagnostics": 0,
+    "pharma": 6,
+    "providers": 12,
+    "diagnostics": 1,
     "healthtech": 0
   },
   "sourcesUsed": [
+    "BioSpectrum Asia Middle East",
     "ET Healthworld Hospitals",
     "Economic Times Pharma",
     "Janssen India Media",
@@ -53,23 +54,6 @@
         "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/fda-flags-persistent-data-integrity-lapses-insanitary-conditions-at-indian-drug-facilities/articleshow/135584126.cms",
         "articlePath": "/article.html?issue=2026-11-01&article=2026-11-01-fda-flags-persistent-data-integrity-lapses-insanitary-conditions-at-indi"
-      },
-      {
-        "id": "2026-11-01-dr-reddy-s-laboratories-receives-anvisa-approval-for-generic-semaglutide",
-        "title": "Dr Reddy's Laboratories receives ANVISA approval for generic semaglutide injection in Brazil",
-        "summary": "Dr Reddys Laboratories obtained marketing authorisation from Brazils ANVISA for a generic semaglutide injection. The product will be available as a pre-filled, multi-dose pen in two dosages for weekly administration. This drug targets treatment for type 2...",
-        "source": "Economic Times Pharma",
-        "sourceHost": "economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-11-05T04:45:00.000Z",
-        "publishedLabel": "November 5, 2026",
-        "category": "Approval",
-        "image": "https://img.etimg.com/thumb/msid-135559367,width-1200,height-900,imgsize-95656,overlay-economictimes/articleshow.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/dr-reddys-laboratories-receives-anvisa-approval-for-generic-semaglutide-injection-in-brazil/articleshow/135559298.cms",
-        "articlePath": "/article.html?issue=2026-11-01&article=2026-11-01-dr-reddy-s-laboratories-receives-anvisa-approval-for-generic-semaglutide"
       },
       {
         "id": "2026-11-01-johnson-and-johnson-announces-icotyde-icotrokinra-delivers-significant-i",
@@ -327,9 +311,44 @@
         "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/gujarat-cm-inaugurates-cancer-hospital-in-patan/135452027",
         "articlePath": "/article.html?issue=2026-11-01&article=2026-11-01-gujarat-cm-inaugurates-cancer-hospital-in-patan"
+      },
+      {
+        "id": "2026-11-01-asia-pacific-unites-to-rewrite-the-breast-cancer-equation",
+        "title": "Asia Pacific Unites to Rewrite the Breast Cancer Equation",
+        "summary": "Asia Pacific Unites to Rewrite the Breast Cancer Equation",
+        "source": "BioSpectrum Asia Middle East",
+        "sourceHost": "biospectrumasia.com",
+        "region": "Middle East",
+        "country": "Oman",
+        "publishedAt": "2026-10-31T18:30:00.000Z",
+        "publishedLabel": "November 1, 2026",
+        "category": "Provider Update",
+        "image": "https://www.biospectrumasia.com/uploads/articles/ahmed_elhusseiny_headshot-28609.jpg?v=20261029230800",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": false,
+        "originalUrl": "https://www.biospectrumasia.com/opinion/29/28609/asia-pacific-unites-to-rewrite-the-breast-cancer-equation-.html",
+        "articlePath": "/article.html?issue=2026-11-01&article=2026-11-01-asia-pacific-unites-to-rewrite-the-breast-cancer-equation"
       }
     ],
-    "diagnostics": [],
+    "diagnostics": [
+      {
+        "id": "2026-11-01-the-algorithm-gap-why-ai-is-failing-asian-women-and-what-must-change",
+        "title": "The Algorithm Gap: Why AI is Failing Asian Women and What Must Change",
+        "summary": "The Algorithm Gap: Why AI is Failing Asian Women and What Must Change",
+        "source": "BioSpectrum Asia Middle East",
+        "sourceHost": "biospectrumasia.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-10-31T18:30:00.000Z",
+        "publishedLabel": "November 1, 2026",
+        "category": "Industry Update",
+        "image": "https://www.biospectrumasia.com/uploads/articles/reenita-28608.png?v=20261029230511",
+        "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
+        "justIn": false,
+        "originalUrl": "https://www.biospectrumasia.com/opinion/29/28608/the-algorithm-gap-why-ai-is-failing-asian-women-and-what-must-change.html",
+        "articlePath": "/article.html?issue=2026-11-01&article=2026-11-01-the-algorithm-gap-why-ai-is-failing-asian-women-and-what-must-change"
+      }
+    ],
     "healthtech": []
   },
   "thbActions": [
@@ -351,14 +370,6 @@
     },
     {
       "segment": "pharma",
-      "articleId": "2026-11-01-dr-reddy-s-laboratories-receives-anvisa-approval-for-generic-semaglutide",
-      "title": "Dr Reddy's Laboratories receives ANVISA approval for generic semaglutide injection in Brazil",
-      "source": "Economic Times Pharma",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
-      "segment": "pharma",
       "articleId": "2026-11-01-johnson-and-johnson-announces-icotyde-icotrokinra-delivers-significant-i",
       "title": "Johnson & Johnson announces ICOTYDE® (icotrokinra) delivers significant improvement in psoriatic arthritis disease activity among biologic-naive patients with once-daily targeted oral peptide",
       "source": "Janssen India Media",
@@ -370,6 +381,14 @@
       "articleId": "2026-11-01-pills-are-paying-off-pharma-stocks-lead-2026-rally-with-up-to-112-return",
       "title": "Pills are paying off! Pharma stocks lead 2026 rally with up to 112% return",
       "source": "Lupin Updates",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "pharma",
+      "articleId": "2026-11-01-johnson-and-johnson-announces-new-phase-2-nipocalimab-study-data-in-sj-g",
+      "title": "Johnson & Johnson announces new Phase 2 nipocalimab study data in Sjögren’s disease that reveal insights on importance of symptom improvements most valued by patients",
+      "source": "Janssen India Media",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
     },
@@ -412,6 +431,14 @@
       "source": "ET Healthworld Hospitals",
       "solution": "THB Provider CRM",
       "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
+    },
+    {
+      "segment": "diagnostics",
+      "articleId": "2026-11-01-the-algorithm-gap-why-ai-is-failing-asian-women-and-what-must-change",
+      "title": "The Algorithm Gap: Why AI is Failing Asian Women and What Must Change",
+      "source": "BioSpectrum Asia Middle East",
+      "solution": "THB Diagnostics CRM",
+      "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
     }
   ]
 }

@@ -5,14 +5,15 @@
   "startDate": "2026-11-21T18:30:00.000Z",
   "endDate": "2026-11-27T18:30:00.000Z",
   "status": "live",
-  "updatedAt": "2026-11-24T15:06:37.319Z",
+  "updatedAt": "2026-11-24T23:13:11.310Z",
   "coverage": {
-    "pharma": 36,
-    "providers": 9,
+    "pharma": 38,
+    "providers": 10,
     "diagnostics": 3,
-    "healthtech": 0
+    "healthtech": 1
   },
   "sourcesUsed": [
+    "BioSpectrum Asia Middle East",
     "ET Healthworld",
     "Economic Times Pharma",
     "Express Healthcare",
@@ -57,6 +58,23 @@
         "articlePath": "/article.html?issue=2026-11-22&article=2026-11-22-india-s-pharma-gccs-generate-usd-10-5-billion-in-gva-employ-120-000-repo"
       },
       {
+        "id": "2026-11-22-drug-bodies-oppose-government-move-seeking-swift-suspension-of-licence-o",
+        "title": "Drug bodies oppose government move seeking swift suspension of licence over quality concerns",
+        "summary": "The associations have cautioned that while swift regulatory intervention may be necessary in cases involving serious patient safety risks, an across-the-board suspension mechanism could lead to disproportionate action, disrupt manufacturing operations and...",
+        "source": "Economic Times Pharma",
+        "sourceHost": "economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-11-24T19:13:00.000Z",
+        "publishedLabel": "November 25, 2026",
+        "category": "Manufacturing",
+        "image": "https://img.etimg.com/thumb/msid-136141315,width-1200,height-900,imgsize-1456004,overlay-economictimes/articleshow.jpg",
+        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
+        "justIn": true,
+        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/drug-bodies-oppose-government-move-seeking-swift-suspension-of-licence-over-quality-concerns/articleshow/136141267.cms",
+        "articlePath": "/article.html?issue=2026-11-22&article=2026-11-22-drug-bodies-oppose-government-move-seeking-swift-suspension-of-licence-o"
+      },
+      {
         "id": "2026-11-22-addressing-antimicrobial-resistance-why-innovation-access-and-responsibl",
         "title": "Addressing antimicrobial resistance: Why innovation, access and responsible use must go hand in hand",
         "summary": "Antimicrobial resistance (AMR) is making this a pressing concern. As bacteria develop resistance to medicines meant to kill them, even common infections can become harder to treat and can, in some cases, become life-threatening.",
@@ -69,7 +87,7 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-136123341,imgsize-111823,width-1200,height=627,overlay-ethealth,resizemode-75/industry/addressing-antimicrobial-resistance-why-innovation-access-and-responsible-use-must-go-hand-in-hand.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/addressing-antimicrobial-resistance-why-innovation-access-and-responsible-use-must-go-hand-in-hand/136123341",
         "articlePath": "/article.html?issue=2026-11-22&article=2026-11-22-addressing-antimicrobial-resistance-why-innovation-access-and-responsibl"
       },
@@ -86,7 +104,7 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-136126836,imgsize-65750,width-1200,height=627,overlay-ethealth,resizemode-75/industry/global-vaccine-group-aims-to-buy-1-5-million-doses-of-new-ebola-bundibugyo-shot-for-congo.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/global-vaccine-group-aims-to-buy-1-5-million-doses-of-new-ebola-bundibugyo-shot-for-congo/136126836",
         "articlePath": "/article.html?issue=2026-11-22&article=2026-11-22-global-vaccine-group-aims-to-buy-1-5-million-doses-of-new-ebola-bundibug"
       },
@@ -103,7 +121,7 @@
         "category": "Industry Update",
         "image": "https://etimg.etb2bimg.com/thumb/msid-136125607,imgsize-191292,width-1200,height=627,overlay-ethealth,resizemode-75/industry/bisleri-says-packaged-drinking-water-safe-claims-referral-lab-found-bromate-within-prescribed-limit.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/bisleri-says-packaged-drinking-water-safe-claims-referral-lab-found-bromate-within-prescribed-limit/136125607",
         "articlePath": "/article.html?issue=2026-11-22&article=2026-11-22-bisleri-says-packaged-drinking-water-safe-claims-referral-lab-found-brom"
       },
@@ -205,7 +223,7 @@
         "category": "Manufacturing",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/11/image-1600x900-2026-11-24T104047.030.png",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/11/24/eli-lilly-to-acquire-calytrix-bio-in-us1-5b-deal-for-blood-cancer-antibody/",
         "articlePath": "/article.html?issue=2026-11-22&article=2026-11-22-eli-lilly-to-acquire-calytrix-bio-in-us-1-5b-deal-for-blood-cancer-antib"
       },
@@ -222,7 +240,7 @@
         "category": "Approval",
         "image": "https://medicaldialogues.in/h-upload/2023/01/10/197256-lupin-3.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/lupin-gets-usfda-approval-for-ferric-citrate-tablets-targets-usd581-million-us-market-183908",
         "articlePath": "/article.html?issue=2026-11-22&article=2026-11-22-lupin-gets-usfda-approval-for-ferric-citrate-tablets-targets-usd58-1-mil"
       },
@@ -256,7 +274,7 @@
         "category": "Manufacturing",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/11/image-1600x900-2026-11-19T111447.307.png",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/11/24/eli-lilly-acquires-loqus23-in-us725m-deal-to-advance-huntingtons-disease-treatment/",
         "articlePath": "/article.html?issue=2026-11-22&article=2026-11-22-eli-lilly-acquires-loqus23-in-us-725m-deal-to-advance-huntington-s-disea"
       },
@@ -273,7 +291,7 @@
         "category": "Industry Update",
         "image": "https://medicaldialogues.in/h-upload/2023/01/11/197381-eli-lilly-2.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/eli-lilly-to-acquire-loqus23-for-usd725-million-to-advance-huntingtons-disease-treatment-183903",
         "articlePath": "/article.html?issue=2026-11-22&article=2026-11-22-eli-lilly-to-acquire-loqus23-for-usd725-million-to-advance-huntington-s-"
       },
@@ -290,7 +308,7 @@
         "category": "Industry Update",
         "image": "https://medicaldialogues.in/h-upload/2026/11/24/484781-pharma.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/indias-pharma-gccs-generate-usd105-billion-gva-employ-12-lakh-professionals-oppi-ey-183906",
         "articlePath": "/article.html?issue=2026-11-22&article=2026-11-22-india-s-pharma-gccs-generate-usd10-5-billion-gva-employ-1-2-lakh-profess"
       },
@@ -307,7 +325,7 @@
         "category": "Clinical Trial",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/11/image-1600x900-2026-11-24T100848.758.png",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/11/24/fujitsu-japan-uses-ai-to-streamline-clinical-trial-recruitment-in-japan/",
         "articlePath": "/article.html?issue=2026-11-22&article=2026-11-22-fujitsu-japan-uses-ai-to-streamline-clinical-trial-recruitment-in-japan-"
       },
@@ -324,7 +342,7 @@
         "category": "Manufacturing",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/11/image-1600x900-2026-11-24T095137.611.png",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/11/24/vertex-pharmaceuticals-extends-genomics-partnership-in-us220m-drug-discovery-deal/",
         "articlePath": "/article.html?issue=2026-11-22&article=2026-11-22-vertex-pharmaceuticals-extends-genomics-partnership-in-us-220m-drug-disc"
       },
@@ -341,7 +359,7 @@
         "category": "Partnership",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/11/image-1600x900-2026-11-24T094633.805.png",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/11/24/abbvie-partners-with-germanys-disco-pharmaceuticals-in-us2-5b-cancer-drug-discovery-deal/",
         "articlePath": "/article.html?issue=2026-11-22&article=2026-11-22-abbvie-partners-with-germany-s-disco-pharmaceuticals-in-us-2-5b-cancer-d"
       },
@@ -443,7 +461,7 @@
         "category": "Manufacturing",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/11/image-1600x900-2026-11-24T104959.047.png",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/11/24/ethiopia-launches-polio-vaccination-campaign-to-reach-11-3m-children/",
         "articlePath": "/article.html?issue=2026-11-22&article=2026-11-22-ethiopia-launches-polio-vaccination-campaign-to-reach-11-3m-children-hea"
       },
@@ -499,6 +517,23 @@
         "articlePath": "/article.html?issue=2026-11-22&article=2026-11-22-pfizer-strikes-usd-2-6-billion-deal-with-china-s-starna-therapeutics-for"
       },
       {
+        "id": "2026-11-22-zincovit-vs-zincomed-apex-labs-secures-madras-hc-interim-injunction",
+        "title": "ZINCOVIT vs ZINCOMED: Apex Labs Secures Madras HC Interim Injunction",
+        "summary": "New Delhi: The Madras High Court has granted an interim injunction in favour of Apex Laboratories in a dispute over the sale of products under the name \"ZINCOMED\", which the company alleged infringed...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-11-24T13:00:54.000Z",
+        "publishedLabel": "November 24, 2026",
+        "category": "Industry Update",
+        "image": "https://medicaldialogues.in/h-upload/2024/03/13/234194-madras-high-court.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/zincovit-vs-zincomed-apex-labs-secures-madras-hc-interim-injunction-183910",
+        "articlePath": "/article.html?issue=2026-11-22&article=2026-11-22-zincovit-vs-zincomed-apex-labs-secures-madras-hc-interim-injunction"
+      },
+      {
         "id": "2026-11-22-spain-leads-20-countries-in-global-push-to-tackle-rising-obesity-rates-h",
         "title": "Spain leads 20 countries in global push to tackle rising obesity rates | HealthCare Middle East & Africa - No.1 Health & Pharma Manufacturing Industry Publication",
         "summary": "The initiative, titled Bending the Curve by 2030, brings together Spain and 20 countries participating in WHO’s Acceleration Plan to Stop Obesity.",
@@ -511,7 +546,7 @@
         "category": "Manufacturing",
         "image": "https://www.healthcaremea.com/wp-content/uploads/2026/10/image-1600x900-2026-10-13T110305.904.png",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.healthcaremea.com/2026/11/24/spain-leads-20-countries-in-global-push-to-tackle-rising-obesity-rates/",
         "articlePath": "/article.html?issue=2026-11-22&article=2026-11-22-spain-leads-20-countries-in-global-push-to-tackle-rising-obesity-rates-h"
       },
@@ -596,7 +631,7 @@
         "category": "Manufacturing",
         "image": "https://medicaldialogues.in/h-upload/2026/11/24/484782-anuh-pharma.jpg",
         "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/health-investments/anuh-pharma-invests-rs-7290-crore-in-new-bulk-drug-manufacturing-facility-183905",
         "articlePath": "/article.html?issue=2026-11-22&article=2026-11-22-anuh-pharma-invests-rs-72-90-crore-in-new-bulk-drug-manufacturing-facili"
       },
@@ -613,7 +648,7 @@
         "category": "Industry Update",
         "image": "https://medicaldialogues.in/h-upload/2024/11/13/260536-usfda.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/usfda-approves-bridgebios-welgemda-as-first-treatment-for-rare-muscle-disease-183904",
         "articlePath": "/article.html?issue=2026-11-22&article=2026-11-22-usfda-approves-bridgebio-s-welgemda-as-first-treatment-for-rare-muscle-d"
       },
@@ -630,7 +665,7 @@
         "category": "Industry Update",
         "image": "https://media.zawya.com/prod/images/gm_preview/3c1ec4d11b4d-2026-11-24t014215z1277962467rc27zna9w5nvrtrmadp3nvidia-ceo-return.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.zawya.com/en/special-coverage/huang-returns-as-nvidia-ceo-after-trump-intervention-in-abrupt-board-reversal-2475898",
         "articlePath": "/article.html?issue=2026-11-22&article=2026-11-22-huang-returns-as-nvidia-ceo-after-trump-intervention-in-abrupt-board-rev"
       }
@@ -649,7 +684,7 @@
         "category": "Provider Update",
         "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/11/24105200/New-Project-9.jpg",
         "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/news/bajaj-integrated-health-system-launches-nivara/455979/",
         "articlePath": "/article.html?issue=2026-11-22&article=2026-11-22-bajaj-integrated-health-system-launches-nivara"
       },
@@ -700,7 +735,7 @@
         "category": "Hospital",
         "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/11/24111650/Divya-Basu-Operating-Partner-Positive-Moves.jpg",
         "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/news/the-race-for-leadership-talent-in-indias-hospital-and-ivf-sector/455982/",
         "articlePath": "/article.html?issue=2026-11-22&article=2026-11-22-the-race-for-leadership-talent-in-india-s-hospital-and-ivf-sector"
       },
@@ -739,21 +774,21 @@
         "articlePath": "/article.html?issue=2026-11-22&article=2026-11-22-eghs-conference-2026-draws-800-healthcare-professionals-to-dubai"
       },
       {
-        "id": "2026-11-22-beyond-developments-announces-aed-80bln-yardlands-masterplan-along-sheik",
-        "title": "BEYOND Developments announces AED 80bln YARDLANDS masterplan along Sheikh Mohammed Bin Zayed road",
-        "summary": "BEYOND unveils YARDLANDS, its largest masterplan to date, set to welcome an estimated 300,000 residents and visitors annually",
+        "id": "2026-11-22-purehealth-acquires-majority-stake-in-hayah-insurance-and-expands-into-l",
+        "title": "PureHealth acquires majority stake in Hayah Insurance and expands into life insurance and pension management",
+        "summary": "The transaction advances PureHealth’s strategy to support health and financial wellbeing at every stage of life",
         "source": "Zawya Pharmaceuticals",
         "sourceHost": "zawya.com",
         "region": "Middle East",
         "country": "United Arab Emirates",
-        "publishedAt": "2026-11-23T06:23:38.952Z",
-        "publishedLabel": "November 23, 2026",
+        "publishedAt": "2026-11-24T06:26:32.935Z",
+        "publishedLabel": "November 24, 2026",
         "category": "Provider Update",
-        "image": "https://assets.zawya.com/prod/assets/arrow-down-fill.d30923dc.svg",
+        "image": "https://media.zawya.com/prod/images/gm_preview/0e34430895cc-purehealth.jpg",
         "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://www.zawya.com/en/press-release/beyond-developments-announces-aed-80bln-yardlands-masterplan-along-sheikh-mohammed-bin-zayed-road-2443570",
-        "articlePath": "/article.html?issue=2026-11-22&article=2026-11-22-beyond-developments-announces-aed-80bln-yardlands-masterplan-along-sheik"
+        "justIn": true,
+        "originalUrl": "https://www.zawya.com/en/press-release/companies-news/purehealth-acquires-majority-stake-in-hayah-insurance-and-expands-into-life-insurance-and-pension-management-2475998",
+        "articlePath": "/article.html?issue=2026-11-22&article=2026-11-22-purehealth-acquires-majority-stake-in-hayah-insurance-and-expands-into-l"
       },
       {
         "id": "2026-11-22-etihad-celebrates-115-emirati-cadet-pilots-and-engineers-at-its-2026-gra",
@@ -768,9 +803,26 @@
         "category": "AI Care Delivery",
         "image": "https://media.zawya.com/prod/images/gm_preview/89dfd9693852-graduation-ceremony-2026.jpg",
         "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.zawya.com/en/press-release/companies-news/etihad-celebrates-115-emirati-cadet-pilots-and-engineers-at-its-2026-graduation-ceremony-2470562",
         "articlePath": "/article.html?issue=2026-11-22&article=2026-11-22-etihad-celebrates-115-emirati-cadet-pilots-and-engineers-at-its-2026-gra"
+      },
+      {
+        "id": "2026-11-22-fab-appoints-futoon-hamdan-almazrouei-as-deputy-group-ceo-and-ceo-domest",
+        "title": "FAB appoints Futoon Hamdan Almazrouei as Deputy Group CEO and CEO, Domestic Banking",
+        "summary": "The appointment brings FAB’s domestic businesses and key capabilities under an expanded mandate",
+        "source": "Zawya Pharmaceuticals",
+        "sourceHost": "zawya.com",
+        "region": "Middle East",
+        "country": "United Arab Emirates",
+        "publishedAt": "2026-11-23T15:11:51.591Z",
+        "publishedLabel": "November 23, 2026",
+        "category": "Provider Update",
+        "image": "https://media.zawya.com/prod/images/gm_preview/ac3a5a8d1543-futoon-hamdan-almazrouei-002.png",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": true,
+        "originalUrl": "https://www.zawya.com/en/press-release/people-in-the-news/fab-appoints-futoon-hamdan-almazrouei-as-deputy-group-ceo-and-ceo-domestic-banking-2474978",
+        "articlePath": "/article.html?issue=2026-11-22&article=2026-11-22-fab-appoints-futoon-hamdan-almazrouei-as-deputy-group-ceo-and-ceo-domest"
       },
       {
         "id": "2026-11-22-morgan-stanley-joins-j-p-morgan-in-turning-bullish-on-uae-equities",
@@ -785,7 +837,7 @@
         "category": "Provider Update",
         "image": "https://media.zawya.com/prod/images/gm_preview/acf2fd2aee1d-190121063616tyxs-jpg.webp",
         "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.zawya.com/en/capital-markets/gcc/morgan-stanley-joins-j.p.-morgan-in-turning-bullish-on-uae-equities-2455230",
         "articlePath": "/article.html?issue=2026-11-22&article=2026-11-22-morgan-stanley-joins-j-p-morgan-in-turning-bullish-on-uae-equities"
       }
@@ -804,7 +856,7 @@
         "category": "Lab Network",
         "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2026/11/24113659/Hitesh-Goswami-CEO-and-Co-Founder-4baseCare.jpg",
         "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.expresshealthcare.in/news/taking-genomics-innovation-from-the-lab-to-hospitals-across-the-country/455985/",
         "articlePath": "/article.html?issue=2026-11-22&article=2026-11-22-taking-genomics-innovation-from-the-lab-to-hospitals-across-the-country"
       },
@@ -843,7 +895,25 @@
         "articlePath": "/article.html?issue=2026-11-22&article=2026-11-22-sidra-medicine-s-chief-research-officer-prof-khalid-fakhro-honored-with-"
       }
     ],
-    "healthtech": []
+    "healthtech": [
+      {
+        "id": "2026-11-22-lunit-and-m42-partner-to-advance-ai-powered-early-detection-of-lung-canc",
+        "title": "Lunit and M42 partner to advance AI-powered early detection of lung cancer in UAE",
+        "summary": "Lunit and M42 Partner to Advance AI-Powered Lung Cancer Early Detection in the United Arab Emirates",
+        "source": "BioSpectrum Asia Middle East",
+        "sourceHost": "biospectrumasia.com",
+        "region": "Middle East",
+        "country": "United Arab Emirates",
+        "publishedAt": "2026-11-23T18:30:00.000Z",
+        "publishedLabel": "November 24, 2026",
+        "category": "AI",
+        "image": "https://www.biospectrumasia.com/uploads/articles/screenshot_24_11_2026_134027_en_prnasia_com-28722.jpeg?v=20261124134108",
+        "thbAction": "",
+        "justIn": false,
+        "originalUrl": "https://www.biospectrumasia.com/news/27/28722/lunit-and-m42-partner-to-advance-ai-powered-early-detection-of-lung-cancer-in-uae.html",
+        "articlePath": "/article.html?issue=2026-11-22&article=2026-11-22-lunit-and-m42-partner-to-advance-ai-powered-early-detection-of-lung-canc"
+      }
+    ]
   },
   "thbActions": [
     {
@@ -864,6 +934,14 @@
     },
     {
       "segment": "pharma",
+      "articleId": "2026-11-22-drug-bodies-oppose-government-move-seeking-swift-suspension-of-licence-o",
+      "title": "Drug bodies oppose government move seeking swift suspension of licence over quality concerns",
+      "source": "Economic Times Pharma",
+      "solution": "THB Commercial Analytics",
+      "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
+    },
+    {
+      "segment": "pharma",
       "articleId": "2026-11-22-addressing-antimicrobial-resistance-why-innovation-access-and-responsibl",
       "title": "Addressing antimicrobial resistance: Why innovation, access and responsible use must go hand in hand",
       "source": "ET Healthworld",
@@ -874,14 +952,6 @@
       "segment": "pharma",
       "articleId": "2026-11-22-global-vaccine-group-aims-to-buy-1-5-million-doses-of-new-ebola-bundibug",
       "title": "Global vaccine group aims to buy 1.5 million doses of new Ebola Bundibugyo shot for Congo",
-      "source": "ET Healthworld",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
-      "segment": "pharma",
-      "articleId": "2026-11-22-bisleri-says-packaged-drinking-water-safe-claims-referral-lab-found-brom",
-      "title": "Bisleri says packaged drinking water safe, claims referral lab found bromate within prescribed limit",
       "source": "ET Healthworld",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
