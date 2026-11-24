@@ -5,15 +5,14 @@
   "startDate": "2026-10-31T18:30:00.000Z",
   "endDate": "2026-11-06T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-11-24T01:08:54.749Z",
+  "updatedAt": "2026-11-24T15:06:37.319Z",
   "coverage": {
-    "pharma": 8,
-    "providers": 12,
-    "diagnostics": 1,
+    "pharma": 7,
+    "providers": 11,
+    "diagnostics": 0,
     "healthtech": 0
   },
   "sourcesUsed": [
-    "BioSpectrum Asia Middle East",
     "ET Healthworld Hospitals",
     "Economic Times Pharma",
     "Janssen India Media",
@@ -71,23 +70,6 @@
         "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/dr-reddys-laboratories-receives-anvisa-approval-for-generic-semaglutide-injection-in-brazil/articleshow/135559298.cms",
         "articlePath": "/article.html?issue=2026-11-01&article=2026-11-01-dr-reddy-s-laboratories-receives-anvisa-approval-for-generic-semaglutide"
-      },
-      {
-        "id": "2026-11-01-govt-plans-instant-ban-on-manufacturing-of-drugs-failing-key-quality-tes",
-        "title": "Govt plans instant ban on manufacturing of drugs failing key quality tests",
-        "summary": "Pharma companies could have their drug licenses suspended immediately if quality tests indicate failure. The health ministry's proposed changes aim to protect public health by enforcing swift action on substandard medications. Regulators would take action...",
-        "source": "Economic Times Pharma",
-        "sourceHost": "economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-11-04T19:46:00.000Z",
-        "publishedLabel": "November 5, 2026",
-        "category": "Manufacturing",
-        "image": "https://img.etimg.com/thumb/msid-135550903,width-1200,height-900,imgsize-70636,overlay-economictimes/articleshow.jpg",
-        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": false,
-        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/govt-plans-instant-ban-on-manufacturing-of-drugs-failing-key-quality-tests/articleshow/135550663.cms",
-        "articlePath": "/article.html?issue=2026-11-01&article=2026-11-01-govt-plans-instant-ban-on-manufacturing-of-drugs-failing-key-quality-tes"
       },
       {
         "id": "2026-11-01-johnson-and-johnson-announces-icotyde-icotrokinra-delivers-significant-i",
@@ -345,44 +327,9 @@
         "justIn": false,
         "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/gujarat-cm-inaugurates-cancer-hospital-in-patan/135452027",
         "articlePath": "/article.html?issue=2026-11-01&article=2026-11-01-gujarat-cm-inaugurates-cancer-hospital-in-patan"
-      },
-      {
-        "id": "2026-11-01-asia-pacific-unites-to-rewrite-the-breast-cancer-equation",
-        "title": "Asia Pacific Unites to Rewrite the Breast Cancer Equation",
-        "summary": "Asia Pacific Unites to Rewrite the Breast Cancer Equation",
-        "source": "BioSpectrum Asia Middle East",
-        "sourceHost": "biospectrumasia.com",
-        "region": "Middle East",
-        "country": "Oman",
-        "publishedAt": "2026-10-31T18:30:00.000Z",
-        "publishedLabel": "November 1, 2026",
-        "category": "Provider Update",
-        "image": "https://www.biospectrumasia.com/uploads/articles/ahmed_elhusseiny_headshot-28609.jpg?v=20261029230800",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://www.biospectrumasia.com/opinion/29/28609/asia-pacific-unites-to-rewrite-the-breast-cancer-equation-.html",
-        "articlePath": "/article.html?issue=2026-11-01&article=2026-11-01-asia-pacific-unites-to-rewrite-the-breast-cancer-equation"
       }
     ],
-    "diagnostics": [
-      {
-        "id": "2026-11-01-the-algorithm-gap-why-ai-is-failing-asian-women-and-what-must-change",
-        "title": "The Algorithm Gap: Why AI is Failing Asian Women and What Must Change",
-        "summary": "The Algorithm Gap: Why AI is Failing Asian Women and What Must Change",
-        "source": "BioSpectrum Asia Middle East",
-        "sourceHost": "biospectrumasia.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-10-31T18:30:00.000Z",
-        "publishedLabel": "November 1, 2026",
-        "category": "Industry Update",
-        "image": "https://www.biospectrumasia.com/uploads/articles/reenita-28608.png?v=20261029230511",
-        "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
-        "justIn": false,
-        "originalUrl": "https://www.biospectrumasia.com/opinion/29/28608/the-algorithm-gap-why-ai-is-failing-asian-women-and-what-must-change.html",
-        "articlePath": "/article.html?issue=2026-11-01&article=2026-11-01-the-algorithm-gap-why-ai-is-failing-asian-women-and-what-must-change"
-      }
-    ],
+    "diagnostics": [],
     "healthtech": []
   },
   "thbActions": [
@@ -412,17 +359,17 @@
     },
     {
       "segment": "pharma",
-      "articleId": "2026-11-01-govt-plans-instant-ban-on-manufacturing-of-drugs-failing-key-quality-tes",
-      "title": "Govt plans instant ban on manufacturing of drugs failing key quality tests",
-      "source": "Economic Times Pharma",
-      "solution": "THB Commercial Analytics",
-      "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
-    },
-    {
-      "segment": "pharma",
       "articleId": "2026-11-01-johnson-and-johnson-announces-icotyde-icotrokinra-delivers-significant-i",
       "title": "Johnson & Johnson announces ICOTYDE® (icotrokinra) delivers significant improvement in psoriatic arthritis disease activity among biologic-naive patients with once-daily targeted oral peptide",
       "source": "Janssen India Media",
+      "solution": "THB Pharma CRM",
+      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
+    },
+    {
+      "segment": "pharma",
+      "articleId": "2026-11-01-pills-are-paying-off-pharma-stocks-lead-2026-rally-with-up-to-112-return",
+      "title": "Pills are paying off! Pharma stocks lead 2026 rally with up to 112% return",
+      "source": "Lupin Updates",
       "solution": "THB Pharma CRM",
       "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
     },
@@ -465,14 +412,6 @@
       "source": "ET Healthworld Hospitals",
       "solution": "THB Provider CRM",
       "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
-    },
-    {
-      "segment": "diagnostics",
-      "articleId": "2026-11-01-the-algorithm-gap-why-ai-is-failing-asian-women-and-what-must-change",
-      "title": "The Algorithm Gap: Why AI is Failing Asian Women and What Must Change",
-      "source": "BioSpectrum Asia Middle East",
-      "solution": "THB Diagnostics CRM",
-      "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
     }
   ]
 }
