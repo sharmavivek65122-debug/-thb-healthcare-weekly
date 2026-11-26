@@ -5,9 +5,9 @@
   "startDate": "2026-10-31T18:30:00.000Z",
   "endDate": "2026-11-06T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-11-25T22:40:39.410Z",
+  "updatedAt": "2026-11-26T14:11:55.718Z",
   "coverage": {
-    "pharma": 5,
+    "pharma": 4,
     "providers": 12,
     "diagnostics": 1,
     "healthtech": 0
@@ -15,29 +15,11 @@
   "sourcesUsed": [
     "BioSpectrum Asia Middle East",
     "ET Healthworld Hospitals",
-    "Economic Times Pharma",
     "Janssen India Media",
     "Lupin Updates"
   ],
   "segments": {
     "pharma": [
-      {
-        "id": "2026-11-01-more-than-family-business-drugmakers-make-costly-long-term-strategic-shi",
-        "title": "More than family business: Drugmakers make costly, long-term strategic shifts as next generation steps int",
-        "summary": "India's family-run pharmaceutical companies are entering a new phase as the next generation takes on larger leadership roles and steers businesses towards complex generics, peptides, biologics, contract manufacturing and advanced therapeutics. Laurus Labs,...",
-        "source": "Economic Times Pharma",
-        "sourceHost": "economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-11-07T18:14:00.000Z",
-        "publishedLabel": "November 7, 2026",
-        "category": "Manufacturing",
-        "image": "https://img.etimg.com/thumb/msid-135644431,width-1200,height-900,imgsize-98606,overlay-economictimes/articleshow.jpg",
-        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": false,
-        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/more-than-family-business-drugmakers-make-costly-long-term-strategic-shifts-as-next-generation-steps-into-bigger-roles/articleshow/135644313.cms",
-        "articlePath": "/article.html?issue=2026-11-01&article=2026-11-01-more-than-family-business-drugmakers-make-costly-long-term-strategic-shi"
-      },
       {
         "id": "2026-11-01-johnson-and-johnson-announces-icotyde-icotrokinra-delivers-significant-i",
         "title": "Johnson & Johnson announces ICOTYDE® (icotrokinra) delivers significant improvement in psoriatic arthritis disease activity among biologic-naive patients with once-daily targeted oral peptide",
@@ -335,14 +317,6 @@
     "healthtech": []
   },
   "thbActions": [
-    {
-      "segment": "pharma",
-      "articleId": "2026-11-01-more-than-family-business-drugmakers-make-costly-long-term-strategic-shi",
-      "title": "More than family business: Drugmakers make costly, long-term strategic shifts as next generation steps int",
-      "source": "Economic Times Pharma",
-      "solution": "THB Commercial Analytics",
-      "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
-    },
     {
       "segment": "pharma",
       "articleId": "2026-11-01-johnson-and-johnson-announces-icotyde-icotrokinra-delivers-significant-i",
