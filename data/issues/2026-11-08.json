@@ -5,106 +5,19 @@
   "startDate": "2026-11-07T18:30:00.000Z",
   "endDate": "2026-11-13T18:30:00.000Z",
   "status": "published",
-  "updatedAt": "2026-11-26T22:30:45.637Z",
+  "updatedAt": "2026-11-27T14:09:25.542Z",
   "coverage": {
-    "pharma": 5,
+    "pharma": 0,
     "providers": 4,
     "diagnostics": 2,
     "healthtech": 0
   },
   "sourcesUsed": [
     "ET Healthworld Diagnostics",
-    "ET Healthworld Hospitals",
-    "Economic Times Pharma"
+    "ET Healthworld Hospitals"
   ],
   "segments": {
-    "pharma": [
-      {
-        "id": "2026-11-08-india-may-open-doors-to-multinational-pharma-firms-for-first-in-human-ph",
-        "title": "India may open doors to multinational pharma firms for first-in-human Phase I trials",
-        "summary": "India is considering modifications to its pharmaceutical regulatory framework to attract multinational companies for clinical trials. Discussions have commenced regarding allowing these companies to conduct Phase I trials in India. Authorities aim to enhance...",
-        "source": "Economic Times Pharma",
-        "sourceHost": "economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-11-12T00:00:00.000Z",
-        "publishedLabel": "November 12, 2026",
-        "category": "Clinical Trial",
-        "image": "https://img.etimg.com/thumb/msid-135747953,width-1200,height-900,imgsize-79528,overlay-economictimes/articleshow.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/india-may-open-doors-to-multinational-pharma-firms-for-first-in-human-phase-i-trials/articleshow/135747898.cms",
-        "articlePath": "/article.html?issue=2026-11-08&article=2026-11-08-india-may-open-doors-to-multinational-pharma-firms-for-first-in-human-ph"
-      },
-      {
-        "id": "2026-11-08-compulsory-licensing-of-drugs-only-after-exhausting-all-other-measures-d",
-        "title": "Compulsory licensing of drugs only after exhausting all other measures: Department of Pharmaceuticals secr",
-        "summary": "The government plans to address the high costs of innovative medicines by first negotiating prices. Compulsory licensing will be considered only after other alternatives are exhausted. Trade margins on high-cost drugs are being examined to enhance...",
-        "source": "Economic Times Pharma",
-        "sourceHost": "economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-11-13T19:29:00.000Z",
-        "publishedLabel": "November 14, 2026",
-        "category": "Industry Update",
-        "image": "https://img.etimg.com/thumb/msid-135815414,width-1200,height-900,imgsize-99390,overlay-economictimes/articleshow.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/compulsory-licensing-of-drugs-only-after-exhausting-all-other-measures-department-of-pharmaceuticals-secretary-manoj-joshi/articleshow/135815415.cms",
-        "articlePath": "/article.html?issue=2026-11-08&article=2026-11-08-compulsory-licensing-of-drugs-only-after-exhausting-all-other-measures-d"
-      },
-      {
-        "id": "2026-11-08-over-1-300-anti-cancer-drugs-to-get-cheaper",
-        "title": "Over 1,300 anti-cancer drugs to get cheaper",
-        "summary": "India's National Pharmaceutical Pricing Authority is set to cap trade margins on anti-cancer drugs starting November 2026. The initiative aims to save around ₹2,500 crore annually for cancer patients. The list includes 1,366 drug brands, with substantial...",
-        "source": "Economic Times Pharma",
-        "sourceHost": "economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-11-09T19:30:00.000Z",
-        "publishedLabel": "November 10, 2026",
-        "category": "Industry Update",
-        "image": "https://img.etimg.com/thumb/msid-135692221,width-1200,height-900,imgsize-91772,overlay-economictimes/articleshow.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/over-1300-anti-cancer-drugs-to-get-cheaper/articleshow/135692180.cms",
-        "articlePath": "/article.html?issue=2026-11-08&article=2026-11-08-over-1-300-anti-cancer-drugs-to-get-cheaper"
-      },
-      {
-        "id": "2026-11-08-bdr-pharma-to-acquire-acme-s-oral-solid-formulations-business",
-        "title": "BDR Pharma to acquire Acme’s oral solid formulations business",
-        "summary": "BDR Pharma will acquire a controlling stake in Acme Formulations oral solid formulations business from existing shareholders, led by private equity firm PAG. The deal will strengthen BDRs contract development and manufacturing (CDMO) platform by adding...",
-        "source": "Economic Times Pharma",
-        "sourceHost": "economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-11-09T14:35:00.000Z",
-        "publishedLabel": "November 9, 2026",
-        "category": "Manufacturing",
-        "image": "https://img.etimg.com/thumb/msid-135685176,width-1200,height-900,imgsize-49734,overlay-economictimes/articleshow.jpg",
-        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": false,
-        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/bdr-pharma-to-acquire-acmes-oral-solid-formulations-business/articleshow/135685101.cms",
-        "articlePath": "/article.html?issue=2026-11-08&article=2026-11-08-bdr-pharma-to-acquire-acme-s-oral-solid-formulations-business"
-      },
-      {
-        "id": "2026-11-08-aurobindo-pharma-arm-gets-voluntary-action-indicated-classification-for-",
-        "title": "Aurobindo Pharma arm gets 'Voluntary Action Indicated' classification for Telengana facility from USFDA",
-        "summary": "Following an inspection from September 7 to September 15, 2026, the US FDA granted Apitoria Pharma, a subsidiary of Aurobindo Pharma, a Voluntary Action Indicated classification. This classification indicates that although objectionable conditions were found...",
-        "source": "Economic Times Pharma",
-        "sourceHost": "economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-11-11T08:52:00.000Z",
-        "publishedLabel": "November 11, 2026",
-        "category": "Industry Update",
-        "image": "https://img.etimg.com/thumb/msid-135731542,width-1200,height-900,imgsize-95850,overlay-economictimes/articleshow.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/aurobindo-pharma-arm-gets-voluntary-action-indicated-classification-for-telengana-facility-from-usfda/articleshow/135731486.cms",
-        "articlePath": "/article.html?issue=2026-11-08&article=2026-11-08-aurobindo-pharma-arm-gets-voluntary-action-indicated-classification-for-"
-      }
-    ],
+    "pharma": [],
     "providers": [
       {
         "id": "2026-11-08-manipal-posts-3-399-cr-in-q2-fy27-net-profit-rises-21-6",
@@ -214,46 +127,6 @@
     "healthtech": []
   },
   "thbActions": [
-    {
-      "segment": "pharma",
-      "articleId": "2026-11-08-india-may-open-doors-to-multinational-pharma-firms-for-first-in-human-ph",
-      "title": "India may open doors to multinational pharma firms for first-in-human Phase I trials",
-      "source": "Economic Times Pharma",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
-      "segment": "pharma",
-      "articleId": "2026-11-08-compulsory-licensing-of-drugs-only-after-exhausting-all-other-measures-d",
-      "title": "Compulsory licensing of drugs only after exhausting all other measures: Department of Pharmaceuticals secr",
-      "source": "Economic Times Pharma",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
-      "segment": "pharma",
-      "articleId": "2026-11-08-over-1-300-anti-cancer-drugs-to-get-cheaper",
-      "title": "Over 1,300 anti-cancer drugs to get cheaper",
-      "source": "Economic Times Pharma",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
-    {
-      "segment": "pharma",
-      "articleId": "2026-11-08-bdr-pharma-to-acquire-acme-s-oral-solid-formulations-business",
-      "title": "BDR Pharma to acquire Acme’s oral solid formulations business",
-      "source": "Economic Times Pharma",
-      "solution": "THB Commercial Analytics",
-      "action": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams."
-    },
-    {
-      "segment": "pharma",
-      "articleId": "2026-11-08-aurobindo-pharma-arm-gets-voluntary-action-indicated-classification-for-",
-      "title": "Aurobindo Pharma arm gets 'Voluntary Action Indicated' classification for Telengana facility from USFDA",
-      "source": "Economic Times Pharma",
-      "solution": "THB Pharma CRM",
-      "action": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East."
-    },
     {
       "segment": "providers",
       "articleId": "2026-11-08-manipal-posts-3-399-cr-in-q2-fy27-net-profit-rises-21-6",
