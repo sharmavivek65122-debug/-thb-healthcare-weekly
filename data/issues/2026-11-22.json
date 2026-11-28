@@ -5,15 +5,16 @@
   "startDate": "2026-11-21T18:30:00.000Z",
   "endDate": "2026-11-27T18:30:00.000Z",
   "status": "live",
-  "updatedAt": "2026-11-27T22:15:25.034Z",
+  "updatedAt": "2026-11-28T13:26:18.643Z",
   "coverage": {
-    "pharma": 40,
+    "pharma": 41,
     "providers": 13,
-    "diagnostics": 4,
+    "diagnostics": 5,
     "healthtech": 0
   },
   "sourcesUsed": [
     "ET Healthworld",
+    "ET Healthworld Diagnostics",
     "Economic Times Pharma",
     "Express Healthcare",
     "Healthcare MEA",
@@ -126,23 +127,6 @@
         "articlePath": "/article.html?issue=2026-11-22&article=2026-11-22-drug-bodies-oppose-government-move-seeking-swift-suspension-of-licence-o"
       },
       {
-        "id": "2026-11-22-govt-approves-19-983-health-infrastructure-units-under-pm-abhim",
-        "title": "Govt approves 19,983 health infrastructure units under PM-ABHIM",
-        "summary": "Addressing a national-level orientation workshop on the National Health Mission (NHM) and PM-ABHIM in Bengaluru, Union Health Secretary Punya Salila Srivastava stressed the need to strengthen public health infrastructure, disease surveillance and emergency...",
-        "source": "ET Healthworld",
-        "sourceHost": "health.economictimes.indiatimes.com",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-11-27T02:17:44.000Z",
-        "publishedLabel": "November 27, 2026",
-        "category": "Industry Update",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-136207228,imgsize-88722,width-1200,height=627,overlay-ethealth,resizemode-75/policy/govt-approves-19983-health-infrastructure-units-under-pm-abhim.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://health.economictimes.indiatimes.com/news/policy/govt-approves-19983-health-infrastructure-units-under-pm-abhim/136207228",
-        "articlePath": "/article.html?issue=2026-11-22&article=2026-11-22-govt-approves-19-983-health-infrastructure-units-under-pm-abhim"
-      },
-      {
         "id": "2026-11-22-hetero-begins-shipments-of-generic-hiv-prevention-drug-to-africa",
         "title": "Hetero begins shipments of generic HIV prevention drug to Africa",
         "summary": "Hetero has initiated shipments of generic lenacapavir to Africa and plans to supply 300,000 vials to Zambia, Uganda, and Zimbabwe. The World Health Organization recommended lenacapavir as an HIV prevention option after successful clinical trials. Generic...",
@@ -209,6 +193,23 @@
         "justIn": false,
         "originalUrl": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/cipla-teva-get-usfda-nod-for-first-generic-flovent-hfa-asthma-inhaler/articleshow/136154076.cms",
         "articlePath": "/article.html?issue=2026-11-22&article=2026-11-22-cipla-teva-get-usfda-nod-for-first-generic-flovent-hfa-asthma-inhaler"
+      },
+      {
+        "id": "2026-11-22-global-measles-deaths-fall-to-historic-low-in-2025-who-says",
+        "title": "Global measles deaths fall to historic low in 2025, WHO says",
+        "summary": "The UN health agency estimated 9.8 million measles cases and about 72,000 deaths worldwide in 2025 - down 74% from 37.8 million cases in 2000, with deaths falling roughly 91% from about 769,000.",
+        "source": "ET Healthworld",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-11-28T01:53:18.000Z",
+        "publishedLabel": "November 28, 2026",
+        "category": "Industry Update",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-136236446,imgsize-112781,width-1200,height=627,overlay-ethealth,resizemode-75/industry/global-measles-deaths-fall-to-historic-low-in-2025-who-says.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/global-measles-deaths-fall-to-historic-low-in-2025-who-says/136236446",
+        "articlePath": "/article.html?issue=2026-11-22&article=2026-11-22-global-measles-deaths-fall-to-historic-low-in-2025-who-says"
       },
       {
         "id": "2026-11-22-rising-interest-in-gut-health-calls-for-evidence-based-interventions-con",
@@ -330,6 +331,23 @@
         "articlePath": "/article.html?issue=2026-11-22&article=2026-11-22-india-s-dermatologist-led-skincare-market-set-to-nearly-double-by-2030"
       },
       {
+        "id": "2026-11-22-aiims-bhubaneswar-named-national-training-centre-for-burn-injury-managem",
+        "title": "AIIMS-Bhubaneswar named national training centre for burn injury management",
+        "summary": "The recognition follows approval from the Union Ministry of Health and Family Welfare under the National Programme for Prevention and Management of Trauma and Burn Injuries (NPPMT&BI), they said.",
+        "source": "ET Healthworld",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-11-23T02:10:19.000Z",
+        "publishedLabel": "November 23, 2026",
+        "category": "Approval",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-136086708,imgsize-110643,width-1200,height=627,overlay-ethealth,resizemode-75/hospitals/aiims-bhubaneswar-named-national-training-centre-for-burn-injury-management.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/hospitals/aiims-bhubaneswar-named-national-training-centre-for-burn-injury-management/136086708",
+        "articlePath": "/article.html?issue=2026-11-22&article=2026-11-22-aiims-bhubaneswar-named-national-training-centre-for-burn-injury-managem"
+      },
+      {
         "id": "2026-11-22-biocon-secures-brazil-approval-for-breast-cancer-biosimilar-hertuzo",
         "title": "Biocon Secures Brazil Approval for Breast Cancer Biosimilar Hertuzo",
         "summary": "New Delhi: Biocon Ltd. has announced that Hertuzo, a biosimilar Pertuzumab licensed to its partner Bionovis, has been approved by the Brazilian regulator ANVISA for the treatment of HER2-positive...",
@@ -342,7 +360,7 @@
         "category": "Approval",
         "image": "https://medicaldialogues.in/h-upload/2024/02/09/231921-biocon-50.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/biocon-secures-brazil-approval-for-breast-cancer-biosimilar-hertuzo-184123",
         "articlePath": "/article.html?issue=2026-11-22&article=2026-11-22-biocon-secures-brazil-approval-for-breast-cancer-biosimilar-hertuzo"
       },
@@ -364,23 +382,6 @@
         "articlePath": "/article.html?issue=2026-11-22&article=2026-11-22-lupin-gets-usfda-nod-for-single-dose-dalbavancin-injection-to-treat-bact"
       },
       {
-        "id": "2026-11-22-abbvie-gets-usfda-nod-for-rinvoq-as-first-systemic-treatment-for-nonsegm",
-        "title": "AbbVie Gets USFDA Nod for Rinvoq as First Systemic Treatment for Nonsegmental Vitiligo",
-        "summary": "New Delhi: AbbVie has announced that the US Food and Drug Administration (FDA) has approved RINVOQ (upadacitinib;15 mg, once daily) for the treatment of adults and paediatric patients aged 12 years...",
-        "source": "Medical Dialogues Pharma",
-        "sourceHost": "medicaldialogues.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-11-25T14:25:18.000Z",
-        "publishedLabel": "November 25, 2026",
-        "category": "Industry Update",
-        "image": "https://medicaldialogues.in/h-upload/2023/01/12/197695-abbvie-3.jpg",
-        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": false,
-        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/abbvie-gets-usfda-nod-for-rinvoq-as-first-systemic-treatment-for-nonsegmental-vitiligo-183986",
-        "articlePath": "/article.html?issue=2026-11-22&article=2026-11-22-abbvie-gets-usfda-nod-for-rinvoq-as-first-systemic-treatment-for-nonsegm"
-      },
-      {
         "id": "2026-11-22-shilpa-medicare-receives-usfda-establishment-inspection-report-with-vai-",
         "title": "Shilpa Medicare Receives USFDA Establishment Inspection Report with VAI Classification for Hyderabad Unit",
         "summary": "Hyderabad: Shilpa Medicare Limited has received an Establishment Inspection Report (EIR) from the United States Food and Drug Administration (USFDA) with a Voluntary Action Indicated (VAI)...",
@@ -393,9 +394,26 @@
         "category": "Industry Update",
         "image": "https://medicaldialogues.in/h-upload/2023/01/10/197260-shilpa-medicare-2.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/shilpa-medicare-receives-usfda-establishment-inspection-report-with-vai-classification-for-hyderabad-unit-184126",
         "articlePath": "/article.html?issue=2026-11-22&article=2026-11-22-shilpa-medicare-receives-usfda-establishment-inspection-report-with-vai-"
+      },
+      {
+        "id": "2026-11-22-gland-pharma-gets-usfda-eir-with-no-action-indicated-status-for-visakhap",
+        "title": "Gland Pharma Gets USFDA EIR with No Action Indicated Status for Visakhapatnam Facility",
+        "summary": "Hyderabad: Gland Pharma Limited has received an Establishment Inspection Report (EIR) from the United States Food and Drug Administration (USFDA), classifying its Visakhapatnam-based VSEZ Sterile...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-11-28T12:19:15.000Z",
+        "publishedLabel": "November 28, 2026",
+        "category": "Industry Update",
+        "image": "https://medicaldialogues.in/h-upload/2026/01/31/324694-gland-pharma.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/gland-pharma-gets-usfda-eir-with-no-action-indicated-status-for-visakhapatnam-facility-184180",
+        "articlePath": "/article.html?issue=2026-11-22&article=2026-11-22-gland-pharma-gets-usfda-eir-with-no-action-indicated-status-for-visakhap"
       },
       {
         "id": "2026-11-22-suven-life-sciences-randomizes-first-patient-in-phase-3-study-of-narcole",
@@ -410,7 +428,7 @@
         "category": "Industry Update",
         "image": "https://medicaldialogues.in/h-upload/2026/06/18/354617-neet-admit-card-1.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/suven-life-sciences-randomizes-first-patient-in-phase-3-study-of-narcolepsy-drug-samelisant-184122",
         "articlePath": "/article.html?issue=2026-11-22&article=2026-11-22-suven-life-sciences-randomizes-first-patient-in-phase-3-study-of-narcole"
       },
@@ -529,7 +547,7 @@
         "category": "Launch",
         "image": "https://medicaldialogues.in/h-upload/2022/12/28/195410-hetero-new.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/hetero-launches-generic-twice-yearly-hiv-prevention-injection-in-africa-184124",
         "articlePath": "/article.html?issue=2026-11-22&article=2026-11-22-hetero-launches-generic-twice-yearly-hiv-prevention-injection-in-africa"
       },
@@ -546,7 +564,7 @@
         "category": "Industry Update",
         "image": "https://medicaldialogues.in/h-upload/2026/09/11/475113-cefepime.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/cdsco-expert-panel-recommends-late-phase-trials-of-two-haemophilia-drugs-184136",
         "articlePath": "/article.html?issue=2026-11-22&article=2026-11-22-cdsco-expert-panel-recommends-late-phase-trials-of-two-haemophilia-drugs"
       },
@@ -585,23 +603,6 @@
         "articlePath": "/article.html?issue=2026-11-22&article=2026-11-22-inducare-pharma-faces-fresh-licence-cancellation-over-substandard-drugs-"
       },
       {
-        "id": "2026-11-22-cdsco-flags-37-drug-batches-including-oxytocin-pregabalin-as-nsq",
-        "title": "CDSCO Flags 37 Drug Batches Including Oxytocin, Pregabalin as NSQ",
-        "summary": "New Delhi: Continuing its nationwide post-market surveillance and quality monitoring, the Central Drugs Standard Control Organisation (CDSCO) has flagged 37 batches of medicines, medical devices,...",
-        "source": "Medical Dialogues Pharma",
-        "sourceHost": "medicaldialogues.in",
-        "region": "India",
-        "country": "India",
-        "publishedAt": "2026-11-25T13:15:50.000Z",
-        "publishedLabel": "November 25, 2026",
-        "category": "Market",
-        "image": "https://medicaldialogues.in/h-upload/2024/01/23/230825-cdsco-drug-alert.jpg",
-        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": false,
-        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/cdsco-flags-37-drug-batches-including-oxytocin-pregabalin-as-nsq-183994",
-        "articlePath": "/article.html?issue=2026-11-22&article=2026-11-22-cdsco-flags-37-drug-batches-including-oxytocin-pregabalin-as-nsq"
-      },
-      {
         "id": "2026-11-22-usfda-extends-review-of-vertex-s-kidney-disease-drug-povetacicept-by-3-m",
         "title": "USFDA Extends Review of Vertex's Kidney Disease Drug Povetacicept by 3 Months",
         "summary": "Bengaluru: Vertex Pharmaceuticals said on Wednesday the US Food and Drug Administration has extended its review of the company's kidney disease drug by up to three months.\"The extension relates to an...",
@@ -614,7 +615,7 @@
         "category": "Industry Update",
         "image": "https://medicaldialogues.in/h-upload/2026/07/07/358238-vertex.jpg",
         "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://medicaldialogues.in/news/industry/pharma/usfda-extends-review-of-vertexs-kidney-disease-drug-povetacicept-by-3-months-184119",
         "articlePath": "/article.html?issue=2026-11-22&article=2026-11-22-usfda-extends-review-of-vertex-s-kidney-disease-drug-povetacicept-by-3-m"
       },
@@ -653,21 +654,38 @@
         "articlePath": "/article.html?issue=2026-11-22&article=2026-11-22-bristol-myers-lupus-drug-sotyktu-shows-mixed-results-in-late-stage-trial"
       },
       {
-        "id": "2026-11-22-bayer-to-pull-heart-and-kidney-drug-kerendia-from-german-market",
-        "title": "Bayer to Pull Heart and Kidney Drug Kerendia from German Market",
-        "summary": "New Delhi: Bayer said on Tuesday it would withdraw its heart and kidney drug Kerendia from Germany from December 15, a rare step it blamed on a reimbursement system that it said failed to adequately...",
+        "id": "2026-11-22-lupin-enters-us-sitagliptin-market-with-generic-version-of-merck-s-januv",
+        "title": "Lupin Enters US Sitagliptin Market with Generic Version of Merck's Januvia",
+        "summary": "Mumbai: Global pharma major Lupin on Friday said it has launched sitagliptin tablets in the US after the country's health regulator approved its abbreviated new drug application.The tablets are...",
         "source": "Medical Dialogues Pharma",
         "sourceHost": "medicaldialogues.in",
         "region": "India",
         "country": "India",
-        "publishedAt": "2026-11-25T13:32:14.000Z",
-        "publishedLabel": "November 25, 2026",
+        "publishedAt": "2026-11-28T12:37:09.000Z",
+        "publishedLabel": "November 28, 2026",
         "category": "Market",
-        "image": "https://medicaldialogues.in/h-upload/2024/01/25/230962-bayer-50-1.jpg",
-        "thbAction": "Use the article as an entry point to pitch THB's commercial visibility layer for territory planning, account prioritization, and next-best-action for pharma leadership teams.",
-        "justIn": false,
-        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/bayer-to-pull-heart-and-kidney-drug-kerendia-from-german-market-183977",
-        "articlePath": "/article.html?issue=2026-11-22&article=2026-11-22-bayer-to-pull-heart-and-kidney-drug-kerendia-from-german-market"
+        "image": "https://medicaldialogues.in/h-upload/2023/01/10/197257-lupin-4.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/lupin-enters-us-sitagliptin-market-with-generic-version-of-mercks-januvia-184182",
+        "articlePath": "/article.html?issue=2026-11-22&article=2026-11-22-lupin-enters-us-sitagliptin-market-with-generic-version-of-merck-s-januv"
+      },
+      {
+        "id": "2026-11-22-novo-nordisk-expands-wegovy-pill-rollout-to-sweden-ahead-of-year-end",
+        "title": "Novo Nordisk Expands Wegovy Pill Rollout to Sweden Ahead of Year-End",
+        "summary": "Copenhagen: Novo Nordisk will launch its Wegovy obesity pill - known chemically as semaglutide - in Sweden on December 24, the Danish drugmaker said on Friday.The pill, first launched in the US in...",
+        "source": "Medical Dialogues Pharma",
+        "sourceHost": "medicaldialogues.in",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-11-28T12:12:27.000Z",
+        "publishedLabel": "November 28, 2026",
+        "category": "Launch",
+        "image": "https://medicaldialogues.in/h-upload/2024/01/25/230934-novo-nordisk-50.jpg",
+        "thbAction": "Position THB's pharma CRM and omnichannel HCP engagement workflows to support launch planning, KAM orchestration, and compliant follow-up across India and the Middle East.",
+        "justIn": true,
+        "originalUrl": "https://medicaldialogues.in/news/industry/pharma/novo-nordisk-expands-wegovy-pill-rollout-to-sweden-ahead-of-year-end-184179",
+        "articlePath": "/article.html?issue=2026-11-22&article=2026-11-22-novo-nordisk-expands-wegovy-pill-rollout-to-sweden-ahead-of-year-end"
       },
       {
         "id": "2026-11-22-lupin-secures-usfda-approval-for-sitagliptin-metformin-diabetes-drug",
@@ -803,7 +821,7 @@
         "category": "Provider Update",
         "image": "https://media.zawya.com/prod/images/gm_preview/edcde200c30e-pura-x-whoop-2.jpg",
         "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.zawya.com/en/press-release/purehealth-and-whoop-partner-to-bring-wearable-health-insights-into-clinical-care-through-pura-2570263",
         "articlePath": "/article.html?issue=2026-11-22&article=2026-11-22-purehealth-and-whoop-partner-to-bring-wearable-health-insights-into-clin"
       },
@@ -837,7 +855,7 @@
         "category": "Expansion",
         "image": "https://media.zawya.com/prod/images/gm_preview/e26001e04fa0-cambridge-health-group-and-emirates-islamic-enter-into-aed-450-million-financing.jpg",
         "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.zawya.com/en/press-release/cambridge-health-group-and-emirates-islamic-enter-into-aed-450mln-financing-agreement-to-accelerate-growth-plans-2563825",
         "articlePath": "/article.html?issue=2026-11-22&article=2026-11-22-cambridge-health-group-and-emirates-islamic-enter-into-aed-450mln-financ"
       },
@@ -876,6 +894,23 @@
         "articlePath": "/article.html?issue=2026-11-22&article=2026-11-22-icon-oncology-opens-upgraded-radiotherapy-centre-at-life-groenkloof-hosp"
       },
       {
+        "id": "2026-11-22-oori-announces-a-strategic-partnership-with-oumla-to-advance-digital-inv",
+        "title": "OORI announces a strategic partnership with Oumla to advance digital investment infrastructure for banks and financial institutions",
+        "summary": "Partnership brings enterprise-grade technology to OORI OS, enabling institutions to deliver more transparent, secure, and efficient private market investment experiences",
+        "source": "Zawya Pharmaceuticals",
+        "sourceHost": "zawya.com",
+        "region": "Middle East",
+        "country": "Saudi Arabia",
+        "publishedAt": "2026-11-23T08:54:49.088Z",
+        "publishedLabel": "November 23, 2026",
+        "category": "Provider Update",
+        "image": "https://media.zawya.com/prod/images/gm_preview/ac382319de73-oori-x-oumla.jpg",
+        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
+        "justIn": true,
+        "originalUrl": "https://www.zawya.com/en/press-release/companies-news/oori-announces-a-strategic-partnership-with-oumla-to-advance-digital-investment-infrastructure-for-banks-and-financial-institutions-2448822",
+        "articlePath": "/article.html?issue=2026-11-22&article=2026-11-22-oori-announces-a-strategic-partnership-with-oumla-to-advance-digital-inv"
+      },
+      {
         "id": "2026-11-22-nakheel-awards-contract-worth-over-aed-1-4-billion-to-deliver-176-villas",
         "title": "Nakheel awards contract worth over AED 1.4 billion to deliver 176 villas on Palm Jebel Ali",
         "summary": "Ginco General Contracting appointed to deliver 128 Beach and 48 Coral Villas across Fronds A, B, C and D",
@@ -888,26 +923,9 @@
         "category": "Provider Update",
         "image": "https://media.zawya.com/prod/images/gm_preview/ddfa26b78ff6-palm-jebel-ali-aerial-render.jpg",
         "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": true,
+        "justIn": false,
         "originalUrl": "https://www.zawya.com/en/press-release/companies-news/nakheel-awards-contract-worth-over-aed-1.4-billion-to-deliver-176-villas-on-palm-jebel-ali-2551948",
         "articlePath": "/article.html?issue=2026-11-22&article=2026-11-22-nakheel-awards-contract-worth-over-aed-1-4-billion-to-deliver-176-villas"
-      },
-      {
-        "id": "2026-11-22-itmad-ceo-appointed-to-eiac-advisory-technical-committee",
-        "title": "ITMAD CEO appointed to EIAC Advisory Technical Committee",
-        "summary": "He serves on the committee in his personal capacity as the Representative of Accredited Inspection Bodies",
-        "source": "Zawya Pharmaceuticals",
-        "sourceHost": "zawya.com",
-        "region": "Middle East",
-        "country": "United Arab Emirates",
-        "publishedAt": "2026-11-26T10:14:18.356Z",
-        "publishedLabel": "November 26, 2026",
-        "category": "Provider Update",
-        "image": "https://assets.zawya.com/prod/assets/arrow-down-fill.d30923dc.svg",
-        "thbAction": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks.",
-        "justIn": false,
-        "originalUrl": "https://www.zawya.com/en/press-release/companies-news/itmad-ceo-appointed-to-eiac-advisory-technical-committee-2557089",
-        "articlePath": "/article.html?issue=2026-11-22&article=2026-11-22-itmad-ceo-appointed-to-eiac-advisory-technical-committee"
       },
       {
         "id": "2026-11-22-nfg-partners-launches-in-dubai-one-adviser-the-full-picture",
@@ -928,6 +946,23 @@
       }
     ],
     "diagnostics": [
+      {
+        "id": "2026-11-22-strand-life-eyes-market-share-in-multi-cancer-early-detection",
+        "title": "Strand Life Eyes Market Share in Multi-cancer Early Detection",
+        "summary": "The company estimates a ₹2,600-crore addressable opportunity at just 5% adoption, based on an eligible population of about 52 million people aged 50-75. In an independent validation cohort from Strand's 1,480-participant EMERGE case-control study -underlying...",
+        "source": "ET Healthworld Diagnostics",
+        "sourceHost": "health.economictimes.indiatimes.com",
+        "region": "India",
+        "country": "India",
+        "publishedAt": "2026-11-27T02:11:41.000Z",
+        "publishedLabel": "November 27, 2026",
+        "category": "Cancer Testing",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-136206818,imgsize-61276,width-1200,height=627,overlay-ethealth,resizemode-75/diagnostics/strand-life-eyes-market-share-in-multi-cancer-early-detection.jpg",
+        "thbAction": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention.",
+        "justIn": true,
+        "originalUrl": "https://health.economictimes.indiatimes.com/news/diagnostics/strand-life-eyes-market-share-in-multi-cancer-early-detection/136206818",
+        "articlePath": "/article.html?issue=2026-11-22&article=2026-11-22-strand-life-eyes-market-share-in-multi-cancer-early-detection"
+      },
       {
         "id": "2026-11-22-cancer-clinical-trials-what-determines-patient-access-to-new-treatments",
         "title": "Cancer clinical trials: What determines patient access to new treatments?",
@@ -1079,6 +1114,14 @@
       "source": "Express Healthcare",
       "solution": "THB Provider CRM",
       "action": "Map the news to THB's provider CRM for referral growth, patient lifecycle engagement, and multi-facility relationship management across hospital and provider networks."
+    },
+    {
+      "segment": "diagnostics",
+      "articleId": "2026-11-22-strand-life-eyes-market-share-in-multi-cancer-early-detection",
+      "title": "Strand Life Eyes Market Share in Multi-cancer Early Detection",
+      "source": "ET Healthworld Diagnostics",
+      "solution": "THB Diagnostics CRM",
+      "action": "Pitch THB's diagnostics CRM to help labs manage doctor outreach, collection-center expansion, and B2B referral relationships while improving conversion and retention."
     },
     {
       "segment": "diagnostics",
